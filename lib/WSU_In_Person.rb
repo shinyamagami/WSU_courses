@@ -1,7 +1,8 @@
 #require "WSU_In_Person/version"
 require 'nokogiri'
 require 'open-uri'
-require 'pry'
+require 'csv'
+#require 'pry'
 
 module WSUInPerson
   class Error < StandardError; end
@@ -29,14 +30,22 @@ module WSUInPerson
         prefixes << temp_prefix.text.strip
       end
       
-  #    binding.pry
+ 
       scrape_course_pages(subject_urls, prefixes)
     end
   
   
   
     def scrape_course_pages(subject_urls, prefixes)
-  
+
+
+#        csv << ["row", "of", "CSV", "data"]
+ #       csv << ["another", "row"]
+
+      csv = CSV.new("output.csv")
+      csv = CSV.open("output.csv", "wb")
+      csv << ["Prefix", "Course Title", "Class Number"]
+      
       i = 0
   
       subject_urls.each do |subject_url|
@@ -50,14 +59,14 @@ module WSUInPerson
           url = section.attribute('href').value
           section_urls << url
         end
-        puts prefixes.at(i)
+        prefix =  prefixes.at(i)
         i+=1
-        scrape_section_pages(section_urls)
+        scrape_section_pages(section_urls, prefix, csv)
       end
   
     end
   
-    def scrape_section_pages(section_urls)
+    def scrape_section_pages(section_urls, prefix, csv)
       in_persons = []
   
       section_urls.each do |section_url|
@@ -72,7 +81,8 @@ module WSUInPerson
           class_number = doc.at('.sectionInfo')
                            .at("//dt[text()='Class Number']/following-sibling::dd").text
                            #.text.string
-          puts class_name + " \t" + class_number
+          puts prefix + "\t" + class_name + "\t" + class_number
+          csv << [prefix, class_name, class_number]
         end
           #sections.each do |secion|
            # url = section.attribute('href').value
