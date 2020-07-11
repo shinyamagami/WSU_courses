@@ -22,7 +22,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+
+Run "ruby lib/WSU_In_Person.rb" and it display the list of in-person classes.
+It only exclude "WEB ARR" classes and I am not sure if it is counted as in-person or not yet. Any classes with "ARR ARR" or a room location will be displayed, I believe.
+
+
+
+
+
+
+
+
+
+
 
 ## Development
 

@@ -2,20 +2,20 @@ require_relative 'lib/WSU_In_Person/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "WSU_In_Person"
-  spec.version       = WSUInPerson::VERSION
+  spec.version       = 0.1.0
   spec.authors       = ["Shin Yamagami"]
   spec.email         = ["kiboh.usa@gmail.com"]
 
   spec.summary       = "Find in-person classes at WSU"
   spec.description   = "Find all in-person classes at WSU"
-  spec.homepage      = "https://github.comshinyamagami/"
+  spec.homepage      = "https://github.com/shinyamagami/WSU_In_Person"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.6")
 
 #  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
-#  spec.metadata["homepage_uri"] = spec.homepage
-#  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
+  spec.metadata["homepage_uri"] = spec.homepage
+  spec.metadata["source_code_uri"] = "https://github.com/shinyamagami/WSU_In_Person"
 #  spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
