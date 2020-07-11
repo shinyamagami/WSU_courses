@@ -15,8 +15,9 @@ module WSUInPerson
       doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/Pullman/20203'))
       subjects = doc.css('.prefixList').css('a')
   
-      doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/Pullman/20203'))
-      temp_prefixes = doc.css('.prefixList').css('a')
+
+      #temp_prefixes = doc.css('.prefixList').css('a')
+      temp_prefixes = subjects
   
       subject_urls = []
       prefixes = []
