@@ -15,30 +15,21 @@ module WSUInPerson
       doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/Pullman/20203'))
       subjects = doc.css('.prefixList').css('a')
   
-
-      #temp_prefixes = doc.css('.prefixList').css('a')
-      temp_prefixes = subjects
   
       subject_urls = []
       prefixes = []
-  
+
       subjects.each do |subject|
-        url = subject.attribute('href').value
-        subject_urls << url
+        subject_urls << subject.attribute('href').value
+        prefixes << subject.text.strip
       end
-  
-      temp_prefixes.each do |temp_prefix|
-        prefixes << temp_prefix.text.strip
-      end
+
       
- 
       scrape_course_pages(subject_urls, prefixes)
     end
   
   
-  
     def scrape_course_pages(subject_urls, prefixes)
-
 
 
       csv = CSV.new("output.csv")
@@ -55,17 +46,13 @@ module WSUInPerson
         
           doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{subject_url}"))
           section_links = doc.css('.class_schedule').css('.section').css('a')
-          temp_sections = doc.css('.class_schedule').css('.section').css('a')
-          
+
+
           section_links.each do |section_link|
-            url = section_link.attribute('href').value
-            section_urls << url
+            section_urls << section_link.attribute('href').value
+            sections << section_link.text.strip
           end
 
-          temp_sections.each do |temp_section|
-            sections << temp_section.text.strip
-          end
-          
           prefix =  prefixes.at(i)
           i+=1
           scrape_section_pages(section_urls, prefix, csv, sections)
@@ -79,7 +66,8 @@ module WSUInPerson
         end
       end
     end
-  
+
+    
     def scrape_section_pages(section_urls, prefix, csv, sections)
       i = 0
   
