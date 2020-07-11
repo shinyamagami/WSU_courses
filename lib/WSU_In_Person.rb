@@ -49,26 +49,34 @@ module WSUInPerson
       subject_urls.each do |subject_url|
         section_urls = []
         sections = []
-        
-        doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{subject_url}"))
-        section_links = doc.css('.class_schedule').css('.section').css('a')
-        temp_sections = doc.css('.class_schedule').css('.section').css('a')
-        
-        section_links.each do |section_link|
-          url = section_link.attribute('href').value
-          section_urls << url
-        end
 
-        temp_sections.each do |temp_section|
-          sections << temp_section.text.strip
+        begin
+        
+          doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{subject_url}"))
+          section_links = doc.css('.class_schedule').css('.section').css('a')
+          temp_sections = doc.css('.class_schedule').css('.section').css('a')
+          
+          section_links.each do |section_link|
+            url = section_link.attribute('href').value
+            section_urls << url
+          end
+
+          temp_sections.each do |temp_section|
+            sections << temp_section.text.strip
+          end
+          
+          prefix =  prefixes.at(i)
+          i+=1
+          scrape_section_pages(section_urls, prefix, csv, sections)
+
+        rescue OpenURI::HTTPError => e
+          if e.message == '404 Not Found'
+            puts subject_url.text + "cannot be opend!!"
+          else
+            raise e
+          end
         end
-        
-        
-        prefix =  prefixes.at(i)
-        i+=1
-        scrape_section_pages(section_urls, prefix, csv, sections)
       end
-  
     end
   
     def scrape_section_pages(section_urls, prefix, csv, sections)
@@ -86,9 +94,10 @@ module WSUInPerson
           class_number = doc.at('.sectionInfo')
                            .at("//dt[text()='Class Number']/following-sibling::dd").text
 
-          #puts prefix + "\t" + class_name + "\t" + sections.at(i) + "\t" + class_number
+        # puts prefix + "\t" + class_name + "\t" + sections.at(i) + "\t" + class_number
           csv << [prefix, class_name, sections.at(i), class_number]
         end
+        
         i+=1
       end
   
