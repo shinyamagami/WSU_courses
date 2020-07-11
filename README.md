@@ -1,8 +1,12 @@
 # WSUInPerson
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/WSU_In_Person`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to WSU_In_Person gem!
 
-TODO: Delete this and the text above, and describe your gem
+All non "WEB ARR" classes are in the csv file.
+Please run "ruby lib/WSU_In_Person.rb" when you want a newer csv file.
+I am not sure the definitions of in-person class and WEB ARR classes.
+So please don't trust this list.
+
 
 ## Installation
 
