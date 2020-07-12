@@ -34,18 +34,53 @@ module WSUInPerson
 
       csv = CSV.new("output.csv")
       csv = CSV.open("output.csv", "wb")
-      csv << ["Prefix", "Course Title", "Section", "Class Number"]
-      
+      csv << ["Prefix", "Course Title", "Section", "Class Number", "Time"]
+
       i = 0
-  
+
+      
       subject_urls.each do |subject_url|
         section_urls = []
         sections = []
 
         begin
-        
+          prefix =  prefixes.at(i)
+          name = ""
+          sec = ""
+          classnum = ""
+          room_spec = ""
+
           doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{subject_url}"))
           section_links = doc.css('.class_schedule').css('.section').css('a')
+
+
+          trs = doc.css('.class_schedule').css('tr')
+          trs.each do |tr|
+
+            name_on = 0
+            sec_on = 0
+
+            if tr.css('td').text.strip.start_with?(prefix)
+              name = tr.css('td').text.strip.split(' ').drop(1).join(' ')
+
+              
+            elsif tr.attr('class') == "section"
+              sec = tr.css('td').map(&:text)[1].strip
+              classnum = tr.css('td').map(&:text)[2].strip
+              room_spec = tr.css('td').map(&:text)[4].strip
+              
+
+            else
+              #skip
+            end
+            if room_spec != "WEB ARR"
+              puts name + " " + sec + " " + classnum + " " + room_spec
+              csv << [prefix, name, sec, classnum, room_spec]
+            end
+          end
+
+          
+
 
 
           section_links.each do |section_link|
@@ -53,16 +88,17 @@ module WSUInPerson
             sections << section_link.text.strip
           end
 
-          prefix =  prefixes.at(i)
-          i+=1
-          scrape_section_pages(section_urls, prefix, csv, sections)
 
+
+#          scrape_section_pages(section_urls, prefix, csv, sections)
+          i+=1
         rescue OpenURI::HTTPError => e
           if e.message == '404 Not Found'
             #puts subject_url.text + "cannot be opend!!"
           else
             raise e
           end
+          i+=1
         end
       end
     end
@@ -72,7 +108,7 @@ module WSUInPerson
       i = 0
   
       section_urls.each do |section_url|
-        #puts section_url
+
         doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{section_url}"))
         roomspec = doc.at('.sectionInfo').at('.roomspec').text.strip
   
@@ -83,7 +119,7 @@ module WSUInPerson
           class_number = doc.at('.sectionInfo')
                            .at("//dt[text()='Class Number']/following-sibling::dd").text
 
-        # puts prefix + "\t" + class_name + "\t" + sections.at(i) + "\t" + class_number
+          puts prefix + "\t" + class_name + "\t" + sections.at(i) + "\t" + class_number
           csv << [prefix, class_name, sections.at(i), class_number]
         end
         
