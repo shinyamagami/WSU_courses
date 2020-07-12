@@ -59,7 +59,7 @@ module WSUInPerson
 
         rescue OpenURI::HTTPError => e
           if e.message == '404 Not Found'
-            puts subject_url.text + "cannot be opend!!"
+            #puts subject_url.text + "cannot be opend!!"
           else
             raise e
           end
