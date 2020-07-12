@@ -7,7 +7,7 @@ Please run "ruby lib/WSU_In_Person.rb" when you want a newer csv file.
 I am not sure the definitions of in-person class and WEB ARR classes.
 So please don't trust this list.
 
-
+<!--
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -23,6 +23,8 @@ And then execute:
 Or install it yourself as:
 
     $ gem install WSU_In_Person
+
+-->
 
 ## Usage
 
