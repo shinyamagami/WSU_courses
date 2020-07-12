@@ -34,7 +34,8 @@ module WSUInPerson
 
       csv = CSV.new("output.csv")
       csv = CSV.open("output.csv", "wb")
-      csv << ["Prefix", "Course Title", "Section", "Class Number", "Time"]
+      csv << ["Prefix", "Course Title", "Section", "Class Number", "Days & Times",
+              "Bldg & Room"]
 
       i = 0
 
@@ -48,7 +49,10 @@ module WSUInPerson
           name = ""
           sec = ""
           classnum = ""
+          sched_days = ""
           room_spec = ""
+          name_on = 0
+          sec_on = 0
 
           doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{subject_url}"))
           section_links = doc.css('.class_schedule').css('.section').css('a')
@@ -57,26 +61,41 @@ module WSUInPerson
           trs = doc.css('.class_schedule').css('tr')
           trs.each do |tr|
 
-            name_on = 0
-            sec_on = 0
+
 
             if tr.css('td').text.strip.start_with?(prefix)
               name = tr.css('td').text.strip.split(' ').drop(1).join(' ')
 
-              
-            elsif tr.attr('class') == "section"
+            end
+
+            if tr.attr('class') == "section" || tr.attr('class') == "section subdued"
               sec = tr.css('td').map(&:text)[1].strip
               classnum = tr.css('td').map(&:text)[2].strip
-              room_spec = tr.css('td').map(&:text)[4].strip
-              
+              sched_days = tr.css('td').map(&:text)[4].strip
+              begin
+                room_spec = tr.css('td').map(&:text)[5].strip
+              rescue NoMethodError => e
+              rescue => e
+              end
+              sec_on = 1
+            end
 
-            else
+            if !(tr.css('td').text.strip.start_with?(prefix)) && !(tr.attr('class') == "section")
               #skip
             end
-            if room_spec != "WEB ARR"
-              puts name + " " + sec + " " + classnum + " " + room_spec
-              csv << [prefix, name, sec, classnum, room_spec]
+
+            if room_spec != "WEB ARR" && sec_on == 1
+              puts name + " " + sec + " " + classnum + " " + sched_days + " " + room_spec
+              csv << [prefix, name, sec, classnum, sched_days, room_spec]
+
+              sec = ""
+              classnum = ""
+              sched_days = ""
+              room_spec = ""
+
+              sec_on = 0
             end
+            sec_on = 0
           end
 
           
