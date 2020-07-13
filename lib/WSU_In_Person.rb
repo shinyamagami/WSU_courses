@@ -151,6 +151,5 @@ module WSUInPerson
     end
   end
   
-  #scrape = WSUInPerson.new
-  #scrape.scrape_subject_urls
+
 end
