@@ -38,7 +38,7 @@ module WSUInPerson
 
 #      csv = CSV.new("output.csv")
 #      csv = CSV.open("output.csv", "wb")
-      csv << ["Prefix", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
+      csv << ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
               "Bldg & Room"]
 
       i = 0
@@ -51,6 +51,7 @@ module WSUInPerson
         begin
           prefix =  prefixes.at(i)
           name = ""
+          course_number = ""
           sec = ""
           classnum = ""
           credit = ""
@@ -69,7 +70,12 @@ module WSUInPerson
 
 
             if tr.css('td').text.strip.start_with?(prefix)
-              name = tr.css('td').text.strip.split(' ').drop(1).join(' ')
+  
+              temp_name = tr.css('td').text.strip.split(' ').drop(1).join(' ')
+              course_number = temp_name.split.first
+              name = temp_name.split(' ').drop(1).join(' ')
+              #name = tr.css('td').text.strip.split(' ').drop(1).join(' ').second
+              
             end
 
             if tr.attr('class') == "section" || tr.attr('class') == "section subdued"
@@ -90,8 +96,8 @@ module WSUInPerson
             end
 
             if room_spec != "WEB ARR" && sec_on == 1
-              puts name + " " + sec + " " + classnum + " " + credit + " " + sched_days + " " + room_spec
-              csv << [prefix, name, sec, classnum, credit, sched_days, room_spec]
+              puts course_number + " " + name + " " + sec + " " + classnum + " " + credit + " " + sched_days + " " + room_spec
+              csv << [prefix, course_number, name, sec, classnum, credit, sched_days, room_spec]
 
               sec = ""
               classnum = ""
