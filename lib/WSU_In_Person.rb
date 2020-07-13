@@ -9,27 +9,61 @@ module WSUInPerson
   
   class WSUInPerson
 
-    
-    def scrape_subject_urls(campus)
+    def get_campus
+      campuses = ["Pullman", "Spokane", "Tri-Cities", "Vancouver", "Everett", "DDP"]
 
-      csv = CSV.new(campus + ".csv")
-      csv = CSV.open(campus + ".csv", "wb")
+      puts "From which campus do you want to get?\n
+      1.Pullman\n
+      2.Spokane\n
+      3.Tri-Cities\n
+      4.Vancouver\n
+      5.Everett\n
+      6.Global\n
+      7.All\n"
 
-      doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/20203'))
 
-      subjects = doc.css('.prefixList').css('a')
-  
-  
-      subject_urls = []
-      prefixes = []
+      temp_campus = gets.chomp
 
-      subjects.each do |subject|
-        subject_urls << subject.attribute('href').value
-        prefixes << subject.text.strip
+
+      if temp_campus == "1"
+        campuses = campuses.values_at(0)
+      elsif temp_campus == "2"
+        campuses = campuses.values_at(1)
+      elsif temp_campus == "3"
+        campuses = campuses.values_at(2)
+      elsif temp_campus == "4"
+        campuses = campuses.values_at(3)
+      elsif temp_campus == "5"
+        campuses = campuses.values_at(4)
+      elsif temp_campus == "6"
+        campuses = campuses.values_at(5)
+      else
       end
 
-      
-      scrape_course_pages(subject_urls, prefixes, csv)
+      puts campuses
+      return campuses
+    end
+
+    def scrape_subject_urls(campuses)
+
+      campuses.each do |campus|
+        csv = CSV.new(campus + ".csv")
+        csv = CSV.open(campus + ".csv", "wb")
+
+        doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/20203'))
+
+        subjects = doc.css('.prefixList').css('a')
+    
+        subject_urls = []
+        prefixes = []
+
+        subjects.each do |subject|
+          subject_urls << subject.attribute('href').value
+          prefixes << subject.text.strip
+        end
+        
+        scrape_course_pages(subject_urls, prefixes, csv)
+      end
     end
   
   

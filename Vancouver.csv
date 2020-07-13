@@ -29,7 +29,6 @@ B_A,102,Exploring Careers in Business,01,12773,1,"W,F9.10-10.25",VMMC 16
 B_A,102,Exploring Careers in Business,03,15456,1,"W,F9.10-10.25",VMMC 16
 B_A,211,"Ethics, Teams, and Innovation",01,12776,3,"M,W14.50-16.05",VMMC 22
 B_A,211,"Ethics, Teams, and Innovation",02,14683,3,ARRGT,ARR ARR
-B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,12775,3,"TU,TH12-13.15",VMMC 22
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,14686,3,ARRGT,ARR ARR
 B_LAW,210,Law and the Legal Environment of Business,01,02399,3,"M,W16.15-17.30",VECS 105
 BIOLOGY,101,[BSCI] Biology of Humans,01,02600,3,ARRGT,ARR ARR
@@ -49,7 +48,6 @@ BIOLOGY,585,Professional Development and Training for College and University Tea
 BIOLOGY,589,Advanced Topics in Biology,01,03233,1,W12.10-13,AMS VAN
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,02580,V,ARRGT,ARR ARR
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,02581,V,ARRGT,ARR ARR
-CES,314,[M] Topics in Asian Pacific American Literature,01,13429,3,"M,W10.35-11.50",VLIB 265
 CHEM,103,Concepts in Chemistry,01,03144,4,ARRGT,ARR ARR
 CHEM,103,Concepts in Chemistry,01 Lab,15529,0,ARRGT,ARR ARR
 CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,02685,0,W14.50-17.30,VCLS 50
@@ -83,8 +81,10 @@ CS,121,Program Design and Development,01 Lab,02820,0,TU14.50-17.20,VECS 325
 CS,121,Program Design and Development,02 Lab,02821,0,W10.35-13.05,VECS 325
 CS,121,Program Design and Development,03 Lab,02822,0,TH14.50-17.20,VECS 325
 CS,121,Program Design and Development,04 Lab,02873,0,F10.35-13.05,VECS 325
+CS,215,Data Analytics Systems and Algorithms,01,02990,3,ARRGT,ARR ARR
 CS,223,Advanced Data Structures,01,02770,3,"M,W,F13.25-14.15",VECS 104
 CS,260,Computer Organization,01,02771,3,"M,W10.35-11.50",VECS 122
+CS,315,Introduction to Data Mining,01,13652,3,ARRGT,ARR ARR
 CS,317,Automata and Formal Languages,01,02772,3,"TU,TH12-13.15",VUB 1
 CS,317,Automata and Formal Languages,02,15410,3,"TU,TH13.25-14.40",VMMC 16
 CS,320,[M] Fundamentals of Software Engineering,01,02773,3,"M,W10.35-11.50",VMMC 6
@@ -190,39 +190,22 @@ ED_RES,564,Qualitative Research,01,03160,3,TU16.10-19,VMMC 102Q
 ED_RES,565,Quantitative Research,01,02854,3,TU17.45-20.30,VECS 309
 ED_RES,571,Doctoral Dissertation Preparation,01,02575,3,W17.45-20.30,VECS 120
 ED_RES,571,Doctoral Dissertation Preparation,02,13536,3,M17.45-20.30,VUB 311
-ENGLISH,100,Introductory College Composition,01,02548,3,"M,W9.10-10.25",VUB 122
-ENGLISH,101,[WRTG] College Composition,02,02577,3,"M,W10.35-11.50",VUB 122
-ENGLISH,101,[WRTG] College Composition,03,02578,3,"M,W12-13.15",VUB 122
-ENGLISH,101,[WRTG] College Composition,04,02882,3,"M,W14.50-16.05",VUB 122
-ENGLISH,101,[WRTG] College Composition,06,02946,3,"TU,TH13.25-14.40",VUB 122
-ENGLISH,101,[WRTG] College Composition,07,03018,3,"TU,TH14.50-16.05",VUB 122
-ENGLISH,102,Writing Tutorial,01,03110,1,M9.10-10,GUC VAN
-ENGLISH,102,Writing Tutorial,02,03111,1,M12-12.50,VUB 124
-ENGLISH,102,Writing Tutorial,03,03112,1,TU12-12.50,VUB 122
-ENGLISH,102,Writing Tutorial,05,03114,1,W9.10-10,GUC VAN
-ENGLISH,102,Writing Tutorial,06,03115,1,W12-12.50,VUB 124
-ENGLISH,102,Writing Tutorial,08,03117,1,F10.35-11.25,VUB 122
+ENGLISH,101,[WRTG] College Composition,07,03018,3,ARRGT,ARR ARR
 ENGLISH,102,Writing Tutorial,09,03118,1,ARRGT,ARR ARR
-ENGLISH,110,[HUM] Reading Now,01,13179,3,TU17.45-20.30,VUB 222
 ENGLISH,201,[WRTG] Writing and Research,01,03034,3,"M,W12-13.15",VMMC 23
-ENGLISH,202,Grammar in Context,01,02735,1,TU10.35-11.25,VUB 222
-ENGLISH,251,Introduction to Creative Writing: Exploring the Genres,01,02549,3,"TU,TH13.30-14.45",AMS VAN
-ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,02550,3,"TU,TH13.25-14.40",VLIB 201
 ENGLISH,302,[M] Introduction to English Studies,02,03215,3,ARRGT,ARR ARR
 ENGLISH,305,[HUM] Shakespeare,01,13180,3,"M,W13.25-14.40",VLIB 201
 ENGLISH,309,Women Writers,01,13445,3,"TU,TH14.50-16.05",VUB 222
-ENGLISH,314,[M] Topics in Asian Pacific American Literature,01,13430,3,"M,W10.35-11.50",VLIB 265
-ENGLISH,323,Approaches to the Teaching of English,01,02552,3,"TU,TH16.15-17.30",VUB 122
-ENGLISH,325,Young Adult Literature,01,02553,3,"M,W16.15-17.30",VLIB 260
+ENGLISH,323,Approaches to the Teaching of English,01,02552,3,"TU,TH16.15-17.30",GUC VAN
+ENGLISH,325,Young Adult Literature,01,02553,3,"M,W16.15-17.30",GUC VAN
 ENGLISH,339,[ARTS] Topics in Film as Literature,01,14786,3,ARRGT,ARR ARR
 ENGLISH,339,[ARTS] Topics in Film as Literature,01 Lab,14787,0,ARRGT,ARR ARR
 ENGLISH,361,Everyday Rhetorics,01,03173,3,ARRGT,ARR ARR
 ENGLISH,370,"The Making of English: Literature, Language and Culture Before 1600",01,02554,3,"TU,TH12.05-13.20",VECS 105
-ENGLISH,372,[HUM] 19th Century Literature of the British Empire and the Americas,01,02555,3,"TU,TH13.25-14.40",VLIB 261
+ENGLISH,372,[HUM] 19th Century Literature of the British Empire and the Americas,01,02555,3,ARRGT,ARR ARR
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,22,03188,3,ARRGT,ARR ARR
 ENGLISH,405,Advanced Professional Writing and Editing,01,15513,3,ARRGT,ARR ARR
 ENGLISH,451,[M] Advanced Creative Writing: Fiction,01,02892,3,W17.45-20.30,VLIB 260
-ENGLISH,494,[CAPS] [M] Advanced Topics in Literature,01,13427,3,"M,W14.50-16.05",VUB 126
 ENGLISH,498,Internship,01,02533,V,ARRGT,ARR ARR
 ENGLISH,499,Special Problems,01,02534,V,ARRGT,ARR ARR
 ENGLISH,800,"Doctoral Research, Dissertation, and/or Examination",01,03032,V,ARRGT,ARR ARR
@@ -232,11 +215,9 @@ ENTRP,492,[CAPS] Small Business Strategy and Planning,01,02408,3,M11.10-14,VMMC 
 ENTRP,492,[CAPS] Small Business Strategy and Planning,02,02433,3,M18-20.45,VUB 225
 ENTRP,499,Special Problems,01,13435,1,"M,W13.25-14.40",VMMC 217
 FIN,223,[QUAN] Personal Finance,01,02400,3,"M,W16.15-17.30",VUB 225
-FIN,325,Introduction to Financial Management,01,02409,3,"TU,TH10.35-11.50",VECS 104
 FIN,325,Introduction to Financial Management,02,02410,3,TU18-20.45,VUB 225
 FIN,345,Real Estate,01,02431,3,ARRGT,ARR ARR
 FIN,346,Washington Real Estate Regulations,01,13486,1,ARRGT,ARR ARR
-FIN,421,Financial Institutions and Intermediation,01,02401,3,"TU,TH13.25-14.40",VMMC 22
 FIN,427,[M] Investment Analysis,01,02402,3,TU18-20.45,VMMC 22
 FIN,481,[M] International Finance,01,03052,3,TU12-13.15,VUB 225
 FINE_ART,102,[ARTS] 2D Art and Design,01,02959,3,"M,W14.10-16.50",VMMC 103
@@ -308,13 +289,6 @@ MATH,103,Algebra Methods and Introduction to Functions,04,03020,3,ARRGT,ARR ARR
 MATH,110,Mathematics Acceleration,01,02722,1,ARRGT,ARR ARR
 MATH,115,Math 105 Tutorial,01,14805,2,ARRGT,ARR ARR
 MATH,116,Math 106 Tutorial,01,03249,2,ARRGT,ARR ARR
-MATH,171,[QUAN] Calculus I,01,02738,4,"M,W,F9.10-10",VUB 1
-MATH,171,[QUAN] Calculus I,01 Lab,02739,0,M13.25-14.40,VUB 202
-MATH,171,[QUAN] Calculus I,W13.25-14.40,VMMC 1,Aug 24--Dec 11, ,""
-MATH,171,[QUAN] Calculus I,02 Lab,02740,0,TU9.10-10.25,VUB 202
-MATH,171,[QUAN] Calculus I,TH9.10-10.25,VMMC 1,Aug 24--Dec 11, ,""
-MATH,171,[QUAN] Calculus I,03 Lab,02864,0,TU10.35-11.50,VUB 202
-MATH,171,[QUAN] Calculus I,TH10.35-11.50,VUB 226,Aug 24--Dec 11, ,""
 MATH,172,Calculus II,01,02741,4,"M,W,F9.10-10",VMMC 22
 MATH,172,Calculus II,01 Lab,02742,0,TU9.10-10.25,VMMC 1
 MATH,172,Calculus II,TH9.10-10.25,VUB 202,Aug 24--Dec 11, ,""
@@ -388,15 +362,12 @@ MECH,700,"Master's Research, Thesis, and/or Examination",01,02785,V,ARRGT,ARR AR
 MED_CLIN,522,Longitudinal Integrated Clerkship II,01,03247,14,ARRGT,ARR ARR
 MED_LMH,521,Quality and Safety in Healthcare: Medical Errors,01,03248,1,ARRGT,ARR ARR
 MED_LMH,531,Personal Leadership Development I,01,16306,1,ARRGT,ARR ARR
-MGMT,301,Principles of Management and Organization,01,02418,3,"M,W13.25-14.40",VMMC 22
 MGMT,301,Principles of Management and Organization,02,02419,3,TH18-20.45,VMMC 22
 MGMT,401,Leading People and Organizations,01,02417,3,TH18-20.45,VUB 121
 MGMT,456,[M] Evaluating and Rewarding Employees,01,02426,3,TU18-20.45,VMMC 23
-MGMT,483,[M] Management of Innovation and Change,01,02439,3,"M,W9.10-10.25",VUB 121
 MGMT,485,[M] Negotiation Skills,01,02427,3,"M,W14.50-16.05",VUB 121
 MGMT,485,[M] Negotiation Skills,02,02440,3,W18-20.45,VUB 125
 MGMT,487,Business Ethics and Corporate Responsibility,01,02428,3,"M,W16.15-17.30",VUB 121
-MGMT,496,Seminar,01,12983,3,"M,W12-13.15",VMMC 214
 MGTOP,215,Business Statistics,01,02420,4,"TU,TH16.15-17.30",VUB 121
 MGTOP,215,Business Statistics,01 Lab,02421,0,"TU,TH17.45-18.40",VUB 100
 MGTOP,340,Operations Management,01,02441,3,TU16.15-17.30,VMMC 22
@@ -432,8 +403,6 @@ MKTG,360,Marketing,01,02414,3,M16.15-17.30,VMMC 22
 MKTG,360,Marketing,02,02415,3,W10.35-11.50,VECS 105
 MKTG,379,Professional Sales,01,02416,3,"M,W14.50-16.05",VUB 107
 MKTG,407,Consumer Behavior,01,02413,3,"M,W9.10-10.25",VECS 105
-MKTG,480,Business to Business Marketing,01,03060,3,W18-20.45,VUB 225
-MKTG,495,[M] Marketing Management,01,02407,3,W11.10-14,VUB 225
 NEUROSCI,138,Neuroscience Seminar,01,03162,1,M9.10-10,VMMC 16
 NEUROSCI,333,Techniques and Experimental Design in Neuroscience Research,01,02860,4,"TU,TH10.35-11.50",GUC VAN
 NEUROSCI,333,Techniques and Experimental Design in Neuroscience Research,01 Lab,02861,0,M14.50-17.30,VSCI 114
@@ -592,6 +561,7 @@ STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,02765,0,"TU,TH9.10-10
 STAT,360,Probability and Statistics,01,02766,3,"TU,TH9.10-10.25",VMMC 219
 STAT,360,Probability and Statistics,02,02767,3,"TU,TH10.35-11.50",VMMC 23
 STAT,360,Probability and Statistics,03,02928,3,"TU,TH13.25-14.40",VMMC 23
+STAT,419,Introduction to Multivariate Statistics,01,13922,3,ARRGT,ARR ARR
 STAT,423,Statistical Methods for Engineers and Scientists,01,02768,3,"W,F10.35-11.50",VECS 125
 STAT,435,[M] Statistical Modeling for Data Analytics,02,15431,3,"M,W14.10-15",VECS 209
 STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,15432,0,F15.10-17,VECS 120

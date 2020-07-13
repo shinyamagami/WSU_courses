@@ -1,5 +1,4 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room
-ACCTG,230,Introduction to Financial Accounting,04,06472,3,"M,W,F15.10-16",TODD 120
 ACCTG,231,Introduction to Managerial Accounting,01,06473,3,"M,W,F8.10-9",TODD 420
 ACCTG,231,Introduction to Managerial Accounting,02,06474,3,"M,W,F10.10-11",TODD 334
 ACCTG,231,Introduction to Managerial Accounting,03,09916,3,"M,W,F14.10-15",TODD 420
@@ -11,7 +10,6 @@ ACCTG,331,Intermediate Accounting II,02,09260,3,"TU,TH12.05-13.20",TODD 230
 ACCTG,335,Taxation of Business Entities and Individuals,01,06478,3,"TU,TH9.10-10.25",TODD 430
 ACCTG,338,Cost Accounting,01,06480,3,"TU,TH12.05-13.20",TODD 204
 ACCTG,433,[M] Accounting Systems and Auditing,01,06482,3,"M,W,F13.10-14",TODD 334
-ACCTG,433,[M] Accounting Systems and Auditing,02,06483,3,"M,W,F12.10-13",CUE 202
 ACCTG,435,Individual Income Taxes,01,09577,3,"M,W,F9.10-10",TODD 204
 ACCTG,498,Accounting Internship,01,06485,V,ARRGT,ARR ARR
 ACCTG,499,Special Problems,01,06486,V,ARRGT,ARR ARR
@@ -44,7 +42,6 @@ AG_ED,471,Student Organizations in Agricultural Education,01,05347,2,"M,W,F9.10-
 AG_ED,497,Internship in Agricultural Education,01,05348,V,ARRGT,ARR ARR
 AG_ED,497,Internship in Agricultural Education,02,09543,V,ARRGT,ARR ARR
 AG_ED,499,Special Problems,01,05349,V,ARRGT,ARR ARR
-AGRI,562,Advanced Topics,01,08331,V,ARRGT,ARR ARR
 AGRI,587,Research and Extension Communications in Agriculture,01,05633,3,ARRGT,ARR ARR
 AGRI,700,"Master's Research, Thesis, and/or Examination",01,05634,V,ARRGT,ARR ARR
 AGRI,702,"Master's Special Problems, Directed Study, and/or Examination",01,05635,V,ARRGT,ARR ARR
@@ -69,7 +66,7 @@ AIS,331,[SSCI] Archaeology of the Americas,01,11996,3,ARRGT,ARR ARR
 AIS,401,Tribal Nation Building Leadership - Research I,01,09948,2,ARRGT,ARR ARR
 AMDT,105,"Introductory College Seminar in Apparel, Merchandising, Design, and Textiles",01,07758,1,M9.10-10,JSNH C0001
 AMDT,210,[PSCI] Textiles,08 Lab,16419,0,W16.10-19,CUE 319
-AMDT,211,Apparel Assembly,01,06623,3,"W,F9.10-11.40",JSNH C0112
+AMDT,211,Apparel Assembly,01,06623,3,"TU,TH11.50-13.20",JSNH C0112
 AMDT,211,Apparel Assembly,02,10007,3,"TU,TH13.30-16",JSNH C0112
 AMDT,230,Creating Visual Advertising in Fashion,01,08478,3,"TU,TH10.35-11.50",JSNH C0001
 AMDT,308,Visual Merchandising and Promotion,01 Lab,09232,0,W16.10-18,JSNH 22
@@ -210,7 +207,6 @@ ANTH,498,Anthropology Internship,01,07205,V,ARRGT,ARR ARR
 ANTH,499,Special Problems,01,07206,V,ARRGT,ARR ARR
 ANTH,500,Field Methods,01,08703,V,ARRGT,ARR ARR
 ANTH,539,Prehistory of the Southwest,01,13452,3,ARRGT,ARR ARR
-ANTH,600,Special Projects or Independent Study,01,10091,V,ARRGT,ARR ARR
 ANTH,600,Special Projects or Independent Study,02,07209,V,ARRGT,ARR ARR
 ANTH,700,"Master's Research, Thesis, and/or Examination",01,07210,V,ARRGT,ARR ARR
 ANTH,800,"Doctoral Research, Dissertation, and/or Examination",01,07211,V,ARRGT,ARR ARR
@@ -267,12 +263,6 @@ B_A,202,Teams,03,11935,1,"TU,TH12.05-13.20",CUE 419
 B_A,202,Teams,04,11936,1,"TU,TH13.30-14.45",SPRK G0010
 B_A,202,Teams,05,11937,1,"TU,TH13.30-14.45",SPRK G0010
 B_A,202,Teams,06,11938,1,"TU,TH13.30-14.45",SPRK G0010
-B_A,203,Innovation,01,11942,1,"TU,TH12.05-13.20",CUE 219
-B_A,203,Innovation,02,11943,1,"TU,TH12.05-13.20",CUE 219
-B_A,203,Innovation,03,11944,1,"TU,TH12.05-13.20",CUE 219
-B_A,203,Innovation,04,11945,1,"TU,TH13.30-14.45",SPRK 235
-B_A,203,Innovation,05,11946,1,"TU,TH13.30-14.45",SPRK 235
-B_A,203,Innovation,06,11947,1,"TU,TH13.30-14.45",SPRK 235
 B_A,204,Spreadsheets,01,14896,1,"M,W,F10.10-11",TODD 330
 B_A,204,Spreadsheets,02,14897,1,"M,W,F11.10-12",TODD 330
 B_A,204,Spreadsheets,03,14907,1,"M,W,F13.10-14",TODD 330
@@ -440,6 +430,8 @@ CES,271,[HUM] Native Music of North America,01,05995,3,"M,W,F14.10-15",KIMB 346
 CES,271,[HUM] Native Music of North America,02,07666,3,ARRGT,ARR ARR
 CES,332,[DIVR] [M] Topics in African American Literature,01,04492,3,"TU,TH12.05-13.20",CUE 203
 CES,499,Directed Independent Study,01,06282,V,ARRGT,ARR ARR
+CHE,101,Overview of Chemical Engineering,01,09881,1,W9.10-10,""
+CHE,101,Overview of Chemical Engineering,02,09882,1,M15.10-16,WEGN G070C
 CHE,310,Introduction to Transport Processes,02,15628,3,"M,W,F15.10-16",SPRK 227
 CHE,432,[M] Chemical Engineering Lab I,01 Lab,04462,0,"TU,TH9.10-12",ETRL 4
 CHE,432,[M] Chemical Engineering Lab I,02 Lab,04463,0,"TU,TH14.25-17.15",ETRL 4
@@ -701,12 +693,9 @@ CHEM,700,"Master's Research, Thesis, and/or Examination",01,03394,V,ARRGT,ARR AR
 CHEM,702,"Master's Special Problems, Directed Study, and/or Examination",01,03395,V,ARRGT,ARR ARR
 CHEM,800,"Doctoral Research, Dissertation, and/or Examination",01,03396,V,ARRGT,ARR ARR
 CHINESE,101,First Semester,01,09528,4,"M,TU,W,TH9.10-10",ARR ARR
-CHINESE,105,Elementary Conversation,01,08335,1,F11.10-12,THOM 119
 CHINESE,121,[HUM] Modern Chinese Culture,01,08338,3,"TU,TH10.35-11.50",TDAD 276
 CHINESE,203,Third Semester,01 Lab,05697,0,ARRGT,ARR ARR
-CHINESE,205,Intermediate Conversation I,01,08339,1,F12.10-13,THOM 19
 CHINESE,305,Intermediate Conversation II,01,08340,1,ARRGT,ARR ARR
-CHINESE,306,Intermediate Reading and Translation,01,09530,3,"M,W,F13.10-14",AVER 106
 CHINESE,322,[DIVR] Ecology in East Asian Cultures,01,09094,3,"TU,TH14.55-16.10",HLD G0003
 CHINESE,499,Special Problems,01,09377,V,ARRGT,ARR ARR
 COM,100,Grammar and Editing for Communication,01,07660,2,"M,W,F12.10-13",GTZN 1
@@ -722,10 +711,10 @@ COM,415,Media Law,01,07212,3,ARRGT,ARR ARR
 COM,420,New Communication Technologies,01,06929,3,ARRGT,ARR ARR
 COM,464,Gender and the Media,01,07609,3,ARRGT,ARR ARR
 COM,475,Communication Seminar,02,09142,3,ARRGT,ARR ARR
-COM,475,Communication Seminar,03,09143,3,"TU,TH7.45-9",GTZN 117
+COM,475,Communication Seminar,03,09143,3,"TU,TH7.45-9",GTZN 1
 COM,479,Youth and the Media,01,06934,3,ARRGT,ARR ARR
 COM,495,Communication Professional Internship,01,06935,V,ARRGT,ARR ARR
-COM,497,Practicum in Communication,01,08096,V,"TU,TH14.55-16.10",GTZN 117
+COM,497,Practicum in Communication,01,08096,V,"TU,TH14.55-16.10",GTZN 1
 COM,497,Practicum in Communication,02,08097,V,ARRGT,ARR ARR
 COM,497,Practicum in Communication,03,08098,V,ARRGT,ARR ARR
 COM,497,Practicum in Communication,04,08252,V,ARRGT,ARR ARR
@@ -775,15 +764,15 @@ COMSTRAT,312,Principles of Public Relations,02,08568,3,ARRGT,ARR ARR
 COMSTRAT,312,Principles of Public Relations,03,16354,3,ARRGT,ARR ARR
 COMSTRAT,380,Advertising Principles and Practices,02,05880,3,ARRGT,ARR ARR
 COMSTRAT,380,Advertising Principles and Practices,03,16355,3,ARRGT,ARR ARR
-COMSTRAT,381,[M] Creative Media Strategies and Techniques for Advertising,01,05881,3,"M,W,F10.10-11",SPRK 333
-COMSTRAT,381,[M] Creative Media Strategies and Techniques for Advertising,02,05882,3,"M,W,F14.10-15",BRYN 305
-COMSTRAT,381,[M] Creative Media Strategies and Techniques for Advertising,03,08874,3,"TU,TH9.10-10.25",GTZN 117
+COMSTRAT,381,[M] Creative Media Strategies and Techniques for Advertising,01,05881,3,"M,W,F10.10-11",GTZN 1
+COMSTRAT,381,[M] Creative Media Strategies and Techniques for Advertising,02,05882,3,"M,W,F14.10-15",GTZN 1
+COMSTRAT,381,[M] Creative Media Strategies and Techniques for Advertising,03,08874,3,"TU,TH9.10-10.25",GTZN 1
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,05884,3,"M,W,F8.10-9",SPRK 323
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,02,05885,3,"M,W,F9.10-10",SPRK 235
 COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,15272,3,"TU,TH14.55-16.10",BRYN 305
 COMSTRAT,476,Consumer Insights and Branding,02,10013,3,ARRGT,ARR ARR
-COMSTRAT,480,[M] Advertising Agency Operation and Campaigns,01,12043,3,"TU,TH10.35-11.50",TODD 204
-COMSTRAT,480,[M] Advertising Agency Operation and Campaigns,02,05888,3,"TU,TH12.05-13.20",GTZN 117
+COMSTRAT,480,[M] Advertising Agency Operation and Campaigns,01,12043,3,"TU,TH10.35-11.50",GTZN 1
+COMSTRAT,480,[M] Advertising Agency Operation and Campaigns,02,05888,3,"TU,TH12.05-13.20",GTZN 1
 COMSTRAT,485,[M] Public Relations Management and Campaigns,02,05890,3,"M,W,F11.10-12",GTZN 1
 COMSTRAT,485,[M] Public Relations Management and Campaigns,03,07985,3,"TU,TH13.30-14.45",""
 COMSTRAT,499,Special Problems,01,05891,V,ARRGT,ARR ARR
@@ -837,7 +826,6 @@ CPT_S,131,Program Design and Development Java,02 Lab,15502,0,ARRGT,ARR ARR
 CPT_S,215,Data Analytics Systems and Algorithms,02,15503,3,"TU,TH7.45-9",SPRK 335
 CPT_S,233,Advanced Data Structures Java,01,07947,3,"M,W,F13.10-14",""
 CPT_S,315,Introduction to Data Mining,01,09211,3,ARRGT,ARR ARR
-CPT_S,370,Systems Programming Java,01,08970,4,"TU,TH10.35-11.50",EME B0046
 CPT_S,370,Systems Programming Java,01 Lab,08971,0,W19.10-22,EME B0046
 CPT_S,421,Software Design Project I,01 Lab,09483,0,ARRGT,ARR ARR
 CPT_S,423,[CAPS] Software Design Project II,01 Lab,07133,0,ARRGT,ARR ARR
@@ -1468,14 +1456,10 @@ FIN,325,Introduction to Financial Management,07,08905,3,M15.10-18,TODD 439
 FIN,330,Introduction to Financial Wellbeing,01,14841,3,"M,W,F11.10-12",TODD 303
 FIN,345,Real Estate,01,05930,3,"M,W,F9.10-10",CUE 219
 FIN,346,Washington Real Estate Regulations,01,08210,1,ARRGT,ARR ARR
-FIN,350,Risk and Insurance,01,05931,3,"TU,TH10.35-11.50",TODD 216
-FIN,425,[M] Intermediate Financial Management,01,05934,3,"TU,TH9.10-10.25",TODD 420
-FIN,425,[M] Intermediate Financial Management,02,05935,3,"TU,TH10.35-11.50",TODD 420
 FIN,427,[M] Investment Analysis,02,05937,3,"M,W,F13.10-14",TODD 420
 FIN,430,Financial Plan Development,01,14843,3,"M,W,F13.10-14",TODD 234
 FIN,437,[M] Cougar Investment Fund I,01,09512,3,"M,W,F10.10-11",TODD 330
 FIN,456,Risk Management,01,05938,3,"TU,TH12.05-13.20",TODD 120
-FIN,481,[M] International Finance,01,05939,3,"M,W,F12.10-13",TODD 311
 FIN,500,Macroeconomic Theory I,01,04768,3,"M,W10.45-12",SPRK G0010
 FIN,501,Microeconomic Theory I,01,04770,3,"M,W9.10-10.25",SPRK 212
 FIN,510,Statistics for Economists,01,04773,3,"TU,TH9.10-10.25",HULB 23
@@ -1591,7 +1575,6 @@ H_D,205,[COMM] Developing Effective Communication and Life Skills,03 Lab,05134,0
 H_D,205,[COMM] Developing Effective Communication and Life Skills,06 Lab,08801,0,ARRGT,ARR ARR
 H_D,205,[COMM] Developing Effective Communication and Life Skills,07 Lab,08996,0,ARRGT,ARR ARR
 H_D,301,Family Stress and Coping,02,08601,3,ARRGT,ARR ARR
-H_D,307,Adolescence and Emerging Adulthood,01,09122,3,"M,W,F13.10-14",FNA 5062
 H_D,342,Curriculum for Early Childhood Programs,02,08807,4,ARRGT,ARR ARR
 H_D,342,Curriculum for Early Childhood Programs,02 Lab,05139,0,ARRGT,ARR ARR
 H_D,360,Death and Dying,03,09649,3,"TU,TH9.10-10.25",CUE 419
@@ -1611,7 +1594,6 @@ H_D,498,Field Placement,01,05148,V,ARRGT,ARR ARR
 H_D,499,Special Problems,01,05149,V,ARRGT,ARR ARR
 H_D,499,Special Problems,03,09132,V,ARRGT,ARR ARR
 H_D,505,Developing Effective Leadership: Tidal Leadership,01,08149,2,ARRGT,ARR ARR
-H_D,558,Parent-Child Relationships,01,12076,3,W15.10-18,SPRK G0045
 H_D,586,Special Topics in Human Development,01,14924,V,W14.10-15,SPRK G0045
 H_D,600,Special Projects or Independent Study,01,05150,V,ARRGT,ARR ARR
 HBM,101,Professional and Career Development for the Business World,01,06262,1,"M,W,F9.10-10",COLL 125
@@ -1632,7 +1614,6 @@ HBM,258,Fundamentals of Cooking,01 Lab,04612,0,TU13.30-16.20,TDAD 270
 HBM,258,Fundamentals of Cooking,02 Lab,04613,0,TU9.10-12,TDAD 270
 HBM,258,Fundamentals of Cooking,03 Lab,04614,0,W13.10-16,TDAD 270
 HBM,258,Fundamentals of Cooking,04 Lab,04615,0,W9.10-12,TDAD 270
-HBM,280,Hospitality Systems,01,06264,3,"TU,TH9.10-10.25",TODD 120
 HBM,298,Internship Experience,01,06265,V,ARRGT,ARR ARR
 HBM,301,Introduction to Event Planning,01,14755,3,ARRGT,ARR ARR
 HBM,350,Beverage Management,01,06267,3,"TU,TH14.55-16.10",TDAD 276
@@ -1643,9 +1624,7 @@ HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,06269,3,"TU,TH
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,02,08976,3,W15.10-18,TODD 339
 HBM,401,Career Management,01,06266,1,"M,W,F14.10-15",SPRK 212
 HBM,490,Food and Beverage Operational Analysis,01,08556,3,"TU,TH10.35-11.50",ADBF 1002
-HBM,491,Operational Analysis,01,06270,3,"TU,TH14.55-16.10",WEBS 16
 HBM,494,[M] Service Operations Management,01,06271,3,"TU,TH12.05-13.20",JSNH C0107
-HBM,495,[CAPS] Case Studies and Research,01,06272,3,"TU,TH10.35-11.50",TODD 120
 HBM,498,Hospitality Business Management Internship,01,06273,V,ARRGT,ARR ARR
 HBM,499,Special Problems,01,06274,V,ARRGT,ARR ARR
 HBM,592,Current Issues in Travel and Tourism,01,07894,3,M9.30-12.20,TODD 339
@@ -1832,13 +1811,8 @@ HUMANITY,103,[HUM] Mythology,06,08206,3,ARRGT,ARR ARR
 HUMANITY,103,[HUM] Mythology,08,09358,3,ARRGT,ARR ARR
 HUMANITY,322,[DIVR] Ecology in East Asian Cultures,01,09097,3,"TU,TH14.55-16.10",HLD G0003
 HUMANITY,499,Special Problems,01,05097,V,ARRGT,ARR ARR
-I_BUS,280,International Relations and Global Leadership,01,16352,3,"TU,TH10.35-11.50",CUE
-I_BUS,380,International Business,02,07893,3,"M,W,F16.10-17",""
 I_BUS,380,International Business,06,08797,3,ARRGT,ARR ARR
-I_BUS,415,[M] Law of International Trade,01,09578,3,"TU,TH14.55-16.10",CUE 203
-I_BUS,435,International Tourism,01,08441,3,"TU,TH9.10-10.25",TODD 130
 I_BUS,453,[M] International Management,02,08782,3,ARRGT,ARR ARR
-I_BUS,453,[M] International Management,03,09435,3,"M,W,F14.10-15",TODD 116
 I_BUS,482,[M] International Marketing,01,05021,3,"M,W,F12.10-13",TODD 116
 I_BUS,498,International Business Internship,01,05022,V,ARRGT,ARR ARR
 I_BUS,499,Special Problems,01,05023,V,ARRGT,ARR ARR
@@ -2118,8 +2092,9 @@ MBIOS,101,[BSCI] Introductory Microbiology,08 Lab,08205,0,"W,F10.35-11.50",EAST 
 MBIOS,138,Molecular Biosciences Seminar,01,09496,1,M15.10-16,HLD G0003
 MBIOS,301,General Genetics,10,06836,4,ARRGT,ARR ARR
 MBIOS,303,Introductory Biochemistry,05,06842,4,ARRGT,ARR ARR
+MBIOS,304,Microbiology and Molecular Biology Laboratory,01 Lab,04565,0,"TU,TH9.10-12",EAST G0098
 MBIOS,304,Microbiology and Molecular Biology Laboratory,02 Lab,04566,0,"TU,TH14.10-17",EAST G0098
-MBIOS,304,Microbiology and Molecular Biology Laboratory,03 Lab,04567,0,"W,F14.10-17",EAST G0096
+MBIOS,304,Microbiology and Molecular Biology Laboratory,03 Lab,04567,0,"W,F14.10-17",EAST G0098
 MBIOS,304,Microbiology and Molecular Biology Laboratory,04 Lab,16571,0,"M,W9-11.50",EAST G0098
 MBIOS,305,General Microbiology,02,06844,3,ARRGT,ARR ARR
 MBIOS,320,[BSCI] DNA and Society,01,06845,3,ARRGT,ARR ARR
@@ -2197,7 +2172,6 @@ ME,475,Manufacturing Enterprise Systems -- Automation and Product Realization,01
 ME,475,Manufacturing Enterprise Systems -- Automation and Product Realization,02 Lab,07967,0,TH10.35-13.25,ETRL 25
 ME,475,Manufacturing Enterprise Systems -- Automation and Product Realization,03 Lab,08827,0,F9.10-12,ETRL 25
 ME,481,Control Systems,01,12045,3,"M,W,F14.10-15",""
-ME,483,Topics in Mechanical Engineering,01,16033,3,"M,W,F14.10-15",WEBS 16
 ME,488,Professional Practice Coop/Internship I,01,08034,V,ARRGT,ARR ARR
 ME,499,Special Problems,01,05190,V,ARRGT,ARR ARR
 ME,501,Continuum Mechanics,01,12044,3,"TU,TH9.10-10.25",""
@@ -2211,7 +2185,7 @@ ME,800,"Doctoral Research, Dissertation, and/or Examination",01,05198,V,ARRGT,AR
 MGMT,301,Principles of Management and Organization,04,08712,3,ARRGT,ARR ARR
 MGMT,401,Leading People and Organizations,01,05815,3,"TU,TH14.55-16.10",CUE 419
 MGMT,401,Leading People and Organizations,02,08734,3,ARRGT,ARR ARR
-MGMT,450,Personnel and Human Resources Management,01,05816,3,"TU,TH10.35-11.50",""
+MGMT,450,Personnel and Human Resources Management,01,05816,3,"TU,TH10.35-11.50",CUE 219
 MGMT,450,Personnel and Human Resources Management,02,05817,3,"TU,TH13.30-14.45",CARP 101
 MGMT,455,Recruiting and Hiring Human Capital,01,09508,3,"M,W,F9.10-10",CUE 202
 MGMT,456,[M] Evaluating and Rewarding Employees,01,08371,3,"M,W,F11.10-12",CUE 202
@@ -2239,6 +2213,8 @@ MGTOP,215,Business Statistics,06 Lab,05456,0,TH19-20.50,TODD 330
 MGTOP,215,Business Statistics,07 Lab,05457,0,W15.10-17,TODD 330
 MGTOP,215,Business Statistics,08 Lab,05458,0,TH17-18.50,TODD 330
 MGTOP,215,Business Statistics,09 Lab,05459,0,W19-20.50,TODD 330
+MGTOP,340,Operations Management,01,05460,3,"TU,TH10.35-11.50",TODD 120
+MGTOP,340,Operations Management,02,05461,3,"TU,TH14.55-16.10",TODD 120
 MGTOP,340,Operations Management,03,05462,3,"M,W,F9.10-10",TODD 130
 MGTOP,340,Operations Management,04,05463,3,"M,W,F11.10-12",TODD 130
 MGTOP,470,Business Modeling with Spreadsheets,01,05464,3,"TU,TH9.10-10.25",TODD 203
@@ -2265,10 +2241,7 @@ MIS,250,Managing Information Technology,06,11979,3,"M,W,F11.10-12",CUE 319
 MIS,250,Managing Information Technology,09,08770,3,ARRGT,ARR ARR
 MIS,322,[M] Enterprise Business Process Analysis,03,14796,3,ARRGT,ARR ARR
 MIS,322,[M] Enterprise Business Process Analysis,04,16376,3,ARRGT,ARR ARR
-MIS,325,Enterprise Business Development,01,05861,3,"M,W,F11.10-12",TODD 203
-MIS,325,Enterprise Business Development,03,11983,3,"M,W,F10.10-11",TODD 203
 MIS,372,[M] Data Management,01,05862,3,"TU,TH14.55-16.10",TODD 203
-MIS,420,Business Intelligence,01,05863,3,"M,W,F13.10-14",TODD 203
 MIS,441,Global E-Commerce,01,05864,3,"M,W,F9.10-10",TODD 203
 MIS,498,Management Information Systems Internship,01,05865,V,ARRGT,ARR ARR
 MIS,499,Special Problems,01,05866,V,ARRGT,ARR ARR
@@ -2286,11 +2259,7 @@ MKTG,368,Marketing Research,01,06319,3,"M,W,F11.10-12",SPRK 335
 MKTG,368,Marketing Research,02,08826,3,"M,W,F15.10-16",SPRK G0010
 MKTG,368,Marketing Research,03,16370,3,"TU,TH12.05-13.20",TODD 116
 MKTG,379,Professional Sales,01,11893,3,"TU,TH14.55-16.10",WLSH 13
-MKTG,407,Consumer Behavior,01,06320,3,"TU,TH10.35-11.50",""
-MKTG,407,Consumer Behavior,02,07840,3,"TU,TH14.55-16.10",TODD 120
-MKTG,467,Consumer Judgment and Decision-Making,01,08977,3,"TU,TH10.35-11.50",CUE 203
-MKTG,468,Public Policy and Marketing,01,06321,3,"TU,TH9.10-10.25",TODD 116
-MKTG,470,Retail Management,01,11894,3,"M,W,F14.10-15",CUE 203
+MKTG,407,Consumer Behavior,02,07840,3,"TU,TH14.55-16.10",""
 MKTG,495,[M] Marketing Management,01,06324,3,"TU,TH13.30-14.45",SPRK 327
 MKTG,495,[M] Marketing Management,02,11892,3,"TU,TH12.05-13.20",SPRK 323
 MKTG,498,Marketing Internship,01,06325,V,ARRGT,ARR ARR
@@ -2308,7 +2277,6 @@ MSE,320,[M] Materials Structure - Properties Lab,02 Lab,08141,0,"TU,TH13.30-16.2
 MSE,402,Polymeric Materials,01,06301,3,"M,W,F10.10-11",HLD G0003
 MSE,425,[M] Senior Thesis I,01,06307,3,"W,F15.10-18",SPRK 335
 MSE,426,[M] Senior Thesis II,01,06308,3,ARRGT,ARR ARR
-MSE,483,Topics in Materials Engineering,01,16032,3,"M,W,F14.10-15",SLOA 5
 MSE,488,Professional Practice Coop/Internship I,01,08090,V,ARRGT,ARR ARR
 MSE,499,Special Problems,01,06309,V,ARRGT,ARR ARR
 MSE,503,Advanced Topics in Materials Engineering,01,08969,V,"M,W,F10.10-11",SLOA 233
@@ -2332,7 +2300,6 @@ MUS,164,Introduction to Music Technology,01,05968,1,TU10.10-11,KIMB 346
 MUS,181,Class Piano I,01,05969,1,"M,W,F12.10-13",KIMB 452
 MUS,181,Class Piano I,02,05970,1,"M,W,F13.10-14",KIMB 452
 MUS,182,Class Piano II,01,05971,1,"M,W,F10.10-11",KIMB 452
-MUS,201,Organ,01,05972,2,TU11-11.50,KIMB 110
 MUS,202,Piano,01,08894,2,TU11-11.50,KIMB 110
 MUS,202,Piano,02,09608,2,TU11-11.50,KIMB 110
 MUS,202,Piano,03,09609,2,TU11-11.50,KIMB 110
@@ -2371,7 +2338,6 @@ MUS,266,[ARTS] Film Music,01,08572,3,"M,W,F14.10-15",KIMB 245
 MUS,266,[ARTS] Film Music,02,14928,3,ARRGT,ARR ARR
 MUS,281,Class Piano III,01,05996,1,"M,W,F11.10-12",KIMB 452
 MUS,282,Class Piano IV,01,09432,1,ARRGT,ARR ARR
-MUS,301,Organ,01,05997,V,TU11-11.50,KIMB 110
 MUS,302,Piano,01,09613,V,TU11-11.50,KIMB 110
 MUS,302,Piano,02,08687,V,TU11-11.50,KIMB 110
 MUS,302,Piano,03,09612,V,TU11-11.50,KIMB 110
@@ -2416,7 +2382,6 @@ MUS,362,[DIVR] History of Jazz,04,06019,3,"M,W,F11.10-12",""
 MUS,363,[DIVR] Women in Music,01,06020,3,"M,W,F15.10-16",KIMB 346
 MUS,363,[DIVR] Women in Music,02,08659,3,ARRGT,ARR ARR
 MUS,364,Audio Engineering I,01,09089,3,SA9.30-12,KIMB 452
-MUS,401,Organ,01,06022,V,TU11-11.50,KIMB 110
 MUS,402,Piano,01,09617,V,TU11-11.50,KIMB 110
 MUS,402,Piano,02,08691,V,TU11-11.50,KIMB 110
 MUS,403,Voice,02,08692,V,TU11-11.50,KIMB 110
@@ -2472,7 +2437,6 @@ MUS,465,Seminar in Major Performance Literature,03,09651,2,ARRGT,ARR ARR
 MUS,465,Seminar in Major Performance Literature,04,09652,2,ARRGT,ARR ARR
 MUS,465,Seminar in Major Performance Literature,05,09653,2,ARRGT,ARR ARR
 MUS,465,Seminar in Major Performance Literature,06,09654,2,ARRGT,ARR ARR
-MUS,465,Seminar in Major Performance Literature,07,09655,2,ARRGT,ARR ARR
 MUS,465,Seminar in Major Performance Literature,08,09656,2,ARRGT,ARR ARR
 MUS,465,Seminar in Major Performance Literature,09,09657,2,ARRGT,ARR ARR
 MUS,465,Seminar in Major Performance Literature,10,09658,2,ARRGT,ARR ARR
@@ -2624,14 +2588,14 @@ PL_P,403,Advanced Cropping Systems,02,08507,3,"TU,TH13.30-14.45",AMS PUL
 PL_P,403,Advanced Cropping Systems,03,08508,3,"TU,TH13.30-14.45",AMS PUL
 PL_P,403,Advanced Cropping Systems,04,08509,3,"TU,TH13.30-14.45",AMS PUL
 PL_P,429,General Plant Pathology,01,05350,3,"M,W8.10-9",SPRK 339
-PL_P,429,General Plant Pathology,01 Lab,05351,0,W15.10-18,JSNH 343
+PL_P,429,General Plant Pathology,01 Lab,05351,0,W15.10-17,JSNH 343
 PL_P,429,General Plant Pathology,02 Lab,16577,0,W13.10-15,JSNH 343
 PL_P,499,Special Problems,01,05352,V,ARRGT,ARR ARR
 PL_P,503,Advanced Cropping Systems,01,06117,3,"TU,TH13.30-14.45",JSNH 204
 PL_P,503,Advanced Cropping Systems,02,06119,3,"TU,TH13.30-14.45",AMS PUL
 PL_P,503,Advanced Cropping Systems,03,06121,3,"TU,TH13.30-14.45",AMS PUL
 PL_P,503,Advanced Cropping Systems,04,06123,3,"TU,TH13.30-14.45",AMS PUL
-PL_P,512,Topics in Plant Pathology,01,07966,V,TU16.30-18,CLAR 151
+PL_P,512,Topics in Plant Pathology,01,07966,V,TU16.30-18,ARR ARR
 PL_P,512,Topics in Plant Pathology,02,10050,V,TU16.30-18,AMS PUL
 PL_P,512,Topics in Plant Pathology,03,10051,V,TU16.30-18,AMS PUL
 PL_P,512,Topics in Plant Pathology,04,10052,V,TU16.30-18,AMS PUL
@@ -2860,7 +2824,7 @@ SOE,210,[PSCI] Earth's History and Evolution,05 Lab,09498,0,W17.10-20,WEBS 1126
 SOE,210,[PSCI] Earth's History and Evolution,W17.10-20,WEBS 1141,Aug 24--Dec 11, ,""
 SOE,275,"Rivers: Form, Function, and Management",01,11909,3,"TU,TH13.30-14.45",HLD G0003
 SOE,285,The Science and Policy of Climate Change,01,13182,3,ARRGT,ARR ARR
-SOE,301,Forest Plants and Ecosystems,01,06287,3,"M,W13.10-14",""
+SOE,301,Forest Plants and Ecosystems,01,06287,3,"M,W13.10-14",TROY 309
 SOE,301,Forest Plants and Ecosystems,01 Lab,06288,0,TU13.30-16.20,TROY G0007
 SOE,301,Forest Plants and Ecosystems,02 Lab,06289,0,TH13.30-16.20,TROY G0007
 SOE,301,Forest Plants and Ecosystems,03 Lab,06290,0,F14.10-17,TROY G0007
@@ -2894,7 +2858,7 @@ SOE,495,Undergraduate Internship,07,10099,V,ARRGT,ARR ARR
 SOE,498,Seminar,01,04583,1,TH16.20-17.10,""
 SOE,499,Special Problems,01,06248,V,ARRGT,ARR ARR
 SOE,501,Graduate Skills Seminar,01,06249,1,F10.10-11,TROY 309
-SOE,526,Ecology of the Columbia River,01,13475,3,W12-14.50,TROY 309
+SOE,526,Ecology of the Columbia River,01,13475,3,W12-14.50,WEBS 1141
 SOE,540,Agroecology,01,08893,3,W11.10-13.40,AMS PUL
 SOE,540,Agroecology,02,15412,3,W11.10-13.40,AMS PUL
 SOE,544,Environmental Assessment,02,10096,3,TH16.20-17.35,AMS PUL
@@ -2978,7 +2942,6 @@ SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",11,06224,V,AR
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",12,08195,V,ARRGT,ARR ARR
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",13,08351,V,ARRGT,ARR ARR
 SPANISH,101,First Semester,02,07062,4,"M,TU,W,TH10.10-11",""
-SPANISH,101,First Semester,03,07063,4,"M,TU,W,TH11.10-12",""
 SPANISH,101,First Semester,04,07064,4,"M,TU,W,TH12.10-13",""
 SPANISH,101,First Semester,09,08897,4,ARRGT,ARR ARR
 SPANISH,102,Second Semester,01,09547,4,"M,TU,W,TH9.10-10",""
@@ -2989,7 +2952,6 @@ SPANISH,203,Third Semester,01 Lab,07072,0,ARRGT,ARR ARR
 SPANISH,203,Third Semester,02 Lab,09549,0,ARRGT,ARR ARR
 SPANISH,203,Third Semester,03 Lab,09550,0,ARRGT,ARR ARR
 SPANISH,203,Third Semester,04 Lab,09551,0,ARRGT,ARR ARR
-SPANISH,204,Fourth Semester,04,08553,4,"M,W,F12.10-13",BRYN 305
 SPANISH,204,Fourth Semester,01 Lab,07076,0,ARRGT,ARR ARR
 SPANISH,204,Fourth Semester,02 Lab,09544,0,ARRGT,ARR ARR
 SPANISH,204,Fourth Semester,03 Lab,09545,0,ARRGT,ARR ARR
