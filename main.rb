@@ -29,9 +29,6 @@ end
 
 puts campus
 
-csv = CSV.new(campus + ".csv")
-csv = CSV.open(campus + ".csv", "wb")
-
 
 scrape = WSUInPerson::WSUInPerson.new
-scrape.scrape_subject_urls(campus, csv)
+scrape.scrape_subject_urls(campus)

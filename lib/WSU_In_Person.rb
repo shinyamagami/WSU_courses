@@ -10,9 +10,10 @@ module WSUInPerson
   class WSUInPerson
 
     
-    def scrape_subject_urls(campus, csv)
+    def scrape_subject_urls(campus)
 
-
+      csv = CSV.new(campus + ".csv")
+      csv = CSV.open(campus + ".csv", "wb")
 
       doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/20203'))
 
@@ -37,7 +38,7 @@ module WSUInPerson
 
 #      csv = CSV.new("output.csv")
 #      csv = CSV.open("output.csv", "wb")
-      csv << ["Prefix", "Course Title", "Section", "Class Number", "Days & Times",
+      csv << ["Prefix", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
               "Bldg & Room"]
 
       i = 0
@@ -52,6 +53,7 @@ module WSUInPerson
           name = ""
           sec = ""
           classnum = ""
+          credit = ""
           sched_days = ""
           room_spec = ""
           name_on = 0
@@ -68,12 +70,12 @@ module WSUInPerson
 
             if tr.css('td').text.strip.start_with?(prefix)
               name = tr.css('td').text.strip.split(' ').drop(1).join(' ')
-
             end
 
             if tr.attr('class') == "section" || tr.attr('class') == "section subdued"
               sec = tr.css('td').map(&:text)[1].strip
               classnum = tr.css('td').map(&:text)[2].strip
+              credit = tr.css('td').map(&:text)[3].strip
               sched_days = tr.css('td').map(&:text)[4].strip
               begin
                 room_spec = tr.css('td').map(&:text)[5].strip
@@ -88,11 +90,12 @@ module WSUInPerson
             end
 
             if room_spec != "WEB ARR" && sec_on == 1
-              puts name + " " + sec + " " + classnum + " " + sched_days + " " + room_spec
-              csv << [prefix, name, sec, classnum, sched_days, room_spec]
+              puts name + " " + sec + " " + classnum + " " + credit + " " + sched_days + " " + room_spec
+              csv << [prefix, name, sec, classnum, credit, sched_days, room_spec]
 
               sec = ""
               classnum = ""
+              credit = ""
               sched_days = ""
               room_spec = ""
 
