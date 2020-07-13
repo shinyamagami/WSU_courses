@@ -10,9 +10,12 @@ module WSUInPerson
   class WSUInPerson
 
     
-    def scrape_subject_urls
-      
-      doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/Pullman/20203'))
+    def scrape_subject_urls(campus)
+
+
+
+      doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/20203'))
+
       subjects = doc.css('.prefixList').css('a')
   
   
@@ -148,6 +151,6 @@ module WSUInPerson
     end
   end
   
-  scrape = WSUInPerson.new
-  scrape.scrape_subject_urls
+  #scrape = WSUInPerson.new
+  #scrape.scrape_subject_urls
 end
