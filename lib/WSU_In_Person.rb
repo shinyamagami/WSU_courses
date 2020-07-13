@@ -10,7 +10,7 @@ module WSUInPerson
   class WSUInPerson
 
     
-    def scrape_subject_urls(campus)
+    def scrape_subject_urls(campus, csv)
 
 
 
@@ -28,15 +28,15 @@ module WSUInPerson
       end
 
       
-      scrape_course_pages(subject_urls, prefixes)
+      scrape_course_pages(subject_urls, prefixes, csv)
     end
   
   
-    def scrape_course_pages(subject_urls, prefixes)
+    def scrape_course_pages(subject_urls, prefixes, csv)
 
 
-      csv = CSV.new("output.csv")
-      csv = CSV.open("output.csv", "wb")
+#      csv = CSV.new("output.csv")
+#      csv = CSV.open("output.csv", "wb")
       csv << ["Prefix", "Course Title", "Section", "Class Number", "Days & Times",
               "Bldg & Room"]
 

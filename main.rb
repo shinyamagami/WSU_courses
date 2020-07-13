@@ -34,4 +34,4 @@ csv = CSV.open(campus + ".csv", "wb")
 
 
 scrape = WSUInPerson::WSUInPerson.new
-scrape.scrape_subject_urls(campus)
+scrape.scrape_subject_urls(campus, csv)
