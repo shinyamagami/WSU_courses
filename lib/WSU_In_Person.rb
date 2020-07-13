@@ -122,6 +122,17 @@ module WSUInPerson
               rescue NoMethodError => e
               rescue => e
               end
+
+              #for when a section part has multiple lines
+              if !sec.start_with?("0", "1", "2", "3", "4", "5", "6")
+                sched_days = sec
+                room_spec = classnum
+                sec = ""
+                classnum = ""
+                credit = ""
+              end
+
+              
               sec_on = 1
             end
 
