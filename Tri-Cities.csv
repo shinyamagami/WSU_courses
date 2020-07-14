@@ -27,9 +27,9 @@ BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,03 Lab,01552,0,TH14.
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,04 Lab,01714,0,TH18-20.50,TBSL 171
 BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,01481,3,"M,W7.45-9",TCIC 216
 BIOLOGY,301,General Genetics,01,01385,4,"M,W,F12.10-13",TFLO 252
-BIOLOGY,301,General Genetics,M11.10-12,TFLO 252,Aug 24--Dec 11, ,""
+BIOLOGY,301,General Genetics,"","","",M11.10-12,TFLO 252
 BIOLOGY,301,General Genetics,03,13049,4,"M,W,F12.10-13",TFLO 252
-BIOLOGY,301,General Genetics,M13.10-14,TFLO 230,Aug 24--Dec 11, ,""
+BIOLOGY,301,General Genetics,"","","",M13.10-14,TFLO 230
 BIOLOGY,352,Cells,01,02084,3,"TU,TH10.35-11.50",TEST 208
 BIOLOGY,354,Human Anatomy for Health Occupations,01,01443,4,"M,W,F13.10-14",TCIC 210
 BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,01444,0,M15.10-18,TBSL 171
@@ -177,7 +177,7 @@ E_E,352,[M] Electrical Engineering Laboratory I,01,01357,3,TU12.05-12.55,TBSL 10
 E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,01358,0,"TU,TH13.30-16.20",TFLO 164
 E_E,415,Design Project Management,01,01328,3,F16.10-17,TFLO 239
 E_E,415,Design Project Management,01 Lab,01329,0,F13.10-15.55,TFLO 161
-E_E,415,Design Project Management,F17.10-19.55,TFLO 161,Aug 24--Dec 11, ,""
+E_E,415,Design Project Management,"","","",F17.10-19.55,TFLO 161
 E_E,455,Introduction to Computer Networks,01,01627,3,"M,W16.15-17.30",TFLO 244
 E_E,464,Digital Signal Processing I,01,02246,3,"TU,TH14.55-16.10",TBSL 103
 E_E,489,Introduction to Control Systems,01,01330,3,"TU,TH13.30-14.45",TBSL 103
@@ -200,8 +200,8 @@ ED_AD,516,Instructional and Curricular Leadership,01,01494,3,M17.45-20.30,TFLO 2
 ED_AD,580,School Organization and Administration,01,01542,3,TU17.45-20.30,AMS TRI
 ED_AD,589,Leadership Development Seminar,01,01493,3,W17.45-20.30,TFLO 239
 ED_AD,590,Internship,01,01238,V,SA9-14,TFLO 239
-ED_AD,590,Internship,SA9-14,TFLO 239,Oct 24--Oct 24, ,""
-ED_AD,590,Internship,SA9-14,TFLO 239,Nov 14--Nov 14, ,""
+ED_AD,590,Internship,"","","",SA9-14,TFLO 239
+ED_AD,590,Internship,"","","",SA9-14,TFLO 239
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,01408,V,ARRGT,ARR ARR
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,01239,V,ARRGT,ARR ARR
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,15632,1,W16.30-17.30,AMS TRI
@@ -332,9 +332,9 @@ MATH,499,Special Problems,01,01520,V,ARRGT,ARR ARR
 MATH,540,Applied Mathematics I: PDEs,01,01491,3,"M,W,F10.10-11",TFLO 230
 MATH,553,Graph Theory,01,01719,3,"M,W,F14.10-15",AMS TRI
 MBIOS,301,General Genetics,01,01384,4,"M,W,F12.10-13",TFLO 252
-MBIOS,301,General Genetics,M11.10-12,TFLO 252,Aug 24--Dec 11, ,""
+MBIOS,301,General Genetics,"","","",M11.10-12,TFLO 252
 MBIOS,301,General Genetics,03,13050,4,"M,W,F12.10-13",TFLO 252
-MBIOS,301,General Genetics,M13.10-14,TFLO 230,Aug 24--Dec 11, ,""
+MBIOS,301,General Genetics,"","","",M13.10-14,TFLO 230
 MBIOS,305,General Microbiology,01,01683,3,ARRGT,ARR ARR
 ME,116,Engineering Computer-aided Design and Visualization,01,01372,2,"W,F8.10-11",TCIC 219
 ME,220,Materials Laboratory,01,01339,1,M13.10-16,TEST 120
@@ -377,7 +377,7 @@ MGTOP,215,Business Statistics,01,01316,4,"M,W16.15-17.30",TFLO 240
 MGTOP,215,Business Statistics,01 Lab,01317,0,"M,W17.45-18.35",TCIC 219
 MGTOP,340,Operations Management,02,14793,3,ARRGT,ARR ARR
 MIS,250,Managing Information Technology,01,01711,3,TU16.20-17.35,TFLO 243
-MIS,250,Managing Information Technology,TH16.20-17.35,TCIC 219,Aug 24--Dec 11, ,""
+MIS,250,Managing Information Technology,"","","",TH16.20-17.35,TCIC 219
 MIT,532,Literacy Development II,01,02109,3,TH17.15-20,AMS TRI
 MIT,533,Elementary School Mathematics Methods,01,02025,3,ARRGT,ARR ARR
 MIT,534,Elementary School Science Methods,01,02026,3,W17.15-20,TEST 224
@@ -395,7 +395,7 @@ MSE,201,Materials Science,01,01360,3,"M,W,F12.10-13",TFLO 244
 NURS,308,Professional Development I: Evidence Based Practice,01,01014,3,W10.30-13.30,AMS TRI
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,01015,3,TH13.10-16,AMS TRI
 NURS,311,Pathophysiology and Pharmacology in Nursing,01,01016,4,W8.10-10,AMS TRI
-NURS,311,Pathophysiology and Pharmacology in Nursing,F11-13,AMS TRI,Aug 24--Dec 11, ,""
+NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11-13,AMS TRI
 NURS,315,Nursing Practice: Health and Illness,01,01017,4,ARRGT,ARR ARR
 NURS,315,Nursing Practice: Health and Illness,02,01068,4,ARRGT,ARR ARR
 NURS,315,Nursing Practice: Health and Illness,03,01115,4,ARRGT,ARR ARR
@@ -406,7 +406,7 @@ NURS,317,Health Assessment,02 Lab,01117,0,ARRGT,ARR ARR
 NURS,322,The Human Experience of Diversity and Health,01,01021,2,F8.10-10,AMS TRI
 NURS,323,Nursing in the Genome Era,01,01049,2,M8.10-10,AMS TRI
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,01,01037,4,M10.30-12.30,AMS TRI
-NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,F10.30-12.30,AMS TRI,Aug 24--Dec 11, ,""
+NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","",F10.30-12.30,AMS TRI
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,01,01052,5,ARRGT,ARR ARR
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,01069,5,ARRGT,ARR ARR
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,01116,5,ARRGT,ARR ARR
@@ -431,7 +431,7 @@ NURS,417,Nursing Care of Childbearing Families,01,01044,2,ARRGT,ARR ARR
 NURS,417,Nursing Care of Childbearing Families,02,01071,2,ARRGT,ARR ARR
 NURS,417,Nursing Care of Childbearing Families,03,13176,2,ARRGT,ARR ARR
 NURS,424,Psychiatric/Mental Health Nursing Concepts,01,01045,3,M11.30-13.30,AMS TRI
-NURS,424,Psychiatric/Mental Health Nursing Concepts,M14.10-16,AMS TRI,Aug 24--Dec 11, ,""
+NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",M14.10-16,AMS TRI
 NURS,425,Nursing Practice: Psychiatric/Mental Health,01,01046,2,ARRGT,ARR ARR
 NURS,425,Nursing Practice: Psychiatric/Mental Health,02,01072,2,ARRGT,ARR ARR
 NURS,425,Nursing Practice: Psychiatric/Mental Health,03,13177,2,ARRGT,ARR ARR
@@ -457,233 +457,233 @@ NURS,495,[CAPS] Advanced Practicum,02,01053,3,ARRGT,ARR ARR
 NURS,499,Special Problems,01,01002,V,ARRGT,ARR ARR
 NURS,499,Special Problems,02,01003,V,ARRGT,ARR ARR
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",01,01087,3,W9.10-12,AMS TRI
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",W9.10-12,AMS TRI,Sep 16--Sep 16, ,""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",W9.10-12,AMS TRI,Oct 14--Oct 14, ,""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",W9.10-12,AMS TRI,Nov 18--Nov 18, ,""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",W9.10-12,AMS TRI,Dec 09--Dec 09, ,""
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS TRI
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS TRI
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS TRI
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS TRI
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",02,01088,3,W9.10-12,AMS ARR
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",W9.10-12,AMS ARR,Sep 16--Sep 16, ,""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",W9.10-12,AMS ARR,Oct 14--Oct 14, ,""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",W9.10-12,AMS ARR,Nov 18--Nov 18, ,""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",W9.10-12,AMS ARR,Dec 09--Dec 09, ,""
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS ARR
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS ARR
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS ARR
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS ARR
 NURS,503,Scientific Inquiry in Nursing,01,01004,2,M17.10-19,AMS TRI
-NURS,503,Scientific Inquiry in Nursing,M17.10-19,AMS TRI,Sep 14--Sep 14, ,""
-NURS,503,Scientific Inquiry in Nursing,M17.10-19,AMS TRI,Oct 12--Oct 12, ,""
-NURS,503,Scientific Inquiry in Nursing,M17.10-19,AMS TRI,Nov 16--Nov 16, ,""
-NURS,503,Scientific Inquiry in Nursing,M17.10-19,AMS TRI,Dec 07--Dec 07, ,""
+NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS TRI
+NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS TRI
+NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS TRI
+NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS TRI
 NURS,503,Scientific Inquiry in Nursing,02,01005,2,M17.10-19,AMS ARR
-NURS,503,Scientific Inquiry in Nursing,M17.10-19,AMS ARR,Sep 14--Sep 14, ,""
-NURS,503,Scientific Inquiry in Nursing,M17.10-19,AMS ARR,Oct 12--Oct 12, ,""
-NURS,503,Scientific Inquiry in Nursing,M17.10-19,AMS ARR,Nov 16--Nov 16, ,""
-NURS,503,Scientific Inquiry in Nursing,M17.10-19,AMS ARR,Dec 07--Dec 07, ,""
+NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR
+NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR
+NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR
+NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR
 NURS,504,Evidence-Based Practice,01,01006,3,M11.10-14,AMS TRI
-NURS,504,Evidence-Based Practice,M11.10-14,AMS TRI,Sep 14--Sep 14, ,""
-NURS,504,Evidence-Based Practice,M11.10-14,AMS TRI,Oct 12--Oct 12, ,""
-NURS,504,Evidence-Based Practice,M11.10-14,AMS TRI,Nov 16--Nov 16, ,""
-NURS,504,Evidence-Based Practice,M11.10-14,AMS TRI,Dec 07--Dec 07, ,""
+NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS TRI
+NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS TRI
+NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS TRI
+NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS TRI
 NURS,504,Evidence-Based Practice,02,01105,3,M11.10-14,AMS ARR
-NURS,504,Evidence-Based Practice,M11.10-14,AMS ARR,Sep 14--Sep 14, ,""
-NURS,504,Evidence-Based Practice,M11.10-14,AMS ARR,Oct 12--Oct 12, ,""
-NURS,504,Evidence-Based Practice,M11.10-14,AMS ARR,Nov 16--Nov 16, ,""
-NURS,504,Evidence-Based Practice,M11.10-14,AMS ARR,Dec 07--Dec 07, ,""
+NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR
+NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR
+NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR
+NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR
 NURS,508,Diagnostics and Procedures for Primary Care Practice,01,01064,2,TU16.10-18,AMS TRI
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU16.10-18,AMS TRI,Sep 15--Sep 15, ,""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU16.10-18,AMS TRI,Nov 17--Nov 17, ,""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU16.10-20,AMS TRI,Oct 13--Oct 13, ,""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU16.10-18,AMS TRI,Dec 08--Dec 08, ,""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS TRI
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS TRI
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,AMS TRI
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS TRI
 NURS,508,Diagnostics and Procedures for Primary Care Practice,02,01085,2,TU16.10-18,AMS ARR
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU16.10-20,AMS ARR,Oct 13--Oct 13, ,""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU16.10-18,AMS ARR,Nov 17--Nov 17, ,""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU16.10-18,AMS ARR,Sep 15--Sep 15, ,""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU16.10-18,AMS ARR,Dec 08--Dec 08, ,""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,AMS ARR
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS ARR
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS ARR
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS ARR
 NURS,508,Diagnostics and Procedures for Primary Care Practice,01 Lab,01065,0,TU14-16,ARR ARR
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU14-16,ARR ARR,Nov 17--Nov 17, ,""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU14-16,ARR ARR
 NURS,508,Diagnostics and Procedures for Primary Care Practice,02 Lab,01086,0,TU14-16,ARR ARR
-NURS,508,Diagnostics and Procedures for Primary Care Practice,TU14-16,ARR ARR,Nov 17--Nov 17, ,""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU14-16,ARR ARR
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,01,01078,3,TU8.10-11,AMS TRI
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,TU8.10-11,AMS TRI,Sep 15--Sep 15, ,""
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,TU8.10-11,AMS TRI,Oct 13--Oct 13, ,""
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,TU8.10-11,AMS TRI,Nov 17--Nov 17, ,""
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,TU8.10-11,AMS TRI,Dec 08--Dec 08, ,""
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS TRI
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS TRI
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS TRI
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS TRI
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,02,01079,3,TU8.10-11,AMS ARR
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,TU8.10-11,AMS ARR,Sep 15--Sep 15, ,""
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,TU8.10-11,AMS ARR,Oct 13--Oct 13, ,""
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,TU8.10-11,AMS ARR,Nov 17--Nov 17, ,""
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,TU8.10-11,AMS ARR,Dec 08--Dec 08, ,""
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,01,01089,3,W9.10-12,AMS TRI
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,W9.10-12,AMS TRI,Sep 16--Sep 16, ,""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,W9.10-12,AMS TRI,Oct 14--Oct 14, ,""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,W9.10-12,AMS TRI,Nov 18--Nov 18, ,""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,W9.10-12,AMS TRI,Dec 09--Dec 09, ,""
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS TRI
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS TRI
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS TRI
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS TRI
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,02,01090,3,W9.10-12,AMS ARR
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,W9.10-12,AMS ARR,Sep 16--Sep 16, ,""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,W9.10-12,AMS ARR,Oct 14--Oct 14, ,""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,W9.10-12,AMS ARR,Nov 18--Nov 18, ,""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,W9.10-12,AMS ARR,Dec 09--Dec 09, ,""
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR
 NURS,516,Primary Care Practicum II,01,01091,2,W12.10-14,AMS TRI
-NURS,516,Primary Care Practicum II,W12.10-14,AMS TRI,Sep 16--Sep 16, ,""
-NURS,516,Primary Care Practicum II,W12.10-14,AMS TRI,Oct 14--Oct 14, ,""
-NURS,516,Primary Care Practicum II,W12.10-14,AMS TRI,Nov 18--Nov 18, ,""
-NURS,516,Primary Care Practicum II,W12.10-14,AMS TRI,Dec 09--Dec 09, ,""
+NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS TRI
+NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS TRI
+NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS TRI
+NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS TRI
 NURS,516,Primary Care Practicum II,02,01092,2,W12.10-14,AMS ARR
-NURS,516,Primary Care Practicum II,W12.10-14,AMS ARR,Sep 16--Sep 16, ,""
-NURS,516,Primary Care Practicum II,W12.10-14,AMS ARR,Oct 14--Oct 14, ,""
-NURS,516,Primary Care Practicum II,W12.10-14,AMS ARR,Nov 18--Nov 18, ,""
-NURS,516,Primary Care Practicum II,W12.10-14,AMS ARR,Dec 09--Dec 09, ,""
+NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR
+NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR
+NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR
+NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",01,01104,3,M14.10-17,AMS TRI
-NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",M14.10-17,AMS TRI,Sep 14--Sep 14, ,""
-NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",M14.10-17,AMS TRI,Oct 12--Oct 12, ,""
-NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",M14.10-17,AMS TRI,Nov 16--Nov 16, ,""
-NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",M14.10-17,AMS TRI,Dec 07--Dec 07, ,""
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS TRI
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS TRI
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS TRI
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS TRI
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",02,01106,3,M14.10-17,AMS ARR
-NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",M14.10-17,AMS ARR,Sep 14--Sep 14, ,""
-NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",M14.10-17,AMS ARR,Oct 12--Oct 12, ,""
-NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",M14.10-17,AMS ARR,Nov 16--Nov 16, ,""
-NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",M14.10-17,AMS ARR,Dec 07--Dec 07, ,""
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS ARR
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS ARR
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS ARR
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS ARR
 NURS,540,NP Clinical Practicum,01,01054,V,W17.10-19,AMS TRI
-NURS,540,NP Clinical Practicum,W17.10-19,AMS TRI,Sep 16--Sep 16, ,""
-NURS,540,NP Clinical Practicum,W17.10-19,AMS TRI,Oct 14--Oct 14, ,""
-NURS,540,NP Clinical Practicum,W17.10-19,AMS TRI,Nov 18--Nov 18, ,""
-NURS,540,NP Clinical Practicum,W17.10-19,AMS TRI,Dec 09--Dec 09, ,""
+NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS TRI
+NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS TRI
+NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS TRI
+NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS TRI
 NURS,540,NP Clinical Practicum,02,01074,V,W17.10-19,AMS ARR
-NURS,540,NP Clinical Practicum,W17.10-19,AMS ARR,Sep 16--Sep 16, ,""
-NURS,540,NP Clinical Practicum,W17.10-19,AMS ARR,Oct 14--Oct 14, ,""
-NURS,540,NP Clinical Practicum,W17.10-19,AMS ARR,Nov 18--Nov 18, ,""
-NURS,540,NP Clinical Practicum,W17.10-19,AMS ARR,Dec 09--Dec 09, ,""
+NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR
+NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR
+NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR
+NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,01,01081,3,TU8.10-11,AMS TRI
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,TU8.10-11,AMS TRI,Sep 15--Sep 15, ,""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,TU8.10-11,AMS TRI,Oct 13--Oct 13, ,""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,TU8.10-11,AMS TRI,Nov 17--Nov 17, ,""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,TU8.10-11,AMS TRI,Dec 08--Dec 08, ,""
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS TRI
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS TRI
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS TRI
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS TRI
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,02,01082,3,TU8.10-11,AMS ARR
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,TU8.10-11,AMS ARR,Sep 15--Sep 15, ,""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,TU8.10-11,AMS ARR,Oct 13--Oct 13, ,""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,TU8.10-11,AMS ARR,Nov 17--Nov 17, ,""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,TU8.10-11,AMS ARR,Dec 08--Dec 08, ,""
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS ARR
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS ARR
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS ARR
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS ARR
 NURS,553,Organizational Systems and Leadership II,01,01083,3,TH8.10-11,AMS TRI
-NURS,553,Organizational Systems and Leadership II,TH8.10-11,AMS TRI,Sep 17--Sep 17, ,""
-NURS,553,Organizational Systems and Leadership II,TH8.10-11,AMS TRI,Oct 15--Oct 15, ,""
-NURS,553,Organizational Systems and Leadership II,TH8.10-11,AMS TRI,Nov 19--Nov 19, ,""
-NURS,553,Organizational Systems and Leadership II,TH8.10-11,AMS TRI,Dec 10--Dec 10, ,""
+NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS TRI
+NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS TRI
+NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS TRI
+NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS TRI
 NURS,553,Organizational Systems and Leadership II,02,01084,3,TH8.10-11,AMS ARR
-NURS,553,Organizational Systems and Leadership II,TH8.10-11,AMS ARR,Sep 17--Sep 17, ,""
-NURS,553,Organizational Systems and Leadership II,TH8.10-11,AMS ARR,Oct 15--Oct 15, ,""
-NURS,553,Organizational Systems and Leadership II,TH8.10-11,AMS ARR,Nov 19--Nov 19, ,""
-NURS,553,Organizational Systems and Leadership II,TH8.10-11,AMS ARR,Dec 10--Dec 10, ,""
+NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR
+NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR
+NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR
+NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR
 NURS,553,Organizational Systems and Leadership II,01 Lab,01097,0,ARRGT,ARR ARR
 NURS,553,Organizational Systems and Leadership II,02 Lab,01098,0,ARRGT,ARR ARR
 NURS,555,PMHNP Practicum I,01,01093,3,W12.10-14,AMS TRI
-NURS,555,PMHNP Practicum I,W12.10-14,AMS TRI,Sep 16--Sep 16, ,""
-NURS,555,PMHNP Practicum I,W12.10-14,AMS TRI,Oct 14--Oct 14, ,""
-NURS,555,PMHNP Practicum I,W12.10-14,AMS TRI,Nov 18--Nov 18, ,""
-NURS,555,PMHNP Practicum I,W12.10-14,AMS TRI,Dec 09--Dec 09, ,""
+NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS TRI
+NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS TRI
+NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS TRI
+NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS TRI
 NURS,555,PMHNP Practicum I,02,01094,3,W12.10-14,AMS ARR
-NURS,555,PMHNP Practicum I,W12.10-14,AMS ARR,Sep 16--Sep 16, ,""
-NURS,555,PMHNP Practicum I,W12.10-14,AMS ARR,Oct 14--Oct 14, ,""
-NURS,555,PMHNP Practicum I,W12.10-14,AMS ARR,Nov 18--Nov 18, ,""
-NURS,555,PMHNP Practicum I,W12.10-14,AMS ARR,Dec 09--Dec 09, ,""
+NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS ARR
+NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS ARR
+NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS ARR
+NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS ARR
 NURS,555,PMHNP Practicum I,01 Lab,01095,0,ARRGT,ARR ARR
 NURS,555,PMHNP Practicum I,02 Lab,01096,0,ARRGT,ARR ARR
 NURS,558,DNP Project II,01,01007,3,W14.10-17,AMS TRI
-NURS,558,DNP Project II,W14.10-17,AMS TRI,Sep 16--Sep 16, ,""
-NURS,558,DNP Project II,W14.10-17,AMS TRI,Oct 14--Oct 14, ,""
-NURS,558,DNP Project II,W14.10-17,AMS TRI,Nov 18--Nov 18, ,""
-NURS,558,DNP Project II,W14.10-17,AMS TRI,Dec 09--Dec 09, ,""
+NURS,558,DNP Project II,"","","",W14.10-17,AMS TRI
+NURS,558,DNP Project II,"","","",W14.10-17,AMS TRI
+NURS,558,DNP Project II,"","","",W14.10-17,AMS TRI
+NURS,558,DNP Project II,"","","",W14.10-17,AMS TRI
 NURS,558,DNP Project II,02,01008,3,W14.10-17,AMS ARR
-NURS,558,DNP Project II,W14.10-17,AMS ARR,Sep 16--Sep 16, ,""
-NURS,558,DNP Project II,W14.10-17,AMS ARR,Oct 14--Oct 14, ,""
-NURS,558,DNP Project II,W14.10-17,AMS ARR,Nov 18--Nov 18, ,""
-NURS,558,DNP Project II,W14.10-17,AMS ARR,Dec 09--Dec 09, ,""
+NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR
+NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR
+NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR
+NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR
 NURS,558,DNP Project II,01 Lab,01055,0,ARRGT,ARR ARR
 NURS,558,DNP Project II,02 Lab,01056,0,ARRGT,ARR ARR
 NURS,562,Advanced Health Assessment and Differential Diagnoses,01,01061,3,TU11.10-13,AMS TRI
-NURS,562,Advanced Health Assessment and Differential Diagnoses,TU11.10-13,AMS TRI,Sep 15--Sep 15, ,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,TU11.10-13,AMS TRI,Oct 13--Oct 13, ,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,TU11.10-13,AMS TRI,Nov 17--Nov 17, ,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,TU11.10-13,AMS TRI,Dec 08--Dec 08, ,""
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS TRI
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS TRI
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS TRI
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS TRI
 NURS,562,Advanced Health Assessment and Differential Diagnoses,02,01062,3,TU11.10-13,AMS ARR
-NURS,562,Advanced Health Assessment and Differential Diagnoses,TU11.10-13,AMS ARR,Sep 15--Sep 15, ,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,TU11.10-13,AMS ARR,Oct 13--Oct 13, ,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,TU11.10-13,AMS ARR,Nov 17--Nov 17, ,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,TU11.10-13,AMS ARR,Dec 08--Dec 08, ,""
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR
 NURS,562,Advanced Health Assessment and Differential Diagnoses,01 Lab,01066,0,ARRGT,ARR ARR
 NURS,562,Advanced Health Assessment and Differential Diagnoses,02 Lab,01067,0,ARRGT,ARR ARR
 NURS,563,Advanced Pharmacology,01,01063,3,TU13.10-16,AMS TRI
-NURS,563,Advanced Pharmacology,TU13.10-16,AMS TRI,Sep 15--Sep 15, ,""
-NURS,563,Advanced Pharmacology,TU13.10-16,AMS TRI,Oct 13--Oct 13, ,""
-NURS,563,Advanced Pharmacology,TU13.10-16,AMS TRI,Nov 17--Nov 17, ,""
-NURS,563,Advanced Pharmacology,TU13.10-16,AMS TRI,Dec 08--Dec 08, ,""
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS TRI
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS TRI
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS TRI
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS TRI
 NURS,563,Advanced Pharmacology,02,01075,3,TU13.10-16,AMS ARR
-NURS,563,Advanced Pharmacology,TU13.10-16,AMS TRI,Sep 15--Sep 15, ,""
-NURS,563,Advanced Pharmacology,TU13.10-16,AMS ARR,Oct 13--Oct 13, ,""
-NURS,563,Advanced Pharmacology,TU13-16,AMS TRI,Nov 17--Nov 17, ,""
-NURS,563,Advanced Pharmacology,TU13-16,AMS ARR,Dec 08--Dec 08, ,""
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS TRI
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS ARR
+NURS,563,Advanced Pharmacology,"","","",TU13-16,AMS TRI
+NURS,563,Advanced Pharmacology,"","","",TU13-16,AMS ARR
 NURS,564,Family Health and Health Promotion of Populations,01,01009,3,M8.10-11,AMS TRI
-NURS,564,Family Health and Health Promotion of Populations,M8.10-11,AMS TRI,Sep 14--Sep 14, ,""
-NURS,564,Family Health and Health Promotion of Populations,M8.10-11,AMS TRI,Oct 12--Oct 12, ,""
-NURS,564,Family Health and Health Promotion of Populations,M8.10-23,AMS TRI,Nov 16--Nov 16, ,""
-NURS,564,Family Health and Health Promotion of Populations,M8.10-11,AMS TRI,Dec 07--Dec 07, ,""
+NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS TRI
+NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS TRI
+NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-23,AMS TRI
+NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS TRI
 NURS,564,Family Health and Health Promotion of Populations,02,01080,3,M8.10-11,AMS ARR
-NURS,564,Family Health and Health Promotion of Populations,M8.10-11,AMS ARR,Sep 14--Sep 14, ,""
-NURS,564,Family Health and Health Promotion of Populations,M8.10-11,AMS ARR,Oct 12--Oct 12, ,""
-NURS,564,Family Health and Health Promotion of Populations,M8.10-11,AMS ARR,Nov 16--Nov 16, ,""
-NURS,564,Family Health and Health Promotion of Populations,M8.10-11,AMS ARR,Dec 07--Dec 07, ,""
+NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR
+NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR
+NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR
+NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR
 NURS,565,Information Management for Clinical Practice,01,01010,3,TH14.10-17,AMS TRI
-NURS,565,Information Management for Clinical Practice,TH14.10-17,AMS TRI,Sep 17--Sep 17, ,""
-NURS,565,Information Management for Clinical Practice,TH14.10-17,AMS TRI,Oct 15--Oct 15, ,""
-NURS,565,Information Management for Clinical Practice,TH14.10-17,AMS TRI,Nov 19--Nov 19, ,""
-NURS,565,Information Management for Clinical Practice,TH14.10-17,AMS TRI,Dec 10--Dec 10, ,""
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS TRI
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS TRI
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS TRI
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS TRI
 NURS,565,Information Management for Clinical Practice,02,01011,3,TH14.10-17,AMS ARR
-NURS,565,Information Management for Clinical Practice,TH14.10-17,AMS ARR,Sep 17--Sep 17, ,""
-NURS,565,Information Management for Clinical Practice,TH14.10-17,AMS ARR,Oct 15--Oct 15, ,""
-NURS,565,Information Management for Clinical Practice,TH14.10-17,AMS ARR,Nov 19--Nov 19, ,""
-NURS,565,Information Management for Clinical Practice,TH14.10-17,AMS ARR,Dec 10--Dec 10, ,""
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR
 NURS,566,Community Analysis and Grant Development,01,01113,2,M11.10-13,AMS TRI
-NURS,566,Community Analysis and Grant Development,M11.10-13,AMS TRI,Sep 14--Sep 14, ,""
-NURS,566,Community Analysis and Grant Development,M11.10-13,AMS TRI,Oct 12--Oct 12, ,""
-NURS,566,Community Analysis and Grant Development,M11.10-13,AMS TRI,Nov 16--Nov 16, ,""
-NURS,566,Community Analysis and Grant Development,M11.10-13,AMS TRI,Dec 07--Dec 07, ,""
+NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS TRI
+NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS TRI
+NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS TRI
+NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS TRI
 NURS,566,Community Analysis and Grant Development,02,01114,2,M11.10-13,AMS ARR
-NURS,566,Community Analysis and Grant Development,M11.10-13,AMS ARR,Sep 14--Sep 14, ,""
-NURS,566,Community Analysis and Grant Development,M11.10-13,AMS ARR,Oct 12--Oct 12, ,""
-NURS,566,Community Analysis and Grant Development,M11.10-13,AMS ARR,Nov 16--Nov 16, ,""
-NURS,566,Community Analysis and Grant Development,M11.10-13,AMS ARR,Dec 07--Dec 07, ,""
+NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR
+NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR
+NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR
+NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR
 NURS,576,Organizational Systems and Leadership I,01,01109,3,TH11.10-14,AMS TRI
-NURS,576,Organizational Systems and Leadership I,TH11.10-14,AMS TRI,Sep 17--Sep 17, ,""
-NURS,576,Organizational Systems and Leadership I,TH11.10-14,AMS TRI,Oct 15--Oct 15, ,""
-NURS,576,Organizational Systems and Leadership I,TH11.10-14,AMS TRI,Nov 19--Nov 19, ,""
-NURS,576,Organizational Systems and Leadership I,TH11.10-14,AMS TRI,Dec 10--Dec 10, ,""
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS TRI
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS TRI
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS TRI
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS TRI
 NURS,576,Organizational Systems and Leadership I,02,01111,3,TH11.10-14,AMS ARR
-NURS,576,Organizational Systems and Leadership I,TH11.10-14,AMS ARR,Sep 17--Sep 17, ,""
-NURS,576,Organizational Systems and Leadership I,TH11.10-14,AMS ARR,Oct 15--Oct 15, ,""
-NURS,576,Organizational Systems and Leadership I,TH11.10-14,AMS ARR,Nov 19--Nov 19, ,""
-NURS,576,Organizational Systems and Leadership I,TH11.10-14,AMS ARR,Dec 10--Dec 10, ,""
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR
 NURS,576,Organizational Systems and Leadership I,01 Lab,01110,0,ARRGT,ARR ARR
 NURS,576,Organizational Systems and Leadership I,02 Lab,01112,0,ARRGT,ARR ARR
 NURS,581,Advanced Pathophysiology,01,01076,3,M14.10-17,AMS TRI
-NURS,581,Advanced Pathophysiology,M14.10-17,AMS TRI,Sep 14--Sep 14, ,""
-NURS,581,Advanced Pathophysiology,M14.10-17,AMS TRI,Oct 12--Oct 12, ,""
-NURS,581,Advanced Pathophysiology,M14.10-17,AMS TRI,Nov 16--Nov 16, ,""
-NURS,581,Advanced Pathophysiology,M14.10-17,AMS TRI,Dec 07--Dec 07, ,""
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS TRI
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS TRI
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS TRI
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS TRI
 NURS,581,Advanced Pathophysiology,02,01077,3,M14.10-17,AMS ARR
-NURS,581,Advanced Pathophysiology,M14.10-17,AMS ARR,Sep 14--Sep 14, ,""
-NURS,581,Advanced Pathophysiology,M14.10-17,AMS ARR,Oct 12--Oct 12, ,""
-NURS,581,Advanced Pathophysiology,M14.10-17,AMS ARR,Nov 16--Nov 16, ,""
-NURS,581,Advanced Pathophysiology,M14.10-17,AMS ARR,Dec 07--Dec 07, ,""
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR
 NURS,583,DNP Population Health Practicum,01,01107,V,ARRGT,ARR ARR
 NURS,583,DNP Population Health Practicum,02,01108,V,ARRGT,ARR ARR
 NURS,599,Independent Study,01,01059,V,ARRGT,ARR ARR
 NURS,599,Independent Study,02,01060,V,ARRGT,ARR ARR
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,01012,V,TH8.10-11,AMS TRI
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",TH8.10-11,AMS TRI,Sep 17--Sep 17, ,""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",TH8.10-11,AMS TRI,Oct 15--Oct 15, ,""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",TH8.10-11,AMS TRI,Nov 19--Nov 19, ,""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",TH8.10-11,AMS TRI,Dec 10--Dec 10, ,""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS TRI
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS TRI
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS TRI
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS TRI
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination",02,01013,V,TH8.10-11,AMS ARR
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",TH8.10-11,AMS ARR,Sep 17--Sep 17, ,""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",TH8.10-11,AMS ARR,Oct 15--Oct 15, ,""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",TH8.10-11,AMS ARR,Nov 19--Nov 19, ,""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",TH8.10-11,AMS ARR,Dec 10--Dec 10, ,""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS ARR
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS ARR
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS ARR
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS ARR
 PHIL,201,[QUAN] Introduction to Formal Logic,01,13132,3,"TU,TH10.35-11.50",TFLO 244
 PHYSICS,101,[PSCI] General Physics,01,01361,4,"M,W,F14.10-15",TFLO 252
 PHYSICS,101,[PSCI] General Physics,01 Lab,01362,0,TU14.40-17.30,TEST 224
@@ -700,7 +700,7 @@ POL_S,499,Special Problems,01,02114,V,ARRGT,ARR ARR
 PSYCH,105,[SSCI] Introductory Psychology,01,02041,3,"TU,TH12.05-13.20",TCIC 210
 PSYCH,210,Psychology as a Science,01,01525,3,"M,W,F11.10-12",TFLO 131
 PSYCH,311,[QUAN] Statistics in Psychology,01,01423,4,"M,W,F9.10-10",TCIC 217
-PSYCH,311,[QUAN] Statistics in Psychology,W12.10-13,TCIC 101R,Aug 24--Dec 11, ,""
+PSYCH,311,[QUAN] Statistics in Psychology,"","","",W12.10-13,TCIC 101R
 PSYCH,312,[M] Research Methods in Psychology,01,01424,4,"M,W,F10.10-11",TCIC 217
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,01425,0,"M,W,F11.10-12",TCIC 219
 PSYCH,350,Social Psychology,02,02042,3,TU14.55-16.10,TCIC 210
@@ -782,8 +782,8 @@ TCH_LRN,371,Teaching Elementary Science,01,01413,3,TH17.15-20,TEST 224
 TCH_LRN,385,Teaching Elementary Social Studies,01,01414,3,ARRGT,ARR ARR
 TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,01,01265,3,TU9.10-11.55,TFLO 138
 TCH_LRN,402,Instructional Practicum I,01,01488,V,F10.10-12.10,TFLO 138
-TCH_LRN,402,Instructional Practicum I,F10.10-11.10,TFLO 138,Oct 30--Oct 30, ,""
-TCH_LRN,402,Instructional Practicum I,F10.10-11.10,TFLO 138,Dec 04--Dec 04, ,""
+TCH_LRN,402,Instructional Practicum I,"","","",F10.10-11.10,TFLO 138
+TCH_LRN,402,Instructional Practicum I,"","","",F10.10-11.10,TFLO 138
 TCH_LRN,402,Instructional Practicum I,02,01568,V,ARRGT,ARR ARR
 TCH_LRN,405,Instructional Practicum II,01,01507,V,ARRGT,ARR ARR
 TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,01,01266,3,TU17.15-20,TFLO 138
