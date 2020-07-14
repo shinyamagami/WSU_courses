@@ -112,14 +112,14 @@ module WSUInPerson
               credit = tr.css('td').map(&:text)[3].strip
               sched_days = tr.css('td').map(&:text)[4].strip
 
-              # some classes doesn't have sched_loc parts
+              # some classes don't have sched_loc parts
               begin
                 sched_loc = tr.css('td').map(&:text)[5].strip
               rescue NoMethodError => e
               rescue => e
               end
 
-              # some classes doesn't have instructor parts
+              # some classes don't have instructor parts
               begin
                 instructor = tr.css('td').map(&:text)[7].strip
               rescue NoMethodError => e
@@ -178,7 +178,8 @@ module WSUInPerson
       end
     end
 
-    
+  
+    # takes too long to open so I abandoned to scrape from section pages
     def scrape_section_pages(section_urls, prefix, csv, sections)
       i = 0
   
