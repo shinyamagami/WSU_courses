@@ -1,3 +1,6 @@
+
+In-person classes from each campus [Google Spreadsheet](https://drive.google.com/drive/folders/1O_CZLHsgft_iDyU15ueuevtclVZcCxXB?usp=sharing)
+
 # WSU In Person
 
 Welcome to WSU_In_Person gem!
