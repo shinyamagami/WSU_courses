@@ -69,7 +69,7 @@ module WSUInPerson
     def scrape_course_pages(subject_urls, prefixes, csv)
 
       csv << ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
-              "Bldg & Room"]
+              "Bldg & Room", "Instructor"]
 
       # for prefix counter
       i = 0
@@ -86,7 +86,8 @@ module WSUInPerson
           classnum = ""
           credit = ""
           sched_days = ""
-          room_spec = ""
+          sched_loc = ""
+          instructor = ""
           name_on = 0
           sec_on = 0
 
@@ -110,34 +111,48 @@ module WSUInPerson
               classnum = tr.css('td').map(&:text)[2].strip
               credit = tr.css('td').map(&:text)[3].strip
               sched_days = tr.css('td').map(&:text)[4].strip
+
+              # some classes doesn't have sched_loc parts
               begin
-                room_spec = tr.css('td').map(&:text)[5].strip
+                sched_loc = tr.css('td').map(&:text)[5].strip
               rescue NoMethodError => e
               rescue => e
               end
 
+              # some classes doesn't have instructor parts
+              begin
+                instructor = tr.css('td').map(&:text)[7].strip
+              rescue NoMethodError => e
+              rescue => e
+              end
+              
+
               #for when a section part has multiple lines
               if !sec.start_with?("0", "1", "2", "3", "4", "5", "6")
                 sched_days = sec
-                room_spec = classnum
+                sched_loc = classnum
                 sec = ""
                 classnum = ""
                 credit = ""
+                instructor = ""
               end
 
               sec_on = 1
             end
 
 
-            if room_spec != "WEB ARR" && sec_on == 1
-              puts course_number + " " + name + " " + sec + " " + classnum + " " + credit + " " + sched_days + " " + room_spec
-              csv << [prefix, course_number, name, sec, classnum, credit, sched_days, room_spec]
+            if sched_loc != "WEB ARR" && sec_on == 1
+              puts course_number + " " + name + " " + sec + " " +
+                  classnum + " " + credit + " " + sched_days + " " +
+                  sched_loc + " " + instructor
+              csv << [prefix, course_number, name, sec, classnum, credit, sched_days, sched_loc, instructor]
 
               sec = ""
               classnum = ""
               credit = ""
               sched_days = ""
-              room_spec = ""
+              sched_loc = ""
+              instructor = ""
 
               sec_on = 0
             end
@@ -172,7 +187,6 @@ module WSUInPerson
         doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{section_url}"))
         roomspec = doc.at('.sectionInfo').at('.roomspec').text.strip
   
-  
         # Not sure if WEB ARR is online or in-person yet
         if roomspec != "WEB ARR"
           class_name = doc.at('.sectionInfo').at('b').text.strip
@@ -182,11 +196,10 @@ module WSUInPerson
           puts prefix + "\t" + class_name + "\t" + sections.at(i) + "\t" + class_number
           csv << [prefix, class_name, sections.at(i), class_number]
         end
-        
         i+=1
       end
-  
     end
+
   end
   
 
