@@ -18,7 +18,7 @@ ACCTG,600,Special Projects or Independent Study,01,06489,V,ARRGT,ARR ARR,""
 ACCTG,800,"Doctoral Research, Dissertation, and/or Examination",01,06491,V,ARRGT,ARR ARR,Bernard Wong-On-Wing
 AERO,101,Heritage and Values I,01,05719,1,TU14.55-15.45,CLEV 30,Brian Balazs
 AERO,101,Heritage and Values I,02,07994,1,TH12.05-12.55,SPRK 227,Brian Balazs
-AERO,103,Leadership Laboratory I,01,05720,2,TH17-19,CUE 203,""
+AERO,103,Leadership Laboratory I,01,05720,2,TH17-19,CUE 203,Paul Hyde
 AERO,201,Team and Leadership Fundamentals I,01,05721,1,TU9.10-10,KRUG 417,Brian Balazs
 AERO,201,Team and Leadership Fundamentals I,02,05722,1,TH14.55-15.45,KRUG 417,Brian Balazs
 AERO,203,Leadership Laboratory II,01,05723,2,TH17-19,TODD 116,""
@@ -71,11 +71,11 @@ AMDT,211,Apparel Assembly,02,10007,3,"TU,TH13.30-16",JSNH C0112,Manal Shaheen
 AMDT,230,Creating Visual Advertising in Fashion,01,08478,3,"TU,TH10.35-11.50",JSNH C0001,Carolina Silva
 AMDT,308,Visual Merchandising and Promotion,01 Lab,09232,0,W16.10-18,JSNH 22,Xingqiu Lou
 AMDT,308,Visual Merchandising and Promotion,02 Lab,09983,0,TH12.05-14.05,JSNH 22,Xingqiu Lou
-AMDT,310,Advanced Apparel Assembly,01,06625,4,W9.10-10,ARR ARR,Manal Shaheen
+AMDT,310,Advanced Apparel Assembly,01,06625,4,W9.10-10,JSNH C0112,Manal Shaheen
 AMDT,310,Advanced Apparel Assembly,01 Lab,06626,0,"W,F10.10-12.20",ARR ARR,Manal Shaheen
 AMDT,315,[M] Textile Product Analysis,01,08073,3,TU9.10-10.50,JSNH C0003,Hang Liu
 AMDT,315,[M] Textile Product Analysis,01 Lab,08074,0,TH9.10-10.50,VPBS 31,Hang Liu
-AMDT,409,Technical Apparel Design,01,09975,3,"W,F9.10-11.40",ARR ARR,Armine Ghalachyan
+AMDT,409,Technical Apparel Design,01,09975,3,"W,F9.10-11.40",JSNH C0113,Armine Ghalachyan
 AMDT,411,Advanced Apparel Design,01,06631,3,"TU,TH13.30-16",JSNH C0113,Chan Mi Hwang
 AMDT,490,Cooperative Education Internship,01,06634,V,ARRGT,ARR ARR,Shanna Hiscock
 AMDT,495,Instructional Practicum,01,06635,V,ARRGT,ARR ARR,Ting Chi
@@ -105,7 +105,7 @@ AMDT,499,Special Problems,04,06651,V,ARRGT,ARR ARR,Chan Mi Hwang
 AMDT,499,Special Problems,05,06652,V,ARRGT,ARR ARR,Manal Shaheen
 AMDT,499,Special Problems,06,07750,V,ARRGT,ARR ARR,Hang Liu
 AMDT,499,Special Problems,07,08915,V,ARRGT,ARR ARR,""
-AMDT,509,Technical Apparel Design,01,09976,3,"W,F9.10-11.40",ARR ARR,Armine Ghalachyan
+AMDT,509,Technical Apparel Design,01,09976,3,"W,F9.10-11.40",JSNH C0113,Armine Ghalachyan
 AMDT,519,Research Methods,01,06653,3,F14.15-16.45,JSNH C0003,Armine Ghalachyan
 AMDT,550,Social Networking and Omni-channel Retailing,01,09987,3,TH14.55-17.25,JSNH C0003,Jihyeong Son
 AMDT,596,Advanced Instructional Practicum,01,06654,3,ARRGT,ARR ARR,Chan Mi Hwang
@@ -322,8 +322,8 @@ BIOLOGY,428,Mammalogy,01 Lab,07340,0,TU13.30-16.20,EAST 192,Daniela Monk
 BIOLOGY,428,Mammalogy,02 Lab,07341,0,TH13.30-16.20,EAST 192,Daniela Monk
 BIOLOGY,430,Methods of Teaching Secondary Science I,01,07343,3,"TU,TH11.10-13",EDAD 308,Sarah Fick
 BIOLOGY,438,[M] Animal Behavior,01,07344,3,"W,F10.10-11",FLMA 226,Daniela Monk
-BIOLOGY,438,[M] Animal Behavior,01 Lab,07345,0,TH13.30-16.20,EAST 192,Daniela Monk
-BIOLOGY,438,[M] Animal Behavior,02 Lab,07346,0,F12.10-15,EAST 192,Daniela Monk
+BIOLOGY,438,[M] Animal Behavior,01 Lab,07345,0,TH13.30-16.20,HLD 201,Daniela Monk
+BIOLOGY,438,[M] Animal Behavior,02 Lab,07346,0,F12.10-15,HLD 201,Daniela Monk
 BIOLOGY,473,[CAPS] [M] Evolution and Society,01,09853,3,"M,W,F15.10-16",JSNH C0107,Mark Dybdahl
 BIOLOGY,489,[CAPS] [M] Synthesis and Communication of Independent Research,01,15735,3,ARRGT,ARR ARR,Erica Crespi
 BIOLOGY,490,[M] Professional Seminar in Physical Therapy,01,07347,2,TU17.45-19.45,ARR ARR,Lenora Waelti
@@ -835,7 +835,6 @@ CPT_S,484,Software Requirements,01,09092,3,ARRGT,ARR ARR,Bolong Zeng
 CPT_S,488,Professional Practice Coop/Internship I,01,08043,V,ARRGT,ARR ARR,Sandra Brabb
 CPT_S,499,Special Problems,01,07141,V,ARRGT,ARR ARR,Anantharaman Kalyanaraman
 CPT_S,515,Advanced Algorithms,01,08180,3,ARRGT,ARR ARR,Zhe Dang
-CPT_S,515,Advanced Algorithms,02,09749,3,"M,W,F10.10-11",AMS PUL,Zhe Dang
 CPT_S,530,Numerical Analysis,02,16042,3,"TU,TH10.35-11.50",SPRK 227,Valipuram Manoranjan
 CPT_S,553,Graph Theory,01,05320,3,"M,W,F14.10-15","",Matthew Hudelson
 CPT_S,581,Software Maintenance,01,09170,3,ARRGT,ARR ARR,Venera Arnaoudova
@@ -2097,7 +2096,7 @@ MBIOS,303,Introductory Biochemistry,05,06842,4,ARRGT,ARR ARR,Ronald Brosemer
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01 Lab,04565,0,"TU,TH9.10-12",EAST G0098,Michael Rolfsmeier
 MBIOS,304,Microbiology and Molecular Biology Laboratory,02 Lab,04566,0,"TU,TH14.10-17",EAST G0098,Michael Rolfsmeier
 MBIOS,304,Microbiology and Molecular Biology Laboratory,03 Lab,04567,0,"W,F14.10-17",EAST G0098,Michael Rolfsmeier
-MBIOS,304,Microbiology and Molecular Biology Laboratory,04 Lab,16571,0,"M,W9-11.50",EAST G0098,Michael Rolfsmeier
+MBIOS,304,Microbiology and Molecular Biology Laboratory,04 Lab,16571,0,"W,F9-11.50",EAST G0098,Michael Rolfsmeier
 MBIOS,305,General Microbiology,02,06844,3,ARRGT,ARR ARR,Consetta Helmick
 MBIOS,320,[BSCI] DNA and Society,01,06845,3,ARRGT,ARR ARR,Ronald Brosemer
 MBIOS,360,[M] Cell and Molecular Laboratory,01,16470,2,"M,W,F14.10-15",ARR ARR,Erika Offerdahl
@@ -2185,7 +2184,6 @@ ME,499,Special Problems,01,05190,V,ARRGT,ARR ARR,""
 ME,501,Continuum Mechanics,01,12044,3,"TU,TH9.10-10.25","",Jow-Lian Ding
 ME,521,Fundamentals of Fluids I,01,08968,3,"M,W,F9.10-10",SPRK 335,Prashanta Dutta
 ME,579,Advanced Topics in Mechanical Engineering,01,08607,V,"M,W,F14.10-15","",John Swensen
-ME,598,Seminar,01,05194,1,TH11.10-12,ETRL 101,Soumik Banerjee
 ME,700,"Master's Research, Thesis, and/or Examination",01,05196,V,ARRGT,ARR ARR,(multiple)
 ME,701,Master's Independent Capstone Project and /or Examination,01,13140,V,ARRGT,ARR ARR,(multiple)
 ME,702,"Master's Special Problems, Directed Study, and/or Examination",01,05197,V,ARRGT,ARR ARR,(multiple)
@@ -2525,15 +2523,15 @@ NEUROSCI,491,Senior Project-Poster,01,04900,1,ARRGT,ARR ARR,Samantha Gizerian
 NEUROSCI,495,Directed Research,01,04901,V,ARRGT,ARR ARR,(multiple)
 NEUROSCI,499,Special Problems,01,04902,V,ARRGT,ARR ARR,(multiple)
 NEUROSCI,531,Neuroscience Laboratory Rotation,01,04903,1,ARRGT,ARR ARR,""
-NEUROSCI,540,Special Topics in Integrative Neuroscience,01,06459,V,"M,F9.10-10",VBRB 201,""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,01,06459,V,"M,F9.10-10",VBRB 201,Heiko Jansen
 NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-10,VBRB 201,""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,02,07880,V,"M,F9-10",VBRB 201,""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-9.10,VBRB 201,""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,03,08986,V,"M,F9.10-10",VBRB 201,""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-10,VBRB 201,""
-NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,01,07578,V,"M,W10.10-11",VBRB 201,""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,01,07578,V,"M,W10.10-11",VBRB 201,David Rossi
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,VBRB 201,""
-NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,02,07887,V,"M,W10.10-11",VBRB 201,""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,02,07887,V,"M,W10.10-11",VBRB 201,Steve Simasko
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,VBRB 201,""
 NEUROSCI,563,Deconstruction of Research,01,08357,3,"TU,TH9.10-10.25",SPRK G0045,""
 NEUROSCI,564,Topics in Biomedical Experimentation,01,09940,V,"TU,TH9.10-10.25",VBRB 201,Erika Offerdahl
