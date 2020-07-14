@@ -21,9 +21,7 @@ module WSUInPerson
       6.Global\n
       7.All\n"
 
-
       temp_campus = gets.chomp
-
 
       if temp_campus == "1"
         campuses = campuses.values_at(0)
@@ -43,6 +41,7 @@ module WSUInPerson
       puts campuses
       return campuses
     end
+
 
     def scrape_subject_urls(campuses)
 
@@ -69,14 +68,11 @@ module WSUInPerson
   
     def scrape_course_pages(subject_urls, prefixes, csv)
 
-
-#      csv = CSV.new("output.csv")
-#      csv = CSV.open("output.csv", "wb")
       csv << ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
               "Bldg & Room"]
 
+      # for prefix counter
       i = 0
-
       
       subject_urls.each do |subject_url|
         section_urls = []
@@ -95,22 +91,19 @@ module WSUInPerson
           sec_on = 0
 
           doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{subject_url}"))
-          section_links = doc.css('.class_schedule').css('.section').css('a')
+          #section_links = doc.css('.class_schedule').css('.section').css('a')
 
 
           trs = doc.css('.class_schedule').css('tr')
           trs.each do |tr|
 
 
-
-            if tr.css('td').text.strip.start_with?(prefix)
-  
+            if tr.css('td').text.strip.start_with?(prefix)  
               temp_name = tr.css('td').text.strip.split(' ').drop(1).join(' ')
               course_number = temp_name.split.first
               name = temp_name.split(' ').drop(1).join(' ')
-              #name = tr.css('td').text.strip.split(' ').drop(1).join(' ').second
-              
             end
+
 
             if tr.attr('class') == "section" || tr.attr('class') == "section subdued"
               sec = tr.css('td').map(&:text)[1].strip
@@ -132,13 +125,9 @@ module WSUInPerson
                 credit = ""
               end
 
-              
               sec_on = 1
             end
 
-            if !(tr.css('td').text.strip.start_with?(prefix)) && !(tr.attr('class') == "section")
-              #skip
-            end
 
             if room_spec != "WEB ARR" && sec_on == 1
               puts course_number + " " + name + " " + sec + " " + classnum + " " + credit + " " + sched_days + " " + room_spec
@@ -155,18 +144,13 @@ module WSUInPerson
             sec_on = 0
           end
 
-          
-
-
-
+=begin
           section_links.each do |section_link|
             section_urls << section_link.attribute('href').value
             sections << section_link.text.strip
           end
+=end
 
-
-
-#          scrape_section_pages(section_urls, prefix, csv, sections)
           i+=1
         rescue OpenURI::HTTPError => e
           if e.message == '404 Not Found'
