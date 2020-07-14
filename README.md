@@ -1,4 +1,4 @@
-# WSUInPerson
+# WSU In Person
 
 Welcome to WSU_In_Person gem!
 
