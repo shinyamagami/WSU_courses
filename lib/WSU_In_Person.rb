@@ -2,6 +2,7 @@
 require 'nokogiri'
 require 'open-uri'
 require 'csv'
+require './lib/export_csv'
 
 
 module WSUInPerson
@@ -10,7 +11,7 @@ module WSUInPerson
   class WSUInPerson
 
     def get_campus
-      campuses = ["Pullman", "Spokane", "Tri-Cities", "Vancouver", "Everett", "DDP"]
+      @campuses = ["Pullman", "Spokane", "Tri-Cities", "Vancouver", "Everett", "DDP"]
 
       puts "For which campus do you want to get?\n
       1.Pullman\n
@@ -24,28 +25,28 @@ module WSUInPerson
       temp_campus = gets.chomp
 
       if temp_campus == "1"
-        campuses = campuses.values_at(0)
+        @campuses = @campuses.values_at(0)
       elsif temp_campus == "2"
-        campuses = campuses.values_at(1)
+        @campuses = @campuses.values_at(1)
       elsif temp_campus == "3"
-        campuses = campuses.values_at(2)
+        @campuses = @campuses.values_at(2)
       elsif temp_campus == "4"
-        campuses = campuses.values_at(3)
+        @campuses = @campuses.values_at(3)
       elsif temp_campus == "5"
-        campuses = campuses.values_at(4)
+        @campuses = @campuses.values_at(4)
       elsif temp_campus == "6"
-        campuses = campuses.values_at(5)
+        @campuses = @campuses.values_at(5)
       else
       end
 
-      puts campuses
-      return campuses
+      puts @campuses
+      #return campuses
     end
 
 
-    def scrape_subject_urls(campuses)
+    def scrape_subject_urls
 
-      campuses.each do |campus|
+      @campuses.each do |campus|
 
 
         doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/20203'))
@@ -66,11 +67,18 @@ module WSUInPerson
   
   
     def scrape_course_pages(subject_urls, prefixes, campus)
-
+=begin      
       csv = CSV.new(campus + ".csv")
       csv = CSV.open(campus + ".csv", "wb")
       csv << ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
               "Bldg & Room", "Instructor"]
+=end
+      csv = ExportCSV::ExportCSV.new
+      csv.create(campus)
+      column_names = ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
+        "Bldg & Room", "Instructor"]
+      csv.name_column(column_names)
+
 
       # for prefix counter
       i = 0
@@ -146,7 +154,9 @@ module WSUInPerson
               puts course_number + " " + name + " " + sec + " " +
                   classnum + " " + credit + " " + sched_days + " " +
                   sched_loc + " " + instructor
-              csv << [prefix, course_number, name, sec, classnum, credit, sched_days, sched_loc, instructor]
+              #csv << [prefix, course_number, name, sec, classnum, credit, sched_days, sched_loc, instructor]
+              values = [prefix, course_number, name, sec, classnum, credit, sched_days, sched_loc, instructor]
+              csv.write_row(values)
 
               sec = ""
               classnum = ""
