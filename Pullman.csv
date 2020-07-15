@@ -45,7 +45,7 @@ AG_ED,499,Special Problems,01,05349,V,ARRGT,ARR ARR,(multiple)
 AGRI,587,Research and Extension Communications in Agriculture,01,05633,3,ARRGT,ARR ARR,Catherine Perillo
 AGRI,700,"Master's Research, Thesis, and/or Examination",01,05634,V,ARRGT,ARR ARR,Cameron Peace
 AGRI,702,"Master's Special Problems, Directed Study, and/or Examination",01,05635,V,ARRGT,ARR ARR,(multiple)
-AGTM,201,Metal Fabrication,01,05699,3,TU12.10-13,ELB 2,John Baser
+AGTM,201,Metal Fabrication,01,05699,3,"TU,TH12.10-13",ELB 2,John Baser
 AGTM,201,Metal Fabrication,01 Lab,05701,0,"TU,TH13.10-16",ELB 2,John Baser
 AGTM,305,Agricultural Precision Systems,01,05703,3,"M,W10.10-11",CUE 318,Haly Neely
 AGTM,305,Agricultural Precision Systems,01 Lab,05704,0,M14.10-17,HULB 5,Haly Neely
@@ -795,7 +795,6 @@ CPT_S,111,[QUAN] Introduction to Computer Programming,04 Lab,07096,0,TH13.30-16.
 CPT_S,111,[QUAN] Introduction to Computer Programming,05 Lab,07097,0,TH16.20-19.10,"",Shira Broschat
 CPT_S,111,[QUAN] Introduction to Computer Programming,06 Lab,07098,0,F11.10-14,"",Shira Broschat
 CPT_S,111,[QUAN] Introduction to Computer Programming,07 Lab,07099,0,F14.10-17,"",Shira Broschat
-CPT_S,111,[QUAN] Introduction to Computer Programming,08 Lab,07100,0,F17.10-20,"",Shira Broschat
 CPT_S,121,Program Design and Development C/C++,01 Lab,07102,0,TU7.45-10.35,CARP 101,Andrew Ofallon
 CPT_S,121,Program Design and Development C/C++,02 Lab,07103,0,TU10.35-13.25,SLOA 175,Andrew Ofallon
 CPT_S,121,Program Design and Development C/C++,03 Lab,07104,0,TU13.30-16.20,SLOA 9,Andrew Ofallon
@@ -1383,7 +1382,7 @@ ENGR,120,Innovation in Design,09 Lab,16461,0,TU15.10-17,ARR ARR,""
 ENGR,120,Innovation in Design,10 Lab,16462,0,TH9.10-11,ARR ARR,""
 ENGR,120,Innovation in Design,11 Lab,16463,0,TH12.05-13.55,ARR ARR,""
 ENGR,120,Innovation in Design,12 Lab,16464,0,TH15.10-17,ARR ARR,""
-ENGR,201,Metal Fabrication,01,05700,3,TU12.10-13,ELB 2,John Baser
+ENGR,201,Metal Fabrication,01,05700,3,"TU,TH12.10-13",ELB 2,John Baser
 ENGR,201,Metal Fabrication,01 Lab,05702,0,"TU,TH13.10-16",ELB 2,John Baser
 ENGR,420,Multidisciplinary Engineering Design I,01,08466,3,"TU,TH10.35-11.50",ABEL 201,""
 ENGR,420,Multidisciplinary Engineering Design I,02,09444,3,ARRGT,ARR ARR,Lynne Cooper

@@ -12,7 +12,7 @@ module WSUInPerson
     def get_campus
       campuses = ["Pullman", "Spokane", "Tri-Cities", "Vancouver", "Everett", "DDP"]
 
-      puts "From which campus do you want to get?\n
+      puts "For which campus do you want to get?\n
       1.Pullman\n
       2.Spokane\n
       3.Tri-Cities\n
