@@ -72,10 +72,10 @@ COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,14895,3
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,02891,3,"TU,TH13.25-14.40",VUB 100,Narayanan Iyer
 COMSTRAT,495,Strategic Communication Professional Internship,01,02885,V,ARRGT,ARR ARR,Narayanan Iyer
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,02545,3,"TU,TH10.35-11.50",VECS 122,Laurie Drapela
-CRM_J,330,Crime Control Policies,01,02955,3,"TU,TH13.25-14.40",VUB 107,Laurie Drapela
-CRM_J,420,[M] Criminal Procedure,01,13057,3,"TU,TH9.10-10.25",VMMC 16,Laurie Collins-Levy
-CRM_J,426,Victimology and Public Policy,01,13058,3,"TU,TH14.50-16.05",VLIB 265,Kathryn Dubois
-CRM_J,428,Drug and Alcohol Use and Abuse,01,13059,3,TU17.45-20.30,VLIB 260,Kathryn Dubois
+CRM_J,330,Crime Control Policies,01,02955,3,"TU,TH13.25-14.40",GUC VAN,Laurie Drapela
+CRM_J,420,[M] Criminal Procedure,01,13057,3,"TU,TH9.10-10.25",GUC VAN,Laurie Collins-Levy
+CRM_J,426,Victimology and Public Policy,01,13058,3,"TU,TH14.50-16.05",GUC VAN,Kathryn Dubois
+CRM_J,428,Drug and Alcohol Use and Abuse,01,13059,3,TU17.45-20.30,GUC VAN,Kathryn Dubois
 CS,121,Program Design and Development,01,02819,4,"TU,TH12-13.15",VSCI 12,Ben Mccamish
 CS,121,Program Design and Development,01 Lab,02820,0,TU14.50-17.20,VECS 325,Ben Mccamish
 CS,121,Program Design and Development,02 Lab,02821,0,W10.35-13.05,VECS 325,Ben Mccamish
@@ -195,7 +195,6 @@ ENGLISH,201,[WRTG] Writing and Research,01,03034,3,"M,W12-13.15",VMMC 23,Kandy R
 ENGLISH,302,[M] Introduction to English Studies,02,03215,3,ARRGT,ARR ARR,Kandy Robertson
 ENGLISH,305,[HUM] Shakespeare,01,13180,3,"M,W13.25-14.40",VLIB 201,Richard Snyder
 ENGLISH,309,Women Writers,01,13445,3,"TU,TH14.50-16.05",VUB 222,Chelsea Ratzlaff
-ENGLISH,323,Approaches to the Teaching of English,01,02552,3,"TU,TH16.15-17.30",GUC VAN,Jodi Stevens
 ENGLISH,325,Young Adult Literature,01,02553,3,"M,W16.15-17.30",GUC VAN,Steven Massart
 ENGLISH,339,[ARTS] Topics in Film as Literature,01,14786,3,ARRGT,ARR ARR,Turiya Autry
 ENGLISH,339,[ARTS] Topics in Film as Literature,01 Lab,14787,0,ARRGT,ARR ARR,Turiya Autry
@@ -241,9 +240,9 @@ H_D,334,[SSCI] Principles of Community Development,01,12975,3,"M,W14.50-16.05",V
 H_D,341,Guidance in Early Childhood Programs,01,13816,3,ARRGT,"",Adair Lawrence
 H_D,342,Curriculum for Early Childhood Programs,01,02939,4,ARRGT,ARR ARR,Lindsay Krupke
 H_D,342,Curriculum for Early Childhood Programs,01 Lab,02940,0,ARRGT,ARR ARR,Lindsay Krupke
-H_D,350,[DIVR] Family Diversity,01,02715,3,"TU,TH12-13.15",VMMC 6,Tanja Burkhard
+H_D,350,[DIVR] Family Diversity,01,02715,3,"TU,TH12-13.15","",Tanja Burkhard
 H_D,385,Perspectives in Human Services,01,02559,3,"TU,TH9.10-10.25",VMMC 217,Caitlin Bletscher
-H_D,406,Work and Family,01,02717,3,"TU,TH14.50-16.05",VMMC 217,Alexandra Jackson
+H_D,406,Work and Family,01,02717,3,"TU,TH14.50-16.05","",Alexandra Jackson
 H_D,445,Early Childhood Professional Preparation Seminar,01,13823,3,ARRGT,"",Lindsay Krupke
 H_D,479,Planning and Evaluation in Human Development,01,12976,3,"M,W13.25-14.40",VMMC 214,Amy Salazar
 H_D,485,Participation in Human Development Research,01,02531,V,ARRGT,ARR ARR,""
@@ -524,7 +523,6 @@ SOE,445,Hazardous Waste Management,01,13514,3,"TU,TH16.15-17.30",VMMC 202Q,Raymo
 SOE,476,Biology and Ecology of Pacific Salmon,01,03192,3,"TU,TH16.25-17.40",VECS 209,Jenifer Mcintyre
 SOE,499,Special Problems,01,02589,V,ARRGT,ARR ARR,""
 SOE,510,Species Distribution Modeling,01,15517,3,"TU,TH9.10-10.25",VMMC 202Q,Daniel Thornton
-SOE,526,Ecology of the Columbia River,01,14906,3,W12-14.50,VECS 125,Stephen Bollens
 SOE,544,Environmental Assessment,01,02709,3,TH13.25-14.40,VECS 120,Duncan Thomas
 SOE,545,Hazardous Waste Management,01,13515,3,"TU,TH16.15-17.30",VMMC 202Q,Raymond Swenson
 SOE,576,Biology and Ecology of Pacific Salmon,01,03193,3,"TU,TH16.25-17.40",VECS 209,Jenifer Mcintyre
@@ -581,19 +579,7 @@ TCH_LRN,512,Language and Cultural Factors in Mathematics,01,12925,3,TH16.20-19.0
 TCH_LRN,544,Teaching Children's and Young Adult Literature,01,13977,3,W17.15-20,AMS VAN,Sarah Newcomer
 TCH_LRN,584,Research in Teaching Mathematics and Science,01,12924,3,W17.45-20.30,VECS 309,David Slavit
 TCH_LRN,600,Special Projects or Independent Study,01,02652,4,ARRGT,ARR ARR,Lisa Swindell
-UNIV,104,First-Year Success Seminar,01,02826,2,F12-13.50,VDEN 110,Cindy Morical
-UNIV,104,First-Year Success Seminar,02,02828,2,F12-13.50,VUB 222,Miwako Nakamoto
-UNIV,104,First-Year Success Seminar,03,02921,2,F12-13.50,VUB 107,Shyanna Reyes
-UNIV,104,First-Year Success Seminar,04,02922,2,F12-13.50,VUB 221,Bunpa Lim
-UNIV,104,First-Year Success Seminar,05,02923,2,F12-13.50,VUB 121,Angela Gintz
-UNIV,104,First-Year Success Seminar,06,03002,2,F12-13.50,VUB 125,Julie Mercado
-UNIV,104,First-Year Success Seminar,07,14824,2,F12-13.50,VLIB 261,Cynthia Johnston
-UNIV,104,First-Year Success Seminar,08,14825,2,F12-13.50,VLIB 265,Eric Scott
-UNIV,104,First-Year Success Seminar,09,15488,2,TU14.50-16.05,VMMC 214,Shyanna Reyes
-UNIV,104,First-Year Success Seminar,10,15489,2,TU14.50-16.05,VUB 226,Miwako Nakamoto
 UNIV,300,Accessing Information for Research,01,02751,1,ARRGT,ARR ARR,Samuel Lohmann
-UNIV,301,Career Exploration and Professional Development,01,13541,1,M16.15-17.05,VLIB 261,""
-UNIV,301,Career Exploration and Professional Development,03,15565,1,M16.15-17.05,VLIB 265,""
 UNIV,304,Transfer Student Seminar,01,14860,2,F12-13.50,VLIB 264,""
 UNIV,398,Internship,01,02657,V,ARRGT,ARR ARR,""
 UNIV,398,Internship,02,03197,V,ARRGT,ARR ARR,Judy Hopkins

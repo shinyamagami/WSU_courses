@@ -46,8 +46,7 @@ module WSUInPerson
     def scrape_subject_urls(campuses)
 
       campuses.each do |campus|
-        csv = CSV.new(campus + ".csv")
-        csv = CSV.open(campus + ".csv", "wb")
+
 
         doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/20203'))
 
@@ -61,13 +60,15 @@ module WSUInPerson
           prefixes << subject.text.strip
         end
         
-        scrape_course_pages(subject_urls, prefixes, csv)
+        scrape_course_pages(subject_urls, prefixes, campus)
       end
     end
   
   
-    def scrape_course_pages(subject_urls, prefixes, csv)
+    def scrape_course_pages(subject_urls, prefixes, campus)
 
+      csv = CSV.new(campus + ".csv")
+      csv = CSV.open(campus + ".csv", "wb")
       csv << ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
               "Bldg & Room", "Instructor"]
 

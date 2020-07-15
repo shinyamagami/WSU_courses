@@ -65,6 +65,7 @@ AIS,320,[DIVR] Native Peoples of North America,02,11908,3,ARRGT,ARR ARR,John Mcn
 AIS,331,[SSCI] Archaeology of the Americas,01,11996,3,ARRGT,ARR ARR,John Mcnassar
 AIS,401,Tribal Nation Building Leadership - Research I,01,09948,2,ARRGT,ARR ARR,Kenneth Lokensgard
 AMDT,105,"Introductory College Seminar in Apparel, Merchandising, Design, and Textiles",01,07758,1,M9.10-10,JSNH C0001,Shanna Hiscock
+AMDT,105,"Introductory College Seminar in Apparel, Merchandising, Design, and Textiles",02,16469,1,M9.10-10,JSNH C0001,Shanna Hiscock
 AMDT,210,[PSCI] Textiles,08 Lab,16419,0,W16.10-19,CUE 319,Hang Liu
 AMDT,211,Apparel Assembly,01,06623,3,"TU,TH11.50-13.20",JSNH C0112,Lindsay Mccoy
 AMDT,211,Apparel Assembly,02,10007,3,"TU,TH13.30-16",JSNH C0112,Manal Shaheen
@@ -89,6 +90,7 @@ AMDT,495,Instructional Practicum,08,06642,V,ARRGT,ARR ARR,Yini Chen
 AMDT,495,Instructional Practicum,09,06643,V,ARRGT,ARR ARR,""
 AMDT,495,Instructional Practicum,10,07744,V,ARRGT,ARR ARR,Shanna Hiscock
 AMDT,496,Special Event Production,01,09458,V,"M,W15.10-16",JSNH C0001,Shanna Hiscock
+AMDT,496,Special Event Production,02,16578,V,W15.10-16,JSNH C0001,Shanna Hiscock
 AMDT,498,Special Topics,01,06644,V,ARRGT,ARR ARR,Shanna Hiscock
 AMDT,498,Special Topics,02,06645,V,ARRGT,ARR ARR,Ting Chi
 AMDT,498,Special Topics,03,06646,V,ARRGT,ARR ARR,Yini Chen
@@ -136,13 +138,18 @@ AMER_ST,520,"Colonization, Globalization and Decolonization",01,11952,3,W13.10-1
 AMER_ST,590,Seminar in American Studies,01,05199,3,TH13.10-16,THOM 109,Michael Hubert
 AMER_ST,600,Special Projects or Independent Study,01,05200,V,ARRGT,ARR ARR,(multiple)
 AMER_ST,800,"Doctoral Research, Dissertation, and/or Examination",01,05202,V,ARRGT,ARR ARR,(multiple)
-ANIM_SCI,101,Introductory Animal Science,05 Lab,06675,0,TH14.55-17.35,FLMA 226,Martin Maquivar
+ANIM_SCI,101,Introductory Animal Science,01 Lab,06671,0,TU12.05-14.45,ARR ARR,Martin Maquivar
+ANIM_SCI,101,Introductory Animal Science,02 Lab,06672,0,TU14.55-17.35,ARR ARR,Martin Maquivar
+ANIM_SCI,101,Introductory Animal Science,03 Lab,06673,0,W15.10-17.50,ARR ARR,Martin Maquivar
+ANIM_SCI,101,Introductory Animal Science,04 Lab,06674,0,TH12.05-14.45,ARR ARR,Martin Maquivar
+ANIM_SCI,101,Introductory Animal Science,05 Lab,06675,0,TH14.55-17.35,ARR ARR,Martin Maquivar
 ANIM_SCI,166,Young Horse Handling,01,06676,1,TU12.05-14.55,ARR ARR,Angela Reitmeier
 ANIM_SCI,166,Young Horse Handling,02,06677,1,TH12.05-14.55,ARR ARR,Angela Reitmeier
 ANIM_SCI,172,Dairy Cattle Management Laboratory,01,06678,1,TU12.05-14.55,ARR ARR,John Swain
 ANIM_SCI,172,Dairy Cattle Management Laboratory,02,06679,1,TH12.05-14.45,ARR ARR,John Swain
-ANIM_SCI,174,Beef Cow Calf Management Laboratory,01,06680,1,TU12.05-14.45,WEGN G0050,Brent Mccann
+ANIM_SCI,174,Beef Cow Calf Management Laboratory,01,06680,1,TU12.05-14.45,ARR ARR,Brent Mccann
 ANIM_SCI,180,Animal Sciences Orientation,01,06681,1,M15.10-16,TODD 116,Kristen Johnson
+ANIM_SCI,266,Equine Management,01,06682,2,M15.10-17,"",Angela Reitmeier
 ANIM_SCI,274,Beef Feedlot Systems,01,06683,2,"M,W10.10-11",TODD 204,Donald Llewellyn
 ANIM_SCI,285,Rights and Welfare of Animals,01,06684,3,"M,W,F11.10-12",SPRK 323,Martin Maquivar
 ANIM_SCI,285,Rights and Welfare of Animals,02,06685,3,"M,W,F12.10-13",SPRK 323,Martin Maquivar
@@ -150,6 +157,7 @@ ANIM_SCI,313,Feeds and Feeding,01,06686,4,"M,W,F13.10-14",CUE 203,Donald Llewell
 ANIM_SCI,313,Feeds and Feeding,01 Lab,06687,0,F14.10-17,TODD 130,Donald Llewellyn
 ANIM_SCI,313,Feeds and Feeding,02 Lab,06688,0,W14.10-17,TODD 130,Donald Llewellyn
 ANIM_SCI,313,Feeds and Feeding,03 Lab,06689,0,TH14.55-17.45,TODD 216,Donald Llewellyn
+ANIM_SCI,313,Feeds and Feeding,04 Lab,15569,0,W17.10-20,"",Donald Llewellyn
 ANIM_SCI,330,Animal Genetics,01,06690,3,"M,W,F9.10-10",TODD 116,Holly Neibergs
 ANIM_SCI,399,Practicum,01,06692,V,ARRGT,ARR ARR,(multiple)
 ANIM_SCI,399,Practicum,02,06693,V,ARRGT,ARR ARR,Kristen Johnson
@@ -287,8 +295,8 @@ B_LAW,210,Law and the Legal Environment of Business,02,06466,3,"M,W,F15.10-16",T
 B_LAW,210,Law and the Legal Environment of Business,03,06467,3,"M,W,F14.10-15",TDAD 276,Jefferson Griffeath
 B_LAW,210,Law and the Legal Environment of Business,04,08106,3,"M,W,F8.10-9",TDAD 276,Jefferson Griffeath
 BIO_ENG,310,Introduction to Transport Processes,01,08802,3,ARRGT,ARR ARR,Peter Pfromm
-BIO_ENG,321,Mechanics of Biological Materials,01,04642,3,"M,W,F10.10-11",WEGN 205,Anita Vasavada
 BIO_ENG,322,[M] Mechanics of Biological Materials Lab,01,07699,1,TU14.55-17.45,WEGN 205,Anita Vasavada
+BIO_ENG,350,Introduction to Cellular Bioengineering,01,04643,3,"M,W,F13.10-14",WEGN G0001,Wenji Dong
 BIO_ENG,410,[M] Bioengineering Capstone Project I,01,04644,3,"TU,TH10.35-11.50",WEGN 205,""
 BIO_ENG,410,[M] Bioengineering Capstone Project I,01 Lab,04645,0,ARRGT,ARR ARR,""
 BIO_ENG,440,Unified Systems Bioengineering II,01,04646,4,"M,W,F12.10-13",WEGN 205,David Lin
@@ -435,7 +443,6 @@ CHE,101,Overview of Chemical Engineering,02,09882,1,M15.10-16,WEGN G070C,Di Wu
 CHE,310,Introduction to Transport Processes,02,15628,3,"M,W,F15.10-16",SPRK 227,David Thiessen
 CHE,432,[M] Chemical Engineering Lab I,01 Lab,04462,0,"TU,TH9.10-12",ETRL 4,David Thiessen
 CHE,432,[M] Chemical Engineering Lab I,02 Lab,04463,0,"TU,TH14.25-17.15",ETRL 4,David Thiessen
-CHE,441,Process Control,01,04653,3,"M,W,F9.10-10",CUE 203,Steven Saunders
 CHE,488,Professional Practice Coop/Internship I,01,08033,V,ARRGT,ARR ARR,Sandra Brabb
 CHE,495,Chemical Engineering Internship,01,07621,2,ARRGT,ARR ARR,James Petersen
 CHE,499,Special Problems,01,04655,V,ARRGT,ARR ARR,(multiple)
@@ -855,8 +862,8 @@ CRM_J,702,"Master's Special Problems, Directed Study, and/or Examination",01,065
 CRM_J,800,"Doctoral Research, Dissertation, and/or Examination",01,06570,V,ARRGT,ARR ARR,(multiple)
 CROP_SCI,102,Introduction to Cultivated Plants,01,06333,3,"M,W,F11.10-12",SPRK G0045,Carol Kawula
 CROP_SCI,305,Ecology and Management of Weeds,01,06111,3,"TU,TH8.10-9",JSNH 204,Ian Burke
-CROP_SCI,305,Ecology and Management of Weeds,01 Lab,06112,0,TU16.20-19.10,WLSH 13,Ian Burke
-CROP_SCI,305,Ecology and Management of Weeds,02 Lab,06113,0,TU13.30-16.10,TODD 430,Ian Burke
+CROP_SCI,305,Ecology and Management of Weeds,01 Lab,06112,0,TU16.20-19.10,VPBS 35,Ian Burke
+CROP_SCI,305,Ecology and Management of Weeds,02 Lab,06113,0,TU13.30-16.10,VPBS 35,Ian Burke
 CROP_SCI,403,Advanced Cropping Systems,01,06114,3,"TU,TH13.30-14.45",JSNH 204,Clark Neely
 CROP_SCI,403,Advanced Cropping Systems,02,08503,3,"TU,TH13.30-14.45",AMS PUL,Clark Neely
 CROP_SCI,403,Advanced Cropping Systems,03,08504,3,"TU,TH13.30-14.45",AMS PUL,Clark Neely
@@ -929,6 +936,12 @@ CST_M,495,Seminar in Construction Management,01,05747,3,ARRGT,ARR ARR,Jason Pesc
 CST_M,495,Seminar in Construction Management,02,05748,V,ARRGT,ARR ARR,Mohammadsoroush Tafazzoli
 CST_M,495,Seminar in Construction Management,03,05749,V,ARRGT,ARR ARR,David Gunderson
 CST_M,495,Seminar in Construction Management,04,10027,V,ARRGT,ARR ARR,""
+CST_M,499,Special Problems,01,05750,V,ARRGT,ARR ARR,""
+CST_M,499,Special Problems,02,05751,V,ARRGT,ARR ARR,Julia Day
+CST_M,499,Special Problems,03,07841,V,ARRGT,ARR ARR,Jason Peschel
+CST_M,499,Special Problems,04,09450,V,ARRGT,ARR ARR,Rick Cherf
+CST_M,499,Special Problems,05,09912,V,ARRGT,ARR ARR,Stephen Austin
+CST_M,499,Special Problems,06,09986,V,ARRGT,ARR ARR,Jason Peschel
 DATA,115,Introduction to Data Analytics,01,08332,3,ARRGT,ARR ARR,Damilola Olabode
 DATA,115,Introduction to Data Analytics,02,09265,3,"TU,TH12.05-13.20",SPRK 212,Daryl Deford
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,05111,3,"M,W,F9.10-10",SPRK 223,Kathryn Manis
@@ -1388,6 +1401,7 @@ ENTOM,103,[BSCI] Discover Insects: Laboratory for Non-Science Majors,07,07674,1,
 ENTOM,103,[BSCI] Discover Insects: Laboratory for Non-Science Majors,08,07675,1,F14.10-17,VPBS 31,Laura Lavine
 ENTOM,103,[BSCI] Discover Insects: Laboratory for Non-Science Majors,09,07676,1,F9.10-12,VPBS 31,Laura Lavine
 ENTOM,103,[BSCI] Discover Insects: Laboratory for Non-Science Majors,10,10029,1,TH15.10-18,VPBS 35,Laura Lavine
+ENTOM,343,[M] General Entomology,01,05782,3,"TU,TH10.35-11.50",FSHN 164,Robert Clark
 ENTOM,361,Honey Bee Biology,01,07214,3,"M,W,F9.10-10",CLEV 30,Nicholas Naeger
 ENTOM,361,Honey Bee Biology,02,07769,3,"M,W,F9.10-10",AMS ARR,Nicholas Naeger
 ENTOM,361,Honey Bee Biology,03,08379,3,"M,W,F9.10-10",AMS ARR,Nicholas Naeger
@@ -1565,7 +1579,6 @@ GERMAN,499,Special Problems,01,04668,V,ARRGT,ARR ARR,(multiple)
 GLANHLTH,563,Deconstruction of Research,01,08516,3,"TU,TH9.10-10.25",SPRK G0045,""
 GLANHLTH,564,Topics in Biomedical Experimentation,01,11867,V,"TU,TH9.10-10.25",VBRB 201,Erika Offerdahl
 H_D,101,[SSCI] Human Development Across the Lifespan,06,05123,3,"M,W,F13.10-14",TODD 125,Kyle Murphy
-H_D,101,[SSCI] Human Development Across the Lifespan,07,05124,3,"TU,TH9.10-10.25",TODD 133,Caroline Ojeme
 H_D,101,[SSCI] Human Development Across the Lifespan,08,05125,3,"TU,TH13.30-14.45",TODD 230,Caroline Ojeme
 H_D,205,[COMM] Developing Effective Communication and Life Skills,06,08800,4,ARRGT,ARR ARR,Miranda Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,05132,0,ARRGT,ARR ARR,Mary Patton
@@ -1576,7 +1589,6 @@ H_D,205,[COMM] Developing Effective Communication and Life Skills,07 Lab,08996,0
 H_D,301,Family Stress and Coping,02,08601,3,ARRGT,ARR ARR,Wendy Ewest
 H_D,342,Curriculum for Early Childhood Programs,02,08807,4,ARRGT,ARR ARR,Lindsay Krupke
 H_D,342,Curriculum for Early Childhood Programs,02 Lab,05139,0,ARRGT,ARR ARR,Lindsay Krupke
-H_D,360,Death and Dying,03,09649,3,"TU,TH9.10-10.25",CUE 419,Raven Weaver
 H_D,385,Perspectives in Human Services,01,09158,3,ARRGT,ARR ARR,Jeri Finn
 H_D,406,Work and Family,01,08170,3,ARRGT,ARR ARR,Samantha Grant
 H_D,407,Student Teaching for Family and Consumer Sciences,01,05142,V,ARRGT,ARR ARR,Deborah Handy
@@ -1593,7 +1605,7 @@ H_D,498,Field Placement,01,05148,V,ARRGT,ARR ARR,Joseph Hewa
 H_D,499,Special Problems,01,05149,V,ARRGT,ARR ARR,(multiple)
 H_D,499,Special Problems,03,09132,V,ARRGT,ARR ARR,Deborah Handy
 H_D,505,Developing Effective Leadership: Tidal Leadership,01,08149,2,ARRGT,ARR ARR,Anna Whitehall
-H_D,586,Special Topics in Human Development,01,14924,V,W14.10-15,SPRK G0045,Robert Cooper
+H_D,586,Special Topics in Human Development,01,14924,V,W14.10-15,ARR ARR,Robert Cooper
 H_D,600,Special Projects or Independent Study,01,05150,V,ARRGT,ARR ARR,(multiple)
 HBM,101,Professional and Career Development for the Business World,01,06262,1,"M,W,F9.10-10",COLL 125,James Harbour
 HBM,101,Professional and Career Development for the Business World,02,09504,1,"M,W,F9.10-10",CUE 207,Anthony Thompson
@@ -1716,7 +1728,7 @@ HORT,330,Landscape Plants for Urban and Community Environments,01,06342,3,"M,W12
 HORT,330,Landscape Plants for Urban and Community Environments,01 Lab,06343,0,"TU,TH9.10-10.25",VPBS 43,Carol Kawula
 HORT,330,Landscape Plants for Urban and Community Environments,02 Lab,09998,0,"TU,TH10.35-11.50",VPBS 43,Carol Kawula
 HORT,399,Professional Work Experience,01,06344,V,ARRGT,ARR ARR,Adelaide Snider
-HORT,418,[M] Post-harvest Biology and Technology,01,06348,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
+HORT,418,[M] Post-harvest Biology and Technology,01,06348,3,"TU,TH10.35-11.25","",Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,02,08281,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,03,08283,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,04,08284,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
@@ -1724,7 +1736,6 @@ HORT,418,[M] Post-harvest Biology and Technology,05,08285,3,"TU,TH10.35-11.25",A
 HORT,418,[M] Post-harvest Biology and Technology,01 Lab,06354,0,TU14.55-17.45,VPBS 39,Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,02 Lab,08282,0,ARRGT,ARR ARR,Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,03 Lab,09588,0,F9.10-12,VPBS 39,Richard Sharpe
-HORT,435,Chemistry and Biochemistry of Fruit and Wine,01,09110,3,"M,W,F9.10-10",AMS PUL,""
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,02,09199,3,"M,W,F9.10-10",AMS PUL,""
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,03,09201,3,"M,W,F9.10-10",AMS PUL,""
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,04,09203,3,"M,W,F9.10-10",AMS PUL,""
@@ -1744,7 +1755,7 @@ HORT,510,Graduate Seminar,02,06365,1,TH14.55-16.05,AMS PUL,Lee Kalcsits
 HORT,510,Graduate Seminar,03,06366,1,TH14.55-16.05,AMS PUL,Lee Kalcsits
 HORT,510,Graduate Seminar,04,06367,1,TH14.55-16.05,AMS PUL,Lee Kalcsits
 HORT,510,Graduate Seminar,05,06368,1,TH14.55-16.05,AMS PUL,Lee Kalcsits
-HORT,518,[M] Post-harvest Biology and Technology,01,06349,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
+HORT,518,[M] Post-harvest Biology and Technology,01,06349,3,"TU,TH10.35-11.25","",Richard Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,02,06350,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,03,06351,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,04,06352,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
@@ -1752,7 +1763,6 @@ HORT,518,[M] Post-harvest Biology and Technology,05,06353,3,"TU,TH10.35-11.25",A
 HORT,518,[M] Post-harvest Biology and Technology,01 Lab,06355,0,TU14.55-17.45,VPBS 39,Richard Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,02 Lab,06356,0,ARRGT,ARR ARR,Richard Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,03 Lab,09587,0,F9.10-12,VPBS 39,Richard Sharpe
-HORT,535,Chemistry and Biochemistry of Fruit and Wine,01,09111,3,"M,W,F9.10-10",AMS PUL,""
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,02,09113,3,"M,W,F9.10-10",AMS PUL,""
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,03,09114,3,"M,W,F9.10-10",AMS PUL,""
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,04,09115,3,"M,W,F9.10-10",AMS PUL,""
@@ -1964,7 +1974,7 @@ KINES,413,Strength Training Practicum II,01,08535,3,ARRGT,ARR ARR,Kimberly Holms
 KINES,413,Strength Training Practicum II,01 Lab,08608,0,ARRGT,ARR ARR,Kimberly Holmstrom
 KINES,414,Strength Training Practicum III,01,08536,3,ARRGT,ARR ARR,Kimberly Holmstrom
 KINES,414,Strength Training Practicum III,01 Lab,08895,0,ARRGT,ARR ARR,Kimberly Holmstrom
-KINES,469,[M] Athletic Training Organization and Administration,01,07033,3,"TU,TH9.10-10.25",WLSH 13,Kasee Hildenbrand
+KINES,469,[M] Athletic Training Organization and Administration,01,07033,3,"TU,TH9.10-10.25","",Kasee Hildenbrand
 KINES,484,[CAPS] Exercise Prescription and Medical Conditions,01,04509,3,"TU,TH9.10-10.25",SGYM 201,Kimberly Holmstrom
 KINES,484,[CAPS] Exercise Prescription and Medical Conditions,02,04510,3,"TU,TH12.05-13.20",SGYM 201,Kimberly Holmstrom
 KINES,485,Kinesiology Internship,01,07034,V,ARRGT,ARR ARR,Tami Goetz
@@ -2439,7 +2449,6 @@ MUS,456,Seminar in Advanced Composition,01,06057,4,F11.10-12,KIMB 346,Scott Blas
 MUS,459,Seminar in Advanced Jazz Composition,01,06058,V,ARRGT,ARR ARR,Gregory Yasinitsky
 MUS,465,Seminar in Major Performance Literature,01,09083,2,ARRGT,ARR ARR,Aaron Agulay
 MUS,465,Seminar in Major Performance Literature,02,09650,2,ARRGT,ARR ARR,Christopher Dickey
-MUS,465,Seminar in Major Performance Literature,03,09651,2,ARRGT,ARR ARR,David Jarvis
 MUS,465,Seminar in Major Performance Literature,04,09652,2,ARRGT,ARR ARR,David Turnbull
 MUS,465,Seminar in Major Performance Literature,05,09653,2,ARRGT,ARR ARR,Dean Luethi
 MUS,465,Seminar in Major Performance Literature,06,09654,2,ARRGT,ARR ARR,Fabio Menchetti
@@ -2449,6 +2458,7 @@ MUS,465,Seminar in Major Performance Literature,10,09658,2,ARRGT,ARR ARR,Sarah M
 MUS,465,Seminar in Major Performance Literature,11,09659,2,ARRGT,ARR ARR,Shannon Scott
 MUS,465,Seminar in Major Performance Literature,12,09660,2,ARRGT,ARR ARR,Sophia Tegart
 MUS,465,Seminar in Major Performance Literature,13,15423,2,ARRGT,ARR ARR,Martin King
+MUS,470,Marketing and Promotion for the Performing Arts,01,16471,2,ARRGT,ARR ARR,Horace Young
 MUS,482,Instrumental Conducting,01,06060,1,"M,W,F11.10-12",KIMB B0048,Danh Pham
 MUS,484,Woodwind Techniques I,01,09090,1,"TU,TH8.10-9",KIMB B0048,Martin King
 MUS,486,String Techniques I,01,09091,1,"TU,TH10-10.50",KIMB B0048,Meredith Arksey
@@ -2461,7 +2471,6 @@ MUS,497,Directed Student Teaching in Music,01,06066,V,ARRGT,ARR ARR,Martin King
 MUS,499,Special Problems,01,06068,V,ARRGT,ARR ARR,Christopher Dickey
 MUS,499,Special Problems,02,09661,V,ARRGT,ARR ARR,Sophia Tegart
 MUS,499,Special Problems,03,15424,V,ARRGT,ARR ARR,Martin King
-MUS,501,Organ,01,06069,V,TU11-11.50,KIMB 110,Jill Schneider
 MUS,502,Piano,01,08680,V,TU11-11.50,CUE 202,Fabio Menchetti
 MUS,502,Piano,02,09619,V,TU11-11.50,ARR ARR,Yoon-Wha Roh
 MUS,503,Voice,01,08681,V,TU11-11.50,KIMB 101,Julie Wieck
@@ -2545,22 +2554,8 @@ PHIL,103,[HUM] Introduction to Ethics,02,03735,3,"M,W,F10.10-11",BRYN 305,Willia
 PHIL,499,Special Problems,01,03741,V,ARRGT,ARR ARR,(multiple)
 PHIL,530,Bioethics,01,03742,2,W12.10-14,CUE 412,William Kabasenche
 PHIL,564,Topics in Biomedical Experimentation,01,11869,V,"TU,TH9.10-10.25",VBRB 201,Erika Offerdahl
-PHYSICS,102,[PSCI] General Physics,01 Lab,03790,0,TU12.10-15,WEBS 241,""
-PHYSICS,102,[PSCI] General Physics,02 Lab,03791,0,TU18.10-21,WEBS 241,""
-PHYSICS,102,[PSCI] General Physics,03 Lab,03792,0,W12.10-15,WEBS 241,""
-PHYSICS,102,[PSCI] General Physics,05 Lab,03873,0,W18.10-21,WEBS 241,""
-PHYSICS,102,[PSCI] General Physics,06 Lab,03794,0,TH12.10-15,WEBS 241,""
-PHYSICS,102,[PSCI] General Physics,07 Lab,03856,0,TH9.10-12,WEBS 241,""
-PHYSICS,102,[PSCI] General Physics,09 Lab,03869,0,TU15.10-18,WEBS 241,""
 PHYSICS,150,[PSCI] Physics and Your World,01,14662,3,"TU,TH11.10-13",WEBS 941,Anya Rasmussen
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,03796,4,"M,W,F12.10-13",WEBS 16,Nicholas Cerruti
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,01 Lab,03823,0,TU9.10-12,WEBS 441,""
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,02 Lab,03824,0,TU12.10-15,WEBS 441,""
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,03 Lab,03858,0,TU15.10-18,WEBS 441,""
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,04 Lab,03859,0,W9.10-12,WEBS 441,""
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,05 Lab,03825,0,W12.10-15,WEBS 441,""
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,07 Lab,03827,0,TH9.10-12,WEBS 441,""
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,08 Lab,03828,0,TH12.10-15,WEBS 441,""
 PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,10 Lab,03861,0,TH18.10-21,WEBS 441,""
 PHYSICS,206,[PSCI] Physics for Scientists and Engineers II - Honors,01,03829,5,"M,W,F11.10-12",WEBS 16,Brian Collins
 PHYSICS,206,[PSCI] Physics for Scientists and Engineers II - Honors,01 Lab,03830,0,TU18.10-21,WEBS 441,""
@@ -2684,15 +2679,14 @@ PREV_SCI,512,Finite and Growth Mixture Modeling,01,12075,3,"TU,TH14.55-16.10",SP
 PREV_SCI,513,Research Methods in Prevention Science,01,07545,3,TU15.10-18,CUE 114,Sara Waters
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,05117,V,ARRGT,ARR ARR,(multiple)
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,05118,V,ARRGT,ARR ARR,(multiple)
-PSYCH,312,[M] Research Methods in Psychology,02,04097,4,ARRGT,ARR ARR,""
+PSYCH,312,[M] Research Methods in Psychology,02,04097,4,ARRGT,ARR ARR,Carrie Lane
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,03947,0,ARRGT,ARR ARR,""
 PSYCH,312,[M] Research Methods in Psychology,02 Lab,03948,0,ARRGT,ARR ARR,""
 PSYCH,312,[M] Research Methods in Psychology,03 Lab,03949,0,ARRGT,ARR ARR,""
 PSYCH,312,[M] Research Methods in Psychology,05 Lab,03951,0,ARRGT,ARR ARR,""
-PSYCH,312,[M] Research Methods in Psychology,08 Lab,04098,0,ARRGT,ARR ARR,""
-PSYCH,324,Psychology of Gender,02,04100,3,ARRGT,ARR ARR,""
-PSYCH,328,[M] Self Control,02,04054,3,"TU,TH13.30-14.45",CUE 419,Lee Daffin
-PSYCH,440,[M] Clinical/Community Psychology,01,03960,3,"TU,TH12.05-13.20",TODD 130,Susan Collins
+PSYCH,312,[M] Research Methods in Psychology,08 Lab,04098,0,ARRGT,ARR ARR,Carrie Lane
+PSYCH,324,Psychology of Gender,02,04100,3,ARRGT,ARR ARR,Kristy Mcraney
+PSYCH,328,[M] Self Control,03,15415,3,"TU,TH12.05-13.20","",Paul Kwon
 PSYCH,444,[M] Basic Clinical Skills,01,04061,3,"M,W,F11.10-12","",Paul Kwon
 PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,04010,3,"TU,TH12.05-13.20",SPRK G0045,Carrie Cuttler
 PSYCH,514,Psychometrics,01,04011,3,"TU,TH14.55-16.10",AMS PUL,G Burns
@@ -2766,8 +2760,7 @@ SOC,101,[SSCI] Introduction to Sociology,"","","",F12.10-13,"",""
 SOC,101,[SSCI] Introduction to Sociology,"","","",F12.10-13,"",""
 SOC,101,[SSCI] Introduction to Sociology,"","","",W13.10-14,"",""
 SOC,101,[SSCI] Introduction to Sociology,21,08745,3,ARRGT,ARR ARR,Caleb Cooley
-SOC,102,[SSCI] Social Problems,02,06596,3,"TU,TH9.10-10.25","",Jordan Burke
-SOC,245,Sociology of Sport,02,08433,3,"M,W,F10.10-11","",Kyle Rakowski
+SOC,102,[SSCI] Social Problems,02,06596,3,"TU,TH9.10-10.25",WLSH 13,Jordan Burke
 SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",02,09929,3,ARRGT,ARR ARR,Robert Ressler
 SOC,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,05849,3,"M,W,F13.10-14","",Lindsey Carman
 SOC,310,Development of Social Theory,01,06600,3,ARRGT,ARR ARR,Nathan Parsons
@@ -2852,10 +2845,10 @@ SOE,315,Water and the Earth,01,09796,3,ARRGT,ARR ARR,Stephen Henderson
 SOE,315,Water and the Earth,01 Lab,09876,0,ARRGT,ARR ARR,Stephen Henderson
 SOE,320,Sedimentary Petrology and Sedimentation,01,06440,3,"M,W10.10-11",WEBS 1126,""
 SOE,320,Sedimentary Petrology and Sedimentation,01 Lab,06441,0,M15.10-18,WEBS 822,""
-SOE,350,Earth Materials,01,06442,4,"M,W,F9.10-10",WEBS 1051,Arron Steiner
+SOE,350,Earth Materials,01,06442,4,"M,W,F9.10-10","",Arron Steiner
 SOE,350,Earth Materials,01 Lab,06443,0,TU9.10-12,WEBS 822,""
 SOE,390,Living on the Edge: Global Climate Change and Earth History,01,09289,3,ARRGT,ARR ARR,Marc Kramer
-SOE,444,Environmental Assessment,02,10097,3,TH16.20-17.35,AMS ARR,Duncan Thomas
+SOE,444,Environmental Assessment,02,10097,3,TH16.20-17.35,AMS PUL,Duncan Thomas
 SOE,454,[CAPS] [M] Restoration Ecology,01 Lab,07582,0,W14.10-17,STEF ARR,Rodney Sayler
 SOE,454,[CAPS] [M] Restoration Ecology,02 Lab,07583,0,TH13.30-16.20,STEF ARR,Rodney Sayler
 SOE,454,[CAPS] [M] Restoration Ecology,03 Lab,09271,0,M14.10-17,STEF ARR,Rodney Sayler
@@ -2871,10 +2864,10 @@ SOE,498,Seminar,01,04583,1,TH16.20-17.10,"",Jeffrey Vervoort
 SOE,499,Special Problems,01,06248,V,ARRGT,ARR ARR,""
 SOE,501,Graduate Skills Seminar,01,06249,1,F10.10-11,TROY 309,Chester Keller
 SOE,526,Ecology of the Columbia River,01,13475,3,W12-14.50,WEBS 1141,Stephen Bollens
-SOE,540,Agroecology,01,08893,3,W11.10-13.40,AMS ARR,Marcia Ostrom
+SOE,540,Agroecology,01,08893,3,W11.10-13.40,AMS PUL,Marcia Ostrom
 SOE,540,Agroecology,02,15412,3,W11.10-13.40,AMS PUL,Marcia Ostrom
-SOE,544,Environmental Assessment,02,10096,3,TH16.20-17.35,AMS ARR,Duncan Thomas
-SOE,576,Biology and Ecology of Pacific Salmon,02,13183,3,"TU,TH16.25-17.40",AMS ARR,Jenifer Mcintyre
+SOE,544,Environmental Assessment,02,10096,3,TH16.20-17.35,AMS PUL,Duncan Thomas
+SOE,576,Biology and Ecology of Pacific Salmon,02,13183,3,"TU,TH16.25-17.40",AMS PUL,Jenifer Mcintyre
 SOE,583,Radiogenic Isotopes and Geochronology,01,09506,3,"TU,TH10.35-11.50",WEBS 1051,Jeffrey Vervoort
 SOE,597,Advanced Topics in Geology,01,06444,V,ARRGT,ARR ARR,""
 SOE,598,Seminar,01,04584,1,TH16.20-17.10,"",Jeffrey Vervoort
@@ -3119,8 +3112,6 @@ UNIV,111,Developing Academic Strategies for Listening and Discussion,02,08928,4,
 UNIV,199,Introduction to Directed Research,03,09323,V,M16.10-17,CUE 209,Shelley Pressley
 UNIV,295,Introduction to Models of Leadership,01,08343,2,"M,W12.10-13.25",BOAD 184,Shelby Mckay
 UNIV,295,Introduction to Models of Leadership,03,08367,2,"M,W10.10-11",CUE 409,Stephen Bischoff
-UNIV,304,Transfer Student Seminar,01,09670,2,"M,W13.10-14",CUE 318,Heather Reyes
-UNIV,304,Transfer Student Seminar,02,09787,2,"M,W14.10-15",CUE 318,Heather Reyes
 UNIV,398,Internship,01,05769,V,ARRGT,ARR ARR,Judy Hopkins
 UNIV,490,Global Leadership Experience,01,07754,1,ARRGT,ARR ARR,Kelly Newlon
 UNIV,491,Global Leadership Integrative Capstone,01,05770,1,W11.10-12,COLL 135,Kelly Newlon
@@ -3395,7 +3386,6 @@ VET_PH,700,"Master's Research, Thesis, and/or Examination",01,04897,V,ARRGT,ARR 
 VET_PH,800,"Doctoral Research, Dissertation, and/or Examination",01,04898,V,ARRGT,ARR ARR,(multiple)
 VIT_ENOL,313,Viticulture,02,08280,3,"TU,TH14.55-16.10",AMS PUL,Bhaskar Bondada
 VIT_ENOL,399,Professional Work Experience,01,06345,V,ARRGT,ARR ARR,Adelaide Snider
-VIT_ENOL,435,Chemistry and Biochemistry of Fruit and Wine,01,09112,3,"M,W,F9.10-10",AMS PUL,""
 VIT_ENOL,435,Chemistry and Biochemistry of Fruit and Wine,02,09200,3,"M,W,F9.10-10",AMS PUL,""
 VIT_ENOL,435,Chemistry and Biochemistry of Fruit and Wine,03,09202,3,"M,W,F9.10-10",AMS PUL,""
 VIT_ENOL,435,Chemistry and Biochemistry of Fruit and Wine,04,09204,3,"M,W,F9.10-10",AMS PUL,""
