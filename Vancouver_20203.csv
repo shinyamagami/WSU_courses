@@ -2,10 +2,10 @@ Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg 
 ACCTG,230,Introduction to Financial Accounting,01,02395,3,"M,W10.35-11.50",VUB 121,Leslie Clute
 ACCTG,230,Introduction to Financial Accounting,02,02424,3,"M,W12-13.15",VUB 121,Leslie Clute
 ACCTG,231,Introduction to Managerial Accounting,01,02411,3,"M,W17.45-19",VUB 121,Leslie Clute
-ACCTG,330,Intermediate Accounting I,01,02412,3,"TU,TH14.50-16.05",VUB 121,Claire Latham
+ACCTG,330,Intermediate Accounting I,01,02412,3,"TU,TH14.50-16.05","",Claire Latham
 ACCTG,330,Intermediate Accounting I,02,13710,3,"TU,TH14.50-16.05",VUB 225,Gibran Zogbi
 ACCTG,335,Taxation of Business Entities and Individuals,01,02397,3,"TU,TH16.15-17.30",VUB 125,Gibran Zogbi
-ACCTG,433,[M] Accounting Systems and Auditing,01,02398,3,TH18-20.45,VUB 225,Claire Latham
+ACCTG,433,[M] Accounting Systems and Auditing,01,02398,3,TH18-20.45,"",Claire Latham
 ACCTG,438,[M] Advanced Cost Accounting and Management,01,02437,3,M18-20.45,"",Li Xu
 ACCTG,498,Accounting Internship,01,02425,V,ARRGT,ARR ARR,Li Xu
 ANTH,130,[SSCI] Great Discoveries in Archaeology,01,13178,3,ARRGT,ARR ARR,Jason Fancher
@@ -212,6 +212,10 @@ FIN,346,Washington Real Estate Regulations,01,13486,1,ARRGT,ARR ARR,Francis Benj
 FIN,421,Financial Institutions and Intermediation,01,02401,3,"TU,TH13.25-14.40","",Yijun He
 FIN,427,[M] Investment Analysis,01,02402,3,TU18-20.45,VMMC 22,Ronald Miolla
 FIN,481,[M] International Finance,01,03052,3,TU12-13.15,VUB 225,Donna Paul
+FIN,481,[M] International Finance,"","","",TU12-13.15,VUB 225,""
+FIN,481,[M] International Finance,"","","",TU12-13.15,VUB 225,""
+FIN,481,[M] International Finance,"","","",TU12-13.15,VUB 225,""
+FIN,481,[M] International Finance,"","","",TU12-13.15,VUB 225,""
 FINE_ART,102,[ARTS] 2D Art and Design,01,02959,3,ARRGT,ARR ARR,Avantika Bawa
 FINE_ART,499,Special Problems,01,02880,V,ARRGT,ARR ARR,Avantika Bawa
 FOR_LANG,120,[DIVR] Introduction to Foreign Cultures,01,02974,3,"TU,TH9.10-10.25",GUC VAN,David Hatch
@@ -505,8 +509,8 @@ SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,02636,3,ARRGT
 SPEC_ED,591,Response to Intervention Across the Core Academic Curriculum,01,12982,3,W17.45-20.30,VECS 209,Michael Dunn
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,03202,1,W16.10-17,VMMC 102Q,Donald Mcmahon
 STAT,419,Introduction to Multivariate Statistics,01,13922,3,ARRGT,ARR ARR,Xiongzhi Chen
-STAT,435,[M] Statistical Modeling for Data Analytics,02,15431,3,"M,W14.10-15",VECS 209,Abhishek Kaul
-STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,15432,0,F15.10-17,VECS 120,Abhishek Kaul
+STAT,435,[M] Statistical Modeling for Data Analytics,02,15431,3,"M,W14.10-15",VECS 209,Xiongzhi Chen
+STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,15432,0,F15.10-16,VECS 120,Xiongzhi Chen
 STAT,443,Applied Probability,01,13535,3,"TU,TH9.10-10.25",AMS VAN,Haijun Li
 STAT,446,Statistical Applications in Insurance,01,15068,3,ARRGT,ARR ARR,Mark Lesperance
 STAT,536,Statistical Computing,01,03221,3,"M,W15.10-16",VMMC 202Q,Abhishek Kaul

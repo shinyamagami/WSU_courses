@@ -146,6 +146,7 @@ CPT_S,499,Special Problems,01,01309,V,ARRGT,ARR ARR,(multiple)
 CPT_S,527,Computer Security,01,01519,3,"M,W,F12.10-13",AMS TRI,Ananth Jillepalli
 CPT_S,540,Artificial Intelligence,01,01304,3,"TU,TH9.10-10.25",AMS TRI,Lawrence Holder
 CPT_S,553,Graph Theory,01,01718,3,"M,W,F14.10-15",AMS TRI,Matthew Hudelson
+CPT_S,582,Software Testing,01,02004,3,ARRGT,ARR ARR,Venera Arnaoudova
 CPT_S,600,Special Projects or Independent Study,01,01311,V,ARRGT,ARR ARR,(multiple)
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,01312,V,ARRGT,ARR ARR,(multiple)
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,01313,V,ARRGT,ARR ARR,(multiple)
@@ -236,6 +237,7 @@ ENGLISH,372,[HUM] 19th Century Literature of the British Empire and the Americas
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,01456,3,"M,W,F9.10-10",TFLO 240,""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,01457,3,"TU,TH13.30-14.45",TFLO 239,""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,01527,3,"M,W,F10.10-11",TFLO 240,""
+ENGLISH,405,Advanced Professional Writing and Editing,01,15511,3,ARRGT,ARR ARR,Julie Staggers
 ENGLISH,410,[CAPS] Cultural Criticism and Theory,01,16556,3,ARRGT,ARR ARR,Patricia Wilde
 ENGLISH,494,[CAPS] [M] Advanced Topics in Literature,01,01593,3,"TU,TH13.30-14.45",TCIC 214,W Mays
 ENGLISH,498,Internship,01,01382,V,ARRGT,ARR ARR,Vanessa Cozza
@@ -265,10 +267,8 @@ FS,565,Wine Microbiology and Processing,01,01409,3,"M,W,F12.10-13",AMS TRI,Charl
 FS,700,"Master's Research, Thesis, and/or Examination",01,02107,V,ARRGT,ARR ARR,(multiple)
 FS,800,"Doctoral Research, Dissertation, and/or Examination",01,02381,V,ARRGT,ARR ARR,(multiple)
 H_D,101,[SSCI] Human Development Across the Lifespan,01,01847,3,ARRGT,ARR ARR,Carole-Anne Seeley
-H_D,205,[COMM] Developing Effective Communication and Life Skills,01,01537,4,"TU,TH9.10-10.25",TFLO 131,Katherine Banks
-H_D,205,[COMM] Developing Effective Communication and Life Skills,02,01538,4,"M,W,F9.10-10",TFLO 131,Katherine Banks
-H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,01561,0,ARRGT,ARR ARR,Katherine Banks
-H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,01562,0,ARRGT,ARR ARR,Katherine Banks
+H_D,205,[COMM] Developing Effective Communication and Life Skills,01,01537,4,"TU,TH9.10-10.25",TFLO 131,Kathleen Mcateer
+H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,01561,0,ARRGT,ARR ARR,Kathleen Mcateer
 HBM,101,Professional and Career Development for the Business World,01,14750,1,ARRGT,ARR ARR,Amy Alonzo
 HBM,231,Introduction to Beverage Management,01,13170,1,"TU,TH12.05-13.20",AMS TRI,James Harbour
 HBM,280,Hospitality Systems,01,01482,3,TH15.10-18,AMS TRI,Kahlil Philander
@@ -420,7 +420,7 @@ NURS,400,[M] Nursing Research and Evidence-Based Practice,02,01036,3,ARRGT,ARR A
 NURS,405,Nursing Leadership,01,01029,2,ARRGT,ARR ARR,Catherine Van Son
 NURS,405,Nursing Leadership,02,01030,2,ARRGT,ARR ARR,Catherine Van Son
 NURS,408,Professional Development III: Leadership and Management,01,01039,3,TH9.10-12,AMS TRI,Susan Perkins
-NURS,409,Professional Development IV: Transition to Practice,01,01040,2,M8.10-11,AMS TRI,Debra Brinker
+NURS,409,Professional Development IV: Transition to Practice,01,01040,2,M13.10-16,AMS TRI,Debra Brinker
 NURS,412,Family and Community as a Context of Care,01,01051,1,ARRGT,ARR ARR,Laura Follett
 NURS,414,Child and Family Health: Theory,01,01041,3,F8.10-11,AMS TRI,Susan Perkins
 NURS,415,Children and Families as the Focus of Nursing Care,01,01042,2,ARRGT,ARR ARR,Laura Follett
@@ -430,8 +430,8 @@ NURS,416,Childbearing Health of the Family,01,01043,3,TH13.10-16,AMS TRI,Kimberl
 NURS,417,Nursing Care of Childbearing Families,01,01044,2,ARRGT,ARR ARR,Shirley Mcintosh
 NURS,417,Nursing Care of Childbearing Families,02,01071,2,ARRGT,ARR ARR,Shirley Mcintosh
 NURS,417,Nursing Care of Childbearing Families,03,13176,2,ARRGT,ARR ARR,Laura Follett
-NURS,424,Psychiatric/Mental Health Nursing Concepts,01,01045,3,M11.30-13.30,AMS TRI,Kiira Tietjen
-NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",M14.10-16,AMS TRI,""
+NURS,424,Psychiatric/Mental Health Nursing Concepts,01,01045,3,M8.10-10,AMS TRI,Kiira Tietjen
+NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",M10.30-12.30,AMS TRI,""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,01,01046,2,ARRGT,ARR ARR,Michelle Aronow
 NURS,425,Nursing Practice: Psychiatric/Mental Health,02,01072,2,ARRGT,ARR ARR,Michelle Aronow
 NURS,425,Nursing Practice: Psychiatric/Mental Health,03,13177,2,ARRGT,ARR ARR,Jennifer Larson
@@ -695,8 +695,8 @@ PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,03 Lab,01534,0,TH11.20
 PL_P,300,Diseases of Fruit Crops,01,02090,2,"TU,TH9.10-10",AMS TRI,Naidu Rayapati
 POL_S,101,[SSCI] American National Government,01,01422,3,"M,W,F10.10-11",TFLO 131,Katherine Banks
 POL_S,101,[SSCI] American National Government,02,13133,3,"TU,TH10.35-11.50",TFLO 252,Katherine Banks
-POL_S,497,Political Science Internship,01,01565,V,ARRGT,ARR ARR,Katherine Banks
-POL_S,499,Special Problems,01,02114,V,ARRGT,ARR ARR,Katherine Banks
+POL_S,497,Political Science Internship,01,01565,V,ARRGT,ARR ARR,""
+POL_S,499,Special Problems,01,02114,V,ARRGT,ARR ARR,""
 PSYCH,105,[SSCI] Introductory Psychology,01,02041,3,"TU,TH12.05-13.20",TCIC 210,Sarah Tragesser
 PSYCH,210,Psychology as a Science,01,01525,3,"M,W,F11.10-12",TFLO 131,Allison Matthews
 PSYCH,311,[QUAN] Statistics in Psychology,01,01423,4,"M,W,F9.10-10",TCIC 217,Janet Peters
@@ -716,7 +716,7 @@ PSYCH,498,Research Participation,01,01473,V,ARRGT,ARR ARR,(multiple)
 PSYCH,499,Special Problems,01,01474,V,ARRGT,ARR ARR,(multiple)
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01,01475,4,M18-20.50,TFLO 231,Geoff Schramm
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01 Lab,02117,0,W18-20.50,TEST 113,Geoff Schramm
-SOC,101,[SSCI] Introduction to Sociology,01,01492,3,"TU,TH13.30-14.45",TCIC 217,Jennifer Porter
+SOC,101,[SSCI] Introduction to Sociology,01,01492,3,"TU,TH13.30-14.45",TCIC 217,""
 SOC,350,Social Psychology,01,02067,3,TU14.55-16.10,TCIC 210,Sarah Tragesser
 SOE,101,[PSCI] Introduction to Geology,01,01484,4,"TU,TH12.05-13.20",TCIC 216,Jodi Rosso
 SOE,101,[PSCI] Introduction to Geology,01 Lab,01485,0,TU15.10-18,TEST 113,Jodi Rosso
@@ -766,6 +766,7 @@ STAT,212,[QUAN] Introduction to Statistical Methods,01,01531,4,"M,W,F13.10-14",T
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,01532,0,M15.10-17,TCIC 101R,Ryan Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,01533,0,W15.10-17,TCIC 101R,Ryan Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,04 Lab,02145,0,F15.10-17,TCIC 101R,Ryan Learn
+STAT,360,Probability and Statistics,01,01690,3,ARRGT,ARR ARR,Swarnita Chakraborty
 STAT,370,Introductory Statistics for Engineers,01,01371,3,"TU,TH16.20-17.35",TEST 207,Ryan Learn
 STAT,412,Statistical Methods in Research I,01,01386,3,"TU,TH13.30-14.45",TEST 207,Ryan Learn
 STAT,423,Statistical Methods for Engineers and Scientists,01,02336,3,"W,F10.35-11.50",AMS TRI,Francis Mcgrade

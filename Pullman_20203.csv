@@ -349,7 +349,7 @@ BIOLOGY,568,Conservation Ecology,01,13474,3,"TU,TH10.35-11.50",SPRK G0045,Cheryl
 BIOLOGY,585,Professional Development and Training for College and University Teaching,01,07354,2,ARRGT,ARR ARR,Lisa Carloye
 BIOLOGY,589,Advanced Topics in Biology,02,08610,2,ARRGT,ARR ARR,Eric Roalson
 BIOLOGY,589,Advanced Topics in Biology,03,08650,V,W12.10-13,WEBS B0008,Tanya Cheeke
-BIOLOGY,589,Advanced Topics in Biology,04,16458,V,W12.10-13,"",Tanya Cheeke
+BIOLOGY,589,Advanced Topics in Biology,04,16458,V,W12.10-13,AMS PUL,Tanya Cheeke
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,07355,V,ARRGT,ARR ARR,(multiple)
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,07357,V,ARRGT,ARR ARR,(multiple)
 BSYSE,530,Machine Vision for Biological Systems,01,08558,3,"W,F14.10-15.25",CUE 114,Manoj Karkee
@@ -360,7 +360,7 @@ BSYSE,551,Advanced Biological Systems Engineering Topics,01,07924,V,ARRGT,ARR AR
 BSYSE,551,Advanced Biological Systems Engineering Topics,02,08664,V,ARRGT,ARR ARR,Sindhuja Sankaran
 BSYSE,552,Advanced Biological Systems Engineering Topics,01,06255,V,"TU,TH9.10-10.25",SPRK 333,Kirti Rajagopalan
 BSYSE,552,Advanced Biological Systems Engineering Topics,02,14010,V,"TU,TH9.10-10.25",AMS ARR,Kirti Rajagopalan
-BSYSE,552,Advanced Biological Systems Engineering Topics,03,14011,V,"TU,TH9.10-10.25","",Kirti Rajagopalan
+BSYSE,552,Advanced Biological Systems Engineering Topics,03,14011,V,"TU,TH9.10-10.25",AMS PUL,Kirti Rajagopalan
 BSYSE,556,Surface Hydrologic Processes and Modeling,01,09005,3,TU14.10-16,CLAR 151,Joan Wu
 BSYSE,556,Surface Hydrologic Processes and Modeling,02,09039,3,TU14.10-16,AMS ARR,Joan Wu
 BSYSE,556,Surface Hydrologic Processes and Modeling,03,09048,3,TU14.10-16,AMS ARR,Joan Wu
@@ -397,10 +397,8 @@ CE,400,Highway Materials Engineering,01 Lab,07231,0,TU14.25-17.15,SLOA 161,Haifa
 CE,400,Highway Materials Engineering,02 Lab,07232,0,TH14.25-17.15,SLOA 161,Haifang Wen
 CE,400,Highway Materials Engineering,03 Lab,09263,0,W13.10-16,SLOA 161,Haifang Wen
 CE,400,Highway Materials Engineering,04 Lab,09891,0,F13.10-16,SLOA 161,Haifang Wen
-CE,415,Environmental Measurements,01 Lab,04473,0,"TU,TH14.25-17.15","",Amanda Hohner
-CE,418,Hazardous Contaminant Pathway Analysis,01,07235,V,"TU,TH12.05-13.20",SLOA 46,Amanda Hohner
+CE,415,Environmental Measurements,01 Lab,04473,0,"TU,TH14.25-17.15",ABEL 201,Amanda Hohner
 CE,450,Design and Simulation of Water Resource Systems,01,07241,3,"TU,TH13.30-14.45",SLOA 233,Nicholas Engdahl
-CE,456,Sustainable Development in Water Resources,01,11975,3,"M,W,F10.10-11",SLOA 46,Alexandra Richey
 CE,465,[CAPS] [M] Integrated Civil Engineering Design,01,07242,3,M13.10-14,SLOA 169,Saumya Amarasiri
 CE,465,[CAPS] [M] Integrated Civil Engineering Design,01 Lab,07243,0,"M,W14.10-17",SLOA 169,Saumya Amarasiri
 CE,475,Groundwater,01 Lab,08199,0,TH9.10-12,WEBS 1126,Tim Ginn
@@ -410,8 +408,7 @@ CE,495,Engineering Experience,01,07245,V,ARRGT,ARR ARR,(multiple)
 CE,498,Special Topics in Civil Engineering,01,08548,V,"M,W,F9.10-10",SLOA 46,Courtney Gardner
 CE,499,Special Problems,01,07246,V,ARRGT,ARR ARR,(multiple)
 CE,514,Advanced Mechanics of Materials,01,07247,3,"TU,TH14.55-16.10",SLOA 150,Pizhong Qiao
-CE,515,Environmental Measurements,01 Lab,04474,0,"TU,TH14.25-17.15","",Amanda Hohner
-CE,518,Hazardous Contaminant Pathway Analysis,01,07236,V,"TU,TH12.05-13.20",SLOA 46,Amanda Hohner
+CE,515,Environmental Measurements,01 Lab,04474,0,"TU,TH14.25-17.15",ABEL 201,Amanda Hohner
 CE,530,Advanced Design of Steel Structures,01,07248,3,"TU,TH12.05-13.20",TODD 220,Adam Phillips
 CE,534,Prestressed Concrete and Bridge Design,01,09935,3,"M,W9.10-10.25",SLOA 161,Christopher Motter
 CE,541,Physicochemical Water and Wastewater Treatment,01,07992,3,"M,W,F14.10-15",CLAR 147,Indranil Chowdhury
@@ -422,6 +419,7 @@ CE,567,Properties of Highway Pavement Materials,02,15575,3,"M,W,F13.10-14",SLOA 
 CE,580,Graduate Seminar,01,07249,1,M16.10-17,CUE 219,Jan Boll
 CE,580,Graduate Seminar,02,07250,1,M16.10-17,CUE 419,Ji Yun Lee
 CE,580,Graduate Seminar,03,07251,1,M16.10-17,CUE 319,Idil Akin
+CE,583,Aquatic Chemistry,01,15357,3,"M,W,F15.10-16","",Indranil Chowdhury
 CE,584,Environmental Microbiology,01,09270,3,"M,W11.10-12.25",JSNH C0105,Courtney Gardner
 CE,600,Special Projects or Independent Study,01,07252,V,ARRGT,ARR ARR,Jan Boll
 CE,600,Special Projects or Independent Study,02,07253,V,ARRGT,ARR ARR,Ji Yun Lee
@@ -830,13 +828,11 @@ CPT_S,370,Systems Programming Java,01 Lab,08971,0,W19.10-22,EME B0046,Jeremy Tho
 CPT_S,421,Software Design Project I,01 Lab,09483,0,ARRGT,ARR ARR,Ananth Jillepalli
 CPT_S,423,[CAPS] Software Design Project II,01 Lab,07133,0,ARRGT,ARR ARR,Jose Delgado-Frias
 CPT_S,430,Numerical Analysis,02,16041,3,"TU,TH10.35-11.50",SPRK 227,Valipuram Manoranjan
-CPT_S,453,Graph Theory,01,05319,3,"M,W,F14.10-15","",Matthew Hudelson
 CPT_S,484,Software Requirements,01,09092,3,ARRGT,ARR ARR,Bolong Zeng
 CPT_S,488,Professional Practice Coop/Internship I,01,08043,V,ARRGT,ARR ARR,Sandra Brabb
 CPT_S,499,Special Problems,01,07141,V,ARRGT,ARR ARR,Anantharaman Kalyanaraman
 CPT_S,515,Advanced Algorithms,01,08180,3,ARRGT,ARR ARR,Zhe Dang
 CPT_S,530,Numerical Analysis,02,16042,3,"TU,TH10.35-11.50",SPRK 227,Valipuram Manoranjan
-CPT_S,553,Graph Theory,01,05320,3,"M,W,F14.10-15","",Matthew Hudelson
 CPT_S,581,Software Maintenance,01,09170,3,ARRGT,ARR ARR,Venera Arnaoudova
 CPT_S,595,Directed Study in Computer Science,01,07144,V,ARRGT,ARR ARR,""
 CPT_S,600,Special Projects or Independent Study,01,07145,V,ARRGT,ARR ARR,""
@@ -980,9 +976,6 @@ E_E,600,Special Projects or Independent Study,01,05629,V,ARRGT,ARR ARR,""
 E_E,700,"Master's Research, Thesis, and/or Examination",01,05630,V,ARRGT,ARR ARR,(multiple)
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,05631,V,ARRGT,ARR ARR,(multiple)
 E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,05632,V,ARRGT,ARR ARR,(multiple)
-E_M,460,Integrated Supply Chain Management,01,08546,3,TH17.15-19.45,"",Kay Bachman
-E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,14723,3,TH18.15-20.45,SLOA 161,David Paulus
-E_M,560,Integrated Supply Chain Management,01,08539,3,TH17.15-19.45,"",Kay Bachman
 E_MIC,586,Special Projects in Electron Microscopy,01,06462,V,ARRGT,ARR ARR,Michael Knoblauch
 E_MIC,587,Special Topics in Electron Microscopy,01,06463,1,W16.10-17,CUE 419,Michael Knoblauch
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,05,08791,3,ARRGT,ARR ARR,Joseph Patten
@@ -1298,8 +1291,6 @@ ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,04,05002,3,"TU,TH13.30-14.
 ENGLISH,308,[M] Introduction to Literary Criticism,01,09676,3,ARRGT,ARR ARR,Jon Hegglund
 ENGLISH,310,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,09682,3,"M,W,F13.10-14",HLD G0003,Lindsey Carman
 ENGLISH,322,[DIVR] [M] Topics in African American Literature,01,04491,3,"TU,TH12.05-13.20",CUE 203,Heather Ramos
-ENGLISH,324,[M] Rhetoric and Composition for Teaching,01,07396,3,"M,W,F10.10-11",BRYN 324,Katherine Watts
-ENGLISH,326,Applied Grammar for Teachers,01,09679,3,"M,W,F13.10-14",TODD 216,Katherine Watts
 ENGLISH,351,Creative Writing: Prose,01,14926,3,"M,W,F10.10-11",FSHN T0101,Peter Chilson
 ENGLISH,354,Digital Storytelling,01,07522,3,"M,W,F12.10-13",BRYN 404,Taylor Sanders
 ENGLISH,354,Digital Storytelling,02,07524,3,"M,W,F14.10-15",SPRK 223,Taylor Sanders
@@ -1844,7 +1835,6 @@ I_D,702,"Master's Special Problems, Directed Study and/or Examination",01,05928,
 INTERDIS,490,McNair Preparation for Graduate School,01,05098,1,ARRGT,ARR ARR,""
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,05004,V,ARRGT,ARR ARR,(multiple)
 ISE,300,INTRN'L EXCH,01,04914,V,ARRGT,ARR ARR,""
-JAPANESE,101,First Semester,01,05011,4,"M,TU,W,TH10.10-11","",Kayo Niimi
 JAPANESE,101,First Semester,02,05012,4,"M,TU,W,TH12.10-13",GTZN 21,Kayo Niimi
 JAPANESE,105,Elementary Conversation 1,01,05013,1,ARRGT,ARR ARR,Kayo Niimi
 JAPANESE,105,Elementary Conversation 1,02,05014,1,ARRGT,ARR ARR,Kayo Niimi
@@ -2055,7 +2045,6 @@ MATH,364,Principles of Optimization,01,03626,3,"TU,TH10.35-11.50",SPRK 323,Paula
 MATH,401,[M] Introduction to Analysis I,01,03627,3,"M,W,F10.10-11",CLEV 30,Charles Moore
 MATH,440,Applied Mathematics I: PDEs,01,03633,3,"M,W,F11.10-12",HLD G0003,Alexander Panchenko
 MATH,448,Numerical Analysis,02,15429,3,"TU,TH10.35-11.50",SPRK 227,Valipuram Manoranjan
-MATH,453,Graph Theory,01,03635,3,"M,W,F14.10-15","",Matthew Hudelson
 MATH,490,Topics in Mathematics,01,03664,V,ARRGT,ARR ARR,""
 MATH,497,Instructional Practicum,01,03637,V,ARRGT,ARR ARR,""
 MATH,497,Instructional Practicum,02,03638,V,ARRGT,ARR ARR,""
@@ -2066,7 +2055,6 @@ MATH,536,Statistical Computing,01,03701,3,"M,W15.10-16",CUE 418,Abhishek Kaul
 MATH,536,Statistical Computing,01 Lab,03702,0,F15.10-16,ARR ARR,Abhishek Kaul
 MATH,540,Applied Mathematics I: PDEs,01,03634,3,"M,W,F11.10-12",HLD G0003,Alexander Panchenko
 MATH,548,Numerical Analysis,02,15428,3,"TU,TH10.35-11.50",SPRK 227,Valipuram Manoranjan
-MATH,553,Graph Theory,01,03636,3,"M,W,F14.10-15","",Matthew Hudelson
 MATH,568,Statistical Theory I,02,03714,3,ARRGT,ARR ARR,""
 MATH,581,Topics in Mathematics,01,03644,V,"TU,TH9.10-10.25",TODD 116,Sheng-Chi Liu
 MATH,597,Mathematics Instruction Seminar,01,03647,1,ARRGT,ARR ARR,""
@@ -2177,14 +2165,14 @@ ME,415,[M] Engineering Design,01,08644,3,"M,W,F14.10-15",EME 154,Kuen-Ren Chen
 ME,415,[M] Engineering Design,02,07948,3,"M,W,F13.10-14",EME 154,Kuen-Ren Chen
 ME,416,[CAPS] Mechanical Systems Design,01 Lab,05184,0,"TU,TH7.45-10.25",EME 154,Charles Pezeshki
 ME,416,[CAPS] Mechanical Systems Design,02 Lab,05183,0,"TU,TH13.30-16.20",EME 154,Charles Pezeshki
-ME,475,Manufacturing Enterprise Systems -- Automation and Product Realization,01,05188,3,"M,W9.10-10",JSNH C0107,Bulent Gozen
+ME,475,Manufacturing Enterprise Systems -- Automation and Product Realization,01,05188,3,"M,W9.10-10",TDAD 276,Bulent Gozen
 ME,475,Manufacturing Enterprise Systems -- Automation and Product Realization,01 Lab,05189,0,TU10.35-13.25,ETRL 25,Bulent Gozen
 ME,475,Manufacturing Enterprise Systems -- Automation and Product Realization,02 Lab,07967,0,TH10.35-13.25,ETRL 25,Bulent Gozen
 ME,475,Manufacturing Enterprise Systems -- Automation and Product Realization,03 Lab,08827,0,F9.10-12,ETRL 25,Bulent Gozen
 ME,481,Control Systems,01,12045,3,"M,W,F14.10-15",GTZN 21,Konstantin Matveev
 ME,488,Professional Practice Coop/Internship I,01,08034,V,ARRGT,ARR ARR,Sandra Brabb
 ME,499,Special Problems,01,05190,V,ARRGT,ARR ARR,""
-ME,501,Continuum Mechanics,01,12044,3,"TU,TH9.10-10.25",CUE 419,Jow-Lian Ding
+ME,501,Continuum Mechanics,01,12044,3,"TU,TH9.10-10.25",CARP 102,Jow-Lian Ding
 ME,521,Fundamentals of Fluids I,01,08968,3,"M,W,F9.10-10",SPRK 335,Prashanta Dutta
 ME,579,Advanced Topics in Mechanical Engineering,01,08607,V,"M,W,F14.10-15",SLOA 38,John Swensen
 ME,700,"Master's Research, Thesis, and/or Examination",01,05196,V,ARRGT,ARR ARR,(multiple)
@@ -2283,7 +2271,7 @@ MSE,316,Thermodynamics and Kinetics of Materials,01,06298,3,"M,W,F9.10-10",TODD 
 MSE,320,[M] Materials Structure - Properties Lab,01 Lab,06300,0,"TU,TH7.45-10.35",ETRL 150,Colin Merriman
 MSE,320,[M] Materials Structure - Properties Lab,02 Lab,08141,0,"TU,TH13.30-16.20",ETRL 150,Colin Merriman
 MSE,402,Polymeric Materials,01,06301,3,"M,W,F10.10-11",HLD G0003,Weihong Zhong
-MSE,425,[M] Senior Thesis I,01,06307,3,"W,F15.10-18",SPRK 335,Indranath Dutta
+MSE,425,[M] Senior Thesis I,01,06307,3,"W,F15.10-18",SLOA 175,Indranath Dutta
 MSE,426,[M] Senior Thesis II,01,06308,3,ARRGT,ARR ARR,""
 MSE,488,Professional Practice Coop/Internship I,01,08090,V,ARRGT,ARR ARR,Sandra Brabb
 MSE,499,Special Problems,01,06309,V,ARRGT,ARR ARR,""
@@ -2304,6 +2292,7 @@ MUS,153,[ARTS] Musical Style in Composition,02,04442,3,"TU,TH14.55-16.10",KIMB 1
 MUS,160,[ARTS] Survey of Music Literature,01,05965,3,ARRGT,ARR ARR,Keri Mccarthy
 MUS,160,[ARTS] Survey of Music Literature,02,05966,3,"M,W,F10.10-11",KIMB 346,Denise Snider
 MUS,163,[ARTS] World Music,01,05967,3,"M,W,F13.10-14",KIMB 346,Melissa Parkhurst
+MUS,163,[ARTS] World Music,02,16794,3,ARRGT,ARR ARR,Melissa Parkhurst
 MUS,164,Introduction to Music Technology,01,05968,1,TU10.10-11,KIMB 346,Gabriel Condon
 MUS,181,Class Piano I,01,05969,1,"M,W,F12.10-13",KIMB 452,Fabio Menchetti
 MUS,181,Class Piano I,02,05970,1,"M,W,F13.10-14",KIMB 452,Fabio Menchetti
@@ -2385,8 +2374,7 @@ MUS,352,Applied Theory III,01,06013,1,"TU,TH9-9.50",KIMB 245,Jacqueline Wilson
 MUS,352,Applied Theory III,02,06014,1,"TU,TH9-9.50",KIMB 346,David Turnbull
 MUS,360,[HUM] [M] History of Music: 1650 - 1850,01,06015,3,"M,W,F10.10-11",KIMB 245,Shannon Scott
 MUS,362,[DIVR] History of Jazz,01,06016,3,ARRGT,ARR ARR,Albert Miller
-MUS,362,[DIVR] History of Jazz,03,06018,3,"M,W,F12.10-13","",Jacob Svendsen
-MUS,362,[DIVR] History of Jazz,04,06019,3,"M,W,F11.10-12","",Sarah Miller
+MUS,362,[DIVR] History of Jazz,03,06018,3,"M,W,F12.10-13",KIMB 101,Jacob Svendsen
 MUS,363,[DIVR] Women in Music,01,06020,3,"M,W,F15.10-16",KIMB 346,Melissa Parkhurst
 MUS,363,[DIVR] Women in Music,02,08659,3,ARRGT,ARR ARR,Sophia Tegart
 MUS,364,Audio Engineering I,01,09089,3,SA9.30-12,KIMB 452,David Bjur
@@ -2547,7 +2535,6 @@ PHIL,530,Bioethics,01,03742,2,W12.10-14,CUE 412,William Kabasenche
 PHIL,564,Topics in Biomedical Experimentation,01,11869,V,"TU,TH9.10-10.25",VBRB 201,Erika Offerdahl
 PHYSICS,150,[PSCI] Physics and Your World,01,14662,3,"TU,TH11.10-13",WEBS 941,Anya Rasmussen
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,03796,4,"M,W,F12.10-13",WEBS 16,Nicholas Cerruti
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,10 Lab,03861,0,TH18.10-21,WEBS 441,""
 PHYSICS,206,[PSCI] Physics for Scientists and Engineers II - Honors,01,03829,5,"M,W,F11.10-12",WEBS 16,Brian Collins
 PHYSICS,206,[PSCI] Physics for Scientists and Engineers II - Honors,01 Lab,03830,0,TU18.10-21,WEBS 441,""
 PHYSICS,206,[PSCI] Physics for Scientists and Engineers II - Honors,"","","",TH17.45-19.35,FLMA 226,""
@@ -2813,8 +2800,7 @@ SOE,105,[PSCI] Natural Resources and Natural Hazards,02,09236,3,"M,W,F15.10-16",
 SOE,204,Introduction to Measurements and Analysis in Natural Resource Sciences,01 Lab,06284,0,TU13.30-16.20,STEF ARR,Amanda Stahl
 SOE,204,Introduction to Measurements and Analysis in Natural Resource Sciences,02 Lab,06285,0,M14.10-17,STEF ARR,Amanda Stahl
 SOE,204,Introduction to Measurements and Analysis in Natural Resource Sciences,03 Lab,09497,0,TH13.30-16.20,STEF ARR,Amanda Stahl
-SOE,210,[PSCI] Earth's History and Evolution,01 Lab,06436,0,TH14.55-17.45,WEBS 1126,Catherine Cooper
-SOE,210,[PSCI] Earth's History and Evolution,"","","",TH14.55-17.45,WEBS 1141,""
+SOE,210,[PSCI] Earth's History and Evolution,01 Lab,06436,0,TH14.55-17.45,ARR ARR,Catherine Cooper
 SOE,210,[PSCI] Earth's History and Evolution,02 Lab,06437,0,TU14.55-17.45,WEBS 1126,Catherine Cooper
 SOE,210,[PSCI] Earth's History and Evolution,"","","",TU14.55-17.45,WEBS 1141,""
 SOE,210,[PSCI] Earth's History and Evolution,03 Lab,08212,0,M13.10-16,WEBS 1126,Catherine Cooper
@@ -2939,7 +2925,6 @@ SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",11,06224,V,AR
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",12,08195,V,ARRGT,ARR ARR,Tarah Sullivan
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",13,08351,V,ARRGT,ARR ARR,Haiying Tao
 SPANISH,101,First Semester,02,07062,4,"M,TU,W,TH10.10-11",TODD 133,Maria Sileoni
-SPANISH,101,First Semester,04,07064,4,"M,TU,W,TH12.10-13","",Maria Sileoni
 SPANISH,101,First Semester,09,08897,4,ARRGT,ARR ARR,Maria Previto
 SPANISH,102,Second Semester,01,09547,4,"M,TU,W,TH9.10-10",TODD 133,Begona De Quintana Lasa
 SPANISH,102,Second Semester,02,07065,4,"M,TU,W,TH10.10-11",SPRK 339,Spencer Martin
@@ -3059,7 +3044,7 @@ TCH_LRN,417,Coding for Teachers,01,14716,3,TU9.10-12,EDAD 216,Joy Egbert
 TCH_LRN,419,Instructional Media Production,01,08112,3,M13.10-16,EDAD 216,Joy Egbert
 TCH_LRN,430,Methods of Teaching Secondary Science I,01,08465,3,"TU,TH11.10-13",EDAD 308,Sarah Fick
 TCH_LRN,433,Middle Level Mathematics Methods,01,07629,3,"M,W16.10-18",SPRK 235,""
-TCH_LRN,433,Middle Level Mathematics Methods,02,08550,3,TU16.20-19.05,SPRK 233,Kristin Lesseig
+TCH_LRN,433,Middle Level Mathematics Methods,02,08550,3,TU16.20-19.05,SPRK 233,Tara Heikila
 TCH_LRN,434,Conceptualization of Proportional Thinking,01,07489,3,TH16.20-19.05,SPRK 333,""
 TCH_LRN,445,Elementary Methods of Educational Technology,01,07490,2,TU12.10-14,EDAD 216,Susan Skavdahl
 TCH_LRN,445,Elementary Methods of Educational Technology,02,07491,2,TH14.10-16,EDAD 216,Susan Skavdahl
@@ -3080,7 +3065,6 @@ TCH_LRN,512,Language and Cultural Factors in Mathematics,01,08058,3,TH16.20-19.0
 TCH_LRN,517,Coding for Teachers,01,14717,3,TU9.10-12,EDAD 216,Joy Egbert
 TCH_LRN,519,Instructional Media Production I,01,09184,3,M13.10-16,ARR ARR,Joy Egbert
 TCH_LRN,522,Topics in Education,01,07504,V,ARRGT,ARR ARR,Tariq Akmal
-TCH_LRN,533,Middle Level Mathematics Methods,02,08648,3,TU16.20-19.05,SPRK 233,Kristin Lesseig
 TCH_LRN,534,Conceptualization of Proportional Thinking,01,08640,3,TH16.20-19.05,SPRK 333,""
 TCH_LRN,544,Teaching Children's and Young Adult Literature,02,09864,3,W17.15-20,SPRK 233,Sarah Newcomer
 TCH_LRN,550,Second Language Learning and Literacy,01,08101,3,W13.10-16,SPRK 233,Thomas Salsbury
@@ -3139,7 +3123,6 @@ VET_CLIN,570,Special Topics,13,08147,1,ARRGT,ARR ARR,Linda Martin
 VET_CLIN,570,Special Topics,18,08233,1,ARRGT,ARR ARR,Eric Lofgren
 VET_CLIN,574,Cardiology Special Topics,01,06492,1,ARRGT,ARR ARR,O Nelson
 VET_CLIN,580,Advanced Clinical Pathology,01,06494,1,ARRGT,ARR ARR,Katherine Wardrop
-VET_CLIN,582,Seminar in Clinical Medicine,01,06495,1,F8-9,"",John Gay
 VET_CLIN,584,Comparative Theriogenology,01,06496,V,ARRGT,ARR ARR,Ahmed Tibary
 VET_CLIN,585,Selected Topics in Advanced Clinical Neurology,01,06497,V,ARRGT,ARR ARR,Annie Chen-Allen
 VET_CLIN,587,Hospital Rotation,01,06498,3,ARRGT,ARR ARR,(multiple)
