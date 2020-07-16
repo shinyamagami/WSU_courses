@@ -1,5 +1,3 @@
-#require 'csv'
-
 module ExportCSV
   class Error < StandardError; end
   
@@ -8,8 +6,9 @@ module ExportCSV
 
 
     def create(name_of_campus)
-      @csv = CSV.new(name_of_campus + ".csv")
-      @csv = CSV.open(name_of_campus + ".csv", "wb")
+      file_name = name_of_campus + "_20203.csv"
+      @csv = CSV.new(file_name)
+      @csv = CSV.open(file_name, "wb")
     end
 
     

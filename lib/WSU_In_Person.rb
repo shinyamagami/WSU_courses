@@ -67,12 +67,7 @@ module WSUInPerson
   
   
     def scrape_course_pages(subject_urls, prefixes, campus)
-=begin      
-      csv = CSV.new(campus + ".csv")
-      csv = CSV.open(campus + ".csv", "wb")
-      csv << ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
-              "Bldg & Room", "Instructor"]
-=end
+
       csv = ExportCSV::ExportCSV.new
       csv.create(campus)
       column_names = ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
