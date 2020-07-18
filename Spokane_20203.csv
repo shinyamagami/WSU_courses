@@ -5,6 +5,7 @@ ED_AD,501,Philosophy of Education,01,14687,3,W17.45-20.30,SAC 341,Susan Finley
 ED_AD,507,Social Foundations of Education,01,14688,3,ARRGT,ARR ARR,John Lupinacci
 ED_AD,510,Improvement of Instruction,01,16043,3,TH17.45-20.30,AMS SPK,John Lupinacci
 ED_AD,512,Leadership Studies for Social Justice,01,14689,3,TU17.45-20.30,SAC 341,Katherine Rodela
+ED_AD,516,Instructional and Curricular Leadership,01,14442,V,ARRGT,ARR ARR,Richard Mcbride
 ED_AD,521,Topics in Education,02,14691,V,ARRGT,ARR ARR,Glenys Hill
 ED_AD,521,Topics in Education,03,14692,V,ARRGT,ARR ARR,Glenys Hill
 ED_AD,580,School Organization and Administration,01,14693,3,TU17.45-20.30,SAC 347,Jeffrey Walls
@@ -171,8 +172,6 @@ NEP,701,Master's Independent Capstone Project and /or Examination,01,15032,V,ARR
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",01,15033,V,ARRGT,ARR ARR,""
 NEUROSCI,531,Neuroscience Laboratory Rotation,01,14646,1,ARRGT,"",""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,01,14641,V,"M,F9.10-10",SAC 341,Heiko Jansen
-NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-10,SAC 341,""
-NEUROSCI,540,Special Topics in Integrative Neuroscience,02,14642,V,"M,F9.10-10",SAC 341,""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-10,SAC 341,""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,03,14643,V,"M,F9.10-10",SAC 341,Joseph Harding
 NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-10,SAC 341,""
@@ -678,23 +677,19 @@ PHARDSCI,499,Special Problems,50,12900,V,ARRGT,"",""
 PHARDSCI,502,Integrated Pharmacology I,01,12888,4,"TU,TH15.10-17",AMS ARR,Darrell Jackson
 PHARDSCI,502,Integrated Pharmacology I,50,12894,4,TU13.10-15,ARR ARR,Damianne Brand
 PHARDSCI,502,Integrated Pharmacology I,"","","",TH15.10-17,ARR ARR,""
-PHARDSCI,504,Pharmacy Calculations,01,12889,1,TH13.10-15,AMS ARR,Connie Remsberg
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,""
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,""
 PHARDSCI,504,Pharmacy Calculations,50,12897,1,TH13.10-15,ARR ARR,Nicholas Giruzzi
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,""
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,""
-PHARDSCI,508,Pharmaceutics I,01,12890,3,TH10.10-11.35,AMS ARR,Connie Remsberg
 PHARDSCI,508,Pharmaceutics I,"","","",F9.45-11,AMS ARR,""
 PHARDSCI,508,Pharmaceutics I,50,12896,3,TH10.10-11.35,ARR ARR,Damianne Brand
 PHARDSCI,508,Pharmaceutics I,"","","",F9.45-11,ARR ARR,""
 PHARDSCI,510,Basic and Clinical Pharmacogenomics,01,15642,2,ARRGT,ARR ARR,Sayed Daoud
 PHARDSCI,518,Pharmaceutics II,01,15643,2,ARRGT,ARR ARR,Connie Remsberg
-PHARDSCI,528,Pharmacokinetics,01,12891,3,W8.45-10,AMS ARR,Senthil Natesan
 PHARDSCI,528,Pharmacokinetics,"","","",F8.20-9.35,AMS ARR,""
 PHARDSCI,528,Pharmacokinetics,50,12895,3,W8.45-10,ARR ARR,Dana Bowers
 PHARDSCI,528,Pharmacokinetics,"","","",F8.20-9.35,ARR ARR,""
-PHARDSCI,532,Integrated Pharmacology III,01,12892,4,"TU,TH10.10-12",AMS ARR,Susan Marsh
 PHARDSCI,532,Integrated Pharmacology III,50,12898,4,"TU,TH10.10-12",ARR ARR,Rustin Crutchley
 PHARDSCI,542,Integrated Pharmacology IV,01,15644,4,ARRGT,ARR ARR,Shuwen Wang
 PHARDSCI,598,Honors Research,01,15708,V,ARRGT,ARR ARR,""
@@ -707,25 +702,18 @@ PHARMACY,499,Special Problems,02,12851,V,F8.10-9,ARR ARR,Jennifer Robinson
 PHARMACY,499,Special Problems,03,12832,V,ARRGT,ARR ARR,""
 PHARMACY,499,Special Problems,50,12824,V,ARRGT,ARR ARR,(multiple)
 PHARMACY,499,Special Problems,52,12852,V,TU14.10-15,"",Damianne Brand
-PHARMACY,506,Student Success and Professional Development I,01,12862,1,TU8.10-9,AMS ARR,Jennifer Robinson
 PHARMACY,506,Student Success and Professional Development I,50,12863,1,TU8.10-9,ARR ARR,Damianne Brand
-PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,01,12779,1,F11.10-12,AMS ARR,Lauren Marcath
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","",F11.10-12,AMS ARR,""
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,50,12813,1,F11.10-12,ARR ARR,""
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","",F11.10-12,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,01,12780,1,TU9.10-10,AMS ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",TU10.10-12,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,02,12781,1,TU9.10-10,AMS ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",TU13.10-15,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,03,12782,1,TU9.10-10,AMS ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",W10.10-12,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,04,12783,1,TU9.10-10,AMS ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",W13.10-15,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,05,12810,1,TU9.10-10,AMS ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",W15.10-17,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,50,12814,1,TU9.10-10,ARR ARR,Christina Buchman
@@ -734,7 +722,6 @@ PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,51,12816,1,TU9.10-10,ARR ARR,Christina Buchman
 PHARMACY,509,Professional Communications Lab,"","","",TU15.10-17,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,516,Health Care Systems,01,12809,2,TH8.10-10,AMS ARR,Julie Akers
 PHARMACY,516,Health Care Systems,"","","",M10-12,ARR ARR,""
 PHARMACY,516,Health Care Systems,"","","",TH8.10-10,ARR ARR,""
 PHARMACY,516,Health Care Systems,50,12815,2,TH8.10-10,ARR ARR,Nicholas Giruzzi
@@ -748,19 +735,15 @@ PHARMACY,530,Point of Care and Clinical Services,50,12818,2,"M,TU,W,TH,F8-17",AR
 PHARMACY,530,Point of Care and Clinical Services,"","","",M8-10,ARR ARR,""
 PHARMACY,530,Point of Care and Clinical Services,"","","",M8-10,ARR ARR,""
 PHARMACY,530,Point of Care and Clinical Services,"","","",M8-10,ARR ARR,""
-PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,01,12784,1,TU13.10-14,AMS ARR,Sorosh Kherghehpoush
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W8.10-10,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
-PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,02,12785,1,TU13.10-14,AMS ARR,Sorosh Kherghehpoush
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
-PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,03,12786,1,TU13.10-14,AMS ARR,Sorosh Kherghehpoush
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W13.10-15,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
-PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,04,12787,1,TU13.10-14,AMS ARR,Sorosh Kherghehpoush
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",F10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
@@ -772,17 +755,13 @@ PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,51,1
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
-PHARMACY,533,Introductory Pharmacy Practice Experience II,01,12788,3,TH15.10-17,AMS ARR,Taylor Bertsch
 PHARMACY,533,Introductory Pharmacy Practice Experience II,50,12819,3,TH15.10-17,ARR ARR,Anne Kim
-PHARMACY,534,Pharmacotherapy II,01,12789,4,"TU,TH8.10-10",AMS ARR,Joshua Neumiller
 PHARMACY,534,Pharmacotherapy II,50,12820,4,"TU,TH8.10-10",ARR ARR,Anne Kim
 PHARMACY,536,Student Success and Professional Development II,01,13039,1,TU14.10-15,ARR ARR,Damianne Brand
 PHARMACY,536,Student Success and Professional Development II,50,13040,1,TU14.10-15,ARR ARR,Damianne Brand
 PHARMACY,543,Introductory Pharmacy Practice Experience III,01,12864,1,ARRGT,ARR ARR,Jennifer Miller
 PHARMACY,544,Pharmacotherapy III,01,15646,4,ARRGT,ARR ARR,Jean-Baptiste Roullet
-PHARMACY,545,Pharmacy Management,01,12790,3,TH13.10-15,AMS ARR,Julie Akers
 PHARMACY,545,Pharmacy Management,50,12821,3,TH13.10-15,ARR ARR,Angela Stewart
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01,12791,2,ARRGT,ARR ARR,Boris Zhang
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50,12828,2,ARRGT,ARR ARR,Christina Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01 Lab,12792,0,TH8.10-10,ARR ARR,Boris Zhang
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,02 Lab,12793,0,TH10.10-12,ARR ARR,""
@@ -790,13 +769,10 @@ PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,03 
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50 Lab,12829,0,TH8.10-10,ARR ARR,Christina Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,51 Lab,12839,0,TH10.10-12,ARR ARR,Christina Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,52 Lab,16475,0,TH13.10-15,ARR ARR,Christina Buchman
-PHARMACY,553,Introductory Pharmacy Practice Experience IV,01,12796,3,W14.10-15,AMS ARR,Jennifer Miller
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","",M10.10-11,ARR ARR,""
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,50,12830,3,W14.10-15,ARR ARR,Dana Bowers
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","",M10.10-11,ARR ARR,""
-PHARMACY,554,Pharmacotherapy IV,01,12797,4,"W,F10.10-12",AMS ARR,Cheyenne Newsome
 PHARMACY,554,Pharmacotherapy IV,50,12825,4,"W,F10.10-12",ARR ARR,Dana Bowers
-PHARMACY,566,Therapeutics of Special Populations,01,12817,3,W8.10-10,AMS ARR,Brian Gates
 PHARMACY,566,Therapeutics of Special Populations,"","","",F9.10-10,AMS ARR,""
 PHARMACY,566,Therapeutics of Special Populations,50,12826,3,W8.10-10,ARR ARR,Rustin Crutchley
 PHARMACY,566,Therapeutics of Special Populations,"","","",F9.10-10,ARR ARR,""
@@ -805,7 +781,6 @@ PHARMACY,570,Pain: Processes and Treatment,50,12859,2,ARRGT,"",Damianne Brand
 PHARMACY,572,Physical Activity Prescription in the Pharmacy,01,14948,2,ARRGT,ARR ARR,Susan Marsh
 PHARMACY,573,Family Medicine and Pharmacy,50,12857,2,TU13.10-15,ARR ARR,Nicholas Giruzzi
 PHARMACY,577,"Diseases, Complications, and Drug Therapy in Obstetrics",01,12799,2,ARRGT,ARR ARR,Alyson Blum
-PHARMACY,578,Leadership and Professional Development,01,13158,2,TU15.10-17,AMS ARR,Jennifer Robinson
 PHARMACY,578,Leadership and Professional Development,50,13159,2,TU15.10-17,ARR ARR,Angela Stewart
 PHARMACY,581,Acute Care Advanced Practice Experience,01,12800,5,ARRGT,ARR ARR,John White
 PHARMACY,581,Acute Care Advanced Practice Experience,50,12841,5,ARRGT,ARR ARR,John White
@@ -822,10 +797,8 @@ PHARMACY,586,Elective II Advanced Practice Experience,50,12846,5,ARRGT,ARR ARR,J
 PHARMACY,587,Elective III Advanced Practice Experience,01,12806,5,ARRGT,ARR ARR,John White
 PHARMACY,587,Elective III Advanced Practice Experience,50,12847,5,ARRGT,ARR ARR,John White
 PHARMACY,589,Special Topics,50,15419,2,W13.10-15,ARR ARR,Justin Luu
-PHARMACY,592,Mental Health First Aid,01,12837,2,F12.10-17,AMS ARR,Jennifer Robinson
 PHARMACY,592,Mental Health First Aid,50,12838,2,F12.10-17,ARR ARR,Damianne Brand
 PHARMACY,594,Comprehensive Diabetes Management,01,12807,3,ARRGT,"",John White
-PHARMACY,595,HIV - Advanced Therapeutics,01,12858,2,W15.10-17,AMS ARR,Cheyenne Newsome
 PHARMACY,595,HIV - Advanced Therapeutics,50,12856,2,W15.10-17,ARR ARR,Rustin Crutchley
 PHARMACY,599,Special Projects,01,12808,V,ARRGT,"",(multiple)
 PHARMACY,599,Special Projects,02,12855,V,ARRGT,"",Travis Denton

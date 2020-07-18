@@ -1,6 +1,5 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Instructor
 ACCTG,231,Introduction to Managerial Accounting,01,06473,3,"M,W,F8.10-9",TODD 420,Susan Gill
-ACCTG,231,Introduction to Managerial Accounting,02,06474,3,"M,W,F10.10-11",TODD 334,Susan Gill
 ACCTG,231,Introduction to Managerial Accounting,03,09916,3,"M,W,F14.10-15",TODD 420,Chase Potter
 ACCTG,231,Introduction to Managerial Accounting,04,13444,3,"M,W,F11.10-12",WLSH 13,Chase Potter
 ACCTG,330,Intermediate Accounting I,01,06475,3,"TU,TH9.10-10.25",TODD 204,Jacob Jaggi
@@ -88,7 +87,7 @@ AMDT,495,Instructional Practicum,07,06641,V,ARRGT,ARR ARR,Hang Liu
 AMDT,495,Instructional Practicum,08,06642,V,ARRGT,ARR ARR,Yini Chen
 AMDT,495,Instructional Practicum,09,06643,V,ARRGT,ARR ARR,""
 AMDT,495,Instructional Practicum,10,07744,V,ARRGT,ARR ARR,Shanna Hiscock
-AMDT,496,Special Event Production,01,09458,V,"M,W15.10-16",ARR ARR,Shanna Hiscock
+AMDT,496,Special Event Production,01,09458,V,"M,W15.10-16",JSNH C0001,Shanna Hiscock
 AMDT,496,Special Event Production,02,16578,V,W15.10-16,JSNH C0001,Shanna Hiscock
 AMDT,498,Special Topics,01,06644,V,ARRGT,ARR ARR,Shanna Hiscock
 AMDT,498,Special Topics,02,06645,V,ARRGT,ARR ARR,Ting Chi
@@ -256,6 +255,9 @@ B_A,100,Introduction to Business,09,09688,3,"TU,TH7.45-9",CUE 119,Vincent Compea
 B_A,100,Introduction to Business,10,09689,3,"TU,TH9.10-10.25",CUE 119,Vincent Compeau
 B_A,100,Introduction to Business,12,09691,3,"TU,TH13.30-14.45",CUE 319,Hana Johnson
 B_A,100,Introduction to Business,13,09692,3,"TU,TH14.55-16.10",CUE 119,Hana Johnson
+B_A,100,Introduction to Business,14,09830,3,ARRGT,ARR ARR,Christopher Cooney
+B_A,100,Introduction to Business,15,16893,3,ARRGT,ARR ARR,Christopher Cooney
+B_A,100,Introduction to Business,16,16894,3,ARRGT,ARR ARR,Christopher Cooney
 B_A,102,Exploring Careers in Business,04,12068,1,TH9.10-10,SPRK 339,Michelle Chapman
 B_A,102,Exploring Careers in Business,05,14675,1,ARRGT,ARR ARR,Suzanne Billington
 B_A,201,Ethics for Business,01,11923,1,"TU,TH12.05-13.20",CUE 319,Nathaniel Nicol
@@ -276,13 +278,13 @@ B_A,204,Spreadsheets,03,14907,1,"M,W,F13.10-14",TODD 330,""
 B_A,204,Spreadsheets,04,14908,1,"TU,TH9.10-10.25",TODD 330,""
 B_A,204,Spreadsheets,05,14909,1,"TU,TH10.35-11.50",TODD 330,""
 B_A,204,Spreadsheets,06,14910,1,"TU,TH13.30-14.45",TODD 330,""
-B_A,205,Data Visualization,01,14911,1,"M,W,F10.10-11",SPRK 227,""
+B_A,205,Data Visualization,01,14911,1,"M,W,F10.10-11",TODD 330,""
 B_A,205,Data Visualization,02,14912,1,"M,W,F11.10-12",TODD 330,""
 B_A,205,Data Visualization,03,14913,1,"M,W,F13.10-14",TODD 330,""
 B_A,205,Data Visualization,04,14914,1,TH9.10-10.25,TODD 330,""
 B_A,205,Data Visualization,05,14915,1,TH10.35-11.50,TODD 330,""
 B_A,205,Data Visualization,06,14916,1,"TU,TH13.30-14.45",TODD 330,""
-B_A,206,Decision Analysis,01,14931,1,"M,W,F10.10-11",ARR ARR,""
+B_A,206,Decision Analysis,01,14931,1,"M,W,F10.10-11",TODD 330,""
 B_A,206,Decision Analysis,02,14932,1,"M,W,F11.10-12",TODD 330,""
 B_A,206,Decision Analysis,03,14933,1,"M,W,F13.10-14",TODD 330,""
 B_A,206,Decision Analysis,04,14934,1,"TU,TH9.10-10.25",TODD 330,""
@@ -367,8 +369,6 @@ BSYSE,556,Surface Hydrologic Processes and Modeling,03,09048,3,TU14.10-16,AMS AR
 BSYSE,556,Surface Hydrologic Processes and Modeling,01 Lab,09006,0,W17.10-19.40,CLAR 151,Joan Wu
 BSYSE,556,Surface Hydrologic Processes and Modeling,02 Lab,09046,0,W17.10-19.40,AMS ARR,Joan Wu
 BSYSE,556,Surface Hydrologic Processes and Modeling,03 Lab,09051,0,W17.10-19.40,AMS ARR,Joan Wu
-BSYSE,557,Nutrient Cycling and Transport,01,09056,3,"M,W15.35-16.50",CLAR 151,Claudio Stockle
-BSYSE,557,Nutrient Cycling and Transport,02,09057,3,"M,W15.35-16.50",AMS ARR,Claudio Stockle
 BSYSE,581,Advanced Physical Properties of Foods,01,08447,3,"M,W,F15.10-16",LJSM 259,""
 BSYSE,582,Food Process Engineering I,01,08561,3,"TU,TH14.30-15.45",LJSM 259,Gustavo Barbosa-Canovas
 BSYSE,593,Renewable Energy Technologies,01,12006,3,W10.10-12.40,SPRK 333,Hanwu Lei
@@ -419,7 +419,7 @@ CE,567,Properties of Highway Pavement Materials,02,15575,3,"M,W,F13.10-14",SLOA 
 CE,580,Graduate Seminar,01,07249,1,M16.10-17,CUE 219,Jan Boll
 CE,580,Graduate Seminar,02,07250,1,M16.10-17,CUE 419,Ji Yun Lee
 CE,580,Graduate Seminar,03,07251,1,M16.10-17,CUE 319,Idil Akin
-CE,583,Aquatic Chemistry,01,15357,3,"M,W,F15.10-16","",Indranil Chowdhury
+CE,583,Aquatic Chemistry,01,15357,3,"M,W,F15.10-16",SLOA 233,Indranil Chowdhury
 CE,584,Environmental Microbiology,01,09270,3,"M,W11.10-12.25",JSNH C0105,Courtney Gardner
 CE,600,Special Projects or Independent Study,01,07252,V,ARRGT,ARR ARR,Jan Boll
 CE,600,Special Projects or Independent Study,02,07253,V,ARRGT,ARR ARR,Ji Yun Lee
@@ -439,6 +439,7 @@ CHE,432,[M] Chemical Engineering Lab I,02 Lab,04463,0,"TU,TH14.25-17.15",ETRL 4,
 CHE,488,Professional Practice Coop/Internship I,01,08033,V,ARRGT,ARR ARR,Sandra Brabb
 CHE,495,Chemical Engineering Internship,01,07621,2,ARRGT,ARR ARR,James Petersen
 CHE,499,Special Problems,01,04655,V,ARRGT,ARR ARR,(multiple)
+CHE,510,Transport Processes,01,04656,3,"M,W,F9.10-10",WEGN G0070,Cornelius Ivory
 CHE,581,Advanced Topics in Chemical Engineering,02,15607,V,ARRGT,ARR ARR,Haluk Beyenal
 CHE,581,Advanced Topics in Chemical Engineering,03,15608,V,ARRGT,ARR ARR,Bernard Vanwie
 CHE,581,Advanced Topics in Chemical Engineering,04,15609,V,ARRGT,ARR ARR,Cornelius Ivory
@@ -709,7 +710,7 @@ COM,309,Quantitative Research Methods,03,16349,3,ARRGT,ARR ARR,Wei Peng
 COM,415,Media Law,01,07212,3,ARRGT,ARR ARR,Elizabeth Hindman
 COM,420,New Communication Technologies,01,06929,3,ARRGT,ARR ARR,Douglas Hindman
 COM,464,Gender and the Media,01,07609,3,ARRGT,ARR ARR,Traci Gillig
-COM,475,Communication Seminar,02,09142,3,ARRGT,ARR ARR,""
+COM,475,Communication Seminar,02,09142,3,ARRGT,ARR ARR,Marvin Marcelo
 COM,475,Communication Seminar,03,09143,3,"TU,TH7.45-9",GTZN 1,Daniel Petek
 COM,479,Youth and the Media,01,06934,3,ARRGT,ARR ARR,Alicia Booth
 COM,495,Communication Professional Internship,01,06935,V,ARRGT,ARR ARR,Angela Schweigert
@@ -931,8 +932,6 @@ CST_M,499,Special Problems,03,07841,V,ARRGT,ARR ARR,Jason Peschel
 CST_M,499,Special Problems,04,09450,V,ARRGT,ARR ARR,Rick Cherf
 CST_M,499,Special Problems,05,09912,V,ARRGT,ARR ARR,Stephen Austin
 CST_M,499,Special Problems,06,09986,V,ARRGT,ARR ARR,Jason Peschel
-DATA,115,Introduction to Data Analytics,01,08332,3,ARRGT,ARR ARR,Damilola Olabode
-DATA,115,Introduction to Data Analytics,02,09265,3,"TU,TH12.05-13.20",SPRK 212,Daryl Deford
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,05111,3,"M,W,F9.10-10",SPRK 223,Kathryn Manis
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,06,09335,3,"M,W,F13.10-14",BRYN 404,Chanelle Fournier
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,08,09866,3,"M,W,F14.10-15",SPRK 339,Chanelle Fournier
@@ -1222,7 +1221,7 @@ ED_PSYCH,600,Special Projects or Independent Study,01,05838,V,ARRGT,ARR ARR,(mul
 ED_PSYCH,700,"Master's Research, Thesis, and/or Examination",01,05839,V,ARRGT,ARR ARR,(multiple)
 ED_PSYCH,702,"Master's Special Problems, Directed Study, and/or Examination",01,05840,V,ARRGT,ARR ARR,(multiple)
 ED_PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,05841,V,ARRGT,ARR ARR,(multiple)
-ED_RES,564,Qualitative Research,01,06879,3,TU16.10-19,AMS PUL,""
+ED_RES,564,Qualitative Research,01,06879,3,TU16.10-19,SPRK 212,""
 ED_RES,571,Doctoral Dissertation Preparation,01,13469,3,M17.45-20.35,SPRK 212,Susan Finley
 ENGLISH,100,Introductory College Composition,09,14954,3,"M,W,F13.10-14",THOM 201,Robert Eddy
 ENGLISH,101,[WRTG] College Composition,03,04924,3,"TU,TH13.30-14.45",WEBS 17,Jamie Flathers
@@ -1274,7 +1273,6 @@ ENGLISH,107,Writing Tutorial for Multilingual Writers,02,04968,1,W11.10-12,ARR A
 ENGLISH,107,Writing Tutorial for Multilingual Writers,03,04969,1,W13.10-14,ARR ARR,Brooklyn Walter
 ENGLISH,107,Writing Tutorial for Multilingual Writers,04,04970,1,W14.10-15,ARR ARR,Brooklyn Walter
 ENGLISH,107,Writing Tutorial for Multilingual Writers,05,04971,1,TH14.10-15,ARR ARR,Brooklyn Walter
-ENGLISH,108,[HUM] Introduction to Literature,01,04973,3,"M,W,F13.10-14",CUE 419,Rachael Wolney
 ENGLISH,109,Creative Writing Now,01,14850,3,"M,W,F10.10-11",TODD 116,Colin Criss
 ENGLISH,112,[HUM] Language in the Real World,01,08538,3,ARRGT,ARR ARR,Elizabeth Siler
 ENGLISH,201,[WRTG] Writing and Research,01,04974,3,"M,W,F14.10-15",TODD 133,Laura Powers
@@ -1590,18 +1588,18 @@ H_D,499,Special Problems,03,09132,V,ARRGT,ARR ARR,Deborah Handy
 H_D,505,Developing Effective Leadership: Tidal Leadership,01,08149,2,ARRGT,ARR ARR,Anna Whitehall
 H_D,586,Special Topics in Human Development,01,14924,V,W14.10-15,ARR ARR,Robert Cooper
 H_D,600,Special Projects or Independent Study,01,05150,V,ARRGT,ARR ARR,(multiple)
-HBM,101,Professional and Career Development for the Business World,01,06262,1,"M,W,F9.10-10",COLL 125,James Harbour
-HBM,101,Professional and Career Development for the Business World,02,09504,1,"M,W,F9.10-10",CUE 207,Anthony Thompson
-HBM,101,Professional and Career Development for the Business World,03,09505,1,"M,W,F8.10-9",TODD 204,James Harbour
-HBM,101,Professional and Career Development for the Business World,04,11883,1,"M,W,F10.10-11",FULM 125,James Harbour
-HBM,101,Professional and Career Development for the Business World,05,11884,1,"M,W,F14.10-15",TODD 311,Anthony Thompson
-HBM,101,Professional and Career Development for the Business World,06,11885,1,"M,W,F16.10-17",TODD 303,Anthony Thompson
-HBM,101,Professional and Career Development for the Business World,07,11886,1,"M,W,F15.10-16",TODD 311,Anthony Thompson
-HBM,101,Professional and Career Development for the Business World,08,11887,1,"M,W,F10.10-11",CUE 419,Anthony Thompson
-HBM,101,Professional and Career Development for the Business World,09,11888,1,"M,W,F13.10-14",TODD 204,James Harbour
-HBM,101,Professional and Career Development for the Business World,10,11889,1,"M,W,F14.10-15",BRYN 324,James Harbour
-HBM,101,Professional and Career Development for the Business World,11,11890,1,"M,W,F13.10-14",CUE 207,Anthony Thompson
-HBM,101,Professional and Career Development for the Business World,12,11891,1,"M,W,F15.10-16",TODD 303,Amy Alonzo
+HBM,101,Professional and Career Development for the Business World,01,06262,1,"M,W,F9.10-10",ARR ARR,James Harbour
+HBM,101,Professional and Career Development for the Business World,02,09504,1,"M,W,F9.10-10",ARR ARR,Anthony Thompson
+HBM,101,Professional and Career Development for the Business World,03,09505,1,"M,W,F8.10-9",ARR ARR,James Harbour
+HBM,101,Professional and Career Development for the Business World,04,11883,1,"M,W,F10.10-11",ARR ARR,James Harbour
+HBM,101,Professional and Career Development for the Business World,05,11884,1,"M,W,F14.10-15",ARR ARR,Anthony Thompson
+HBM,101,Professional and Career Development for the Business World,06,11885,1,"M,W,F16.10-17",ARR ARR,Anthony Thompson
+HBM,101,Professional and Career Development for the Business World,07,11886,1,"M,W,F15.10-16",ARR ARR,Anthony Thompson
+HBM,101,Professional and Career Development for the Business World,08,11887,1,"M,W,F10.10-11",ARR ARR,Anthony Thompson
+HBM,101,Professional and Career Development for the Business World,09,11888,1,"M,W,F13.10-14",ARR ARR,James Harbour
+HBM,101,Professional and Career Development for the Business World,10,11889,1,"M,W,F14.10-15",ARR ARR,James Harbour
+HBM,101,Professional and Career Development for the Business World,11,11890,1,"M,W,F13.10-14",ARR ARR,Anthony Thompson
+HBM,101,Professional and Career Development for the Business World,12,11891,1,"M,W,F15.10-16",ARR ARR,Amy Alonzo
 HBM,231,Introduction to Beverage Management,02,10065,1,"TU,TH12.05-13.20",CUE 114,James Harbour
 HBM,235,"[SSCI] Travel, Society, and Business",01,06263,3,"M,W,F12.10-13",TODD 216,""
 HBM,258,Fundamentals of Cooking,01 Lab,04612,0,TU13.30-16.20,TDAD 270,Jamie Callison
@@ -1695,7 +1693,6 @@ HONORS,290,Science as a Way of Knowing,01,06095,3,"TU,TH13.30-14.45",HNRS 142,Ly
 HONORS,290,Science as a Way of Knowing,02,06096,3,"TU,TH9.10-10.25",HNRS 142,Joanna Schultz
 HONORS,290,Science as a Way of Knowing,04,07995,3,W17.30-20,CUE 419,David Makin
 HONORS,298,Approaches to Global Leadership,03,13169,2,M12.10-14,HNRS 142,Cassa Hanon
-HONORS,370,Case Study: Global Issues in Social Sciences,01,05651,3,"TU,TH10.35-11.50",THOM 24,Mary Bloodsworth-Lugo
 HONORS,370,Case Study: Global Issues in Social Sciences,02,05652,3,"TU,TH12.05-13.20",WLSH 13,William Smith
 HONORS,390,Case Study: Global Issues in the Sciences,01,05657,3,"TU,TH12.05-13.20",HNRS 142,Joanna Schultz
 HONORS,450,Honors Thesis or Project,01,05664,V,ARRGT,ARR ARR,Robin Bond
@@ -1812,10 +1809,10 @@ I_BUS,600,Special Projects or Independent Study,01,05024,V,ARRGT,ARR ARR,Jeffrey
 I_D,197,Design Communication I,02 Lab,16442,0,TU11.10-12.50,ARR ARR,""
 I_D,197,Design Communication I,03 Lab,16443,0,TH9.10-10.50,ARR ARR,""
 I_D,197,Design Communication I,04 Lab,16444,0,TH11.10-12.50,ARR ARR,""
-I_D,201,Interior Design Studio II,01,05915,4,ARRGT,ARR ARR,Carrie Vielle
-I_D,201,Interior Design Studio II,02,09942,4,ARRGT,ARR ARR,Robert Krikac
-I_D,201,Interior Design Studio II,01 Lab,05916,0,"M,W,F13.10-16",DAGG 1,Carrie Vielle
-I_D,201,Interior Design Studio II,02 Lab,09941,0,"M,W,F13.10-16",DAGG 1A,Robert Krikac
+I_D,201,Interior Design Studio II,01,05915,4,ARRGT,ARR ARR,""
+I_D,201,Interior Design Studio II,02,09942,4,ARRGT,ARR ARR,""
+I_D,201,Interior Design Studio II,01 Lab,05916,0,"M,W,F13.10-16",DAGG 1,""
+I_D,201,Interior Design Studio II,02 Lab,09941,0,"M,W,F13.10-16",DAGG 1A,""
 I_D,205,Visual Communication,01,05917,3,M10.10-11.50,DAGG 1,Carrie Vielle
 I_D,205,Visual Communication,01 Lab,05918,0,W10.10-11.50,DAGG 1,Carrie Vielle
 I_D,321,Interior Design Studio IV,01,05920,4,ARRGT,ARR ARR,Minyoung Cerruti
@@ -1888,7 +1885,7 @@ KIN_ACTV,119,Aerobic Dance,02,09775,1,"M,W14.10-15",SGYM 117,""
 KIN_ACTV,120,Beginning Ballet,01,15620,1,"M,W10.10-11",SGYM 115,Sophia Mcmaster
 KIN_ACTV,121,Intermediate Ballet,01,15621,1,"M,W11.10-12",SGYM 115,Sophia Mcmaster
 KIN_ACTV,122,Beginning Jazz Dance,01,15625,1,"M,W11.10-12",SGYM 215,Emily Morris
-KIN_ACTV,123,Intermediate Jazz Dance,01,15626,1,"TU,TH10.10-11",ARR ARR,Emily Morris
+KIN_ACTV,123,Intermediate Jazz Dance,01,15626,1,"TU,TH10.10-11",SGYM 215,Emily Morris
 KIN_ACTV,124,Beginning Tennis,01,07183,1,"M,W13.10-14.25",ARR ARR,Trang Huynh
 KIN_ACTV,124,Beginning Tennis,02,15623,1,"TU,TH8-9.15",FLDH 100,Trang Huynh
 KIN_ACTV,125,Intermediate Tennis,01,08085,1,"TU,TH14.30-16",FULM 201,Trang Huynh
@@ -1970,8 +1967,8 @@ KINES,490,Instructional Practicum,07,07041,V,ARRGT,ARR ARR,Shikha Prashad
 KINES,490,Instructional Practicum,09,07043,V,ARRGT,ARR ARR,Robert Catena
 KINES,490,Instructional Practicum,13,07047,V,ARRGT,ARR ARR,Christopher Connolly
 KINES,493,Athletic Training Clinical Internship III,01,07048,2,W8.10-9,SGYM 214A,Katharine Pietz
-KINES,496,Special Topics,01,07541,V,M12.10-13,ARR ARR,Shelby Mckay
-KINES,496,Special Topics,02,07542,V,M13.10-14,TODD 130,Shelby Mckay
+KINES,496,Special Topics,01,07541,V,M12.10-13,BOAD 184,Shelby Mckay
+KINES,496,Special Topics,02,07542,V,M13.10-14,BOAD 184,Shelby Mckay
 KINES,496,Special Topics,03,07543,V,TU8.10-9,BOAD 184,Derrick Mitchell
 KINES,496,Special Topics,04,07544,V,W8.10-9,BOAD 184,Shelby Mckay
 KINES,496,Special Topics,05,14955,V,W14.10-15,BOAD 184,Derrick Mitchell
@@ -2056,6 +2053,7 @@ MATH,536,Statistical Computing,01 Lab,03702,0,F15.10-16,ARR ARR,Abhishek Kaul
 MATH,540,Applied Mathematics I: PDEs,01,03634,3,"M,W,F11.10-12",HLD G0003,Alexander Panchenko
 MATH,548,Numerical Analysis,02,15428,3,"TU,TH10.35-11.50",SPRK 227,Valipuram Manoranjan
 MATH,568,Statistical Theory I,02,03714,3,ARRGT,ARR ARR,""
+MATH,570,Continuum Mechanics,01,12981,3,"TU,TH9.10-10.25",CARP 102,Jow-Lian Ding
 MATH,581,Topics in Mathematics,01,03644,V,"TU,TH9.10-10.25",TODD 116,Sheng-Chi Liu
 MATH,597,Mathematics Instruction Seminar,01,03647,1,ARRGT,ARR ARR,""
 MATH,597,Mathematics Instruction Seminar,02,03648,1,ARRGT,ARR ARR,""
@@ -2095,9 +2093,7 @@ MBIOS,401,Cell Biology,01,06846,3,ARRGT,ARR ARR,Eric Shelden
 MBIOS,413,General Biochemistry,02,08290,3,ARRGT,ARR ARR,Ronald Brosemer
 MBIOS,430,[M] Combined Immunology and Virology Laboratory,01 Lab,06850,0,"TU,TH9.10-12",EAST G0095,Philip Mixter
 MBIOS,430,[M] Combined Immunology and Virology Laboratory,02 Lab,06851,0,"TU,TH14.55-17.45",EAST G0095,Philip Mixter
-MBIOS,478,Bioinformatics,01,04620,3,"TU,TH16.20-17.10",CUE 419,John Wyrick
 MBIOS,478,Bioinformatics,02,04622,3,ARRGT,ARR ARR,John Wyrick
-MBIOS,478,Bioinformatics,01 Lab,04624,0,"TU,TH17.45-19",BUST 214,John Wyrick
 MBIOS,478,Bioinformatics,02 Lab,04626,0,ARRGT,ARR ARR,John Wyrick
 MBIOS,480,Methods of Teaching Secondary Science I,01,09606,3,"TU,TH11.10-13",EDAD 308,Sarah Fick
 MBIOS,494,[CAPS] [M] Senior Project in Molecular Biosciences,01,06857,3,"M,W,F12.10-13",TODD 434,""
@@ -2112,9 +2108,7 @@ MBIOS,548,Selected Topics in Immunology & Virology,02,09244,1,ARRGT,ARR ARR,Sant
 MBIOS,563,Deconstruction of Research,01,08517,3,"TU,TH9.10-10.25",SPRK G0045,""
 MBIOS,564,Topics in Biomedical Experimentation,01,11868,V,"TU,TH9.10-10.25",VBRB 201,Erika Offerdahl
 MBIOS,564,Topics in Biomedical Experimentation,02,16045,V,"TU,TH9.10-10.25",ARR ARR,Ryan Driskell
-MBIOS,578,Bioinformatics,01,04621,3,"TU,TH16.20-17.10",CUE 419,John Wyrick
 MBIOS,578,Bioinformatics,02,04623,3,ARRGT,ARR ARR,John Wyrick
-MBIOS,578,Bioinformatics,01 Lab,04625,0,"TU,TH17.45-19",BUST 214,John Wyrick
 MBIOS,578,Bioinformatics,02 Lab,04627,0,ARRGT,ARR ARR,John Wyrick
 MBIOS,579,Molecular Biosciences Seminar,01,06865,1,"TU,TH12.10-13",BLS 402,John Wyrick
 MBIOS,583,Professional Skills Seminar,01,06866,1,ARRGT,ARR ARR,Breeana Hubbard
@@ -2515,7 +2509,7 @@ NEUROSCI,499,Special Problems,01,04902,V,ARRGT,ARR ARR,(multiple)
 NEUROSCI,531,Neuroscience Laboratory Rotation,01,04903,1,ARRGT,ARR ARR,""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,01,06459,V,"M,F9.10-10",VBRB 201,Heiko Jansen
 NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-10,VBRB 201,""
-NEUROSCI,540,Special Topics in Integrative Neuroscience,03,08986,V,"M,F9.10-10",VBRB 201,""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,03,08986,V,"M,F9.10-10",VBRB 201,Joseph Harding
 NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-10,VBRB 201,""
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,01,07578,V,"M,W10.10-11",VBRB 201,David Rossi
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,VBRB 201,""
@@ -2726,18 +2720,6 @@ SDC,499,Special Problems,02,08410,V,ARRGT,ARR ARR,""
 SHS,201,American Sign Language I,02,08171,4,ARRGT,ARR ARR,""
 SHS,205,Introduction to Speech-Language Pathology and Audiology,01,07547,3,"TU,TH9.10-10.25",SPRK 212,Carrie Balazs
 SHS,490,Special Topics in Speech and Hearing Sciences,01,06260,V,ARRGT,ARR ARR,Melissa Ratsch
-SOC,101,[SSCI] Introduction to Sociology,"","","",W13.10-14,ABEL 201,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",TH10.35-11.25,TODD 216,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",TH10.35-11.25,TODD 125,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",W13.10-14,TODD 130,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",W13.10-14,JSNH C0107,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",F12.10-13,TODD 120,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",F12.10-13,ABEL 201,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",F12.10-13,SPRK 339,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",F12.10-13,JSNH C0107,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",F12.10-13,CUE 319,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",F12.10-13,SPRK 327,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",W13.10-14,SPRK 323,""
 SOC,101,[SSCI] Introduction to Sociology,21,08745,3,ARRGT,ARR ARR,Caleb Cooley
 SOC,102,[SSCI] Social Problems,02,06596,3,"TU,TH9.10-10.25",WLSH 13,Jordan Burke
 SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",02,09929,3,ARRGT,ARR ARR,Robert Ressler
@@ -2748,7 +2730,6 @@ SOC,321,Quantitative Techniques in Sociology I,02,12008,4,"TU,TH9.10-10.25",SPRK
 SOC,321,Quantitative Techniques in Sociology I,03,12009,4,"TU,TH9.10-10.25",SPRK 227,Mariana Amorim
 SOC,321,Quantitative Techniques in Sociology I,04,12010,4,"TU,TH9.10-10.25",SPRK 227,Mariana Amorim
 SOC,321,Quantitative Techniques in Sociology I,05,12011,4,"TU,TH9.10-10.25",SPRK 227,Mariana Amorim
-SOC,332,[SSCI] Sustainability and Society,01,06603,3,"M,W,F12.10-13",FLMA 226,Dylan Bugden
 SOC,352,Youth and Society,01,09074,3,ARRGT,ARR ARR,Joseph Kremer
 SOC,362,Juvenile Delinquency,01,08151,3,ARRGT,ARR ARR,Kristin Cutler
 SOC,368,Drugs and Society,01,09073,3,ARRGT,ARR ARR,Kristin Cutler
@@ -3001,6 +2982,7 @@ STAT,419,Introduction to Multivariate Statistics,02,04220,3,ARRGT,ARR ARR,Xiongz
 STAT,423,Statistical Methods for Engineers and Scientists,02,11860,3,"W,F10.35-11.50",AMS PUL,""
 STAT,512,Analysis of Variance of Designed Experiments,01 Lab,04158,0,F13.10-15,HULB 5,Harry Johnson
 STAT,516,Time Series,01,04207,3,"TU,TH14.55-16.10",TODD 411,Sung Ahn
+STAT,523,Statistical Methods for Engineers and Scientists,02,04221,3,"W,F10.35-11.50",AMS PUL,""
 STAT,536,Statistical Computing,01,04186,3,"M,W15.10-16",CUE 418,Abhishek Kaul
 STAT,536,Statistical Computing,01 Lab,04187,0,F15.10-16,ARR ARR,Abhishek Kaul
 STAT,548,Statistical Theory I,02,04210,3,ARRGT,ARR ARR,""
@@ -3044,7 +3026,7 @@ TCH_LRN,417,Coding for Teachers,01,14716,3,TU9.10-12,EDAD 216,Joy Egbert
 TCH_LRN,419,Instructional Media Production,01,08112,3,M13.10-16,EDAD 216,Joy Egbert
 TCH_LRN,430,Methods of Teaching Secondary Science I,01,08465,3,"TU,TH11.10-13",EDAD 308,Sarah Fick
 TCH_LRN,433,Middle Level Mathematics Methods,01,07629,3,"M,W16.10-18",SPRK 235,""
-TCH_LRN,433,Middle Level Mathematics Methods,02,08550,3,TU16.20-19.05,SPRK 233,Tara Heikila
+TCH_LRN,433,Middle Level Mathematics Methods,02,08550,3,M16.45-19.30,CUE 114,Tara Heikila
 TCH_LRN,434,Conceptualization of Proportional Thinking,01,07489,3,TH16.20-19.05,SPRK 333,""
 TCH_LRN,445,Elementary Methods of Educational Technology,01,07490,2,TU12.10-14,EDAD 216,Susan Skavdahl
 TCH_LRN,445,Elementary Methods of Educational Technology,02,07491,2,TH14.10-16,EDAD 216,Susan Skavdahl
@@ -3169,7 +3151,7 @@ VET_MED,513,Veterinary Physiology I,02,07552,4,ARRGT,ARR ARR,Lee Rickords
 VET_MED,513,Veterinary Physiology I,03,07712,4,ARRGT,ARR ARR,Christopher Organ
 VET_MED,517,Small Animal Applied Anatomy and Surgical Techniques,01,05046,2,"TU,TH13-17",MCOY 202,Bonnie Campbell
 VET_MED,517,Small Animal Applied Anatomy and Surgical Techniques,01 Lab,05047,0,ARRGT,ARR ARR,Bonnie Campbell
-VET_MED,518,Large Animal Applied Anatomy,01,08154,2,W13.10-16.10,MCOY 202,Cynthia Faux
+VET_MED,518,Large Animal Applied Anatomy,01,08154,2,W13.10-16.10,MCOY 202,""
 VET_MED,518,Large Animal Applied Anatomy,01 Lab,08226,0,ARRGT,ARR ARR,Cynthia Faux
 VET_MED,522,Fundamentals of Pharmacology,01,05048,3,"M,W,F13.10-14",BUST 145,Suzanne Wayman
 VET_MED,522,Fundamentals of Pharmacology,02,07553,3,ARRGT,ARR ARR,Ralph Meyer
