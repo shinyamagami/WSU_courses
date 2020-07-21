@@ -7,7 +7,7 @@ Welcome to WSU_In_Person gem!
 
 All non "WEB ARR" classes are in the csv file.
 Please run "ruby main.rb" when you want a newer csv file.
-I am not sure the definitions of in-person class and WEB ARR classes.
+I don't know the definitions of in-person class and WEB ARR classes.
 So please don't trust this list.
 
 <!--

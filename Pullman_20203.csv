@@ -20,7 +20,7 @@ AERO,101,Heritage and Values I,02,07994,1,TH12.05-12.55,SPRK 227,Brian Balazs
 AERO,103,Leadership Laboratory I,01,05720,2,TH17-19,CUE 203,Paul Hyde
 AERO,201,Team and Leadership Fundamentals I,01,05721,1,TU9.10-10,KRUG 417,Brian Balazs
 AERO,201,Team and Leadership Fundamentals I,02,05722,1,TH14.55-15.45,KRUG 417,Brian Balazs
-AERO,203,Leadership Laboratory II,01,05723,2,TH17-19,TODD 116,""
+AERO,203,Leadership Laboratory II,01,05723,2,TH17-19,CUE 419,""
 AERO,311,Leading People and Effective Communication I,01,05724,3,"TU,TH10.35-11.50",KRUG 417,Spencer Sweat
 AERO,313,Leadership Laboratory III,01,05725,2,TH17-19,CUE 219,""
 AERO,411,"National Security, Leadership, and Commissioning Preparation I",01,05726,3,"TU,TH13.30-14.45",KRUG 417,Brian Balazs
@@ -183,6 +183,7 @@ ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",04,06712,V,ARRGT,AR
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",05,06713,V,ARRGT,ARR ARR,Zhihua Jiang
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",06,06714,V,ARRGT,ARR ARR,Amber Adams-Progar
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",07,06715,V,ARRGT,ARR ARR,Joseph Harrison
+ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",08,06716,V,ARRGT,ARR ARR,Michael Phelps
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",10,07747,V,ARRGT,ARR ARR,Donald Llewellyn
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",12,08175,V,ARRGT,ARR ARR,Martin Maquivar
 ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,06718,V,ARRGT,ARR ARR,Min Du
@@ -216,13 +217,13 @@ ANTH,539,Prehistory of the Southwest,01,13452,3,ARRGT,ARR ARR,Andrew Duff
 ANTH,600,Special Projects or Independent Study,02,07209,V,ARRGT,ARR ARR,(multiple)
 ANTH,700,"Master's Research, Thesis, and/or Examination",01,07210,V,ARRGT,ARR ARR,(multiple)
 ANTH,800,"Doctoral Research, Dissertation, and/or Examination",01,07211,V,ARRGT,ARR ARR,(multiple)
-ARCH,201,Architectural Design I,02,04434,5,"M,W,F9.10-12",CARP 401,John Abell
-ARCH,201,Architectural Design I,03,14775,5,"M,W,F13.10-16",CARP 401,Ayad Rahmani
+ARCH,201,Architectural Design I,02,04434,5,"M,W,F9.10-12",CARP 401,Mona Ghandi
+ARCH,201,Architectural Design I,03,14775,5,"M,W,F13.10-16",CARP 401,Gregory Kessler
 ARCH,301,Architectural Design III,01,06571,5,"M,W,F13.10-16",CARP 301,Marti Cowan
 ARCH,301,Architectural Design III,03,08411,5,"TU,TH12.05-16.10",CARP 301,Vahid Vahdat
 ARCH,401,Architectural Design V,01,06575,6,"TU,TH13.30-18",CARP 401,Matthew Melcher
 ARCH,401,Architectural Design V,02,09007,6,"TU,TH13.30-18",CARP 420,Omar Al-Hassawi
-ARCH,511,Graduate Design Studio I,01,06580,6,"TU,TH13.30-18",CARP 301,""
+ARCH,511,Graduate Design Studio I,01,06580,6,"TU,TH13.30-18",CARP 301,Christopher Beorkrem
 ARCH,511,Graduate Design Studio I,02,12077,6,"M,W,F13.10-17",CARP 301,John Abell
 ARCH,542,Issues in Architecture,01,07611,3,M9.30-12,CARP 312,Ayad Rahmani
 ARCH,580,Architecture Practicum,01,07990,V,ARRGT,ARR ARR,Omar Al-Hassawi
@@ -248,7 +249,7 @@ ATH_T,591,Athletic Training Clinical Internship I,01,09781,2,ARRGT,ARR ARR,Katha
 ATH_T,592,Athletic Training Clinical Internship II,01,12057,3,ARRGT,ARR ARR,Katharine Pietz
 ATH_T,592,Athletic Training Clinical Internship II,01 Lab,16368,0,ARRGT,ARR ARR,""
 B_A,100,Introduction to Business,05,09680,3,"M,W,F13.10-14",CUE 119,Vincent Compeau
-B_A,100,Introduction to Business,06,09681,3,"M,W,F14.10-15",CUE 119,Jeremiah Cox
+B_A,100,Introduction to Business,06,09681,3,"M,W,F14.10-15",CUE 119,Jeremy Cox
 B_A,100,Introduction to Business,07,09685,3,"M,W,F16.10-17",CUE 119,Christopher Cooney
 B_A,100,Introduction to Business,08,09687,3,"M,W,F15.10-16",CUE 119,Christopher Cooney
 B_A,100,Introduction to Business,09,09688,3,"TU,TH7.45-9",CUE 119,Vincent Compeau
@@ -432,14 +433,13 @@ CES,271,[HUM] Native Music of North America,02,07666,3,ARRGT,ARR ARR,Melissa Par
 CES,332,[DIVR] [M] Topics in African American Literature,01,04492,3,"TU,TH12.05-13.20",CUE 203,Heather Ramos
 CES,499,Directed Independent Study,01,06282,V,ARRGT,ARR ARR,(multiple)
 CHE,101,Overview of Chemical Engineering,01,09881,1,W9.10-10,CUE 203,Di Wu
-CHE,101,Overview of Chemical Engineering,02,09882,1,M15.10-16,WEGN G070C,Di Wu
+CHE,101,Overview of Chemical Engineering,02,09882,1,M15.10-16,SPRK 327,Di Wu
 CHE,310,Introduction to Transport Processes,02,15628,3,"M,W,F15.10-16",SPRK 227,David Thiessen
 CHE,432,[M] Chemical Engineering Lab I,01 Lab,04462,0,"TU,TH9.10-12",ETRL 4,David Thiessen
 CHE,432,[M] Chemical Engineering Lab I,02 Lab,04463,0,"TU,TH14.25-17.15",ETRL 4,David Thiessen
 CHE,488,Professional Practice Coop/Internship I,01,08033,V,ARRGT,ARR ARR,Sandra Brabb
 CHE,495,Chemical Engineering Internship,01,07621,2,ARRGT,ARR ARR,James Petersen
 CHE,499,Special Problems,01,04655,V,ARRGT,ARR ARR,(multiple)
-CHE,510,Transport Processes,01,04656,3,"M,W,F9.10-10",WEGN G0070,Cornelius Ivory
 CHE,581,Advanced Topics in Chemical Engineering,02,15607,V,ARRGT,ARR ARR,Haluk Beyenal
 CHE,581,Advanced Topics in Chemical Engineering,03,15608,V,ARRGT,ARR ARR,Bernard Vanwie
 CHE,581,Advanced Topics in Chemical Engineering,04,15609,V,ARRGT,ARR ARR,Cornelius Ivory
@@ -698,7 +698,6 @@ CHINESE,203,Third Semester,01 Lab,05697,0,ARRGT,ARR ARR,Weiguo Cao
 CHINESE,305,Intermediate Conversation II,01,08340,1,ARRGT,ARR ARR,Lili Zhang
 CHINESE,322,[DIVR] Ecology in East Asian Cultures,01,09094,3,"TU,TH14.55-16.10",HLD G0003,Xinmin Liu
 CHINESE,499,Special Problems,01,09377,V,ARRGT,ARR ARR,Xinmin Liu
-COM,100,Grammar and Editing for Communication,01,07660,2,"M,W,F12.10-13",GTZN 1,Gabriella Bedoyan
 COM,100,Grammar and Editing for Communication,01 Lab,07719,0,ARRGT,ARR ARR,Gabriella Bedoyan
 COM,101,[SSCI] Media and Society,04,15964,3,ARRGT,ARR ARR,Michelle Kistler
 COM,105,[HUM] Communication in Global Contexts,03,15966,3,ARRGT,ARR ARR,Gabriella Bedoyan
@@ -773,8 +772,8 @@ COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,15272,3,"TU,
 COMSTRAT,476,Consumer Insights and Branding,02,10013,3,ARRGT,ARR ARR,Michelle Kistler
 COMSTRAT,480,[M] Advertising Agency Operation and Campaigns,01,12043,3,"TU,TH10.35-11.50",GTZN 1,Justin Barnes
 COMSTRAT,480,[M] Advertising Agency Operation and Campaigns,02,05888,3,"TU,TH12.05-13.20",GTZN 1,Daniel Petek
-COMSTRAT,485,[M] Public Relations Management and Campaigns,02,05890,3,"M,W,F11.10-12",GTZN 1,Margaret Ritsch
-COMSTRAT,485,[M] Public Relations Management and Campaigns,03,07985,3,"TU,TH13.30-14.45",CUE 419,Amanda Boyd
+COMSTRAT,485,[M] Public Relations Management and Campaigns,04,16895,3,ARRGT,ARR ARR,Margaret Ritsch
+COMSTRAT,485,[M] Public Relations Management and Campaigns,05,16896,3,ARRGT,ARR ARR,Amanda Boyd
 COMSTRAT,499,Special Problems,01,05891,V,ARRGT,ARR ARR,(multiple)
 CON_E,360,Heavy Construction Estimating I,01,09015,3,"M,W11.10-12",SLOA 38,Kishor Shrestha
 CON_E,360,Heavy Construction Estimating I,01 Lab,09016,0,TH10.10-11.50,SLOA 38,Kishor Shrestha
@@ -932,6 +931,8 @@ CST_M,499,Special Problems,03,07841,V,ARRGT,ARR ARR,Jason Peschel
 CST_M,499,Special Problems,04,09450,V,ARRGT,ARR ARR,Rick Cherf
 CST_M,499,Special Problems,05,09912,V,ARRGT,ARR ARR,Stephen Austin
 CST_M,499,Special Problems,06,09986,V,ARRGT,ARR ARR,Jason Peschel
+DATA,115,Introduction to Data Analytics,01,08332,3,ARRGT,ARR ARR,Damilola Olabode
+DATA,115,Introduction to Data Analytics,02,09265,3,"TU,TH12.05-13.20",SPRK 212,Daryl Deford
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,05111,3,"M,W,F9.10-10",SPRK 223,Kathryn Manis
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,06,09335,3,"M,W,F13.10-14",BRYN 404,Chanelle Fournier
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,08,09866,3,"M,W,F14.10-15",SPRK 339,Chanelle Fournier
@@ -1064,11 +1065,11 @@ ECONS,499,Special Problems,27,04763,V,ARRGT,ARR ARR,Jonathan Yoder
 ECONS,499,Special Problems,28,04764,V,ARRGT,ARR ARR,Richard Iles
 ECONS,499,Special Problems,29,04765,V,ARRGT,ARR ARR,Jinhui Bai
 ECONS,499,Special Problems,30,04766,V,ARRGT,ARR ARR,Alejandro Prera
-ECONS,500,Macroeconomic Theory I,01,04767,3,"M,W10.45-12",SPRK G0010,Jinhui Bai
-ECONS,501,Microeconomic Theory I,01,04769,3,"M,W9.10-10.25",SPRK 212,Ana Espinola-Arredondo
+ECONS,500,Macroeconomic Theory I,01,04767,3,"M,W10.45-12",CUE 119,Jinhui Bai
+ECONS,501,Microeconomic Theory I,01,04769,3,"M,W9.10-10.25",CUE 114,Ana Espinola-Arredondo
 ECONS,504,Production and Consumption Economics,01,08965,3,"M,W8.45-10",HULB 27,Michael Brady
-ECONS,506,Mathematics Primer for Economists,01,07897,3,"TU,TH13.30-14.45",CARP 102,Bidisha Mandal
-ECONS,509,Quantitative Methods in Economic Dynamics,01,09607,3,"M,W15.10-16.25",WLSH 6,Salvador Ortigueira
+ECONS,506,Mathematics Primer for Economists,01,07897,3,"TU,TH13.30-14.45",TODD 125,Bidisha Mandal
+ECONS,509,Quantitative Methods in Economic Dynamics,01,09607,3,"M,W15.10-16.25",HULB 27,Salvador Ortigueira
 ECONS,510,Statistics for Economists,01,04772,3,"TU,TH9.10-10.25",HULB 23,R Mittelhammer
 ECONS,512,Econometrics II,01,04774,3,"TU,TH10.35-11.50",HULB 23,Wesley Blundell
 ECONS,526,Mathematical Economics with Applications,01,04777,3,"M,W14.10-15.25",HULB 23,Mark Gibson
@@ -1431,7 +1432,6 @@ ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",10,05809,V,ARRGT
 ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",11,05810,V,ARRGT,ARR ARR,John Stark
 ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",12,05811,V,ARRGT,ARR ARR,Doug Walsh
 ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",13,08670,V,ARRGT,ARR ARR,Richard Zack
-ENTRP,426,Entrepreneurial Finance,01,07950,3,"TU,TH9.10-10.25",FNA 5062,Asa Brown
 ENTRP,485,[M] New Venture Planning,01,05229,3,"TU,TH10.35-11.50",SPRK 212,Marie Mayes
 ENTRP,489,Entrepreneurial Management,01,05230,3,"M,W,F12.10-13",TODD 334,Cotton Sears
 ENTRP,490,[M] Entrepreneurial Marketing,01,07624,3,"M,W,F8.10-9",SPRK 235,Christopher Cooney
@@ -1453,9 +1453,8 @@ FIN,346,Washington Real Estate Regulations,01,08210,1,ARRGT,ARR ARR,Francis Benj
 FIN,427,[M] Investment Analysis,02,05937,3,"M,W,F13.10-14",TODD 420,George Jiang
 FIN,430,Financial Plan Development,01,14843,3,"M,W,F13.10-14",TODD 234,Christiane Williamson
 FIN,437,[M] Cougar Investment Fund I,01,09512,3,"M,W,F10.10-11",TODD 330,Mario Reyes
-FIN,456,Risk Management,01,05938,3,"TU,TH12.05-13.20",TODD 120,Michael Mcnamara
-FIN,500,Macroeconomic Theory I,01,04768,3,"M,W10.45-12",SPRK G0010,Jinhui Bai
-FIN,501,Microeconomic Theory I,01,04770,3,"M,W9.10-10.25",SPRK 212,Ana Espinola-Arredondo
+FIN,500,Macroeconomic Theory I,01,04768,3,"M,W10.45-12",CUE 119,Jinhui Bai
+FIN,501,Microeconomic Theory I,01,04770,3,"M,W9.10-10.25",CUE 114,Ana Espinola-Arredondo
 FIN,510,Statistics for Economists,01,04773,3,"TU,TH9.10-10.25",HULB 23,R Mittelhammer
 FIN,512,Econometrics II,01,04775,3,"TU,TH10.35-11.50",HULB 23,Wesley Blundell
 FIN,594,Theory of Industrial Organization,01,04782,3,"TU,TH9.10-10.25",CLAR 147,Felix Munoz-Garcia
@@ -1560,7 +1559,6 @@ GERMAN,499,Special Problems,01,04668,V,ARRGT,ARR ARR,(multiple)
 GLANHLTH,563,Deconstruction of Research,01,08516,3,"TU,TH9.10-10.25",SPRK G0045,""
 GLANHLTH,564,Topics in Biomedical Experimentation,01,11867,V,"TU,TH9.10-10.25",VBRB 201,Erika Offerdahl
 H_D,101,[SSCI] Human Development Across the Lifespan,06,05123,3,"M,W,F13.10-14",TODD 125,Kyle Murphy
-H_D,101,[SSCI] Human Development Across the Lifespan,08,05125,3,"TU,TH13.30-14.45",TODD 230,Caroline Ojeme
 H_D,205,[COMM] Developing Effective Communication and Life Skills,06,08800,4,ARRGT,ARR ARR,Miranda Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,05132,0,ARRGT,ARR ARR,Mary Patton
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,05133,0,ARRGT,ARR ARR,Anna Whitehall
@@ -1687,7 +1685,6 @@ HONORS,270,Principles and Research Methods in Social Science,01,05645,3,"TU,TH16
 HONORS,270,Principles and Research Methods in Social Science,03,07593,3,"M,W,F13.10-14",THOM 209,Lisa Guerrero
 HONORS,280,Contextual Understanding in the Arts and Humanities,01,05647,3,"M,W,F9.10-10",AVER 104,William Hamlin
 HONORS,280,Contextual Understanding in the Arts and Humanities,02,05648,3,ARRGT,ARR ARR,Elizabeth Lampman
-HONORS,280,Contextual Understanding in the Arts and Humanities,04,05650,3,"M,W,F10.10-11",HNRS 142,David Shier
 HONORS,280,Contextual Understanding in the Arts and Humanities,05,08737,3,"TU,TH16.20-17.35",HNRS 142,Michael Sugerman
 HONORS,290,Science as a Way of Knowing,01,06095,3,"TU,TH13.30-14.45",HNRS 142,Lydia Gerber
 HONORS,290,Science as a Way of Knowing,02,06096,3,"TU,TH9.10-10.25",HNRS 142,Joanna Schultz
@@ -1709,12 +1706,10 @@ HORT,330,Landscape Plants for Urban and Community Environments,01 Lab,06343,0,"T
 HORT,330,Landscape Plants for Urban and Community Environments,02 Lab,09998,0,"TU,TH10.35-11.50",VPBS 43,Carol Kawula
 HORT,399,Professional Work Experience,01,06344,V,ARRGT,ARR ARR,Adelaide Snider
 HORT,418,[M] Post-harvest Biology and Technology,01,06348,3,"TU,TH10.35-11.25",SPRK 233,Richard Sharpe
-HORT,418,[M] Post-harvest Biology and Technology,02,08281,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,03,08283,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,04,08284,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,05,08285,3,"TU,TH10.35-11.25",AMS PUL,Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,01 Lab,06354,0,TU14.55-17.45,VPBS 39,Richard Sharpe
-HORT,418,[M] Post-harvest Biology and Technology,02 Lab,08282,0,ARRGT,ARR ARR,Richard Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,03 Lab,09588,0,F9.10-12,VPBS 39,Richard Sharpe
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,02,09199,3,"M,W,F9.10-10",AMS PUL,""
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,03,09201,3,"M,W,F9.10-10",AMS PUL,""
@@ -1806,28 +1801,28 @@ I_BUS,482,[M] International Marketing,01,05021,3,"M,W,F12.10-13",TODD 116,Muzi L
 I_BUS,498,International Business Internship,01,05022,V,ARRGT,ARR ARR,(multiple)
 I_BUS,499,Special Problems,01,05023,V,ARRGT,ARR ARR,(multiple)
 I_BUS,600,Special Projects or Independent Study,01,05024,V,ARRGT,ARR ARR,Jeffrey Joireman
-I_D,197,Design Communication I,02 Lab,16442,0,TU11.10-12.50,ARR ARR,""
-I_D,197,Design Communication I,03 Lab,16443,0,TH9.10-10.50,ARR ARR,""
-I_D,197,Design Communication I,04 Lab,16444,0,TH11.10-12.50,ARR ARR,""
-I_D,201,Interior Design Studio II,01,05915,4,ARRGT,ARR ARR,""
-I_D,201,Interior Design Studio II,02,09942,4,ARRGT,ARR ARR,""
-I_D,201,Interior Design Studio II,01 Lab,05916,0,"M,W,F13.10-16",DAGG 1,""
-I_D,201,Interior Design Studio II,02 Lab,09941,0,"M,W,F13.10-16",DAGG 1A,""
+I_D,197,Design Communication I,02 Lab,16442,0,TU11.10-12.50,ARR ARR,Leah Peck
+I_D,197,Design Communication I,03 Lab,16443,0,TH9.10-10.50,ARR ARR,Leah Peck
+I_D,197,Design Communication I,04 Lab,16444,0,TH11.10-12.50,ARR ARR,Leah Peck
+I_D,201,Interior Design Studio II,01,05915,4,ARRGT,ARR ARR,Robert Krikac
+I_D,201,Interior Design Studio II,02,09942,4,ARRGT,ARR ARR,Robert Krikac
+I_D,201,Interior Design Studio II,01 Lab,05916,0,"M,W,F13.10-16",DAGG 1,Carrie Vielle
+I_D,201,Interior Design Studio II,02 Lab,09941,0,"M,W,F13.10-16",DAGG 1A,Carrie Vielle
 I_D,205,Visual Communication,01,05917,3,M10.10-11.50,DAGG 1,Carrie Vielle
 I_D,205,Visual Communication,01 Lab,05918,0,W10.10-11.50,DAGG 1,Carrie Vielle
 I_D,321,Interior Design Studio IV,01,05920,4,ARRGT,ARR ARR,Minyoung Cerruti
-I_D,321,Interior Design Studio IV,02,12087,4,ARRGT,ARR ARR,Alana Pulay
+I_D,321,Interior Design Studio IV,02,12087,4,ARRGT,ARR ARR,Vahid Vahdat
 I_D,321,Interior Design Studio IV,01 Lab,05921,0,"W,F13.10-16.30",CARP 320,Minyoung Cerruti
-I_D,321,Interior Design Studio IV,02 Lab,09008,0,"W,F13.10-16.30",CARP 320,Alana Pulay
+I_D,321,Interior Design Studio IV,02 Lab,09008,0,"W,F13.10-16.30",CARP 320,Vahid Vahdat
 I_D,325,Interior Building Systems,01,09944,3,"TU,TH10.35-11.50",CARP 312,Judith Theodorson
 I_D,425,Interior Design Studio VI,01,05922,5,"TU,TH13.30-17",CARP 320,Judith Theodorson
-I_D,490,Cooperative Education Internship,01,05923,V,ARRGT,ARR ARR,""
-I_D,490,Cooperative Education Internship,02,05924,V,ARRGT,ARR ARR,""
+I_D,490,Cooperative Education Internship,01,05923,V,ARRGT,ARR ARR,Robert Krikac
+I_D,490,Cooperative Education Internship,02,05924,V,ARRGT,ARR ARR,Robert Krikac
 I_D,490,Cooperative Education Internship,03,09955,V,ARRGT,ARR ARR,Robert Krikac
 I_D,499,Special Problems,01,08626,V,ARRGT,ARR ARR,Carrie Vielle
 I_D,499,Special Problems,02,09428,V,ARRGT,ARR ARR,Judith Theodorson
 I_D,525,Interior Design Graduate Studio I,01,05926,5,ARRGT,ARR ARR,""
-I_D,700,"Master's Research, Thesis, and/or Examination",01,14713,V,ARRGT,ARR ARR,""
+I_D,700,"Master's Research, Thesis, and/or Examination",01,14713,V,ARRGT,ARR ARR,Judith Theodorson
 I_D,702,"Master's Special Problems, Directed Study and/or Examination",01,05928,V,ARRGT,ARR ARR,(multiple)
 INTERDIS,490,McNair Preparation for Graduate School,01,05098,1,ARRGT,ARR ARR,""
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,05004,V,ARRGT,ARR ARR,(multiple)
@@ -1998,10 +1993,10 @@ LND_ARCH,327,Theory in Landscape Architecture,01,05731,3,"TU,TH10.35-11.50",DAGG
 LND_ARCH,362,Landscape Architectural Design III,01,09009,4,"M,W13.10-16",CARP 401,Michael Sanchez
 LND_ARCH,366,Landscape Architectural Construction II,01,05732,4,"TU,TH13.30-14.45",DAGG 1,Michael Sanchez
 LND_ARCH,366,Landscape Architectural Construction II,01 Lab,05733,0,"TU,TH14.55-17.05",DAGG 1,Michael Sanchez
-LND_ARCH,399,Professional Work Experience: Office Practice,01,10047,V,ARRGT,ARR ARR,""
+LND_ARCH,399,Professional Work Experience: Office Practice,01,10047,V,ARRGT,ARR ARR,Jolie Kaytes
 LND_ARCH,470,Landscape Architectural Design V,01,05734,4,ARRGT,ARR ARR,Katherine Kraszewski
 LND_ARCH,470,Landscape Architectural Design V,01 Lab,05735,0,"TU,TH13.30-17",CARP 420,Katherine Kraszewski
-LND_ARCH,490,Cooperative Education Internship,01,08490,4,ARRGT,ARR ARR,""
+LND_ARCH,490,Cooperative Education Internship,01,08490,4,ARRGT,ARR ARR,Jolie Kaytes
 LND_ARCH,499,Special Problems,01,05736,V,ARRGT,ARR ARR,""
 MATH,103,Algebra Methods and Introduction to Functions,01,03559,3,"M,W,F8.10-9",TODD 116,Claudia Pacioni
 MATH,103,Algebra Methods and Introduction to Functions,02,03560,3,"M,W,F9.10-10",HLD G0003,Claudia Pacioni
@@ -2134,6 +2129,7 @@ ME,306,Thermal and Fluids Laboratory,01 Lab,07636,0,TU14.55-17.45,ETRL 226,Cecil
 ME,306,Thermal and Fluids Laboratory,02 Lab,07637,0,TH7.45-10.35,ETRL 226,Cecilia Richards
 ME,306,Thermal and Fluids Laboratory,03 Lab,07638,0,TH10.35-13.25,ETRL 226,Cecilia Richards
 ME,306,Thermal and Fluids Laboratory,04 Lab,07639,0,TH14.55-17.45,ETRL 226,Cecilia Richards
+ME,306,Thermal and Fluids Laboratory,05 Lab,08964,0,W15.10-18,ETRL 226,Cecilia Richards
 ME,311,Manufacturing Processes Laboratory,01,05170,1,TU7.45-10.35,ETRL 25,Kaiyan Qiu
 ME,311,Manufacturing Processes Laboratory,02,05171,1,W15.10-18,ETRL 25,Kaiyan Qiu
 ME,311,Manufacturing Processes Laboratory,03,05172,1,TH7.45-10.35,ETRL 25,Kaiyan Qiu
@@ -2182,10 +2178,10 @@ MGMT,455,Recruiting and Hiring Human Capital,01,09508,3,"M,W,F9.10-10",CUE 202,T
 MGMT,456,[M] Evaluating and Rewarding Employees,01,08371,3,"M,W,F11.10-12",CUE 202,Ronald Moser
 MGMT,483,[M] Management of Innovation and Change,01,07969,3,"TU,TH13.30-14.45",CUE 202,Lynne Cooper
 MGMT,485,[M] Negotiation Skills,01,08492,3,"M,W,F13.10-14",TODD 303,Natalie Liberman
-MGMT,487,Business Ethics and Corporate Responsibility,01,04493,3,"TU,TH10.35-11.50",TODD 303,Kenneth Butterfield
-MGMT,487,Business Ethics and Corporate Responsibility,02,09851,3,"TU,TH12.05-13.20",TODD 411,Kenneth Butterfield
-MGMT,491,[CAPS] Strategic Management,01,05818,3,"M,W,F9.10-10",TODD 311,Jeremiah Cox
-MGMT,491,[CAPS] Strategic Management,02,05819,3,"M,W,F10.10-11",TODD 303,Jeremiah Cox
+MGMT,487,Business Ethics and Corporate Responsibility,01,04493,3,"TU,TH10.35-11.50",TODD 420,Kenneth Butterfield
+MGMT,487,Business Ethics and Corporate Responsibility,02,09851,3,"TU,TH12.05-13.20",TODD 420,Kenneth Butterfield
+MGMT,491,[CAPS] Strategic Management,01,05818,3,"M,W,F9.10-10",TODD 311,Jeremy Cox
+MGMT,491,[CAPS] Strategic Management,02,05819,3,"M,W,F10.10-11",TODD 303,Jeremy Cox
 MGMT,491,[CAPS] Strategic Management,05,05822,3,"TU,TH9.10-10.25",TODD 230,Amrita Lahiri
 MGMT,491,[CAPS] Strategic Management,07,08992,3,"TU,TH10.35-11.50",WLSH 13,Amrita Lahiri
 MGMT,496,Seminar,01,09380,3,ARRGT,ARR ARR,Lynne Cooper
@@ -2277,7 +2273,7 @@ MSE,700,"Master's Research, Thesis, and/or Examination",01,06314,V,ARRGT,ARR ARR
 MSE,701,Master's Independent Capstone Project and /or Examination,01,13141,V,ARRGT,ARR ARR,(multiple)
 MSE,702,"Master's Special Problems, Directed Study, and/or Examination",01,06315,V,ARRGT,ARR ARR,(multiple)
 MUS,102,Piano,01,05962,2,"M,W,F17.10-18",KIMB 452,Fabio Menchetti
-MUS,103,Voice,01,05963,2,"M,W12.10-13",KIMB 346,Tsz To To
+MUS,103,Voice,01,05963,2,"M,W12.10-13",KIMB 346,Kayla Ray
 MUS,120,[ARTS] Class Guitar,01,05964,3,"M,W,F10.10-11",KIMB 115,Gabriel Condon
 MUS,120,[ARTS] Class Guitar,02,07664,3,"M,W,F11.10-12",KIMB 115,Gabriel Condon
 MUS,151,Music Fundamentals I,01,08050,3,"M,W,F8.10-9",KIMB 346,Jacob Svendsen
@@ -2321,7 +2317,7 @@ MUS,256,Seminar in Composition,01,05990,2,F11.10-12,KIMB 101,Scott Blasco
 MUS,258,Introduction to Jazz Improvisation,01,15516,2,"TU,TH13.10-14",KIMB 115,Jacob Svendsen
 MUS,262,[ARTS] Rock Music: History and Social Analysis,01,05991,3,"M,W,F11.10-12",KIMB 110,Frederick Snider
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,05992,3,"M,W,F10.10-11",KIMB 110,Frederick Snider
-MUS,262,[ARTS] Rock Music: History and Social Analysis,03,05993,3,ARRGT,ARR ARR,Gabriel Condon
+MUS,262,[ARTS] Rock Music: History and Social Analysis,03,05993,3,ARRGT,ARR ARR,Albert Miller
 MUS,262,[ARTS] Rock Music: History and Social Analysis,04,07654,3,ARRGT,ARR ARR,Albert Miller
 MUS,265,[HUM] Native Music of North America,01,05994,3,"M,W,F14.10-15",KIMB 346,Melissa Parkhurst
 MUS,265,[HUM] Native Music of North America,02,07665,3,ARRGT,ARR ARR,Melissa Parkhurst
@@ -2908,7 +2904,6 @@ SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",13,08351,V,AR
 SPANISH,101,First Semester,02,07062,4,"M,TU,W,TH10.10-11",TODD 133,Maria Sileoni
 SPANISH,101,First Semester,09,08897,4,ARRGT,ARR ARR,Maria Previto
 SPANISH,102,Second Semester,01,09547,4,"M,TU,W,TH9.10-10",TODD 133,Begona De Quintana Lasa
-SPANISH,102,Second Semester,02,07065,4,"M,TU,W,TH10.10-11",SPRK 339,Spencer Martin
 SPANISH,105,Elementary Conversation,01,07066,1,W15.10-16,THOM 21,Maria Previto
 SPANISH,105,Elementary Conversation,02,07925,1,TH16.20-17.10,THOM 21,Maria Previto
 SPANISH,203,Third Semester,01 Lab,07072,0,ARRGT,ARR ARR,Joseba Perez Guerrero
@@ -3018,8 +3013,8 @@ TCH_LRN,402,Instructional Practicum I,01,07482,V,M11.10-12,TODD 220,Lori White
 TCH_LRN,405,Instructional Practicum II,01,07483,V,F11.10-12,SPRK 327,Lori White
 TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,01,07604,3,M16.10-19,EDAD 308,""
 TCH_LRN,410,Theoretical Foundations of Bilingual/ESL Education,01,08295,3,TU17.45-20.30,SPRK 333,Eric Johnson
-TCH_LRN,413,Introduction to ESL for K-8 Teachers,01,07485,3,"M,W10.30-12.20",EDAD 212,""
-TCH_LRN,413,Introduction to ESL for K-8 Teachers,02,07486,3,"M,W8.10-10",EDAD 212,""
+TCH_LRN,413,Introduction to ESL for K-8 Teachers,01,07485,3,"M,W10.30-12.20",EDAD 212,Nalee Moua
+TCH_LRN,413,Introduction to ESL for K-8 Teachers,02,07486,3,"M,W8.10-10",EDAD 212,Nalee Moua
 TCH_LRN,415,Student Teaching,01,07487,V,ARRGT,ARR ARR,Matthew Coulter
 TCH_LRN,415,Student Teaching,01 Lab,07488,0,ARRGT,ARR ARR,Matthew Coulter
 TCH_LRN,417,Coding for Teachers,01,14716,3,TU9.10-12,EDAD 216,Joy Egbert
