@@ -1,71 +1,158 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Instructor
+BIOMED,"","","","","","","",""
+BIOMED,550,Biochemistry for the Health Sciences,"","","","","",""
+BIOMED,550,Biochemistry for the Health Sciences,01,15034,3,"M,W8.10-9.25",WEB ARR,Ted Chauvin
+COMHLTH,"","","","","","","",""
+COMHLTH,571,Communicating Health in Practice,"","","","","",""
 COMHLTH,571,Communicating Health in Practice,01,14821,3,ARRGT,ARR ARR,Jessica Willoughby
+COMHLTH,571,Communicating Health in Practice,"","","","","",""
+COMHLTH,571,Communicating Health in Practice,"","","","","",""
+COMHLTH,572,Communicating Health to Specialized Populations,"","","","","",""
 COMHLTH,572,Communicating Health to Specialized Populations,01,15171,3,ARRGT,ARR ARR,Chelsea Newman
+COMHLTH,572,Communicating Health to Specialized Populations,"","","","","",""
+COMHLTH,572,Communicating Health to Specialized Populations,"","","","","",""
+ED_AD,"","","","","","","",""
+ED_AD,501,Philosophy of Education,"","","","","",""
 ED_AD,501,Philosophy of Education,01,14687,3,W17.45-20.30,SAC 341,Susan Finley
+ED_AD,507,Social Foundations of Education,"","","","","",""
 ED_AD,507,Social Foundations of Education,01,14688,3,ARRGT,ARR ARR,John Lupinacci
+ED_AD,507,Social Foundations of Education,"","","","","",""
+ED_AD,507,Social Foundations of Education,"","","","","",""
+ED_AD,510,Improvement of Instruction,"","","","","",""
 ED_AD,510,Improvement of Instruction,01,16043,3,TH17.45-20.30,AMS SPK,John Lupinacci
+ED_AD,512,Leadership Studies for Social Justice,"","","","","",""
 ED_AD,512,Leadership Studies for Social Justice,01,14689,3,TU17.45-20.30,SAC 341,Katherine Rodela
+ED_AD,516,Instructional and Curricular Leadership,"","","","","",""
 ED_AD,516,Instructional and Curricular Leadership,01,14442,V,ARRGT,ARR ARR,Richard Mcbride
+ED_AD,521,Topics in Education,"","","","","",""
 ED_AD,521,Topics in Education,02,14691,V,ARRGT,ARR ARR,Glenys Hill
+ED_AD,521,Topics in Education,"","","","","",""
+ED_AD,521,Topics in Education,"","","","","",""
 ED_AD,521,Topics in Education,03,14692,V,ARRGT,ARR ARR,Glenys Hill
+ED_AD,521,Topics in Education,"","","","","",""
+ED_AD,521,Topics in Education,"","","","","",""
+ED_AD,580,School Organization and Administration,"","","","","",""
 ED_AD,580,School Organization and Administration,01,14693,3,TU17.45-20.30,SAC 347,Jeffrey Walls
+ED_AD,581,Politics in Education,"","","","","",""
 ED_AD,581,Politics in Education,01,14695,3,ARRGT,ARR ARR,Glenys Hill
+ED_AD,581,Politics in Education,"","","","","",""
+ED_AD,587,Seminar in School Administration,"","","","","",""
 ED_AD,587,Seminar in School Administration,01,14696,V,ARRGT,ARR ARR,Glenys Hill
+ED_AD,587,Seminar in School Administration,"","","","","",""
+ED_AD,589,Leadership Development Seminar,"","","","","",""
 ED_AD,589,Leadership Development Seminar,01,14443,3,W17.45-20.30,AMS ARR,Jeffrey Walls
+ED_AD,589,Leadership Development Seminar,"","","","","",""
+ED_AD,590,Internship,"","","","","",""
 ED_AD,590,Internship,01,14730,V,ARRGT,ARR ARR,Glenys Hill
 ED_AD,590,Internship,02,14731,V,ARRGT,ARR ARR,Glenys Hill
 ED_AD,590,Internship,03,14732,V,ARRGT,ARR ARR,Richard Mcbride
+ED_AD,600,Special Projects or Independent Study,"","","","","",""
 ED_AD,600,Special Projects or Independent Study,01,14728,V,ARRGT,ARR ARR,Glenys Hill
 ED_AD,600,Special Projects or Independent Study,02,14729,V,ARRGT,ARR ARR,Glenys Hill
+ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination","","","","","",""
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,14727,V,ARRGT,ARR ARR,Sharon Kruse
+ED_MTHSC,"","","","","","","",""
+ED_MTHSC,598,Research Seminar in Mathematics and Science Education,"","","","","",""
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,14736,1,W16.30-17.30,SAC 205,Andy Cavagnetto
+ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination","","","","","",""
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,15659,V,ARRGT,ARR ARR,(multiple)
+ED_PSYCH,"","","","","","","",""
+ED_PSYCH,505,Research Methods I,"","","","","",""
 ED_PSYCH,505,Research Methods I,01,14733,3,M17.45-20.30,SAC 347,Hsin-Ya Liao
+ED_PSYCH,508,Educational Statistics,"","","","","",""
 ED_PSYCH,508,Educational Statistics,01,14735,3,TU17.45-20.30,SAC 343,Bruce Austin
+ED_PSYCH,521,Topics in Educational Psychology,"","","","","",""
 ED_PSYCH,521,Topics in Educational Psychology,01,14177,V,W17.45-20.30,SAC 205,Kira Carbonneau
+ED_PSYCH,521,Topics in Educational Psychology,"","","","","",""
+ED_PSYCH,521,Topics in Educational Psychology,"","","","","",""
+ED_PSYCH,571,Theoretical Foundations and Fundamental Issues in Program Evaluation,"","","","","",""
 ED_PSYCH,571,Theoretical Foundations and Fundamental Issues in Program Evaluation,01,14762,3,W9.10-12,SAC 205,Olusola Adesope
+ED_RES,"","","","","","","",""
+ED_RES,562,"Epistemology, Inquiry, and Representation","","","","","",""
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,14737,3,TU17.45-20.30,SAC 205,Anthony Rud
+ED_RES,563,Principles of Research,"","","","","",""
 ED_RES,563,Principles of Research,01,14738,3,M17.45-20.30,SAC 341,Shannon Calderone
+ED_RES,563,Principles of Research,"","","","","",""
+ED_RES,564,Qualitative Research,"","","","","",""
 ED_RES,564,Qualitative Research,01,14739,3,TU16.10-19,SAC 41,""
+ED_RES,565,Quantitative Research,"","","","","",""
 ED_RES,565,Quantitative Research,01,14740,3,TU17.45-20.30,SAC 43,Shenghai Dai
+ED_RES,571,Doctoral Dissertation Preparation,"","","","","",""
 ED_RES,571,Doctoral Dissertation Preparation,01,14741,3,M17.45-20.30,SAC 343,Susan Finley
+ED_RES,571,Doctoral Dissertation Preparation,"","","","","",""
 ED_RES,571,Doctoral Dissertation Preparation,02,14742,3,W17.45-20.30,SAC 343,Kristin Huggins
+ED_RES,571,Doctoral Dissertation Preparation,"","","","","",""
+H_D,"","","","","","","",""
+H_D,205,[COMM] Developing Effective Communication and Life Skills,"","","","","",""
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02,14836,4,ARRGT,ARR ARR,Miranda Strey
+H_D,205,[COMM] Developing Effective Communication and Life Skills,"","","","","",""
+H_D,205,[COMM] Developing Effective Communication and Life Skills,"","","","","",""
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,14837,0,ARRGT,ARR ARR,Miranda Strey
+H_D,205,[COMM] Developing Effective Communication and Life Skills,"","","","","",""
+H_D,558,Parent-Child Relationships,"","","","","",""
 H_D,558,Parent-Child Relationships,01,12092,3,W15.10-17.40,SAC 345,Matthew Bumpus
+HISTORY,"","","","","","","",""
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,"","","","","",""
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,14215,3,ARRGT,ARR ARR,Jennifer Binczewski
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,"","","","","",""
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,"","","","","",""
+HISTORY,308,"[DIVR] North American Indian History, Precontact to Present","","","","","",""
 HISTORY,308,"[DIVR] North American Indian History, Precontact to Present",01,14845,3,ARRGT,ARR ARR,Robert Mccoy
+HISTORY,308,"[DIVR] North American Indian History, Precontact to Present","","","","","",""
+HISTORY,308,"[DIVR] North American Indian History, Precontact to Present","","","","","",""
+LLT,"","","","","","","",""
+LLT,586,"Seminar in Language, Literacy, and Technology","","","","","",""
 LLT,586,"Seminar in Language, Literacy, and Technology",01,14540,1,TU12.10-13,AMS ARR,Jane Kelley
+LLT,586,"Seminar in Language, Literacy, and Technology","","","","","",""
+MBIOS,"","","","","","","",""
+MBIOS,578,Bioinformatics,"","","","","",""
 MBIOS,578,Bioinformatics,01,14866,3,ARRGT,ARR ARR,John Wyrick
+MBIOS,578,Bioinformatics,"","","","","",""
+MBIOS,578,Bioinformatics,"","","","","",""
 MBIOS,578,Bioinformatics,01 Lab,14867,0,ARRGT,ARR ARR,John Wyrick
+MBIOS,578,Bioinformatics,"","","","","",""
+MBIOS,800,"Doctoral Research, Dissertation, and/or Examination","","","","","",""
+MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,14079,V,ARRGT,ARR ARR,(multiple)
+MED_CLIN,"","","","","","","",""
+MED_CLIN,522,Longitudinal Integrated Clerkship II,"","","","","",""
 MED_CLIN,522,Longitudinal Integrated Clerkship II,01,15564,14,ARRGT,ARR ARR,Jaime Bowman
+MED_CLIN,531,Sub Internship in Family Medicine,"","","","","",""
 MED_CLIN,531,Sub Internship in Family Medicine,01,15038,4,ARRGT,ARR ARR,Jeffrey Haney
 MED_CLIN,531,Sub Internship in Family Medicine,02,15039,4,ARRGT,ARR ARR,Jeffrey Haney
 MED_CLIN,531,Sub Internship in Family Medicine,03,15040,4,ARRGT,ARR ARR,Jeffrey Haney
+MED_CLIN,532,Sub Internship in Inpatient Internal Medicine,"","","","","",""
 MED_CLIN,532,Sub Internship in Inpatient Internal Medicine,01,15050,4,ARRGT,ARR ARR,Lonika Sood
 MED_CLIN,532,Sub Internship in Inpatient Internal Medicine,02,15051,4,ARRGT,ARR ARR,Lonika Sood
 MED_CLIN,532,Sub Internship in Inpatient Internal Medicine,03,15052,4,ARRGT,ARR ARR,Lonika Sood
+MED_CLIN,533,Sub Internship in General Surgery,"","","","","",""
 MED_CLIN,533,Sub Internship in General Surgery,01,15111,4,ARRGT,ARR ARR,Anjali Kumar
 MED_CLIN,533,Sub Internship in General Surgery,02,15112,4,ARRGT,ARR ARR,Anjali Kumar
 MED_CLIN,533,Sub Internship in General Surgery,03,15113,4,ARRGT,ARR ARR,Anjali Kumar
+MED_CLIN,534,Sub Internship in Pediatrics,"","","","","",""
 MED_CLIN,534,Sub Internship in Pediatrics,01,15123,4,ARRGT,ARR ARR,Charles Anderson
 MED_CLIN,534,Sub Internship in Pediatrics,02,15124,4,ARRGT,ARR ARR,Charles Anderson
 MED_CLIN,534,Sub Internship in Pediatrics,03,15125,4,ARRGT,ARR ARR,Charles Anderson
+MED_CLIN,535,Sub Internship in Psychiatry,"","","","","",""
 MED_CLIN,535,Sub Internship in Psychiatry,01,15135,4,ARRGT,ARR ARR,Matthew Layton
 MED_CLIN,535,Sub Internship in Psychiatry,02,15136,4,ARRGT,ARR ARR,Matthew Layton
 MED_CLIN,535,Sub Internship in Psychiatry,03,15137,4,ARRGT,ARR ARR,Matthew Layton
+MED_CLIN,536,Sub Internship in Obstetrics and Gynecology,"","","","","",""
 MED_CLIN,536,Sub Internship in Obstetrics and Gynecology,01,15164,4,ARRGT,ARR ARR,Harold Andersen
 MED_CLIN,536,Sub Internship in Obstetrics and Gynecology,02,15165,4,ARRGT,ARR ARR,Harold Andersen
 MED_CLIN,536,Sub Internship in Obstetrics and Gynecology,03,15166,4,ARRGT,ARR ARR,Harold Andersen
+MED_CLIN,537,Clinical Rotation in Emergency Medicine,"","","","","",""
 MED_CLIN,537,Clinical Rotation in Emergency Medicine,01,15181,4,ARRGT,ARR ARR,Carlton Heine
 MED_CLIN,537,Clinical Rotation in Emergency Medicine,02,15182,4,ARRGT,ARR ARR,Carlton Heine
 MED_CLIN,537,Clinical Rotation in Emergency Medicine,03,15183,4,ARRGT,ARR ARR,Carlton Heine
+MED_CLIN,538,Clinical Rotation in Rural Medicine,"","","","","",""
 MED_CLIN,538,Clinical Rotation in Rural Medicine,01,15195,4,ARRGT,ARR ARR,Jeffrey Haney
 MED_CLIN,538,Clinical Rotation in Rural Medicine,02,15196,4,ARRGT,ARR ARR,Jeffrey Haney
 MED_CLIN,538,Clinical Rotation in Rural Medicine,03,15197,4,ARRGT,ARR ARR,Jeffrey Haney
+MED_CLIN,539,Clinical Rotation in Underserved Medicine,"","","","","",""
 MED_CLIN,539,Clinical Rotation in Underserved Medicine,01,15207,4,ARRGT,ARR ARR,Jeffrey Haney
 MED_CLIN,539,Clinical Rotation in Underserved Medicine,02,15208,4,ARRGT,ARR ARR,Jeffrey Haney
 MED_CLIN,539,Clinical Rotation in Underserved Medicine,03,15209,4,ARRGT,ARR ARR,Jeffrey Haney
+MED_CLIN,541,Clinical Rotation in Imaging/Radiology,"","","","","",""
 MED_CLIN,541,Clinical Rotation in Imaging/Radiology,01,15219,V,ARRGT,ARR ARR,Lonika Sood
 MED_CLIN,541,Clinical Rotation in Imaging/Radiology,02,15220,V,ARRGT,ARR ARR,Lonika Sood
 MED_CLIN,541,Clinical Rotation in Imaging/Radiology,03,15221,V,ARRGT,ARR ARR,Lonika Sood
@@ -76,6 +163,7 @@ MED_CLIN,541,Clinical Rotation in Imaging/Radiology,07,15936,V,ARRGT,ARR ARR,Lon
 MED_CLIN,541,Clinical Rotation in Imaging/Radiology,08,15937,V,ARRGT,ARR ARR,Lonika Sood
 MED_CLIN,541,Clinical Rotation in Imaging/Radiology,09,15938,V,ARRGT,ARR ARR,Lonika Sood
 MED_CLIN,541,Clinical Rotation in Imaging/Radiology,10,15939,V,ARRGT,ARR ARR,Lonika Sood
+MED_CLIN,542,Clinical Rotation in Dermatology,"","","","","",""
 MED_CLIN,542,Clinical Rotation in Dermatology,01,15231,V,ARRGT,ARR ARR,Carlton Heine
 MED_CLIN,542,Clinical Rotation in Dermatology,02,15232,V,ARRGT,ARR ARR,Carlton Heine
 MED_CLIN,542,Clinical Rotation in Dermatology,03,15233,V,ARRGT,ARR ARR,Carlton Heine
@@ -86,58 +174,114 @@ MED_CLIN,542,Clinical Rotation in Dermatology,07,15779,V,ARRGT,ARR ARR,Carlton H
 MED_CLIN,542,Clinical Rotation in Dermatology,08,15780,V,ARRGT,ARR ARR,Carlton Heine
 MED_CLIN,542,Clinical Rotation in Dermatology,09,15781,V,ARRGT,ARR ARR,Carlton Heine
 MED_CLIN,542,Clinical Rotation in Dermatology,10,15782,V,ARRGT,ARR ARR,Carlton Heine
+MED_ETH,"","","","","","","",""
+MED_ETH,500,Conceptual Foundations of Bioethics,"","","","","",""
 MED_ETH,500,Conceptual Foundations of Bioethics,01,13149,3,ARRGT,ARR ARR,Thomas May
+MED_ETH,500,Conceptual Foundations of Bioethics,"","","","","",""
+MED_ETH,500,Conceptual Foundations of Bioethics,"","","","","",""
 MED_ETH,500,Conceptual Foundations of Bioethics,02,13461,3,ARRGT,ARR ARR,Thomas May
+MED_ETH,500,Conceptual Foundations of Bioethics,"","","","","",""
+MED_ETH,500,Conceptual Foundations of Bioethics,"","","","","",""
+MED_ETH,500,Conceptual Foundations of Bioethics,"","","","","",""
+MED_ETH,510,Seminar in Conceptual Bioethics,"","","","","",""
 MED_ETH,510,Seminar in Conceptual Bioethics,01,13166,3,ARRGT,ARR ARR,Thomas May
+MED_ETH,510,Seminar in Conceptual Bioethics,"","","","","",""
+MED_ETH,510,Seminar in Conceptual Bioethics,"","","","","",""
+MED_ETH,510,Seminar in Conceptual Bioethics,"","","","","",""
 MED_ETH,510,Seminar in Conceptual Bioethics,02,13466,3,ARRGT,ARR ARR,Thomas May
+MED_ETH,510,Seminar in Conceptual Bioethics,"","","","","",""
+MED_ETH,510,Seminar in Conceptual Bioethics,"","","","","",""
+MED_ETH,510,Seminar in Conceptual Bioethics,"","","","","",""
+MED_FMS,"","","","","","","",""
+MED_FMS,501,Foundations of Medical Science I,"","","","","",""
 MED_FMS,501,Foundations of Medical Science I,01,15572,14,ARRGT,ARR ARR,David Conley
 MED_FMS,501,Foundations of Medical Science I,01 Lab,15573,0,ARRGT,ARR ARR,David Conley
+MED_FMS,509,Special Topics in Medicine,"","","","","",""
 MED_FMS,509,Special Topics in Medicine,01,14638,V,TU17.30-19.30,ARR ARR,Luis Manriquez
+MED_FMS,509,Special Topics in Medicine,"","","","","",""
+MED_FMS,511,Foundations of Medical Science IV,"","","","","",""
 MED_FMS,511,Foundations of Medical Science IV,01,15567,13,ARRGT,ARR ARR,Samuel Joseph
 MED_FMS,511,Foundations of Medical Science IV,01 Lab,15568,0,ARRGT,ARR ARR,Samuel Joseph
+MED_LMH,"","","","","","","",""
+MED_LMH,501,Understanding Yourself as a Physician Leader,"","","","","",""
 MED_LMH,501,Understanding Yourself as a Physician Leader,01,15571,1,ARRGT,ARR ARR,Jeffrey Haney
+MED_LMH,511,Leadership and Management in Healthcare: Microsystem to Macrosystem,"","","","","",""
 MED_LMH,511,Leadership and Management in Healthcare: Microsystem to Macrosystem,01,15570,1,ARRGT,ARR ARR,Jeffrey Haney
+MED_LMH,521,Quality and Safety in Healthcare: Medical Errors,"","","","","",""
 MED_LMH,521,Quality and Safety in Healthcare: Medical Errors,01,15566,1,ARRGT,ARR ARR,Jeffrey Haney
+MED_LMH,531,Personal Leadership Development I,"","","","","",""
 MED_LMH,531,Personal Leadership Development I,01,16303,1,ARRGT,ARR ARR,Jeffrey Haney
-MIT,511,"Methods for Teaching English Language Learners, K-12",01,14764,2,M15.10-17,ARR ARR,Kristina Smith
+MIT,"","","","","","","",""
+MIT,511,"Methods for Teaching English Language Learners, K-12","","","","","",""
+MIT,511,"Methods for Teaching English Language Learners, K-12",01,14764,2,M15.10-17,AMS ARR,Kristina Smith
+MIT,511,"Methods for Teaching English Language Learners, K-12","","","","","",""
+MIT,530,Elementary School Social Studies Methods,"","","","","",""
 MIT,530,Elementary School Social Studies Methods,01,14765,3,ARRGT,ARR ARR,Ashley Segadelli
-MIT,532,Literacy Development II,01,14766,3,TH17.15-20.05,AMS SPK,Sarah Newcomer
-MIT,533,Elementary School Mathematics Methods,01,14767,3,W16.10-19,ARR ARR,""
-MIT,534,Elementary School Science Methods,01,14768,3,TU16.10-19,ARR ARR,Gregg Godsey
-MIT,550,Seminar in Middle Level Education,01,14769,3,W16.10-19,AMS SPK,""
-MIT,552,Multicultural Education in a Global Society,01,14770,3,W13.10-16,AMS SPK,Amir Gilmore
-MIT,571,Pre-internship and Seminar,01,14771,2,M13.10-15,AMS SPK,Kristin Courtney
-MIT,571,Pre-internship and Seminar,"","","",M13.10-15,AMS SPK,""
-MIT,571,Pre-internship and Seminar,"","","",M13.10-15,AMS SPK,""
+MIT,530,Elementary School Social Studies Methods,"","","","","",""
+MIT,530,Elementary School Social Studies Methods,"","","","","",""
+MIT,532,Literacy Development II,"","","","","",""
+MIT,532,Literacy Development II,01,14766,3,TH17.15-20.05,AMS ARR,Sarah Newcomer
+MIT,532,Literacy Development II,"","","","","",""
+MIT,533,Elementary School Mathematics Methods,"","","","","",""
+MIT,533,Elementary School Mathematics Methods,01,14767,3,W16.10-19,AMS ARR,Tricia Gessele
+MIT,533,Elementary School Mathematics Methods,"","","","","",""
+MIT,534,Elementary School Science Methods,"","","","","",""
+MIT,534,Elementary School Science Methods,01,14768,3,TU16.10-19,AMS ARR,Gregg Godsey
+MIT,534,Elementary School Science Methods,"","","","","",""
+MIT,550,Seminar in Middle Level Education,"","","","","",""
+MIT,550,Seminar in Middle Level Education,01,14769,3,W16.10-19,AMS ARR,""
+MIT,550,Seminar in Middle Level Education,"","","","","",""
+MIT,552,Multicultural Education in a Global Society,"","","","","",""
+MIT,552,Multicultural Education in a Global Society,01,14770,3,W13.10-16,AMS ARR,Amir Gilmore
+MIT,552,Multicultural Education in a Global Society,"","","","","",""
+MIT,571,Pre-internship and Seminar,"","","","","",""
+MIT,571,Pre-internship and Seminar,01,14771,2,M13.10-15,"",Kristin Courtney
+MIT,571,Pre-internship and Seminar,"","","",M13.10-15,"",""
+MIT,571,Pre-internship and Seminar,"","","",M13.10-15,"",""
 MIT,571,Pre-internship and Seminar,"","","",M13.10-15,AMS ARR,""
 MIT,571,Pre-internship and Seminar,02,16409,2,ARRGT,ARR ARR,Ashley Segadelli
 MIT,571,Pre-internship and Seminar,01 Lab,14772,0,ARRGT,ARR ARR,Kristin Courtney
 MIT,571,Pre-internship and Seminar,02 Lab,16445,0,ARRGT,ARR ARR,Ashley Segadelli
+MIT,702,"Master's Special Problems, Directed Study, and/or Examination","","","","","",""
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,16417,V,ARRGT,ARR ARR,John Lupinacci
+NEP,"","","","","","","",""
+NEP,320,Strength Training and Conditioning; Theory and Application,"","","","","",""
 NEP,320,Strength Training and Conditioning; Theory and Application,01,14956,3,"M,W8.10-9",SAC 347,Julie Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,01 Lab,14992,0,TU9.10-10.50,SHER 328,Julie Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,02 Lab,14993,0,TU11.10-12.50,SHER 328,Julie Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,03 Lab,16362,0,TU13.10-14.50,SHER 328,Julie Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,04 Lab,16363,0,TU15.10-16.50,SHER 328,Julie Larsen
+NEP,340,Essentials of Food Preparation for Health Sciences,"","","","","",""
 NEP,340,Essentials of Food Preparation for Health Sciences,01,14957,3,M13.10-15,ARR ARR,Susan Kynast-Gales
 NEP,340,Essentials of Food Preparation for Health Sciences,01 Lab,14994,0,F10.10-13,SHSB 338,Susan Kynast-Gales
+NEP,362,Biomechanical Analysis,"","","","","",""
 NEP,362,Biomechanical Analysis,01,14958,3,"TU,TH18.10-19.25",ARR ARR,Mark Mcmulkin
+NEP,400,Macronutrient Metabolism,"","","","","",""
 NEP,400,Macronutrient Metabolism,01,14990,3,"M,W11.10-12.25",ARR ARR,Susan Kynast-Gales
+NEP,458,Nutrition Throughout the Life Cycle,"","","","","",""
 NEP,458,Nutrition Throughout the Life Cycle,01,15001,3,"TU,TH9.10-10.25",ARR ARR,Martine Perrigue
+NEP,463,Exercise Physiology,"","","","","",""
 NEP,463,Exercise Physiology,01,14991,4,"M,W9.10-10.25",SAC 345,Lindsey Miller
 NEP,463,Exercise Physiology,01 Lab,14996,0,TH9.10-10.50,SHER 301,Lindsey Miller
 NEP,463,Exercise Physiology,02 Lab,14997,0,TH11.10-12.50,SHER 301,Lindsey Miller
 NEP,463,Exercise Physiology,03 Lab,16364,0,TH13.10-14.50,SHER 301,Lindsey Miller
 NEP,463,Exercise Physiology,04 Lab,16365,0,TH15.10-16.50,SHER 301,Lindsey Miller
+NEP,477,Human Health Behavior and Behavioral Interventions,"","","","","",""
 NEP,477,Human Health Behavior and Behavioral Interventions,01,15005,3,"M,W9.10-10.25",SAC 347,""
+NEP,478,Cardiopulmonary Physiology,"","","","","",""
 NEP,478,Cardiopulmonary Physiology,01,15002,3,"TU,TH11.10-12",ARR ARR,Hans Haverkamp
 NEP,478,Cardiopulmonary Physiology,01 Lab,15003,0,F9.10-12,SHER 301,Hans Haverkamp
+NEP,479,Nutrition and Exercise Practicum I,"","","","","",""
 NEP,479,Nutrition and Exercise Practicum I,01,14989,3,TU8.10-9,ARR ARR,Julie Larsen
 NEP,479,Nutrition and Exercise Practicum I,01 Lab,14998,0,"M,W11.30-14.30",SHER 334,Julie Larsen
 NEP,479,Nutrition and Exercise Practicum I,02 Lab,14999,0,"M,W15.30-18.30",SHER 334,Julie Larsen
+NEP,489,NEP Internship and Professional Development Seminar,"","","","","",""
 NEP,489,NEP Internship and Professional Development Seminar,01,15000,3,TH14.10-16.40,ARR ARR,""
+NEP,490,Exercise and Nutrition Internship,"","","","","",""
 NEP,490,Exercise and Nutrition Internship,01,15029,V,ARRGT,ARR ARR,Julie Larsen
+NEP,499,Special Problems,"","","","","",""
 NEP,499,Special Problems,01,14107,V,ARRGT,ARR ARR,""
+NEP,501,Community Supervised Practice,"","","","","",""
 NEP,501,Community Supervised Practice,01,15013,5,M13.10-15,AMS ARR,April Davis
 NEP,501,Community Supervised Practice,"","","",W13.10-15,AMS SPK,""
 NEP,501,Community Supervised Practice,"","","",TH14.10-18,ARR ARR,""
@@ -145,279 +289,577 @@ NEP,501,Community Supervised Practice,"","","",F11.10-12,AMS SPK,""
 NEP,501,Community Supervised Practice,"","","",F11.10-12,AMS SPK,""
 NEP,501,Community Supervised Practice,"","","",F11.10-12,AMS SPK,""
 NEP,501,Community Supervised Practice,01 Lab,15152,0,ARRGT,ARR ARR,April Davis
+NEP,505,Graduate Seminar,"","","","","",""
 NEP,505,Graduate Seminar,01,15019,1,W14.10-15,ARR ARR,Franck Carbonero
+NEP,520,Research Methods in Nutrition and Exercise Physiology,"","","","","",""
 NEP,520,Research Methods in Nutrition and Exercise Physiology,01,15018,3,"TU,TH16.10-17.25",ARR ARR,Pablo Monsivais
+NEP,537,Medical Nutrition Therapy I,"","","","","",""
 NEP,537,Medical Nutrition Therapy I,01,15006,4,"M,W10.10-11.25",ARR ARR,Shaekira Niehuser
 NEP,537,Medical Nutrition Therapy I,01 Lab,15007,0,TH10.10-11.50,GUC SPK,Shaekira Niehuser
 NEP,537,Medical Nutrition Therapy I,02 Lab,15009,0,TH13.10-14.50,GUC SPK,Shaekira Niehuser
 NEP,537,Medical Nutrition Therapy I,03 Lab,16366,0,F10.10-11.50,GUC SPK,Shaekira Niehuser
 NEP,537,Medical Nutrition Therapy I,04 Lab,16367,0,F13.10-14.50,GUC SPK,Shaekira Niehuser
+NEP,540,Clinical Supervised Practice,"","","","","",""
 NEP,540,Clinical Supervised Practice,01,15017,11,M9.10-15,ARR ARR,Shaekira Niehuser
 NEP,540,Clinical Supervised Practice,"","","",TU9.10-15,ARR ARR,""
 NEP,540,Clinical Supervised Practice,"","","",W13.10-16,GUC SPK,""
+NEP,540,Clinical Supervised Practice,02,15155,11,M9.10-15,ARR ARR,Shaekira Niehuser
+NEP,540,Clinical Supervised Practice,"","","",TU9.10-15,ARR ARR,""
+NEP,540,Clinical Supervised Practice,"","","",W13.10-16,GUC SPK,""
 NEP,540,Clinical Supervised Practice,01 Lab,15154,0,ARRGT,ARR ARR,Shaekira Niehuser
+NEP,540,Clinical Supervised Practice,02 Lab,15156,0,ARRGT,ARR ARR,Shaekira Niehuser
+NEP,551,Management Practices in Food Service,"","","","","",""
 NEP,551,Management Practices in Food Service,01,15011,5,TU9.10-12,ARR ARR,Janet Beary
 NEP,551,Management Practices in Food Service,"","","",TH9.10-12,ARR ARR,""
 NEP,551,Management Practices in Food Service,"","","",F9.10-10.25,ARR ARR,""
 NEP,551,Management Practices in Food Service,"","","",F9.10-10.25,ARR ARR,""
 NEP,551,Management Practices in Food Service,"","","",F9.10-10.25,ARR ARR,""
 NEP,551,Management Practices in Food Service,01 Lab,15149,0,ARRGT,ARR ARR,Janet Beary
+NEP,573,Nutrition in the Community,"","","","","",""
 NEP,573,Nutrition in the Community,01,14145,2,TU13.10-15,SAC 347,April Davis
+NEP,580,Advanced Topics in Exercise Physiology and Nutrition,"","","","","",""
 NEP,580,Advanced Topics in Exercise Physiology and Nutrition,01,15023,3,"M,W10.10-11.25",ARR ARR,Franck Carbonero
+NEP,580,Advanced Topics in Exercise Physiology and Nutrition,"","","","","",""
+NEP,582,Advanced Exercise Physiology,"","","","","",""
 NEP,582,Advanced Exercise Physiology,01,15027,3,TH14.10-16.40,ARR ARR,Hans Haverkamp
+NEP,586,Physical Activity Epidemiology and Public Health,"","","","","",""
 NEP,586,Physical Activity Epidemiology and Public Health,01,15025,3,"TU,TH11.10-12.25",SAC 347,Glen Duncan
+NEP,600,Special Projects or Independent Study,"","","","","",""
 NEP,600,Special Projects or Independent Study,01,15030,V,ARRGT,ARR ARR,""
+NEP,700,"Master's Research, Thesis, and/or Examination","","","","","",""
 NEP,700,"Master's Research, Thesis, and/or Examination",01,15031,V,ARRGT,ARR ARR,""
+NEP,701,Master's Independent Capstone Project and /or Examination,"","","","","",""
 NEP,701,Master's Independent Capstone Project and /or Examination,01,15032,V,ARRGT,ARR ARR,Janet Beary
+NEP,800,"Doctoral Research, Dissertation, and/or Examination","","","","","",""
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",01,15033,V,ARRGT,ARR ARR,""
+NEUROSCI,"","","","","","","",""
+NEUROSCI,531,Neuroscience Laboratory Rotation,"","","","","",""
 NEUROSCI,531,Neuroscience Laboratory Rotation,01,14646,1,ARRGT,"",""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","","","",""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,01,14641,V,"M,F9.10-10",SAC 341,Heiko Jansen
 NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-10,SAC 341,""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","","","",""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","","","",""
 NEUROSCI,540,Special Topics in Integrative Neuroscience,03,14643,V,"M,F9.10-10",SAC 341,Joseph Harding
 NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.10-10,SAC 341,""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","","","",""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","","","",""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","","","",""
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,01,14644,V,"M,W10.10-11",SAC 341,David Rossi
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,SAC 341,""
-NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,02,14645,V,"M,W10.10-11",SAC 341,""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","","","",""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","","","",""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,02,14645,V,"M,W10.10-11",SAC 341,Steve Simasko
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,SAC 341,""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","","","",""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","","","",""
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,03,14648,V,"M,W10.10-11",SAC 341,""
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,SAC 341,""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","","","",""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","","","",""
+NEUROSCI,563,Deconstruction of Research,"","","","","",""
 NEUROSCI,563,Deconstruction of Research,01,14647,3,"TU,TH9.10-10.25",SAC 341,Steve Simasko
+NEUROSCI,563,Deconstruction of Research,"","","","","",""
+NEUROSCI,590,Seminar,"","","","","",""
 NEUROSCI,590,Seminar,01,14639,1,F12.10-13.30,SAC 341,Suzanne Wayman
+NEUROSCI,592,Research Writing and Seminar,"","","","","",""
+NEUROSCI,592,Research Writing and Seminar,01,16919,2,TU15.30-17.30,AMS SPK,Murali Chandra
+NEUROSCI,592,Research Writing and Seminar,"","","",F15-16,AMS SPK,""
+NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination","","","","","",""
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,14640,V,ARRGT,"",(multiple)
-NURS,308,Professional Development I: Evidence Based Practice,01,13403,3,W10.30-13.30,AMS ARR,Gail Oneal
-NURS,308,Professional Development I: Evidence Based Practice,02,13354,3,W10.30-13.30,AMS ARR,Gail Oneal
+NURS,"","","","","","","",""
+NURS,308,Professional Development I: Evidence Based Practice,"","","","","",""
+NURS,308,Professional Development I: Evidence Based Practice,01,13403,3,W10.30-13.30,AMS ARR,Joann Dotson
+NURS,308,Professional Development I: Evidence Based Practice,02,13354,3,W10.30-13.30,AMS ARR,Joann Dotson
+NURS,308,Professional Development I: Evidence Based Practice,"","","","","",""
+NURS,308,Professional Development I: Evidence Based Practice,"","","","","",""
+NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,"","","","","",""
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,13217,3,TH13.10-16,AMS ARR,Billie Severtsen
+NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,"","","","","",""
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,02,13218,3,TH13.10-16,AMS ARR,Billie Severtsen
+NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,"","","","","",""
+NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,"","","","","",""
+NURS,311,Pathophysiology and Pharmacology in Nursing,"","","","","",""
 NURS,311,Pathophysiology and Pharmacology in Nursing,01,13215,4,W8.10-10,AMS ARR,Victoria Sattler
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.30-13.30,AMS ARR,""
+NURS,311,Pathophysiology and Pharmacology in Nursing,"","","","","",""
 NURS,311,Pathophysiology and Pharmacology in Nursing,02,13216,4,W8.10-10,AMS ARR,Victoria Sattler
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.30-13.30,AMS ARR,""
+NURS,311,Pathophysiology and Pharmacology in Nursing,"","","","","",""
+NURS,311,Pathophysiology and Pharmacology in Nursing,"","","","","",""
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,01,13219,4,ARRGT,ARR ARR,Melissa Wiedmer
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,02,13220,4,ARRGT,ARR ARR,Melissa Wiedmer
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,03,13221,4,ARRGT,ARR ARR,Loretta Parisot
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,04,13222,4,ARRGT,ARR ARR,Annette Jenkins
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,05,13223,4,ARRGT,ARR ARR,Cindy Brigham-Althoff
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,06,13224,4,ARRGT,ARR ARR,Billi Jennings
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,07,13225,4,ARRGT,ARR ARR,Susan Mcfadden
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,08,13226,4,ARRGT,ARR ARR,Denise Beck
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,09,13227,4,ARRGT,ARR ARR,Alyssa Egland
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,10,13228,4,ARRGT,ARR ARR,Rebekah Carroll
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,11,13229,4,ARRGT,ARR ARR,Caleb Tadesse
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,12,13230,4,ARRGT,ARR ARR,Amy Crawford
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,13,13231,4,ARRGT,ARR ARR,Wendy Staff
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
 NURS,315,Nursing Practice: Health and Illness,14,13232,4,ARRGT,ARR ARR,Wendy Staff
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
+NURS,315,Nursing Practice: Health and Illness,"","","","","",""
+NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,"","","","","",""
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,13233,2,TU13.10-15,AMS ARR,Kay Olson
+NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,"","","","","",""
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,02,13234,2,TU13.10-15,AMS ARR,Kay Olson
+NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,"","","","","",""
+NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,"","","","","",""
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,01,13235,3,TU10.30-12.30,AMS ARR,Annette Jenkins
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,02,13236,3,TU10.30-12.30,AMS ARR,Robin Faubion
+NURS,317,Health Assessment,"","","","","",""
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,01 Lab,13237,0,ARRGT,ARR ARR,Megan Vulcan
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,02 Lab,13238,0,ARRGT,ARR ARR,Theresa Barenz
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,03 Lab,13239,0,ARRGT,ARR ARR,Alyssa Egland
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,04 Lab,13240,0,ARRGT,ARR ARR,Rebekah Carroll
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,05 Lab,13241,0,ARRGT,ARR ARR,Caleb Tadesse
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,06 Lab,13242,0,ARRGT,ARR ARR,Melissa Wiedmer
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,07 Lab,13243,0,ARRGT,ARR ARR,Megan Vulcan
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,08 Lab,13244,0,ARRGT,ARR ARR,Annette Jenkins
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,09 Lab,13245,0,ARRGT,ARR ARR,Sally Matar-Curnow
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,10 Lab,13246,0,ARRGT,ARR ARR,Sally Matar-Curnow
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,11 Lab,13247,0,ARRGT,ARR ARR,Theresa Barenz
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,12 Lab,13248,0,ARRGT,ARR ARR,Amy Crawford
+NURS,317,Health Assessment,"","","","","",""
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,13 Lab,13249,0,ARRGT,ARR ARR,Anna Fulton
+NURS,317,Health Assessment,"","","","","",""
+NURS,317,Health Assessment,"","","","","",""
 NURS,317,Health Assessment,14 Lab,13250,0,ARRGT,ARR ARR,Robin Faubion
+NURS,317,Health Assessment,"","","","","",""
+NURS,317,Health Assessment,"","","","","",""
+NURS,322,The Human Experience of Diversity and Health,"","","","","",""
 NURS,322,The Human Experience of Diversity and Health,01,13251,2,F8.10-10,AMS ARR,Loretta Parisot
+NURS,322,The Human Experience of Diversity and Health,"","","","","",""
 NURS,322,The Human Experience of Diversity and Health,02,13252,2,F8.10-10,AMS ARR,Loretta Parisot
+NURS,322,The Human Experience of Diversity and Health,"","","","","",""
+NURS,322,The Human Experience of Diversity and Health,"","","","","",""
+NURS,323,Nursing in the Genome Era,"","","","","",""
 NURS,323,Nursing in the Genome Era,01,13253,2,M8.10-10,AMS ARR,Lynn Jinishian
+NURS,323,Nursing in the Genome Era,"","","","","",""
 NURS,323,Nursing in the Genome Era,02,13254,2,M8.10-10,AMS ARR,Lynn Jinishian
+NURS,323,Nursing in the Genome Era,"","","","","",""
+NURS,323,Nursing in the Genome Era,"","","","","",""
+NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","","","",""
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,01,13255,4,M10.30-12.30,AMS ARR,Lee Punch
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","",F10.30-12.30,AMS ARR,""
+NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","","","",""
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,02,13256,4,M10.30-12.30,AMS ARR,Lisa Day
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","",F10.30-12.30,AMS ARR,""
+NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","","","",""
+NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","","","",""
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,01,13257,5,ARRGT,ARR ARR,Lee Kifer
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,13258,5,ARRGT,ARR ARR,Theresa Barenz
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,13259,5,ARRGT,ARR ARR,Kari Wallace
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,04,13260,5,ARRGT,ARR ARR,Alia Soulek
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,05,13261,5,ARRGT,ARR ARR,Linda Rahn
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,06,13262,5,ARRGT,ARR ARR,Nicholas Johnson
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,07,13263,5,ARRGT,ARR ARR,Suzanne Puryear
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,08,13264,5,ARRGT,ARR ARR,Jennifer Carpenter
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,09,13265,5,ARRGT,ARR ARR,Robin Baumgarten
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,10,13266,5,ARRGT,ARR ARR,Vanessa Albert
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,11,13267,5,ARRGT,ARR ARR,Shelley Franco
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,12,13268,5,ARRGT,ARR ARR,Courtney Hutchins
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,13,13269,5,ARRGT,ARR ARR,Emily Davies
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,14,13270,5,ARRGT,ARR ARR,Kari Campbell
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,"","","","","",""
+NURS,328,Introduction to Gerontological Nursing,"","","","","",""
 NURS,328,Introduction to Gerontological Nursing,01,13271,2,TU8.10-10,AMS ARR,Susan Mcfadden
+NURS,328,Introduction to Gerontological Nursing,"","","","","",""
 NURS,328,Introduction to Gerontological Nursing,02,13272,2,TU8.10-10,AMS ARR,Susan Mcfadden
+NURS,328,Introduction to Gerontological Nursing,"","","","","",""
+NURS,328,Introduction to Gerontological Nursing,"","","","","",""
+NURS,360,Professional Nursing Concepts and Issues,"","","","","",""
 NURS,360,Professional Nursing Concepts and Issues,01,13273,2,ARRGT,AMS SPK,Samantha Girard
+NURS,360,Professional Nursing Concepts and Issues,"","","","","",""
 NURS,360,Professional Nursing Concepts and Issues,02,13274,2,TU12-12,AMS ARR,Samantha Girard
-NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,01,13275,2,ARRGT,AMS ARR,Andra Davis
-NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,02,13276,2,ARRGT,AMS ARR,Andra Davis
+NURS,360,Professional Nursing Concepts and Issues,"","","","","",""
+NURS,360,Professional Nursing Concepts and Issues,"","","","","",""
+NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,"","","","","",""
+NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,01,13275,2,ARRGT,AMS ARR,Naomi Lungstrom
+NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,"","","","","",""
+NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,02,13276,2,ARRGT,AMS ARR,Naomi Lungstrom
+NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,"","","","","",""
+NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,"","","","","",""
+NURS,400,[M] Nursing Research and Evidence-Based Practice,"","","","","",""
 NURS,400,[M] Nursing Research and Evidence-Based Practice,01,13277,3,ARRGT,AMS ARR,Vicki Denson
+NURS,400,[M] Nursing Research and Evidence-Based Practice,"","","","","",""
 NURS,400,[M] Nursing Research and Evidence-Based Practice,02,13278,3,ARRGT,AMS ARR,Vicki Denson
+NURS,400,[M] Nursing Research and Evidence-Based Practice,"","","","","",""
+NURS,400,[M] Nursing Research and Evidence-Based Practice,"","","","","",""
+NURS,405,Nursing Leadership,"","","","","",""
 NURS,405,Nursing Leadership,01,13279,2,ARRGT,AMS ARR,Catherine Van Son
-NURS,405,Nursing Leadership,02,13280,2,ARRGT,AMS ARR,Catherine Van Son
+NURS,405,Nursing Leadership,"","","","","",""
+NURS,405,Nursing Leadership,02,13280,2,ARRGT,AMS ARR,""
+NURS,405,Nursing Leadership,"","","","","",""
+NURS,405,Nursing Leadership,"","","","","",""
+NURS,408,Professional Development III: Leadership and Management,"","","","","",""
 NURS,408,Professional Development III: Leadership and Management,01,13281,3,TH9.10-12,AMS ARR,Susan Perkins
+NURS,408,Professional Development III: Leadership and Management,"","","","","",""
 NURS,408,Professional Development III: Leadership and Management,02,13282,3,TH9.10-12,AMS ARR,Susan Perkins
+NURS,408,Professional Development III: Leadership and Management,"","","","","",""
+NURS,408,Professional Development III: Leadership and Management,"","","","","",""
+NURS,409,Professional Development IV: Transition to Practice,"","","","","",""
 NURS,409,Professional Development IV: Transition to Practice,01,13283,2,M13.10-16,AMS ARR,Debra Brinker
+NURS,409,Professional Development IV: Transition to Practice,"","","","","",""
 NURS,409,Professional Development IV: Transition to Practice,02,13284,2,M13.10-16,AMS ARR,Debra Brinker
+NURS,409,Professional Development IV: Transition to Practice,"","","","","",""
+NURS,409,Professional Development IV: Transition to Practice,"","","","","",""
+NURS,412,Family and Community as a Context of Care,"","","","","",""
 NURS,412,Family and Community as a Context of Care,01,13285,1,F11.30-13,ARR ARR,Susan Perkins
+NURS,412,Family and Community as a Context of Care,"","","","","",""
 NURS,412,Family and Community as a Context of Care,02,13286,1,F11.30-13,ARR ARR,Karen Anders
+NURS,412,Family and Community as a Context of Care,"","","","","",""
 NURS,412,Family and Community as a Context of Care,03,13287,1,F11.30-13,ARR ARR,Cory Risse
+NURS,412,Family and Community as a Context of Care,"","","","","",""
 NURS,412,Family and Community as a Context of Care,04,13288,1,F11.30-13,ARR ARR,Theresa Bowden
+NURS,412,Family and Community as a Context of Care,"","","","","",""
 NURS,412,Family and Community as a Context of Care,05,13289,1,F11.30-13,ARR ARR,Lisa Vickers
+NURS,412,Family and Community as a Context of Care,"","","","","",""
+NURS,412,Family and Community as a Context of Care,"","","","","",""
+NURS,414,Child and Family Health: Theory,"","","","","",""
 NURS,414,Child and Family Health: Theory,01,13290,3,F8.10-11,AMS ARR,""
+NURS,414,Child and Family Health: Theory,"","","","","",""
 NURS,414,Child and Family Health: Theory,02,13291,3,F8.10-11,AMS ARR,""
+NURS,414,Child and Family Health: Theory,"","","","","",""
+NURS,414,Child and Family Health: Theory,"","","","","",""
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,01,13292,2,ARRGT,ARR ARR,Leah Berry
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,02,13293,2,ARRGT,ARR ARR,Katrina Munro
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,03,13294,2,ARRGT,ARR ARR,Pamela Anain
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,04,13295,2,ARRGT,ARR ARR,Karen Anders
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,05,13296,2,ARRGT,ARR ARR,Loretta Parisot
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,06,13297,2,ARRGT,ARR ARR,Jennifer Hickman
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,07,13298,2,ARRGT,ARR ARR,Jennifer Onzay
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,08,13299,2,ARRGT,ARR ARR,Denise Beck
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,09,13300,2,ARRGT,ARR ARR,Theresa Bowden
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,10,13301,2,ARRGT,ARR ARR,""
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,11,13302,2,ARRGT,ARR ARR,Valerie Hennessy
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,12,13382,2,ARRGT,ARR ARR,Valerie Hennessy
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
+NURS,415,Children and Families as the Focus of Nursing Care,"","","","","",""
 NURS,415,Children and Families as the Focus of Nursing Care,13,14051,2,ARRGT,ARR ARR,Danielle Scala
+NURS,416,Childbearing Health of the Family,"","","","","",""
 NURS,416,Childbearing Health of the Family,01,13303,3,TH13.10-16,AMS ARR,Kimberly Mitchell
+NURS,416,Childbearing Health of the Family,"","","","","",""
 NURS,416,Childbearing Health of the Family,02,13304,3,TH13.10-16,AMS ARR,Kimberly Mitchell
+NURS,416,Childbearing Health of the Family,"","","","","",""
+NURS,416,Childbearing Health of the Family,"","","","","",""
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,01,13305,2,ARRGT,ARR ARR,Tracy Stack
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,02,13306,2,ARRGT,ARR ARR,Tracy Stack
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,03,13307,2,ARRGT,ARR ARR,Pamela Orebaugh
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,04,13308,2,ARRGT,ARR ARR,Nathan Cates
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,05,13309,2,ARRGT,ARR ARR,Pamela Orebaugh
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,06,13310,2,ARRGT,ARR ARR,Pamela Orebaugh
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,07,13311,2,ARRGT,ARR ARR,Elizabeth Merritt
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,08,13312,2,ARRGT,ARR ARR,Kimberly Mitchell
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,09,13313,2,ARRGT,ARR ARR,Jennifer Boyer
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,10,13314,2,ARRGT,ARR ARR,""
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,11,13315,2,ARRGT,ARR ARR,Crista Logsdon Douglas
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,12,13370,2,ARRGT,ARR ARR,Crista Logsdon Douglas
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
 NURS,417,Nursing Care of Childbearing Families,13,14050,2,ARRGT,ARR ARR,Crista Logsdon Douglas
+NURS,417,Nursing Care of Childbearing Families,"","","","","",""
+NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","","","",""
 NURS,424,Psychiatric/Mental Health Nursing Concepts,01,13316,3,M8.10-10,AMS ARR,Kiira Tietjen
 NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",M10.30-12.30,AMS ARR,""
+NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","","","",""
 NURS,424,Psychiatric/Mental Health Nursing Concepts,02,13317,3,M8.10-10,AMS ARR,Kiira Tietjen
 NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",M10.30-12.30,ARR ARR,""
+NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","","","",""
+NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","","","",""
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,01,13318,2,ARRGT,ARR ARR,Hannah Gubitz
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,02,13319,2,ARRGT,ARR ARR,Kyle West
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,03,13320,2,ARRGT,ARR ARR,Alisha Sullivan
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,04,13321,2,ARRGT,ARR ARR,Heather Striker
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,05,13322,2,ARRGT,ARR ARR,Pamela Anain
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,06,13323,2,ARRGT,ARR ARR,Kiira Tietjen
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,07,13324,2,ARRGT,ARR ARR,Benjamin Verbil
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,08,13325,2,ARRGT,ARR ARR,Benjamin Verbil
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,09,13326,2,ARRGT,ARR ARR,Jordan Oswald
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,10,13327,2,ARRGT,ARR ARR,Kimberly Mitchell
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,11,13365,2,ARRGT,ARR ARR,Barbara Beebe
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,12,13397,2,ARRGT,ARR ARR,Barbara Beebe
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,13,13410,2,ARRGT,ARR ARR,Barbara Beebe
+NURS,425,Nursing Practice: Psychiatric/Mental Health,"","","","","",""
+NURS,426,[M] Community Health Nursing Theory,"","","","","",""
 NURS,426,[M] Community Health Nursing Theory,01,13328,2,TH9.10-12,AMS ARR,""
+NURS,426,[M] Community Health Nursing Theory,"","","","","",""
 NURS,426,[M] Community Health Nursing Theory,02,13329,2,TH9.10-12,AMS ARR,""
+NURS,426,[M] Community Health Nursing Theory,"","","","","",""
+NURS,426,[M] Community Health Nursing Theory,"","","","","",""
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,01,13330,3,ARRGT,ARR ARR,Hannah Gubitz
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,02,13331,3,ARRGT,ARR ARR,Sarah Griffith
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,03,13332,3,ARRGT,ARR ARR,Stephanie Breckon
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,04,13333,3,ARRGT,ARR ARR,Meghan Fitzpatrick
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,05,13334,3,ARRGT,ARR ARR,Pamela Anain
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,06,13335,3,ARRGT,ARR ARR,Kay Olson
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,07,13336,3,ARRGT,ARR ARR,Cindy Brigham-Althoff
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,08,13337,3,ARRGT,ARR ARR,Kay Olson
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,09,13338,3,ARRGT,ARR ARR,Julia Hunter
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,10,13339,3,ARRGT,ARR ARR,Sarah Griffith
+NURS,427,Community Health Nursing Practice,"","","","","",""
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,11,13366,3,ARRGT,ARR ARR,Laura Hahn
+NURS,427,Community Health Nursing Practice,"","","","","",""
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,12,13398,3,ARRGT,ARR ARR,Anna Fulton
+NURS,427,Community Health Nursing Practice,"","","","","",""
 NURS,427,Community Health Nursing Practice,13,13411,3,ARRGT,ARR ARR,Lisa Vickers
+NURS,430,[CAPS] Senior Practicum,"","","","","",""
 NURS,430,[CAPS] Senior Practicum,01,13340,3,ARRGT,ARR ARR,Debra Brinker
+NURS,430,[CAPS] Senior Practicum,"","","","","",""
 NURS,430,[CAPS] Senior Practicum,02,13341,3,ARRGT,ARR ARR,Robin Faubion
+NURS,430,[CAPS] Senior Practicum,"","","","","",""
+NURS,430,[CAPS] Senior Practicum,"","","","","",""
+NURS,440,[M] Population Health Theory,"","","","","",""
 NURS,440,[M] Population Health Theory,01,13342,3,ARRGT,AMS ARR,Connie Nguyen-Truong
+NURS,440,[M] Population Health Theory,"","","","","",""
 NURS,440,[M] Population Health Theory,02,13343,3,ARRGT,AMS ARR,Connie Nguyen-Truong
-NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,01,13344,2,ARRGT,AMS ARR,Mikel Allen
-NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,02,14029,2,ARRGT,AMS ARR,Mikel Allen
+NURS,440,[M] Population Health Theory,"","","","","",""
+NURS,440,[M] Population Health Theory,"","","","","",""
+NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,"","","","","",""
+NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,01,13344,2,ARRGT,AMS ARR,Kiira Tietjen
+NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,"","","","","",""
+NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,02,14029,2,ARRGT,AMS ARR,Kiira Tietjen
+NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,"","","","","",""
+NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,"","","","","",""
+NURS,465,Application of Population Health Principles,"","","","","",""
 NURS,465,Application of Population Health Principles,01,13345,3,ARRGT,AMS ARR,Naomi Lungstrom
+NURS,465,Application of Population Health Principles,"","","","","",""
 NURS,465,Application of Population Health Principles,02,13346,3,ARRGT,AMS ARR,Naomi Lungstrom
-NURS,471,Foundations of Occupational and Environmental Health Practice,01,13404,3,ARRGT,AMS SPK,Cory Edwards
-NURS,471,Foundations of Occupational and Environmental Health Practice,02,13405,3,ARRGT,AMS ARR,Cory Edwards
+NURS,465,Application of Population Health Principles,"","","","","",""
+NURS,465,Application of Population Health Principles,"","","","","",""
+NURS,471,Foundations of Occupational and Environmental Health Practice,"","","","","",""
+NURS,471,Foundations of Occupational and Environmental Health Practice,01,13404,3,ARRGT,AMS SPK,Denise Smart
+NURS,471,Foundations of Occupational and Environmental Health Practice,"","","","","",""
+NURS,471,Foundations of Occupational and Environmental Health Practice,02,13405,3,ARRGT,AMS ARR,Denise Smart
+NURS,471,Foundations of Occupational and Environmental Health Practice,"","","","","",""
+NURS,471,Foundations of Occupational and Environmental Health Practice,"","","","","",""
+NURS,477,Health Care Ethics,"","","","","",""
 NURS,477,Health Care Ethics,01,13362,V,ARRGT,AMS ARR,Billie Severtsen
+NURS,477,Health Care Ethics,"","","","","",""
 NURS,477,Health Care Ethics,02,13193,V,ARRGT,AMS ARR,Billie Severtsen
+NURS,477,Health Care Ethics,"","","","","",""
+NURS,477,Health Care Ethics,"","","","","",""
+NURS,495,[CAPS] Advanced Practicum,"","","","","",""
 NURS,495,[CAPS] Advanced Practicum,01,13348,3,ARRGT,AMS ARR,Naomi Lungstrom
+NURS,495,[CAPS] Advanced Practicum,"","","","","",""
+NURS,495,[CAPS] Advanced Practicum,"","","","","",""
 NURS,495,[CAPS] Advanced Practicum,02,13380,3,ARRGT,AMS ARR,Naomi Lungstrom
+NURS,495,[CAPS] Advanced Practicum,"","","","","",""
+NURS,495,[CAPS] Advanced Practicum,"","","","","",""
+NURS,499,Special Problems,"","","","","",""
 NURS,499,Special Problems,02,13185,V,ARRGT,"",""
+NURS,499,Special Problems,"","","","","",""
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","","","",""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",01,13387,3,W9.10-12,AMS ARR,Pamela Stover
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS ARR,""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS ARR,""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS ARR,""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,AMS ARR,""
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","","","",""
+NURS,503,Scientific Inquiry in Nursing,"","","","","",""
 NURS,503,Scientific Inquiry in Nursing,01,13349,2,M17.10-19,AMS ARR,Kawkab Shishani
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
+NURS,503,Scientific Inquiry in Nursing,"","","","","",""
 NURS,503,Scientific Inquiry in Nursing,02,13350,2,M17.10-19,AMS ARR,Kawkab Shishani
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
+NURS,503,Scientific Inquiry in Nursing,"","","","","",""
+NURS,503,Scientific Inquiry in Nursing,"","","","","",""
 NURS,503,Scientific Inquiry in Nursing,03,13409,2,M17.10-19,AMS ARR,Kawkab Shishani
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,AMS ARR,""
+NURS,503,Scientific Inquiry in Nursing,"","","","","",""
+NURS,504,Evidence-Based Practice,"","","","","",""
 NURS,504,Evidence-Based Practice,01,13347,3,M11.10-14,AMS ARR,Phyllis Eide
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
+NURS,504,Evidence-Based Practice,"","","","","",""
 NURS,504,Evidence-Based Practice,02,13399,3,M11.10-14,AMS ARR,Phyllis Eide
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
+NURS,504,Evidence-Based Practice,"","","","","",""
+NURS,504,Evidence-Based Practice,"","","","","",""
 NURS,504,Evidence-Based Practice,03,13200,3,M11.10-14,AMS ARR,Phyllis Eide
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,AMS ARR,""
+NURS,504,Evidence-Based Practice,"","","","","",""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","","","",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,01,13373,2,TU16.10-18,AMS ARR,Sarah Fincham
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS ARR,""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,AMS ARR,""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS ARR,""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS ARR,""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","","","",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,02,13374,2,TU16.10-18,AMS ARR,""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS ARR,""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,AMS ARR,""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS ARR,""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,AMS ARR,""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","","","",""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","","","",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,01 Lab,13381,0,ARRGT,ARR ARR,Sarah Fincham
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","","","",""
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","","","",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,01,13386,3,TU8.10-11,AMS ARR,Dawn Depriest
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR,""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR,""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR,""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR,""
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","","","",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,02,13396,3,TU8.10-11,AMS ARR,Dawn Depriest
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR,""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR,""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR,""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,AMS ARR,""
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","","","",""
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","","","",""
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","","","",""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,01,13388,3,W9.10-12,AMS ARR,Louise Kaplan
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR,""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR,""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR,""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR,""
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","","","",""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,02,13389,3,W9.10-12,AMS ARR,Louise Kaplan
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR,""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR,""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR,""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,AMS ARR,""
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","","","",""
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","","","",""
+NURS,516,Primary Care Practicum II,"","","","","",""
 NURS,516,Primary Care Practicum II,01,13390,2,W12.10-14,AMS ARR,Kelsey White
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR,""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR,""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR,""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR,""
+NURS,516,Primary Care Practicum II,"","","","","",""
 NURS,516,Primary Care Practicum II,02,13391,2,W12.10-14,AMS ARR,Kelsey White
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR,""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR,""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR,""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,AMS ARR,""
+NURS,516,Primary Care Practicum II,"","","","","",""
+NURS,516,Primary Care Practicum II,"","","","","",""
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","","","",""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",01,13204,3,M14.10-17,AMS ARR,Phyllis Eide
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS ARR,""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS ARR,""
@@ -428,236 +870,334 @@ NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","",
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS ARR,""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS ARR,""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,AMS ARR,""
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","","","",""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",03,13203,3,M14-17,AMS ARR,Phyllis Eide
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14-17,AMS ARR,""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14-17,AMS ARR,""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14-17,AMS ARR,""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14-17,AMS ARR,""
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","","","",""
+NURS,526,Analytical Foundations for Health Sciences,"","","","","",""
 NURS,526,Analytical Foundations for Health Sciences,01,13207,3,TH12.10-15,AMS ARR,Ekaterina Burduli
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
+NURS,526,Analytical Foundations for Health Sciences,"","","","","",""
 NURS,526,Analytical Foundations for Health Sciences,02,13208,3,TH12.10-15,AMS ARR,Ekaterina Burduli
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
+NURS,526,Analytical Foundations for Health Sciences,"","","","","",""
+NURS,526,Analytical Foundations for Health Sciences,"","","","","",""
 NURS,526,Analytical Foundations for Health Sciences,03,13192,3,TH12.10-15,AMS ARR,Ekaterina Burduli
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
 NURS,526,Analytical Foundations for Health Sciences,"","","",TH12.10-15,AMS ARR,""
+NURS,526,Analytical Foundations for Health Sciences,"","","","","",""
+NURS,526,Analytical Foundations for Health Sciences,"","","","","",""
+NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","","","",""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,01,13209,3,F8.10-11,AMS ARR,Kenn Daratha
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
+NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","","","",""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,02,13210,3,F8.10-11,AMS ARR,Kenn Daratha
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
+NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","","","",""
+NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","","","",""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,03,13191,3,F8.10-11,AMS ARR,Kenn Daratha
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
 NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","",F8.10-11,AMS ARR,""
+NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","","","",""
+NURS,528,Multivariate Statistical Techniques for Health Sciences,"","","","","",""
+NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","","","",""
 NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education",01,13448,3,M14.10-17,AMS ARR,Janet Katz
 NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,AMS ARR,""
 NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,AMS ARR,""
 NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,AMS ARR,""
 NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,AMS ARR,""
+NURS,540,NP Clinical Practicum,"","","","","",""
 NURS,540,NP Clinical Practicum,01,13359,V,W17.10-19,AMS ARR,Deborah Eti
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR,""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR,""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR,""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR,""
+NURS,540,NP Clinical Practicum,"","","","","",""
 NURS,540,NP Clinical Practicum,02,13187,V,W17.10-19,AMS ARR,Deborah Eti
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR,""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR,""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR,""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,AMS ARR,""
+NURS,540,NP Clinical Practicum,"","","","","",""
+NURS,540,NP Clinical Practicum,"","","","","",""
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","","","",""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,01,13375,3,TU8.10-11,AMS ARR,Christina Chacon
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS ARR,""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS ARR,""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS ARR,""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,AMS ARR,""
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","","","",""
+NURS,553,Organizational Systems and Leadership II,"","","","","",""
 NURS,553,Organizational Systems and Leadership II,01,13400,3,TH8.10-11,AMS ARR,Dawn Depriest
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR,""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR,""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR,""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR,""
+NURS,553,Organizational Systems and Leadership II,"","","","","",""
 NURS,553,Organizational Systems and Leadership II,02,13201,3,TH8.10-11,AMS ARR,Dawn Depriest
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR,""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR,""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR,""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,AMS ARR,""
+NURS,553,Organizational Systems and Leadership II,"","","","","",""
+NURS,553,Organizational Systems and Leadership II,"","","","","",""
 NURS,553,Organizational Systems and Leadership II,01 Lab,13401,0,ARRGT,ARR ARR,Dawn Depriest
+NURS,553,Organizational Systems and Leadership II,"","","","","",""
+NURS,555,PMHNP Practicum I,"","","","","",""
 NURS,555,PMHNP Practicum I,01,13392,3,W12.10-14,AMS ARR,Christina Chacon
 NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS ARR,""
 NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS ARR,""
 NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS ARR,""
 NURS,555,PMHNP Practicum I,"","","",W12.10-14,AMS ARR,""
+NURS,555,PMHNP Practicum I,"","","","","",""
 NURS,555,PMHNP Practicum I,01 Lab,13402,0,ARRGT,ARR ARR,Christina Chacon
+NURS,555,PMHNP Practicum I,"","","","","",""
+NURS,558,DNP Project II,"","","","","",""
 NURS,558,DNP Project II,01,13364,3,W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
+NURS,558,DNP Project II,"","","","","",""
 NURS,558,DNP Project II,02,13367,3,W14.10-17,AMS ARR,Janet Purath
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
+NURS,558,DNP Project II,"","","","","",""
 NURS,558,DNP Project II,05,15972,3,W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,"","","",W14.10-17,AMS ARR,""
 NURS,558,DNP Project II,03 Lab,13369,0,ARRGT,ARR ARR,""
+NURS,558,DNP Project II,"","","","","",""
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","","","",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,01,13376,3,TU11.10-13,AMS ARR,Deborah Eti
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR,""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR,""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR,""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR,""
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","","","",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,02,13377,3,TU11.10-13,AMS ARR,Deborah Eti
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR,""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR,""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR,""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,AMS ARR,""
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","","","",""
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","","","",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,01 Lab,13383,0,ARRGT,ARR ARR,Deborah Eti
+NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","","","",""
+NURS,563,Advanced Pharmacology,"","","","","",""
 NURS,563,Advanced Pharmacology,01,13378,3,TU13.10-16,AMS ARR,Tracy Klein
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS ARR,""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS ARR,""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS ARR,""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,AMS ARR,""
+NURS,563,Advanced Pharmacology,"","","","","",""
+NURS,564,Family Health and Health Promotion of Populations,"","","","","",""
 NURS,564,Family Health and Health Promotion of Populations,01,13353,3,M8.10-11,AMS ARR,Natsuko Wood
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR,""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR,""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR,""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR,""
+NURS,564,Family Health and Health Promotion of Populations,"","","","","",""
 NURS,564,Family Health and Health Promotion of Populations,02,13184,3,M8.10-11,AMS ARR,""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR,""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR,""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR,""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,AMS ARR,""
+NURS,564,Family Health and Health Promotion of Populations,"","","","","",""
+NURS,564,Family Health and Health Promotion of Populations,"","","","","",""
+NURS,565,Information Management for Clinical Practice,"","","","","",""
 NURS,565,Information Management for Clinical Practice,01,13351,3,TH14.10-17,AMS ARR,Deborah Eti
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
+NURS,565,Information Management for Clinical Practice,"","","","","",""
 NURS,565,Information Management for Clinical Practice,02,13205,3,TH14.10-17,AMS ARR,Deborah Eti
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
+NURS,565,Information Management for Clinical Practice,"","","","","",""
+NURS,565,Information Management for Clinical Practice,"","","","","",""
 NURS,565,Information Management for Clinical Practice,03,13352,3,TH14.10-17,AMS ARR,Deborah Eti
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,AMS ARR,""
+NURS,565,Information Management for Clinical Practice,"","","","","",""
+NURS,565,Information Management for Clinical Practice,"","","","","",""
+NURS,566,Community Analysis and Grant Development,"","","","","",""
 NURS,566,Community Analysis and Grant Development,01,13357,2,M11.10-13,AMS ARR,Kawkab Shishani
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR,""
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR,""
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR,""
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR,""
+NURS,566,Community Analysis and Grant Development,"","","","","",""
 NURS,566,Community Analysis and Grant Development,02,13186,2,M11.10-13,AMS ARR,Kawkab Shishani
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR,""
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR,""
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR,""
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,AMS ARR,""
+NURS,566,Community Analysis and Grant Development,"","","","","",""
+NURS,566,Community Analysis and Grant Development,"","","","","",""
+NURS,576,Organizational Systems and Leadership I,"","","","","",""
 NURS,576,Organizational Systems and Leadership I,01,13363,3,TH11.10-14,AMS ARR,Dawn Depriest
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR,""
+NURS,576,Organizational Systems and Leadership I,"","","","","",""
 NURS,576,Organizational Systems and Leadership I,02,13194,3,TH11.10-14,AMS ARR,Dawn Depriest
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,AMS ARR,""
+NURS,576,Organizational Systems and Leadership I,"","","","","",""
+NURS,576,Organizational Systems and Leadership I,"","","","","",""
 NURS,576,Organizational Systems and Leadership I,01 Lab,13408,0,ARRGT,ARR ARR,Dawn Depriest
+NURS,581,Advanced Pathophysiology,"","","","","",""
 NURS,581,Advanced Pathophysiology,01,13393,3,M14.10-17,AMS ARR,Fionnuala Brown
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR,""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR,""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR,""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR,""
+NURS,581,Advanced Pathophysiology,"","","","","",""
 NURS,581,Advanced Pathophysiology,02,13394,3,M14.10-17,AMS ARR,Fionnuala Brown
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR,""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR,""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR,""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,AMS ARR,""
+NURS,581,Advanced Pathophysiology,"","","","","",""
+NURS,581,Advanced Pathophysiology,"","","","","",""
+NURS,583,DNP Population Health Practicum,"","","","","",""
 NURS,583,DNP Population Health Practicum,01,13395,V,ARRGT,ARR ARR,Catherine Van Son
+NURS,583,DNP Population Health Practicum,"","","","","",""
+NURS,588,Research Inquiry: Quantitative Methods I,"","","","","",""
 NURS,588,Research Inquiry: Quantitative Methods I,01,13211,3,TH15.10-18,AMS ARR,Kawkab Shishani
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
+NURS,588,Research Inquiry: Quantitative Methods I,"","","","","",""
 NURS,588,Research Inquiry: Quantitative Methods I,02,13212,3,TH15.10-18,AMS ARR,Kawkab Shishani
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
+NURS,588,Research Inquiry: Quantitative Methods I,"","","","","",""
+NURS,588,Research Inquiry: Quantitative Methods I,"","","","","",""
 NURS,588,Research Inquiry: Quantitative Methods I,03,13190,3,TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
 NURS,588,Research Inquiry: Quantitative Methods I,"","","",TH15.10-18,AMS ARR,""
+NURS,588,Research Inquiry: Quantitative Methods I,"","","","","",""
+NURS,588,Research Inquiry: Quantitative Methods I,"","","","","",""
+NURS,592,Research Inquiry: Qualitative Methods II,"","","","","",""
 NURS,592,Research Inquiry: Qualitative Methods II,01,13384,2,F11.10-13,AMS ARR,Catherine Van Son
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
+NURS,592,Research Inquiry: Qualitative Methods II,"","","","","",""
 NURS,592,Research Inquiry: Qualitative Methods II,02,13385,2,F11.10-13,AMS ARR,Catherine Van Son
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
+NURS,592,Research Inquiry: Qualitative Methods II,"","","","","",""
+NURS,592,Research Inquiry: Qualitative Methods II,"","","","","",""
 NURS,592,Research Inquiry: Qualitative Methods II,03,13196,2,F11.10-13,AMS ARR,Catherine Van Son
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
 NURS,592,Research Inquiry: Qualitative Methods II,"","","",F11.10-13,AMS ARR,""
+NURS,592,Research Inquiry: Qualitative Methods II,"","","","","",""
+NURS,592,Research Inquiry: Qualitative Methods II,"","","","","",""
+NURS,596,Nursing Science: Theory and Science of Nursing II,"","","","","",""
 NURS,596,Nursing Science: Theory and Science of Nursing II,01,13371,3,TH8.10-11,AMS ARR,Gail Oneal
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
+NURS,596,Nursing Science: Theory and Science of Nursing II,"","","","","",""
 NURS,596,Nursing Science: Theory and Science of Nursing II,02,13372,3,TH8.10-11,AMS ARR,Gail Oneal
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
+NURS,596,Nursing Science: Theory and Science of Nursing II,"","","","","",""
+NURS,596,Nursing Science: Theory and Science of Nursing II,"","","","","",""
 NURS,596,Nursing Science: Theory and Science of Nursing II,03,13195,3,TH8.10-11,AMS ARR,Gail Oneal
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH8.10-11,AMS ARR,""
+NURS,596,Nursing Science: Theory and Science of Nursing II,"","","","","",""
+NURS,596,Nursing Science: Theory and Science of Nursing II,"","","","","",""
+NURS,597,Advanced Topics in Nursing,"","","","","",""
 NURS,597,Advanced Topics in Nursing,01,14046,V,ARRGT,ARR ARR,Phyllis Eide
+NURS,597,Advanced Topics in Nursing,"","","","","",""
+NURS,597,Advanced Topics in Nursing,"","","","","",""
 NURS,597,Advanced Topics in Nursing,02,14028,V,ARRGT,ARR ARR,Phyllis Eide
+NURS,597,Advanced Topics in Nursing,"","","","","",""
+NURS,597,Advanced Topics in Nursing,"","","","","",""
+NURS,597,Advanced Topics in Nursing,"","","","","",""
+NURS,598,Advanced Topics in Nursing,"","","","","",""
+NURS,598,Advanced Topics in Nursing,01,14038,V,ARRGT,ARR ARR,Gail Oneal
+NURS,598,Advanced Topics in Nursing,"","","","","",""
+NURS,598,Advanced Topics in Nursing,"","","","","",""
+NURS,599,Independent Study,"","","","","",""
 NURS,599,Independent Study,01,13213,V,ARRGT,ARR ARR,Louise Kaplan
+NURS,599,Independent Study,"","","","","",""
 NURS,599,Independent Study,02,13360,V,ARRGT,ARR ARR,Louise Kaplan
+NURS,599,Independent Study,"","","","","",""
+NURS,599,Independent Study,11,16972,V,ARRGT,ARR ARR,Catherine Van Son
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","","","",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,13356,V,TH8.10-11,AMS ARR,(multiple)
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS ARR,""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS ARR,""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS ARR,""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,AMS ARR,""
+NURS,799,Dissertation Seminar,"","","","","",""
 NURS,799,Dissertation Seminar,01,13406,1,F8.10-9,AMS ARR,Phyllis Eide
 NURS,799,Dissertation Seminar,"","","",F8.10-9,AMS ARR,""
 NURS,799,Dissertation Seminar,"","","",F8.10-9,AMS ARR,""
@@ -670,80 +1210,148 @@ NURS,799,Dissertation Seminar,"","","",F8.10-9,AMS ARR,""
 NURS,799,Dissertation Seminar,"","","",F8.10-9,AMS ARR,""
 NURS,799,Dissertation Seminar,"","","",F8.10-9,AMS ARR,""
 NURS,799,Dissertation Seminar,"","","",F8.10-9,AMS ARR,""
+NURS,799,Dissertation Seminar,"","","","","",""
+NURS,800,"Doctoral Research, Dissertation, and/or Examination","","","","","",""
 NURS,800,"Doctoral Research, Dissertation, and/or Examination",01,13214,V,ARRGT,ARR ARR,(multiple)
+PHARDSCI,"","","","","","","",""
+PHARDSCI,499,Special Problems,"","","","","",""
 PHARDSCI,499,Special Problems,01,12887,V,ARRGT,"",(multiple)
+PHARDSCI,499,Special Problems,"","","","","",""
 PHARDSCI,499,Special Problems,02,12902,V,ARRGT,"",""
+PHARDSCI,499,Special Problems,"","","","","",""
 PHARDSCI,499,Special Problems,50,12900,V,ARRGT,"",""
+PHARDSCI,499,Special Problems,"","","","","",""
+PHARDSCI,499,Special Problems,"","","","","",""
+PHARDSCI,502,Integrated Pharmacology I,"","","","","",""
 PHARDSCI,502,Integrated Pharmacology I,01,12888,4,"TU,TH15.10-17",AMS ARR,Darrell Jackson
 PHARDSCI,502,Integrated Pharmacology I,50,12894,4,TU13.10-15,ARR ARR,Damianne Brand
 PHARDSCI,502,Integrated Pharmacology I,"","","",TH15.10-17,ARR ARR,""
+PHARDSCI,502,Integrated Pharmacology I,"","","","","",""
+PHARDSCI,502,Integrated Pharmacology I,"","","","","",""
+PHARDSCI,504,Pharmacy Calculations,"","","","","",""
+PHARDSCI,504,Pharmacy Calculations,01,12889,1,TH13.10-15,WEB ARR,Connie Remsberg
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,""
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,""
 PHARDSCI,504,Pharmacy Calculations,50,12897,1,TH13.10-15,ARR ARR,Nicholas Giruzzi
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,""
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,""
+PHARDSCI,504,Pharmacy Calculations,"","","","","",""
+PHARDSCI,504,Pharmacy Calculations,"","","","","",""
+PHARDSCI,508,Pharmaceutics I,"","","","","",""
+PHARDSCI,508,Pharmaceutics I,01,12890,3,TH10.10-11.35,WEB ARR,Connie Remsberg
 PHARDSCI,508,Pharmaceutics I,"","","",F9.45-11,AMS ARR,""
+PHARDSCI,508,Pharmaceutics I,"","","","","",""
 PHARDSCI,508,Pharmaceutics I,50,12896,3,TH10.10-11.35,ARR ARR,Damianne Brand
 PHARDSCI,508,Pharmaceutics I,"","","",F9.45-11,ARR ARR,""
+PHARDSCI,508,Pharmaceutics I,"","","","","",""
+PHARDSCI,508,Pharmaceutics I,"","","","","",""
+PHARDSCI,510,Basic and Clinical Pharmacogenomics,"","","","","",""
 PHARDSCI,510,Basic and Clinical Pharmacogenomics,01,15642,2,ARRGT,ARR ARR,Sayed Daoud
+PHARDSCI,510,Basic and Clinical Pharmacogenomics,"","","","","",""
+PHARDSCI,518,Pharmaceutics II,"","","","","",""
 PHARDSCI,518,Pharmaceutics II,01,15643,2,ARRGT,ARR ARR,Connie Remsberg
+PHARDSCI,518,Pharmaceutics II,"","","","","",""
+PHARDSCI,528,Pharmacokinetics,"","","","","",""
+PHARDSCI,528,Pharmacokinetics,01,12891,3,W8.45-10,WEB ARR,Senthil Natesan
 PHARDSCI,528,Pharmacokinetics,"","","",F8.20-9.35,AMS ARR,""
 PHARDSCI,528,Pharmacokinetics,50,12895,3,W8.45-10,ARR ARR,Dana Bowers
 PHARDSCI,528,Pharmacokinetics,"","","",F8.20-9.35,ARR ARR,""
+PHARDSCI,528,Pharmacokinetics,"","","","","",""
+PHARDSCI,528,Pharmacokinetics,"","","","","",""
+PHARDSCI,532,Integrated Pharmacology III,"","","","","",""
+PHARDSCI,532,Integrated Pharmacology III,01,12892,4,"TU,TH10.10-12",WEB ARR,Susan Marsh
 PHARDSCI,532,Integrated Pharmacology III,50,12898,4,"TU,TH10.10-12",ARR ARR,Rustin Crutchley
+PHARDSCI,532,Integrated Pharmacology III,"","","","","",""
+PHARDSCI,532,Integrated Pharmacology III,"","","","","",""
+PHARDSCI,542,Integrated Pharmacology IV,"","","","","",""
 PHARDSCI,542,Integrated Pharmacology IV,01,15644,4,ARRGT,ARR ARR,Shuwen Wang
+PHARDSCI,542,Integrated Pharmacology IV,"","","","","",""
+PHARDSCI,598,Honors Research,"","","","","",""
 PHARDSCI,598,Honors Research,01,15708,V,ARRGT,ARR ARR,""
 PHARDSCI,598,Honors Research,50,15709,V,ARRGT,ARR ARR,""
+PHARDSCI,599,Special Projects,"","","","","",""
 PHARDSCI,599,Special Projects,01,12893,V,ARRGT,"",(multiple)
+PHARDSCI,599,Special Projects,"","","","","",""
 PHARDSCI,599,Special Projects,02,12901,V,ARRGT,"",Travis Denton
+PHARDSCI,599,Special Projects,"","","","","",""
 PHARDSCI,599,Special Projects,50,12899,V,ARRGT,"",""
+PHARDSCI,599,Special Projects,"","","","","",""
+PHARDSCI,599,Special Projects,"","","","","",""
+PHARMACY,"","","","","","","",""
+PHARMACY,499,Special Problems,"","","","","",""
 PHARMACY,499,Special Problems,01,12778,V,ARRGT,ARR ARR,(multiple)
+PHARMACY,499,Special Problems,"","","","","",""
 PHARMACY,499,Special Problems,02,12851,V,F8.10-9,ARR ARR,Jennifer Robinson
+PHARMACY,499,Special Problems,"","","","","",""
 PHARMACY,499,Special Problems,03,12832,V,ARRGT,ARR ARR,""
+PHARMACY,499,Special Problems,"","","","","",""
 PHARMACY,499,Special Problems,50,12824,V,ARRGT,ARR ARR,(multiple)
+PHARMACY,499,Special Problems,"","","","","",""
+PHARMACY,499,Special Problems,"","","","","",""
 PHARMACY,499,Special Problems,52,12852,V,TU14.10-15,"",Damianne Brand
+PHARMACY,499,Special Problems,"","","","","",""
+PHARMACY,499,Special Problems,"","","","","",""
+PHARMACY,506,Student Success and Professional Development I,"","","","","",""
+PHARMACY,506,Student Success and Professional Development I,01,12862,1,TU8.10-9,WEB ARR,Jennifer Robinson
 PHARMACY,506,Student Success and Professional Development I,50,12863,1,TU8.10-9,ARR ARR,Damianne Brand
+PHARMACY,506,Student Success and Professional Development I,"","","","","",""
+PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","","","",""
+PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,01,12779,1,F11.10-12,WEB ARR,Lauren Marcath
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","",F11.10-12,AMS ARR,""
+PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","","","",""
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,50,12813,1,F11.10-12,ARR ARR,""
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","",F11.10-12,ARR ARR,""
+PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","","","",""
+PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","","","",""
+PHARMACY,509,Professional Communications Lab,"","","","","",""
+PHARMACY,509,Professional Communications Lab,01,12780,1,TU9.10-10,WEB ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",TU10.10-12,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
+PHARMACY,509,Professional Communications Lab,02,12781,1,TU9.10-10,WEB ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",TU13.10-15,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
+PHARMACY,509,Professional Communications Lab,03,12782,1,TU9.10-10,WEB ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",W10.10-12,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
+PHARMACY,509,Professional Communications Lab,04,12783,1,TU9.10-10,WEB ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",W13.10-15,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
+PHARMACY,509,Professional Communications Lab,05,12810,1,TU9.10-10,WEB ARR,Megan Willson
 PHARMACY,509,Professional Communications Lab,"","","",W15.10-17,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,50,12814,1,TU9.10-10,ARR ARR,Christina Buchman
 PHARMACY,509,Professional Communications Lab,"","","",TU10.10-12,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
+PHARMACY,509,Professional Communications Lab,"","","","","",""
+PHARMACY,509,Professional Communications Lab,"","","","","",""
 PHARMACY,509,Professional Communications Lab,51,12816,1,TU9.10-10,ARR ARR,Christina Buchman
 PHARMACY,509,Professional Communications Lab,"","","",TU15.10-17,ARR ARR,""
 PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
+PHARMACY,509,Professional Communications Lab,"","","","","",""
+PHARMACY,509,Professional Communications Lab,"","","","","",""
+PHARMACY,516,Health Care Systems,"","","","","",""
+PHARMACY,516,Health Care Systems,01,12809,2,TH8.10-10,WEB ARR,Julie Akers
 PHARMACY,516,Health Care Systems,"","","",M10-12,ARR ARR,""
 PHARMACY,516,Health Care Systems,"","","",TH8.10-10,ARR ARR,""
 PHARMACY,516,Health Care Systems,50,12815,2,TH8.10-10,ARR ARR,Nicholas Giruzzi
 PHARMACY,516,Health Care Systems,"","","",M10-12,ARR ARR,""
 PHARMACY,516,Health Care Systems,"","","",TH8.10-10,ARR ARR,""
-PHARMACY,530,Point of Care and Clinical Services,01,12812,2,"M,TU,W,TH,F8-17",ARR ARR,Nicole Perea
-PHARMACY,530,Point of Care and Clinical Services,"","","",M8-10,ARR ARR,""
-PHARMACY,530,Point of Care and Clinical Services,"","","",M8-10,ARR ARR,""
-PHARMACY,530,Point of Care and Clinical Services,"","","",M8-10,ARR ARR,""
-PHARMACY,530,Point of Care and Clinical Services,50,12818,2,"M,TU,W,TH,F8-17",ARR ARR,Christina Buchman
-PHARMACY,530,Point of Care and Clinical Services,"","","",M8-10,ARR ARR,""
-PHARMACY,530,Point of Care and Clinical Services,"","","",M8-10,ARR ARR,""
-PHARMACY,530,Point of Care and Clinical Services,"","","",M8-10,ARR ARR,""
+PHARMACY,516,Health Care Systems,"","","","","",""
+PHARMACY,516,Health Care Systems,"","","","","",""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","","","",""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,01,12784,1,TU13.10-14,WEB ARR,Sorosh Kherghehpoush
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W8.10-10,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,02,12785,1,TU13.10-14,WEB ARR,Sorosh Kherghehpoush
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,03,12786,1,TU13.10-14,WEB ARR,Sorosh Kherghehpoush
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W13.10-15,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,04,12787,1,TU13.10-14,WEB ARR,Sorosh Kherghehpoush
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",F10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
@@ -751,82 +1359,205 @@ PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,50,1
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W8.10-10,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","","","",""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","","","",""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,51,12823,1,TU13.10-14,ARR ARR,Christina Buchman
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W10.10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10-12,ARR ARR,""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","","","",""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","","","",""
+PHARMACY,533,Introductory Pharmacy Practice Experience II,"","","","","",""
+PHARMACY,533,Introductory Pharmacy Practice Experience II,01,12788,3,TH15.10-17,WEB ARR,Taylor Bertsch
 PHARMACY,533,Introductory Pharmacy Practice Experience II,50,12819,3,TH15.10-17,ARR ARR,Anne Kim
+PHARMACY,533,Introductory Pharmacy Practice Experience II,"","","","","",""
+PHARMACY,533,Introductory Pharmacy Practice Experience II,"","","","","",""
+PHARMACY,534,Pharmacotherapy II,"","","","","",""
+PHARMACY,534,Pharmacotherapy II,01,12789,4,"TU,TH8.10-10",WEB ARR,Joshua Neumiller
 PHARMACY,534,Pharmacotherapy II,50,12820,4,"TU,TH8.10-10",ARR ARR,Anne Kim
+PHARMACY,534,Pharmacotherapy II,"","","","","",""
+PHARMACY,534,Pharmacotherapy II,"","","","","",""
+PHARMACY,536,Student Success and Professional Development II,"","","","","",""
 PHARMACY,536,Student Success and Professional Development II,01,13039,1,TU14.10-15,ARR ARR,Damianne Brand
 PHARMACY,536,Student Success and Professional Development II,50,13040,1,TU14.10-15,ARR ARR,Damianne Brand
+PHARMACY,536,Student Success and Professional Development II,"","","","","",""
+PHARMACY,543,Introductory Pharmacy Practice Experience III,"","","","","",""
 PHARMACY,543,Introductory Pharmacy Practice Experience III,01,12864,1,ARRGT,ARR ARR,Jennifer Miller
+PHARMACY,544,Pharmacotherapy III,"","","","","",""
 PHARMACY,544,Pharmacotherapy III,01,15646,4,ARRGT,ARR ARR,Jean-Baptiste Roullet
+PHARMACY,544,Pharmacotherapy III,"","","","","",""
+PHARMACY,545,Pharmacy Management,"","","","","",""
+PHARMACY,545,Pharmacy Management,01,12790,3,TH13.10-15,WEB ARR,Julie Akers
 PHARMACY,545,Pharmacy Management,50,12821,3,TH13.10-15,ARR ARR,Angela Stewart
+PHARMACY,545,Pharmacy Management,"","","","","",""
+PHARMACY,545,Pharmacy Management,"","","","","",""
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","","","",""
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01,12791,2,W13.10-14,WEB ARR,Boris Zhang
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50,12828,2,ARRGT,ARR ARR,Christina Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","","","",""
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01 Lab,12792,0,TH8.10-10,ARR ARR,Boris Zhang
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,02 Lab,12793,0,TH10.10-12,ARR ARR,""
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,03 Lab,12794,0,TH13.10-15,ARR ARR,Boris Zhang
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50 Lab,12829,0,TH8.10-10,ARR ARR,Christina Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","","","",""
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","","","",""
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,51 Lab,12839,0,TH10.10-12,ARR ARR,Christina Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","","","",""
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","","","",""
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,52 Lab,16475,0,TH13.10-15,ARR ARR,Christina Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","","","",""
+PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","","","",""
+PHARMACY,553,Introductory Pharmacy Practice Experience IV,01,12796,3,W14.10-15,WEB ARR,Jennifer Miller
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","",M10.10-11,ARR ARR,""
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,50,12830,3,W14.10-15,ARR ARR,Dana Bowers
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","",M10.10-11,ARR ARR,""
+PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","","","",""
+PHARMACY,554,Pharmacotherapy IV,"","","","","",""
+PHARMACY,554,Pharmacotherapy IV,01,12797,4,"W,F10.10-12",WEB ARR,Cheyenne Newsome
 PHARMACY,554,Pharmacotherapy IV,50,12825,4,"W,F10.10-12",ARR ARR,Dana Bowers
+PHARMACY,554,Pharmacotherapy IV,"","","","","",""
+PHARMACY,566,Therapeutics of Special Populations,"","","","","",""
+PHARMACY,566,Therapeutics of Special Populations,01,12817,3,W8.10-10,WEB ARR,Brian Gates
 PHARMACY,566,Therapeutics of Special Populations,"","","",F9.10-10,AMS ARR,""
 PHARMACY,566,Therapeutics of Special Populations,50,12826,3,W8.10-10,ARR ARR,Rustin Crutchley
 PHARMACY,566,Therapeutics of Special Populations,"","","",F9.10-10,ARR ARR,""
+PHARMACY,566,Therapeutics of Special Populations,"","","","","",""
+PHARMACY,566,Therapeutics of Special Populations,"","","","","",""
+PHARMACY,570,Pain: Processes and Treatment,"","","","","",""
 PHARMACY,570,Pain: Processes and Treatment,01,12860,2,ARRGT,"",Damianne Brand
 PHARMACY,570,Pain: Processes and Treatment,50,12859,2,ARRGT,"",Damianne Brand
+PHARMACY,570,Pain: Processes and Treatment,"","","","","",""
+PHARMACY,572,Physical Activity Prescription in the Pharmacy,"","","","","",""
 PHARMACY,572,Physical Activity Prescription in the Pharmacy,01,14948,2,ARRGT,ARR ARR,Susan Marsh
+PHARMACY,572,Physical Activity Prescription in the Pharmacy,"","","","","",""
+PHARMACY,573,Family Medicine and Pharmacy,"","","","","",""
 PHARMACY,573,Family Medicine and Pharmacy,50,12857,2,TU13.10-15,ARR ARR,Nicholas Giruzzi
+PHARMACY,573,Family Medicine and Pharmacy,"","","","","",""
+PHARMACY,573,Family Medicine and Pharmacy,"","","","","",""
+PHARMACY,577,"Diseases, Complications, and Drug Therapy in Obstetrics","","","","","",""
 PHARMACY,577,"Diseases, Complications, and Drug Therapy in Obstetrics",01,12799,2,ARRGT,ARR ARR,Alyson Blum
+PHARMACY,578,Leadership and Professional Development,"","","","","",""
+PHARMACY,578,Leadership and Professional Development,01,13158,2,TU15.10-17,WEB ARR,Jennifer Robinson
 PHARMACY,578,Leadership and Professional Development,50,13159,2,TU15.10-17,ARR ARR,Angela Stewart
+PHARMACY,578,Leadership and Professional Development,"","","","","",""
+PHARMACY,581,Acute Care Advanced Practice Experience,"","","","","",""
 PHARMACY,581,Acute Care Advanced Practice Experience,01,12800,5,ARRGT,ARR ARR,John White
+PHARMACY,581,Acute Care Advanced Practice Experience,"","","","","",""
 PHARMACY,581,Acute Care Advanced Practice Experience,50,12841,5,ARRGT,ARR ARR,John White
+PHARMACY,581,Acute Care Advanced Practice Experience,"","","","","",""
+PHARMACY,581,Acute Care Advanced Practice Experience,"","","","","",""
+PHARMACY,582,Ambulatory Care Advanced Practice Experience,"","","","","",""
 PHARMACY,582,Ambulatory Care Advanced Practice Experience,01,12801,5,ARRGT,ARR ARR,John White
+PHARMACY,582,Ambulatory Care Advanced Practice Experience,"","","","","",""
 PHARMACY,582,Ambulatory Care Advanced Practice Experience,50,12842,5,ARRGT,ARR ARR,John White
+PHARMACY,582,Ambulatory Care Advanced Practice Experience,"","","","","",""
+PHARMACY,582,Ambulatory Care Advanced Practice Experience,"","","","","",""
+PHARMACY,583,Community Advanced Practice Experience,"","","","","",""
 PHARMACY,583,Community Advanced Practice Experience,01,12802,5,ARRGT,ARR ARR,John White
+PHARMACY,583,Community Advanced Practice Experience,"","","","","",""
 PHARMACY,583,Community Advanced Practice Experience,50,12843,5,ARRGT,ARR ARR,John White
+PHARMACY,583,Community Advanced Practice Experience,"","","","","",""
+PHARMACY,583,Community Advanced Practice Experience,"","","","","",""
+PHARMACY,584,Institutional Advanced Practice Experience,"","","","","",""
 PHARMACY,584,Institutional Advanced Practice Experience,01,12803,5,ARRGT,ARR ARR,John White
+PHARMACY,584,Institutional Advanced Practice Experience,"","","","","",""
 PHARMACY,584,Institutional Advanced Practice Experience,50,12844,5,ARRGT,ARR ARR,John White
+PHARMACY,584,Institutional Advanced Practice Experience,"","","","","",""
+PHARMACY,585,Elective I Advanced Practice Experience,"","","","","",""
 PHARMACY,585,Elective I Advanced Practice Experience,01,12804,5,ARRGT,ARR ARR,John White
+PHARMACY,585,Elective I Advanced Practice Experience,"","","","","",""
 PHARMACY,585,Elective I Advanced Practice Experience,50,12845,5,ARRGT,ARR ARR,John White
+PHARMACY,585,Elective I Advanced Practice Experience,"","","","","",""
+PHARMACY,585,Elective I Advanced Practice Experience,"","","","","",""
+PHARMACY,586,Elective II Advanced Practice Experience,"","","","","",""
 PHARMACY,586,Elective II Advanced Practice Experience,01,12805,5,ARRGT,ARR ARR,John White
+PHARMACY,586,Elective II Advanced Practice Experience,"","","","","",""
 PHARMACY,586,Elective II Advanced Practice Experience,50,12846,5,ARRGT,ARR ARR,John White
+PHARMACY,586,Elective II Advanced Practice Experience,"","","","","",""
+PHARMACY,586,Elective II Advanced Practice Experience,"","","","","",""
+PHARMACY,587,Elective III Advanced Practice Experience,"","","","","",""
 PHARMACY,587,Elective III Advanced Practice Experience,01,12806,5,ARRGT,ARR ARR,John White
+PHARMACY,587,Elective III Advanced Practice Experience,"","","","","",""
 PHARMACY,587,Elective III Advanced Practice Experience,50,12847,5,ARRGT,ARR ARR,John White
+PHARMACY,587,Elective III Advanced Practice Experience,"","","","","",""
+PHARMACY,587,Elective III Advanced Practice Experience,"","","","","",""
+PHARMACY,589,Special Topics,"","","","","",""
 PHARMACY,589,Special Topics,50,15419,2,W13.10-15,ARR ARR,Justin Luu
+PHARMACY,589,Special Topics,"","","","","",""
+PHARMACY,589,Special Topics,"","","","","",""
+PHARMACY,589,Special Topics,"","","","","",""
+PHARMACY,592,Mental Health First Aid,"","","","","",""
+PHARMACY,592,Mental Health First Aid,01,12837,2,F12.10-17,WEB ARR,Jennifer Robinson
 PHARMACY,592,Mental Health First Aid,50,12838,2,F12.10-17,ARR ARR,Damianne Brand
+PHARMACY,592,Mental Health First Aid,"","","","","",""
+PHARMACY,592,Mental Health First Aid,"","","","","",""
+PHARMACY,594,Comprehensive Diabetes Management,"","","","","",""
 PHARMACY,594,Comprehensive Diabetes Management,01,12807,3,ARRGT,"",John White
+PHARMACY,595,HIV - Advanced Therapeutics,"","","","","",""
+PHARMACY,595,HIV - Advanced Therapeutics,01,12858,2,W15.10-17,WEB ARR,Cheyenne Newsome
 PHARMACY,595,HIV - Advanced Therapeutics,50,12856,2,W15.10-17,ARR ARR,Rustin Crutchley
+PHARMACY,595,HIV - Advanced Therapeutics,"","","","","",""
+PHARMACY,599,Special Projects,"","","","","",""
 PHARMACY,599,Special Projects,01,12808,V,ARRGT,"",(multiple)
+PHARMACY,599,Special Projects,"","","","","",""
 PHARMACY,599,Special Projects,02,12855,V,ARRGT,"",Travis Denton
+PHARMACY,599,Special Projects,"","","","","",""
 PHARMACY,599,Special Projects,50,12840,V,ARRGT,"",Anne Kim
+PHARMACY,599,Special Projects,"","","","","",""
+PHARMACY,599,Special Projects,"","","","","",""
+PHARMSCI,"","","","","","","",""
+PHARMSCI,520,Foundations of Molecular Regulation and Cellular Regulation,"","","","","",""
 PHARMSCI,520,Foundations of Molecular Regulation and Cellular Regulation,01,12873,4,"M,W10.10-11.50",AMS ARR,Sayed Daoud
 PHARMSCI,520,Foundations of Molecular Regulation and Cellular Regulation,50,12884,4,"M,W10.10-11.50",ARR ARR,Sayed Daoud
+PHARMSCI,520,Foundations of Molecular Regulation and Cellular Regulation,"","","","","",""
+PHARMSCI,560,Molecular and Cellular Methods in Biomedical Sciences,"","","","","",""
 PHARMSCI,560,Molecular and Cellular Methods in Biomedical Sciences,01,12874,3,W13.10-15.40,SAC 343,Shuwen Wang
 PHARMSCI,560,Molecular and Cellular Methods in Biomedical Sciences,50,12881,3,W13.10-15.40,ARR ARR,Shuwen Wang
+PHARMSCI,560,Molecular and Cellular Methods in Biomedical Sciences,"","","","","",""
+PHARMSCI,566,Fundamentals of Toxicology,"","","","","",""
 PHARMSCI,566,Fundamentals of Toxicology,01,12885,3,M13.10-15.40,SAC 345,Ayesha Ahmed
 PHARMSCI,566,Fundamentals of Toxicology,50,12886,3,M13.10-15.40,ARR ARR,Ayesha Ahmed
+PHARMSCI,566,Fundamentals of Toxicology,"","","","","",""
+PHARMSCI,572,Fundamentals of Oncology,"","","","","",""
 PHARMSCI,572,Fundamentals of Oncology,01,15015,3,"TU,F10-11.30",AMS ARR,Boyang Wu
 PHARMSCI,572,Fundamentals of Oncology,50,15016,3,"TU,F10-11.30",AMS ARR,""
+PHARMSCI,572,Fundamentals of Oncology,"","","","","",""
+PHARMSCI,577,Responsible Conduct in Biomedical Research,"","","","","",""
 PHARMSCI,577,Responsible Conduct in Biomedical Research,01,12868,3,TU15.10-17.40,SAC 345,Andrea Lazarus
 PHARMSCI,577,Responsible Conduct in Biomedical Research,50,12879,3,TU15.10-17.40,ARR ARR,Andrea Lazarus
+PHARMSCI,577,Responsible Conduct in Biomedical Research,"","","","","",""
+PHARMSCI,597,College of Pharmacy Graduate Seminar,"","","","","",""
 PHARMSCI,597,College of Pharmacy Graduate Seminar,01,12869,1,F12.10-13,SPBS 101,Andrea Lazarus
+PHARMSCI,600,Special Projects or Independent Study,"","","","","",""
 PHARMSCI,600,Special Projects or Independent Study,01,12870,V,ARRGT,ARR,Susan Marsh
+PHARMSCI,700,"Master's Research, Thesis, and/or Examination","","","","","",""
 PHARMSCI,700,"Master's Research, Thesis, and/or Examination",01,12877,V,ARRGT,"",Shobhan Gaddameedhi
+PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination","","","","","",""
 PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,12871,V,ARRGT,ARR ARR,(multiple)
+PREV_SCI,"","","","","","","",""
+PREV_SCI,511,Introduction to Prevention Science,"","","","","",""
 PREV_SCI,511,Introduction to Prevention Science,01,12095,3,M14.10-17,SAC 205,Jane Lanigan
+PREV_SCI,512,Finite and Growth Mixture Modeling,"","","","","",""
 PREV_SCI,512,Finite and Growth Mixture Modeling,01,12094,3,"TU,TH14.55-16.10",SAC 205,Brittany Cooper
+PREV_SCI,513,Research Methods in Prevention Science,"","","","","",""
 PREV_SCI,513,Research Methods in Prevention Science,01,12096,3,TU15.10-18,SAC 249,Sara Waters
+PREV_SCI,700,"Master's Research, Thesis, and/or Examination","","","","","",""
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,15741,V,ARRGT,ARR ARR,(multiple)
+PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination","","","","","",""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,15421,V,ARRGT,ARR ARR,Yoshie Sano
+PSYCH,"","","","","","","",""
+PSYCH,514,Psychometrics,"","","","","",""
 PSYCH,514,Psychometrics,01,14705,3,"TU,TH14.55-16.10",SAC 43,G Burns
+PSYCH,577,Behavioral Pharmacology,"","","","","",""
 PSYCH,577,Behavioral Pharmacology,01,14706,3,"TU,TH13.30-14.45",SAC 43,Rebecca Craft
+PSYCH,592,Cognition and Affective Basis of Behavior,"","","","","",""
 PSYCH,592,Cognition and Affective Basis of Behavior,01,14707,3,W9.10-12,SAC 43,Lisa Fournier
+PSYCH,700,"Master's Research, Thesis, and/or Examination","","","","","",""
 PSYCH,700,"Master's Research, Thesis, and/or Examination",01,15586,V,ARRGT,ARR ARR,Hans Van Dongen
+PSYCH,800,"Doctoral Research, Dissertation, and/or Examination","","","","","",""
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",03,14113,V,ARRGT,ARR ARR,Kimberly Honn
+SHS,"","","","","","","",""
+SHS,201,American Sign Language I,"","","","","",""
 SHS,201,American Sign Language I,01,12985,4,"M,TU,W,TH11.10-12",AMS ARR,Melissa Ratsch
 SHS,201,American Sign Language I,"","","","TU,TH11.05-11.55",AMS ARR,""
 SHS,201,American Sign Language I,"","","","TU,TH11.05-11.55",AMS ARR,""
@@ -838,26 +1569,123 @@ SHS,201,American Sign Language I,"","","","M,TU,W,TH12.10-13",AMS ARR,""
 SHS,201,American Sign Language I,"","","","TU,TH12.10-13",AMS ARR,""
 SHS,201,American Sign Language I,"","","","M,TU,W,TH12.10-13",AMS ARR,""
 SHS,201,American Sign Language I,03,13018,4,ARRGT,ARR ARR,""
+SHS,201,American Sign Language I,"","","","","",""
+SHS,201,American Sign Language I,"","","","","",""
+SHS,205,Introduction to Speech-Language Pathology and Audiology,"","","","","",""
 SHS,205,Introduction to Speech-Language Pathology and Audiology,02,12987,3,"TU,TH9.10-10.25",AMS ARR,Carrie Balazs
+SHS,371,Language Development,"","","","","",""
+SHS,371,Language Development,01,12988,3,"TU,TH10.35-11.50",WEB ARR,Elizabeth Wilson-Fowler
+SHS,372,Hearing and Hearing Disorders,"","","","","",""
+SHS,372,Hearing and Hearing Disorders,01,12989,3,"M,W11.10-12.25",WEB ARR,Barbara Peregoy
+SHS,375,Phonetics,"","","","","",""
+SHS,375,Phonetics,01,12990,3,"TU,TH13.10-14.25",WEB ARR,Mark Vandam
+SHS,377,Anatomy and Physiology of the Speech Production,"","","","","",""
+SHS,377,Anatomy and Physiology of the Speech Production,01,12991,3,"M,W,F9.10-10",WEB ARR,David Jenson
+SHS,377,Anatomy and Physiology of the Speech Production,02,12992,3,"M,W,F10.10-11",WEB ARR,David Jenson
+SHS,477,Aural Rehabilitation,"","","","","",""
+SHS,477,Aural Rehabilitation,01,12993,3,"TU,TH14.35-15.50",WEB ARR,Barbara Peregoy
+SHS,479,Neuroanatomy,"","","","","",""
+SHS,479,Neuroanatomy,01,12994,3,"M,W13.10-14.25",WEB ARR,Hedieh Hashemi Hosseinabad
+SHS,479,Neuroanatomy,"","","","","",""
+SHS,482,[M] Assessment of Speech and Language,"","","","","",""
+SHS,482,[M] Assessment of Speech and Language,01,12995,3,"W,F14.35-15.50",WEB ARR,Dana Algeo
+SHS,490,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,490,Special Topics in Speech and Hearing Sciences,01,12996,V,ARRGT,WEB ARR,Melissa Ratsch
+SHS,490,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,490,Special Topics in Speech and Hearing Sciences,02,12997,V,TH10.10-11,WEB ARR,Amy Meredith
+SHS,490,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,490,Special Topics in Speech and Hearing Sciences,03,13019,V,ARRGT,WEB ARR,Mark Vandam
+SHS,490,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,540,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,540,Special Topics in Speech and Hearing Sciences,01,13020,V,TU11.10-12,WEB ARR,Amy Meredith
+SHS,540,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,540,Special Topics in Speech and Hearing Sciences,02,13029,V,W11.10-12,WEB ARR,Amy Meredith
+SHS,540,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,540,Special Topics in Speech and Hearing Sciences,03,13030,V,TU11.10-12,WEB ARR,Jane Pimentel
+SHS,540,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,540,Special Topics in Speech and Hearing Sciences,04,15740,V,W10.10-11,WEB ARR,Jane Pimentel
+SHS,540,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,543,School Age and Adolescent Language,"","","","","",""
+SHS,543,School Age and Adolescent Language,01,13014,3,W9.10-11.50,WEB ARR,Elizabeth Wilson-Fowler
+SHS,543,School Age and Adolescent Language,02,13015,3,TU12.10-14.50,WEB ARR,Elizabeth Wilson-Fowler
+SHS,550,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,550,Special Topics in Speech and Hearing Sciences,01,12984,V,F13.30-15,WEB ARR,""
+SHS,550,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,560,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,560,Special Topics in Speech and Hearing Sciences,01,13016,V,M14.10-15,WEB ARR,Amy Meredith
+SHS,560,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,560,Special Topics in Speech and Hearing Sciences,02,13017,V,TH14.10-15,WEB ARR,Amy Meredith
+SHS,560,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,562,Motor Speech Disorders,"","","","","",""
+SHS,562,Motor Speech Disorders,01,13002,3,"M,W8.10-9.25",WEB ARR,Nancy Potter
+SHS,562,Motor Speech Disorders,02,13003,3,"TU,TH8.10-9.25",WEB ARR,Nancy Potter
+SHS,565,Augmentative Communication,"","","","","",""
+SHS,565,Augmentative Communication,01,13004,3,"M,W12.30-13.45",WEB ARR,Lindsay Williams
+SHS,565,Augmentative Communication,02,13005,3,"TU,TH12.30-13.45",WEB ARR,Lindsay Williams
+SHS,566,Off-Campus Practicum Public School Setting,"","","","","",""
 SHS,566,Off-Campus Practicum Public School Setting,01,13006,V,ARRGT,ARR ARR,Karen Rademaker Simpson
+SHS,568,Off-campus Practicum Clinical Setting,"","","","","",""
 SHS,568,Off-campus Practicum Clinical Setting,01,13007,V,ARRGT,ARR ARR,Karen Rademaker Simpson
+SHS,570,Advanced Internship in Speech-Language Pathology,"","","","","",""
 SHS,570,Advanced Internship in Speech-Language Pathology,01,13025,V,ARRGT,ARR ARR,Karen Rademaker Simpson
+SHS,574,Neuropathologies of Language and Cognition I,"","","","","",""
+SHS,574,Neuropathologies of Language and Cognition I,01,13008,2,"M,W14.10-15",WEB ARR,Jane Pimentel
+SHS,574,Neuropathologies of Language and Cognition I,02,13009,2,"TU,TH9.10-10",WEB ARR,Jane Pimentel
+SHS,575,Advanced Clinical Practice,"","","","","",""
 SHS,575,Advanced Clinical Practice,01,13010,V,ARRGT,ARR ARR,Christiane Dechert
+SHS,576,Voice Disorders,"","","","","",""
+SHS,576,Voice Disorders,01,13033,2,W14.35-16.25,WEB ARR,Hedieh Hashemi Hosseinabad
+SHS,576,Voice Disorders,02,13034,2,TU14.10-16,WEB ARR,Hedieh Hashemi Hosseinabad
+SHS,580,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,580,Special Topics in Speech and Hearing Sciences,01,13031,V,"M,W13.10-14",WEB ARR,Roberta Jackson
+SHS,580,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,580,Special Topics in Speech and Hearing Sciences,02,13032,V,"TU,TH8.10-9",WEB ARR,Roberta Jackson
+SHS,580,Special Topics in Speech and Hearing Sciences,"","","","","",""
+SHS,588,Advanced Speech Sound Disorders,"","","","","",""
+SHS,588,Advanced Speech Sound Disorders,01,13011,2,M10.10-11.50,WEB ARR,Georgina Lynch
+SHS,588,Advanced Speech Sound Disorders,02,13012,2,TH10.10-11.50,WEB ARR,Georgina Lynch
+SHS,600,Special Projects or Independent Study,"","","","","",""
 SHS,600,Special Projects or Independent Study,01,13026,V,ARRGT,ARR ARR,Amy Meredith
+SHS,700,"Master's Research, Thesis, and/or Examination","","","","","",""
 SHS,700,"Master's Research, Thesis, and/or Examination",01,13027,V,ARRGT,ARR ARR,Amy Meredith
+SHS,702,"Master's Special Problems, Directed Study, and/or Examination","","","","","",""
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,13013,V,ARRGT,ARR ARR,(multiple)
+SPEC_ED,"","","","","","","",""
+SPEC_ED,501,Teaching Students with Disabilities,"","","","","",""
 SPEC_ED,501,Teaching Students with Disabilities,02,14533,3,ARRGT,ARR ARR,Amira Albagshi
+SPEC_ED,501,Teaching Students with Disabilities,"","","","","",""
+SPEC_ED,501,Teaching Students with Disabilities,"","","","","",""
+SPEC_ED,509,Early Childhood Special Education,"","","","","",""
 SPEC_ED,509,Early Childhood Special Education,01,14677,3,ARRGT,ARR ARR,Amira Albagshi
+SPEC_ED,509,Early Childhood Special Education,"","","","","",""
+SPEC_ED,509,Early Childhood Special Education,"","","","","",""
+SPEC_ED,520,Teaching in Inclusive Classrooms,"","","","","",""
 SPEC_ED,520,Teaching in Inclusive Classrooms,02,14559,V,M17.10-19,"",""
+SPEC_ED,520,Teaching in Inclusive Classrooms,"","","","","",""
+SPEC_ED,591,Response to Intervention Across the Core Academic Curriculum,"","","","","",""
 SPEC_ED,591,Response to Intervention Across the Core Academic Curriculum,01,14446,3,W17.45-20.30,SAC 43,Michael Dunn
+SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,"","","","","",""
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,14744,1,W16.10-17,SAC 43,Darcy Miller
+TCH_LRN,"","","","","","","",""
+TCH_LRN,415,Student Teaching,"","","","","",""
 TCH_LRN,415,Student Teaching,01,14546,V,ARRGT,ARR ARR,""
+TCH_LRN,415,Student Teaching,"","","","","",""
 TCH_LRN,415,Student Teaching,01 Lab,14547,0,ARRGT,ARR ARR,""
+TCH_LRN,415,Student Teaching,"","","","","",""
+TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,"","","","","",""
 TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,01,14743,3,TU17.45-20.30,SAC 45,Eric Johnson
+TCH_LRN,512,Language and Cultural Factors in Mathematics,"","","","","",""
 TCH_LRN,512,Language and Cultural Factors in Mathematics,01,14449,3,TH16.20-19.05,SAC 205,Molly Kelton
+TCH_LRN,544,Teaching Children's and Young Adult Literature,"","","","","",""
 TCH_LRN,544,Teaching Children's and Young Adult Literature,01,14142,3,W17.15-20,SAC 41,Sarah Newcomer
+TCH_LRN,550,Second Language Learning and Literacy,"","","","","",""
 TCH_LRN,550,Second Language Learning and Literacy,01,14763,3,W13.10-16,SAC 205,Thomas Salsbury
+TCH_LRN,584,Research in Teaching Mathematics and Science,"","","","","",""
 TCH_LRN,584,Research in Teaching Mathematics and Science,01,14450,3,W17.45-20.30,SAC 249,David Slavit
+TCH_LRN,591,Research Internship in Math/Science Education,"","","","","",""
 TCH_LRN,591,Research Internship in Math/Science Education,01,15476,V,ARRGT,ARR ARR,Amy Roth-Mcduffie
+TCH_LRN,600,Special Projects or Independent Study,"","","","","",""
 TCH_LRN,600,Special Projects or Independent Study,01,16472,V,ARRGT,ARR ARR,Ashley Segadelli
+TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination","","","","","",""
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,14186,V,ARRGT,ARR ARR,""
+TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination","","","","","",""

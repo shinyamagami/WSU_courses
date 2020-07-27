@@ -145,7 +145,7 @@ module WSUInPerson
             end
 
 
-            if sched_loc != "WEB ARR" && sec_on == 1
+            #if sched_loc != "WEB ARR" && sec_on == 1
             #if sec_on == 1
               puts course_number + " " + name + " " + sec + " " +
                   classnum + " " + credit + " " + sched_days + " " +
@@ -162,7 +162,7 @@ module WSUInPerson
               instructor = ""
 
               sec_on = 0
-            end
+            #end
             sec_on = 0
           end
 
