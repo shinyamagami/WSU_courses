@@ -102,9 +102,10 @@ module WSUInPerson
           trs = doc.css('.class_schedule').css('tr')
           trs.each do |tr|
 
-
+            # this part need to be updated often
             if tr.css('td').text.strip.start_with?(prefix)  
               temp_name = tr.css('td').text.strip.split(' ').drop(1).join(' ')
+              #puts temp_name
               course_number = temp_name.split.first
               name = temp_name.split(' ').drop(1).join(' ')
             end
@@ -146,7 +147,7 @@ module WSUInPerson
 
 
             #if sched_loc != "WEB ARR" && sec_on == 1
-            #if sec_on == 1
+            if sec_on == 1
               puts course_number + " " + name + " " + sec + " " +
                   classnum + " " + credit + " " + sched_days + " " +
                   sched_loc + " " + instructor
@@ -162,7 +163,7 @@ module WSUInPerson
               instructor = ""
 
               sec_on = 0
-            #end
+            end
             sec_on = 0
           end
 
