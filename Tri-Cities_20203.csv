@@ -141,6 +141,7 @@ CPT_S,499,Special Problems,01,01309,V,ARRGT,ARR ARR,(multiple)
 CPT_S,527,Computer Security,01,01519,3,"M,W,F12.10-13",WEB ARR,Ananth Jillepalli
 CPT_S,540,Artificial Intelligence,01,01304,3,"TU,TH9.10-10.25",WEB ARR,Lawrence Holder
 CPT_S,553,Graph Theory,01,01718,3,"M,W,F14.10-15",WEB ARR,Matthew Hudelson
+CPT_S,570,Machine Learning,01,17496,3,"TU,TH7.45-9",WEB ARR,Venkata Janardhan Rao Doppa
 CPT_S,582,Software Testing,01,02004,3,ARRGT,ARR ARR,Venera Arnaoudova
 CPT_S,600,Special Projects or Independent Study,01,01311,V,ARRGT,ARR ARR,(multiple)
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,01312,V,ARRGT,ARR ARR,(multiple)
@@ -1057,7 +1058,7 @@ PSYCH,311,[QUAN] Statistics in Psychology,01,01423,4,"M,W,F9.10-10",WEB ARR,Jane
 PSYCH,311,[QUAN] Statistics in Psychology,"","","",W12.10-13,WEB ARR,""
 PSYCH,312,[M] Research Methods in Psychology,01,01424,4,"M,W,F10.10-11",WEB ARR,Janet Peters
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,01425,0,"M,W,F11.10-12",WEB ARR,Janet Peters
-PSYCH,350,Social Psychology,02,02042,3,"TU,TH14.55-16.10",WEB ARR,Sarah Tragesser
+PSYCH,350,Social Psychology,02,02042,3,TU14.55-16.10,WEB ARR,Sarah Tragesser
 PSYCH,361,Developmental Psychology,01,01366,3,"TU,TH13.30-14.45",WEB ARR,Paul Strand
 PSYCH,372,[BSCI] Biological Basis of Behavior,01,01369,3,"M,W,F14.10-15",WEB ARR,Allison Matthews
 PSYCH,401,[CAPS] [M] Historical Development of Psychology,02,13134,3,"TU,TH10.35-11.50",WEB ARR,Allison Matthews
@@ -1071,7 +1072,7 @@ PSYCH,499,Special Problems,01,01474,V,ARRGT,ARR ARR,(multiple)
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01,01475,4,M18-20.50,WEB ARR,Geoff Schramm
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01 Lab,02117,0,W18-20.50,WEB ARR,Geoff Schramm
 SOC,101,[SSCI] Introduction to Sociology,01,01492,3,"TU,TH13.30-14.45",WEB ARR,""
-SOC,350,Social Psychology,01,02067,3,"TU,TH14.55-16.10",WEB ARR,Sarah Tragesser
+SOC,350,Social Psychology,01,02067,3,TU14.55-16.10,WEB ARR,Sarah Tragesser
 SOE,101,[PSCI] Introduction to Geology,01,01484,4,"TU,TH12.05-13.20",WEB ARR,Jodi Rosso
 SOE,101,[PSCI] Introduction to Geology,01 Lab,01485,0,TU15.10-18,WEB ARR,Jodi Rosso
 SOE,101,[PSCI] Introduction to Geology,02 Lab,01486,0,W14.40-17.30,WEB ARR,Jodi Rosso

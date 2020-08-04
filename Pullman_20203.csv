@@ -247,7 +247,7 @@ ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,07191,0,M13.10-15
 ANTH,260,[BSCI] Introduction to Biological Anthropology,02 Lab,07192,0,W13.10-15.40,WEB ARR,Nanda Grow
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,09293,3,"TU,TH9.10-10.25",WEB ARR,Caroline Smith
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",03,08500,3,ARRGT,ARR ARR,Michael Gaffney
-ANTH,300,Field Methods,01,07815,V,ARRGT,ARR ARR,Joelle Berg
+ANTH,300,Field Methods,01,07815,V,"M,W14.10-15",WEB ARR,Joelle Berg
 ANTH,300,Field Methods,02,07821,V,ARRGT,ARR ARR,""
 ANTH,302,[SSCI] Childhood and Culture,01,07194,3,ARRGT,ARR ARR,Cynthia Heckelsmiller
 ANTH,316,[DIVR] Gender in Cross Cultural Perspective,01,07195,3,"M,W,F10.10-11",WEB ARR,Matthew Newsom
@@ -333,8 +333,8 @@ ATH_T,490,Athletic Training Instructional Practicum,03,12060,V,ARRGT,ARR ARR,Sco
 ATH_T,499,Special Problems,01,09782,V,ARRGT,ARR ARR,Kasee Hildenbrand
 ATH_T,499,Special Problems,02,09783,V,ARRGT,ARR ARR,Katharine Pietz
 ATH_T,499,Special Problems,03,09878,V,ARRGT,ARR ARR,Scott Landis
-ATH_T,530,Evaluation of Lower Extremity Injuries in Athletic Training,01,12054,3,"TU,TH9.10-10.25",WEB ARR,Katharine Pietz
-ATH_T,535,Therapeutic Modalities in Athletic Training,01,12055,3,"M,W,F11.10-12",WEB ARR,Scott Landis
+ATH_T,530,Evaluation of Lower Extremity Injuries in Athletic Training,01,12054,3,"TU,TH9.10-10.25",CUE 114,Katharine Pietz
+ATH_T,535,Therapeutic Modalities in Athletic Training,01,12055,3,"M,W,F11.10-12",CUE 114,Scott Landis
 ATH_T,591,Athletic Training Clinical Internship I,01,09781,2,ARRGT,ARR ARR,Katharine Pietz
 ATH_T,591,Athletic Training Clinical Internship I,02,17429,2,ARRGT,ARR ARR,Katharine Pietz
 ATH_T,592,Athletic Training Clinical Internship II,01,12057,3,ARRGT,ARR ARR,Katharine Pietz
@@ -577,7 +577,7 @@ BIOLOGY,438,[M] Animal Behavior,01 Lab,07345,0,TH13.30-16.20,WEB ARR,Daniela Mon
 BIOLOGY,438,[M] Animal Behavior,02 Lab,07346,0,F12.10-15,WEB ARR,Daniela Monk
 BIOLOGY,473,[CAPS] [M] Evolution and Society,01,09853,3,"M,W,F15.10-16",WEB ARR,Mark Dybdahl
 BIOLOGY,489,[CAPS] [M] Synthesis and Communication of Independent Research,01,15735,3,ARRGT,ARR ARR,Erica Crespi
-BIOLOGY,490,[M] Professional Seminar in Physical Therapy,01,07347,2,TU17.45-19.45,WEB ARR,Lenora Waelti
+BIOLOGY,490,[M] Professional Seminar in Physical Therapy,01,07347,2,TU17.45-19.45,ARR ARR,Lenora Waelti
 BIOLOGY,490,[M] Professional Seminar in Physical Therapy,01 Lab,07348,0,ARRGT,ARR ARR,Lenora Waelti
 BIOLOGY,495,"Internship in Biology, Botany, and Zoology",01,07350,V,ARRGT,ARR ARR,(multiple)
 BIOLOGY,496,[M] Special Problems and Reports,01,08052,V,ARRGT,ARR ARR,(multiple)
@@ -727,9 +727,9 @@ CHE,211,Process Simulation,01,08983,3,"M,W,F12.10-13",WEB ARR,Peter Pfromm
 CHE,301,Chemical Engineering Thermodynamics,01,04652,3,"M,W,F14.10-15",WEB ARR,Jean-Sabin Mcewen
 CHE,310,Introduction to Transport Processes,02,15628,3,"M,W,F15.10-16",WEB ARR,David Thiessen
 CHE,352,Chemical Process Safety,01,10147,3,"M,W,F11.10-12",WEB ARR,Steven Saunders
-CHE,432,[M] Chemical Engineering Lab I,01,04461,3,TU13.30-14.20,WEB ARR,David Thiessen
-CHE,432,[M] Chemical Engineering Lab I,01 Lab,04462,0,"TU,TH9.10-12",WEB ARR,David Thiessen
-CHE,432,[M] Chemical Engineering Lab I,02 Lab,04463,0,"TU,TH14.25-17.15",WEB ARR,David Thiessen
+CHE,432,[M] Chemical Engineering Lab I,01,04461,3,TU13.30-14.20,CUE 114,David Thiessen
+CHE,432,[M] Chemical Engineering Lab I,01 Lab,04462,0,"TU,TH9.10-12",CUE 119,David Thiessen
+CHE,432,[M] Chemical Engineering Lab I,02 Lab,04463,0,"TU,TH14.25-17.15",CUE 119,David Thiessen
 CHE,441,Process Control,01,04653,3,"M,W,F9.10-10",WEB ARR,Steven Saunders
 CHE,450,Chemical Process Analysis and Design I,01,04654,3,"M,W,F8.10-9",WEB ARR,Marc Levin
 CHE,461,Introduction to Nuclear Engineering,01,05187,3,"TU,TH16.20-17.35",WEB ARR,Richard Stout
@@ -1190,11 +1190,10 @@ COMSTRAT,381,[M] Creative Media Strategies and Techniques for Advertising,02,058
 COMSTRAT,381,[M] Creative Media Strategies and Techniques for Advertising,03,08874,3,"TU,TH9.10-10.25",WEB ARR,Daniel Petek
 COMSTRAT,382,Media Planning,01,05883,3,"TU,TH7.45-9",WEB ARR,Justin Barnes
 COMSTRAT,382,Media Planning,02,07602,3,"TU,TH12.05-13.20",WEB ARR,Justin Barnes
-COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,02,05885,3,"M,W,F9.10-10",WEB ARR,Margaret Ritsch
-COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,03,05886,3,"M,W,F11.10-12",WEB ARR,Rebecca Cooney
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,06,17451,3,ARRGT,ARR ARR,Margaret Ritsch
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,07,17452,3,ARRGT,ARR ARR,Margaret Ritsch
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,08,17453,3,ARRGT,ARR ARR,Rebecca Cooney
+COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,09,17487,3,ARRGT,ARR ARR,Thor Tolo
 COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,15272,3,"TU,TH14.55-16.10",WEB ARR,Chelsea Newman
 COMSTRAT,476,Consumer Insights and Branding,02,10013,3,ARRGT,ARR ARR,Michelle Kistler
 COMSTRAT,480,[M] Advertising Agency Operation and Campaigns,01,12043,3,"TU,TH10.35-11.50",WEB ARR,Justin Barnes
@@ -1588,7 +1587,7 @@ ECONS,311,[M] Introductory Econometrics,01,04687,3,"TU,TH9.10-10",WEB ARR,Wesley
 ECONS,311,[M] Introductory Econometrics,"","","",TH13.30-14.45,WEB ARR,""
 ECONS,311,[M] Introductory Econometrics,02,04688,3,"TU,TH9.10-10",WEB ARR,Wesley Blundell
 ECONS,311,[M] Introductory Econometrics,"","","",TH14.55-16.10,WEB ARR,""
-ECONS,311,[M] Introductory Econometrics,03,09308,3,ARRGT,ARR ARR,""
+ECONS,311,[M] Introductory Econometrics,03,09308,3,ARRGT,ARR ARR,Carly Dollin
 ECONS,320,Money and Banking,01,04689,3,"TU,TH10.35-11.50",WEB ARR,Michael Mahoney
 ECONS,320,Money and Banking,02,08795,3,ARRGT,ARR ARR,Christopher Ambrose
 ECONS,321,Economics of Sports in America,01,08796,3,ARRGT,ARR ARR,Jugal Marfatia
@@ -2304,7 +2303,7 @@ GERMAN,205,Intermediate Conversation I,01,04667,1,M16.10-17,WEB ARR,Karen Jennin
 GERMAN,307,Intermediate Speaking and Listening,01,07857,3,"M,W,F13.10-14",WEB ARR,Joshua Bonzo
 GERMAN,420,[CAPS] Socio-Cultural History of the German Language,01,11961,3,"M,W,F12.10-13",WEB ARR,Joshua Bonzo
 GERMAN,499,Special Problems,01,04668,V,ARRGT,ARR ARR,(multiple)
-GLANHLTH,563,Deconstruction of Research,01,08516,3,"TU,TH9.10-10.25",WEB ARR,""
+GLANHLTH,563,Deconstruction of Research,01,08516,3,"TU,TH9.10-10.25",WEB ARR,Steve Simasko
 GLANHLTH,564,Topics in Biomedical Experimentation,01,11867,V,"TU,TH9.10-10.25",WEB ARR,Erika Offerdahl
 H_D,101,[SSCI] Human Development Across the Lifespan,01,05119,3,"M,W,F9.10-10",WEB ARR,Alana Anderson
 H_D,101,[SSCI] Human Development Across the Lifespan,02,05120,3,"TU,TH10.35-11.50",WEB ARR,Alana Anderson
@@ -2850,7 +2849,6 @@ KINES,490,Instructional Practicum,06,07040,V,ARRGT,ARR ARR,Kimberly Holmstrom
 KINES,490,Instructional Practicum,07,07041,V,ARRGT,ARR ARR,Shikha Prashad
 KINES,490,Instructional Practicum,09,07043,V,ARRGT,ARR ARR,Robert Catena
 KINES,490,Instructional Practicum,13,07047,V,ARRGT,ARR ARR,Christopher Connolly
-KINES,493,Athletic Training Clinical Internship III,01,07048,2,W8.10-9,WEB ARR,Katharine Pietz
 KINES,493,Athletic Training Clinical Internship III,02,17428,2,W8.10-9,WEB ARR,Katharine Pietz
 KINES,496,Special Topics,01,07541,V,M12.10-13,WEB ARR,Shelby Mckay
 KINES,496,Special Topics,02,07542,V,M13.10-14,WEB ARR,Shelby Mckay
@@ -2933,7 +2931,6 @@ MATH,105,[QUAN] Exploring Mathematics,07,03691,3,"TU,TH9.10-10.25",WEB ARR,Sahar
 MATH,106,College Algebra,01,03578,3,"M,W,F9.10-10",WEB ARR,Mindy Morgan
 MATH,106,College Algebra,02,03692,3,"M,W,F11.10-12",WEB ARR,Lydia Oliver
 MATH,106,College Algebra,03,03579,3,"M,W,F12.10-13",WEB ARR,Nicole Griggs
-MATH,106,College Algebra,04,03673,3,"M,W,F14.10-15",WEB ARR,Rachel Perrier
 MATH,106,College Algebra,05,03693,3,"M,W,F13.10-14",WEB ARR,Mindy Morgan
 MATH,106,College Algebra,06,12739,3,"M,W,F10.10-11",WEB ARR,Mindy Morgan
 MATH,106,College Algebra,08,03580,3,"M,TU,W,TH,F8.10-9",WEB ARR,Christina Jacobs
@@ -3011,7 +3008,7 @@ MATH,216,Discrete Structures,03,03661,3,"M,W,F8.10-9",WEB ARR,David Hampson
 MATH,220,Introductory Linear Algebra,01,03606,2,"TU,TH10.35-11.25",WEB ARR,Hong-Ming Yin
 MATH,220,Introductory Linear Algebra,02,03607,2,"TU,TH13.30-14.20",WEB ARR,Lewa' Alzaleq
 MATH,220,Introductory Linear Algebra,03,03608,2,"TU,TH12.05-12.55",WEB ARR,Daniel Reiss
-MATH,220,Introductory Linear Algebra,04,03609,2,"TU,TH9.10-10",WEB ARR,Jesus Lopez
+MATH,220,Introductory Linear Algebra,04,03609,2,"TU,TH9.10-10",WEB ARR,Thomas Asaki
 MATH,251,Fundamentals of Elementary Mathematics I,01,03610,3,"TU,TH9.10-10.50",WEB ARR,Jeanette Martin
 MATH,251,Fundamentals of Elementary Mathematics I,02,03611,3,"TU,TH11.10-12.50",WEB ARR,Susan Harrington
 MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,03612,0,ARRGT,ARR ARR,""
@@ -3163,7 +3160,7 @@ MBIOS,513,General Biochemistry,02,04570,3,ARRGT,ARR ARR,Ronald Brosemer
 MBIOS,540,Immunology,01,06853,3,"M,W,F10.10-11",WEB ARR,Philip Mixter
 MBIOS,548,Selected Topics in Immunology & Virology,01,06864,1,M16.10-17,WEB ARR,Philip Mixter
 MBIOS,548,Selected Topics in Immunology & Virology,02,09244,1,ARRGT,ARR ARR,Santanu Bose
-MBIOS,563,Deconstruction of Research,01,08517,3,"TU,TH9.10-10.25",WEB ARR,""
+MBIOS,563,Deconstruction of Research,01,08517,3,"TU,TH9.10-10.25",WEB ARR,Steve Simasko
 MBIOS,564,Topics in Biomedical Experimentation,01,11868,V,"TU,TH9.10-10.25",WEB ARR,Erika Offerdahl
 MBIOS,564,Topics in Biomedical Experimentation,02,16045,V,"TU,TH9.10-10.25",WEB ARR,Ryan Driskell
 MBIOS,578,Bioinformatics,01,04621,3,"TU,TH16.20-17.10",WEB ARR,John Wyrick
@@ -3247,7 +3244,7 @@ ME,475,Manufacturing Enterprise Systems -- Automation and Product Realization,03
 ME,481,Control Systems,01,12045,3,"M,W,F14.10-15",WEB ARR,Konstantin Matveev
 ME,483,Topics in Mechanical Engineering,01,16033,3,"M,W,F14.10-15",WEB ARR,Indranath Dutta
 ME,488,Professional Practice Coop/Internship I,01,08034,V,ARRGT,ARR ARR,Sandra Brabb
-ME,499,Special Problems,01,05190,V,ARRGT,ARR ARR,""
+ME,499,Special Problems,01,05190,V,ARRGT,ARR ARR,(multiple)
 ME,501,Continuum Mechanics,01,12044,3,"TU,TH9.10-10.25",WEB ARR,Jow-Lian Ding
 ME,521,Fundamentals of Fluids I,01,08968,3,"M,W,F9.10-10",WEB ARR,Prashanta Dutta
 ME,579,Advanced Topics in Mechanical Engineering,01,08607,V,"M,W,F14.10-15",WEB ARR,John Swensen
@@ -3278,7 +3275,7 @@ MGMT,498,Internship,01,05824,V,ARRGT,ARR ARR,""
 MGMT,499,Special Problems,01,07972,V,ARRGT,ARR ARR,""
 MGMT,584,Seminar in Entrepreneurship,01,08145,3,ARRGT,ARR ARR,Arrvvind Sahaym
 MGMT,600,Special Projects or Independent Study,01,05825,V,ARRGT,ARR ARR,""
-MGMT,800,"Doctoral Research, Dissertation, and/or Examination",01,05826,V,ARRGT,ARR ARR,Kenneth Butterfield
+MGMT,800,"Doctoral Research, Dissertation, and/or Examination",01,05826,V,ARRGT,ARR ARR,Arrvvind Sahaym
 MGTOP,215,Business Statistics,01,05448,4,"M,W,F9.10-10",WEB ARR,Stergios Fotopoulos
 MGTOP,215,Business Statistics,02,05449,4,"M,W,F10.10-11",WEB ARR,Stergios Fotopoulos
 MGTOP,215,Business Statistics,03,05450,4,"TU,TH10.35-11.50",WEB ARR,""
@@ -3291,8 +3288,8 @@ MGTOP,215,Business Statistics,06 Lab,05456,0,TH19-20.50,WEB ARR,""
 MGTOP,215,Business Statistics,07 Lab,05457,0,W15.10-17,WEB ARR,""
 MGTOP,215,Business Statistics,08 Lab,05458,0,TH17-18.50,WEB ARR,""
 MGTOP,215,Business Statistics,09 Lab,05459,0,W19-20.50,WEB ARR,""
-MGTOP,340,Operations Management,01,05460,3,"TU,TH10.35-11.50",WEB ARR,Yixuan Xiao
-MGTOP,340,Operations Management,02,05461,3,"TU,TH14.55-16.10",WEB ARR,Charles Munson
+MGTOP,340,Operations Management,01,05460,3,"TU,TH10.35-11.50",WEB ARR,Charles Munson
+MGTOP,340,Operations Management,02,05461,3,"TU,TH14.55-16.10",WEB ARR,""
 MGTOP,340,Operations Management,03,05462,3,"M,W,F9.10-10",WEB ARR,Xinchang Wang
 MGTOP,340,Operations Management,04,05463,3,"M,W,F11.10-12",WEB ARR,Xinchang Wang
 MGTOP,470,Business Modeling with Spreadsheets,01,05464,3,"TU,TH9.10-10.25",WEB ARR,Charles Munson
@@ -3394,7 +3391,6 @@ MUS,153,[ARTS] Musical Style in Composition,01,04441,3,"M,W,F9.10-10",WEB ARR,De
 MUS,153,[ARTS] Musical Style in Composition,02,04442,3,"TU,TH14.55-16.10",WEB ARR,Denise Snider
 MUS,160,[ARTS] Survey of Music Literature,01,05965,3,ARRGT,ARR ARR,Keri Mccarthy
 MUS,160,[ARTS] Survey of Music Literature,02,05966,3,"M,W,F10.10-11",WEB ARR,Denise Snider
-MUS,163,[ARTS] World Music,01,05967,3,"M,W,F13.10-14",WEB ARR,Melissa Parkhurst
 MUS,163,[ARTS] World Music,02,16794,3,ARRGT,ARR ARR,Melissa Parkhurst
 MUS,164,Introduction to Music Technology,01,05968,1,TU10.10-11,WEB ARR,Scott Blasco
 MUS,181,Class Piano I,01,05969,1,"M,W,F12.10-13",WEB ARR,Fabio Menchetti
@@ -3438,9 +3434,9 @@ MUS,266,[ARTS] Film Music,01,08572,3,"M,W,F14.10-15",WEB ARR,Albert Miller
 MUS,266,[ARTS] Film Music,02,14928,3,ARRGT,ARR ARR,Christopher Dickey
 MUS,281,Class Piano III,01,05996,1,"M,W,F11.10-12",WEB ARR,Fabio Menchetti
 MUS,282,Class Piano IV,01,09432,1,ARRGT,ARR ARR,Yoon-Wha Roh
-MUS,302,Piano,01,09613,V,TU11-11.50,WEB ARR,Yoon-Wha Roh
-MUS,302,Piano,02,08687,V,TU11-11.50,WEB ARR,Jacob Svendsen
-MUS,302,Piano,03,09612,V,TU11-11.50,WEB ARR,Fabio Menchetti
+MUS,302,Piano,01,09613,V,TU11-11.50,ARR ARR,Yoon-Wha Roh
+MUS,302,Piano,02,08687,V,TU11-11.50,ARR ARR,Jacob Svendsen
+MUS,302,Piano,03,09612,V,TU11-11.50,ARR ARR,Fabio Menchetti
 MUS,303,Voice,01,09614,V,TU11-11.50,WEB ARR,Julie Wieck
 MUS,303,Voice,02,08688,V,TU11-11.50,WEB ARR,Aaron Agulay
 MUS,304,Horn,01,05998,V,TU11-11.50,WEB ARR,Martin King
@@ -3481,10 +3477,10 @@ MUS,362,[DIVR] History of Jazz,05,17022,3,ARRGT,ARR ARR,Sarah Miller
 MUS,363,[DIVR] Women in Music,01,06020,3,"M,W,F15.10-16",WEB ARR,Melissa Parkhurst
 MUS,363,[DIVR] Women in Music,02,08659,3,ARRGT,ARR ARR,Sophia Tegart
 MUS,364,Audio Engineering I,01,09089,3,SA9.30-12,WEB ARR,David Bjur
-MUS,402,Piano,01,09617,V,TU11-11.50,WEB ARR,Yoon-Wha Roh
-MUS,402,Piano,02,08691,V,TU11-11.50,WEB ARR,Fabio Menchetti
-MUS,403,Voice,02,08692,V,TU11-11.50,WEB ARR,Julie Wieck
-MUS,403,Voice,03,16056,V,TU11-11.50,WEB ARR,Aaron Agulay
+MUS,402,Piano,01,09617,V,TU11-11.50,ARR ARR,Yoon-Wha Roh
+MUS,402,Piano,02,08691,V,TU11-11.50,ARR ARR,Fabio Menchetti
+MUS,403,Voice,02,08692,V,TU11-11.50,ARR ARR,Julie Wieck
+MUS,403,Voice,03,16056,V,TU11-11.50,ARR ARR,Aaron Agulay
 MUS,404,Horn,01,06023,V,TU11-11.50,WEB ARR,Martin King
 MUS,405,Trumpet,01,06024,V,TU11-11.50,WEB ARR,David Turnbull
 MUS,406,Trombone,01,06025,V,TU11-11.50,WEB ARR,Sarah Miller
@@ -3502,7 +3498,7 @@ MUS,416,Clarinet,01,06034,V,TU11-11.50,WEB ARR,Shannon Scott
 MUS,417,Bassoon,01,06035,V,TU11-11.50,WEB ARR,Jacqueline Wilson
 MUS,418,Saxophone,01,08675,V,TU11-11.50,WEB ARR,Horace Young
 MUS,420,Guitar,01,08676,V,TU11-11.50,WEB ARR,Gabriel Condon
-MUS,428,[ARTS] Opera Workshop,01,09843,1,"M,W15.10-17",WEB ARR,Julie Wieck
+MUS,428,[ARTS] Opera Workshop,01,09843,1,"M,W15.10-17",ARR ARR,Julie Wieck
 MUS,431,[ARTS] Concert Choir,01,06036,1,"M,TU,W,TH14.10-15",WEB ARR,Dean Luethi
 MUS,432,[ARTS] University Singers,01,15957,1,"M,W,F13.10-14",WEB ARR,Dean Luethi
 MUS,434,[ARTS] Symphony Orchestra,01,06040,1,"TU,TH15.10-17",WEB ARR,Danh Pham
@@ -3539,7 +3535,6 @@ MUS,465,Seminar in Major Performance Literature,10,09658,2,ARRGT,ARR ARR,Sarah M
 MUS,465,Seminar in Major Performance Literature,11,09659,2,ARRGT,ARR ARR,Shannon Scott
 MUS,465,Seminar in Major Performance Literature,12,09660,2,ARRGT,ARR ARR,Sophia Tegart
 MUS,465,Seminar in Major Performance Literature,13,15423,2,ARRGT,ARR ARR,Martin King
-MUS,470,Marketing and Promotion for the Performing Arts,01,16471,2,ARRGT,ARR ARR,Horace Young
 MUS,482,Instrumental Conducting,01,06060,1,"M,W,F11.10-12",WEB ARR,Danh Pham
 MUS,484,Woodwind Techniques I,01,09090,1,"TU,TH8.10-9",WEB ARR,Martin King
 MUS,486,String Techniques I,01,09091,1,"TU,TH10-10.50",WEB ARR,Meredith Arksey
@@ -3547,14 +3542,14 @@ MUS,488,Choral Methods and Materials I,01,09082,2,"M,W8.10-9",WEB ARR,Dean Lueth
 MUS,491,Voice Pedagogy,01,06061,2,"M,W,F11.10-12",WEB ARR,Aaron Agulay
 MUS,491,Voice Pedagogy,01 Lab,06063,0,ARRGT,ARR ARR,Aaron Agulay
 MUS,496,Topics in Music,01,06065,V,TU17-18.15,WEB ARR,Martin King
-MUS,496,Topics in Music,02,16061,V,ARRGT,ARR ARR,Gabriel Condon
+MUS,496,Topics in Music,02,16061,V,ARRGT,ARR ARR,Horace Young
 MUS,497,Directed Student Teaching in Music,01,06066,V,ARRGT,ARR ARR,Martin King
 MUS,498,Piano Pedagogy Practicum,01,06067,2,ARRGT,ARR ARR,Fabio Menchetti
 MUS,499,Special Problems,01,06068,V,ARRGT,ARR ARR,Christopher Dickey
 MUS,499,Special Problems,02,09661,V,ARRGT,ARR ARR,Sophia Tegart
 MUS,499,Special Problems,03,15424,V,ARRGT,ARR ARR,Martin King
-MUS,502,Piano,01,08680,V,TU11-11.50,WEB ARR,Fabio Menchetti
-MUS,502,Piano,02,09619,V,TU11-11.50,WEB ARR,Yoon-Wha Roh
+MUS,502,Piano,01,08680,V,TU11-11.50,ARR ARR,Fabio Menchetti
+MUS,502,Piano,02,09619,V,TU11-11.50,ARR ARR,Yoon-Wha Roh
 MUS,503,Voice,01,08681,V,TU11-11.50,WEB ARR,Julie Wieck
 MUS,503,Voice,02,16057,V,TU11-11.50,WEB ARR,Aaron Agulay
 MUS,504,Horn,01,06070,V,TU11-11.50,WEB ARR,Martin King
@@ -3572,7 +3567,7 @@ MUS,516,Clarinet,01,06082,V,TU11-11.50,WEB ARR,Shannon Scott
 MUS,517,Bassoon,01,06083,V,TU11-11.50,WEB ARR,Jacqueline Wilson
 MUS,519,Secondary Performance Study,01,06084,V,ARRGT,ARR ARR,Christopher Dickey
 MUS,522,Graduate Recital,01,06085,2,ARRGT,ARR ARR,Shannon Scott
-MUS,528,[ARTS] Opera Workshop,01,09844,1,"M,W15.10-17",WEB ARR,Julie Wieck
+MUS,528,[ARTS] Opera Workshop,01,09844,1,"M,W15.10-17",ARR ARR,Julie Wieck
 MUS,531,[ARTS] Concert Choir,01,06037,1,"M,TU,W,TH14.10-15",WEB ARR,Dean Luethi
 MUS,534,[ARTS] Symphony Orchestra,01,06041,1,"TU,TH15.10-17",WEB ARR,Danh Pham
 MUS,535,Chamber Ensembles,01,06043,1,ARRGT,ARR ARR,Christopher Dickey
@@ -3626,7 +3621,7 @@ NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,01,07578,V,"M,W10.
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,WEB ARR,""
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,02,07887,V,"M,W10.10-11",WEB ARR,Steve Simasko
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,WEB ARR,""
-NEUROSCI,563,Deconstruction of Research,01,08357,3,"TU,TH9.10-10.25",WEB ARR,""
+NEUROSCI,563,Deconstruction of Research,01,08357,3,"TU,TH9.10-10.25",WEB ARR,Steve Simasko
 NEUROSCI,564,Topics in Biomedical Experimentation,01,09940,V,"TU,TH9.10-10.25",WEB ARR,Erika Offerdahl
 NEUROSCI,590,Seminar,01,04904,1,F12.10-13.30,WEB ARR,Suzanne Wayman
 NEUROSCI,592,Research Writing and Seminar,01,07900,2,TU15.30-17.30,WEB ARR,Murali Chandra
@@ -3735,10 +3730,10 @@ PHYSICS,566,Biological Physics,01,03839,3,"M,W,F16.10-17",WEB ARR,Frederick Gitt
 PHYSICS,571,Methods of Theoretical Physics,01,03845,3,"M,W,F9.10-10",WEB ARR,Nicholas Cerruti
 PHYSICS,581,Advanced Topics in Physics,02,03862,3,"M,W,F12.10-13",WEB ARR,Matthew Duez
 PHYSICS,590,Seminar,01,03846,1,TH16.10-17,WEB ARR,Guy Worthey
-PHYSICS,600,Special Projects or Independent Study,01,03848,V,ARRGT,ARR ARR,""
-PHYSICS,700,"Master's Research, Thesis, and/or Examination",01,03851,V,ARRGT,ARR ARR,""
-PHYSICS,702,"Master's Special Problems, Directed Study and/or Examination",01,03849,V,ARRGT,ARR ARR,""
-PHYSICS,800,"Doctoral Research, Dissertation, and/or Examination",01,03850,V,ARRGT,ARR ARR,""
+PHYSICS,600,Special Projects or Independent Study,01,03848,V,ARRGT,ARR ARR,Brian Collins
+PHYSICS,700,"Master's Research, Thesis, and/or Examination",01,03851,V,ARRGT,ARR ARR,(multiple)
+PHYSICS,702,"Master's Special Problems, Directed Study and/or Examination",01,03849,V,ARRGT,ARR ARR,(multiple)
+PHYSICS,800,"Doctoral Research, Dissertation, and/or Examination",01,03850,V,ARRGT,ARR ARR,(multiple)
 PL_P,300,Diseases of Fruit Crops,01,07965,2,"TU,TH9.10-10",WEB ARR,Naidu Rayapati
 PL_P,300,Diseases of Fruit Crops,02,08022,2,"TU,TH9.10-10",WEB ARR,Naidu Rayapati
 PL_P,300,Diseases of Fruit Crops,03,08026,2,"TU,TH9.10-10",WEB ARR,Naidu Rayapati
@@ -3858,6 +3853,7 @@ PSYCH,105,[SSCI] Introductory Psychology,07,03931,3,"TU,TH9.10-10.25",WEB ARR,""
 PSYCH,105,[SSCI] Introductory Psychology,08,03932,3,"TU,TH10.35-11.50",WEB ARR,""
 PSYCH,105,[SSCI] Introductory Psychology,09,03933,3,"TU,TH12.05-13.20",WEB ARR,""
 PSYCH,105,[SSCI] Introductory Psychology,10,03934,3,"TU,TH13.30-14.45",WEB ARR,""
+PSYCH,105,[SSCI] Introductory Psychology,12,04091,3,ARRGT,ARR ARR,Kyle Schofield
 PSYCH,201,Degrees and Careers in Psychology,01,04129,1,M10.10-11,WEB ARR,Blythe Duell
 PSYCH,201,Degrees and Careers in Psychology,02,04130,1,W10.10-11,WEB ARR,Blythe Duell
 PSYCH,201,Degrees and Careers in Psychology,03,04131,1,F10.10-11,WEB ARR,Blythe Duell
@@ -4369,7 +4365,7 @@ STAT,212,[QUAN] Introduction to Statistical Methods,17 Lab,04179,0,M10.10-12,WEB
 STAT,212,[QUAN] Introduction to Statistical Methods,18 Lab,04180,0,F10.10-12,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,19 Lab,04182,0,M18.10-20,WEB ARR,""
 STAT,360,Probability and Statistics,01,04152,3,"M,W,F11.10-12",WEB ARR,Debasmita Das
-STAT,360,Probability and Statistics,02,04153,3,"TU,TH13.30-14.45",WEB ARR,Xiaoming Wen
+STAT,360,Probability and Statistics,02,04153,3,"TU,TH13.30-14.45",WEB ARR,Haijun Li
 STAT,360,Probability and Statistics,03,04214,3,"TU,TH10.35-11.50",WEB ARR,Haijun Li
 STAT,370,Introductory Statistics for Engineers,01,04154,3,"TU,TH9.10-10.25",WEB ARR,Dylan Hull-Nye
 STAT,370,Introductory Statistics for Engineers,02,04192,3,"M,W,F9.10-10",WEB ARR,Sepideh Nesaei
@@ -4551,7 +4547,7 @@ VET_CLIN,587,Hospital Rotation,01,06498,3,ARRGT,ARR ARR,(multiple)
 VET_CLIN,589,Advanced Clinical Veterinary Medicine,01,06499,V,ARRGT,ARR ARR,Lais Malavasi
 VET_CLIN,589,Advanced Clinical Veterinary Medicine,02,07608,V,ARRGT,ARR ARR,Ahmed Tibary
 VET_CLIN,589,Advanced Clinical Veterinary Medicine,04,07879,V,ARRGT,ARR ARR,Steven Martinez
-VET_CLIN,589,Advanced Clinical Veterinary Medicine,05,10022,V,ARRGT,ARR ARR,""
+VET_CLIN,589,Advanced Clinical Veterinary Medicine,05,10022,V,ARRGT,ARR ARR,Marco Lopes
 VET_CLIN,590,Special Topics in Equine Medicine,01,06500,1,ARRGT,ARR ARR,Macarena Sanz
 VET_CLIN,591,Advanced Clinical Diagnosis,01,06501,V,ARRGT,ARR ARR,Steven Martinez
 VET_CLIN,591,Advanced Clinical Diagnosis,02,06502,V,ARRGT,ARR ARR,Gregory Roberts
@@ -4562,90 +4558,90 @@ VET_CLIN,598,Surgery Residents Seminar,01,06506,1,ARRGT,ARR ARR,Bonnie Campbell
 VET_CLIN,600,Special Projects or Independent Study,01,06507,V,ARRGT,ARR ARR,Julie Cary
 VET_CLIN,700,"Master's Research, Thesis, and/or Examination",01,06508,V,ARRGT,ARR ARR,(multiple)
 VET_CLIN,800,"Doctoral Research, Dissertation, and/or Examination",01,06510,V,ARRGT,ARR ARR,(multiple)
-VET_MED,350,Skeletal Preparation,01,04908,1,F13.10-17,WEB ARR,Darrel Nelson
+VET_MED,350,Skeletal Preparation,01,04908,1,F13.10-17,ARR ARR,Darrel Nelson
 VET_MED,499,Special problems,01,05034,V,ARRGT,ARR ARR,Claude Ragle
 VET_MED,499,Special problems,02,05035,V,ARRGT,ARR ARR,""
 VET_MED,499,Special problems,03,05036,V,ARRGT,ARR ARR,""
 VET_MED,499,Special problems,04,05037,V,ARRGT,ARR ARR,""
-VET_MED,500,"Animals, Society, and the Veterinarian",01,05038,1,W15.10-17,WEB ARR,Lane Wallett
+VET_MED,500,"Animals, Society, and the Veterinarian",01,05038,1,W15.10-17,ADBF 1002,Lane Wallett
 VET_MED,500,"Animals, Society, and the Veterinarian",02,07548,1,ARRGT,ARR ARR,Heloisa Rutigliano
 VET_MED,500,"Animals, Society, and the Veterinarian",03,07708,1,ARRGT,ARR ARR,Alan Goldhahn
-VET_MED,502,Communication Skills,01,05039,V,"M,W15.10-17",WEB ARR,Julie Cary
+VET_MED,502,Communication Skills,01,05039,V,"M,W15.10-17",WEGN G0050,Julie Cary
 VET_MED,503,Case-based Learning in Veterinary Pathology,01,04875,V,ARRGT,ARR ARR,Stephen Hines
 VET_MED,504,Global Studies,01,05040,V,ARRGT,ARR ARR,Mushtaq Memon
 VET_MED,505,Reverence for Life,01,05041,1,ARRGT,ARR ARR,""
-VET_MED,508,Research Orientation and Resource,01,04479,1,W12.10-13,WEB ARR,""
-VET_MED,510,Veterinary Microscopic Anatomy,01,05042,4,"TU,W14.10-15",WEB ARR,Briedi Gillespie
+VET_MED,508,Research Orientation and Resource,01,04479,1,W12.10-13,ADBF 1002,""
+VET_MED,510,Veterinary Microscopic Anatomy,01,05042,4,"TU,W14.10-15",ADBF 1002,Briedi Gillespie
 VET_MED,510,Veterinary Microscopic Anatomy,"","","",M13.10-15,ADBF 1002,""
 VET_MED,510,Veterinary Microscopic Anatomy,02,07549,4,ARRGT,ARR ARR,Aaron Olsen
 VET_MED,510,Veterinary Microscopic Anatomy,03,07709,4,ARRGT,ARR ARR,Diane Bimczok
 VET_MED,510,Veterinary Microscopic Anatomy,01 Lab,05043,0,ARRGT,ARR ARR,Briedi Gillespie
 VET_MED,510,Veterinary Microscopic Anatomy,02 Lab,07550,0,ARRGT,ARR ARR,Aaron Olsen
 VET_MED,510,Veterinary Microscopic Anatomy,03 Lab,07710,0,ARRGT,ARR ARR,Leslie Sprunger
-VET_MED,511,Veterinary Anatomy I,01,05044,5,"TU,W,TH,F9-12",WEB ARR,Steve Lampa
+VET_MED,511,Veterinary Anatomy I,01,05044,5,"TU,W,TH,F9-12",MCOY 202,Steve Lampa
 VET_MED,511,Veterinary Anatomy I,"","","",W13.10-14,ADBF 1002,""
 VET_MED,511,Veterinary Anatomy I,02,07551,5,M10.10-11,ADBF 1002,""
 VET_MED,511,Veterinary Anatomy I,03,07711,5,ARRGT,ARR ARR,Rebecca Mattix
-VET_MED,513,Veterinary Physiology I,01,05045,4,M9.10-10,WEB ARR,Peter Meighan
+VET_MED,513,Veterinary Physiology I,01,05045,4,M9.10-10,ADBF 1002,Peter Meighan
 VET_MED,513,Veterinary Physiology I,"","","","TU,TH,F13.10-14",ADBF 1002,""
 VET_MED,513,Veterinary Physiology I,02,07552,4,ARRGT,ARR ARR,Lee Rickords
 VET_MED,513,Veterinary Physiology I,03,07712,4,ARRGT,ARR ARR,Christopher Organ
-VET_MED,517,Small Animal Applied Anatomy and Surgical Techniques,01,05046,2,"TU,TH13-17",WEB ARR,Bonnie Campbell
+VET_MED,517,Small Animal Applied Anatomy and Surgical Techniques,01,05046,2,"TU,TH13-17",MCOY 202,Bonnie Campbell
 VET_MED,517,Small Animal Applied Anatomy and Surgical Techniques,01 Lab,05047,0,ARRGT,ARR ARR,Bonnie Campbell
-VET_MED,518,Large Animal Applied Anatomy,01,08154,2,W13.10-16.10,WEB ARR,""
+VET_MED,518,Large Animal Applied Anatomy,01,08154,2,W13.10-16.10,MCOY 202,""
 VET_MED,518,Large Animal Applied Anatomy,01 Lab,08226,0,ARRGT,ARR ARR,Cynthia Faux
-VET_MED,522,Fundamentals of Pharmacology,01,05048,3,"M,W,F13.10-14",WEB ARR,Suzanne Wayman
+VET_MED,522,Fundamentals of Pharmacology,01,05048,3,"M,W,F13.10-14",BUST 145,Suzanne Wayman
 VET_MED,522,Fundamentals of Pharmacology,02,07553,3,ARRGT,ARR ARR,Ralph Meyer
-VET_MED,524,Clinical Veterinary Pharmacology,01,05049,3,"TU,TH,F11.10-12",WEB ARR,Nicolas Villarino
-VET_MED,525,Animal Behavior for the Practicing Veterinarian,01,05050,1,M12.10-13,WEB ARR,Leticia Fanucchi
-VET_MED,526,Domestic and Exotic Animal Behavior,01,05051,2,TU12.10-13,WEB ARR,Leticia Fanucchi
+VET_MED,524,Clinical Veterinary Pharmacology,01,05049,3,"TU,TH,F11.10-12",WEGN G0050,Nicolas Villarino
+VET_MED,525,Animal Behavior for the Practicing Veterinarian,01,05050,1,M12.10-13,BUST 145,Leticia Fanucchi
+VET_MED,526,Domestic and Exotic Animal Behavior,01,05051,2,TU12.10-13,ARR ARR,Leticia Fanucchi
 VET_MED,526,Domestic and Exotic Animal Behavior,01 Lab,05052,0,ARRGT,ARR ARR,Leticia Fanucchi
-VET_MED,535,Veterinary Virology,01,05053,3,"M,W,F11.10-12",WEB ARR,Chrissy Eckstrand
+VET_MED,535,Veterinary Virology,01,05053,3,"M,W,F11.10-12",BUST 145,Chrissy Eckstrand
 VET_MED,535,Veterinary Virology,02,07554,3,ARRGT,ARR ARR,Brian Gowen
-VET_MED,536,Veterinary Bacteriology,01,05054,4,"M,W,F10.10-11",WEB ARR,Devendra Shah
+VET_MED,536,Veterinary Bacteriology,01,05054,4,"M,W,F10.10-11",BUST 145,Devendra Shah
 VET_MED,536,Veterinary Bacteriology,02,07555,4,ARRGT,ARR ARR,Ernest Tarbet
-VET_MED,536,Veterinary Bacteriology,01 Lab,05055,0,TH15.10-17,WEB ARR,""
+VET_MED,536,Veterinary Bacteriology,01 Lab,05055,0,TH15.10-17,ARR ARR,""
 VET_MED,536,Veterinary Bacteriology,02 Lab,07556,0,ARRGT,ARR ARR,Leslie Sprunger
-VET_MED,542,Diseases of Wildlife,01,05056,2,TH12.10-13,WEB ARR,""
-VET_MED,546,Systemic Pathology,01,05057,6,"M,W,F9.10-10",WEB ARR,""
+VET_MED,542,Diseases of Wildlife,01,05056,2,TH12.10-13,ADBF 1002,""
+VET_MED,546,Systemic Pathology,01,05057,6,"M,W,F9.10-10",BUST 145,""
 VET_MED,546,Systemic Pathology,02,07584,6,ARRGT,ARR ARR,Arnaud Van Wettere
 VET_MED,546,Systemic Pathology,01 Lab,05058,0,TH12.10-14,BUST 145,Karen Hornfelt
 VET_MED,546,Systemic Pathology,"","","","M,W14.10-17",BUST 145,""
 VET_MED,546,Systemic Pathology,02 Lab,07717,0,ARRGT,ARR ARR,Arnaud Van Wettere
-VET_MED,551,Small Animal Medicine I,01,05059,5,M8.10-10,WEB ARR,O Nelson
+VET_MED,551,Small Animal Medicine I,01,05059,5,M8.10-10,WEGN G0050,O Nelson
 VET_MED,551,Small Animal Medicine I,"","","","TU,W,TH,F9.10-10",WEGN G0050,""
-VET_MED,553,Small Animal Surgical Diseases and Traumatology,01,05060,3,F10.10-11,WEB ARR,Bonnie Campbell
+VET_MED,553,Small Animal Surgical Diseases and Traumatology,01,05060,3,F10.10-11,WEGN G0050,Bonnie Campbell
 VET_MED,553,Small Animal Surgical Diseases and Traumatology,"","","",W10.10-12,WEGN G0050,""
-VET_MED,554,Small Animal Anesthesia and Surgery,01,05061,1,M10.10-12,WEB ARR,Bonnie Campbell
-VET_MED,558,Diseases and Management of Pet and Wild Birds,01,08155,2,TH13.10-17.10,WEB ARR,Nickol Finch
+VET_MED,554,Small Animal Anesthesia and Surgery,01,05061,1,M10.10-12,WEGN G0050,Bonnie Campbell
+VET_MED,558,Diseases and Management of Pet and Wild Birds,01,08155,2,TH13.10-17.10,ARR ARR,Nickol Finch
 VET_MED,558,Diseases and Management of Pet and Wild Birds,01 Lab,08227,0,ARRGT,ARR ARR,""
 VET_MED,559,Special Animal Medicine,01,08156,V,ARRGT,ARR ARR,Nickol Finch
 VET_MED,567,Applied Comparative Reproductive Physiology,01,05062,1,ARRGT,ARR ARR,Ahmed Tibary
-VET_MED,568,Animal Handling and Orientation,01,05063,2,TU15.10-17,WEB ARR,""
+VET_MED,568,Animal Handling and Orientation,01,05063,2,TU15.10-17,ADBF 1002,""
 VET_MED,568,Animal Handling and Orientation,"","","",M11.10-12,ADBF 1002,""
 VET_MED,568,Animal Handling and Orientation,02,07713,2,ARRGT,ARR ARR,Rusty Stott
 VET_MED,568,Animal Handling and Orientation,03,07714,2,ARRGT,ARR ARR,Kelsey Baver
 VET_MED,568,Animal Handling and Orientation,01 Lab,05064,0,ARRGT,ARR ARR,William Dernell
 VET_MED,568,Animal Handling and Orientation,02 Lab,07715,0,ARRGT,ARR ARR,Rusty Stott
 VET_MED,568,Animal Handling and Orientation,03 Lab,07716,0,ARRGT,ARR ARR,Bruce Sorenson
-VET_MED,569,Agricultural Animal Medicine I,01,05065,4,"TU,W,TH8.10-9",WEB ARR,Andrew Allen
-VET_MED,569,Agricultural Animal Medicine I,01 Lab,05066,0,TH16.10-17,WEB ARR,""
-VET_MED,572,Large Animal Surgery,01,08194,2,TU9.10-10.10,WEB ARR,Claude Ragle
-VET_MED,574,Equine Lameness,01,08157,2,F13.10-14.10,WEB ARR,Kelly Farnsworth
-VET_MED,578,Veterinary Equine Medicine,01,05067,3,"TU,TH10.10-11",WEB ARR,""
+VET_MED,569,Agricultural Animal Medicine I,01,05065,4,"TU,W,TH8.10-9",WEGN G0050,Andrew Allen
+VET_MED,569,Agricultural Animal Medicine I,01 Lab,05066,0,TH16.10-17,ARR ARR,""
+VET_MED,572,Large Animal Surgery,01,08194,2,TU9.10-10.10,ARR ARR,Claude Ragle
+VET_MED,574,Equine Lameness,01,08157,2,F13.10-14.10,VTH 1408,Kelly Farnsworth
+VET_MED,578,Veterinary Equine Medicine,01,05067,3,"TU,TH10.10-11",WEGN G0050,""
 VET_MED,578,Veterinary Equine Medicine,"","","",F8.10-9,WEGN G0050,""
-VET_MED,579,Advanced Equine Medicine,01,08158,1,TH15.10-17.10,WEB ARR,Jamie Kopper
+VET_MED,579,Advanced Equine Medicine,01,08158,1,TH15.10-17.10,VTH 1408,Jamie Kopper
 VET_MED,581,Agricultural Animal Problems Seminar,01,05068,1,ARRGT,ARR ARR,Dale Moore
 VET_MED,582,Agricultural Animal On-Farm Clinical Experience,01,05069,1,ARRGT,ARR ARR,Andrew Allen
-VET_MED,586,Principles of Surgery,01,05070,1,M8.10-9,WEB ARR,Julie Cary
+VET_MED,586,Principles of Surgery,01,05070,1,M8.10-9,ADBF 1002,Julie Cary
 VET_MED,586,Principles of Surgery,02,07585,1,ARRGT,ARR ARR,Scott Carter
 VET_MED,586,Principles of Surgery,03,07718,1,ARRGT,ARR ARR,Alan Goldhahn
 VET_MED,589,Clinical Pathology,01,05071,3,"TU,W,TH8.10-9",BUST 145,Katherine Wardrop
 VET_MED,589,Clinical Pathology,02,07586,3,ARRGT,ARR ARR,Arnaud Van Wettere
-VET_MED,589,Clinical Pathology,01 Lab,05072,0,F16.10-17,WEB ARR,Katherine Wardrop
+VET_MED,589,Clinical Pathology,01 Lab,05072,0,F16.10-17,ARR ARR,Katherine Wardrop
 VET_MED,589,Clinical Pathology,02 Lab,07587,0,ARRGT,ARR ARR,Katherine Wardrop
 VET_MED,591,Practice Management,01,05073,2,ARRGT,ARR ARR,Richard Debowes
-VET_MED,593,Pain and Analgesics,01,05074,2,"M,TU12.10-13",WEB ARR,Tamara Grubb
+VET_MED,593,Pain and Analgesics,01,05074,2,"M,TU12.10-13",ARR ARR,Tamara Grubb
 VET_MED,596,Special Topics,01,05075,V,ARRGT,ARR ARR,Valerie Russo
 VET_MED,596,Special Topics,02,05076,V,ARRGT,ARR ARR,Bethany Colaprete
 VET_MED,596,Special Topics,03,05077,V,ARRGT,ARR ARR,Suzanne Jacobson
@@ -4653,28 +4649,28 @@ VET_MED,596,Special Topics,04,05078,V,ARRGT,ARR ARR,Patricia Talcott
 VET_MED,596,Special Topics,05,10089,V,ARRGT,ARR ARR,""
 VET_MED,596,Special Topics,06,10090,V,ARRGT,ARR ARR,""
 VET_MED,597,Special Topics,01,04480,V,ARRGT,ARR ARR,""
-VET_MED,597,Special Topics,02,04481,V,TU11.10-12,WEB ARR,""
-VET_MED,597,Special Topics,03,04482,V,TH9.10-11,WEB ARR,""
-VET_MED,597,Special Topics,04,04483,V,TH11.10-12,WEB ARR,""
-VET_MED,597,Special Topics,05,04484,V,M9.10-10,WEB ARR,""
-VET_MED,597,Special Topics,06,04485,V,TH9.10-10,WEB ARR,Petronella Magunda
-VET_MED,597,Special Topics,07,08153,V,TU11.10-12,WEB ARR,Raelynn Farnsworth
-VET_MED,597,Special Topics,09,08192,V,W13.10-16.10,WEB ARR,Raelynn Farnsworth
-VET_MED,597,Special Topics,10,08193,V,TH13.10-14.10,WEB ARR,""
-VET_MED,597,Special Topics,11,08385,V,TU12.05-14.05,WEB ARR,""
+VET_MED,597,Special Topics,02,04481,V,TU11.10-12,BUST 145,""
+VET_MED,597,Special Topics,03,04482,V,TH9.10-11,BUST 145,""
+VET_MED,597,Special Topics,04,04483,V,TH11.10-12,BUST 145,""
+VET_MED,597,Special Topics,05,04484,V,M9.10-10,ARR ARR,""
+VET_MED,597,Special Topics,06,04485,V,TH9.10-10,ARR ARR,Petronella Magunda
+VET_MED,597,Special Topics,07,08153,V,TU11.10-12,ARR ARR,Raelynn Farnsworth
+VET_MED,597,Special Topics,09,08192,V,W13.10-16.10,ARR ARR,Raelynn Farnsworth
+VET_MED,597,Special Topics,10,08193,V,TH13.10-14.10,ARR ARR,""
+VET_MED,597,Special Topics,11,08385,V,TU12.05-14.05,BUST 145,""
 VET_MED,597,Special Topics,"","","",F12.10-13,BUST 145,""
-VET_MED,597,Special Topics,12,08386,V,"M,F8.10-9",WEB ARR,Claude Ragle
+VET_MED,597,Special Topics,12,08386,V,"M,F8.10-9",BUST 145,Claude Ragle
 VET_MED,597,Special Topics,13,08880,V,ARRGT,ARR ARR,Robert Keegan
 VET_MED,597,Special Topics,14,09100,V,ARRGT,ARR ARR,""
 VET_MED,597,Special Topics,15,09101,V,ARRGT,ARR ARR,""
 VET_MED,597,Special Topics,16,09102,V,ARRGT,ARR ARR,""
 VET_MED,597,Special Topics,17,09430,V,ARRGT,ARR ARR,""
-VET_MED,598,Introduction to Clinics,01,05079,1,TU14.10-16,WEB ARR,Thandeka Ngwenyama
-VET_MED,598,Introduction to Clinics,02,07752,1,F12.10-13,WEB ARR,Kerry Rood
+VET_MED,598,Introduction to Clinics,01,05079,1,TU14.10-16,BUST 145,Thandeka Ngwenyama
+VET_MED,598,Introduction to Clinics,02,07752,1,F12.10-13,ARR ARR,Kerry Rood
 VET_MED,598,Introduction to Clinics,03,07753,1,ARRGT,ARR ARR,Alan Goldhahn
 VET_MED,599,Special Problems,01,05080,V,ARRGT,ARR ARR,Margaret Davis
-VET_MED,599,Special Problems,02,05081,V,TH14.10-15,WEB ARR,Margaret Davis
-VET_MED,599,Special Problems,03,05082,V,F14.10-16,WEB ARR,Margaret Davis
+VET_MED,599,Special Problems,02,05081,V,TH14.10-15,BUST 145,Margaret Davis
+VET_MED,599,Special Problems,03,05082,V,F14.10-16,BUST 145,Margaret Davis
 VET_MED,600,Scientific Writing and Presentation,01,05083,1,ARRGT,ARR ARR,Bryan Slinker
 VET_MED,603,Clinical Elective at Oregon State University,01,05084,V,ARRGT,ARR ARR,William Dernell
 VET_MED,605,Small Animal Community Practice Medicine,01,05085,V,ARRGT,ARR ARR,Raelynn Farnsworth
@@ -4720,7 +4716,7 @@ VET_MED,635,Preventive Medicine at Canine Center,02,09905,V,ARRGT,ARR ARR,""
 VET_MED,636,Equine Medicine Elective,01,06974,V,ARRGT,ARR ARR,Jenifer Gold
 VET_MED,637,Equine Surgery Elective,01,06975,V,ARRGT,ARR ARR,Kelly Farnsworth
 VET_MED,638,Equine Advanced Lab,01,06976,V,ARRGT,ARR ARR,(multiple)
-VET_MED,650,Anesthesia Case Management,01,06977,V,TU12.05-12.55,WEB ARR,Martin Suarez
+VET_MED,650,Anesthesia Case Management,01,06977,V,TU12.05-12.55,ARR ARR,Martin Suarez
 VET_MED,650,Anesthesia Case Management,"","","",F12.05-12.55,ARR ARR,""
 VET_MED,651,Pharmacy and Therapeutics,01,06978,1,ARRGT,ARR ARR,James Meyer
 VET_MED,653,Imaging Services Elective,01,06980,V,ARRGT,ARR ARR,Gregory Roberts
@@ -4755,7 +4751,7 @@ VET_MED,699,Advanced Clinical Special Topics,01,06995,V,ARRGT,ARR ARR,William De
 VET_MED,699,Advanced Clinical Special Topics,02,06996,V,ARRGT,ARR ARR,William Dernell
 VET_MICR,499,Special Problems,01,04669,V,ARRGT,ARR ARR,""
 VET_MICR,541,Advanced Diagnostic Microbiology,01,04670,1,ARRGT,ARR ARR,Claire Burbick
-VET_MICR,563,Deconstruction of Research,01,08518,3,"TU,TH9.10-10.25",WEB ARR,""
+VET_MICR,563,Deconstruction of Research,01,08518,3,"TU,TH9.10-10.25",WEB ARR,Steve Simasko
 VET_MICR,564,Topics in Biomedical Experimentation,01,11870,V,"TU,TH9.10-10.25",WEB ARR,Erika Offerdahl
 VET_MICR,572,"Advanced Topics in Microbiology, Parasitology, or Immunology",01,04671,V,ARRGT,ARR ARR,""
 VET_MICR,591,Seminar in Diagnostic Microbiology,01,04672,1,ARRGT,ARR ARR,Claire Burbick
@@ -4765,7 +4761,7 @@ VET_MICR,800,"Doctoral Research, Dissertation, and/or Examination",01,04675,V,AR
 VET_PATH,542,Advanced Diagnostic Pathology,01,04876,1,ARRGT,ARR ARR,""
 VET_PATH,544,Immunopathology,01,04877,4,ARRGT,ARR ARR,Santanu Bose
 VET_PATH,548,Introduction to Research,01,04878,1,ARRGT,ARR ARR,David Prieur
-VET_PATH,563,Deconstruction of Research,01,08519,3,"TU,TH9.10-10.25",WEB ARR,""
+VET_PATH,563,Deconstruction of Research,01,08519,3,"TU,TH9.10-10.25",WEB ARR,Steve Simasko
 VET_PATH,564,Topics in Biomedical Experimentation,01,11871,V,"TU,TH9.10-10.25",WEB ARR,Erika Offerdahl
 VET_PATH,571,Advanced Topics in Pathology,01,04879,V,ARRGT,ARR ARR,""
 VET_PATH,592,Anatomic Pathology Seminar,01,04880,2,ARRGT,ARR ARR,Laura White
@@ -4776,7 +4772,7 @@ VET_PH,426,Foundations of Medical Physiology Lab,01,09207,1,ARRGT,ARR ARR,Peter 
 VET_PH,499,Special Problems,01,04893,V,ARRGT,ARR ARR,(multiple)
 VET_PH,499,Special Problems,02,04894,V,ARRGT,ARR ARR,""
 VET_PH,499,Special Problems,03,04895,V,ARRGT,ARR ARR,""
-VET_PH,563,Deconstruction of Research,01,08520,3,"TU,TH9.10-10.25",WEB ARR,""
+VET_PH,563,Deconstruction of Research,01,08520,3,"TU,TH9.10-10.25",WEB ARR,Steve Simasko
 VET_PH,564,Topics in Biomedical Experimentation,01,11872,V,"TU,TH9.10-10.25",WEB ARR,Erika Offerdahl
 VET_PH,590,Seminar,01,09386,1,F12.10-13.30,WEB ARR,Suzanne Wayman
 VET_PH,600,Special Projects or Independent Study,01,04896,V,ARRGT,ARR ARR,""
