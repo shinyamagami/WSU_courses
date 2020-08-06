@@ -2,7 +2,7 @@ require_relative 'lib/WSU_In_Person/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "WSU_In_Person"
-  spec.version       = "0.1.2"
+  spec.version       = "0.1.3"
   spec.authors       = ["Shin Yamagami"]
   spec.email         = ["kiboh.usa@gmail.com"]
 
