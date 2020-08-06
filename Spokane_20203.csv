@@ -2,6 +2,7 @@ Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg 
 BIOMED,550,Biochemistry for the Health Sciences,01,15034,3,"M,W8.10-9.25",WEB ARR,Ted Chauvin
 COMHLTH,571,Communicating Health in Practice,01,14821,3,ARRGT,ARR ARR,Jessica Willoughby
 COMHLTH,572,Communicating Health to Specialized Populations,01,15171,3,ARRGT,ARR ARR,Chelsea Newman
+E_M,560,Integrated Supply Chain Management,01,14434,3,TH17.15-19.45,WEB ARR,Kay Bachman
 E_M,566,Systems Analysis and Practice,01,14886,3,TU17.15-19.45,WEB ARR,Alice Squires
 ED_AD,501,Philosophy of Education,01,14687,3,W17.45-20.30,SAC 341,Susan Finley
 ED_AD,507,Social Foundations of Education,01,14688,3,ARRGT,ARR ARR,John Lupinacci
@@ -580,8 +581,8 @@ NURS,360,Professional Nursing Concepts and Issues,01,13273,2,ARRGT,AMS SPK,Saman
 NURS,360,Professional Nursing Concepts and Issues,02,13274,2,TU12-12,AMS ARR,Samantha Girard
 NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,01,13275,2,ARRGT,AMS ARR,Naomi Lungstrom
 NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,02,13276,2,ARRGT,AMS ARR,Naomi Lungstrom
-NURS,400,[M] Nursing Research and Evidence-Based Practice,01,13277,3,ARRGT,AMS ARR,Vicki Denson
-NURS,400,[M] Nursing Research and Evidence-Based Practice,02,13278,3,ARRGT,AMS ARR,Vicki Denson
+NURS,400,[M] Nursing Research and Evidence-Based Practice,01,13277,3,ARRGT,AMS ARR,Claire Richards
+NURS,400,[M] Nursing Research and Evidence-Based Practice,02,13278,3,ARRGT,AMS ARR,Claire Richards
 NURS,405,Nursing Leadership,01,13279,2,ARRGT,AMS ARR,Catherine Van Son
 NURS,405,Nursing Leadership,02,13280,2,ARRGT,AMS ARR,""
 NURS,408,Professional Development III: Leadership and Management,01,13281,3,TH9.10-12,AMS ARR,Susan Perkins
@@ -657,10 +658,10 @@ NURS,427,Community Health Nursing Practice,12,13398,3,ARRGT,ARR ARR,Anna Fulton
 NURS,427,Community Health Nursing Practice,13,13411,3,ARRGT,ARR ARR,Anna Fulton
 NURS,430,[CAPS] Senior Practicum,01,13340,3,ARRGT,ARR ARR,Debra Brinker
 NURS,430,[CAPS] Senior Practicum,02,13341,3,ARRGT,ARR ARR,Robin Faubion
-NURS,440,[M] Population Health Theory,01,13342,3,ARRGT,AMS ARR,Connie Nguyen-Truong
-NURS,440,[M] Population Health Theory,02,13343,3,ARRGT,AMS ARR,Connie Nguyen-Truong
-NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,01,13344,2,ARRGT,AMS ARR,Kiira Tietjen
-NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,02,14029,2,ARRGT,AMS ARR,Kiira Tietjen
+NURS,440,[M] Population Health Theory,01,13342,3,ARRGT,AMS ARR,Sheila Edwards
+NURS,440,[M] Population Health Theory,02,13343,3,ARRGT,AMS ARR,Sheila Edwards
+NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,01,13344,2,ARRGT,AMS ARR,Sheila Edwards
+NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,02,14029,2,ARRGT,AMS ARR,Sheila Edwards
 NURS,465,Application of Population Health Principles,01,13345,3,ARRGT,AMS ARR,Naomi Lungstrom
 NURS,465,Application of Population Health Principles,02,13346,3,ARRGT,AMS ARR,Naomi Lungstrom
 NURS,471,Foundations of Occupational and Environmental Health Practice,01,13404,3,ARRGT,AMS SPK,Denise Smart
@@ -1043,27 +1044,6 @@ PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,01,12779,1,F11.10
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","",F11.10-12,AMS ARR,""
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,50,12813,1,F11.10-12,ARR ARR,""
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,"","","",F11.10-12,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,01,12780,1,TU9.10-10,WEB ARR,Megan Willson
-PHARMACY,509,Professional Communications Lab,"","","",TU10.10-12,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,02,12781,1,TU9.10-10,WEB ARR,Megan Willson
-PHARMACY,509,Professional Communications Lab,"","","",TU13.10-15,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,03,12782,1,TU9.10-10,WEB ARR,Megan Willson
-PHARMACY,509,Professional Communications Lab,"","","",W10.10-12,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,04,12783,1,TU9.10-10,WEB ARR,Megan Willson
-PHARMACY,509,Professional Communications Lab,"","","",W13.10-15,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,05,12810,1,TU9.10-10,WEB ARR,Megan Willson
-PHARMACY,509,Professional Communications Lab,"","","",W15.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,50,12814,1,TU9.10-10,ARR ARR,Christina Buchman
-PHARMACY,509,Professional Communications Lab,"","","",TU10.10-12,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,51,12816,1,TU9.10-10,ARR ARR,Christina Buchman
-PHARMACY,509,Professional Communications Lab,"","","",TU15.10-17,ARR ARR,""
-PHARMACY,509,Professional Communications Lab,"","","",TU8.10-17,ARR ARR,""
 PHARMACY,516,Health Care Systems,01,12809,2,TH8.10-10,WEB ARR,Julie Akers
 PHARMACY,516,Health Care Systems,"","","",M10-12,ARR ARR,""
 PHARMACY,516,Health Care Systems,"","","",TH8.10-10,ARR ARR,""

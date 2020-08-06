@@ -110,7 +110,7 @@ AMDT,490,Cooperative Education Internship,01,06634,V,ARRGT,ARR ARR,Shanna Hiscoc
 AMDT,495,Instructional Practicum,01,06635,V,ARRGT,ARR ARR,Ting Chi
 AMDT,495,Instructional Practicum,02,06636,V,ARRGT,ARR ARR,Manal Shaheen
 AMDT,495,Instructional Practicum,03,06637,V,ARRGT,ARR ARR,Chan Mi Hwang
-AMDT,495,Instructional Practicum,04,06638,V,ARRGT,ARR ARR,Vicki Mccracken
+AMDT,495,Instructional Practicum,04,06638,V,ARRGT,ARR ARR,Carolina Silva
 AMDT,495,Instructional Practicum,05,06639,V,ARRGT,ARR ARR,Jihyeong Son
 AMDT,495,Instructional Practicum,06,06640,V,ARRGT,ARR ARR,""
 AMDT,495,Instructional Practicum,07,06641,V,ARRGT,ARR ARR,Hang Liu
@@ -124,7 +124,7 @@ AMDT,498,Special Topics,02,06645,V,ARRGT,ARR ARR,Ting Chi
 AMDT,498,Special Topics,03,06646,V,ARRGT,ARR ARR,Yini Chen
 AMDT,498,Special Topics,07,06647,V,ARRGT,ARR ARR,Hang Liu
 AMDT,498,Special Topics,08,07622,V,ARRGT,ARR ARR,Manal Shaheen
-AMDT,498,Special Topics,09,07647,V,ARRGT,ARR ARR,""
+AMDT,498,Special Topics,09,07647,V,ARRGT,ARR ARR,Carolina Silva
 AMDT,498,Special Topics,10,07648,V,ARRGT,ARR ARR,Chan Mi Hwang
 AMDT,498,Special Topics,11,07826,V,ARRGT,ARR ARR,Jihyeong Son
 AMDT,498,Special Topics,12,07850,V,ARRGT,ARR ARR,Vicki Mccracken
@@ -297,6 +297,7 @@ ARCH,401,Architectural Design V,01,06575,6,"TU,TH13.30-18",WEB ARR,Matthew Melch
 ARCH,401,Architectural Design V,02,09007,6,"TU,TH13.30-18",WEB ARR,Omar Al-Hassawi
 ARCH,401,Architectural Design V,03,09554,6,"TU,TH13.30-18",WEB ARR,Ayad Rahmani
 ARCH,463,Architectural Structures III,01,09362,3,"M,W,F8.10-9",WEB ARR,Ahmed Ibrahim
+ARCH,480,Architecture Internship,01,06577,V,ARRGT,ARR ARR,Matthew Melcher
 ARCH,491,Seminar in Architectural Communications,01,07650,V,"TU,TH10.35-11.50",WEB ARR,Gregory Kessler
 ARCH,510,Summer Graduate Design Studio,01,17481,6,"W,F13.10-18",WEB ARR,Taiji Miyasaka
 ARCH,511,Graduate Design Studio I,01,06580,6,"TU,TH13.30-18",WEB ARR,Christopher Beorkrem
@@ -340,6 +341,7 @@ ATH_T,591,Athletic Training Clinical Internship I,02,17429,2,ARRGT,ARR ARR,Katha
 ATH_T,592,Athletic Training Clinical Internship II,01,12057,3,ARRGT,ARR ARR,Katharine Pietz
 ATH_T,592,Athletic Training Clinical Internship II,02,17430,3,ARRGT,ARR ARR,Katharine Pietz
 ATH_T,592,Athletic Training Clinical Internship II,01 Lab,16368,0,ARRGT,ARR ARR,""
+ATH_T,592,Athletic Training Clinical Internship II,02 Lab,17492,0,ARRGT,ARR ARR,Katharine Pietz
 B_A,100,Introduction to Business,05,09680,3,"M,W,F13.10-14",WEB ARR,Vincent Compeau
 B_A,100,Introduction to Business,06,09681,3,"M,W,F14.10-15",WEB ARR,Jeremy Cox
 B_A,100,Introduction to Business,07,09685,3,"M,W,F16.10-17",WEB ARR,Christopher Cooney
@@ -727,9 +729,9 @@ CHE,211,Process Simulation,01,08983,3,"M,W,F12.10-13",WEB ARR,Peter Pfromm
 CHE,301,Chemical Engineering Thermodynamics,01,04652,3,"M,W,F14.10-15",WEB ARR,Jean-Sabin Mcewen
 CHE,310,Introduction to Transport Processes,02,15628,3,"M,W,F15.10-16",WEB ARR,David Thiessen
 CHE,352,Chemical Process Safety,01,10147,3,"M,W,F11.10-12",WEB ARR,Steven Saunders
-CHE,432,[M] Chemical Engineering Lab I,01,04461,3,TU13.30-14.20,CUE 114,David Thiessen
-CHE,432,[M] Chemical Engineering Lab I,01 Lab,04462,0,"TU,TH9.10-12",CUE 119,David Thiessen
-CHE,432,[M] Chemical Engineering Lab I,02 Lab,04463,0,"TU,TH14.25-17.15",CUE 119,David Thiessen
+CHE,432,[M] Chemical Engineering Lab I,01,04461,3,TU13.30-14.20,WEB ARR,David Thiessen
+CHE,432,[M] Chemical Engineering Lab I,01 Lab,04462,0,"TU,TH9.10-12",ETRL 4,David Thiessen
+CHE,432,[M] Chemical Engineering Lab I,02 Lab,04463,0,"TU,TH14.25-17.15",ETRL 4,David Thiessen
 CHE,441,Process Control,01,04653,3,"M,W,F9.10-10",WEB ARR,Steven Saunders
 CHE,450,Chemical Process Analysis and Design I,01,04654,3,"M,W,F8.10-9",WEB ARR,Marc Levin
 CHE,461,Introduction to Nuclear Engineering,01,05187,3,"TU,TH16.20-17.35",WEB ARR,Richard Stout
@@ -757,56 +759,56 @@ CHE,700,"Master's Research, Thesis, and/or Examination",01,04659,V,ARRGT,ARR ARR
 CHE,702,"Master's Special Problems, Directed Study, and/or Examination",01,04660,V,ARRGT,ARR ARR,(multiple)
 CHE,800,"Doctoral Research, Dissertation, and/or Examination",01,04661,V,ARRGT,ARR ARR,(multiple)
 CHEM,101,[PSCI] Introduction to Chemistry,01,03261,4,"M,W,F9.10-10",WEB ARR,Michael Finnegan
-CHEM,101,[PSCI] Introduction to Chemistry,02,03262,4,"M,W,F14.10-15",WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,01 Lab,03263,0,TU7.50-8.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,02,03262,4,"M,W,F14.10-15",WEB ARR,Michael Finnegan
+CHEM,101,[PSCI] Introduction to Chemistry,01 Lab,03263,0,TU7.50-8.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU8.50-11.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,02 Lab,03264,0,TU7.50-8.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,02 Lab,03264,0,TU7.50-8.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU8.50-11.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,03 Lab,03265,0,TU7.50-8.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,03 Lab,03265,0,TU7.50-8.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU8.50-11.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,04 Lab,03266,0,TU10.50-11.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,04 Lab,03266,0,TU10.50-11.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU11.50-14.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,05 Lab,03267,0,TU10.50-11.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,05 Lab,03267,0,TU10.50-11.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU11.50-14.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,06 Lab,03268,0,TU10.50-11.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,06 Lab,03268,0,TU10.50-11.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU11.50-14.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,07 Lab,03269,0,TU13.55-14.45,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,07 Lab,03269,0,TU13.55-14.45,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU14.55-17.45,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,08 Lab,03270,0,TU13.55-14.45,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,08 Lab,03270,0,TU13.55-14.45,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU14.55-17.45,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,09 Lab,03271,0,TU13.55-14.45,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,09 Lab,03271,0,TU13.55-14.45,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU14.55-17.45,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,10 Lab,03272,0,TU17.45-18.35,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,10 Lab,03272,0,TU17.45-18.35,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU18.45-21.35,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,11 Lab,03273,0,TU17.45-18.35,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,11 Lab,03273,0,TU17.45-18.35,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU18.45-21.35,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,12 Lab,03274,0,TU17.45-18.35,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,12 Lab,03274,0,TU17.45-18.35,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TU18.45-21.35,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,13 Lab,03275,0,W14.10-15,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,13 Lab,03275,0,W14.10-15,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",W15.10-18,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,14 Lab,03276,0,W14.10-15,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,14 Lab,03276,0,W14.10-15,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",W15.10-18,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,15 Lab,03277,0,W14.10-15,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,15 Lab,03277,0,W14.10-15,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",W15.10-18,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,16 Lab,03278,0,W17.10-18,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,16 Lab,03278,0,W17.10-18,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",W18.10-21,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,17 Lab,03279,0,W17.10-18,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,17 Lab,03279,0,W17.10-18,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",W18.10-21,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,18 Lab,03280,0,W17.10-18,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,18 Lab,03280,0,W17.10-18,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",W18.10-21,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,19 Lab,03281,0,TH7.50-8.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,19 Lab,03281,0,TH7.50-8.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TH8.50-11.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,21 Lab,03283,0,TH7.50-8.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,21 Lab,03283,0,TH7.50-8.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TH8.50-11.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,22 Lab,03284,0,TH10.50-11.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,22 Lab,03284,0,TH10.50-11.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TH11.50-14.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,23 Lab,03285,0,TH10.50-11.40,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,23 Lab,03285,0,TH10.50-11.40,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TH11.50-14.40,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,25 Lab,03287,0,TH13.55-14.45,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,25 Lab,03287,0,TH13.55-14.45,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TH14.55-17.45,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,26 Lab,03288,0,TH13.55-14.45,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,26 Lab,03288,0,TH13.55-14.45,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TH14.55-17.45,WEB ARR,""
-CHEM,101,[PSCI] Introduction to Chemistry,27 Lab,03289,0,TH13.55-14.45,WEB ARR,""
+CHEM,101,[PSCI] Introduction to Chemistry,27 Lab,03289,0,TH13.55-14.45,WEB ARR,Michael Finnegan
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TH14.55-17.45,WEB ARR,""
 CHEM,102,Chemistry Related to Life Sciences,01,03422,4,"M,W,F14.10-15",WEB ARR,Gregory Crouch
 CHEM,102,Chemistry Related to Life Sciences,01 Lab,03423,0,TU8.10-9,WEB ARR,""
@@ -830,107 +832,107 @@ CHEM,103,Concepts in Chemistry,21 Lab,15526,0,ARRGT,ARR ARR,Paul Buckley
 CHEM,105,[PSCI] Principles of Chemistry I,01,03298,4,"M,W,F8.10-9",WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,02,03299,4,"M,W,F13.10-14",WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,03,03300,4,"M,W,F15.10-16",WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,03301,0,TU7.50-8.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,03301,0,TU7.50-8.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU8.50-11.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,02 Lab,03302,0,TU7.50-8.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,02 Lab,03302,0,TU7.50-8.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU8.50-11.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,03 Lab,03303,0,TU7.50-8.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,03 Lab,03303,0,TU7.50-8.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU8.50-11.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,04 Lab,03304,0,TU7.50-8.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,04 Lab,03304,0,TU7.50-8.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU8.50-11.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,05 Lab,03305,0,TU10.50-11.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,05 Lab,03305,0,TU10.50-11.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU11.50-14.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,06 Lab,03306,0,TU10.50-11.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,06 Lab,03306,0,TU10.50-11.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU11.50-14.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,07 Lab,03307,0,TU10.50-11.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,07 Lab,03307,0,TU10.50-11.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU11.50-14.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,08 Lab,03308,0,TU10.50-11.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,08 Lab,03308,0,TU10.50-11.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU11.50-14.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,09 Lab,03309,0,TU13.55-14.45,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,09 Lab,03309,0,TU13.55-14.45,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU14.55-17.45,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,10 Lab,03310,0,TU13.55-14.45,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,10 Lab,03310,0,TU13.55-14.45,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU14.55-17.45,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,11 Lab,03311,0,TU13.55-14.45,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,11 Lab,03311,0,TU13.55-14.45,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU14.55-17.45,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,12 Lab,03312,0,TU13.55-14.45,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,12 Lab,03312,0,TU13.55-14.45,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU14.55-17.45,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,13 Lab,03313,0,TU17.45-18.35,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,13 Lab,03313,0,TU17.45-18.35,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU18.45-21.35,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,14 Lab,03314,0,TU17.45-18.35,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,14 Lab,03314,0,TU17.45-18.35,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU18.45-21.35,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,15 Lab,03315,0,TU17.45-18.35,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,15 Lab,03315,0,TU17.45-18.35,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU18.45-21.35,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,16 Lab,03316,0,TU17.45-18.35,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,16 Lab,03316,0,TU17.45-18.35,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TU18.45-21.35,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,17 Lab,03317,0,W11.10-12,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,17 Lab,03317,0,W11.10-12,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W12.10-15,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,18 Lab,03318,0,W11.10-12,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,18 Lab,03318,0,W11.10-12,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W12.10-15,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,19 Lab,03319,0,W14.10-15,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,19 Lab,03319,0,W14.10-15,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W15.10-18,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,20 Lab,03320,0,W14.10-15,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,20 Lab,03320,0,W14.10-15,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W15.10-18,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,21 Lab,03321,0,W14.10-15,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,21 Lab,03321,0,W14.10-15,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W15.10-18,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,22 Lab,03322,0,W14.10-15,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,22 Lab,03322,0,W14.10-15,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W15.10-18,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,23 Lab,03402,0,W17.10-18,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,23 Lab,03402,0,W17.10-18,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W18.10-21,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,24 Lab,03323,0,W17.10-18,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,24 Lab,03323,0,W17.10-18,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W18.10-21,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,25 Lab,03465,0,W17.10-18,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,25 Lab,03465,0,W17.10-18,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W18.10-21,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,26 Lab,03324,0,W17.10-18,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,26 Lab,03324,0,W17.10-18,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",W18.10-21,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,27 Lab,03325,0,TH7.50-8.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,27 Lab,03325,0,TH7.50-8.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH8.50-11.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,28 Lab,03326,0,TH7.50-8.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,28 Lab,03326,0,TH7.50-8.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH8.50-11.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,29 Lab,03466,0,TH7.50-8.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,29 Lab,03466,0,TH7.50-8.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH8.50-11.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,30 Lab,03327,0,TH10.50-11.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,30 Lab,03327,0,TH10.50-11.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH11.50-14.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,31 Lab,03328,0,TH10.50-11.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,31 Lab,03328,0,TH10.50-11.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH11.50-14.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,32 Lab,03329,0,TH10.50-11.40,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,32 Lab,03329,0,TH10.50-11.40,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH11.50-14.40,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,33 Lab,03330,0,TH13.55-14.45,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,33 Lab,03330,0,TH13.55-14.45,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH14.55-17.45,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,34 Lab,03331,0,TH13.55-14.45,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,34 Lab,03331,0,TH13.55-14.45,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH14.55-17.45,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,35 Lab,03413,0,TH13.55-14.45,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,35 Lab,03413,0,TH13.55-14.45,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH14.55-17.45,WEB ARR,""
-CHEM,105,[PSCI] Principles of Chemistry I,36 Lab,03463,0,TH13.55-14.45,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,36 Lab,03463,0,TH13.55-14.45,WEB ARR,Krista Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH14.55-17.45,WEB ARR,""
 CHEM,106,Principles of Chemistry II,01,03332,4,"M,W,F10.10-11",WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,02,03410,4,"M,W,F12.10-13",WEB ARR,Alexander Li
-CHEM,106,Principles of Chemistry II,01 Lab,03333,0,TU8.10-9,WEB ARR,""
+CHEM,106,Principles of Chemistry II,01 Lab,03333,0,TU8.10-9,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TU9.10-11,WEB ARR,""
-CHEM,106,Principles of Chemistry II,02 Lab,03334,0,TU10.20-11.10,WEB ARR,""
+CHEM,106,Principles of Chemistry II,02 Lab,03334,0,TU10.20-11.10,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TU11.20-13.10,WEB ARR,""
-CHEM,106,Principles of Chemistry II,03 Lab,03335,0,TU12.30-13.20,WEB ARR,""
+CHEM,106,Principles of Chemistry II,03 Lab,03335,0,TU12.30-13.20,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TU13.30-15.20,WEB ARR,""
-CHEM,106,Principles of Chemistry II,04 Lab,03336,0,TU14.55-15.45,WEB ARR,""
+CHEM,106,Principles of Chemistry II,04 Lab,03336,0,TU14.55-15.45,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TU15.55-17.45,WEB ARR,""
-CHEM,106,Principles of Chemistry II,05 Lab,03337,0,TU17-17.50,WEB ARR,""
+CHEM,106,Principles of Chemistry II,05 Lab,03337,0,TU17-17.50,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TU18-19.50,WEB ARR,""
-CHEM,106,Principles of Chemistry II,06 Lab,03338,0,W12.10-13,WEB ARR,""
+CHEM,106,Principles of Chemistry II,06 Lab,03338,0,W12.10-13,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",W13.10-15,WEB ARR,""
-CHEM,106,Principles of Chemistry II,07 Lab,03339,0,W14.10-15,WEB ARR,""
+CHEM,106,Principles of Chemistry II,07 Lab,03339,0,W14.10-15,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",W15.10-17,WEB ARR,""
-CHEM,106,Principles of Chemistry II,08 Lab,03340,0,W16.10-17,WEB ARR,""
+CHEM,106,Principles of Chemistry II,08 Lab,03340,0,W16.10-17,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",W17.10-19,WEB ARR,""
-CHEM,106,Principles of Chemistry II,10 Lab,03342,0,TH8.10-9,WEB ARR,""
+CHEM,106,Principles of Chemistry II,10 Lab,03342,0,TH8.10-9,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TH9.10-11,WEB ARR,""
-CHEM,106,Principles of Chemistry II,11 Lab,03343,0,TH10.20-11.10,WEB ARR,""
+CHEM,106,Principles of Chemistry II,11 Lab,03343,0,TH10.20-11.10,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TH11.20-13.10,WEB ARR,""
-CHEM,106,Principles of Chemistry II,12 Lab,03344,0,TH12.30-13.20,WEB ARR,""
+CHEM,106,Principles of Chemistry II,12 Lab,03344,0,TH12.30-13.20,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TH13.30-15.20,WEB ARR,""
-CHEM,106,Principles of Chemistry II,13 Lab,03345,0,TH14.55-15.45,WEB ARR,""
+CHEM,106,Principles of Chemistry II,13 Lab,03345,0,TH14.55-15.45,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TH15.55-17.45,WEB ARR,""
-CHEM,106,Principles of Chemistry II,15 Lab,03411,0,TH12.30-13.20,WEB ARR,""
+CHEM,106,Principles of Chemistry II,15 Lab,03411,0,TH12.30-13.20,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TH13.30-15.20,WEB ARR,""
-CHEM,106,Principles of Chemistry II,16 Lab,03412,0,TH14.55-15.45,WEB ARR,""
+CHEM,106,Principles of Chemistry II,16 Lab,03412,0,TH14.55-15.45,WEB ARR,Paul Buckley
 CHEM,106,Principles of Chemistry II,"","","",TH15.55-17.45,WEB ARR,""
 CHEM,220,Quantitative Analysis,01,03347,3,"M,W,F12.10-13",WEB ARR,Liane Moreau
 CHEM,222,Quantitative Analysis Laboratory,01,03348,1,TU14.55-17.45,WEB ARR,Jeremy Lessmann
@@ -975,8 +977,6 @@ CHEM,345,Organic Chemistry I,15 Lab,03370,0,M14.10-14.40,WEB ARR,""
 CHEM,345,Organic Chemistry I,"","","",M14.40-17,WEB ARR,""
 CHEM,345,Organic Chemistry I,16 Lab,03371,0,W14.10-14.40,WEB ARR,""
 CHEM,345,Organic Chemistry I,"","","",W14.40-17,WEB ARR,""
-CHEM,345,Organic Chemistry I,17 Lab,03372,0,M14.10-14.40,WEB ARR,""
-CHEM,345,Organic Chemistry I,"","","",M14.40-17,WEB ARR,""
 CHEM,345,Organic Chemistry I,18 Lab,03373,0,W18.10-18.40,WEB ARR,""
 CHEM,345,Organic Chemistry I,"","","",W18.40-21,WEB ARR,""
 CHEM,345,Organic Chemistry I,19 Lab,03374,0,W14.10-14.40,WEB ARR,""
@@ -991,7 +991,6 @@ CHEM,348,Organic Chemistry II and Problem Solving,06 Lab,03381,0,W16.10-18,WEB A
 CHEM,348,Organic Chemistry II and Problem Solving,07 Lab,03382,0,TH13.30-15.20,WEB ARR,""
 CHEM,348,Organic Chemistry II and Problem Solving,08 Lab,03399,0,TH14.55-16.45,WEB ARR,""
 CHEM,348,Organic Chemistry II and Problem Solving,09 Lab,03462,0,F11.10-13,WEB ARR,""
-CHEM,348,Organic Chemistry II and Problem Solving,10 Lab,16232,0,F10.10-12,WEB ARR,""
 CHEM,370,Chemical Biology,01,03409,3,"M,W,F12.10-13",WEB ARR,Jeffrey Jones
 CHEM,398,Undergraduate Seminar,01,03408,1,TH12.05-12.55,WEB ARR,Kirk Peterson
 CHEM,401,Modern Inorganic Chemistry,01,03383,3,"M,W,F8.10-9",WEB ARR,Zachariah Heiden
@@ -1000,9 +999,9 @@ CHEM,490,Current Topics in Chemistry,01,03400,V,W14.10-16,WEB ARR,""
 CHEM,495,Directed Research,01,03385,1,ARRGT,ARR ARR,""
 CHEM,499,Special Problems,01,03386,V,ARRGT,ARR ARR,(multiple)
 CHEM,501,Advanced Inorganic Chemistry I,01,03467,3,"M,W,F8.10-9",WEB ARR,Zachariah Heiden
-CHEM,503,Advanced Topics in Inorganic Chemistry,01,03403,V,ARRGT,ARR ARR,James Boncella
+CHEM,503,Advanced Topics in Inorganic Chemistry,01,03403,V,"M,W,F10.10-11",WEB ARR,James Boncella
 CHEM,517,Chromatography,01,03460,2,"TU,TH10.35-11.25",WEB ARR,Brian Clowers
-CHEM,520,Advanced Analytical Chemistry,01,03405,3,ARRGT,ARR ARR,Peter Reilly
+CHEM,520,Advanced Analytical Chemistry,01,03405,3,"TU,TH9.10-10.25",WEB ARR,Peter Reilly
 CHEM,531,Advanced Physical Chemistry I,01,03401,3,"TU,TH12.05-13.20",WEB ARR,Xiaofeng Guo
 CHEM,532,Advanced Physical Chemistry II,01,03387,3,"M,W,F12.10-13",WEB ARR,James Brozik
 CHEM,544,Advanced Topics in Organic Chemistry,01,03471,V,"M,W,F12.10-13",WEB ARR,Rock Mancini
@@ -1066,7 +1065,6 @@ COM,102,[COMM] Public Speaking in the Digital Age,48,08819,3,ARRGT,ARR ARR,Lora 
 COM,102,[COMM] Public Speaking in the Digital Age,49,08820,3,ARRGT,ARR ARR,Lora Tsui
 COM,102,[COMM] Public Speaking in the Digital Age,50,08877,3,ARRGT,ARR ARR,Lora Tsui
 COM,102,[COMM] Public Speaking in the Digital Age,51,16928,3,ARRGT,ARR ARR,Lora Tsui
-COM,102,[COMM] Public Speaking in the Digital Age,52,16931,3,ARRGT,ARR ARR,Lora Tsui
 COM,102,[COMM] Public Speaking in the Digital Age,53,17019,3,ARRGT,ARR ARR,""
 COM,105,[HUM] Communication in Global Contexts,02,08822,3,ARRGT,ARR ARR,Christine Curtis
 COM,105,[HUM] Communication in Global Contexts,03,15966,3,ARRGT,ARR ARR,Gabriella Bedoyan
@@ -1082,6 +1080,7 @@ COM,210,[COMM] Multimedia Content Creation,07,06923,3,M13.10-14,WEB ARR,Alex Kir
 COM,210,[COMM] Multimedia Content Creation,08,06924,3,M14.10-15,WEB ARR,Ziyao Zhang
 COM,210,[COMM] Multimedia Content Creation,09,06925,3,TH8.10-9,WEB ARR,Eylul Yel
 COM,210,[COMM] Multimedia Content Creation,10,06926,3,TH9.10-10,WEB ARR,Eronden Price
+COM,210,[COMM] Multimedia Content Creation,11,08828,3,ARRGT,ARR ARR,Eylul Yel
 COM,210,[COMM] Multimedia Content Creation,12,16036,3,TH12.05-12.55,WEB ARR,Eylul Yel
 COM,210,[COMM] Multimedia Content Creation,13,16037,3,TH13.30-14.20,WEB ARR,Ziyao Zhang
 COM,210,[COMM] Multimedia Content Creation,14,16038,3,W12.10-13,WEB ARR,Alex Kirkpatrick
@@ -1832,7 +1831,7 @@ ED_PSYCH,700,"Master's Research, Thesis, and/or Examination",01,05839,V,ARRGT,AR
 ED_PSYCH,702,"Master's Special Problems, Directed Study, and/or Examination",01,05840,V,ARRGT,ARR ARR,(multiple)
 ED_PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,05841,V,ARRGT,ARR ARR,(multiple)
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,07757,3,TU17.45-20.35,WEB ARR,Anthony Rud
-ED_RES,564,Qualitative Research,01,06879,3,TU16.10-19,WEB ARR,""
+ED_RES,564,Qualitative Research,01,06879,3,TU16.10-19,WEB ARR,Stephany Johnson
 ED_RES,565,Quantitative Research,01,08241,3,TU17.45-20.35,WEB ARR,Shenghai Dai
 ED_RES,571,Doctoral Dissertation Preparation,01,13469,3,M17.45-20.35,WEB ARR,Susan Finley
 ENGLISH,100,Introductory College Composition,01,04919,3,"TU,TH9.10-10.25",WEB ARR,David Martin
@@ -1844,7 +1843,7 @@ ENGLISH,100,Introductory College Composition,06,09325,3,"M,W,F9.10-10",WEB ARR,A
 ENGLISH,100,Introductory College Composition,07,09344,3,"TU,TH10.35-11.50",WEB ARR,""
 ENGLISH,100,Introductory College Composition,08,09345,3,"TU,TH12.05-13.20",WEB ARR,Megan Hall
 ENGLISH,100,Introductory College Composition,09,14954,3,"M,W,F13.10-14",WEB ARR,Robert Eddy
-ENGLISH,101,[WRTG] College Composition,01,04922,3,"M,W,F9.10-10",WEB ARR,Nicolaas Koenis
+ENGLISH,101,[WRTG] College Composition,01,04922,3,"M,W,F9.10-10",WEB ARR,Chloe Ray
 ENGLISH,101,[WRTG] College Composition,02,04923,3,"M,W,F13.10-14",WEB ARR,""
 ENGLISH,101,[WRTG] College Composition,03,04924,3,"TU,TH13.30-14.45",WEB ARR,Jamie Flathers
 ENGLISH,101,[WRTG] College Composition,04,04925,3,"M,W,F8.10-9",WEB ARR,""
@@ -1861,13 +1860,13 @@ ENGLISH,101,[WRTG] College Composition,14,04935,3,"TU,TH9.10-10.25",WEB ARR,Mist
 ENGLISH,101,[WRTG] College Composition,15,04936,3,"M,W,F13.10-14",WEB ARR,Mitzi Ceballos
 ENGLISH,101,[WRTG] College Composition,16,04937,3,"TU,TH10.35-11.50",WEB ARR,Matthew Cherico
 ENGLISH,101,[WRTG] College Composition,17,04938,3,"M,W,F11.10-12",WEB ARR,Jessie Padilla
-ENGLISH,101,[WRTG] College Composition,18,04939,3,"M,W,F9.10-10",WEB ARR,Hayden Gann
+ENGLISH,101,[WRTG] College Composition,18,04939,3,"M,W,F9.10-10",WEB ARR,Robert Holland
 ENGLISH,101,[WRTG] College Composition,19,04940,3,"TU,TH9.10-10.25",WEB ARR,Matthew Cherico
 ENGLISH,101,[WRTG] College Composition,20,04941,3,"TU,TH13.30-14.45",WEB ARR,Jeffrey Jones
 ENGLISH,101,[WRTG] College Composition,21,04942,3,"TU,TH10.35-11.50",WEB ARR,Caitlin Flaws
 ENGLISH,101,[WRTG] College Composition,23,04943,3,"TU,TH12.05-13.20",WEB ARR,Caitlin Flaws
 ENGLISH,101,[WRTG] College Composition,25,04944,3,"M,W,F8.10-9",WEB ARR,Rebecca Murphy
-ENGLISH,101,[WRTG] College Composition,27,04945,3,"M,W,F13.10-14",WEB ARR,Robert Holland
+ENGLISH,101,[WRTG] College Composition,27,04945,3,"M,W,F13.10-14",WEB ARR,Hayden Gann
 ENGLISH,101,[WRTG] College Composition,28,04946,3,"M,W,F11.10-12",WEB ARR,Rebecca Murphy
 ENGLISH,101,[WRTG] College Composition,30,04947,3,"M,W,F9.10-10",WEB ARR,""
 ENGLISH,101,[WRTG] College Composition,31,04948,3,"M,W,F9.10-10",WEB ARR,Robert Holland
@@ -1875,7 +1874,7 @@ ENGLISH,101,[WRTG] College Composition,32,04949,3,"M,W,F15.10-16",WEB ARR,Colin 
 ENGLISH,101,[WRTG] College Composition,33,04950,3,"M,W,F11.10-12",WEB ARR,""
 ENGLISH,101,[WRTG] College Composition,34,04951,3,"TU,TH10.35-11.50",WEB ARR,Grant Maierhofer
 ENGLISH,101,[WRTG] College Composition,36,04952,3,"TU,TH9.10-10.25",WEB ARR,Megan Hall
-ENGLISH,101,[WRTG] College Composition,37,04953,3,"M,W,F13.10-14",WEB ARR,Chloe Ray
+ENGLISH,101,[WRTG] College Composition,37,04953,3,"M,W,F13.10-14",WEB ARR,Nicolaas Koenis
 ENGLISH,101,[WRTG] College Composition,38,04954,3,"M,W,F14.10-15",WEB ARR,Cameron Mcgill
 ENGLISH,101,[WRTG] College Composition,39,04955,3,"M,W,F13.10-14",WEB ARR,Lauren Westerfield
 ENGLISH,101,[WRTG] College Composition,40,04956,3,"TU,TH10.35-11.50",WEB ARR,Megan Hall
@@ -1924,6 +1923,7 @@ ENGLISH,102,Writing Tutorial,29,09734,1,F12.10-13,WEB ARR,Brooklyn Walter
 ENGLISH,102,Writing Tutorial,30,09735,1,F13.10-14,WEB ARR,Brooklyn Walter
 ENGLISH,102,Writing Tutorial,31,09736,1,F14.10-15,WEB ARR,Brooklyn Walter
 ENGLISH,102,Writing Tutorial,33,10059,1,M11.10-12,WEB ARR,Brooklyn Walter
+ENGLISH,102,Writing Tutorial,34,10060,1,ARRGT,ARR ARR,Brooklyn Walter
 ENGLISH,104,Introductory Composition for Multilingual Writers,01,04963,3,"M,W,F10.10-11",WEB ARR,Michael Thomas
 ENGLISH,105,[WRTG] College Composition for Multilingual Writers,01,04964,3,ARRGT,ARR ARR,Mitzi Ceballos
 ENGLISH,105,[WRTG] College Composition for Multilingual Writers,02,04965,3,"M,W,F14.10-15",WEB ARR,Michael Thomas
@@ -2244,6 +2244,7 @@ FINE_ART,700,"Master's Research, Thesis, and/or Examination",01,07391,V,ARRGT,AR
 FOR_LANG,101,[DIVR] Introduction to the World of Languages,09,13173,3,ARRGT,ARR ARR,Sabine Davis
 FOR_LANG,120,[DIVR] Introduction to Foreign Cultures,01,11954,3,"TU,TH10.35-11.50",WEB ARR,Joshua Bonzo
 FOR_LANG,495,Cooperative Education Internship,01,08244,V,ARRGT,ARR ARR,Karen Jennings
+FOR_LANG,495,Cooperative Education Internship,02,17500,V,ARRGT,ARR ARR,Maria Previto
 FRENCH,101,First Semester,01,09531,4,"M,TU,W,TH9.10-10",WEB ARR,Mark Black
 FRENCH,101,First Semester,02,06098,4,"M,TU,W,TH12.10-13",WEB ARR,Mark Black
 FRENCH,102,Second Semester,01,06099,4,"M,TU,W,TH12.10-13",WEB ARR,Sabine Davis
@@ -2495,7 +2496,7 @@ HISTORY,486,United States Foreign Relations,01,04535,3,"M,W,F10.10-11",WEB ARR,M
 HISTORY,498,History Internship,01,05401,V,ARRGT,ARR ARR,(multiple)
 HISTORY,509,Field Course: Foundations in US History,01,05407,3,M14.10-17,WEB ARR,Lawrence Hatter
 HISTORY,554,"[HUM] Age of Empire: Europe, 1871-1914",01,08312,3,"TU,TH13.30-14.45",WEB ARR,Steven Kale
-HISTORY,570,World History Theory and Methods,01,05408,3,TH14.10-17,WEB ARR,Ashley Wright
+HISTORY,570,World History Theory and Methods,01,05408,3,F14.10-17,WEB ARR,Ashley Wright
 HISTORY,580,Historiography,01,05409,3,TU14.10-17,WEB ARR,Raymond Sun
 HISTORY,597,Seminar in History,01,05410,V,ARRGT,ARR ARR,(multiple)
 HISTORY,598,History Internship,01,05402,V,ARRGT,ARR ARR,(multiple)
@@ -2678,8 +2679,8 @@ I_D,197,Design Communication I,01 Lab,09779,0,"TU,TH9.10-10.50",WEB ARR,Leah Pec
 I_D,197,Design Communication I,02 Lab,16442,0,TU11.10-12.50,WEB ARR,Leah Peck
 I_D,197,Design Communication I,03 Lab,16443,0,TH9.10-10.50,WEB ARR,Leah Peck
 I_D,197,Design Communication I,04 Lab,16444,0,TH11.10-12.50,WEB ARR,Leah Peck
-I_D,201,Interior Design Studio II,02,09942,4,ARRGT,ARR ARR,Robert Krikac
-I_D,201,Interior Design Studio II,02 Lab,09941,0,"M,W,F13.10-16",WEB ARR,Carrie Vielle
+I_D,201,Interior Design Studio II,02,09942,4,ARRGT,ARR ARR,""
+I_D,201,Interior Design Studio II,02 Lab,09941,0,"M,W,F13.10-16",WEB ARR,""
 I_D,205,Visual Communication,01,05917,3,M10.10-11.50,WEB ARR,Carrie Vielle
 I_D,205,Visual Communication,01 Lab,05918,0,W10.10-11.50,WEB ARR,Carrie Vielle
 I_D,321,Interior Design Studio IV,01,05920,4,ARRGT,ARR ARR,Minyoung Cerruti
@@ -2700,7 +2701,7 @@ I_D,525,Interior Design Graduate Studio I,01,05926,5,"W,F13.10-18",WEB ARR,Taiji
 I_D,530,Philosophies and Theories of the Built Environment,01,08041,3,W17.45-20.15,WEB ARR,Jason Gruen
 I_D,700,"Master's Research, Thesis, and/or Examination",01,14713,V,ARRGT,ARR ARR,Judith Theodorson
 I_D,702,"Master's Special Problems, Directed Study and/or Examination",01,05928,V,ARRGT,ARR ARR,(multiple)
-INTERDIS,490,McNair Preparation for Graduate School,01,05098,1,ARRGT,ARR ARR,""
+INTERDIS,490,McNair Preparation for Graduate School,01,05098,1,ARRGT,ARR ARR,Raymond Herrera
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,05004,V,ARRGT,ARR ARR,(multiple)
 ISE,300,INTRN'L EXCH,01,04914,V,ARRGT,ARR ARR,""
 JAPANESE,101,First Semester,01,05011,4,"M,TU,W,TH10.10-11",WEB ARR,Kayo Niimi
@@ -2787,7 +2788,6 @@ KIN_ACTV,139,Intermediate Bowling,01,15370,1,TU15.10-17,WEB ARR,""
 KIN_ACTV,140,Fly Fishing,01,14964,1,TU10.35-12.25,WEB ARR,Tami Goetz
 KINES,138,Introduction to Kinesiology,01,04499,1,"M,W,F12.10-13",WEB ARR,Hallie Music
 KINES,138,Introduction to Kinesiology,02,04500,1,"M,W,F12.10-13",WEB ARR,Hallie Music
-KINES,162,Foundations of Physics for Sport and Exercise,01,15579,3,"TU,TH12.05-13.20",WEB ARR,""
 KINES,199,Human Motor Development,01,06997,3,"M,W,F9.10-10",WEB ARR,Judith Schultz
 KINES,199,Human Motor Development,02,06998,3,"M,W,F13.10-14",WEB ARR,Judith Schultz
 KINES,201,[HUM] Exploring Meaning in Sport and Movement,01,09233,3,"TU,TH12.05-13.20",WEB ARR,""
@@ -2849,7 +2849,7 @@ KINES,490,Instructional Practicum,06,07040,V,ARRGT,ARR ARR,Kimberly Holmstrom
 KINES,490,Instructional Practicum,07,07041,V,ARRGT,ARR ARR,Shikha Prashad
 KINES,490,Instructional Practicum,09,07043,V,ARRGT,ARR ARR,Robert Catena
 KINES,490,Instructional Practicum,13,07047,V,ARRGT,ARR ARR,Christopher Connolly
-KINES,493,Athletic Training Clinical Internship III,02,17428,2,W8.10-9,WEB ARR,Katharine Pietz
+KINES,493,Athletic Training Clinical Internship III,02,17428,2,W8.10-9,CUE 114,Katharine Pietz
 KINES,496,Special Topics,01,07541,V,M12.10-13,WEB ARR,Shelby Mckay
 KINES,496,Special Topics,02,07542,V,M13.10-14,WEB ARR,Shelby Mckay
 KINES,496,Special Topics,03,07543,V,TU8.10-9,WEB ARR,Derrick Mitchell
@@ -2885,8 +2885,8 @@ LND_ARCH,262,Landscape Architectural Design I,02,09934,4,"M,W,F13.10-16",WEB ARR
 LND_ARCH,327,Theory in Landscape Architecture,01,05731,3,"TU,TH10.35-11.50",WEB ARR,Stephen Austin
 LND_ARCH,362,Landscape Architectural Design III,01,09009,4,"M,W13.10-16",WEB ARR,Michael Sanchez
 LND_ARCH,362,Landscape Architectural Design III,02,12089,4,"M,W13.10-16",WEB ARR,Alex Mann
-LND_ARCH,366,Landscape Architectural Construction II,01,05732,4,"TU,TH13.30-14.45",WEB ARR,Michael Sanchez
-LND_ARCH,366,Landscape Architectural Construction II,01 Lab,05733,0,"TU,TH14.55-17.05",WEB ARR,Michael Sanchez
+LND_ARCH,366,Landscape Architectural Construction II,01,05732,4,"TU,TH13.30-14.45",WEB ARR,David Drake
+LND_ARCH,366,Landscape Architectural Construction II,01 Lab,05733,0,"TU,TH14.55-17.05",WEB ARR,David Drake
 LND_ARCH,399,Professional Work Experience: Office Practice,01,10047,V,ARRGT,ARR ARR,Jolie Kaytes
 LND_ARCH,470,Landscape Architectural Design V,01,05734,4,ARRGT,ARR ARR,Katherine Kraszewski
 LND_ARCH,470,Landscape Architectural Design V,01 Lab,05735,0,"TU,TH13.30-17",WEB ARR,Katherine Kraszewski
@@ -2913,7 +2913,7 @@ MATH,103,Algebra Methods and Introduction to Functions,05,03563,3,"M,W,F8.10-9",
 MATH,103,Algebra Methods and Introduction to Functions,06,03564,3,"M,W,F9.10-10",WEB ARR,Kenny Nguyen
 MATH,103,Algebra Methods and Introduction to Functions,07,03565,3,"M,W,F10.10-11",WEB ARR,Xiaoming Wen
 MATH,103,Algebra Methods and Introduction to Functions,08,03566,3,"M,W,F11.10-12",WEB ARR,Xiaoming Wen
-MATH,103,Algebra Methods and Introduction to Functions,09,03567,3,"M,W,F8.10-9",WEB ARR,""
+MATH,103,Algebra Methods and Introduction to Functions,09,03567,3,"M,W,F8.10-9",WEB ARR,Jesus Lopez
 MATH,103,Algebra Methods and Introduction to Functions,10,03568,3,"M,W,F11.10-12",WEB ARR,Claudia Pacioni
 MATH,103,Algebra Methods and Introduction to Functions,11,03569,3,"M,W,F12.10-13",WEB ARR,Claudia Pacioni
 MATH,103,Algebra Methods and Introduction to Functions,12,03570,3,"M,W,F13.10-14",WEB ARR,David Hampson
@@ -2924,8 +2924,8 @@ MATH,103,Algebra Methods and Introduction to Functions,16,03574,3,"M,W,F12.10-13
 MATH,103,Algebra Methods and Introduction to Functions,17,03575,3,"M,W,F10.10-11",WEB ARR,Chaitra Hande
 MATH,103,Algebra Methods and Introduction to Functions,18,03576,3,"M,W,F13.10-14",WEB ARR,Xiaoming Wen
 MATH,103,Algebra Methods and Introduction to Functions,19,03577,3,"M,W,F14.10-15",WEB ARR,Hung Le
-MATH,103,Algebra Methods and Introduction to Functions,20,03670,3,"M,W,F9.10-10",WEB ARR,""
-MATH,103,Algebra Methods and Introduction to Functions,21,03671,3,"M,W,F15.10-16",WEB ARR,""
+MATH,103,Algebra Methods and Introduction to Functions,20,03670,3,"M,W,F9.10-10",WEB ARR,Blake Nelson
+MATH,103,Algebra Methods and Introduction to Functions,21,03671,3,"M,W,F15.10-16",WEB ARR,Rachel Perrier
 MATH,105,[QUAN] Exploring Mathematics,01,03526,3,"M,W,F10.10-11",WEB ARR,Emily Sablan
 MATH,105,[QUAN] Exploring Mathematics,07,03691,3,"TU,TH9.10-10.25",WEB ARR,Sahar Nesaei
 MATH,106,College Algebra,01,03578,3,"M,W,F9.10-10",WEB ARR,Mindy Morgan
@@ -2957,7 +2957,7 @@ MATH,171,[QUAN] Calculus I,02 Lab,03533,0,TU9.10-10.25,WEB ARR,""
 MATH,171,[QUAN] Calculus I,"","","",TH9.10-10.25,WEB ARR,""
 MATH,171,[QUAN] Calculus I,03 Lab,03534,0,TU16.20-17.35,WEB ARR,""
 MATH,171,[QUAN] Calculus I,"","","",TH16.20-17.35,WEB ARR,""
-MATH,171,[QUAN] Calculus I,04 Lab,03535,0,W14.10-15.25,WEB ARR,""
+MATH,171,[QUAN] Calculus I,04 Lab,03535,0,W14.10-15.25,WEB ARR,Jeanette Martin
 MATH,171,[QUAN] Calculus I,"","","",F14.10-15.25,WEB ARR,""
 MATH,171,[QUAN] Calculus I,05 Lab,03674,0,W15.45-17,WEB ARR,""
 MATH,171,[QUAN] Calculus I,"","","",F15.45-17,WEB ARR,""
@@ -2975,7 +2975,8 @@ MATH,171,[QUAN] Calculus I,12 Lab,03694,0,TU17.45-19,WEB ARR,""
 MATH,171,[QUAN] Calculus I,"","","",TH17.45-19,WEB ARR,""
 MATH,171,[QUAN] Calculus I,13 Lab,03541,0,W11.10-12.25,WEB ARR,""
 MATH,171,[QUAN] Calculus I,"","","",F11.10-12.25,WEB ARR,""
-MATH,171,[QUAN] Calculus I,17 Lab,03723,0,ARRGT,ARR ARR,Jin Sung
+MATH,171,[QUAN] Calculus I,14 Lab,03542,0,TU10.35-11.50,WEB ARR,""
+MATH,171,[QUAN] Calculus I,"","","",TH10.35-11.50,WEB ARR,""
 MATH,172,Calculus II,01,03591,4,"M,W,F9.10-10",WEB ARR,Jeanette Martin
 MATH,172,Calculus II,02,03592,4,"M,W,F13.10-14",WEB ARR,Mark Schumaker
 MATH,172,Calculus II,02 Lab,03594,0,TU9.10-10.25,WEB ARR,""
@@ -2990,6 +2991,8 @@ MATH,172,Calculus II,06 Lab,03695,0,TU13.30-14.45,WEB ARR,""
 MATH,172,Calculus II,"","","",TH13.30-14.45,WEB ARR,""
 MATH,172,Calculus II,07 Lab,03598,0,TU10.35-11.50,WEB ARR,""
 MATH,172,Calculus II,"","","",TH10.35-11.50,WEB ARR,""
+MATH,172,Calculus II,08 Lab,03599,0,TU12-13.15,WEB ARR,""
+MATH,172,Calculus II,"","","",TH12-13.15,"",""
 MATH,182,Honors Calculus II,01,03600,4,"M,W,F9.10-10",WEB ARR,Jemin Shim
 MATH,182,Honors Calculus II,01 Lab,03601,0,"TU,TH9.10-10.25",WEB ARR,""
 MATH,201,Mathematics for Business and Economics,01,03544,3,"M,W,F9.10-10",WEB ARR,Danhong Zhang
@@ -3363,6 +3366,7 @@ MPS,570,Advanced Topics in Molecular Plant Sciences,01,04917,1,W16.10-17,WEB ARR
 MPS,800,"Doctoral Research, Dissertation and/or Examination",01,04918,V,ARRGT,ARR ARR,(multiple)
 MSE,110,Introduction to Materials Science,01,06295,2,"TU,TH13.30-14.20",WEB ARR,Qizhen Li
 MSE,201,Materials Science,01,08458,3,"M,W,F11.10-12",WEB ARR,Irmak Sargin
+MSE,201,Materials Science,02,06296,3,"M,W,F12.10-13",WEB ARR,Irmak Sargin
 MSE,302,Electronic Materials,01,06297,3,"M,W,F12.10-13",WEB ARR,Min Kyu Song
 MSE,316,Thermodynamics and Kinetics of Materials,01,06298,3,"M,W,F9.10-10",WEB ARR,Qizhen Li
 MSE,320,[M] Materials Structure - Properties Lab,01,06299,3,M11.10-12,WEB ARR,Colin Merriman
@@ -3537,12 +3541,12 @@ MUS,465,Seminar in Major Performance Literature,12,09660,2,ARRGT,ARR ARR,Sophia 
 MUS,465,Seminar in Major Performance Literature,13,15423,2,ARRGT,ARR ARR,Martin King
 MUS,482,Instrumental Conducting,01,06060,1,"M,W,F11.10-12",WEB ARR,Danh Pham
 MUS,484,Woodwind Techniques I,01,09090,1,"TU,TH8.10-9",WEB ARR,Martin King
-MUS,486,String Techniques I,01,09091,1,"TU,TH10-10.50",WEB ARR,Meredith Arksey
+MUS,486,String Techniques I,01,09091,1,"TU,TH10-10.50",ARR ARR,Meredith Arksey
 MUS,488,Choral Methods and Materials I,01,09082,2,"M,W8.10-9",WEB ARR,Dean Luethi
 MUS,491,Voice Pedagogy,01,06061,2,"M,W,F11.10-12",WEB ARR,Aaron Agulay
 MUS,491,Voice Pedagogy,01 Lab,06063,0,ARRGT,ARR ARR,Aaron Agulay
 MUS,496,Topics in Music,01,06065,V,TU17-18.15,WEB ARR,Martin King
-MUS,496,Topics in Music,02,16061,V,ARRGT,ARR ARR,Horace Young
+MUS,496,Topics in Music,02,16061,2,ARRGT,ARR ARR,Horace Young
 MUS,497,Directed Student Teaching in Music,01,06066,V,ARRGT,ARR ARR,Martin King
 MUS,498,Piano Pedagogy Practicum,01,06067,2,ARRGT,ARR ARR,Fabio Menchetti
 MUS,499,Special Problems,01,06068,V,ARRGT,ARR ARR,Christopher Dickey
@@ -3557,7 +3561,7 @@ MUS,505,Trumpet,01,06071,V,TU11-11.50,WEB ARR,David Turnbull
 MUS,506,Trombone,01,06072,V,TU11-11.50,WEB ARR,Sarah Miller
 MUS,507,Euphonium,01,06073,V,TU11-11.50,WEB ARR,Christopher Dickey
 MUS,508,Tuba,01,06074,V,TU11-11.50,WEB ARR,Christopher Dickey
-MUS,509,Percussion,01,06075,V,TU11-11.50,WEB ARR,David Jarvis
+MUS,509,Percussion,01,06075,V,TU11-11.50,WEB ARR,Brent Edwards
 MUS,510,Violin,01,06076,V,TU11-11.50,WEB ARR,Meredith Arksey
 MUS,511,Viola,01,06077,V,TU11-11.50,WEB ARR,Meredith Arksey
 MUS,512,Violoncello,01,06078,V,TU11-11.50,WEB ARR,Ruth Boden
@@ -3575,8 +3579,8 @@ MUS,535,Chamber Ensembles,02,09664,1,ARRGT,ARR ARR,Christopher Dickey
 MUS,535,Chamber Ensembles,03,09665,1,ARRGT,ARR ARR,Brent Edwards
 MUS,535,Chamber Ensembles,04,09666,1,ARRGT,ARR ARR,David Turnbull
 MUS,535,Chamber Ensembles,05,09806,1,ARRGT,ARR ARR,Horace Young
-MUS,535,Chamber Ensembles,06,09807,1,ARRGT,ARR ARR,Jill Schneider
-MUS,535,Chamber Ensembles,07,09808,1,ARRGT,ARR ARR,Christopher Nakielski
+MUS,535,Chamber Ensembles,06,09807,1,ARRGT,ARR ARR,Fabio Menchetti
+MUS,535,Chamber Ensembles,07,09808,1,ARRGT,ARR ARR,Jacqueline Wilson
 MUS,535,Chamber Ensembles,08,09809,1,ARRGT,ARR ARR,Sophia Tegart
 MUS,535,Chamber Ensembles,09,09810,1,ARRGT,ARR ARR,Sarah Miller
 MUS,535,Chamber Ensembles,10,09811,1,ARRGT,ARR ARR,Shannon Scott
@@ -3604,7 +3608,7 @@ NEUROSCI,105,[BSCI] Meet Your Brain,01,09784,3,"TU,TH9.10-10.25",WEB ARR,Samanth
 NEUROSCI,301,Foundations of Neuroscience I,01,04915,3,"M,W,F10.10-11",WEB ARR,Ryan Mclaughlin
 NEUROSCI,425,Foundations of Medical Physiology,01,09179,3,"TU,TH14.55-16.10",WEB ARR,Peter Meighan
 NEUROSCI,426,Foundations of Medical Physiology Lab,01,09180,1,ARRGT,ARR ARR,Peter Meighan
-NEUROSCI,430,[M] Principles of Neurophysiology,01,06457,4,"TU,TH10.35-11.50",WEB ARR,James Peters
+NEUROSCI,430,[M] Principles of Neurophysiology,01,06457,4,"TU,TH10.35-11.50",WEB ARR,""
 NEUROSCI,430,[M] Principles of Neurophysiology,01 Lab,06458,0,TH14.10-17,WEB ARR,James Peters
 NEUROSCI,430,[M] Principles of Neurophysiology,02 Lab,07594,0,F9.10-12,WEB ARR,James Peters
 NEUROSCI,430,[M] Principles of Neurophysiology,03 Lab,07922,0,F14.10-17,WEB ARR,James Peters
@@ -3953,7 +3957,7 @@ SDC,100,[ARTS] World of Design and Construction,02,06874,3,"TU,TH12.05-13.20",WE
 SDC,120,Foundational Drawing,01,06875,3,"W,F9.10-11.40",WEB ARR,Taiji Miyasaka
 SDC,120,Foundational Drawing,02,06876,3,"TU,TH9.10-11.40",WEB ARR,Michael Sanchez
 SDC,120,Foundational Drawing,03,06877,3,"TU,TH13.30-16",WEB ARR,Robert Krikac
-SDC,120,Foundational Drawing,04,08482,3,"W,F13.10-15.40",WEB ARR,Omar Al-Hassawi
+SDC,120,Foundational Drawing,04,08482,3,"W,F13.10-15.40",WEB ARR,David Drake
 SDC,250,Global History of Design I,01,06878,3,"TU,TH13.30-14.45",WEB ARR,Carrie Vielle
 SDC,300,Fabrication Lab Practice,01,08108,1,TH13.30-15.20,WEB ARR,David Drake
 SDC,300,Fabrication Lab Practice,02,08132,1,F13.10-15,WEB ARR,David Drake
@@ -4087,11 +4091,7 @@ SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",02 Lab,06228,0,
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",03 Lab,06229,0,W9.10-11.45,WEB ARR,""
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",04 Lab,06230,0,W12.10-14.45,WEB ARR,""
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",05 Lab,06231,0,TU12.10-14.45,WEB ARR,""
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",06 Lab,06232,0,TU12.10-14.45,WEB ARR,""
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",07 Lab,06233,0,TH12.10-14.45,WEB ARR,""
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",09 Lab,06237,0,M9.10-11.45,WEB ARR,""
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",10 Lab,06238,0,M12.10-14.45,WEB ARR,""
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",12 Lab,06240,0,W12.10-14.45,WEB ARR,""
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",13 Lab,06241,0,TU9.10-11.45,WEB ARR,""
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",14 Lab,06242,0,TU9.10-11.45,WEB ARR,""
 SOE,204,Introduction to Measurements and Analysis in Natural Resource Sciences,01,06283,2,M12.10-13,WEB ARR,Amanda Stahl
@@ -4150,6 +4150,7 @@ SOE,492,Special Topics,01,06246,V,ARRGT,ARR ARR,""
 SOE,492,Special Topics,02,09276,V,ARRGT,ARR ARR,Mark Swanson
 SOE,495,Undergraduate Internship,01,06247,V,ARRGT,ARR ARR,Allyson King
 SOE,495,Undergraduate Internship,02,09503,V,ARRGT,ARR ARR,Kara Whitman
+SOE,495,Undergraduate Internship,03,09890,V,ARRGT,ARR ARR,Allyson King
 SOE,495,Undergraduate Internship,04,09971,V,ARRGT,ARR ARR,William Schlosser
 SOE,495,Undergraduate Internship,05,10010,V,ARRGT,ARR ARR,Caren Goldberg
 SOE,495,Undergraduate Internship,07,10099,V,ARRGT,ARR ARR,Mark Swanson
@@ -4301,7 +4302,7 @@ SPEC_ED,504,Professional Skills in Special Education,01,05948,3,ARRGT,ARR ARR,Ma
 SPEC_ED,509,Early Childhood Special Education,01,05950,3,ARRGT,ARR ARR,Amira Albagshi
 SPEC_ED,520,Teaching in Inclusive Classrooms,03,05953,2,TH17.10-19,WEB ARR,Holly Whittenburg
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,05955,3,ARRGT,ARR ARR,Michael Dunn
-SPEC_ED,522,Topics in Special Education,01,08257,V,ARRGT,ARR ARR,""
+SPEC_ED,522,Topics in Special Education,01,08257,V,ARRGT,ARR ARR,Donald Mcmahon
 SPEC_ED,522,Topics in Special Education,03,15583,V,W16.10-17,WEB ARR,Donald Mcmahon
 SPEC_ED,590,Practicum in Special Education,01,05958,V,ARRGT,ARR ARR,""
 SPEC_ED,591,Response to Intervention Across the Core Academic Curriculum,01,08054,3,W17.45-20.30,WEB ARR,Michael Dunn
@@ -4353,19 +4354,13 @@ STAT,212,[QUAN] Introduction to Statistical Methods,04 Lab,04166,0,TU14.10-16,WE
 STAT,212,[QUAN] Introduction to Statistical Methods,05 Lab,04167,0,TH14.10-16,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,06 Lab,04168,0,W12.10-14,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,07 Lab,04169,0,W17.10-19,WEB ARR,Md Mahedi Hasan
-STAT,212,[QUAN] Introduction to Statistical Methods,08 Lab,04170,0,TU10.10-12,WEB ARR,""
-STAT,212,[QUAN] Introduction to Statistical Methods,09 Lab,04171,0,TH10.10-12,WEB ARR,""
-STAT,212,[QUAN] Introduction to Statistical Methods,10 Lab,04172,0,TU12.10-14,WEB ARR,""
-STAT,212,[QUAN] Introduction to Statistical Methods,11 Lab,04173,0,TU16.10-18,WEB ARR,""
-STAT,212,[QUAN] Introduction to Statistical Methods,12 Lab,04174,0,TH12.10-14,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,13 Lab,04175,0,W8.10-10,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,14 Lab,04176,0,W10.10-12,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,15 Lab,04177,0,F12.10-14,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,17 Lab,04179,0,M10.10-12,WEB ARR,""
-STAT,212,[QUAN] Introduction to Statistical Methods,18 Lab,04180,0,F10.10-12,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,19 Lab,04182,0,M18.10-20,WEB ARR,""
 STAT,360,Probability and Statistics,01,04152,3,"M,W,F11.10-12",WEB ARR,Debasmita Das
-STAT,360,Probability and Statistics,02,04153,3,"TU,TH13.30-14.45",WEB ARR,Haijun Li
+STAT,360,Probability and Statistics,02,04153,3,"TU,TH13.30-14.45",WEB ARR,Xiaoming Wen
 STAT,360,Probability and Statistics,03,04214,3,"TU,TH10.35-11.50",WEB ARR,Haijun Li
 STAT,370,Introductory Statistics for Engineers,01,04154,3,"TU,TH9.10-10.25",WEB ARR,Dylan Hull-Nye
 STAT,370,Introductory Statistics for Engineers,02,04192,3,"M,W,F9.10-10",WEB ARR,Sepideh Nesaei
@@ -4390,12 +4385,12 @@ STAT,591,Seminar in Statistics,01,04213,1,W16.10-17,WEB ARR,Abhishek Kaul
 STAT,600,Special Projects or Independent Study,01,04159,V,ARRGT,ARR ARR,""
 STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,04160,V,ARRGT,ARR ARR,(multiple)
 STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,04211,V,ARRGT,ARR ARR,(multiple)
-TCH_LRN,301,Learning and Development,01,07460,3,"M,W,F13.10-14",WEB ARR,""
-TCH_LRN,301,Learning and Development,02,07461,3,"TU,TH14.55-16.10",WEB ARR,""
-TCH_LRN,301,Learning and Development,03,07462,3,"TU,TH9.10-10.25",WEB ARR,""
-TCH_LRN,301,Learning and Development,04,07463,3,"M,W,F9.10-10",WEB ARR,""
-TCH_LRN,301,Learning and Development,05,07464,3,"TU,TH11.10-12.25",WEB ARR,""
-TCH_LRN,301,Learning and Development,06,07465,3,"TU,TH12.40-13.55",WEB ARR,""
+TCH_LRN,301,Learning and Development,01,07460,3,"M,W,F13.10-14",WEB ARR,Marcus Poppen
+TCH_LRN,301,Learning and Development,02,07461,3,"TU,TH14.55-16.10",WEB ARR,Heather Welsh-Griffin
+TCH_LRN,301,Learning and Development,03,07462,3,"TU,TH9.10-10.25",WEB ARR,Heather Welsh-Griffin
+TCH_LRN,301,Learning and Development,04,07463,3,"M,W,F9.10-10",WEB ARR,Theresa Watson
+TCH_LRN,301,Learning and Development,05,07464,3,"TU,TH11.10-12.25",WEB ARR,Humberto Jimenez
+TCH_LRN,301,Learning and Development,06,07465,3,"TU,TH12.40-13.55",WEB ARR,Humberto Jimenez
 TCH_LRN,304,Introduction to Middle Level Education,01,07466,3,W16.10-19,WEB ARR,Tariq Akmal
 TCH_LRN,307,Survey of Children's Literature,01,08088,3,TU8.10-11,WEB ARR,Jane Kelley
 TCH_LRN,307,Survey of Children's Literature,02,08089,3,W12.10-15,WEB ARR,Jane Kelley
@@ -4415,13 +4410,13 @@ TCH_LRN,371,Teaching Elementary Science,01,07478,3,TU13.10-16,WEB ARR,Don Lee
 TCH_LRN,371,Teaching Elementary Science,02,07479,3,TH13.10-16,WEB ARR,Don Lee
 TCH_LRN,385,Teaching Elementary Social Studies,01,07480,3,"TU,TH10.30-12.20",WEB ARR,Brandon Edwards-Schuth
 TCH_LRN,385,Teaching Elementary Social Studies,02,07481,3,"TU,TH8.10-10",WEB ARR,Brandon Edwards-Schuth
-TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,01,14714,3,M16.10-19.30,WEB ARR,""
-TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,02,14715,3,TU16.10-19.30,WEB ARR,""
+TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,01,14714,3,M16.10-19.30,WEB ARR,Jennifer Harbour
+TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,02,14715,3,TU16.10-19.30,WEB ARR,Desiree Gould
 TCH_LRN,401,Practicum in Bilingual/ESL Education,01,07603,3,TH16.10-19,WEB ARR,Isabel Haller Gryc
 TCH_LRN,401,Practicum in Bilingual/ESL Education,01 Lab,07605,0,ARRGT,ARR ARR,Isabel Haller Gryc
 TCH_LRN,402,Instructional Practicum I,01,07482,V,M11.10-12,WEB ARR,Lori White
 TCH_LRN,405,Instructional Practicum II,01,07483,V,F11.10-12,WEB ARR,Lori White
-TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,01,07604,3,M16.10-19,WEB ARR,""
+TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,01,07604,3,M16.10-19,WEB ARR,Omran Akasha
 TCH_LRN,410,Theoretical Foundations of Bilingual/ESL Education,01,08295,3,TU17.45-20.30,WEB ARR,Eric Johnson
 TCH_LRN,413,Introduction to ESL for K-8 Teachers,01,07485,3,"M,W10.30-12.20",WEB ARR,Nalee Moua
 TCH_LRN,413,Introduction to ESL for K-8 Teachers,02,07486,3,"M,W8.10-10",WEB ARR,Nalee Moua
@@ -4451,7 +4446,7 @@ TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,01,07484,3,TU17.4
 TCH_LRN,512,Language and Cultural Factors in Mathematics,01,08058,3,TH16.20-19.05,WEB ARR,Molly Kelton
 TCH_LRN,517,Coding for Teachers,01,14717,3,TU9.10-12,WEB ARR,Joy Egbert
 TCH_LRN,519,Instructional Media Production I,01,09184,3,M13.10-16,WEB ARR,Joy Egbert
-TCH_LRN,522,Topics in Education,01,07504,V,ARRGT,ARR ARR,Tariq Akmal
+TCH_LRN,522,Topics in Education,01,07504,V,ARRGT,ARR ARR,""
 TCH_LRN,534,Conceptualization of Proportional Thinking,01,08640,3,TH16.20-19.05,WEB ARR,""
 TCH_LRN,544,Teaching Children's and Young Adult Literature,02,09864,3,W17.15-20,WEB ARR,Sarah Newcomer
 TCH_LRN,550,Second Language Learning and Literacy,01,08101,3,W13.10-16,WEB ARR,Thomas Salsbury
@@ -4730,6 +4725,7 @@ VET_MED,674,Small Animal Intensive Care,01,06984,V,ARRGT,ARR ARR,Linda Martin
 VET_MED,675,Emergency and Critical Care,01,06985,V,ARRGT,ARR ARR,Jarrod Troy
 VET_MED,676,Veterinary Research Practicum,01,06986,V,ARRGT,ARR ARR,William Dernell
 VET_MED,690,Externship,01,06987,V,ARRGT,ARR ARR,Matthew Mickas
+VET_MED,690,Externship,02,08172,V,ARRGT,ARR ARR,Matthew Mickas
 VET_MED,691,Guided Preceptorship,01,06988,V,ARRGT,ARR ARR,Matthew Mickas
 VET_MED,692,"Government, Corporate, and Zoological Practice Elective",01,06989,V,ARRGT,ARR ARR,William Dernell
 VET_MED,693,Laboratory Animal Medicine,01,06990,V,ARRGT,ARR ARR,Brian Iritani
@@ -4822,9 +4818,8 @@ WRIT,302,Advanced Writing Collaborative,05,09740,1,W10.10-11,WEB ARR,Brooklyn Wa
 WRIT,302,Advanced Writing Collaborative,06,09741,1,W11.10-12,WEB ARR,Brooklyn Walter
 WRIT,302,Advanced Writing Collaborative,07,09742,1,W14.10-15,WEB ARR,Brooklyn Walter
 WRIT,302,Advanced Writing Collaborative,09,09744,1,TH12.10-13,WEB ARR,Brooklyn Walter
-WRIT,302,Advanced Writing Collaborative,11,09746,1,F10.10-11,WEB ARR,Brooklyn Walter
-WRIT,302,Advanced Writing Collaborative,12,09756,1,F14.10-15,WEB ARR,Brooklyn Walter
 WRIT,302,Advanced Writing Collaborative,13,09902,1,ARRGT,ARR ARR,""
+WRIT,302,Advanced Writing Collaborative,14,10032,1,ARRGT,ARR ARR,Brooklyn Walter
 WRIT,309,"Plagiarism Labyrinth: The Complex Relationship between Culture, Language, and Academic Integrity",01,09790,1,W12.10-13,WEB ARR,Pamela Duran
 WRIT,311,Composing and Evaluation Strategies for Writing Professional Documents,01,08146,1,W16.10-17,WEB ARR,Corinna Nicolaou
 WRIT,405,Writing Tutorial for Syntactic Structures in Professional and Academic Contexts,01,09235,1,TU11.10-12,WEB ARR,Melanie Thongs

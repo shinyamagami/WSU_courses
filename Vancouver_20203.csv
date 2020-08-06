@@ -111,8 +111,8 @@ COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,14895,3
 COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,17479,3,"TU,TH14.55-16.10",WEB ARR,Chelsea Newman
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,02891,3,"TU,TH13.25-14.40",WEB ARR,Narayanan Iyer
 COMSTRAT,495,Strategic Communication Professional Internship,01,02885,V,ARRGT,ARR ARR,Narayanan Iyer
-CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,02545,3,"TU,TH10.35-11.50",WEB ARR,Laurie Drapela
-CRM_J,330,Crime Control Policies,01,02955,3,"TU,TH13.25-14.40",WEB ARR,Laurie Drapela
+CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,02545,3,ARRGT,ARR ARR,Laurie Drapela
+CRM_J,330,Crime Control Policies,01,02955,3,ARRGT,ARR ARR,Laurie Drapela
 CRM_J,420,[M] Criminal Procedure,01,13057,3,"TU,TH9.10-10.25",WEB ARR,Laurie Collins-Levy
 CRM_J,426,Victimology and Public Policy,01,13058,3,"TU,TH14.50-16.05",WEB ARR,Kathryn Dubois
 CRM_J,428,Drug and Alcohol Use and Abuse,01,13059,3,TU17.45-20.30,WEB ARR,Kathryn Dubois
@@ -129,7 +129,7 @@ CS,317,Automata and Formal Languages,01,02772,3,"TU,TH12-13.15",WEB ARR,Farhana 
 CS,317,Automata and Formal Languages,02,15410,3,"TU,TH13.25-14.40",WEB ARR,Farhana Kabir
 CS,320,[M] Fundamentals of Software Engineering,01,02773,3,"M,W10.35-11.50",WEB ARR,Xinghui Zhao
 CS,330,Numerical Computing,01,02774,3,"M,W17.15-18.30",WEB ARR,Shamim Begum
-CS,420,[CAPS] Software Design Project I,01,02775,3,"M,W15.45-17",WEB ARR,Xinghui Zhao
+CS,420,[CAPS] Software Design Project I,01,02775,3,"M,W15.45-17",WEB ARR,Ben Mccamish
 CS,425,Digital Forensics,01,13044,3,"M,W9.10-10.25",WEB ARR,Anna Wisniewska
 CS,426,Applied Systems Security,01,03030,3,"TU,TH14.50-16.05",WEB ARR,Paul Bonamy
 CS,447,Computer Game Design,01,02776,3,"M,W13.25-14.40",WEB ARR,Scott Wallace
@@ -218,7 +218,7 @@ ED_AD,581,Politics in Education,01,02573,3,ARRGT,ARR ARR,Glenys Hill
 ED_AD,587,Seminar in School Administration,01,02574,3,ARRGT,ARR ARR,Glenys Hill
 ED_AD,588,The Law and Education,01,12979,3,TH17.45-20.30,WEB ARR,Kathryn Murdock
 ED_AD,589,Leadership Development Seminar,01,02598,3,W17.45-20.30,WEB ARR,Katherine Rodela
-ED_AD,590,Internship,01,02599,3,ARRGT,ARR ARR,""
+ED_AD,590,Internship,01,02599,3,ARRGT,ARR ARR,Joseph Lapidus
 ED_AD,590,Internship,02,02895,3,ARRGT,ARR ARR,Glenys Hill
 ED_AD,600,Special Projects or Independent Study,01,02943,3,ARRGT,ARR ARR,Glenys Hill
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,02532,V,ARRGT,ARR ARR,(multiple)
@@ -945,6 +945,7 @@ SOE,444,Environmental Assessment,01,02708,3,TH13.25-14.40,WEB ARR,Duncan Thomas
 SOE,445,Hazardous Waste Management,01,13514,3,"TU,TH16.15-17.30",WEB ARR,Raymond Swenson
 SOE,476,Biology and Ecology of Pacific Salmon,01,03192,3,"TU,TH16.25-17.40",WEB ARR,Jenifer Mcintyre
 SOE,491,Senior Seminar,01,02710,1,M15.10-17,WEB ARR,Kevin Turner
+SOE,495,Undergraduate Internship,01,02588,V,ARRGT,ARR ARR,Allyson King
 SOE,499,Special Problems,01,02589,V,ARRGT,ARR ARR,""
 SOE,501,Graduate Skills Seminar,01,02711,1,M14.10-15,WEB ARR,Cheryl Schultz
 SOE,510,Species Distribution Modeling,01,15517,3,"TU,TH9.10-10.25",WEB ARR,Daniel Thornton
@@ -985,7 +986,7 @@ STAT,423,Statistical Methods for Engineers and Scientists,01,02768,3,"W,F10.35-1
 STAT,435,[M] Statistical Modeling for Data Analytics,02,15431,3,"M,W14.10-15",WEB ARR,Xiongzhi Chen
 STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,15432,0,F15.10-16,WEB ARR,Xiongzhi Chen
 STAT,443,Applied Probability,01,13535,3,"TU,TH9.10-10.25",WEB ARR,Haijun Li
-STAT,446,Statistical Applications in Insurance,01,15068,3,ARRGT,ARR ARR,Mark Lesperance
+STAT,446,Statistical Applications in Insurance,01,15068,3,ARRGT,ARR ARR,""
 STAT,523,Statistical Methods for Engineers and Scientists,01,02769,3,"W,F10.35-11.50",WEB ARR,Francis Mcgrade
 STAT,536,Statistical Computing,01,03221,3,"M,W15.10-16",WEB ARR,Abhishek Kaul
 STAT,536,Statistical Computing,01 Lab,03222,0,F15.10-16,ARR ARR,""
@@ -1030,9 +1031,9 @@ UNIV,104,First-Year Success Seminar,08,14825,2,F12-13.50,WEB ARR,Eric Scott
 UNIV,104,First-Year Success Seminar,09,15488,2,TU14.50-16.40,WEB ARR,Shyanna Reyes
 UNIV,104,First-Year Success Seminar,10,15489,2,TU14.50-16.40,WEB ARR,Miwako Nakamoto
 UNIV,300,Accessing Information for Research,01,02751,1,ARRGT,ARR ARR,Samuel Lohmann
-UNIV,301,Career Exploration and Professional Development,01,13541,1,M16.15-17.05,WEB ARR,""
-UNIV,301,Career Exploration and Professional Development,03,15565,1,M16.15-17.05,WEB ARR,""
-UNIV,304,Transfer Student Seminar,01,14860,2,F12-13.50,WEB ARR,""
+UNIV,301,Career Exploration and Professional Development,01,13541,1,M16.15-17.05,WEB ARR,Cynthia Johnston
+UNIV,301,Career Exploration and Professional Development,03,15565,1,M16.15-17.05,WEB ARR,Cynthia Johnston
+UNIV,304,Transfer Student Seminar,01,14860,2,F12-13.50,WEB ARR,Nashma Carrera
 UNIV,398,Internship,01,02657,V,ARRGT,ARR ARR,Eric Scott
 UNIV,398,Internship,02,03197,V,ARRGT,ARR ARR,Judy Hopkins
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,02958,3,"TU,TH10.35-11.50",WEB ARR,Elizabeth Mcmenomy

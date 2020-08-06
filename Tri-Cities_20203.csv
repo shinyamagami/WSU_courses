@@ -133,6 +133,7 @@ CPT_S,440,Artificial Intelligence,01,01303,3,"TU,TH9.10-10.25",WEB ARR,Lawrence 
 CPT_S,453,Graph Theory,01,01717,3,"M,W,F14.10-15",WEB ARR,Matthew Hudelson
 CPT_S,455,Introduction to Computer Networks,01,01625,3,"M,W16.15-17.30",WEB ARR,Russell Swannack
 CPT_S,460,Operating Systems and Computer Architecture,01,01305,3,"M,W17.45-19",WEB ARR,Luis Delatorre
+CPT_S,475,Data Science,01,17498,3,"M,W,F9.10-10",WEB ARR,Assefaw Gebremedhin
 CPT_S,481,Python Software Construction,01,02069,3,"TU,TH12.05-13.20",WEB ARR,Robert Lewis
 CPT_S,483,Topics in Computer Science,01,15159,V,"M,W16.15-17.30",WEB ARR,William Hutton
 CPT_S,489,Web Development,01,15578,3,"M,W,F15.10-16",WEB ARR,Christopher Hundhausen
@@ -142,6 +143,7 @@ CPT_S,527,Computer Security,01,01519,3,"M,W,F12.10-13",WEB ARR,Ananth Jillepalli
 CPT_S,540,Artificial Intelligence,01,01304,3,"TU,TH9.10-10.25",WEB ARR,Lawrence Holder
 CPT_S,553,Graph Theory,01,01718,3,"M,W,F14.10-15",WEB ARR,Matthew Hudelson
 CPT_S,570,Machine Learning,01,17496,3,"TU,TH7.45-9",WEB ARR,Venkata Janardhan Rao Doppa
+CPT_S,575,Data Science,01,17497,3,"M,W,F9.10-10",WEB ARR,Assefaw Gebremedhin
 CPT_S,582,Software Testing,01,02004,3,ARRGT,ARR ARR,Venera Arnaoudova
 CPT_S,600,Special Projects or Independent Study,01,01311,V,ARRGT,ARR ARR,(multiple)
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,01312,V,ARRGT,ARR ARR,(multiple)
@@ -213,7 +215,7 @@ ED_RES,571,Doctoral Dissertation Preparation,02,15435,3,M17.45-20.30,WEB ARR,Sus
 ENGLISH,101,[WRTG] College Composition,01,01451,3,"M,W,F10.10-11",WEB ARR,Gibran Escalera
 ENGLISH,101,[WRTG] College Composition,02,01452,3,"M,W,F11.10-12",WEB ARR,Robin Mays
 ENGLISH,101,[WRTG] College Composition,03,01453,3,"TU,TH10.35-11.50",WEB ARR,Gibran Escalera
-ENGLISH,101,[WRTG] College Composition,04,01454,3,"TU,TH12.05-13.20",WEB ARR,""
+ENGLISH,101,[WRTG] College Composition,04,01454,3,"TU,TH12.05-13.20",WEB ARR,Reenie Arnold
 ENGLISH,102,Writing Tutorial,01,02218,1,TU10.35-11.25,WEB ARR,Robin Mays
 ENGLISH,102,Writing Tutorial,02,02219,1,W11.10-12,WEB ARR,Robin Mays
 ENGLISH,102,Writing Tutorial,03,02220,1,W13.10-14,WEB ARR,Robin Mays
@@ -230,9 +232,9 @@ ENGLISH,302,[M] Introduction to English Studies,01,13127,3,"M,W,F12.10-13",WEB A
 ENGLISH,360,Principles of Rhetoric,01,13125,3,"M,W,F11.10-12",WEB ARR,Vanessa Cozza
 ENGLISH,361,Everyday Rhetorics,02,02301,3,ARRGT,ARR ARR,Vanessa Cozza
 ENGLISH,372,[HUM] 19th Century Literature of the British Empire and the Americas,01,02049,3,"TU,TH9.10-10.25",WEB ARR,Gibran Escalera
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,01456,3,"M,W,F9.10-10",WEB ARR,""
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,01457,3,"TU,TH13.30-14.45",WEB ARR,""
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,01527,3,"M,W,F10.10-11",WEB ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,01456,3,"M,W,F9.10-10",WEB ARR,Stephanie Hamilton
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,01457,3,"TU,TH13.30-14.45",WEB ARR,Reenie Arnold
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,01527,3,"M,W,F10.10-11",WEB ARR,Stephanie Hamilton
 ENGLISH,405,Advanced Professional Writing and Editing,01,15511,3,ARRGT,ARR ARR,Julie Staggers
 ENGLISH,410,[CAPS] Cultural Criticism and Theory,01,16556,3,ARRGT,ARR ARR,Patricia Wilde
 ENGLISH,494,[CAPS] [M] Advanced Topics in Literature,01,01593,3,"TU,TH13.30-14.45",WEB ARR,W Mays
@@ -276,7 +278,7 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,01463,3,"M,W,F9.10-10",WE
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,01464,3,"M,W,F13.10-14",WEB ARR,Robert Franklin
 HISTORY,110,[HUM] American History to 1877,01,01673,3,"M,W,F11.10-12",WEB ARR,Tracey Hanshew
 HISTORY,110,[HUM] American History to 1877,02,02259,3,"M,W,F10.10-11",WEB ARR,Robert Franklin
-HISTORY,120,[DIVR] World History I,01,01465,3,"M,W,F12.10-13",WEB ARR,""
+HISTORY,120,[DIVR] World History I,01,01465,3,"M,W,F12.10-13",WEB ARR,John Kennedy
 HISTORY,235,[HUM] African American History,01,02055,3,"TU,TH9.10-10.25",WEB ARR,Robert Bauman
 HISTORY,272,[DIVR] Introduction to Middle Eastern History,01,02279,3,"TU,TH9.10-10.25",WEB ARR,Aaron Whelchel
 HISTORY,300,[M] Writing about History,01,01241,3,"TU,TH10.35-11.50",WEB ARR,Robert Bauman
@@ -755,12 +757,12 @@ NURS,308,Professional Development I: Evidence Based Practice,01,01014,3,W10.30-1
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,01015,3,TH13.10-16,WEB ARR,Billie Severtsen
 NURS,311,Pathophysiology and Pharmacology in Nursing,01,01016,4,W8.10-10,WEB ARR,Victoria Sattler
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11-13,WEB ARR,""
-NURS,315,Nursing Practice: Health and Illness,01,01017,4,ARRGT,ARR ARR,Gina Cronrath
-NURS,315,Nursing Practice: Health and Illness,02,01068,4,ARRGT,ARR ARR,Gina Cronrath
+NURS,315,Nursing Practice: Health and Illness,01,01017,4,ARRGT,ARR ARR,Mariana Neeway
+NURS,315,Nursing Practice: Health and Illness,02,01068,4,ARRGT,ARR ARR,Angela Hamel
 NURS,315,Nursing Practice: Health and Illness,03,01115,4,ARRGT,ARR ARR,Teresa Mendoza
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,01018,2,TU13.10-15,WEB ARR,Kay Olson
 NURS,317,Health Assessment,01,01019,3,TU10.30-12.30,WEB ARR,Robin Faubion
-NURS,317,Health Assessment,01 Lab,01020,0,ARRGT,ARR ARR,Angela Hamel
+NURS,317,Health Assessment,01 Lab,01020,0,ARRGT,ARR ARR,Shirley Mcintosh
 NURS,317,Health Assessment,02 Lab,01117,0,ARRGT,ARR ARR,Shirley Mcintosh
 NURS,322,The Human Experience of Diversity and Health,01,01021,2,F8.10-10,WEB ARR,Loretta Parisot
 NURS,323,Nursing in the Genome Era,01,01049,2,M8.10-10,WEB ARR,Lynn Jinishian
@@ -973,12 +975,12 @@ NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,""
 NURS,563,Advanced Pharmacology,02,01075,3,TU13.10-16,WEB ARR,Tracy Klein
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,""
-NURS,563,Advanced Pharmacology,"","","",TU13-16,WEB ARR,""
-NURS,563,Advanced Pharmacology,"","","",TU13-16,WEB ARR,""
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,""
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,""
 NURS,564,Family Health and Health Promotion of Populations,01,01009,3,M8.10-11,WEB ARR,Natsuko Wood
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,""
-NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-23,WEB ARR,""
+NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,""
 NURS,564,Family Health and Health Promotion of Populations,02,01080,3,M8.10-11,WEB ARR,Natsuko Wood
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,""
@@ -1050,8 +1052,8 @@ PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01 Lab,01364,0,TU8-10.
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,02 Lab,01365,0,TH8-10.50,WEB ARR,Cigdem Capan
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,03 Lab,01534,0,TH11.20-14.10,WEB ARR,Cigdem Capan
 PL_P,300,Diseases of Fruit Crops,01,02090,2,"TU,TH9.10-10",WEB ARR,Naidu Rayapati
-POL_S,101,[SSCI] American National Government,01,01422,3,"M,W,F10.10-11",WEB ARR,""
-POL_S,101,[SSCI] American National Government,02,13133,3,"TU,TH10.35-11.50",WEB ARR,""
+POL_S,101,[SSCI] American National Government,01,01422,3,"M,W,F10.10-11",WEB ARR,Kimball Waites
+POL_S,101,[SSCI] American National Government,02,13133,3,"TU,TH10.35-11.50",WEB ARR,Kimball Waites
 PSYCH,105,[SSCI] Introductory Psychology,01,02041,3,"TU,TH12.05-13.20",WEB ARR,Sarah Tragesser
 PSYCH,210,Psychology as a Science,01,01525,3,"M,W,F11.10-12",WEB ARR,Allison Matthews
 PSYCH,311,[QUAN] Statistics in Psychology,01,01423,4,"M,W,F9.10-10",WEB ARR,Janet Peters

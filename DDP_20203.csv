@@ -5,6 +5,7 @@ ACCTG,231,Introduction to Managerial Accounting,01,11116,3,ARRGT,ARR ARR,Brandon
 ACCTG,231,Introduction to Managerial Accounting,02,11468,3,ARRGT,ARR ARR,Brandon Holbrook
 ACCTG,330,Intermediate Accounting I,01,11117,3,ARRGT,ARR ARR,Jason Porter
 ACCTG,330,Intermediate Accounting I,02,11379,3,ARRGT,ARR ARR,Jason Porter
+ACCTG,330,Intermediate Accounting I,03,16372,3,ARRGT,ARR ARR,Jason Porter
 ACCTG,338,Cost Accounting,01,11564,3,ARRGT,ARR ARR,Beau Barnes
 ACCTG,338,Cost Accounting,02,11573,3,ARRGT,ARR ARR,Beau Barnes
 ACCTG,338,Cost Accounting,03,11706,3,ARRGT,ARR ARR,""
@@ -106,7 +107,6 @@ COM,102,[COMM] Public Speaking in the Digital Age,01,11119,3,ARRGT,ARR ARR,Lora 
 COM,102,[COMM] Public Speaking in the Digital Age,02,11309,3,ARRGT,ARR ARR,Lora Tsui
 COM,102,[COMM] Public Speaking in the Digital Age,03,11546,3,ARRGT,ARR ARR,Lora Tsui
 COM,102,[COMM] Public Speaking in the Digital Age,04,16929,3,ARRGT,ARR ARR,Lora Tsui
-COM,102,[COMM] Public Speaking in the Digital Age,05,16930,3,ARRGT,ARR ARR,Lora Tsui
 COM,102,[COMM] Public Speaking in the Digital Age,07,11850,3,ARRGT,ARR ARR,Michelle Kistler
 COM,105,[HUM] Communication in Global Contexts,01,11312,3,ARRGT,ARR ARR,Christine Curtis
 COM,105,[HUM] Communication in Global Contexts,03,11654,3,ARRGT,ARR ARR,Christine Curtis
@@ -134,6 +134,7 @@ COMSTRAT,310,Digital Content Promotion,02,16558,3,ARRGT,ARR ARR,Brett Atwood
 COMSTRAT,312,Principles of Public Relations,01,11502,3,ARRGT,ARR ARR,Cara Hawkins-Jedlicka
 COMSTRAT,380,Advertising Principles and Practices,01,11675,3,ARRGT,ARR ARR,Amanda Boyd
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,11586,3,ARRGT,ARR ARR,Margaret Ritsch
+COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,09,17488,3,ARRGT,ARR ARR,Thor Tolo
 COMSTRAT,476,Consumer Insights and Branding,01,11661,3,ARRGT,ARR ARR,Mina Park
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,11638,3,ARRGT,ARR ARR,Yen-I Lee
 COMSTRAT,485,[M] Public Relations Management and Campaigns,02,16900,3,ARRGT,ARR ARR,Margaret Ritsch
@@ -195,7 +196,8 @@ E_M,422,"Leadership, Supervision, and Management",01,11087,3,TH17.15-19.45,WEB A
 E_M,422,"Leadership, Supervision, and Management",02,11715,3,TH17.15-19.45,WEB ARR,William Gray
 E_M,460,Integrated Supply Chain Management,01,11088,3,TH17.15-19.45,WEB ARR,Kay Bachman
 E_M,464,Project Management,01,11089,3,M17.15-19.45,WEB ARR,Kay Bachman
-E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,14722,3,W18.15-20.45,"",""
+E_M,464,Project Management,02,17455,3,M17.15-19.45,"",William Gray
+E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,14722,3,W18.15-20.45,"",David Paulus
 E_M,485,Design of Experiments,01,11287,3,M18.15-20.45,WEB ARR,David Paulus
 E_M,503,Managing Variability Using Statistics,01,11629,3,M18-20.30,WEB ARR,Luna Magpili
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,11091,3,W17.15-19.45,WEB ARR,Robert Crick
@@ -203,8 +205,9 @@ E_M,522,"Leadership, Supervision, and Management",01,11086,3,TH17.15-19.45,WEB A
 E_M,522,"Leadership, Supervision, and Management",02,11714,3,TH17.15-19.45,WEB ARR,William Gray
 E_M,560,Integrated Supply Chain Management,01,11495,3,TH17.15-19.45,WEB ARR,Kay Bachman
 E_M,564,Project Management,01,11090,3,M17.15-19.45,WEB ARR,Kay Bachman
+E_M,564,Project Management,02,17476,3,M17.15-19.45,"",William Gray
 E_M,566,Systems Analysis and Practice,01,14718,3,TU17.15-19.45,WEB ARR,Alice Squires
-E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,14724,3,W18.15-20.45,"",""
+E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,14724,3,W18.15-20.45,"",David Paulus
 E_M,585,Design of Experiments,01,11288,3,M18.15-20.45,WEB ARR,David Paulus
 E_M,595,Advanced Topics in Engineering Management I,02,15636,V,ARRGT,ARR ARR,William Gray
 E_M,596,Advanced Topics in Engineering Management II,01,11631,3,ARRGT,ARR ARR,Kay Bachman
@@ -275,6 +278,7 @@ FIN,223,[QUAN] Personal Finance,01,11671,3,ARRGT,ARR ARR,Rodrigo Hernandez
 FIN,223,[QUAN] Personal Finance,02,11682,3,ARRGT,ARR ARR,Rodrigo Hernandez
 FIN,325,Introduction to Financial Management,01,11130,3,ARRGT,ARR ARR,Mario Reyes
 FIN,325,Introduction to Financial Management,02,11472,3,ARRGT,ARR ARR,Mario Reyes
+FIN,325,Introduction to Financial Management,03,11713,3,ARRGT,ARR ARR,Mario Reyes
 FIN,325,Introduction to Financial Management,04,11131,3,ARRGT,ARR ARR,Douglas Fairhurst
 FIN,325,Introduction to Financial Management,05,11132,3,ARRGT,ARR ARR,Douglas Fairhurst
 FIN,345,Real Estate,01,11114,3,ARRGT,ARR ARR,Francis Benjamin
@@ -334,6 +338,7 @@ H_D,408,Advanced Adolescent Development,01,11799,3,ARRGT,ARR ARR,Carole-Anne See
 H_D,410,[M] Public Policy Issues in Human Development,01,11079,3,ARRGT,ARR ARR,Mary Garcia
 H_D,445,Early Childhood Professional Preparation Seminar,01,11665,3,ARRGT,ARR ARR,Lindsay Krupke
 H_D,485,Participation in Human Development Research,01,11580,V,ARRGT,ARR ARR,""
+H_D,487,Special Topics in Human Development,01,17490,V,ARRGT,ARR ARR,Joseph Hewa
 H_D,497,Professional Preparation Seminar,02,11310,3,ARRGT,ARR ARR,Matthew Bumpus
 H_D,498,Field Placement,01,11554,V,ARRGT,ARR ARR,Joseph Hewa
 H_D,499,Special Problems,01,11081,V,ARRGT,ARR ARR,""
@@ -423,6 +428,7 @@ ME,306,Thermal and Fluids Laboratory,01 Lab,11520,0,"TU,TH12-15","",Behrang Asgh
 ME,313,Engineering Analysis,01,11246,3,"M,F13-13.50","",Ssu-Ying Chien
 ME,313,Engineering Analysis,01 Lab,11247,0,W13-16,"",Ssu-Ying Chien
 ME,316,Mechanical Component Analysis and Design,01,11252,3,"M,W,F14-14.50","",Marvin Pitts
+ME,405,Thermal Systems Design,01,11251,3,"M,W,F13-13.50","",Behrang Asgharian Dastenaie
 ME,415,[M] Engineering Design,01,11248,3,"M,W,F12-12.50","",Marvin Pitts
 ME,436,Combustion Engines,01,11139,3,"M,W,F15.10-16","",Dustin Mclarty
 ME,461,Introduction to Nuclear Engineering,01,11253,3,"TU,TH16.15-17.30","",Richard Stout
@@ -595,15 +601,14 @@ SPEC_ED,504,Professional Skills in Special Education,01,11203,3,ARRGT,ARR ARR,Ma
 SPEC_ED,509,Early Childhood Special Education,01,11205,3,ARRGT,ARR ARR,Amira Albagshi
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,11207,3,ARRGT,ARR ARR,Michael Dunn
 SPEC_ED,590,Practicum in Special Education,01,11668,V,ARRGT,ARR ARR,Susan Skavdahl
-STAT,212,[QUAN] Introduction to Statistical Methods,01,11231,4,ARRGT,ARR ARR,Kostiantyn Lyman
-STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,11265,0,ARRGT,ARR ARR,Kostiantyn Lyman
+STAT,212,[QUAN] Introduction to Statistical Methods,01,11231,4,ARRGT,ARR ARR,Mark Lesperance
+STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,11265,0,ARRGT,ARR ARR,Mark Lesperance
 STAT,360,Probability and Statistics,01,11491,3,ARRGT,ARR ARR,Swarnita Chakraborty
 STAT,370,Introductory Statistics for Engineers,01,11266,3,"M,W,F11.10-12","",Gordon Taub
 STAT,412,Statistical Methods in Research I,01,11232,3,ARRGT,ARR ARR,Hongjin Zhang
 STAT,419,Introduction to Multivariate Statistics,01,11796,3,ARRGT,ARR ARR,Monte Shaffer
 STAT,435,[M] Statistical Modeling for Data Analytics,01,14978,3,ARRGT,ARR ARR,Abhishek Kaul
 STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,15069,0,ARRGT,ARR ARR,Abhishek Kaul
-STAT,446,Statistical Applications in Insurance,01,14979,3,ARRGT,ARR ARR,Mark Lesperance
 UNIV,104,First-Year Success Seminar,01,16579,2,ARRGT,ARR ARR,Cynthia Williams
 UNIV,111,Developing Academic Strategies for Listening and Discussion,01,16585,4,ARRGT,ARR ARR,Lauren Reed
 UNIV,301,Career Exploration and Professional Development,01,11016,1,ARRGT,ARR ARR,Christopher Miller
