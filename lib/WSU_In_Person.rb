@@ -48,8 +48,7 @@ module WSUInPerson
 
       @campuses.each do |campus|
 
-
-        doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/20203'))
+        doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/20202'))
 
         subjects = doc.css('.prefixList').css('a')
     
@@ -188,26 +187,26 @@ module WSUInPerson
 
   
     # takes too long to open so I abandoned to scrape from section pages
-    def scrape_section_pages(section_urls, prefix, csv, sections)
-      i = 0
+    # def scrape_section_pages(section_urls, prefix, csv, sections)
+    #   i = 0
   
-      section_urls.each do |section_url|
+    #   section_urls.each do |section_url|
 
-        doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{section_url}"))
-        roomspec = doc.at('.sectionInfo').at('.roomspec').text.strip
+    #     doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{section_url}"))
+    #     roomspec = doc.at('.sectionInfo').at('.roomspec').text.strip
   
-        # Not sure if WEB ARR is online or in-person yet
-        if roomspec != "WEB ARR"
-          class_name = doc.at('.sectionInfo').at('b').text.strip
-          class_number = doc.at('.sectionInfo')
-                           .at("//dt[text()='Class Number']/following-sibling::dd").text
+    #     # Not sure if WEB ARR is online or in-person yet
+    #     if roomspec != "WEB ARR"
+    #       class_name = doc.at('.sectionInfo').at('b').text.strip
+    #       class_number = doc.at('.sectionInfo')
+    #                        .at("//dt[text()='Class Number']/following-sibling::dd").text
 
-          puts prefix + "\t" + class_name + "\t" + sections.at(i) + "\t" + class_number
-          csv << [prefix, class_name, sections.at(i), class_number]
-        end
-        i+=1
-      end
-    end
+    #       puts prefix + "\t" + class_name + "\t" + sections.at(i) + "\t" + class_number
+    #       csv << [prefix, class_name, sections.at(i), class_number]
+    #     end
+    #     i+=1
+    #   end
+    # end
 
   end
   

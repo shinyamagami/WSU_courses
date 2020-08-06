@@ -142,7 +142,7 @@ CS,518,Advanced Analysis of Algorithms,01,03231,3,"M,W9.10-10.25",WEB ARR,Mandan
 CS,547,Computer Game Design,01,13048,3,"M,W13.25-14.40",WEB ARR,Scott Wallace
 CS,700,"Master's Research, Thesis, and/or Examination",01,02780,V,ARRGT,ARR ARR,(multiple)
 DATA,115,Introduction to Data Analytics,01,02987,3,ARRGT,ARR ARR,Damilola Olabode
-DATA,115,Introduction to Data Analytics,02,03012,3,"TU,TH12.05-13.20",WEB ARR,""
+DATA,115,Introduction to Data Analytics,02,03012,3,"TU,TH12.05-13.20",WEB ARR,Daryl Deford
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,02693,3,"M,W,F9.10-10",WEB ARR,Edward Mcdonald
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,02694,3,"M,W10.35-11.50",WEB ARR,Michael Rabby
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,03,02893,3,"TU,TH10.35-11.50",WEB ARR,Michael Rabby
@@ -423,7 +423,7 @@ MATH,420,Linear Algebra,01,02900,3,"M,W,F12.10-13",WEB ARR,Michael Tsatsomeros
 MATH,453,Graph Theory,01,03099,3,"M,W,F14.10-15",WEB ARR,Matthew Hudelson
 MATH,466,Optimization in Networks,01,13596,3,"TU,TH10.35-11.50",WEB ARR,Thomas Asaki
 MATH,499,Special Problems,01,03006,V,ARRGT,ARR ARR,""
-MATH,501,Real Analysis,01,02901,3,"M,W,F11.10-12",WEB ARR,""
+MATH,501,Real Analysis,01,02901,3,"M,W,F11.10-12",WEB ARR,Alexander Khapalov
 MATH,512,Ordinary Differential Equations,01,15617,3,"M,W,F9.10-10",WEB ARR,Xueying Wang
 MATH,516,Numerical Simulations for Probabilistic Models,01,13657,3,"M,W,F11.10-12",WEB ARR,Nikolaos Voulgarakis
 MATH,525,General Topology,01,13648,3,"M,W,F13.10-14",WEB ARR,""
@@ -584,8 +584,8 @@ NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,02,02984,1,"M,W10.
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,WEB ARR,""
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,03,02985,1,"M,W10.10-11",WEB ARR,James Krueger
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,WEB ARR,""
-NEUROSCI,590,Seminar,01,02606,1,F12.10-13.30,WEB ARR,""
-NEUROSCI,592,Research Writing and Seminar,01,02886,2,TU15.30-17.30,WEB ARR,""
+NEUROSCI,590,Seminar,01,02606,1,F12.10-13.30,WEB ARR,Suzanne Wayman
+NEUROSCI,592,Research Writing and Seminar,01,02886,2,TU15.30-17.30,WEB ARR,Murali Chandra
 NEUROSCI,592,Research Writing and Seminar,"","","",F15-16,WEB ARR,""
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,02591,V,ARRGT,ARR ARR,(multiple)
 NURS,360,Professional Nursing Concepts and Issues,01,02448,2,ARRGT,ARR ARR,Angela Brittain
@@ -986,7 +986,6 @@ STAT,423,Statistical Methods for Engineers and Scientists,01,02768,3,"W,F10.35-1
 STAT,435,[M] Statistical Modeling for Data Analytics,02,15431,3,"M,W14.10-15",WEB ARR,Xiongzhi Chen
 STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,15432,0,F15.10-16,WEB ARR,Xiongzhi Chen
 STAT,443,Applied Probability,01,13535,3,"TU,TH9.10-10.25",WEB ARR,Haijun Li
-STAT,446,Statistical Applications in Insurance,01,15068,3,ARRGT,ARR ARR,""
 STAT,523,Statistical Methods for Engineers and Scientists,01,02769,3,"W,F10.35-11.50",WEB ARR,Francis Mcgrade
 STAT,536,Statistical Computing,01,03221,3,"M,W15.10-16",WEB ARR,Abhishek Kaul
 STAT,536,Statistical Computing,01 Lab,03222,0,F15.10-16,ARR ARR,""
@@ -1019,7 +1018,7 @@ TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,03,15951,3,M18.40-
 TCH_LRN,512,Language and Cultural Factors in Mathematics,01,12925,3,TH16.20-19.05,WEB ARR,Molly Kelton
 TCH_LRN,544,Teaching Children's and Young Adult Literature,01,13977,3,W17.15-20,WEB ARR,Sarah Newcomer
 TCH_LRN,584,Research in Teaching Mathematics and Science,01,12924,3,W17.45-20.30,WEB ARR,David Slavit
-TCH_LRN,600,Special Projects or Independent Study,01,02652,4,ARRGT,ARR ARR,Lisa Swindell
+TCH_LRN,600,Special Projects or Independent Study,01,02652,V,ARRGT,ARR ARR,Lisa Swindell
 UNIV,104,First-Year Success Seminar,01,02826,2,F12-13.50,WEB ARR,Cindy Morical
 UNIV,104,First-Year Success Seminar,02,02828,2,F12-13.50,WEB ARR,Miwako Nakamoto
 UNIV,104,First-Year Success Seminar,03,02921,2,F12-13.50,WEB ARR,Shyanna Reyes
