@@ -5,8 +5,8 @@ module ExportCSV
   class ExportCSV
 
 
-    def create(name_of_campus)
-      file_name = "./outputs/" + name_of_campus + "_20202.csv"
+    def create(name_of_campus, time)
+      file_name = "./outputs/" + name_of_campus + "_" + time + ".csv"
       @csv = CSV.new(file_name)
       @csv = CSV.open(file_name, "wb")
     end
