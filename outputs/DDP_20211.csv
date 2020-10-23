@@ -55,15 +55,6 @@ B_A,503,Foundations in Business Law,03,10001,2,ARRGT,ARR ARR,Scott Bergstedt
 B_A,504,Foundations in Finance,01,10010,2,ARRGT,ARR ARR,Mario Reyes
 B_A,504,Foundations in Finance,02,10011,2,ARRGT,ARR ARR,Mario Reyes
 B_A,504,Foundations in Finance,03,10012,2,ARRGT,ARR ARR,Mario Reyes
-B_A,504,Foundations in Finance,04,10013,2,ARRGT,ARR ARR,Mario Reyes
-B_A,504,Foundations in Finance,05,10014,2,ARRGT,ARR ARR,Mario Reyes
-B_A,504,Foundations in Finance,06,14643,2,ARRGT,ARR ARR,Mario Reyes
-B_A,504,Foundations in Finance,07,14644,2,ARRGT,ARR ARR,""
-B_A,504,Foundations in Finance,08,14645,2,ARRGT,ARR ARR,""
-B_A,504,Foundations in Finance,09,14646,2,ARRGT,ARR ARR,""
-B_A,504,Foundations in Finance,10,14647,2,ARRGT,ARR ARR,""
-B_A,504,Foundations in Finance,11,14648,2,ARRGT,ARR ARR,""
-B_A,504,Foundations in Finance,12,14649,2,ARRGT,ARR ARR,""
 B_A,514,Business Analytics: Transforming Data into Decisions,01,10058,3,ARRGT,ARR ARR,Stergios Fotopoulos
 B_A,514,Business Analytics: Transforming Data into Decisions,02,10059,3,ARRGT,ARR ARR,Stergios Fotopoulos
 B_A,514,Business Analytics: Transforming Data into Decisions,03,10060,3,ARRGT,ARR ARR,Stergios Fotopoulos
@@ -101,8 +92,6 @@ B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",01,14
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",02,14508,1,ARRGT,ARR ARR,Ronald Moser
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",03,14509,1,ARRGT,ARR ARR,Ronald Moser
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",04,14510,1,ARRGT,ARR ARR,""
-B_A,702,"Master's Special Problems, Directed Study, and/or Examination",01,10027,2,ARRGT,ARR ARR,Velle Kolde
-B_A,702,"Master's Special Problems, Directed Study, and/or Examination",02,10028,2,ARRGT,ARR ARR,""
 B_A,702,"Master's Special Problems, Directed Study, and/or Examination",03,10029,2,ARRGT,ARR ARR,Michael Jordan
 B_A,702,"Master's Special Problems, Directed Study, and/or Examination",04,10052,2,ARRGT,ARR ARR,Michael Jordan
 B_A,702,"Master's Special Problems, Directed Study, and/or Examination",06,10054,2,ARRGT,ARR ARR,""
@@ -123,6 +112,7 @@ BIOLOGY,251,Introductory Human Physiology,01 Lab,09962,0,ARRGT,ARR ARR,Nii Ankra
 BIOLOGY,301,General Genetics,01,09755,4,ARRGT,ARR ARR,Norah Mccabe
 BIOLOGY,333,[BSCI] Human Nutrition and Health,01,10519,3,ARRGT,ARR ARR,Kathy Beerman
 BIOLOGY,393,[M] Professional Communications in Biology,01,09838,2,ARRGT,ARR ARR,Linda Cook
+BIOLOGY,393,[M] Professional Communications in Biology,02,15346,2,ARRGT,ARR ARR,Daniela Monk
 BIOLOGY,476,Epigenetics and Systems Biology,01,10115,3,ARRGT,ARR ARR,Michael Skinner
 BIOLOGY,576,Epigenetics and Systems Biology,01,10116,3,ARRGT,ARR ARR,Michael Skinner
 CAS,400,End-of-Program Evaluation Portfolio,01,10147,1,ARRGT,ARR ARR,Alma Rocha
@@ -138,16 +128,17 @@ COM,102,[COMM] Public Speaking in the Digital Age,02,09961,3,ARRGT,ARR ARR,Chris
 COM,102,[COMM] Public Speaking in the Digital Age,03,10269,3,ARRGT,ARR ARR,Christine Curtis
 COM,102,[COMM] Public Speaking in the Digital Age,04,15156,3,ARRGT,ARR ARR,Christine Curtis
 COM,105,[HUM] Communication in Global Contexts,01,09835,3,ARRGT,ARR ARR,Christine Curtis
-COM,138,Introduction to Communication,01,10227,3,ARRGT,ARR ARR,""
+COM,138,Introduction to Communication,01,10227,3,ARRGT,ARR ARR,Nannette Mcgrath
 COM,210,[COMM] Multimedia Content Creation,01,09834,3,ARRGT,ARR ARR,Eylul Yel
-COM,300,[M] Writing in Communication,01,10226,3,ARRGT,ARR ARR,Michael Mclaughlin
+COM,300,[M] Writing in Communication,01,10226,3,ARRGT,ARR ARR,""
 COM,309,Quantitative Research Methods,02,10268,3,ARRGT,ARR ARR,Mina Park
 COM,464,Gender and the Media,01,10571,3,ARRGT,ARR ARR,Traci Gillig
 COM,475,Communication Seminar,02,10229,3,ARRGT,ARR ARR,Marvin Marcelo
 COM,479,Youth and the Media,01,09936,3,ARRGT,ARR ARR,Erica Austin
-COM,561,Multimedia Content Creation,01,09844,3,ARRGT,ARR ARR,""
+COM,561,Multimedia Content Creation,01,09844,3,ARRGT,ARR ARR,Chelsea Newman
 COM,562,Crisis Communication in Global Contexts,01,09845,3,ARRGT,ARR ARR,Erin Tomson
 COM,563,Ethics for Professionals,01,09846,3,ARRGT,ARR ARR,Elizabeth Hindman
+COM,563,Ethics for Professionals,02,15563,3,ARRGT,ARR ARR,""
 COM,564,Research Methods for Professionals,01,09847,3,ARRGT,ARR ARR,Porismita Borah
 COMHLTH,573,Communicating Health in a Digital Landscape,01,10536,3,ARRGT,ARR ARR,Chelsea Newman
 COMJOUR,333,[M] Reporting Across Platforms,01,10374,3,ARRGT,ARR ARR,Lucrezia Paxson
@@ -157,14 +148,16 @@ COMSTRAT,310,Digital Content Promotion,01,10253,3,ARRGT,ARR ARR,Michelle Galey
 COMSTRAT,312,Principles of Public Relations,01,10256,3,ARRGT,ARR ARR,Brett Atwood
 COMSTRAT,380,Advertising Principles and Practices,01,09919,3,ARRGT,ARR ARR,Wei Peng
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,10254,3,ARRGT,ARR ARR,Margaret Ritsch
+COMSTRAT,475,Strategic Communication Seminar in Public Relations,02,15348,3,ARRGT,ARR ARR,Justin Barnes
 COMSTRAT,476,Consumer Insights and Branding,01,10535,3,ARRGT,ARR ARR,Michelle Kistler
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,10393,3,ARRGT,ARR ARR,Yen-I Lee
+COMSTRAT,485,[M] Public Relations Management and Campaigns,02,10588,3,ARRGT,ARR ARR,Margaret Ritsch
 COMSTRAT,495,Strategic Communication Professional Internship,01,10392,V,ARRGT,ARR ARR,Angela Schweigert
 COMSTRAT,561,Persuasion for Professional Communicators,01,09904,3,ARRGT,ARR ARR,Robert Richardson
 COMSTRAT,562,Creative Media Strategies and Techniques,01,09963,3,ARRGT,ARR ARR,Margaret Ritsch
 COMSTRAT,563,Professional Digital Content Promotion,01,09964,3,ARRGT,ARR ARR,Rebecca Cooney
 COMSTRAT,564,Consumer Behavior and Brand Development,01,09965,3,ARRGT,ARR ARR,Paul Bolls
-COMSTRAT,565,Professional Marketing Communication Management and Campaigns,01,09966,3,ARRGT,ARR ARR,Chelsea Newman
+COMSTRAT,565,Professional Marketing Communication Management and Campaigns,01,09966,3,ARRGT,ARR ARR,Jessica Willoughby
 COMSTRAT,701,Master's Independent Capstone Project and /or Examination,01,10126,V,ARRGT,ARR ARR,Rebecca Cooney
 CPT_S,132,Data Structures Java,01,10242,4,ARRGT,ARR ARR,Srinivasulu Badri
 CPT_S,132,Data Structures Java,01 Lab,10243,0,ARRGT,ARR ARR,Srinivasulu Badri
@@ -185,7 +178,7 @@ CRM_J,385,Institutional Corrections,01,09712,3,ARRGT,ARR ARR,Mary Stohr
 CRM_J,390,Criminal Justice Management,01,11453,3,ARRGT,ARR ARR,Mary Stohr
 CRM_J,403,[CAPS] Violence Toward Women,01,09713,3,ARRGT,ARR ARR,April Kraft-Duley
 CRM_J,405,[M] Comparative Criminal Justice Systems,01,14692,3,ARRGT,ARR ARR,Cortney Dalton
-CROP_SCI,102,Introduction to Cultivated Plants,01,09891,3,ARRGT,ARR ARR,Leah Brueggeman
+CROP_SCI,102,Introduction to Cultivated Plants,01,09891,3,ARRGT,ARR ARR,Richard Koenig
 CROP_SCI,360,World Agricultural Systems,01,09884,3,ARRGT,ARR ARR,Pete Jacoby
 DATA,115,Introduction to Data Analytics,01,10097,3,ARRGT,ARR ARR,""
 DATA,424,[CAPS] [M] Data Analytics Capstone,01,10540,3,ARRGT,ARR ARR,""
@@ -207,23 +200,21 @@ E_E,485,Electric Energy Distribution Systems,02,10576,3,ARRGT,ARR ARR,Anamika Du
 E_E,488,Professional Practice Coop/Internship I,01,10102,V,ARRGT,ARR ARR,Sandra Brabb
 E_E,521,Analysis of Power Systems,01,09926,3,ARRGT,ARR ARR,Anjan Bose
 E_E,522,High Voltage Engineering,01,14802,3,ARRGT,ARR ARR,Patrick Pedrow
-E_M,401,Management of Organizations,01,09921,3,M17.15-19.45,WEB ARR,William Gray
-E_M,403,Managing Variability Using Statistics,01,09922,3,ARRGT,ARR ARR,Luna Magpili
-E_M,426,Constraints Management,01,09852,3,W18-20.30,"",Luna Magpili
-E_M,480,Quality Control and Reliability,01,14657,3,W18.15-20.45,WEB ARR,David Paulus
-E_M,490,Leading Design and Innovation,01,10366,3,TU18.45-20.45,WEB ARR,David Paulus
-E_M,501,Management of Organizations,01,09854,3,M17.15-19.45,WEB ARR,William Gray
-E_M,503,Managing Variability Using Statistics,01,09855,3,ARRGT,ARR ARR,Luna Magpili
-E_M,505,Finance for Technical Systems,01,09856,3,W17.15-19.45,WEB ARR,Kay Bachman
-E_M,526,Constraints Management,01,09853,3,W18-20.30,"",Luna Magpili
-E_M,540,Operations Research and Analytics for Managers,01,09857,3,TU18-20.30,WEB ARR,Luna Magpili
-E_M,565,Introduction to Systems Management,01,10508,3,TU17.15-20.45,"",Alice Squires
-E_M,567,System Supportability and Logistics Management,01,14668,3,W17.15-19.45,WEB ARR,William Gray
-E_M,568,Risk Assessment and Management,01,10367,3,TH18-20.30,WEB ARR,Luna Magpili
-E_M,580,Quality Control and Reliability,01,14659,3,W18.15-20.45,WEB ARR,David Paulus
-E_M,590,Leading Design and Innovation,01,10347,3,TU18.45-20.45,WEB ARR,David Paulus
-E_M,591,Strategic Management of Technology and Innovations in Engineering,01,09946,3,TU17.15-19.45,WEB ARR,John Pricco
-E_M,596,Advanced Topics in Engineering Management II,01,10509,3,M17.15-19.45,WEB ARR,Kay Bachman
+E_M,401,Management of Organizations,01,09921,3,TH17.15-19.45,"",William Gray
+E_M,426,Constraints Management,01,09852,3,W18.15-20.45,"",Luna Magpili
+E_M,480,Quality Control and Reliability,01,14657,3,W18.15-20.45,"",David Paulus
+E_M,490,Leading Design and Innovation,01,10366,3,TU18.45-20.45,"",David Paulus
+E_M,501,Management of Organizations,01,09854,3,TH17.15-19.45,"",William Gray
+E_M,505,Finance for Technical Systems,01,09856,3,M17.15-19.45,"",Kay Bachman
+E_M,526,Constraints Management,01,09853,3,W18.15-20.45,"",Luna Magpili
+E_M,540,Operations Research and Analytics for Managers,01,09857,3,TU18.15-20.45,"",Luna Magpili
+E_M,565,Introduction to Systems Management,01,10508,3,M17.15-19.45,"",Alice Squires
+E_M,567,System Supportability and Logistics Management,01,14668,3,M17.15-19.45,"",William Gray
+E_M,568,Risk Assessment and Management,01,10367,3,TH18.15-20.45,"",Luna Magpili
+E_M,580,Quality Control and Reliability,01,14659,3,W18.15-20.45,"",David Paulus
+E_M,590,Leading Design and Innovation,01,10347,3,TU18.45-20.45,"",David Paulus
+E_M,591,Strategic Management of Technology and Innovations in Engineering,01,09946,3,TU17.15-19.45,"",John Pricco
+E_M,596,Advanced Topics in Engineering Management II,01,10509,3,W17.15-19.45,"",Kay Bachman
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10163,V,ARRGT,ARR ARR,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,09742,3,ARRGT,ARR ARR,Almira Salimgarieva
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,09743,3,ARRGT,ARR ARR,Golam Saroare Shakil
@@ -239,6 +230,7 @@ ECONS,430,Managing the Global Environment,01,14847,3,ARRGT,ARR ARR,Jui Sen
 ECONS,452,[M] Advanced Business Management Economics,01,10397,3,ARRGT,ARR ARR,Molla Mursaleen Shiraj
 ECONS,490,[CAPS] [M] Economics Capstone,01,10426,3,ARRGT,ARR ARR,Carly Dollin
 ECONS,497,Economics Internship,01,10121,V,ARRGT,ARR ARR,Eric Jessup
+ECONS,499,Special Problems,01,10427,V,ARRGT,ARR ARR,Mark Gibson
 ED_PSYCH,505,Research Methods I,01,09839,3,ARRGT,ARR ARR,Kira Carbonneau
 ENGLISH,101,[WRTG] College Composition,01,09778,3,ARRGT,ARR ARR,Rebecca Goodrich
 ENGLISH,101,[WRTG] College Composition,02,10378,3,ARRGT,ARR ARR,Rebecca Goodrich
@@ -249,23 +241,23 @@ ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,09779,3,ARRGT,ARR ARR,"
 ENGLISH,302,[M] Introduction to English Studies,01,15101,3,ARRGT,ARR ARR,Kandy Robertson
 ENGLISH,309,Women Writers,01,09780,3,ARRGT,ARR ARR,Donna Campbell
 ENGLISH,354,Digital Storytelling,01,15103,3,ARRGT,ARR ARR,Lauren Westerfield
-ENGLISH,360,Principles of Rhetoric,01,10370,3,ARRGT,ARR ARR,""
+ENGLISH,360,Principles of Rhetoric,01,10370,3,ARRGT,ARR ARR,Sherwin Sales
 ENGLISH,362,[DIVR] Rhetorics of Racism,01,15199,3,ARRGT,ARR ARR,Robert Eddy
 ENGLISH,373,[HUM] 20th and 21st Century Global Literatures in English,01,10530,3,ARRGT,ARR ARR,Chelsea Ratzlaff
 ENGLISH,401,History of Rhetoric,01,10518,3,ARRGT,ARR ARR,Patricia Wilde
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,09782,3,ARRGT,ARR ARR,Sallie M Gowdy-Burke
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,09783,3,ARRGT,ARR ARR,Sallie M Gowdy-Burke
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,09784,3,ARRGT,ARR ARR,Jessica Mccarthy
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,04,09785,3,ARRGT,ARR ARR,Jessica Mccarthy
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,09786,3,ARRGT,ARR ARR,Jessica Mccarthy
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,06,09787,3,ARRGT,ARR ARR,Jacob Hughes
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,07,09848,3,ARRGT,ARR ARR,Megan Hall
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,08,09849,3,ARRGT,ARR ARR,Megan Hall
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,09,09850,3,ARRGT,ARR ARR,Katherine Ericsson
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,09928,3,ARRGT,ARR ARR,Jacob Hughes
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,10143,3,ARRGT,ARR ARR,Katherine Ericsson
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,10280,3,ARRGT,ARR ARR,Katherine Ericsson
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,10394,3,ARRGT,ARR ARR,William Merck
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,04,09785,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,09786,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,06,09787,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,07,09848,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,08,09849,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,09,09850,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,09928,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,10143,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,10280,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,10394,3,ARRGT,ARR ARR,""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,14,10400,3,ARRGT,ARR ARR,""
 ENGLISH,405,Advanced Professional Writing and Editing,01,14961,3,ARRGT,ARR ARR,Julie Staggers
 ENGLISH,419,The Twentieth Century Novel,01,09788,3,ARRGT,ARR ARR,Curtis Harty
@@ -333,8 +325,8 @@ H_D,498,Field Placement,01,10132,V,ARRGT,ARR ARR,Matthew Bumpus
 H_D,498,Field Placement,02,09829,V,ARRGT,ARR ARR,Joseph Hewa
 H_D,499,Special Problems,01,09830,V,ARRGT,ARR ARR,Joseph Hewa
 HBM,101,Professional and Career Development for the Business World,01,10048,1,ARRGT,ARR ARR,Amy Alonzo
-HBM,101,Professional and Career Development for the Business World,02,14734,1,ARRGT,ARR ARR,Dipra Jha
-HBM,101,Professional and Career Development for the Business World,03,14735,1,ARRGT,ARR ARR,Dipra Jha
+HBM,101,Professional and Career Development for the Business World,02,14734,1,ARRGT,ARR ARR,Amy Alonzo
+HBM,101,Professional and Career Development for the Business World,03,14735,1,ARRGT,ARR ARR,Amy Alonzo
 HBM,280,Hospitality Systems,01,10296,3,ARRGT,ARR ARR,Kahlil Philander
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,09832,3,ARRGT,ARR ARR,""
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,10266,3,ARRGT,ARR ARR,Daniel Casoinic
@@ -349,7 +341,7 @@ HBM,495,[CAPS] Case Studies and Research,02,10365,3,ARRGT,ARR ARR,Olga Larina
 HBM,535,International Tourism Strategy and Planning,01,14441,3,ARRGT,ARR ARR,Dogan Gursoy
 HISTORY,101,[HUM] Classical and Christian Europe,01,10514,3,ARRGT,ARR ARR,Nikolaus Overtoom
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,09763,3,ARRGT,ARR ARR,Eugene Smelyansky
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10522,3,ARRGT,ARR ARR,""
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10522,3,ARRGT,ARR ARR,Nicholas Martin
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,10534,3,ARRGT,ARR ARR,Nicholas Harrington
 HISTORY,110,[HUM] American History to 1877,01,09700,3,ARRGT,ARR ARR,Randal Powell
 HISTORY,120,[DIVR] World History I,01,09701,3,ARRGT,ARR ARR,Shawna Herzog
@@ -364,7 +356,11 @@ HISTORY,444,[CAPS] The Renaissance,01,15095,3,ARRGT,ARR ARR,Barbara Traver
 HISTORY,459,Modern Britain,01,09706,3,ARRGT,ARR ARR,Ashley Wright
 HISTORY,469,[M] Seminar in History,01,09705,3,ARRGT,ARR ARR,Jennifer Thigpen
 HISTORY,473,The Middle East and the West,01,10546,3,ARRGT,ARR ARR,R. Charles Weller
-HORT,102,Introduction to Cultivated Plants,01,09890,3,ARRGT,ARR ARR,Leah Brueggeman
+HONORS,280,Contextual Understanding in the Arts and Humanities,02,15370,3,ARRGT,ARR ARR,Elizabeth Lampman
+HONORS,290,Science as a Way of Knowing,01,10399,3,ARRGT,ARR ARR,Joanna Schultz
+HONORS,380,Case Study: Global Issues in the Arts and Humanities,01,15371,3,ARRGT,ARR ARR,Sergey Lapin
+HONORS,398,Honors Thesis Proposal Seminar,02,15399,1,ARRGT,ARR ARR,Janessa Graves
+HORT,102,Introduction to Cultivated Plants,01,09890,3,ARRGT,ARR ARR,Richard Koenig
 HUMANITY,101,[HUM] Humanities in the Ancient World,01,09980,3,ARRGT,ARR ARR,Laura Kuhlman
 HUMANITY,103,[HUM] Mythology,01,09981,3,ARRGT,ARR ARR,Elizabeth Siler
 HUMANITY,103,[HUM] Mythology,02,10585,3,ARRGT,ARR ARR,Elizabeth Siler
@@ -495,9 +491,9 @@ MUS,160,[ARTS] Survey of Music Literature,01,09841,3,ARRGT,ARR ARR,Brent Edwards
 MUS,262,[ARTS] Rock Music: History and Social Analysis,01,09842,3,ARRGT,ARR ARR,Albert Miller
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,09956,3,ARRGT,ARR ARR,Albert Miller
 MUS,265,[HUM] Native Music of North America,01,09957,3,ARRGT,ARR ARR,Melissa Parkhurst
-MUS,362,[DIVR] History of Jazz,01,10517,3,ARRGT,ARR ARR,Gabriel Condon
+MUS,362,[DIVR] History of Jazz,01,10517,3,ARRGT,ARR ARR,Albert Miller
+MUS,362,[DIVR] History of Jazz,02,15287,3,ARRGT,ARR ARR,Aaron Agulay
 MUS,363,[DIVR] Women in Music,01,10095,3,ARRGT,ARR ARR,Melissa Parkhurst
-MUS,561,Seminar in Literature of 20th Century Music,01,10552,2,ARRGT,ARR ARR,Shannon Scott
 PHIL,101,[HUM] Introduction to Philosophy,01,09731,3,ARRGT,ARR ARR,Patricia Glazebrook
 PHIL,450,Data Analytics Ethics,01,09733,3,ARRGT,ARR ARR,Patricia Glazebrook
 PHIL,535,Advanced Biomedical Ethics,01,09796,3,ARRGT,ARR ARR,William Kabasenche
@@ -513,6 +509,7 @@ POL_S,404,[M] The Judicial Process,01,14771,3,ARRGT,ARR ARR,Michael Ritter
 POL_S,405,[M] Comparative Criminal Justice Systems,01,15290,3,ARRGT,ARR ARR,Cortney Dalton
 POL_S,418,Human Issues in International Development,01,09807,3,ARRGT,ARR ARR,Robert Quinlan
 POL_S,428,[CAPS] Issues in Political Psychology,01,10387,3,ARRGT,ARR ARR,Jason Griffin
+POL_S,498,Public Policy Internship,01,10086,V,ARRGT,ARR ARR,Richard Elgar
 PSYCH,105,[SSCI] Introductory Psychology,01,09766,3,ARRGT,ARR ARR,""
 PSYCH,110,Introduction to Addiction Studies,01,10501,3,ARRGT,ARR ARR,""
 PSYCH,201,Degrees and Careers in Psychology,01,10539,1,ARRGT,ARR ARR,Lee Daffin
@@ -548,17 +545,17 @@ PSYCH,499,Special Problems,02,10142,V,ARRGT,ARR ARR,Lee Daffin
 PSYCH,499,Special Problems,03,10503,V,ARRGT,ARR ARR,Lee Daffin
 SDC,488,Professional Practice Coop/Internship I,01,10263,V,ARRGT,ARR ARR,Sandra Brabb
 SHS,202,American Sign Language II,01,10157,4,ARRGT,ARR ARR,Melissa Ratsch
-SOC,101,[SSCI] Introduction to Sociology,01,09750,3,ARRGT,ARR ARR,""
-SOC,245,Sociology of Sport,01,14397,3,ARRGT,ARR ARR,""
-SOC,321,Quantitative Techniques in Sociology I,01,14398,4,ARRGT,ARR ARR,""
-SOC,332,[SSCI] Sustainability and Society,01,09716,3,ARRGT,ARR ARR,Jonathan Dahlem
-SOC,334,Medical Sociology,01,14579,3,ARRGT,ARR ARR,""
-SOC,340,[DIVR] Social Inequality,01,09718,3,ARRGT,ARR ARR,Robert Ressler
+SOC,101,[SSCI] Introduction to Sociology,01,09750,3,ARRGT,ARR ARR,Caleb Cooley
+SOC,245,Sociology of Sport,01,14397,3,ARRGT,ARR ARR,Kyle Rakowski
+SOC,321,Quantitative Techniques in Sociology I,01,14398,4,ARRGT,ARR ARR,Jennifer Schwartz
+SOC,332,[SSCI] Sustainability and Society,01,09716,3,ARRGT,ARR ARR,""
+SOC,334,Medical Sociology,01,14579,3,ARRGT,ARR ARR,Sadie Ridgeway
+SOC,340,[DIVR] Social Inequality,01,09718,3,ARRGT,ARR ARR,Xiaoqu Huang
 SOC,350,Social Psychology,01,09774,3,ARRGT,ARR ARR,""
-SOC,351,[DIVR] The Family,01,09719,3,ARRGT,ARR ARR,Mariana Amorim
+SOC,351,[DIVR] The Family,01,09719,3,ARRGT,ARR ARR,Sandte Stanley
 SOC,360,Social Deviance,01,09720,3,ARRGT,ARR ARR,Joseph Kremer
-SOC,361,[DIVR] Criminology,01,09721,3,ARRGT,ARR ARR,Alana Inlow
-SOC,384,Sociology of Gender,01,09722,3,ARRGT,ARR ARR,Adam Mckee
+SOC,361,[DIVR] Criminology,01,09721,3,ARRGT,ARR ARR,Jordan Burke
+SOC,384,Sociology of Gender,01,09722,3,ARRGT,ARR ARR,Eric Allen
 SOC,418,Human Issues in International Development,01,09808,3,ARRGT,ARR ARR,Robert Quinlan
 SOC,493,Internship,01,09723,V,ARRGT,ARR ARR,(multiple)
 SOC,495,[CAPS] [M] Internship Capstone,01,09724,3,ARRGT,ARR ARR,Sarah Whitley
@@ -584,13 +581,13 @@ SPEC_ED,301,Education of Exceptional Children,01,09860,3,ARRGT,ARR ARR,Lauren Br
 SPEC_ED,402,Assessment and Curriculum for Students with Disabilities,01,09861,3,ARRGT,ARR ARR,Amira Albagshi
 SPEC_ED,403,Secondary Education for Students with Disabilities,01,09863,3,ARRGT,ARR ARR,Marcus Poppen
 SPEC_ED,440,Methods in Intensive Educational Supports,01,09865,3,ARRGT,ARR ARR,Amira Albagshi
-SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,09867,3,ARRGT,ARR ARR,""
+SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,09867,3,ARRGT,ARR ARR,Michael Dunn
 SPEC_ED,490,Practicum in Special Education,01,09868,V,ARRGT,ARR ARR,""
 SPEC_ED,499,Special Problems,02,09869,V,ARRGT,ARR ARR,""
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,09862,3,ARRGT,ARR ARR,Amira Albagshi
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,09864,3,ARRGT,ARR ARR,Marcus Poppen
 SPEC_ED,540,Methods in Intensive Educational Supports,01,09866,3,ARRGT,ARR ARR,Amira Albagshi
-SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,10230,3,ARRGT,ARR ARR,""
+SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,10230,3,ARRGT,ARR ARR,Michael Dunn
 SPEC_ED,590,Practicum in Special Education,01,09870,V,ARRGT,ARR ARR,""
 SPEC_ED,600,Special Projects or Independent Study,01,09983,V,ARRGT,ARR ARR,(multiple)
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,14865,V,ARRGT,ARR ARR,(multiple)
@@ -617,7 +614,7 @@ WOMEN_ST,305,Gender and Politics,01,15048,3,ARRGT,ARR ARR,Joe Huseby
 WOMEN_ST,309,Women Writers,01,09781,3,ARRGT,ARR ARR,Donna Campbell
 WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,01,09804,3,ARRGT,ARR ARR,Chancy Anderson
 WOMEN_ST,363,[DIVR] Women in Music,01,10096,3,ARRGT,ARR ARR,Melissa Parkhurst
-WOMEN_ST,384,Sociology of Gender,01,09906,3,ARRGT,ARR ARR,Adam Mckee
+WOMEN_ST,384,Sociology of Gender,01,09906,3,ARRGT,ARR ARR,Eric Allen
 WOMEN_ST,403,[CAPS] Violence Toward Women,01,10498,3,ARRGT,ARR ARR,April Kraft-Duley
 WRIT,302,Advanced Writing Collaborative,01,10380,1,ARRGT,ARR ARR,Robert Holland
 WRIT,302,Advanced Writing Collaborative,02,10381,1,ARRGT,ARR ARR,Daniel Casoinic

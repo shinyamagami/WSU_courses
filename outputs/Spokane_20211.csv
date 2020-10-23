@@ -1,8 +1,10 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Instructor
+BIOLOGY,301,General Genetics,01,13537,4,ARRGT,ARR ARR,Norah Mccabe
 ED_AD,503,Values and Ethics for Educational Leaders,01,13463,3,W17.45-20.30,AMS SPK,Jeffrey Walls
 ED_AD,521,Topics in Education,01,13441,V,ARRGT,ARR ARR,Glenys Hill
 ED_AD,521,Topics in Education,02,13442,V,ARRGT,ARR ARR,Glenys Hill
 ED_AD,522,Topics in Education,01,13449,V,ARRGT,ARR ARR,""
+ED_AD,522,Topics in Education,02,14002,V,TH17.45-20.30,WEB ARR,Katherine Rodela
 ED_AD,583,Community and Communications,01,14821,3,W17.45-20.30,AMS SPK,Jeffrey Walls
 ED_AD,587,Seminar in School Administration,01,13447,V,ARRGT,ARR ARR,Glenys Hill
 ED_AD,590,Internship,01,13443,V,ARRGT,ARR ARR,Glenys Hill
@@ -20,9 +22,11 @@ ED_RES,562,"Epistemology, Inquiry, and Representation",01,14884,3,TU17.45-20.30,
 ED_RES,563,Principles of Research,01,13437,3,M17.45-20.30,AMS SPK,Robert Danielson
 ED_RES,564,Qualitative Research,01,13531,3,TU17.45-20.30,AMS SPK,Stephany Johnson
 ED_RES,564,Qualitative Research,02,14009,3,M17.45-20.30,AMS SPK,Susan Finley
-H_D,520,Adolescence,01,13505,3,M14.10-17,AMS SPK,Jennifer Duckworth
-H_D,550,Seminar on Family Relationships,01,13562,3,W14.10-17,AMS SPK,Yoshie Sano
-H_D,580,"Families, Community and Public Policy",01,13960,3,W14.10-17,AMS SPK,Patricia Pendry
+FS,510,Functional Foods and Health,01,13476,3,ARRGT,ARR ARR,Thuy Bernhard
+FS,531,Advanced Food Safety and Quality,01,13681,3,ARRGT,ARR ARR,Thuy Bernhard
+H_D,520,Adolescence,01,13505,3,M14.10-17,WEB ARR,Jennifer Duckworth
+H_D,550,Seminar on Family Relationships,01,13562,3,W14.10-17,WEB ARR,Yoshie Sano
+H_D,580,"Families, Community and Public Policy",01,13960,3,TU15.10-18,WEB ARR,Patricia Pendry
 H_D,600,Special Projects or Independent Study,01,13495,V,ARRGT,ARR ARR,""
 HONORS,450,Honors Thesis or Project,01,13453,V,ARRGT,ARR ARR,""
 MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,14005,10,ARRGT,ARR ARR,Jaime Bowman
@@ -55,10 +59,27 @@ NEP,482,Nutrition and Exercise Practicum II,02,14978,2,"M,W15.30-18.30",SHER 328
 NEP,490,Exercise and Nutrition Internship,01,13107,V,ARRGT,ARR ARR,Julie Larsen
 NEP,495,[CAPS] [M] Interprofessional Capstone in Nutrition and Exercise Physiology,01,13105,3,"M,W9.10-10.25",ARR ARR,Lindsey Miller
 NEP,499,Special Problems,01,13101,V,ARRGT,ARR ARR,""
+NEP,501,Community Supervised Practice,01,13117,5,TU14.10-16,WEB ARR,April Davis
+NEP,501,Community Supervised Practice,"","","",F14.10-18,ARR ARR,""
+NEP,501,Community Supervised Practice,"","","",F13.10-14,ARR ARR,""
+NEP,501,Community Supervised Practice,"","","",F13.10-14,ARR ARR,""
+NEP,501,Community Supervised Practice,"","","",F13.10-14,ARR ARR,""
+NEP,501,Community Supervised Practice,01 Lab,13132,0,ARRGT,ARR ARR,April Davis
 NEP,505,Graduate Seminar,01,13135,1,F12.10-13,ARR ARR,Patrick Solverson
 NEP,525,Advanced Human Nutrition,01,13981,3,"M,W11.10-12.25",WEB ARR,Martine Perrigue
 NEP,526,Nutritional Epidemiology,01,13982,3,"M,W9.10-10.25",WEB ARR,Pablo Monsivais
+NEP,540,Clinical Supervised Practice,01,13122,11,"M,TU9.10-15",ARR ARR,April Davis
+NEP,540,Clinical Supervised Practice,"","","",W9.10-14,ARR ARR,""
+NEP,540,Clinical Supervised Practice,02,13123,11,"M,TU9.10-15",ARR ARR,Shaekira Niehuser
+NEP,540,Clinical Supervised Practice,"","","",W9.10-14,ARR ARR,""
+NEP,540,Clinical Supervised Practice,01 Lab,13129,0,ARRGT,ARR ARR,April Davis
+NEP,540,Clinical Supervised Practice,02 Lab,13130,0,ARRGT,ARR ARR,Shaekira Niehuser
 NEP,542,Medical Nutrition Therapy II,01,13120,3,F9.10-11.40,WEB ARR,Shaekira Niehuser
+NEP,551,Management Practices in Food Service,01,13125,5,"W,TH13.10-16",WEB ARR,Janet Beary
+NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,ARR ARR,""
+NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,ARR ARR,""
+NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,ARR ARR,""
+NEP,551,Management Practices in Food Service,01 Lab,13133,0,ARRGT,ARR ARR,Janet Beary
 NEP,560,Geographic Information Systems in Health and Social Sciences,01,13984,3,M13.10-15.40,WEB ARR,Ofer Amram
 NEP,580,Advanced Topics in Exercise Physiology and Nutrition,01,13985,3,"W,F14.10-15.25",WEB ARR,""
 NEP,600,Special Projects or Independent Study,01,13104,V,ARRGT,ARR ARR,Glen Duncan
@@ -80,22 +101,18 @@ NEP,800,"Doctoral Research, Dissertation, and/or Examination",03,14991,V,ARRGT,A
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",04,14992,V,ARRGT,ARR ARR,Franck Carbonero
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",05,14993,V,ARRGT,ARR ARR,Martine Perrigue
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",06,14994,V,ARRGT,ARR ARR,Lindsey Miller
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,01,13470,V,"M,W10.10-11.10",WEB,Joseph Harding
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,WEB,""
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,02,13471,V,"M,F9.10-10",WEB,Gary Wayman
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",W8.10-10,WEB,""
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,03,13514,V,"M,F9.10-10",WEB,James Peters
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",W8.10-10,AMS SPK,""
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,01,13470,V,"M,W10.10-11.10",WEB ARR,Joseph Harding
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,WEB ARR,""
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,02,13471,V,"M,F9.10-10",WEB ARR,Gary Wayman
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",W8.10-10,WEB ARR,""
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,03,13514,V,"M,F9.10-10",WEB ARR,James Peters
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",W8.10-10,WEB ARR,""
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,01,13469,V,"M,F9-10",WEB,Rita Fuchs Lokensgard
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,WEB,""
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,02,13465,V,"M,W10.10-11",WEB,Ryan Mclaughlin
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",F10.10-12,WEB,""
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,03,13515,V,"M,W10.10-11",WEB,Heiko Jansen
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",F10.10-12,AMS SPK,""
-NEUROSCI,564,Topics in Biomedical Experimentation,01,13516,V,ARRGT,ARR ARR,""
-NEUROSCI,564,Topics in Biomedical Experimentation,02,13518,V,ARRGT,ARR ARR,""
-NEUROSCI,564,Topics in Biomedical Experimentation,03,13517,V,ARRGT,ARR ARR,""
-NEUROSCI,564,Topics in Biomedical Experimentation,04,13520,V,ARRGT,ARR ARR,""
 NEUROSCI,590,Seminar,01,13519,1,F12.10-13.30,WEB,Suzanne Wayman
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,13464,V,ARRGT,ARR ARR,(multiple)
 NURS,308,Professional Development I: Evidence Based Practice,01,13309,3,M8.10-9.10,AMS ARR,Joann Dotson
@@ -157,7 +174,7 @@ NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,08,13241,5,ARRG
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,09,13242,5,ARRGT,ARR ARR,Robin Baumgarten
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,10,13243,5,ARRGT,ARR ARR,Vanessa Albert
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,11,13244,5,ARRGT,ARR ARR,Shelley Franco
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,12,13245,5,ARRGT,ARR ARR,Diana Crabb
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,12,13245,5,ARRGT,ARR ARR,Diana Ryerson
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,13,13246,5,ARRGT,ARR ARR,Emily Davies
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,14,13247,5,ARRGT,ARR ARR,Kari Campbell
 NURS,328,Introduction to Gerontological Nursing,01,13202,2,TU8.10-10,AMS ARR,Susan Mcfadden
@@ -179,9 +196,9 @@ NURS,415,Children and Families as the Focus of Nursing Care,03,13257,2,ARRGT,ARR
 NURS,415,Children and Families as the Focus of Nursing Care,04,13258,2,ARRGT,ARR ARR,Karen Anders
 NURS,415,Children and Families as the Focus of Nursing Care,05,13259,2,ARRGT,ARR ARR,Cory Risse
 NURS,415,Children and Families as the Focus of Nursing Care,06,13260,2,ARRGT,ARR ARR,Jennifer Hickman
-NURS,415,Children and Families as the Focus of Nursing Care,07,13261,2,ARRGT,ARR ARR,Jennifer Hickman
-NURS,415,Children and Families as the Focus of Nursing Care,08,13262,2,ARRGT,ARR ARR,Christina Brumley
-NURS,415,Children and Families as the Focus of Nursing Care,09,13263,2,ARRGT,ARR ARR,Denise Beck
+NURS,415,Children and Families as the Focus of Nursing Care,07,13261,2,ARRGT,ARR ARR,Christina Brumley
+NURS,415,Children and Families as the Focus of Nursing Care,08,13262,2,ARRGT,ARR ARR,Denise Beck
+NURS,415,Children and Families as the Focus of Nursing Care,09,13263,2,ARRGT,ARR ARR,Theresa Bowden
 NURS,415,Children and Families as the Focus of Nursing Care,10,13264,2,ARRGT,ARR ARR,Theresa Bowden
 NURS,415,Children and Families as the Focus of Nursing Care,11,13347,2,ARRGT,ARR ARR,Valerie Hennessy
 NURS,415,Children and Families as the Focus of Nursing Care,12,13425,2,ARRGT,ARR ARR,Valerie Hennessy
@@ -190,10 +207,10 @@ NURS,416,Childbearing Health of the Family,01,13214,3,TH13.10-16,AMS ARR,Kimberl
 NURS,416,Childbearing Health of the Family,02,13215,3,TH13.10-16,AMS ARR,Kimberly Mitchell
 NURS,417,Nursing Care of Childbearing Families,01,13276,2,ARRGT,ARR ARR,Tracy Stack
 NURS,417,Nursing Care of Childbearing Families,02,13277,2,ARRGT,ARR ARR,Tracy Stack
-NURS,417,Nursing Care of Childbearing Families,03,13278,2,ARRGT,ARR ARR,Pamela Orebaugh
+NURS,417,Nursing Care of Childbearing Families,03,13278,2,ARRGT,ARR ARR,Cindy Brigham-Althoff
 NURS,417,Nursing Care of Childbearing Families,04,13279,2,ARRGT,ARR ARR,Pamela Orebaugh
 NURS,417,Nursing Care of Childbearing Families,05,13280,2,ARRGT,ARR ARR,Elizabeth Merritt
-NURS,417,Nursing Care of Childbearing Families,06,13281,2,ARRGT,ARR ARR,Cindy Brigham-Althoff
+NURS,417,Nursing Care of Childbearing Families,06,13281,2,ARRGT,ARR ARR,""
 NURS,417,Nursing Care of Childbearing Families,07,13282,2,ARRGT,ARR ARR,Jennifer Boyer
 NURS,417,Nursing Care of Childbearing Families,08,13283,2,ARRGT,ARR ARR,Kimberly Mitchell
 NURS,417,Nursing Care of Childbearing Families,09,13284,2,ARRGT,ARR ARR,Cindy Brigham-Althoff
@@ -377,16 +394,16 @@ NURS,540,NP Clinical Practicum,"","","",TH8.10-10,AMS ARR,""
 NURS,540,NP Clinical Practicum,"","","",TH8.10-10,AMS ARR,""
 NURS,540,NP Clinical Practicum,"","","",TH8.10-10,AMS ARR,""
 NURS,540,NP Clinical Practicum,"","","",TH8.10-10,AMS ARR,""
-NURS,545,Therapeutic Modalities II,01,13365,3,W15.10-18,AMS ARR,Pamela Stover
-NURS,545,Therapeutic Modalities II,"","","",W15.10-18,AMS ARR,""
-NURS,545,Therapeutic Modalities II,"","","",W15.10-18,AMS ARR,""
-NURS,545,Therapeutic Modalities II,"","","",W15.10-18,AMS ARR,""
-NURS,545,Therapeutic Modalities II,"","","",W15.10-18,AMS ARR,""
-NURS,545,Therapeutic Modalities II,02,13413,3,W15.10-18,AMS ARR,""
-NURS,545,Therapeutic Modalities II,"","","",W15.10-18,AMS ARR,""
-NURS,545,Therapeutic Modalities II,"","","",W15.10-18,AMS ARR,""
-NURS,545,Therapeutic Modalities II,"","","",W15.10-18,AMS ARR,""
-NURS,545,Therapeutic Modalities II,"","","",W15.10-18,AMS ARR,""
+NURS,545,Therapeutic Modalities II,01,13365,3,W16.10-19,AMS ARR,Pamela Stover
+NURS,545,Therapeutic Modalities II,"","","",W16.10-19,AMS ARR,""
+NURS,545,Therapeutic Modalities II,"","","",W16.10-19,AMS ARR,""
+NURS,545,Therapeutic Modalities II,"","","",W16.10-19,AMS ARR,""
+NURS,545,Therapeutic Modalities II,"","","",W16.10-19,AMS ARR,""
+NURS,545,Therapeutic Modalities II,02,13413,3,W16.10-19,AMS ARR,""
+NURS,545,Therapeutic Modalities II,"","","",W16.10-19,AMS ARR,""
+NURS,545,Therapeutic Modalities II,"","","",W16.10-19,AMS ARR,""
+NURS,545,Therapeutic Modalities II,"","","",W16.10-19,AMS ARR,""
+NURS,545,Therapeutic Modalities II,"","","",W16.10-19,AMS ARR,""
 NURS,554,Epidemiology and Biostatistics for Health Professions,01,13350,3,TU18.10-21,AMS ARR,Janessa Graves
 NURS,554,Epidemiology and Biostatistics for Health Professions,"","","",TU18.10-21,AMS ARR,""
 NURS,554,Epidemiology and Biostatistics for Health Professions,"","","",TU18.10-21,AMS ARR,""
@@ -403,9 +420,6 @@ NURS,556,Advanced Population Health,"","","",TU18.10-20,AMS ARR,""
 NURS,556,Advanced Population Health,"","","",TU18.10-20,AMS ARR,""
 NURS,556,Advanced Population Health,"","","",TU18.10-21,AMS ARR,""
 NURS,556,Advanced Population Health,01 Lab,13345,0,TU18.10-20,ARR ARR,Catherine Van Son
-NURS,557,DNP Project I,01,14246,3,ARRGT,ARR ARR,""
-NURS,557,DNP Project I,02,14247,3,ARRGT,ARR ARR,""
-NURS,557,DNP Project I,01 Lab,14259,0,ARRGT,ARR ARR,""
 NURS,560,PMHNP Practicum II,01,13372,3,TH13.10-15,AMS ARR,Christina Chacon
 NURS,560,PMHNP Practicum II,"","","",TH13.10-15,AMS ARR,""
 NURS,560,PMHNP Practicum II,"","","",TH13.10-15,AMS ARR,""
@@ -471,14 +485,13 @@ NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
-NURS,800,"Doctoral Research, Dissertation, and/or Examination",02,14243,V,ARRGT,ARR ARR,""
 PHARMSCI,571,Computer-Aided Drug Design,01,14747,3,"W,F9.10-10.25",ARR ARR,Senthil Natesan
 PHARMSCI,572,Fundamentals of Oncology,01,13090,3,"TU,TH13.10-14.25",AMS SPK,Boyang Wu
-PHARMSCI,597,College of Pharmacy Graduate Seminar,01,13086,1,F12.10-13,AMS SPK,""
+PHARMSCI,579,Principles of Pharmacology,01,13091,3,"M,W13.10-14.25",AMS SPK,""
+PHARMSCI,597,College of Pharmacy Graduate Seminar,01,13086,1,F12.10-13,AMS SPK,Andrea Lazarus
 PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,13087,V,ARRGT,ARR ARR,(multiple)
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,13538,V,ARRGT,ARR ARR,""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,13539,V,ARRGT,ARR ARR,""
-SHS,202,American Sign Language II,01,13138,4,"TU,TH12.10-13",GUC SPK,Melissa Ratsch
 SHS,376,Speech Sound Disorders,01,13139,3,"TH,F13.35-14.50",WEB ARR,Dana Algeo
 SHS,378,Speech and Hearing Sciences,01,13141,3,"TU,TH10.10-11.35",WEB ARR,Hedieh Hashemi Hosseinabad
 SHS,450,Special Topics in Speech and Hearing Sciences,01,13171,V,"M,W2.35-3.50",WEB ARR,Lindsay Williams
@@ -489,12 +502,28 @@ SHS,473,[M] Language and Literacy,01,13146,3,"W,TH10.30-11.45",WEB ARR,Dana Alge
 SHS,478,Language Impairment,01,13147,3,"M,W13.10-14.25",WEB ARR,Georgina Lynch
 SHS,480,[CAPS] Senior Seminar,01,13148,3,"TU,TH13.10-14.25",WEB ARR,Amy Meredith
 SHS,490,Special Topics in Speech and Hearing Sciences,01,13170,V,"TU,TH15.10-16.25",WEB ARR,""
+SHS,501,Research Methods,01,14765,3,"M,W16.10-17.25",WEB ARR,Mark Vandam
+SHS,501,Research Methods,02,13177,3,"TU,TH16.10-17.25",WEB ARR,Mark Vandam
+SHS,542,Early Language Development,01,13154,2,TU14.10-15.10,WEB ARR,Lauren Thompson
+SHS,542,Early Language Development,02,13155,2,W14.10-16,WEB ARR,Lauren Thompson
+SHS,552,Speech-Language Pathology and Audiology in Schools,01,13156,2,M13.10-14.50,WEB ARR,Elizabeth Wilson-Fowler
+SHS,552,Speech-Language Pathology and Audiology in Schools,02,13172,2,TH13.10-14.50,WEB ARR,Elizabeth Wilson-Fowler
+SHS,556,Problems in Stuttering,01,13174,2,TU11.10-12.50,WEB ARR,David Jenson
+SHS,556,Problems in Stuttering,02,13175,2,M11.10-12.50,WEB ARR,David Jenson
+SHS,563,Dysphagia,01,13158,3,"M,W8-9.35",WEB ARR,Nancy Potter
+SHS,563,Dysphagia,02,13159,3,"TU,TH8-9.35",WEB ARR,Nancy Potter
+SHS,566,Off-Campus Practicum Public School Setting,01,13160,V,ARRGT,ARR ARR,Karen Rademaker Simpson
+SHS,568,Off-campus Practicum Clinical Setting,01,13161,V,ARRGT,ARR ARR,Karen Rademaker Simpson
+SHS,570,Advanced Internship in Speech-Language Pathology,01,13162,V,ARRGT,ARR ARR,Karen Rademaker Simpson
+SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,13169,V,ARRGT,ARR ARR,(multiple)
 SPEC_ED,301,Education of Exceptional Children,01,13435,3,ARRGT,ARR ARR,Lauren Bruno
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,13525,3,ARRGT,ARR ARR,Amira Albagshi
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,13527,3,ARRGT,ARR ARR,Marcus Poppen
 SPEC_ED,540,Methods in Intensive Educational Supports,01,13436,3,ARRGT,ARR ARR,Amira Albagshi
-SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,13477,3,ARRGT,ARR ARR,""
+SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,13477,3,ARRGT,ARR ARR,Michael Dunn
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,13466,1,W16.10-17,AMS SPK,Donald Mcmahon
 TCH_LRN,415,Student Teaching,01,13438,V,ARRGT,ARR ARR,Ashley Segadelli
 TCH_LRN,521,Topics in Education,02,13511,V,ARRGT,ARR ARR,Ashley Segadelli
+TCH_LRN,561,Elementary School Mathematics,01,14973,3,TH17.45-20.30,AMS ARR,Molly Kelton
+TCH_LRN,571,Research in STEM Education,01,14974,3,W17.45-20.30,WEB ARR,Tamara Holmlund
 TCH_LRN,600,Special Projects or Independent Study,01,13498,V,ARRGT,ARR ARR,Ashley Segadelli
