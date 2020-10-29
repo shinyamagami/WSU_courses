@@ -10,8 +10,6 @@ ACCTG,433,[M] Accounting Systems and Auditing,02,10309,3,ARRGT,ARR ARR,""
 ACCTG,550,Introduction to Financial and Managerial Accounting,01,10005,3,ARRGT,ARR ARR,Bernard Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,02,10006,3,ARRGT,ARR ARR,Bernard Wong-On-Wing
 AFS,302,[M] Introduction to Agroecology,01,09881,3,ARRGT,ARR ARR,Kevin Murphy
-AFS,445,Field Analysis of Sustainable Food Systems,01,09886,3,ARRGT,ARR ARR,""
-AFS,545,Field Analysis of Sustainable Food Systems,01,09887,3,ARRGT,ARR ARR,""
 AGRI,700,"Master's Research, Thesis, and/or Examination",01,09878,V,ARRGT,ARR ARR,""
 AGRI,702,"Master's Special Problems, Directed Study, and/or Examination",01,09879,V,ARRGT,ARR ARR,(multiple)
 AIS,320,[DIVR] Native Peoples of North America,01,10537,3,ARRGT,ARR ARR,John Mcnassar
@@ -134,6 +132,7 @@ COM,300,[M] Writing in Communication,01,10226,3,ARRGT,ARR ARR,""
 COM,309,Quantitative Research Methods,02,10268,3,ARRGT,ARR ARR,Mina Park
 COM,464,Gender and the Media,01,10571,3,ARRGT,ARR ARR,Traci Gillig
 COM,475,Communication Seminar,02,10229,3,ARRGT,ARR ARR,Marvin Marcelo
+COM,475,Communication Seminar,05,15890,3,ARRGT,ARR ARR,Matthew Loveless
 COM,479,Youth and the Media,01,09936,3,ARRGT,ARR ARR,Erica Austin
 COM,561,Multimedia Content Creation,01,09844,3,ARRGT,ARR ARR,Chelsea Newman
 COM,562,Crisis Communication in Global Contexts,01,09845,3,ARRGT,ARR ARR,Erin Tomson
@@ -172,7 +171,6 @@ CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,02,09707
 CRM_J,311,Research Methods for Criminal Justice,01,09709,3,ARRGT,ARR ARR,Erica Magana
 CRM_J,320,Criminal Law,01,09710,3,ARRGT,ARR ARR,Craig Hemmens
 CRM_J,330,Crime Control Policies,01,09711,3,ARRGT,ARR ARR,Mary Miller
-CRM_J,365,Juvenile Justice and Corrections,01,09736,3,ARRGT,ARR ARR,Angelo Brown
 CRM_J,380,Criminal Courts in America,01,14943,3,ARRGT,ARR ARR,Craig Hemmens
 CRM_J,385,Institutional Corrections,01,09712,3,ARRGT,ARR ARR,Mary Stohr
 CRM_J,390,Criminal Justice Management,01,11453,3,ARRGT,ARR ARR,Mary Stohr
@@ -181,7 +179,7 @@ CRM_J,405,[M] Comparative Criminal Justice Systems,01,14692,3,ARRGT,ARR ARR,Cort
 CROP_SCI,102,Introduction to Cultivated Plants,01,09891,3,ARRGT,ARR ARR,Richard Koenig
 CROP_SCI,360,World Agricultural Systems,01,09884,3,ARRGT,ARR ARR,Pete Jacoby
 DATA,115,Introduction to Data Analytics,01,10097,3,ARRGT,ARR ARR,""
-DATA,424,[CAPS] [M] Data Analytics Capstone,01,10540,3,ARRGT,ARR ARR,""
+DATA,424,[CAPS] [M] Data Analytics Capstone,01,10540,3,ARRGT,ARR ARR,Rhonda Crate
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,15174,3,ARRGT,ARR ARR,Ruth Gregory
 DTC,201,[ARTS] Tools and Methods for Digital Technology,02,15175,3,ARRGT,ARR ARR,Ruth Gregory
 DTC,354,Digital Storytelling,01,15102,3,ARRGT,ARR ARR,Lauren Westerfield
@@ -242,7 +240,7 @@ ENGLISH,302,[M] Introduction to English Studies,01,15101,3,ARRGT,ARR ARR,Kandy R
 ENGLISH,309,Women Writers,01,09780,3,ARRGT,ARR ARR,Donna Campbell
 ENGLISH,354,Digital Storytelling,01,15103,3,ARRGT,ARR ARR,Lauren Westerfield
 ENGLISH,360,Principles of Rhetoric,01,10370,3,ARRGT,ARR ARR,Sherwin Sales
-ENGLISH,362,[DIVR] Rhetorics of Racism,01,15199,3,ARRGT,ARR ARR,Robert Eddy
+ENGLISH,362,[DIVR] Rhetorics of Racism,01,15199,3,ARRGT,ARR ARR,Edrees Nawabi
 ENGLISH,373,[HUM] 20th and 21st Century Global Literatures in English,01,10530,3,ARRGT,ARR ARR,Chelsea Ratzlaff
 ENGLISH,401,History of Rhetoric,01,10518,3,ARRGT,ARR ARR,Patricia Wilde
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,09782,3,ARRGT,ARR ARR,Sallie M Gowdy-Burke
@@ -359,6 +357,7 @@ HISTORY,473,The Middle East and the West,01,10546,3,ARRGT,ARR ARR,R. Charles Wel
 HONORS,280,Contextual Understanding in the Arts and Humanities,02,15370,3,ARRGT,ARR ARR,Elizabeth Lampman
 HONORS,290,Science as a Way of Knowing,01,10399,3,ARRGT,ARR ARR,Joanna Schultz
 HONORS,380,Case Study: Global Issues in the Arts and Humanities,01,15371,3,ARRGT,ARR ARR,Sergey Lapin
+HONORS,390,Case Study: Global Issues in the Sciences,01,15372,3,ARRGT,ARR ARR,Joanna Schultz
 HONORS,398,Honors Thesis Proposal Seminar,02,15399,1,ARRGT,ARR ARR,Janessa Graves
 HORT,102,Introduction to Cultivated Plants,01,09890,3,ARRGT,ARR ARR,Richard Koenig
 HUMANITY,101,[HUM] Humanities in the Ancient World,01,09980,3,ARRGT,ARR ARR,Laura Kuhlman
@@ -389,7 +388,7 @@ I_BUS,582,International Marketing Management,05,14482,3,ARRGT,ARR ARR,Jeffrey Jo
 I_BUS,582,International Marketing Management,06,14483,3,ARRGT,ARR ARR,Jeffrey Joireman
 I_BUS,582,International Marketing Management,07,14484,3,ARRGT,ARR ARR,Jeffrey Joireman
 ISE,300,INTRN'L EXCH,01,09932,V,ARRGT,ARR ARR,""
-MATH,103,Algebra Methods and Introduction to Functions,01,09745,3,ARRGT,ARR ARR,Emily Sablan
+MATH,103,Algebra Methods and Introduction to Functions,01,09745,3,ARRGT,ARR ARR,""
 MATH,106,College Algebra,01,10521,3,ARRGT,ARR ARR,Ryan Learn
 MATH,108,Trigonometry,01,14746,2,ARRGT,ARR ARR,Saranah Selmi
 MATH,171,[QUAN] Calculus I,01,10528,4,ARRGT,ARR ARR,""
@@ -564,6 +563,7 @@ SOE,210,[PSCI] Earth's History and Evolution,01 Lab,09739,0,ARRGT,ARR ARR,Joseph
 SOE,230,[PSCI] Introductory Oceanography,01,10433,3,ARRGT,ARR ARR,Stephen Katz
 SOE,300,Natural Resource Ecology,01,14858,3,ARRGT,ARR ARR,Steven Woodley
 SOE,404,[CAPS] [M] The Ecosystem,01,10543,3,ARRGT,ARR ARR,Marc Kramer
+SOE,540,Agroecology,01,15943,3,W13.30-16,"",Marcia Ostrom
 SOIL_SCI,302,[M] Introduction to Agroecology,01,09880,3,ARRGT,ARR ARR,Kevin Murphy
 SOIL_SCI,360,World Agricultural Systems,01,09885,3,ARRGT,ARR ARR,Pete Jacoby
 SOIL_SCI,374,Introduction to Remote Sensing,01,09950,3,ARRGT,ARR ARR,Leah Brueggeman
@@ -607,7 +607,7 @@ UNIV,104,First-Year Success Seminar,01,15169,2,ARRGT,ARR ARR,Samantha Solomon
 UNIV,110,Developing Academic Strategies for Reading and Writing,01,14896,4,ARRGT,ARR ARR,Emily Harmon
 UNIV,301,Career Exploration and Professional Development,01,09902,1,ARRGT,ARR ARR,Christopher Miller
 UNIV,398,Internship,01,09923,V,ARRGT,ARR ARR,Judy Hopkins
-UNIV,490,Global Leadership Experience,01,09972,1,ARRGT,ARR ARR,Kelly Newlon
+UNIV,490,Global Leadership Experience,01,09972,1,ARRGT,ARR ARR,""
 UNIV,491,Global Leadership Integrative Capstone,01,09973,1,ARRGT,ARR ARR,Kelly Newlon
 UNIV,497,Peer Leadership,01,09903,V,ARRGT,ARR ARR,Kelly Newlon
 WOMEN_ST,305,Gender and Politics,01,15048,3,ARRGT,ARR ARR,Joe Huseby

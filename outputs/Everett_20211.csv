@@ -1,6 +1,8 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Instructor
-B_A,211,"Ethics, Teams, and Innovation",02,14795,3,"M,W16.20-17.35","",Benjamin Warnick
-B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,14796,3,"TU,TH16.20-17.35","",Yijun He
+AFS,302,[M] Introduction to Agroecology,01,10950,3,ARRGT,ARR ARR,Kevin Murphy
+AFS,401,[CAPS] Advanced Systems Analysis and Design in Agricultural and Food Systems,01,11317,3,"TU,TH13.30-14.45",WEB ARR,Holly Henning Yeager
+B_A,211,"Ethics, Teams, and Innovation",02,14795,3,"M,W16.20-17.35",WEB ARR,Benjamin Warnick
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,14796,3,"TU,TH16.20-17.35",WEB ARR,Yijun He
 COM,101,[SSCI] Media and Society,01,10662,3,ARRGT,ARR ARR,Richard Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,10749,3,ARRGT,ARR ARR,Christine Curtis
 COM,105,[HUM] Communication in Global Contexts,01,10659,3,ARRGT,ARR ARR,Christine Curtis
@@ -16,19 +18,56 @@ COMSOC,301,Foundations of Persuasion,01,10669,3,"TU,TH10.35-11.50",WEB ARR,Rober
 COMSTRAT,310,Digital Content Promotion,01,10667,3,"TU,TH7.45-9",WEB ARR,Brett Atwood
 COMSTRAT,312,Principles of Public Relations,01,10711,3,ARRGT,ARR ARR,Brett Atwood
 COMSTRAT,380,Advertising Principles and Practices,01,10665,3,"M,W9.10-10.25",WEB ARR,Corrie Wilder
+COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,10666,3,ARRGT,ARR ARR,Margaret Ritsch
 COMSTRAT,476,Consumer Insights and Branding,01,11279,3,ARRGT,ARR ARR,Michelle Kistler
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,10689,3,"M,W10.35-11.50",WEB ARR,Corrie Wilder
 COMSTRAT,495,Strategic Communication Professional Internship,01,10690,V,ARRGT,ARR ARR,Angela Schweigert
+CPT_S,233,Advanced Data Structures Java,01,10724,3,"M,W,F14.10-15",WEB ARR,Dingwen Tao
+CPT_S,260,Introduction to Computer Architecture,01,15927,3,"M,W,F16.10-17",WEB ARR,Ganapati Bhat
 CPT_S,315,Introduction to Data Mining,01,15547,3,"TU,TH9.10-10.25",WEB ARR,Venkata Janardhan Rao Doppa
+CPT_S,317,Automata and Formal Languages,01,10897,3,"M,W,F10.10-11",WEB ARR,Jeremy Thompson
+CPT_S,321,Object-Oriented Software Principles,01,10727,3,"M,W,F9.10-10",WEB ARR,Venera Arnaoudova
+CPT_S,322,[M] Software Engineering Principles I,01,10728,3,"TU,TH13.25-14.40",WEB ARR,Bolong Zeng
+CPT_S,355,Programming Language Design,01,10730,3,"M,W,F13.10-14",WEB ARR,Jeremy Thompson
+CPT_S,423,[CAPS] Software Design Project II,01,11133,3,"M,W,F16.10-17",WEB ARR,Bolong Zeng
+CPT_S,423,[CAPS] Software Design Project II,01 Lab,11175,0,ARRGT,ARR ARR,Bolong Zeng
+CPT_S,427,Computer Security,01,15889,3,"TU,TH16.20-17.35",WEB ARR,William Hutton
+CPT_S,443,Human-Computer Interaction,01,15928,3,"TU,TH10.35-11.50",WEB ARR,Christopher Hundhausen
+CPT_S,451,Introduction to Database Systems,01,10929,3,ARRGT,ARR ARR,Ananth Jillepalli
+CPT_S,471,Computational Genomics,01,11119,3,"M,W,F11.10-12",WEB ARR,Anantharaman Kalyanaraman
+CPT_S,479,Mobile Application Development,01,11061,3,"M,W,F15.10-16",WEB ARR,Lawrence Holder
+CPT_S,487,Software Design and Architecture,02,11117,3,"TU,TH12.05-13.20",WEB ARR,Bolong Zeng
+CROP_SCI,202,Crop Growth and Development,01,11295,4,"M,W,F9.10-10",WEB ARR,Michael Pumphrey
+CROP_SCI,202,Crop Growth and Development,01 Lab,11296,0,TU9.10-11.50,WEB ARR,Michael Pumphrey
+CROP_SCI,360,World Agricultural Systems,01,10919,3,ARRGT,ARR ARR,Pete Jacoby
 DATA,115,Introduction to Data Analytics,02,11193,3,"M,W,F11.10-12",WEB ARR,Daryl Deford
 DATA,424,[CAPS] [M] Data Analytics Capstone,03,15546,3,M16.10-17,WEB ARR,Rhonda Crate
+E_E,234,Microprocessor Systems,01,10679,4,"M,W10.10-11.25",WEB ARR,Jacob Murray
+E_E,234,Microprocessor Systems,01 Lab,10694,0,F10.10-13,WEB ARR,Jacob Murray
+E_E,341,Signals and Systems,01,10680,3,"M,W,F13.10-14",WEB ARR,Benjamin Belzer
+E_E,351,Distributed Parameter Systems,01,10681,3,"M,W,F8.10-9",WEB ARR,Patrick Pedrow
+E_E,361,Electrical Power Systems,01,10682,3,"TU,TH12.10-14",WEB ARR,Shuzheng Xie
+E_E,362,Power System Laboratory I,01,11115,3,M9.10-10,WEB ARR,Shuzheng Xie
+E_E,362,Power System Laboratory I,01 Lab,11116,0,"M,W10.10-13",WEB ARR,Shuzheng Xie
+E_E,416,[CAPS] [M] Electrical Engineering Design,01,10686,3,"TU,TH13.10-14.25",WEB ARR,Jacob Murray
+E_E,416,[CAPS] [M] Electrical Engineering Design,01 Lab,10698,0,TH14.35-17.25,WEB ARR,Jacob Murray
+E_E,451,Digital Communication Systems,01,10685,3,"M,W,F10.10-11",WEB ARR,Benjamin Belzer
+E_E,485,Electric Energy Distribution Systems,01,11286,3,"TU,TH9.10-10.25",WEB ARR,Anamika Dubey
+E_E,486,Power Electronics,01,10708,3,"M,W7.45-9","",Ahmed Abu Hajar
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,10688,3,ARRGT,ARR ARR,Golam Saroare Shakil
 ECONS,305,Intermediate Microeconomics without Calculus,01,10672,3,ARRGT,ARR ARR,Wisnu Sugiarto
+ECONS,351,Introduction to Food and Agricultural Markets,01,11040,3,ARRGT,ARR ARR,Yin Zhang
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,10709,3,ARRGT,ARR ARR,Sallie M Gowdy-Burke
+ENTOM,351,Ecological and Integrated Pest Management,02,11152,3,"TU,TH12.05-13.20",WEB ARR,Allan Felsot
 FIN,325,Introduction to Financial Management,02,10815,3,ARRGT,ARR ARR,Douglas Fairhurst
 HBM,280,Hospitality Systems,02,10922,3,ARRGT,ARR ARR,Kahlil Philander
+HBM,358,Foodservice Systems and Control,01,10802,3,TU13.30-16.05,WEB ARR,Soobin Seo
+HBM,375,Introduction to Senior Living Management,01,10803,3,"TU,TH16.30-19.20","",Nancy Swanger
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,02,10925,3,ARRGT,ARR ARR,""
+HBM,383,Meeting and Convention Management,01,14754,3,ARRGT,ARR ARR,Angela Senter
 HBM,401,Career Management,02,14670,1,ARRGT,ARR ARR,Michelle Snyder
+HBM,494,[M] Service Operations Management,01,15944,3,TH16.25-18.55,WEB ARR,James Harbour
+HBM,495,[CAPS] Case Studies and Research,01,10879,3,"TU,TH10.35-11.50",WEB ARR,Jennifer Sandstrom
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,10700,3,ARRGT,ARR ARR,Eugene Smelyansky
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,11277,3,ARRGT,ARR ARR,Nicholas Martin
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,10654,3,ARRGT,ARR ARR,Jennifer Binczewski
@@ -36,8 +75,15 @@ HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,02,11267,3
 I_BUS,380,International Business,01,10706,3,ARRGT,ARR ARR,Meredith Downes
 I_BUS,453,[M] International Management,01,10854,3,ARRGT,ARR ARR,Diane Nelson
 I_BUS,482,[M] International Marketing,01,10855,3,ARRGT,ARR ARR,Mesut Cicek
+MATH,216,Discrete Structures,01,10725,3,"M,W,F14.10-15",WEB ARR,""
 ME,348,Dynamics Systems,01,10675,3,"M,W,F11.10-12",WEB ARR,Gordon Taub
 MGMT,301,Principles of Management and Organization,01,10670,3,ARRGT,ARR ARR,Leah Sheppard
+MGMT,450,Personnel and Human Resources Management,01,11100,3,W15-17.50,WEB ARR,Mark Beattie
 MIS,250,Managing Information Technology,01,10798,3,ARRGT,ARR ARR,Gregory Rose
 MIS,322,[M] Enterprise Business Process Analysis,01,15569,3,"M,W,F15.10-16",WEB ARR,Vincent Compeau
 MIS,325,Enterprise Business Development,01,15570,3,"M,W,F10.10-11",WEB ARR,Mauricio Featherman
+MKTG,360,Marketing,01,10799,3,ARRGT,ARR ARR,Darrel Muehling
+MKTG,360,Marketing,02,10812,3,TH13.30-16.05,WEB ARR,Soobin Seo
+SOIL_SCI,441,Soil Fertility,02,15886,3,"M,W,F10.10-11",WEB ARR,Isaac Madsen
+SOIL_SCI,478,Advanced Organic Farming and Gardening,01,11008,2,ARRGT,ARR ARR,Bradley Jaeckel
+STAT,360,Probability and Statistics,01,10721,3,"TU,TH10.35-11.50",WEB ARR,Haijun Li
