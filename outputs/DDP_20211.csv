@@ -8,6 +8,7 @@ ACCTG,331,Intermediate Accounting II,01,09899,3,ARRGT,ARR ARR,J Porter
 ACCTG,331,Intermediate Accounting II,02,10161,3,ARRGT,ARR ARR,J Porter
 ACCTG,433,[M] Accounting Systems and Auditing,01,10308,3,ARRGT,ARR ARR,X Gao
 ACCTG,433,[M] Accounting Systems and Auditing,02,10309,3,ARRGT,ARR ARR,""
+ACCTG,433,[M] Accounting Systems and Auditing,03,10420,3,ARRGT,ARR ARR,X Gao
 ACCTG,550,Introduction to Financial and Managerial Accounting,01,10005,3,ARRGT,ARR ARR,B Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,02,10006,3,ARRGT,ARR ARR,B Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,03,10007,3,ARRGT,ARR ARR,B Wong-On-Wing
@@ -41,6 +42,7 @@ B_A,102,Exploring Careers in Business,01,10430,1,ARRGT,ARR ARR,S Billington
 B_A,211,"Ethics, Teams, and Innovation",01,10639,3,ARRGT,ARR ARR,J Saylors
 B_A,211,"Ethics, Teams, and Innovation",02,14750,3,ARRGT,ARR ARR,J Saylors
 B_A,211,"Ethics, Teams, and Innovation",03,14751,3,ARRGT,ARR ARR,J Saylors
+B_A,211,"Ethics, Teams, and Innovation",04,16054,3,ARRGT,ARR ARR,J Saylors
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,10638,3,ARRGT,ARR ARR,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,14730,3,ARRGT,ARR ARR,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",03,14731,3,ARRGT,ARR ARR,Y He
@@ -68,11 +70,11 @@ B_A,504,Foundations in Finance,02,10011,2,ARRGT,ARR ARR,M Reyes
 B_A,504,Foundations in Finance,03,10012,2,ARRGT,ARR ARR,M Reyes
 B_A,514,Business Analytics: Transforming Data into Decisions,01,"",3,ARRGT,ARR ARR,S Fotopoulos
 B_A,514,Business Analytics: Transforming Data into Decisions,02,"",3,ARRGT,ARR ARR,S Fotopoulos
-B_A,579,MBA Capstone,01,10021,3,ARRGT,ARR ARR,M Jordan
-B_A,579,MBA Capstone,02,10022,3,ARRGT,ARR ARR,M Jordan
-B_A,579,MBA Capstone,03,10023,3,ARRGT,ARR ARR,M Jordan
+B_A,579,MBA Capstone,01,10021,2,ARRGT,ARR ARR,M Jordan
+B_A,579,MBA Capstone,02,10022,2,ARRGT,ARR ARR,M Jordan
+B_A,579,MBA Capstone,03,10023,2,ARRGT,ARR ARR,M Jordan
 B_A,579,MBA Capstone,11,10046,2,ARRGT,ARR ARR,""
-B_A,579,MBA Capstone,12,10047,3,ARRGT,ARR ARR,M Jordan
+B_A,579,MBA Capstone,12,10047,2,ARRGT,ARR ARR,M Jordan
 B_A,579,MBA Capstone,13,10049,2,ARRGT,ARR ARR,M Jordan
 B_A,579,MBA Capstone,21,"",3,ARRGT,ARR ARR,V Kolde
 B_A,579,MBA Capstone,25,"",3,ARRGT,ARR ARR,M Jordan
@@ -99,17 +101,17 @@ B_LAW,210,Law and the Legal Environment of Business,03,14733,3,ARRGT,ARR ARR,S B
 B_LAW,210,Law and the Legal Environment of Business,04,"",3,ARRGT,ARR ARR,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,05,"",3,ARRGT,ARR ARR,S Bergstedt
 BIO_ENG,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
-BIOLOGY,101,[BSCI] Biology of Humans,01,10520,3,ARRGT,"",W Cushwa
+BIOLOGY,101,[BSCI] Biology of Humans,01,10520,3,ARRGT,ARR ARR,W Cushwa
 BIOLOGY,102,[BSCI] General Biology,01,09725,4,ARRGT,ARR ARR,A Brown
 BIOLOGY,102,[BSCI] General Biology,01 Lab,09726,0,ARRGT,ARR ARR,A Brown
 BIOLOGY,105,General Biology Laboratory,01,09727,1,ARRGT,ARR ARR,A Brown
 BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,09728,3,ARRGT,ARR ARR,A Brown
+BIOLOGY,220,Medical Terminology,01,09730,2,ARRGT,ARR ARR,K Turner
 BIOLOGY,251,Introductory Human Physiology,01,09729,4,ARRGT,ARR ARR,N Ankrah
 BIOLOGY,251,Introductory Human Physiology,01 Lab,09962,0,ARRGT,ARR ARR,N Ankrah
 BIOLOGY,301,General Genetics,01,09755,4,ARRGT,ARR ARR,N Mccabe
 BIOLOGY,333,[BSCI] Human Nutrition and Health,01,10519,3,ARRGT,ARR ARR,K Beerman
 BIOLOGY,393,[M] Professional Communications in Biology,01,09838,2,ARRGT,ARR ARR,L Cook
-BIOLOGY,393,[M] Professional Communications in Biology,02,15346,2,ARRGT,ARR ARR,D Monk
 BIOLOGY,476,Epigenetics and Systems Biology,01,10115,3,ARRGT,ARR ARR,M Skinner
 BIOLOGY,576,Epigenetics and Systems Biology,01,10116,3,ARRGT,ARR ARR,M Skinner
 CAS,400,End-of-Program Evaluation Portfolio,01,"",1,ARRGT,ARR ARR,J Bledsoe
@@ -119,6 +121,10 @@ CE,564,Numerical Methods,01,15285,3,ARRGT,ARR ARR,N Engdahl
 CES,209,[HUM] Hip Hop Around the Globe,01,14766,3,ARRGT,ARR ARR,D Leonard
 CES,271,[HUM] Native Music of North America,01,09958,3,ARRGT,ARR ARR,M Parkhurst
 CHE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
+CHEM,101,[PSCI] Introduction to Chemistry,01,16124,4,ARRGT,ARR ARR,E Silva Lopez
+CHEM,101,[PSCI] Introduction to Chemistry,01 Lab,16130,0,ARRGT,ARR ARR,E Silva Lopez
+CHEM,103,Concepts in Chemistry,01,15390,4,ARRGT,ARR ARR,P Buckley
+CHEM,103,Concepts in Chemistry,01 Lab,16144,0,ARRGT,ARR ARR,P Buckley
 COM,101,[SSCI] Media and Society,01,09836,3,ARRGT,ARR ARR,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,09920,3,ARRGT,ARR ARR,C Curtis
 COM,102,[COMM] Public Speaking in the Digital Age,02,09961,3,ARRGT,ARR ARR,C Curtis
@@ -146,6 +152,7 @@ COMSTRAT,310,Digital Content Promotion,01,10253,3,ARRGT,ARR ARR,M Galey
 COMSTRAT,312,Principles of Public Relations,01,10256,3,ARRGT,ARR ARR,B Atwood
 COMSTRAT,380,Advertising Principles and Practices,01,09919,3,ARRGT,ARR ARR,W Peng
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,10254,3,ARRGT,ARR ARR,M Ritsch
+COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,02,15253,3,ARRGT,ARR ARR,M Ritsch
 COMSTRAT,475,Strategic Communication Seminar in Public Relations,02,15348,3,ARRGT,ARR ARR,J Barnes
 COMSTRAT,476,Consumer Insights and Branding,01,10535,3,ARRGT,ARR ARR,M Kistler
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,10393,3,ARRGT,ARR ARR,Y Lee
@@ -163,7 +170,6 @@ CPT_S,215,Data Analytics Systems and Algorithms,01,10247,3,ARRGT,ARR ARR,S Badri
 CPT_S,451,Introduction to Database Systems,01,10238,3,ARRGT,ARR ARR,A Jillepalli
 CPT_S,487,Software Design and Architecture,01,10093,3,ARRGT,ARR ARR,B Zeng
 CPT_S,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
-CPT_S,581,Software Maintenance,01,09717,3,ARRGT,ARR ARR,V Arnaoudova
 CPT_S,583,Software Quality,01,14801,3,ARRGT,ARR ARR,H Cai
 CPT_S,587,Software Design and Architecture,01,10395,3,ARRGT,ARR ARR,B Zeng
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,02,09707,3,ARRGT,ARR ARR,C Dollar
@@ -177,42 +183,42 @@ CRM_J,403,[CAPS] Violence Toward Women,01,09713,3,ARRGT,ARR ARR,A Kraft-Duley
 CRM_J,405,[M] Comparative Criminal Justice Systems,01,"",3,ARRGT,ARR ARR,C Dalton
 CROP_SCI,102,Introduction to Cultivated Plants,01,09891,3,ARRGT,ARR ARR,R Koenig
 CROP_SCI,360,World Agricultural Systems,01,09884,3,ARRGT,ARR ARR,P Jacoby
-DATA,115,Introduction to Data Analytics,01,10097,3,ARRGT,ARR ARR,""
+DATA,115,Introduction to Data Analytics,01,10097,3,ARRGT,ARR ARR,S Chakraborty
 DATA,424,[CAPS] [M] Data Analytics Capstone,01,10540,3,ARRGT,ARR ARR,R Crate
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,15174,3,ARRGT,ARR ARR,R Gregory
 DTC,201,[ARTS] Tools and Methods for Digital Technology,02,15175,3,ARRGT,ARR ARR,R Gregory
 DTC,354,Digital Storytelling,01,15102,3,ARRGT,ARR ARR,L Westerfield
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
-E_E,234,Microprocessor Systems,01,"",4,"M,W,F15.10-16","",C Cole
-E_E,234,Microprocessor Systems,01 Lab,"",0,TU7.45-10.35,"",C Cole
-E_E,341,Signals and Systems,01,"",3,"TU,TH16.20-17.35","",J Guerrero Sedeno
-E_E,352,[M] Electrical Engineering Laboratory I,01,"",3,ARRGT,"",M Kejariwal
-E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,"",0,ARRGT,"",M Kejariwal
-E_E,361,Electrical Power Systems,01,"",3,"M,W10.10-11.25","",J Guerrero Sedeno
-E_E,416,[CAPS] [M] Electrical Engineering Design,01,"",3,TU13.20-15,"",M Kejariwal
-E_E,416,[CAPS] [M] Electrical Engineering Design,01 Lab,"",0,ARRGT,ARR ARR,M Kejariwal
+E_E,234,Microprocessor Systems,01,10104,4,"M,W,F15.10-16","",C Cole
+E_E,234,Microprocessor Systems,01 Lab,10105,0,TU7.45-10.35,"",C Cole
+E_E,341,Signals and Systems,01,10106,3,"TU,TH12.30-13.45","",J Guerrero Sedeno
+E_E,352,[M] Electrical Engineering Laboratory I,01,15046,3,"M,W8.10-9","",M Kejariwal
+E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,15047,0,"M,W9.10-12","",M Kejariwal
+E_E,361,Electrical Power Systems,01,10107,3,"M,W,F14.10-15","",J Guerrero Sedeno
+E_E,416,[CAPS] [M] Electrical Engineering Design,01,10251,3,"TU,TH11.10-12","",M Kejariwal
+E_E,416,[CAPS] [M] Electrical Engineering Design,01 Lab,10252,0,ARRGT,ARR ARR,M Kejariwal
 E_E,483,Topics in Electrical and Computer Engineering,01,"",3,ARRGT,ARR ARR,R Olsen
-E_E,483,Topics in Electrical and Computer Engineering,03,16041,3,"TU,TH9.10-10.10",WEB ARR,M Kejariwal
+E_E,483,Topics in Electrical and Computer Engineering,03,16041,3,"TU,TH13.30-14.45","",M Kejariwal
 E_E,485,Electric Energy Distribution Systems,02,10576,3,ARRGT,ARR ARR,A Dubey
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
 E_E,521,Analysis of Power Systems,01,09926,3,ARRGT,ARR ARR,A Bose
 E_E,522,High Voltage Engineering,01,14802,3,ARRGT,ARR ARR,P Pedrow
-E_M,401,Management of Organizations,01,"",3,TH17.15-19.45,WEB ARR,W Gray
-E_M,426,Constraints Management,01,"",3,W18.15-20.45,"",L Magpili
-E_M,480,Quality Control and Reliability,01,"",3,W18.15-20.45,WEB ARR,D Paulus
-E_M,490,Leading Design and Innovation,01,"",3,TU18.45-20.45,WEB ARR,D Paulus
-E_M,501,Management of Organizations,01,09854,3,TH17.15-19.45,WEB ARR,W Gray
-E_M,505,Finance for Technical Systems,01,09856,3,M17.15-19.45,WEB ARR,K Bachman
-E_M,526,Constraints Management,01,09853,3,W18.15-20.45,"",L Magpili
-E_M,540,Operations Research and Analytics for Managers,01,09857,3,TU18.15-20.45,WEB ARR,L Magpili
-E_M,565,Introduction to Systems Management,01,10508,3,M17.15-19.45,"",A Squires
-E_M,567,System Supportability and Logistics Management,01,14668,3,M17.15-19.45,WEB ARR,W Gray
-E_M,568,Risk Assessment and Management,01,10367,3,TH18.15-20.45,WEB ARR,L Magpili
-E_M,580,Quality Control and Reliability,01,14659,3,W18.15-20.45,WEB ARR,D Paulus
-E_M,590,Leading Design and Innovation,01,10347,3,TU18.45-20.45,WEB ARR,D Paulus
-E_M,591,Strategic Management of Technology and Innovations in Engineering,01,09946,3,TU17.15-19.45,WEB ARR,J Pricco
-E_M,596,Advanced Topics in Engineering Management II,01,10509,3,W17.15-19.45,WEB ARR,K Bachman
+E_M,401,Management of Organizations,01,"",3,TH17.15-19.45,"",K Bachman
+E_M,426,Constraints Management,01,"",3,W17.15-19.45,"",L Scheinkopf
+E_M,480,Quality Control and Reliability,01,"",3,W18.15-20.45,"",D Paulus
+E_M,490,Leading Design and Innovation,01,"",3,TU18.15-20.45,"",D Paulus
+E_M,501,Management of Organizations,01,09854,3,TH17.15-19.45,"",K Bachman
+E_M,505,Finance for Technical Systems,01,09856,3,M17.15-19.45,"",A Squires
+E_M,526,Constraints Management,01,09853,3,W17.15-19.45,"",L Scheinkopf
+E_M,540,Operations Research and Analytics for Managers,01,09857,3,TU18.15-20.45,"",L Magpili
+E_M,565,Introduction to Systems Management,01,10508,3,M17.15-19.45,"",W Gray
+E_M,567,System Supportability and Logistics Management,01,14668,3,TH17.15-19.45,"",W Gray
+E_M,568,Risk Assessment and Management,01,10367,3,TH18.15-20.45,"",L Magpili
+E_M,580,Quality Control and Reliability,01,14659,3,W18.15-20.45,"",D Paulus
+E_M,590,Leading Design and Innovation,01,10347,3,TU18.15-20.45,"",D Paulus
+E_M,591,Strategic Management of Technology and Innovations in Engineering,01,09946,3,TU17.15-19.45,"",J Pricco
+E_M,596,Advanced Topics in Engineering Management II,01,10509,3,W17.15-19.45,"",K Bachman
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10163,V,ARRGT,ARR ARR,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,09742,3,ARRGT,ARR ARR,A Salimgarieva
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,09743,3,ARRGT,ARR ARR,G Shakil
@@ -234,7 +240,7 @@ ENGLISH,101,[WRTG] College Composition,01,09778,3,ARRGT,ARR ARR,R Goodrich
 ENGLISH,101,[WRTG] College Composition,02,10378,3,ARRGT,ARR ARR,R Goodrich
 ENGLISH,102,Writing Tutorial,01,10383,1,ARRGT,ARR ARR,R Holland
 ENGLISH,201,[WRTG] Writing and Research,01,09751,3,ARRGT,ARR ARR,J Mccarthy
-ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,"",3,ARRGT,ARR ARR,""
+ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,"",3,ARRGT,ARR ARR,E Mcmenomy
 ENGLISH,302,[M] Introduction to English Studies,01,"",3,ARRGT,ARR ARR,K Robertson
 ENGLISH,309,Women Writers,01,09780,3,ARRGT,ARR ARR,D Campbell
 ENGLISH,354,Digital Storytelling,01,15103,3,ARRGT,ARR ARR,L Westerfield
@@ -271,7 +277,6 @@ FIN,325,Introduction to Financial Management,01,09851,3,ARRGT,ARR ARR,D Fairhurs
 FIN,325,Introduction to Financial Management,02,10166,3,ARRGT,ARR ARR,D Fairhurst
 FIN,325,Introduction to Financial Management,03,10215,3,ARRGT,ARR ARR,D Fairhurst
 FIN,325,Introduction to Financial Management,04,"",3,ARRGT,ARR ARR,D Fairhurst
-FIN,325,Introduction to Financial Management,05,"",3,ARRGT,ARR ARR,M Reyes
 FIN,345,Real Estate,01,09893,3,ARRGT,ARR ARR,F Benjamin
 FIN,346,Washington Real Estate Regulations,01,09894,1,ARRGT,ARR ARR,F Benjamin
 FIN,521,Interest Rates and Financial Markets,01,14446,3,ARRGT,ARR ARR,J Kallberg
@@ -363,10 +368,6 @@ HISTORY,444,[CAPS] The Renaissance,01,"",3,ARRGT,ARR ARR,B Traver
 HISTORY,459,Modern Britain,01,"",3,ARRGT,ARR ARR,A Wright
 HISTORY,469,[M] Seminar in History,01,"",3,ARRGT,ARR ARR,J Thigpen
 HISTORY,473,The Middle East and the West,01,10546,3,ARRGT,ARR ARR,R Weller
-HONORS,280,Contextual Understanding in the Arts and Humanities,02,15370,3,ARRGT,ARR ARR,E Lampman
-HONORS,290,Science as a Way of Knowing,01,10399,3,ARRGT,ARR ARR,J Schultz
-HONORS,380,Case Study: Global Issues in the Arts and Humanities,01,15371,3,ARRGT,ARR ARR,S Lapin
-HONORS,390,Case Study: Global Issues in the Sciences,01,15372,3,ARRGT,ARR ARR,J Schultz
 HONORS,398,Honors Thesis Proposal Seminar,02,15399,1,ARRGT,ARR ARR,J Graves
 HORT,102,Introduction to Cultivated Plants,01,09890,3,ARRGT,ARR ARR,R Koenig
 HUMANITY,101,[HUM] Humanities in the Ancient World,01,09980,3,ARRGT,ARR ARR,L Kuhlman
@@ -424,19 +425,19 @@ MBIOS,583,Professional Skills Seminar,01,09761,1,ARRGT,ARR ARR,B Hubbard
 MBIOS,584,Medical Genetics,01,15171,3,ARRGT,ARR ARR,I Wallace
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,10410,V,ARRGT,ARR ARR,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,09762,V,ARRGT,ARR ARR,N Mccabe
-ME,306,Thermal and Fluids Laboratory,01,"",2,W10.10-11,"",B Asgharian Dastenaie
-ME,306,Thermal and Fluids Laboratory,01 Lab,"",0,"TU,TH13.10-16","",B Asgharian Dastenaie
-ME,348,Dynamics Systems,01,"",3,"M,W,F11-11.50","",S Chien
-ME,401,Mechatronics,01,"",3,"M,W9.10-10","",M Pitts
-ME,401,Mechatronics,01 Lab,"",0,TU9.10-12.10,"",M Pitts
-ME,401,Mechatronics,02 Lab,"",0,TH9.10-12,"",M Pitts
-ME,406,[M] Experimental Design,01,"",3,M10.10-11,"",B Asgharian Dastenaie
-ME,406,[M] Experimental Design,01 Lab,"",0,"M,W11-14","",B Asgharian Dastenaie
-ME,416,[CAPS] Mechanical Systems Design,01,"",3,F9.10-10,"",M Pitts
-ME,416,[CAPS] Mechanical Systems Design,01 Lab,"",0,"W,F18-21","",M Pitts
-ME,439,Applied Aerodynamics,01,"",3,"M,W,F15.10-16","",J Liu
-ME,462,Introduction to Nuclear Engineering II,01,"",3,"TU,TH16.15-17.30","",""
-ME,466,Fundamentals of Engineering Examination Review,01,"",1,M10.10-11,"",M Pitts
+ME,306,Thermal and Fluids Laboratory,01,15274,2,W10.10-11,"",B Asgharian Dastenaie
+ME,306,Thermal and Fluids Laboratory,01 Lab,15275,0,"TU,TH13.10-16","",B Asgharian Dastenaie
+ME,348,Dynamics Systems,01,10402,3,"M,W,F11-11.50","",S Chien
+ME,401,Mechatronics,01,09909,3,"M,W9.10-10","",M Pitts
+ME,401,Mechatronics,01 Lab,09910,0,TU9.10-12.10,"",M Pitts
+ME,401,Mechatronics,02 Lab,09911,0,TH9.10-12,"",M Pitts
+ME,406,[M] Experimental Design,01,09913,3,M10.10-11,"",B Asgharian Dastenaie
+ME,406,[M] Experimental Design,01 Lab,09915,0,"M,W11-14","",B Asgharian Dastenaie
+ME,416,[CAPS] Mechanical Systems Design,01,09916,3,F9.10-10,"",M Pitts
+ME,416,[CAPS] Mechanical Systems Design,01 Lab,09917,0,"W,F18-21","",M Pitts
+ME,439,Applied Aerodynamics,01,09918,3,"M,W,F15.10-16","",J Liu
+ME,462,Introduction to Nuclear Engineering II,01,14971,3,"TU,TH16.15-17.30","",N Carstens
+ME,466,Fundamentals of Engineering Examination Review,01,14970,1,M10.10-11,"",M Pitts
 ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
 MGMT,301,Principles of Management and Organization,01,09897,3,ARRGT,ARR ARR,L Sheppard
 MGMT,301,Principles of Management and Organization,02,10131,3,ARRGT,ARR ARR,L Sheppard
@@ -503,7 +504,7 @@ MKTG,360,Marketing,04,"",3,ARRGT,ARR ARR,P Ossola
 MKTG,360,Marketing,05,"",3,ARRGT,ARR ARR,O Larina
 MKTG,360,Marketing,06,14753,3,ARRGT,ARR ARR,D Muehling
 MKTG,368,Marketing Research,01,10222,3,ARRGT,ARR ARR,U Umesh
-MSE,404,Engineering Composites,01,"",3,"M,W,F14.10-15","",W Zhong
+MSE,404,Engineering Composites,01,10237,3,"M,W,F14.10-15","",W Zhong
 MSE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
 MUS,160,[ARTS] Survey of Music Literature,01,09841,3,ARRGT,ARR ARR,B Edwards
 MUS,262,[ARTS] Rock Music: History and Social Analysis,01,09842,3,ARRGT,ARR ARR,A Miller
@@ -528,35 +529,35 @@ POL_S,405,[M] Comparative Criminal Justice Systems,01,"",3,ARRGT,ARR ARR,C Dalto
 POL_S,418,Human Issues in International Development,01,09807,3,ARRGT,ARR ARR,R Quinlan
 POL_S,428,[CAPS] Issues in Political Psychology,01,10387,3,ARRGT,ARR ARR,J Griffin
 POL_S,498,Public Policy Internship,01,"",V,ARRGT,ARR ARR,R Elgar
-PSYCH,105,[SSCI] Introductory Psychology,01,09766,3,ARRGT,ARR ARR,""
+PSYCH,105,[SSCI] Introductory Psychology,01,09766,3,ARRGT,ARR ARR,A Bridley
 PSYCH,110,Introduction to Addiction Studies,01,10501,3,ARRGT,ARR ARR,""
 PSYCH,201,Degrees and Careers in Psychology,01,10539,1,ARRGT,ARR ARR,L Daffin
-PSYCH,210,Psychology as a Science,01,09984,3,ARRGT,ARR ARR,""
+PSYCH,210,Psychology as a Science,01,09984,3,ARRGT,ARR ARR,R Herbert
 PSYCH,301,Seminar in Psychology,02,10150,V,ARRGT,ARR ARR,L Daffin
 PSYCH,308,Organizational Psychology,01,10407,3,ARRGT,ARR ARR,""
 PSYCH,310,"Work, Stress, and Health",01,10502,3,ARRGT,ARR ARR,""
-PSYCH,311,[QUAN] Statistics in Psychology,01,09767,4,ARRGT,ARR ARR,""
-PSYCH,311,[QUAN] Statistics in Psychology,02,10577,4,ARRGT,ARR ARR,""
-PSYCH,312,[M] Research Methods in Psychology,01,09768,4,ARRGT,ARR ARR,""
-PSYCH,312,[M] Research Methods in Psychology,02,10110,4,ARRGT,ARR ARR,""
-PSYCH,312,[M] Research Methods in Psychology,01 Lab,09769,0,ARRGT,ARR ARR,""
-PSYCH,312,[M] Research Methods in Psychology,02 Lab,10111,0,ARRGT,ARR ARR,""
-PSYCH,320,Health Psychology,01,10152,3,ARRGT,ARR ARR,""
-PSYCH,321,Personality,01,09770,3,ARRGT,ARR ARR,""
-PSYCH,328,[M] Self Control,01,09771,3,ARRGT,ARR ARR,""
-PSYCH,328,[M] Self Control,02,10154,3,ARRGT,ARR ARR,""
-PSYCH,333,Abnormal Psychology,01,09772,3,ARRGT,ARR ARR,""
-PSYCH,350,Social Psychology,01,09773,3,ARRGT,ARR ARR,""
-PSYCH,363,Psychology of Aging,01,09985,3,ARRGT,ARR ARR,""
-PSYCH,372,[BSCI] Biological Basis of Behavior,01,09940,3,ARRGT,ARR ARR,""
-PSYCH,384,Sensation and Perception,01,10153,3,ARRGT,ARR ARR,""
-PSYCH,401,[CAPS] [M] Historical Development of Psychology,01,10385,3,ARRGT,ARR ARR,""
-PSYCH,464,Behavior Disorders of Children and Adolescents,01,10092,3,ARRGT,ARR ARR,""
-PSYCH,470,Motivation,01,10151,3,ARRGT,ARR ARR,""
-PSYCH,497,Instructional Practicum,01,09775,V,ARRGT,ARR ARR,""
-PSYCH,497,Instructional Practicum,02,09776,V,ARRGT,ARR ARR,""
-PSYCH,497,Instructional Practicum,03,09986,V,ARRGT,ARR ARR,""
-PSYCH,497,Instructional Practicum,04,10506,V,ARRGT,ARR ARR,""
+PSYCH,311,[QUAN] Statistics in Psychology,01,09767,4,ARRGT,ARR ARR,J Vossen
+PSYCH,311,[QUAN] Statistics in Psychology,02,10577,4,ARRGT,ARR ARR,E Savage
+PSYCH,312,[M] Research Methods in Psychology,01,09768,4,ARRGT,ARR ARR,C Lane
+PSYCH,312,[M] Research Methods in Psychology,02,10110,4,ARRGT,ARR ARR,A Stubblefield
+PSYCH,312,[M] Research Methods in Psychology,01 Lab,09769,0,ARRGT,ARR ARR,C Lane
+PSYCH,312,[M] Research Methods in Psychology,02 Lab,10111,0,ARRGT,ARR ARR,A Stubblefield
+PSYCH,320,Health Psychology,01,10152,3,ARRGT,ARR ARR,A Bridley
+PSYCH,321,Personality,01,09770,3,ARRGT,ARR ARR,J Byrd
+PSYCH,328,[M] Self Control,01,09771,3,ARRGT,ARR ARR,L Daffin
+PSYCH,328,[M] Self Control,02,10154,3,ARRGT,ARR ARR,B Boyd
+PSYCH,333,Abnormal Psychology,01,09772,3,ARRGT,ARR ARR,A Bridley
+PSYCH,350,Social Psychology,01,09773,3,ARRGT,ARR ARR,C Lane
+PSYCH,363,Psychology of Aging,01,09985,3,ARRGT,ARR ARR,K Mcdougall
+PSYCH,372,[BSCI] Biological Basis of Behavior,01,09940,3,ARRGT,ARR ARR,R Craft
+PSYCH,384,Sensation and Perception,01,10153,3,ARRGT,ARR ARR,C Clark
+PSYCH,401,[CAPS] [M] Historical Development of Psychology,01,10385,3,ARRGT,ARR ARR,A Stubblefield
+PSYCH,464,Behavior Disorders of Children and Adolescents,01,10092,3,ARRGT,ARR ARR,K Mcraney
+PSYCH,470,Motivation,01,10151,3,ARRGT,ARR ARR,J Byrd
+PSYCH,497,Instructional Practicum,01,09775,V,ARRGT,ARR ARR,L Daffin
+PSYCH,497,Instructional Practicum,02,09776,V,ARRGT,ARR ARR,L Daffin
+PSYCH,497,Instructional Practicum,03,09986,V,ARRGT,ARR ARR,L Daffin
+PSYCH,497,Instructional Practicum,04,10506,V,ARRGT,ARR ARR,L Daffin
 PSYCH,498,Research Participation,01,09982,V,ARRGT,ARR ARR,L Daffin
 PSYCH,499,Special Problems,01,09987,V,ARRGT,ARR ARR,L Daffin
 PSYCH,499,Special Problems,02,10142,V,ARRGT,ARR ARR,L Daffin
@@ -565,12 +566,12 @@ SDC,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
 SHS,202,American Sign Language II,01,10157,4,ARRGT,ARR ARR,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,09750,3,ARRGT,ARR ARR,C Cooley
 SOC,245,Sociology of Sport,01,14397,3,ARRGT,ARR ARR,K Rakowski
-SOC,310,Development of Social Theory,01,16000,3,ARRGT,ARR ARR,""
+SOC,310,Development of Social Theory,01,16000,3,ARRGT,ARR ARR,D Hauslik
 SOC,321,Quantitative Techniques in Sociology I,01,14398,4,ARRGT,ARR ARR,J Schwartz
-SOC,332,[SSCI] Sustainability and Society,01,09716,3,ARRGT,ARR ARR,""
+SOC,332,[SSCI] Sustainability and Society,01,09716,3,ARRGT,ARR ARR,D Hauslik
 SOC,334,Medical Sociology,01,14579,3,ARRGT,ARR ARR,S Ridgeway
 SOC,340,[DIVR] Social Inequality,01,09718,3,ARRGT,ARR ARR,X Huang
-SOC,350,Social Psychology,01,09774,3,ARRGT,ARR ARR,""
+SOC,350,Social Psychology,01,09774,3,ARRGT,ARR ARR,C Lane
 SOC,351,[DIVR] The Family,01,09719,3,ARRGT,ARR ARR,S Stanley
 SOC,360,Social Deviance,01,09720,3,ARRGT,ARR ARR,J Kremer
 SOC,361,[DIVR] Criminology,01,09721,3,ARRGT,ARR ARR,J Burke
@@ -583,7 +584,7 @@ SOE,210,[PSCI] Earth's History and Evolution,01 Lab,09739,0,ARRGT,ARR ARR,J Boro
 SOE,230,[PSCI] Introductory Oceanography,01,10433,3,ARRGT,ARR ARR,S Katz
 SOE,300,Natural Resource Ecology,01,14858,3,ARRGT,ARR ARR,S Woodley
 SOE,404,[CAPS] [M] The Ecosystem,01,10543,3,ARRGT,ARR ARR,M Kramer
-SOE,540,Agroecology,01,"",3,W13.30-16,"",M Ostrom
+SOE,540,Agroecology,01,15943,3,W13.30-16,"",M Ostrom
 SOIL_SCI,302,[M] Introduction to Agroecology,01,09880,3,ARRGT,ARR ARR,K Murphy
 SOIL_SCI,360,World Agricultural Systems,01,09885,3,ARRGT,ARR ARR,P Jacoby
 SOIL_SCI,374,Introduction to Remote Sensing,01,09950,3,ARRGT,ARR ARR,L Brueggeman
@@ -615,7 +616,7 @@ STAT,212,[QUAN] Introduction to Statistical Methods,01,09969,4,ARRGT,ARR ARR,M L
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,09974,0,ARRGT,ARR ARR,M Lesperance
 STAT,360,Probability and Statistics,01,"",3,"M,W11.45-13","",""
 STAT,360,Probability and Statistics,02,10408,3,ARRGT,ARR ARR,H Li
-STAT,380,[M] Decision Making and Statistics,01,10250,3,ARRGT,ARR ARR,L New
+STAT,380,[M] Decision Making and Statistics,01,"",3,ARRGT,ARR ARR,L New
 STAT,412,Statistical Methods in Research I,01,10580,3,ARRGT,ARR ARR,""
 STAT,437,High Dimensional Data Learning and Visualization,01,10523,3,ARRGT,ARR ARR,X Chen
 STAT,512,Analysis of Variance of Designed Experiments,01,09798,3,ARRGT,ARR ARR,""

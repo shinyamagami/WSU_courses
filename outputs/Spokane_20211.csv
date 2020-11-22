@@ -1,6 +1,6 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Instructor
 BIOLOGY,301,General Genetics,01,"",4,ARRGT,ARR ARR,N Mccabe
-ED_AD,503,Values and Ethics for Educational Leaders,01,"",3,W17.45-20.30,AMS SPK,J Walls
+ED_AD,503,Values and Ethics for Educational Leaders,01,"",3,TU17.45-20.30,AMS ARR,J Walls
 ED_AD,521,Topics in Education,01,"",V,ARRGT,ARR ARR,G Hill
 ED_AD,521,Topics in Education,02,"",V,ARRGT,ARR ARR,G Hill
 ED_AD,522,Topics in Education,01,"",V,ARRGT,ARR ARR,""
@@ -13,13 +13,14 @@ ED_AD,590,Internship,03,"",V,ARRGT,ARR ARR,R Mcbride
 ED_AD,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,G Hill
 ED_AD,600,Special Projects or Independent Study,02,"",V,ARRGT,ARR ARR,G Hill
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,"",V,ARRGT,ARR ARR,(multiple)
-ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,13451,V,ARRGT,ARR ARR,K Huggins
+ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,13451,V,ARRGT,ARR ARR,(multiple)
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,13478,1,W16.30-17.30,ARR ARR,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,13479,V,ARRGT,ARR ARR,(multiple)
 ED_PSYCH,505,Research Methods I,01,13440,3,ARRGT,ARR ARR,K Carbonneau
 ED_PSYCH,508,Educational Statistics,01,13891,3,W16.10-19,"",""
+ED_PSYCH,521,Topics in Educational Psychology,01,16106,3,M17.45-20.30,WEB ARR,R Danielson
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,14884,3,TU17.45-20.30,AMS SPK,""
-ED_RES,563,Principles of Research,01,13437,3,M17.45-20.30,AMS SPK,R Danielson
+ED_RES,563,Principles of Research,01,13437,3,TU17.45-20.30,AMS SPK,R Danielson
 ED_RES,564,Qualitative Research,01,13531,3,TU17.45-20.30,AMS SPK,S Johnson
 ED_RES,564,Qualitative Research,02,"",3,M17.45-20.30,AMS SPK,S Finley
 FS,510,Functional Foods and Health,01,"",3,ARRGT,ARR ARR,T Bernhard
@@ -40,6 +41,7 @@ MED_LMH,523,Value-based Care,01,14006,1,ARRGT,ARR ARR,J Haney
 MED_LMH,533,Personal Leadership Development III,01,14715,1,ARRGT,ARR ARR,J Haney
 MIT,505,Classroom Management Seminar,01,13480,3,M16.10-19,GUC SPK,A Segadelli
 MIT,575,Internship and Seminar,01,13501,10,ARRGT,ARR ARR,A Segadelli
+MIT,575,Internship and Seminar,01 Lab,13506,0,ARRGT,ARR ARR,""
 NEP,200,[SSCI] Place and Health,01,13983,3,"TU,TH16.15-17.30",ARR ARR,O Amram
 NEP,402,Vitamin and Mineral Metabolism,01,13108,3,"M,W14.10-15.25",ARR ARR,S Kynast-Gales
 NEP,427,[M] Nutritional Assessment and Lifestyle Counseling,01,13110,3,TU8.10-10,ARR ARR,J Larsen
@@ -62,6 +64,7 @@ NEP,499,Special Problems,01,"",V,ARRGT,ARR ARR,F Carbonero
 NEP,499,Special Problems,02,"",V,ARRGT,ARR ARR,H Haverkamp
 NEP,499,Special Problems,03,"",V,ARRGT,ARR ARR,M Perrigue
 NEP,499,Special Problems,04,"",V,ARRGT,ARR ARR,L Miller
+NEP,499,Special Problems,05,"",V,ARRGT,ARR ARR,J Larsen
 NEP,501,Community Supervised Practice,01,13117,5,TU14.10-16,WEB ARR,A Davis
 NEP,501,Community Supervised Practice,"","","",F14.10-18,ARR ARR,""
 NEP,501,Community Supervised Practice,"","","",F13.10-14,ARR ARR,""
@@ -116,10 +119,10 @@ NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,02,13465,V,"M,W1
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",F10.10-12,WEB,""
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,03,13515,V,"M,W10.10-11",WEB,H Jansen
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",F10.10-12,AMS SPK,""
-NEUROSCI,564,Topics in Biomedical Experimentation,01,13516,V,"TU,TH9.10-10.25",WEB ARR,""
-NEUROSCI,564,Topics in Biomedical Experimentation,05,13518,V,"TU,TH10.35-11.50",WEB ARR,""
-NEUROSCI,564,Topics in Biomedical Experimentation,09,13517,V,"TU,TH13.30-14.45",WEB ARR,""
-NEUROSCI,564,Topics in Biomedical Experimentation,10,13520,V,"TU,TH15.30-16.45",WEB ARR,""
+NEUROSCI,564,Topics in Biomedical Experimentation,01,13516,V,"TU,TH13.30-14.45",WEB ARR,S Simasko
+NEUROSCI,564,Topics in Biomedical Experimentation,05,13518,V,"TU,TH10.35-11.50",WEB ARR,M Kahn
+NEUROSCI,564,Topics in Biomedical Experimentation,09,13517,V,"TU,TH9.10-10.25",WEB ARR,""
+NEUROSCI,564,Topics in Biomedical Experimentation,10,13520,V,"TU,TH15.30-16.45",WEB ARR,B Slinker
 NEUROSCI,590,Seminar,01,13519,1,F12.10-13.30,WEB,S Wayman
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,13464,V,ARRGT,ARR ARR,(multiple)
 NURS,308,Professional Development I: Evidence Based Practice,01,13309,3,M8.10-9.10,AMS ARR,J Dotson
@@ -265,6 +268,8 @@ NURS,427,Community Health Nursing Practice,09,13230,3,ARRGT,ARR ARR,J Hunter
 NURS,427,Community Health Nursing Practice,10,13231,3,ARRGT,ARR ARR,L Vickers
 NURS,427,Community Health Nursing Practice,11,13232,3,ARRGT,ARR ARR,A Fulton
 NURS,427,Community Health Nursing Practice,12,13358,3,ARRGT,ARR ARR,A Fulton
+NURS,430,[CAPS] Senior Practicum,01,13220,3,ARRGT,ARR ARR,""
+NURS,430,[CAPS] Senior Practicum,02,13221,3,ARRGT,ARR ARR,""
 NURS,440,[M] Population Health Theory,01,13338,3,ARRGT,ARR ARR,S Edwards
 NURS,440,[M] Population Health Theory,02,13339,3,ARRGT,ARR ARR,S Edwards
 NURS,455,Cultural Safety and Social Justice in Global Society,01,13414,3,ARRGT,ARR ARR,C Van Son
@@ -373,16 +378,16 @@ NURS,529,Analytical Seminar for Health Science,"","","",F8.10-11,ARR ARR,""
 NURS,529,Analytical Seminar for Health Science,"","","",F8.10-11,ARR ARR,""
 NURS,529,Analytical Seminar for Health Science,"","","",F8.10-11,ARR ARR,""
 NURS,529,Analytical Seminar for Health Science,"","","",F8.10-11,ARR ARR,""
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,01,13364,3,TU15.10-18,AMS ARR,C Chacon
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",TU15.10-18,AMS ARR,""
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",TU15.10-18,AMS ARR,""
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",TU15.10-18,AMS ARR,""
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",TU15.10-18,AMS ARR,""
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,02,13412,3,TU15.10-18,AMS ARR,C Chacon
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",TU15.10-18,AMS ARR,""
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",TU15.10-18,AMS ARR,""
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",TU15.10-18,AMS ARR,""
-NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",TU15.10-18,AMS ARR,""
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,01,13364,3,M10.10-13,AMS ARR,C Chacon
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",M10.10-13,AMS ARR,""
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",M10.10-13,AMS ARR,""
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",M10.10-13,AMS ARR,""
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",M10.10-13,AMS ARR,""
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,02,13412,3,M10.10-13,AMS ARR,C Chacon
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",M10.10-13,AMS ARR,""
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",M10.10-13,AMS ARR,""
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",M10.10-13,AMS ARR,""
+NURS,530,Theory of Psychopharmacology and Safe Prescribing Practices,"","","",M10.10-13,AMS ARR,""
 NURS,534,Research Seminar: Grant Development and Critique,01,13348,3,TH13.10-16,AMS ARR,R Fritz
 NURS,534,Research Seminar: Grant Development and Critique,"","","",TH13.10-16,AMS ARR,""
 NURS,534,Research Seminar: Grant Development and Critique,"","","",TH13.10-16,AMS ARR,""
@@ -520,7 +525,7 @@ NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,AMS ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,AMS ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,AMS ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,AMS ARR,""
-NURS,576,Organizational Systems and Leadership I,01 Lab,14096,0,TU12.10-15,ARR ARR,C Warburton
+NURS,576,Organizational Systems and Leadership I,01 Lab,14096,0,ARRGT,ARR ARR,C Warburton
 NURS,582,PMHNP Internship,01,"",3,TH15.10-17,AMS ARR,A Hamel
 NURS,582,PMHNP Internship,"","","",TH15.10-17,AMS ARR,""
 NURS,582,PMHNP Internship,"","","",TH15.10-17,AMS ARR,""
@@ -550,12 +555,38 @@ NURS,584,"Health Care Law, Policy, and Analysis","","","",TU15.10-18,AMS ARR,""
 NURS,584,"Health Care Law, Policy, and Analysis","","","",TU15.10-18,AMS ARR,""
 NURS,584,"Health Care Law, Policy, and Analysis","","","",TU15.10-18,AMS ARR,""
 NURS,584,"Health Care Law, Policy, and Analysis","","","",TU15.10-18,AMS ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,01,13324,3,TH9.10-12,AMS ARR,T Landis
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,AMS ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,AMS ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,AMS ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,AMS ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,AMS ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,02,13325,3,TH9.10-12,ARR ARR,T Landis
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,03,13399,3,TH9.10-12,ARR ARR,T Landis
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
+NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,ARR ARR,""
 NURS,597,Advanced Topics in Nursing,01,14097,V,ARRGT,ARR ARR,N Wood
 NURS,598,Advanced Topics in Nursing,04,13429,V,TH18.10-19,AMS ARR,L Kaplan
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
+NURS,599,Independent Study,01,"",V,ARRGT,ARR ARR,J Purath
+NURS,599,Independent Study,03,"",V,ARRGT,ARR ARR,A Mason
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,"",V,TU15.10-18,AMS ARR,(multiple)
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,AMS ARR,""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,AMS ARR,""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,AMS ARR,""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,AMS ARR,""
+NURS,800,"Doctoral Research, Dissertation, and/or Examination",01,13333,V,ARRGT,ARR ARR,(multiple)
 PHARDSCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 PHARDSCI,499,Special Problems,50,"",V,ARRGT,ARR ARR,""
 PHARDSCI,510,Basic and Clinical Pharmacogenomics,01,13075,2,TU10.10-12,WEB ARR,S Daoud
@@ -567,7 +598,7 @@ PHARDSCI,518,Pharmaceutics II,50,13074,2,TU10.10-12,WEB ARR,D Brand
 PHARDSCI,519,Pharmaceutics Laboratory,01,13068,1,TU13.10-15.30,WEB ARR,A Ahmed
 PHARDSCI,519,Pharmaceutics Laboratory,02,13069,1,TU15.50-18.10,WEB ARR,A Ahmed
 PHARDSCI,519,Pharmaceutics Laboratory,03,13070,1,TH9.10-11.30,WEB ARR,A Ahmed
-PHARDSCI,519,Pharmaceutics Laboratory,04,13071,1,F13.10-15.30,WEB ARR,A Ahmed
+PHARDSCI,519,Pharmaceutics Laboratory,04,13071,1,TH13.10-15.30,WEB ARR,A Ahmed
 PHARDSCI,519,Pharmaceutics Laboratory,50,13077,1,TU13.10-15.30,WEB ARR,D Brand
 PHARDSCI,542,Integrated Pharmacology IV,01,13066,4,"TU,TH10.10-12",WEB ARR,S Wang
 PHARDSCI,542,Integrated Pharmacology IV,50,13080,4,"TU,TH10.10-12",WEB ARR,R Crutchley
@@ -577,7 +608,7 @@ PHARDSCI,598,Honors Research,01,"",V,ARRGT,ARR ARR,""
 PHARDSCI,598,Honors Research,50,"",V,ARRGT,ARR ARR,""
 PHARDSCI,599,Special Projects,01,"",V,ARRGT,ARR ARR,(multiple)
 PHARDSCI,599,Special Projects,50,"",V,ARRGT,ARR ARR,(multiple)
-PHARMACY,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
+PHARMACY,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 PHARMACY,499,Special Problems,50,"",V,ARRGT,ARR ARR,""
 PHARMACY,501,Applied Patient Care I: Patient Assessment,01,12981,1,W14.10-15,WEB ARR,T Bertsch
 PHARMACY,501,Applied Patient Care I: Patient Assessment,"","","",TH8.10-9.40,WEB ARR,""
@@ -633,8 +664,8 @@ PHARMACY,563,Introductory Pharmacy Practice Experience V,01,12994,2,W13.10-15,WE
 PHARMACY,563,Introductory Pharmacy Practice Experience V,50,13033,2,W13.10-15,WEB ARR,N Giruzzi
 PHARMACY,564,Pharmacy Law and Regulatory Affairs,01,13002,3,TU14.10-17,WEB ARR,J Akers
 PHARMACY,564,Pharmacy Law and Regulatory Affairs,50,13034,3,TU14.10-17,WEB ARR,J Luu
-PHARMACY,572,Physical Activity Prescription in the Pharmacy,01,16023,2,ARRGT,ARR ARR,S Marsh
-PHARMACY,572,Physical Activity Prescription in the Pharmacy,50,16030,2,ARRGT,ARR ARR,S Marsh
+PHARMACY,572,Physical Activity Prescription in the Pharmacy,01,"",2,ARRGT,ARR ARR,S Marsh
+PHARMACY,572,Physical Activity Prescription in the Pharmacy,50,"",2,ARRGT,ARR ARR,S Marsh
 PHARMACY,580,Practical Politics and Pharmacy,01,13001,1,W15.10-16,WEB ARR,J Akers
 PHARMACY,580,Practical Politics and Pharmacy,50,13020,1,W15.10-16,WEB ARR,J Akers
 PHARMACY,581,Acute Care Advanced Practice Experience,01,13007,5,ARRGT,ARR ARR,J White
@@ -653,6 +684,7 @@ PHARMACY,587,Elective III Advanced Practice Experience,01,12998,5,ARRGT,ARR ARR,
 PHARMACY,587,Elective III Advanced Practice Experience,50,13054,5,ARRGT,ARR ARR,J White
 PHARMACY,589,Special Topics,01,15945,2,W15.10-17,WEB ARR,S Mckennon
 PHARMACY,589,Special Topics,02,15946,2,W15.10-17,WEB ARR,R Crutchley
+PHARMACY,589,Special Topics,03,16155,1,W15.10-17,WEB ARR,N Rodin
 PHARMACY,589,Special Topics,50,15947,2,W15.10-17,WEB ARR,R Crutchley
 PHARMACY,591,Advanced Elective in Critical Care,01,13019,2,TU9.10-11,WEB ARR,A Cowgill
 PHARMACY,591,Advanced Elective in Critical Care,50,13040,2,TU9.10-11,WEB ARR,A Cowgill
@@ -661,22 +693,26 @@ PHARMACY,593,Residency Preparation,50,13047,2,TH13.10-15,WEB ARR,R Crutchley
 PHARMACY,596,Entrepreneurship in Pharmacy,01,12999,1,W13.10-15,WEB ARR,N Rodin
 PHARMACY,596,Entrepreneurship in Pharmacy,50,13028,1,W13.10-15,WEB ARR,D Brand
 PHARMACY,597,Advanced Diabetes Management,01,14090,2,TH15.10-17,WEB ARR,J Neumiller
-PHARMACY,599,Special Projects,01,"",V,ARRGT,ARR ARR,L Maclean
+PHARMACY,597,Advanced Diabetes Management,50,16094,2,TH15.10-17,ARR ARR,J Neumiller
+PHARMACY,599,Special Projects,01,"",V,ARRGT,ARR ARR,(multiple)
 PHARMACY,599,Special Projects,50,13030,V,ARRGT,ARR ARR,D Brand
-PHARMSCI,512,Topics in Pharmacology,01,"",V,TU16.10-17,AMS SPK,B Prasad
 PHARMSCI,571,Computer-Aided Drug Design,01,"",3,"W,F9.10-10.25",ARR ARR,S Natesan
+PHARMSCI,571,Computer-Aided Drug Design,02 Lab,"",0,ARRGT,ARR ARR,""
 PHARMSCI,572,Fundamentals of Oncology,01,13090,3,"TU,TH13.10-14.25",AMS SPK,B Wu
 PHARMSCI,576,Biophysical Methods,01,13089,3,"TU,TH10.10-11.25",AMS SPK,T Denton
 PHARMSCI,576,Biophysical Methods,50,13094,3,"TU,TH10.10-11.25",AMS ARR,T Denton
 PHARMSCI,579,Principles of Pharmacology,01,13093,3,"M,W13.10-14.25",AMS SPK,""
 PHARMSCI,579,Principles of Pharmacology,50,16018,3,"M,W13.10-14.10",AMS ARR,""
-PHARMSCI,597,College of Pharmacy Graduate Seminar,01,13086,1,F12.10-13,AMS SPK,A Lazarus
+PHARMSCI,597,College of Pharmacy Graduate Seminar,01,13086,1,F12.10-13,AMS SPK,""
 PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,13087,V,ARRGT,ARR ARR,(multiple)
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,13538,V,ARRGT,ARR ARR,""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,13539,V,ARRGT,ARR ARR,""
 PSYCH,516,Applied Structural Equation Modeling with Current Software,01,13555,3,"TU,TH14.55-16.10",WEB ARR,G Burns
+SHS,202,American Sign Language II,01,"",4,"TU,TH12.10-13",WEB ARR,M Ratsch
 SHS,376,Speech Sound Disorders,01,13139,3,"TH,F13.35-14.50",WEB ARR,D Algeo
-SHS,378,Speech and Hearing Sciences,01,13141,3,"TU,TH10.10-11.35",WEB ARR,H Hashemi Hosseinabad
+SHS,376,Speech Sound Disorders,02,13140,3,"TH,F13.35-14.50",WEB ARR,D Algeo
+SHS,378,Speech and Hearing Sciences,01,13141,3,"TU,TH10.10-11.25",WEB ARR,H Hashemi Hosseinabad
+SHS,378,Speech and Hearing Sciences,02,16184,3,"TU,TH10.10-11.35",WEB ARR,H Hashemi Hosseinabad
 SHS,450,Special Topics in Speech and Hearing Sciences,01,13171,V,"M,W2.35-3.50",WEB ARR,L Williams
 SHS,451,Neurogenic Communication Disorders,01,13142,3,"W,F13.10-14.25",WEB ARR,E Clark
 SHS,461,Clinical Methods,01,13144,2,F10.10-11.50,WEB ARR,C Dechert
@@ -684,7 +720,8 @@ SHS,472,Audiometry,01,13145,3,"TU,TH12.20-13.25",WEB ARR,B Peregoy
 SHS,473,[M] Language and Literacy,01,13146,3,"W,TH10.30-11.45",WEB ARR,D Algeo
 SHS,478,Language Impairment,01,13147,3,"M,W13.10-14.25",WEB ARR,G Lynch
 SHS,480,[CAPS] Senior Seminar,01,13148,3,"TU,TH13.10-14.25",WEB ARR,A Meredith
-SHS,490,Special Topics in Speech and Hearing Sciences,01,"",V,"TU,TH15.10-16.25",WEB ARR,""
+SHS,490,Special Topics in Speech and Hearing Sciences,01,13170,V,"TU,TH15.10-16.25",WEB ARR,D Semb
+SHS,499,Special Problems,01,"",V,ARRGT,ARR ARR,G Chermak
 SHS,501,Research Methods,01,14765,3,"M,W16.10-17.25",WEB ARR,M Vandam
 SHS,501,Research Methods,02,13177,3,"TU,TH16.10-17.25",WEB ARR,M Vandam
 SHS,542,Early Language Development,01,13154,2,TU14.10-15.10,WEB ARR,L Thompson
@@ -702,11 +739,14 @@ SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,13169
 SPEC_ED,301,Education of Exceptional Children,01,13435,3,ARRGT,ARR ARR,L Bruno
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,"",3,ARRGT,ARR ARR,A Albagshi
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,13527,3,ARRGT,ARR ARR,M Poppen
+SPEC_ED,522,Topics in Special Education,01,13509,3,W17.10-20,ARR ARR,D Mcmahon
 SPEC_ED,540,Methods in Intensive Educational Supports,01,13436,3,ARRGT,ARR ARR,A Albagshi
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,"",3,ARRGT,ARR ARR,M Dunn
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,13466,1,W16.10-17,AMS SPK,D Mcmahon
 TCH_LRN,415,Student Teaching,01,13438,V,ARRGT,ARR ARR,A Segadelli
 TCH_LRN,521,Topics in Education,02,"",V,ARRGT,ARR ARR,A Segadelli
+TCH_LRN,549,Communicating in a Multilingual Society,01,13472,3,W17.45-20.30,ARR ARR,G Ernst-Slavit
 TCH_LRN,561,Elementary School Mathematics,01,14973,3,TH17.45-20.30,AMS ARR,M Kelton
 TCH_LRN,571,Research in STEM Education,01,14974,3,W17.45-20.30,WEB ARR,T Holmlund
+TCH_LRN,582,Scholarly Writing,01,13500,3,TH11.10-14.10,ARR ARR,D Day-Wiff
 TCH_LRN,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,A Segadelli
