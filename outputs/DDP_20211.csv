@@ -111,11 +111,13 @@ BIOLOGY,251,Introductory Human Physiology,01,09729,4,ARRGT,ARR ARR,N Ankrah
 BIOLOGY,251,Introductory Human Physiology,01 Lab,09962,0,ARRGT,ARR ARR,N Ankrah
 BIOLOGY,301,General Genetics,01,09755,4,ARRGT,ARR ARR,N Mccabe
 BIOLOGY,333,[BSCI] Human Nutrition and Health,01,10519,3,ARRGT,ARR ARR,K Beerman
+BIOLOGY,372,[M] General Ecology,01,16216,4,ARRGT,ARR ARR,H Mcisaac
+BIOLOGY,372,[M] General Ecology,01 Lab,16218,0,ARRGT,ARR ARR,H Mcisaac
 BIOLOGY,393,[M] Professional Communications in Biology,01,09838,2,ARRGT,ARR ARR,L Cook
 BIOLOGY,476,Epigenetics and Systems Biology,01,10115,3,ARRGT,ARR ARR,M Skinner
 BIOLOGY,576,Epigenetics and Systems Biology,01,10116,3,ARRGT,ARR ARR,M Skinner
 CAS,400,End-of-Program Evaluation Portfolio,01,"",1,ARRGT,ARR ARR,J Bledsoe
-CAS,497,Internship,01,"",V,ARRGT,ARR ARR,S Davis
+CAS,497,Internship,01,"",V,ARRGT,ARR ARR,""
 CE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
 CE,564,Numerical Methods,01,15285,3,ARRGT,ARR ARR,N Engdahl
 CES,209,[HUM] Hip Hop Around the Globe,01,14766,3,ARRGT,ARR ARR,D Leonard
@@ -181,6 +183,7 @@ CRM_J,385,Institutional Corrections,01,09712,3,ARRGT,ARR ARR,M Stohr
 CRM_J,390,Criminal Justice Management,01,11453,3,ARRGT,ARR ARR,M Stohr
 CRM_J,403,[CAPS] Violence Toward Women,01,09713,3,ARRGT,ARR ARR,A Kraft-Duley
 CRM_J,405,[M] Comparative Criminal Justice Systems,01,"",3,ARRGT,ARR ARR,C Dalton
+CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,S Keopanapay
 CROP_SCI,102,Introduction to Cultivated Plants,01,09891,3,ARRGT,ARR ARR,R Koenig
 CROP_SCI,360,World Agricultural Systems,01,09884,3,ARRGT,ARR ARR,P Jacoby
 DATA,115,Introduction to Data Analytics,01,10097,3,ARRGT,ARR ARR,S Chakraborty
@@ -190,20 +193,25 @@ DTC,201,[ARTS] Tools and Methods for Digital Technology,02,15175,3,ARRGT,ARR ARR
 DTC,354,Digital Storytelling,01,15102,3,ARRGT,ARR ARR,L Westerfield
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
-E_E,234,Microprocessor Systems,01,10104,4,"M,W,F15.10-16","",C Cole
-E_E,234,Microprocessor Systems,01 Lab,10105,0,TU7.45-10.35,"",C Cole
-E_E,341,Signals and Systems,01,10106,3,"TU,TH12.30-13.45","",J Guerrero Sedeno
-E_E,352,[M] Electrical Engineering Laboratory I,01,15046,3,"M,W8.10-9","",M Kejariwal
-E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,15047,0,"M,W9.10-12","",M Kejariwal
-E_E,361,Electrical Power Systems,01,10107,3,"M,W,F14.10-15","",J Guerrero Sedeno
-E_E,416,[CAPS] [M] Electrical Engineering Design,01,10251,3,"TU,TH11.10-12","",M Kejariwal
-E_E,416,[CAPS] [M] Electrical Engineering Design,01 Lab,10252,0,ARRGT,ARR ARR,M Kejariwal
+E_E,234,Microprocessor Systems,01,"",4,"M,W,F15.10-16","",C Cole
+E_E,234,Microprocessor Systems,01 Lab,"",0,TU7.45-10.35,"",C Cole
+E_E,341,Signals and Systems,01,"",3,"TU,TH12.30-13.45","",J Guerrero Sedeno
+E_E,352,[M] Electrical Engineering Laboratory I,01,"",3,"M,W8.10-9","",M Kejariwal
+E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,"",0,"M,W9.10-12","",M Kejariwal
+E_E,361,Electrical Power Systems,01,"",3,"M,W,F14.10-15","",J Guerrero Sedeno
+E_E,362,Power System Laboratory I,01,"",3,M13.10-14,"",J Guerrero Sedeno
+E_E,362,Power System Laboratory I,01 Lab,"",0,"TU,TH15.10-18.30","",J Guerrero Sedeno
+E_E,416,[CAPS] [M] Electrical Engineering Design,01,"",3,"TU,TH11.10-12","",M Kejariwal
+E_E,416,[CAPS] [M] Electrical Engineering Design,01 Lab,"",0,ARRGT,ARR ARR,M Kejariwal
+E_E,451,Digital Communication Systems,01,"",3,"M,W,F10.10-11","",B Belzer
 E_E,483,Topics in Electrical and Computer Engineering,01,"",3,ARRGT,ARR ARR,R Olsen
-E_E,483,Topics in Electrical and Computer Engineering,03,16041,3,"TU,TH13.30-14.45","",M Kejariwal
+E_E,483,Topics in Electrical and Computer Engineering,03,"",3,"TU,TH13.30-14.45","",M Kejariwal
 E_E,485,Electric Energy Distribution Systems,02,10576,3,ARRGT,ARR ARR,A Dubey
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
+E_E,499,Special Problems,01,"",3,ARRGT,ARR ARR,M Kejariwal
 E_E,521,Analysis of Power Systems,01,09926,3,ARRGT,ARR ARR,A Bose
 E_E,522,High Voltage Engineering,01,14802,3,ARRGT,ARR ARR,P Pedrow
+E_E,701,Master's Independent Capstone Project and /or Examination,01,10134,V,ARRGT,ARR ARR,(multiple)
 E_M,401,Management of Organizations,01,"",3,TH17.15-19.45,"",K Bachman
 E_M,426,Constraints Management,01,"",3,W17.15-19.45,"",L Scheinkopf
 E_M,480,Quality Control and Reliability,01,"",3,W18.15-20.45,"",D Paulus
@@ -213,12 +221,11 @@ E_M,505,Finance for Technical Systems,01,09856,3,M17.15-19.45,"",A Squires
 E_M,526,Constraints Management,01,09853,3,W17.15-19.45,"",L Scheinkopf
 E_M,540,Operations Research and Analytics for Managers,01,09857,3,TU18.15-20.45,"",L Magpili
 E_M,565,Introduction to Systems Management,01,10508,3,M17.15-19.45,"",W Gray
-E_M,567,System Supportability and Logistics Management,01,14668,3,TH17.15-19.45,"",W Gray
+E_M,567,System Supportability and Logistics Management,01,14668,3,W17.15-19.45,"",W Gray
 E_M,568,Risk Assessment and Management,01,10367,3,TH18.15-20.45,"",L Magpili
 E_M,580,Quality Control and Reliability,01,14659,3,W18.15-20.45,"",D Paulus
 E_M,590,Leading Design and Innovation,01,10347,3,TU18.15-20.45,"",D Paulus
 E_M,591,Strategic Management of Technology and Innovations in Engineering,01,09946,3,TU17.15-19.45,"",J Pricco
-E_M,596,Advanced Topics in Engineering Management II,01,10509,3,W17.15-19.45,"",K Bachman
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10163,V,ARRGT,ARR ARR,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,09742,3,ARRGT,ARR ARR,A Salimgarieva
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,09743,3,ARRGT,ARR ARR,G Shakil
@@ -236,7 +243,7 @@ ECONS,490,[CAPS] [M] Economics Capstone,01,10426,3,ARRGT,ARR ARR,C Dollin
 ECONS,497,Economics Internship,01,"",V,ARRGT,ARR ARR,E Jessup
 ECONS,499,Special Problems,01,"",V,ARRGT,ARR ARR,M Gibson
 ED_PSYCH,505,Research Methods I,01,09839,3,ARRGT,ARR ARR,K Carbonneau
-ENGLISH,101,[WRTG] College Composition,01,09778,3,ARRGT,ARR ARR,R Goodrich
+ENGLISH,101,[WRTG] College Composition,01,09778,3,ARRGT,ARR ARR,E Coleman
 ENGLISH,101,[WRTG] College Composition,02,10378,3,ARRGT,ARR ARR,R Goodrich
 ENGLISH,102,Writing Tutorial,01,10383,1,ARRGT,ARR ARR,R Holland
 ENGLISH,201,[WRTG] Writing and Research,01,09751,3,ARRGT,ARR ARR,J Mccarthy
@@ -260,7 +267,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,09,09850,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,09928,3,ARRGT,ARR ARR,J Hughes
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,10143,3,ARRGT,ARR ARR,K Ericsson
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,10280,3,ARRGT,ARR ARR,K Ericsson
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,10394,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,10394,3,ARRGT,ARR ARR,W Merck
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,14,10400,3,ARRGT,ARR ARR,K Ericsson
 ENGLISH,405,Advanced Professional Writing and Editing,01,"",3,ARRGT,ARR ARR,J Staggers
 ENGLISH,419,The Twentieth Century Novel,01,09788,3,ARRGT,ARR ARR,C Harty
@@ -327,7 +334,7 @@ H_D,406,Work and Family,01,09823,3,ARRGT,ARR ARR,S Grant
 H_D,410,[M] Public Policy Issues in Human Development,01,09824,3,ARRGT,ARR ARR,M Garcia
 H_D,446,Practicum in Early Childhood Programs,01,"",6,ARRGT,ARR ARR,L Krupke
 H_D,482,Child Assessment and Evaluation,01,09827,3,ARRGT,ARR ARR,B Boyd
-H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,E Weybright
+H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,(multiple)
 H_D,487,Special Topics in Human Development,01,"",V,ARRGT,ARR ARR,J Hewa
 H_D,497,Professional Preparation Seminar,01,"",3,ARRGT,ARR ARR,M Bumpus
 H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,M Bumpus
@@ -401,7 +408,7 @@ I_BUS,582,International Marketing Management,08,14485,3,ARRGT,ARR ARR,J Joireman
 I_BUS,582,International Marketing Management,09,14486,3,ARRGT,ARR ARR,""
 I_BUS,582,International Marketing Management,10,14487,3,ARRGT,ARR ARR,""
 ISE,300,INTRN'L EXCH,01,"",V,ARRGT,ARR ARR,""
-MATH,103,Algebra Methods and Introduction to Functions,01,09745,3,ARRGT,ARR ARR,""
+MATH,103,Algebra Methods and Introduction to Functions,01,09745,3,ARRGT,ARR ARR,C Pacioni
 MATH,106,College Algebra,01,10521,3,ARRGT,ARR ARR,R Learn
 MATH,108,Trigonometry,01,14746,2,ARRGT,ARR ARR,S Selmi
 MATH,171,[QUAN] Calculus I,01,10528,4,ARRGT,ARR ARR,J Sung
@@ -425,19 +432,19 @@ MBIOS,583,Professional Skills Seminar,01,09761,1,ARRGT,ARR ARR,B Hubbard
 MBIOS,584,Medical Genetics,01,15171,3,ARRGT,ARR ARR,I Wallace
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,10410,V,ARRGT,ARR ARR,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,09762,V,ARRGT,ARR ARR,N Mccabe
-ME,306,Thermal and Fluids Laboratory,01,15274,2,W10.10-11,"",B Asgharian Dastenaie
-ME,306,Thermal and Fluids Laboratory,01 Lab,15275,0,"TU,TH13.10-16","",B Asgharian Dastenaie
-ME,348,Dynamics Systems,01,10402,3,"M,W,F11-11.50","",S Chien
-ME,401,Mechatronics,01,09909,3,"M,W9.10-10","",M Pitts
-ME,401,Mechatronics,01 Lab,09910,0,TU9.10-12.10,"",M Pitts
-ME,401,Mechatronics,02 Lab,09911,0,TH9.10-12,"",M Pitts
-ME,406,[M] Experimental Design,01,09913,3,M10.10-11,"",B Asgharian Dastenaie
-ME,406,[M] Experimental Design,01 Lab,09915,0,"M,W11-14","",B Asgharian Dastenaie
-ME,416,[CAPS] Mechanical Systems Design,01,09916,3,F9.10-10,"",M Pitts
-ME,416,[CAPS] Mechanical Systems Design,01 Lab,09917,0,"W,F18-21","",M Pitts
-ME,439,Applied Aerodynamics,01,09918,3,"M,W,F15.10-16","",J Liu
-ME,462,Introduction to Nuclear Engineering II,01,14971,3,"TU,TH16.15-17.30","",N Carstens
-ME,466,Fundamentals of Engineering Examination Review,01,14970,1,M10.10-11,"",M Pitts
+ME,306,Thermal and Fluids Laboratory,01,"",2,W10.10-11,"",B Asgharian Dastenaie
+ME,306,Thermal and Fluids Laboratory,01 Lab,"",0,"TU,TH13.10-16","",B Asgharian Dastenaie
+ME,348,Dynamics Systems,01,"",3,"M,W,F11-11.50","",S Chien
+ME,401,Mechatronics,01,"",3,"M,W9.10-10","",M Pitts
+ME,401,Mechatronics,01 Lab,"",0,TU9.10-12.10,"",M Pitts
+ME,401,Mechatronics,02 Lab,"",0,TH9.10-12,"",M Pitts
+ME,406,[M] Experimental Design,01,"",3,M10.10-11,"",B Asgharian Dastenaie
+ME,406,[M] Experimental Design,01 Lab,"",0,"M,W11-14","",B Asgharian Dastenaie
+ME,416,[CAPS] Mechanical Systems Design,01,"",3,F9.10-10,"",M Pitts
+ME,416,[CAPS] Mechanical Systems Design,01 Lab,"",0,"W,F18-21","",M Pitts
+ME,439,Applied Aerodynamics,01,"",3,"M,W,F15.10-16","",J Liu
+ME,462,Introduction to Nuclear Engineering II,01,"",3,"TU,TH16.15-17.30","",N Carstens
+ME,466,Fundamentals of Engineering Examination Review,01,"",1,M10.10-11,"",M Pitts
 ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
 MGMT,301,Principles of Management and Organization,01,09897,3,ARRGT,ARR ARR,L Sheppard
 MGMT,301,Principles of Management and Organization,02,10131,3,ARRGT,ARR ARR,L Sheppard
@@ -504,12 +511,13 @@ MKTG,360,Marketing,04,"",3,ARRGT,ARR ARR,P Ossola
 MKTG,360,Marketing,05,"",3,ARRGT,ARR ARR,O Larina
 MKTG,360,Marketing,06,14753,3,ARRGT,ARR ARR,D Muehling
 MKTG,368,Marketing Research,01,10222,3,ARRGT,ARR ARR,U Umesh
-MSE,404,Engineering Composites,01,10237,3,"M,W,F14.10-15","",W Zhong
+MSE,404,Engineering Composites,01,"",3,"M,W,F14.10-15","",W Zhong
 MSE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
 MUS,160,[ARTS] Survey of Music Literature,01,09841,3,ARRGT,ARR ARR,B Edwards
 MUS,262,[ARTS] Rock Music: History and Social Analysis,01,09842,3,ARRGT,ARR ARR,A Miller
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,09956,3,ARRGT,ARR ARR,A Miller
 MUS,265,[HUM] Native Music of North America,01,09957,3,ARRGT,ARR ARR,M Parkhurst
+MUS,266,[ARTS] Film Music,01,10551,3,ARRGT,ARR ARR,C Dickey
 MUS,362,[DIVR] History of Jazz,01,10517,3,ARRGT,ARR ARR,A Miller
 MUS,362,[DIVR] History of Jazz,02,15287,3,ARRGT,ARR ARR,A Agulay
 MUS,363,[DIVR] Women in Music,01,10095,3,ARRGT,ARR ARR,M Parkhurst
@@ -614,10 +622,10 @@ SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,(multipl
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,14865,V,ARRGT,ARR ARR,(multiple)
 STAT,212,[QUAN] Introduction to Statistical Methods,01,09969,4,ARRGT,ARR ARR,M Lesperance
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,09974,0,ARRGT,ARR ARR,M Lesperance
-STAT,360,Probability and Statistics,01,"",3,"M,W11.45-13","",""
-STAT,360,Probability and Statistics,02,10408,3,ARRGT,ARR ARR,H Li
+STAT,360,Probability and Statistics,01,"",3,"TU,TH10.35-11.50","",H Li
+STAT,360,Probability and Statistics,02,10408,3,ARRGT,ARR ARR,""
 STAT,380,[M] Decision Making and Statistics,01,"",3,ARRGT,ARR ARR,L New
-STAT,412,Statistical Methods in Research I,01,10580,3,ARRGT,ARR ARR,""
+STAT,412,Statistical Methods in Research I,01,10580,3,ARRGT,ARR ARR,H Johnson
 STAT,437,High Dimensional Data Learning and Visualization,01,10523,3,ARRGT,ARR ARR,X Chen
 STAT,512,Analysis of Variance of Designed Experiments,01,09798,3,ARRGT,ARR ARR,""
 STAT,512,Analysis of Variance of Designed Experiments,01 Lab,09799,0,ARRGT,ARR ARR,""

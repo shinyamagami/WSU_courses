@@ -1,8 +1,11 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Instructor
+B_A,100,Introduction to Business,01,13975,3,ARRGT,ARR ARR,C Cooney
 BIOLOGY,301,General Genetics,01,"",4,ARRGT,ARR ARR,N Mccabe
+CRM_J,555,Seminar in Criminological Theory,01,12976,3,TU14.10-17,WEB ARR,A Pedneault
 ED_AD,503,Values and Ethics for Educational Leaders,01,"",3,TU17.45-20.30,AMS ARR,J Walls
 ED_AD,521,Topics in Education,01,"",V,ARRGT,ARR ARR,G Hill
-ED_AD,521,Topics in Education,02,"",V,ARRGT,ARR ARR,G Hill
+ED_AD,521,Topics in Education,02,"",3,ARRGT,ARR ARR,G Hill
+ED_AD,521,Topics in Education,04,"",3,W17.45-20.30,WEB ARR,K Huggins
 ED_AD,522,Topics in Education,01,"",V,ARRGT,ARR ARR,""
 ED_AD,522,Topics in Education,02,14002,V,TH17.45-20.30,WEB ARR,K Rodela
 ED_AD,583,Community and Communications,01,14821,3,W17.45-20.30,AMS SPK,J Walls
@@ -19,6 +22,7 @@ ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,13479,V,AR
 ED_PSYCH,505,Research Methods I,01,13440,3,ARRGT,ARR ARR,K Carbonneau
 ED_PSYCH,508,Educational Statistics,01,13891,3,W16.10-19,"",""
 ED_PSYCH,521,Topics in Educational Psychology,01,16106,3,M17.45-20.30,WEB ARR,R Danielson
+ED_PSYCH,575,Multilevel Modeling,01,16213,3,TH13.10-16,WEB ARR,B French
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,14884,3,TU17.45-20.30,AMS SPK,""
 ED_RES,563,Principles of Research,01,13437,3,TU17.45-20.30,AMS SPK,R Danielson
 ED_RES,564,Qualitative Research,01,13531,3,TU17.45-20.30,AMS SPK,S Johnson
@@ -31,6 +35,10 @@ H_D,580,"Families, Community and Public Policy",01,13960,3,TU15.10-18,WEB ARR,P 
 H_D,600,Special Projects or Independent Study,01,13495,V,ARRGT,ARR ARR,""
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,""
 MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,14005,10,ARRGT,ARR ARR,J Bowman
+MED_ETH,530,The Practice of Clinical Ethics,01,16062,3,ARRGT,ARR ARR,T May
+MED_ETH,530,The Practice of Clinical Ethics,02,"",3,ARRGT,ARR ARR,T May
+MED_ETH,540,"Seminar in Clinical Ethics: Methods, Process, Skills & Traits",01,16082,3,ARRGT,ARR ARR,T May
+MED_ETH,540,"Seminar in Clinical Ethics: Methods, Process, Skills & Traits",02,"",3,ARRGT,ARR ARR,T May
 MED_FMS,503,Foundations of Medical Science III,01,13482,12,ARRGT,ARR ARR,K Beine
 MED_FMS,503,Foundations of Medical Science III,01 Lab,13483,0,ARRGT,ARR ARR,K Beine
 MED_FMS,513,Foundations of Medical Science VI,01,13432,11,ARRGT,ARR ARR,K Beine
@@ -60,12 +68,10 @@ NEP,482,Nutrition and Exercise Practicum II,01,13106,2,"M,W11.30-14.30",SHER 328
 NEP,482,Nutrition and Exercise Practicum II,02,14978,2,"M,W15.30-18.30",SHER 328,J Larsen
 NEP,490,Exercise and Nutrition Internship,01,13107,V,ARRGT,ARR ARR,J Larsen
 NEP,495,[CAPS] [M] Interprofessional Capstone in Nutrition and Exercise Physiology,01,13105,3,"M,W9.10-10.25",ARR ARR,L Miller
-NEP,499,Special Problems,01,"",V,ARRGT,ARR ARR,F Carbonero
-NEP,499,Special Problems,02,"",V,ARRGT,ARR ARR,H Haverkamp
 NEP,499,Special Problems,03,"",V,ARRGT,ARR ARR,M Perrigue
 NEP,499,Special Problems,04,"",V,ARRGT,ARR ARR,L Miller
 NEP,499,Special Problems,05,"",V,ARRGT,ARR ARR,J Larsen
-NEP,501,Community Supervised Practice,01,13117,5,TU14.10-16,WEB ARR,A Davis
+NEP,501,Community Supervised Practice,01,13117,5,"M,TU14.10-16",WEB ARR,A Davis
 NEP,501,Community Supervised Practice,"","","",F14.10-18,ARR ARR,""
 NEP,501,Community Supervised Practice,"","","",F13.10-14,ARR ARR,""
 NEP,501,Community Supervised Practice,"","","",F13.10-14,ARR ARR,""
@@ -129,7 +135,7 @@ NURS,308,Professional Development I: Evidence Based Practice,01,13309,3,M8.10-9.
 NURS,308,Professional Development I: Evidence Based Practice,02,13310,3,M8.10-10,AMS ARR,J Dotson
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,13311,3,TH13.10-14.10,AMS ARR,K Anders
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,02,13312,3,TH13.10-16,AMS ARR,K Anders
-NURS,311,Pathophysiology and Pharmacology in Nursing,01,13313,4,W8.10-10,AMS ARR,""
+NURS,311,Pathophysiology and Pharmacology in Nursing,01,13313,4,W8.10-10,AMS ARR,V Sattler
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,AMS ARR,""
 NURS,311,Pathophysiology and Pharmacology in Nursing,02,13314,4,W8.10-10,AMS ARR,V Sattler
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,AMS ARR,""
@@ -144,27 +150,27 @@ NURS,315,Nursing Practice: Health and Illness,08,13293,4,ARRGT,ARR ARR,D Beck
 NURS,315,Nursing Practice: Health and Illness,09,13294,4,ARRGT,ARR ARR,A Saba
 NURS,315,Nursing Practice: Health and Illness,10,13295,4,ARRGT,ARR ARR,S Hurst
 NURS,315,Nursing Practice: Health and Illness,11,13296,4,ARRGT,ARR ARR,C Tadesse
-NURS,315,Nursing Practice: Health and Illness,12,13297,4,ARRGT,ARR ARR,A Crawford
+NURS,315,Nursing Practice: Health and Illness,12,13297,4,ARRGT,ARR ARR,A Morse
 NURS,315,Nursing Practice: Health and Illness,13,13298,4,ARRGT,ARR ARR,W Staff
 NURS,315,Nursing Practice: Health and Illness,14,13299,4,ARRGT,ARR ARR,W Staff
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,13180,2,TU1.10-15,AMS ARR,K Olson
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,02,13181,2,TU13.10-15,AMS ARR,K Olson
 NURS,317,Health Assessment,01,13182,3,TU10.30-12.30,AMS ARR,A Jenkins
 NURS,317,Health Assessment,02,13183,3,TU10.30-12.30,AMS ARR,R Faubion
-NURS,317,Health Assessment,01 Lab,13184,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,02 Lab,13185,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,03 Lab,13186,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,04 Lab,13187,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,05 Lab,13188,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,06 Lab,13189,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,07 Lab,13190,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,08 Lab,13191,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,09 Lab,13192,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,10 Lab,13193,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,11 Lab,13194,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,12 Lab,13195,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,13 Lab,13196,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,14 Lab,13197,0,ARRGT,ARR ARR,""
+NURS,317,Health Assessment,01 Lab,13184,0,ARRGT,ARR ARR,M Wiedmer
+NURS,317,Health Assessment,02 Lab,13185,0,ARRGT,ARR ARR,T Barenz
+NURS,317,Health Assessment,03 Lab,13186,0,ARRGT,ARR ARR,S Matar-Curnow
+NURS,317,Health Assessment,04 Lab,13187,0,ARRGT,ARR ARR,R Carroll
+NURS,317,Health Assessment,05 Lab,13188,0,ARRGT,ARR ARR,C Tadesse
+NURS,317,Health Assessment,06 Lab,13189,0,ARRGT,ARR ARR,M Wiedmer
+NURS,317,Health Assessment,07 Lab,13190,0,ARRGT,ARR ARR,M Vulcan
+NURS,317,Health Assessment,08 Lab,13191,0,ARRGT,ARR ARR,M Weyrauch
+NURS,317,Health Assessment,09 Lab,13192,0,ARRGT,ARR ARR,S Matar-Curnow
+NURS,317,Health Assessment,10 Lab,13193,0,ARRGT,ARR ARR,M Vulcan
+NURS,317,Health Assessment,11 Lab,13194,0,ARRGT,ARR ARR,T Barenz
+NURS,317,Health Assessment,12 Lab,13195,0,ARRGT,ARR ARR,A Morse
+NURS,317,Health Assessment,13 Lab,13196,0,ARRGT,ARR ARR,A Fulton
+NURS,317,Health Assessment,14 Lab,13197,0,ARRGT,ARR ARR,R Faubion
 NURS,322,The Human Experience of Diversity and Health,01,13198,2,F8.10-10,AMS ARR,L Parisot
 NURS,322,The Human Experience of Diversity and Health,02,13199,2,F8.10-10,AMS ARR,L Parisot
 NURS,323,Nursing in the Genome Era,01,13206,2,M8.10-10,AMS ARR,L Jinishian
@@ -175,12 +181,12 @@ NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,02,13201,4,M
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","",F10.30-12.30,AMS ARR,""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,01,13234,5,ARRGT,ARR ARR,L Kifer
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,13235,5,ARRGT,ARR ARR,T Barenz
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,13236,5,ARRGT,ARR ARR,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,04,13237,5,ARRGT,ARR ARR,C Gribble
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,13236,5,ARRGT,ARR ARR,S Knapp
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,04,13237,5,ARRGT,ARR ARR,A Brekke
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,05,13238,5,ARRGT,ARR ARR,""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,06,13239,5,ARRGT,ARR ARR,J Carpenter
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,07,13240,5,ARRGT,ARR ARR,S Puryear
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,08,13241,5,ARRGT,ARR ARR,""
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,07,13240,5,ARRGT,ARR ARR,K Wallace
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,08,13241,5,ARRGT,ARR ARR,N Johnson
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,09,13242,5,ARRGT,ARR ARR,R Baumgarten
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,10,13243,5,ARRGT,ARR ARR,V Albert
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,11,13244,5,ARRGT,ARR ARR,S Franco
@@ -235,7 +241,7 @@ NURS,417,Nursing Care of Childbearing Families,09,13284,2,ARRGT,ARR ARR,C Brigha
 NURS,417,Nursing Care of Childbearing Families,10,13285,2,ARRGT,ARR ARR,P Orebaugh
 NURS,417,Nursing Care of Childbearing Families,11,13346,2,ARRGT,ARR ARR,C Logsdon Douglas
 NURS,417,Nursing Care of Childbearing Families,12,13426,2,ARRGT,ARR ARR,C Logsdon Douglas
-NURS,417,Nursing Care of Childbearing Families,13,14086,2,ARRGT,ARR ARR,A Crawford
+NURS,417,Nursing Care of Childbearing Families,13,14086,2,ARRGT,ARR ARR,A Morse
 NURS,424,Psychiatric/Mental Health Nursing Concepts,01,13216,3,M8.10-10,AMS ARR,K Tietjen
 NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",TH10.10-12,AMS ARR,""
 NURS,424,Psychiatric/Mental Health Nursing Concepts,02,13217,3,M8.10-10,AMS ARR,K Tietjen
@@ -268,8 +274,8 @@ NURS,427,Community Health Nursing Practice,09,13230,3,ARRGT,ARR ARR,J Hunter
 NURS,427,Community Health Nursing Practice,10,13231,3,ARRGT,ARR ARR,L Vickers
 NURS,427,Community Health Nursing Practice,11,13232,3,ARRGT,ARR ARR,A Fulton
 NURS,427,Community Health Nursing Practice,12,13358,3,ARRGT,ARR ARR,A Fulton
-NURS,430,[CAPS] Senior Practicum,01,13220,3,ARRGT,ARR ARR,""
-NURS,430,[CAPS] Senior Practicum,02,13221,3,ARRGT,ARR ARR,""
+NURS,430,[CAPS] Senior Practicum,01,13220,3,ARRGT,ARR ARR,S Rossetti
+NURS,430,[CAPS] Senior Practicum,02,13221,3,ARRGT,ARR ARR,R Faubion
 NURS,440,[M] Population Health Theory,01,13338,3,ARRGT,ARR ARR,S Edwards
 NURS,440,[M] Population Health Theory,02,13339,3,ARRGT,ARR ARR,S Edwards
 NURS,455,Cultural Safety and Social Justice in Global Society,01,13414,3,ARRGT,ARR ARR,C Van Son
@@ -686,6 +692,7 @@ PHARMACY,589,Special Topics,01,15945,2,W15.10-17,WEB ARR,S Mckennon
 PHARMACY,589,Special Topics,02,15946,2,W15.10-17,WEB ARR,R Crutchley
 PHARMACY,589,Special Topics,03,16155,1,W15.10-17,WEB ARR,N Rodin
 PHARMACY,589,Special Topics,50,15947,2,W15.10-17,WEB ARR,R Crutchley
+PHARMACY,589,Special Topics,51,15948,1,W15.10-17,WEB ARR,N Rodin
 PHARMACY,591,Advanced Elective in Critical Care,01,13019,2,TU9.10-11,WEB ARR,A Cowgill
 PHARMACY,591,Advanced Elective in Critical Care,50,13040,2,TU9.10-11,WEB ARR,A Cowgill
 PHARMACY,593,Residency Preparation,01,13046,2,TH13.10-15,WEB ARR,C Newsome
@@ -721,6 +728,7 @@ SHS,473,[M] Language and Literacy,01,13146,3,"W,TH10.30-11.45",WEB ARR,D Algeo
 SHS,478,Language Impairment,01,13147,3,"M,W13.10-14.25",WEB ARR,G Lynch
 SHS,480,[CAPS] Senior Seminar,01,13148,3,"TU,TH13.10-14.25",WEB ARR,A Meredith
 SHS,490,Special Topics in Speech and Hearing Sciences,01,13170,V,"TU,TH15.10-16.25",WEB ARR,D Semb
+SHS,490,Special Topics in Speech and Hearing Sciences,03,"",V,ARRGT,ARR ARR,""
 SHS,499,Special Problems,01,"",V,ARRGT,ARR ARR,G Chermak
 SHS,501,Research Methods,01,14765,3,"M,W16.10-17.25",WEB ARR,M Vandam
 SHS,501,Research Methods,02,13177,3,"TU,TH16.10-17.25",WEB ARR,M Vandam
@@ -735,6 +743,8 @@ SHS,563,Dysphagia,02,13159,3,"TU,TH8-9.35",WEB ARR,N Potter
 SHS,566,Off-Campus Practicum Public School Setting,01,13160,V,ARRGT,ARR ARR,K Rademaker Simpson
 SHS,568,Off-campus Practicum Clinical Setting,01,13161,V,ARRGT,ARR ARR,K Rademaker Simpson
 SHS,570,Advanced Internship in Speech-Language Pathology,01,13162,V,ARRGT,ARR ARR,K Rademaker Simpson
+SHS,575,Advanced Clinical Practice,01,13163,V,W11-12.30,WEB ARR,C Dechert
+SHS,575,Advanced Clinical Practice,02,16280,V,TH10.30-12,ARR ARR,C Dechert
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,13169,V,ARRGT,ARR ARR,(multiple)
 SPEC_ED,301,Education of Exceptional Children,01,13435,3,ARRGT,ARR ARR,L Bruno
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,"",3,ARRGT,ARR ARR,A Albagshi
@@ -743,6 +753,8 @@ SPEC_ED,522,Topics in Special Education,01,13509,3,W17.10-20,ARR ARR,D Mcmahon
 SPEC_ED,540,Methods in Intensive Educational Supports,01,13436,3,ARRGT,ARR ARR,A Albagshi
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,"",3,ARRGT,ARR ARR,M Dunn
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,13466,1,W16.10-17,AMS SPK,D Mcmahon
+STAT,212,[QUAN] Introduction to Statistical Methods,01,"",4,ARRGT,ARR ARR,""
+STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,"",0,ARRGT,ARR ARR,""
 TCH_LRN,415,Student Teaching,01,13438,V,ARRGT,ARR ARR,A Segadelli
 TCH_LRN,521,Topics in Education,02,"",V,ARRGT,ARR ARR,A Segadelli
 TCH_LRN,549,Communicating in a Multilingual Society,01,13472,3,W17.45-20.30,ARR ARR,G Ernst-Slavit
