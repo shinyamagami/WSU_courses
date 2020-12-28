@@ -3,13 +3,15 @@ ACCTG,230,Introduction to Financial Accounting,01,01243,3,"M,W,F11.10-12",WEB AR
 ACCTG,230,Introduction to Financial Accounting,02,01483,3,"M,W16.15-17.30",WEB ARR,K Jones
 ACCTG,231,Introduction to Managerial Accounting,01,01244,3,"TU,TH12.05-13.20",WEB ARR,K Jones
 ACCTG,335,Taxation of Business Entities and Individuals,01,01612,3,"TU,TH16.20-17.35",WEB ARR,K Jones
-AFS,511,Statistical Methods for Graduate Researchers,01,02437,4,"TU,TH12.05-13.20",WEB ARR,C Kogan
-AFS,511,Statistical Methods for Graduate Researchers,01 Lab,02440,0,W15.10-17,WEB ARR,C Kogan
-ANTH,230,Archaeological Methods and Interpretation,01,01496,3,"TU,TH14.55-16.10",WEB ARR,""
+AFS,511,Statistical Methods for Graduate Researchers,01,"",4,"TU,TH12.05-13.20",WEB ARR,C Kogan
+AFS,511,Statistical Methods for Graduate Researchers,01 Lab,"",0,W15.10-17,WEB ARR,C Kogan
+ANIM_SCI,545,Statistical Genomics,01,"",3,"M,F15.10-16",WEB ARR,Z Zhang
+ANIM_SCI,545,Statistical Genomics,01 Lab,16399,0,W15.10-17.40,WEB ARR,Z Zhang
+ANTH,230,Archaeological Methods and Interpretation,01,01496,3,"TU,TH14.55-16.10",WEB ARR,T Marceau
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,02329,4,ARRGT,ARR ARR,L Premo
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,02330,0,ARRGT,ARR ARR,L Premo
 ANTH,316,[DIVR] Gender in Cross Cultural Perspective,02,02075,3,"TU,TH10.35-11.50",WEB ARR,M Mansperger
-ANTH,316,[DIVR] Gender in Cross Cultural Perspective,03,16024,3,"M,W,F10.10-11",WEB ARR,H Macintyre
+ANTH,316,[DIVR] Gender in Cross Cultural Perspective,03,"",3,"M,W,F10.10-11",WEB ARR,H Macintyre
 ANTH,355,[HUM] Historical Linguistics,01,02527,3,"M,W,F14.10-15",WEB ARR,M Mansperger
 ANTH,395,Topics in Anthropology,01,02509,V,"M,W,F11.10-12",WEB ARR,M Mansperger
 ANTH,473,[CAPS] [M] Evolution and Society,01,01620,3,"M,W,F9.10-10",WEB ARR,K Bergstrom
@@ -17,9 +19,9 @@ ANTH,498,Anthropology Internship,01,"",V,ARRGT,ARR ARR,M Mansperger
 B_A,100,Introduction to Business,01,02303,3,"TU,TH10.35-11.50",WEB ARR,P Skilton
 B_A,100,Introduction to Business,03,15892,3,"TU,TH16.20-17.35",WEB ARR,R Howell
 B_A,102,Exploring Careers in Business,01,02291,1,"M,W15.10-16",WEB ARR,R Keefer
-B_A,211,"Ethics, Teams, and Innovation",02,15887,3,"M,W16.20-17.35",WEB ARR,B Warnick
+B_A,211,"Ethics, Teams, and Innovation",02,"",3,"M,W16.20-17.35",WEB ARR,B Warnick
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,"",3,ARRGT,ARR ARR,Y He
-B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,15535,3,"TU,TH16.20-17.35",WEB ARR,Y He
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,"",3,"TU,TH16.20-17.35",WEB ARR,Y He
 B_LAW,210,Law and the Legal Environment of Business,01,01245,3,"M,W17.45-19",WEB ARR,B Spooner
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01,01533,4,"M,W,F12.10-13",WEB ARR,E Sweet
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,02,16207,4,"M,W,F11.10-12",WEB ARR,W Davis
@@ -36,23 +38,29 @@ BIOLOGY,393,[M] Professional Communications in Biology,01,01537,2,M9.10-10.50,WE
 BIOLOGY,394,Medicine as a Career,01,16059,2,TU17.10-18.50,WEB ARR,D Allison
 BIOLOGY,403,Evolutionary Biology,01,02081,3,"M,W,F13.10-14",WEB ARR,L Nelson
 BIOLOGY,473,[CAPS] [M] Evolution and Society,01,01619,3,"M,W,F9.10-10",WEB ARR,K Bergstrom
-BIOLOGY,476,Epigenetics and Systems Biology,01,01740,3,ARRGT,ARR ARR,""
+BIOLOGY,476,Epigenetics and Systems Biology,01,01740,3,"TU,TH10.35-11.50",WEB ARR,M Skinner
 BIOLOGY,489,[CAPS] [M] Synthesis and Communication of Independent Research,01,"",3,"M,W13.30-14.45",WEB ARR,E Crespi
 BIOLOGY,495,"Internship in Biology, Botany, and Zoology",02,"",V,ARRGT,ARR ARR,L Nelson
 BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 BIOLOGY,500,Seminar,01,01563,1,ARRGT,ARR ARR,T Cheeke
 BIOLOGY,500,Seminar,02,15567,1,M15.10-16.25,WEB ARR,T Cheeke
 BIOLOGY,540,Stable Isotope Theory and Methods,01,15566,3,"TU,TH10.35-11.50",WEB ARR,R Evans
+BIOLOGY,545,Statistical Genomics,01,"",3,"M,F15.10-16",WEB ARR,Z Zhang
+BIOLOGY,545,Statistical Genomics,01 Lab,16400,0,W15.10-17.40,WEB ARR,Z Zhang
 BIOLOGY,572,Quantitative Methods and Statistics in Ecology,01,"",4,"TU,TH10.35-11.50",WEB ARR,J Brunner
 BIOLOGY,572,Quantitative Methods and Statistics in Ecology,01 Lab,"",0,ARRGT,ARR ARR,J Brunner
-BIOLOGY,576,Epigenetics and Systems Biology,01,01741,3,ARRGT,ARR ARR,""
+BIOLOGY,576,Epigenetics and Systems Biology,01,01741,3,"TU,TH10.35-11.50",WEB ARR,M Skinner
 BIOLOGY,582,Professional Communication in Biology - Grant Writing,01,01622,2,M10.30-12.30,WEB ARR,A Cousins
 BIOLOGY,600,Special Projects or Independent Study,01,01757,V,ARRGT,ARR ARR,T Cheeke
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,01287,V,ARRGT,ARR ARR,T Cheeke
 BIOLOGY,702,"Master's Special Problems, Directed Study and/or Examination",01,01603,V,ARRGT,ARR ARR,T Cheeke
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,01227,V,ARRGT,ARR ARR,T Cheeke
+BSYSE,512,Research and Teaching Methods,01,"",3,TU10.10-11.50,WEB ARR,J Wu
+BSYSE,512,Research and Teaching Methods,01 Lab,02314,0,TH10.10-13,WEB ARR,J Wu
+BSYSE,552,Advanced Biological Systems Engineering Topics,01,01319,V,W10.10-12.40,WEB ARR,H Lei
 BSYSE,560,Aquatic Chemistry,01,01361,3,"TU,TH17.45-19",WEB ARR,M Khan
 BSYSE,597,Biomass Biological Process Engineering,01,02352,3,"TU,TH8.10-9.25",WEB ARR,B Yang
+BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,01272,V,ARRGT,ARR ARR,(multiple)
 CE,215,Mechanics of Materials,01,01340,3,"TU,TH7.45-9",WEB ARR,M Hossain
 CE,303,Civil Engineering Computer Applications,01,01341,2,M12.10-13,WEB ARR,J Morshed
 CE,303,Civil Engineering Computer Applications,01 Lab,01342,0,M14.10-17,WEB ARR,J Morshed
@@ -61,6 +69,7 @@ CE,351,Water Resources Engineering,01,01343,3,"TU,TH9.10-10.25",WEB ARR,Y Demiss
 CE,400,Highway Materials Engineering,01,02307,3,"TU,TH12.05-12.55",GUC TRI,M Mortuza
 CE,400,Highway Materials Engineering,01 Lab,02308,0,W12.10-15,WEB ARR,M Mortuza
 CE,414,Structural Design Loads and Load Paths,01,01627,3,"TU,TH7.45-9",WEB ARR,M Mortuza
+CE,419,Hazardous Waste Treatment,01,"",3,"TU,TH12.05-13.20",WEB ARR,R Watts
 CE,430,Analysis of Indeterminate Structures,01,01588,3,"TU,TH14.55-16.10",WEB ARR,M Mortuza
 CE,435,Foundations,01,01352,3,"TU,TH13.30-14.45",WEB ARR,J Morshed
 CE,436,Design of Timber Structures,01,01639,3,"TU,TH17.45-19",WEB ARR,J Shuttleworth
@@ -70,8 +79,9 @@ CE,465,[CAPS] [M] Integrated Civil Engineering Design,01 Lab,"",0,"M,F13.10-16",
 CE,466,Fundamentals of Civil Engineering Examination Review,01,01356,1,M12.10-13,WEB ARR,M Khan
 CE,495,Engineering Experience,01,"",V,ARRGT,ARR ARR,Y Demissie
 CE,499,Special Problems,01,01358,V,ARRGT,ARR ARR,Y Demissie
+CE,519,Hazardous Waste Treatment,01,"",3,"TU,TH12.05-13.20",WEB ARR,R Watts
 CE,542,Biochemical Wastewater Treatment,01,01399,3,"TU,TH9.10-10.25",WEB ARR,M Hossain
-CE,543,Advanced Topics in Environmental Engineering Practice,01,01733,V,"TU,TH16.20-17.35",WEB ARR,Y Demissie
+CE,543,Advanced Topics in Environmental Engineering Practice,01,01733,V,"TU,TH10.35-11.50",WEB ARR,Y Demissie
 CE,580,Graduate Seminar,01,01359,1,F11.10-12,WEB ARR,(multiple)
 CE,583,Aquatic Chemistry,01,01360,3,"TU,TH17.45-19",WEB ARR,M Khan
 CE,600,Special Projects or Independent Study,01,01470,V,ARRGT,ARR ARR,(multiple)
@@ -93,7 +103,7 @@ CHEM,102,Chemistry Related to Life Sciences,01 Lab,01411,0,W14.45-17.35,WEB ARR,
 CHEM,102,Chemistry Related to Life Sciences,02 Lab,01412,0,TH8-10.50,WEB ARR,N Devarie Baez
 CHEM,102,Chemistry Related to Life Sciences,03 Lab,01661,0,TH11.10-14,WEB ARR,N Devarie Baez
 CHEM,105,[PSCI] Principles of Chemistry I,01,01608,4,"M,W,F11.10-12",WEB ARR,P Buckley
-CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,01609,0,TU18.45-19.35,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,01609,0,TU18.45-19.35,WEB ARR,C Zhu
 CHEM,106,Principles of Chemistry II,01,01435,4,"M,W,F9.10-10",WEB ARR,E Silva Lopez
 CHEM,106,Principles of Chemistry II,01 Lab,01436,0,TU11.10-14,WEB ARR,E Silva Lopez
 CHEM,106,Principles of Chemistry II,02 Lab,01437,0,TU14.45-17.35,WEB ARR,E Silva Lopez
@@ -102,22 +112,26 @@ CHEM,220,Quantitative Analysis,01,15964,3,"M,W,F13.10-14",WEB ARR,J Lessmann
 CHEM,222,Quantitative Analysis Laboratory,01,15965,1,TU14.55-17.45,WEB ARR,J Lessmann
 CHEM,345,Organic Chemistry I,01,"",4,"M,W,F13.10-14",WEB ARR,A Nielsen
 CHEM,345,Organic Chemistry I,01 Lab,16194,0,TH13.30-16.20,WEB ARR,""
+CHEM,345,Organic Chemistry I,02 Lab,16270,0,TH13.30-16.20,WEB ARR,""
 CHEM,348,Organic Chemistry II and Problem Solving,01,01288,4,"TU,TH14.55-16.10",WEB ARR,N Devarie Baez
 CHEM,348,Organic Chemistry II and Problem Solving,02,15967,4,"M,W,F10.10-11",WEB ARR,G Crouch
 CHEM,348,Organic Chemistry II and Problem Solving,01 Lab,01289,0,W14.10-16,WEB ARR,N Devarie Baez
 CHEM,348,Organic Chemistry II and Problem Solving,02 Lab,02135,0,F14.10-16,WEB ARR,N Devarie Baez
 CHEM,348,Organic Chemistry II and Problem Solving,03 Lab,15968,0,TH13.30-15.20,WEB ARR,G Crouch
 CHEM,499,Special Problems,01,"",V,ARRGT,ARR ARR,E Silva Lopez
-CHEM,545,Synthetic Organic Chemistry,01,"",3,"M,W,F9.10-10",WEB ARR,R Mancini
+CHEM,529,Selected Topics in Analytical Chemistry,01,"",V,"TU,TH10.35-11.25",WEB ARR,B Clowers
 CHEM,702,"Master's Special Problems, Directed Study, and/or Examination",01,01707,V,ARRGT,ARR ARR,N Devarie Baez
-COM,102,[COMM] Public Speaking in the Digital Age,01,01665,3,"TU,TH13.30-14.45",WEB ARR,""
-COM,102,[COMM] Public Speaking in the Digital Age,04,02149,3,"M,W,F12.10-13",WEB ARR,""
+COM,102,[COMM] Public Speaking in the Digital Age,01,01665,3,"TU,TH13.30-14.45",WEB ARR,M Meiers
+COM,102,[COMM] Public Speaking in the Digital Age,04,02149,3,"M,W,F12.10-13",WEB ARR,M Meiers
 COM,105,[HUM] Communication in Global Contexts,01,"",3,ARRGT,ARR ARR,C Curtis
 CPT_S,121,Program Design and Development C/C++,01,01326,4,"TU,TH16.20-17.35",WEB ARR,L Delatorre
+CPT_S,121,Program Design and Development C/C++,02,"",4,"M,W,F12.10-13",WEB ARR,A O'fallon
 CPT_S,121,Program Design and Development C/C++,01 Lab,01327,0,M16.15-19.05,WEB ARR,L Delatorre
+CPT_S,121,Program Design and Development C/C++,02 Lab,"",0,TU10.35-13.25,WEB ARR,A O'fallon
 CPT_S,122,Data Structures C/C++,01,01328,4,"TU,TH16.20-17.35",WEB ARR,N Tenney
 CPT_S,122,Data Structures C/C++,01 Lab,01329,0,F16.15-19.05,WEB ARR,N Tenney
 CPT_S,122,Data Structures C/C++,02 Lab,01589,0,M16.15-19.05,WEB ARR,N Tenney
+CPT_S,260,Introduction to Computer Architecture,01,"",3,"M,W,F16.10-17",WEB ARR,G Bhat
 CPT_S,302,Professional Skills in Computing and Engineering,01,15989,3,ARRGT,ARR ARR,""
 CPT_S,322,[M] Software Engineering Principles I,01,01330,3,"M,W16.15-17.30",WEB ARR,B Lamarche
 CPT_S,323,Software Design,01,01331,3,"TU,TH17.45-19",WEB ARR,L Delatorre
@@ -130,7 +144,7 @@ CPT_S,423,[CAPS] Software Design Project II,01 Lab,01345,0,ARRGT,ARR ARR,A Austi
 CPT_S,427,Computer Security,01,15544,3,"M,W,F12.10-13",WEB ARR,W Hutton
 CPT_S,430,Numerical Analysis,01,01448,3,"TU,TH12.05-13.20",WEB ARR,J Miller
 CPT_S,451,Introduction to Database Systems,01,01516,3,"TU,TH16.20-17.35",WEB ARR,R Swannack
-CPT_S,471,Computational Genomics,01,01592,3,ARRGT,ARR ARR,""
+CPT_S,471,Computational Genomics,01,01592,3,"M,W,F11.10-12",WEB ARR,A Kalyanaraman
 CPT_S,479,Mobile Application Development,01,01607,3,"M,W,F15.10-16",WEB ARR,L Holder
 CPT_S,483,Topics in Computer Science,01,01590,V,"TU,TH12.05-13.20",WEB ARR,R Lewis
 CPT_S,490,Work Study Internship,01,"",V,ARRGT,ARR ARR,R Lewis
@@ -138,19 +152,21 @@ CPT_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 CPT_S,516,Algorithmics,01,01338,3,"TU,TH16.20-17.35",WEB ARR,Z Dang
 CPT_S,527,Computer Security,01,15545,3,"M,W,F12.10-13",WEB ARR,W Hutton
 CPT_S,530,Numerical Analysis,01,01449,3,"TU,TH12.05-13.20",WEB ARR,J Miller
-CPT_S,571,Computational Genomics,01,01593,3,ARRGT,ARR ARR,""
+CPT_S,571,Computational Genomics,01,01593,3,"M,W,F11.10-12",WEB ARR,A Kalyanaraman
 CPT_S,595,Directed Study in Computer Science,01,01346,V,ARRGT,ARR ARR,""
 CPT_S,600,Special Projects or Independent Study,01,01347,V,ARRGT,ARR ARR,(multiple)
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,01348,V,ARRGT,ARR ARR,(multiple)
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,01349,V,ARRGT,ARR ARR,(multiple)
 CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,01350,V,ARRGT,ARR ARR,R Lewis
 CROP_SCI,102,Introduction to Cultivated Plants,01,"",3,ARRGT,ARR ARR,R Koenig
-CROP_SCI,202,Crop Growth and Development,01,"",4,ARRGT,ARR ARR,""
-CROP_SCI,202,Crop Growth and Development,01 Lab,01419,0,ARRGT,ARR ARR,""
+CROP_SCI,202,Crop Growth and Development,01,"",4,"M,W,F9.10-10",WEB ARR,M Pumphrey
+CROP_SCI,202,Crop Growth and Development,01 Lab,01419,0,TU9.10-11.50,WEB ARR,M Pumphrey
 CROP_SCI,202,Crop Growth and Development,02 Lab,15881,0,TU13.30-16.10,WEB ARR,M Pumphrey
 CROP_SCI,202,Crop Growth and Development,03 Lab,15882,0,M14.10-17,WEB ARR,M Pumphrey
 CROP_SCI,202,Crop Growth and Development,04 Lab,15883,0,TH13.30-16.10,WEB ARR,M Pumphrey
 CROP_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,A Dhingra
+CROP_SCI,545,Statistical Genomics,01,"",3,"M,F15.10-16",WEB ARR,Z Zhang
+CROP_SCI,545,Statistical Genomics,01 Lab,16398,0,W15.10-17.40,WEB ARR,Z Zhang
 CSSTE,531,Cultural Studies in Education,01,16104,3,M17.10-20,WEB ARR,J Lupinacci
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,01546,3,"M,W,F10.10-11",WEB ARR,P Mudd
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,03,01749,3,"TU,TH9.10-10.25",WEB ARR,J Riddle
@@ -163,7 +179,6 @@ DTC,491,Advanced Digital Cinema,01,02283,3,"TU,TH13.30-14.45",WEB ARR,R Gregory
 DTC,497,[CAPS] Senior Seminar,01,"",3,"TU,TH10.35-11.50",WEB ARR,P Christenson
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,(multiple)
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
-DTC,561,Studies in Technology and Culture,01,15338,3,M15.10-18,WEB ARR,A Plemons
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
 E_A,301,Educ Abroad,02,"",V,ARRGT,ARR ARR,""
 E_E,221,Numerical Computing for Engineers,01,01365,2,"M,W15.10-16",WEB ARR,J Miller
@@ -172,7 +187,7 @@ E_E,234,Microprocessor Systems,01 Lab,01367,0,TU17.45-20.35,WEB ARR,M Engels
 E_E,261,Electrical Circuits I,01,01368,3,"M,W,F13.10-14",WEB ARR,D Lowry
 E_E,262,Electrical Circuits Laboratory I,01,01369,1,TH9.10-12,WEB ARR,S Hudson
 E_E,262,Electrical Circuits Laboratory I,02,02252,1,TU12.05-14.55,WEB ARR,D Lowry
-E_E,302,Professional Skills in Computing and Engineering,01,15990,3,ARRGT,ARR ARR,""
+E_E,302,Professional Skills in Computing and Engineering,01,"",3,ARRGT,ARR ARR,""
 E_E,341,Signals and Systems,01,01371,3,"M,W,F12.10-13",WEB ARR,D Lowry
 E_E,351,Distributed Parameter Systems,01,01372,3,"M,W,F15.10-16",WEB ARR,D Lowry
 E_E,361,Electrical Power Systems,01,01373,3,"TU,TH12.05-13.20",WEB ARR,M Osman
@@ -189,15 +204,15 @@ E_E,492,Renewable Energy Sources,01 Lab,01479,0,"M,W14.10-16",WEB ARR,F Underdow
 E_E,493,Protection of Power Systems I,01,01374,3,"M,W16.15-17.30",WEB ARR,S Hudson
 E_E,495,Internship in Electrical Industry,01,"",V,ARRGT,ARR ARR,(multiple)
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
-E_E,501,Linear System Theory,01,02455,3,"TU,TH17.45-19",WEB ARR,J Lian
+E_E,501,Linear System Theory,01,02455,3,"TU,TH17.45-19",WEB ARR,D Lowry
 E_E,595,Directed Study in Electrical Engineering,01,01477,V,ARRGT,ARR ARR,M Osman
 E_E,600,Special Projects or Independent Study,01,01376,V,ARRGT,ARR ARR,(multiple)
 E_E,700,"Master's Research, Thesis, and/or Examination",01,01377,V,ARRGT,ARR ARR,M Osman
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,01378,V,ARRGT,ARR ARR,(multiple)
 E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,01379,V,ARRGT,ARR ARR,(multiple)
-ECONS,101,[SSCI] Fundamentals of Microeconomics,01,01475,3,"TU,TH10.35-11.50",WEB ARR,""
+ECONS,101,[SSCI] Fundamentals of Microeconomics,01,01475,3,"TU,TH10.35-11.50",WEB ARR,J Timmons
 ECONS,101,[SSCI] Fundamentals of Microeconomics,02,"",3,ARRGT,ARR ARR,A Salimgarieva
-ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,01275,3,"TU,TH9.10-10.25",WEB ARR,""
+ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,01275,3,"TU,TH9.10-10.25",WEB ARR,J Timmons
 ECONS,305,Intermediate Microeconomics without Calculus,01,"",3,ARRGT,ARR ARR,W Sugiarto
 ED_AD,503,Values and Ethics for Educational Leaders,01,01466,3,TU17.45-20.30,WEB ARR,J Walls
 ED_AD,509,Leading School Improvement,01,02147,3,TU17.45-20.30,WEB ARR,S Calderone
@@ -215,6 +230,7 @@ ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,01226,1,W1
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,01697,V,ARRGT,ARR ARR,(multiple)
 ED_PSYCH,505,Research Methods I,01,01242,3,M17.45-20.30,WEB ARR,Y Ardasheva
 ED_PSYCH,508,Educational Statistics,01,02380,3,W16.10-19,WEB ARR,C Gotch
+ED_PSYCH,573,Motivation Theories,01,16373,3,M15.10-18,WEB ARR,K Carbonneau
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,15342,3,TU17.45-20.30,WEB ARR,A Rud
 ED_RES,563,Principles of Research,01,01225,3,TU17.45-20.30,WEB ARR,R Danielson
 ED_RES,563,Principles of Research,02,16118,3,TU17.45-20.30,WEB ARR,H Liao
@@ -227,6 +243,7 @@ ENGLISH,102,Writing Tutorial,01,02073,1,ARRGT,ARR ARR,R Mays
 ENGLISH,201,[WRTG] Writing and Research,01,01257,3,"M,W,F9.10-10",WEB ARR,V Cozza
 ENGLISH,210,[HUM] Readings in American Literature,02,01519,3,"M,W,F10.10-11",WEB ARR,G Escalera
 ENGLISH,256,[SSCI] Introduction to the Study of Language,01,15888,3,"M,W,F9.10-10",WEB ARR,N Bell
+ENGLISH,323,Approaches to the Teaching of English,01,"",3,"M,W,F10.10-11",WEB ARR,J Jones
 ENGLISH,324,[M] Rhetoric and Composition for Teaching,01,02092,3,"M,W16.20-17.35",WEB ARR,S Massart
 ENGLISH,326,Applied Grammar for Teachers,01,01633,3,"TU,TH16.20-17.35",WEB ARR,J Stevens
 ENGLISH,345,[M] Contemporary Latina/o Literatures,01,01568,3,"TU,TH10.35-11.50",WEB ARR,G Escalera
@@ -234,28 +251,29 @@ ENGLISH,362,[DIVR] Rhetorics of Racism,01,02511,3,"TU,TH9.10-10.25",WEB ARR,V Co
 ENGLISH,366,[HUM] The British Novel to 1900,01,16107,3,"TU,TH9.10-10.25",WEB ARR,L Carman
 ENGLISH,401,History of Rhetoric,01,"",3,ARRGT,ARR ARR,P Wilde
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,01413,3,"M,W,F10.10-11",WEB ARR,V Cozza
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,01414,3,"TU,TH9.10-10.25",WEB ARR,""
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,16,01691,3,"TU,TH10.35-11.50",WEB ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,01414,3,"TU,TH9.10-10.25",WEB ARR,R Arnold
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,16,01691,3,"TU,TH10.35-11.50",WEB ARR,P Weatherly
 ENGLISH,419,The Twentieth Century Novel,02,02513,3,"TU,TH13.30-14.45",WEB ARR,W Mays
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,V Cozza
 ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
-ENGLISH,561,Studies in Technology and Culture,01,15339,3,M15.10-18,WEB ARR,A Plemons
 ENGR,401,Entrepreneurship Boot Camp and the Entrepreneurial Mindset,01,16189,3,M16.15-17.05,WEB ARR,R Combs
 ENTOM,351,Ecological and Integrated Pest Management,01,01463,3,"TU,TH12.05-13.20",WEB ARR,A Felsot
-ENTOM,490,Special Topics in Entomology,01,02414,2,ARRGT,ARR ARR,""
-ENTOM,590,Special Topics in Entomology,01,02415,2,ARRGT,ARR ARR,""
+ENTOM,490,Special Topics in Entomology,01,02414,2,TU10.35-12.15,WEB ARR,D James
+ENTOM,590,Special Topics in Entomology,01,02415,2,TU10.35-12.15,WEB ARR,D James
 ENTRP,489,Entrepreneurial Management,01,01246,3,"M,W16.15-17.30",WEB ARR,P Carlisle
 FIN,325,Introduction to Financial Management,01,01247,3,"TU,TH19.15-20.30",WEB ARR,S Koopman
 FIN,425,[M] Intermediate Financial Management,01,01248,3,"TU,TH12.05-13.20",WEB ARR,R Hernandez
 FINE_ART,101,[ARTS] Introduction to Art,01,02514,3,"M,W,F14.10-15",WEB ARR,P Mudd
-FINE_ART,101,[ARTS] Introduction to Art,02,01486,3,"TU,TH12.05-13.20",WEB ARR,""
-FINE_ART,110,[ARTS] Drawing,01,02275,3,"TU,TH10.35-13.25",WEB ARR,""
-FINE_ART,202,[ARTS] World Art History II,01,01572,3,"M,W,F13.10-14",WEB ARR,""
-FINE_ART,320,Beginning Painting,01,02276,3,"TU,TH13.30-16.20",WEB ARR,""
+FINE_ART,101,[ARTS] Introduction to Art,02,01486,3,"TU,TH12.05-13.20",WEB ARR,D Regul
+FINE_ART,102,[ARTS] 2D Art and Design,01,"",3,"M,W,F15.10-16.50",WEB ARR,A Vu
+FINE_ART,110,[ARTS] Drawing,01,02275,3,"TU,TH10.35-13.25",WEB ARR,K Sisson
+FINE_ART,202,[ARTS] World Art History II,01,01572,3,"M,W,F13.10-14",WEB ARR,R Jones
+FINE_ART,320,Beginning Painting,01,02276,3,"TU,TH13.30-16.20",WEB ARR,D Regul
 FINE_ART,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 FS,401,Topics in Food Science,01,"",1,TU13.30-14.20,WEB ARR,T Henick-Kling
 FS,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,C Edwards
 FS,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
+FS,531,Advanced Food Safety and Quality,01,"",3,ARRGT,ARR ARR,T Bernhard
 FS,700,"Master's Research, Thesis, and/or Examination",01,02165,V,ARRGT,ARR ARR,(multiple)
 FS,800,"Doctoral Research, Dissertation, and/or Examination",01,02237,V,ARRGT,ARR ARR,(multiple)
 HBM,101,Professional and Career Development for the Business World,01,01917,1,"M,W15.10-16",WEB ARR,B Marlowe
@@ -272,35 +290,37 @@ HISTORY,150,[DIVR] Peoples of the United States,01,01320,3,"M,W,F12.10-13",WEB A
 HISTORY,386,World War II in Europe,01,02132,3,"M,W16.15-17.30",WEB ARR,B Farley
 HISTORY,388,US and Vietnam,01,02532,3,"M,W17.45-19",WEB ARR,B Farley
 HISTORY,395,Topics in History,01,02114,3,"M,W,F14.10-15",WEB ARR,K Faunce
-HISTORY,409,[CAPS] American Environmental History,01,02097,3,"TU,TH16.20-17.35",WEB ARR,""
 HISTORY,421,The American West,01,02515,3,"TU,TH14.55-16.10",WEB ARR,T Hanshew
-HISTORY,465,Representations of the Holocaust,01,02516,3,"TU,TH12.05-13.20",WEB ARR,""
+HISTORY,465,Representations of the Holocaust,01,02516,3,"TU,TH12.05-13.20",WEB ARR,G Sperling
 HISTORY,469,[M] Seminar in History,01,01232,3,"M,W,F11.10-12",WEB ARR,R Bauman
 HISTORY,498,History Internship,01,"",V,ARRGT,ARR ARR,R Bauman
 HISTORY,499,Special Problems,01,"",V,ARRGT,ARR ARR,R Bauman
 HISTORY,521,The American West,01,14996,3,"TU,TH14.55-16.10",WEB ARR,T Hanshew
 HISTORY,598,History Internship,01,"",V,ARRGT,ARR ARR,R Bauman
 HORT,102,Introduction to Cultivated Plants,01,"",3,ARRGT,ARR ARR,R Koenig
-HORT,202,Crop Growth and Development,01,"",4,ARRGT,ARR ARR,""
-HORT,202,Crop Growth and Development,01 Lab,01420,0,ARRGT,ARR ARR,""
+HORT,202,Crop Growth and Development,01,"",4,"M,W,F9.10-10",WEB ARR,M Pumphrey
+HORT,202,Crop Growth and Development,01 Lab,01420,0,TU9.10-11.50,WEB ARR,M Pumphrey
 HORT,202,Crop Growth and Development,02 Lab,15878,0,TU13.30-16.10,WEB ARR,M Pumphrey
 HORT,202,Crop Growth and Development,03 Lab,15879,0,M14.10-17,WEB ARR,M Pumphrey
 HORT,202,Crop Growth and Development,04 Lab,15880,0,TH13.30-16.10,WEB ARR,M Pumphrey
 HORT,357,Greenhouse Management and Crop Production,01,01421,3,"M,W,F12.10-13",WEB ARR,J Holden
 HORT,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,A Snider
-HORT,413,Advanced Viticulture,01,01249,3,ARRGT,ARR ARR,""
-HORT,416,Advanced Horticultural Crop Physiology,01,01424,3,ARRGT,ARR ARR,""
+HORT,413,Advanced Viticulture,01,01249,3,"TU,TH10.35-11.50",WEB ARR,B Bondada
+HORT,416,Advanced Horticultural Crop Physiology,01,01424,3,"M,W,F11.10-12",WEB ARR,A Dhingra
 HORT,440,Winery Operations and Equipment,01,02176,3,"M,W,F10.10-11",WEB ARR,T Collins
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,A Dhingra
 HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,T Collins
-HORT,513,Advanced Viticulture,01,01251,3,ARRGT,ARR ARR,""
-HORT,516,Advanced Horticultural Crop Physiology,01,01425,3,ARRGT,ARR ARR,""
+HORT,513,Advanced Viticulture,01,01251,3,"TU,TH10.35-11.50",WEB ARR,B Bondada
+HORT,516,Advanced Horticultural Crop Physiology,01,01425,3,"M,W,F11.10-12",WEB ARR,A Dhingra
+HORT,545,Statistical Genomics,01,"",3,"M,F15.10-16",WEB ARR,Z Zhang
+HORT,545,Statistical Genomics,01 Lab,16397,0,W15.10-17.40,WEB ARR,Z Zhang
 HORT,800,"Doctoral Research, Dissertation, and/or Examination",01,14695,V,ARRGT,ARR ARR,T Collins
 HUMANITY,101,[HUM] Humanities in the Ancient World,01,01234,3,"TU,TH12.05-13.20",WEB ARR,M Pieracci
 HUMANITY,101,[HUM] Humanities in the Ancient World,03,15020,3,"TU,TH14.55-16.10",WEB ARR,M Pieracci
 HUMANITY,335,The Bible as Literature,01,01321,3,"M,W,F13.10-14",WEB ARR,M Pieracci
-HUMANITY,450,Representations of the Holocaust,01,01576,3,"TU,TH12.05-13.20",WEB ARR,""
+HUMANITY,450,Representations of the Holocaust,01,01576,3,"TU,TH12.05-13.20",WEB ARR,G Sperling
 I_BUS,380,International Business,01,02292,3,"TU,TH10.35-11.50",WEB ARR,J Bravo
+I_BUS,380,International Business,02,"",3,ARRGT,ARR ARR,""
 I_BUS,380,International Business,03,15982,3,TU18-20.45,WEB ARR,T Larson
 I_BUS,482,[M] International Marketing,01,02293,3,"TU,TH16.20-17.35",WEB ARR,P Carlisle
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,B Clowers
@@ -309,8 +329,10 @@ IPM,552,Pesticides and the Environment,01,01428,3,"TU,TH10.35-11.50",WEB ARR,A F
 ISE,300,INTRN'L EXCH,01,"",V,ARRGT,ARR ARR,""
 KIN_ACTV,101,Beginning Conditioning,01,01461,1,"M,W12.10-13",WEB ARR,W Patterson
 KIN_ACTV,112,Beginning Weight Training,01,01462,1,"TU,TH15.10-16",WEB ARR,W Patterson
+KINES,514,Motivation Theories,01,16374,3,M15.10-18,WEB ARR,K Carbonneau
 LLT,586,"Seminar in Language, Literacy, and Technology",01,02161,1,TU12.10-13,WEB ARR,J Kelley
 MATH,103,Algebra Methods and Introduction to Functions,01,01538,3,"TU,TH9.10-10.25",WEB ARR,K Fiedler
+MATH,105,[QUAN] Exploring Mathematics,01,"",3,"M,W,F10.10-11",WEB ARR,C Jacobs
 MATH,106,College Algebra,01,01429,3,"M,W,F10.10-11",WEB ARR,K Fiedler
 MATH,108,Trigonometry,01,01430,2,"TU,TH12.05-12.55",WEB ARR,K Fiedler
 MATH,171,[QUAN] Calculus I,01,01431,4,"M,W,F13.10-14",WEB ARR,S Selmi
@@ -326,21 +348,22 @@ MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01 Lab,01541,0,"TU,TH1
 MATH,273,Calculus III,01,01434,2,"M,W12.10-13",WEB ARR,D Mitchell
 MATH,315,Differential Equations,01,01324,3,"TU,TH14.55-16.10",WEB ARR,D Mitchell
 MATH,351,Algebraic Thinking for the Middle School Teacher,01,01528,3,TH16.20-19,WEB ARR,D Slavit
+MATH,441,Applied Mathematics II: Complex Variables,01,"",3,"M,W,F12.10-13",WEB ARR,A Khapalov
 MATH,448,Numerical Analysis,01,01447,3,"TU,TH12.05-13.20",WEB ARR,J Miller
 MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,K Fiedler
+MATH,541,Applied Mathematics II: Complex Variables,01,"",3,"M,W,F12.10-13",WEB ARR,A Khapalov
 MATH,548,Numerical Analysis,01,01450,3,"TU,TH12.05-13.20",WEB ARR,J Miller
 MBIOS,101,[BSCI] Introductory Microbiology,01,01454,4,"TU,TH12.05-13.20",WEB ARR,""
 MBIOS,101,[BSCI] Introductory Microbiology,01 Lab,01455,0,F8-10.50,WEB ARR,""
 MBIOS,101,[BSCI] Introductory Microbiology,02 Lab,01506,0,F11.10-14,WEB ARR,""
-MBIOS,303,Introductory Biochemistry,01,01439,4,"TU,TH7.45-9",WEB ARR,K Mcateer
+MBIOS,303,Introductory Biochemistry,01,01439,4,"TU,TH7.45-9",WEB ARR,S Callister
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01,02524,3,M12.10-13,WEB ARR,Y Liu
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01 Lab,02525,0,"TU,TH14.45-17.35",WEB ARR,Y Liu
 MBIOS,305,General Microbiology,01,01459,3,"TU,TH12.05-13.20",WEB ARR,M Klotz
 MBIOS,320,[BSCI] DNA and Society,01,"",3,ARRGT,ARR ARR,R Brosemer
-MBIOS,450,Microbial Physiology,01,16151,3,"TU,TH9.10-10.25",WEB ARR,L Xun
-MBIOS,550,Microbial Physiology,01,16152,3,"TU,TH9.10-10.25",WEB ARR,L Xun
+MBIOS,465,Principles of Biophysical Chemistry,01,"",3,"TU,TH9.10-10.25",WEB ARR,A Goodman
 ME,212,Dynamics,01,01383,3,"TU,TH9.10-10.25",WEB ARR,J Iannelli
-ME,216,Integrated CAD Design,01,02104,2,"TU,TH16.20-19.10",WEB ARR,""
+ME,216,Integrated CAD Design,01,02104,2,"TU,TH16.20-19.10",WEB ARR,A Porter
 ME,301,Fundamentals of Thermodynamics,01,01384,3,"TU,TH10.35-11.50",WEB ARR,M Saad
 ME,304,Heat Transfer,01,01389,3,"M,W16.15-17.30",WEB ARR,Y Zhang
 ME,306,Thermal and Fluids Laboratory,01,01385,2,M9.10-10,WEB ARR,Y Zhang
@@ -377,10 +400,9 @@ MED_LMH,533,Personal Leadership Development III,01,14716,1,ARRGT,ARR ARR,J Haney
 MGMT,301,Principles of Management and Organization,02,"",3,ARRGT,ARR ARR,L Sheppard
 MGMT,401,Leading People and Organizations,01,01253,3,"TU,TH9.10-10.25",WEB ARR,J Bravo
 MGMT,401,Leading People and Organizations,02,15981,3,TH18-20.45,WEB ARR,T Tripp
-MGMT,455,Recruiting and Hiring Human Capital,01,01596,3,"M,W16.20-17.35",WEB ARR,R Keefer
-MGMT,456,[M] Evaluating and Rewarding Employees,01,02528,3,"M,W16.15-17.30",WEB ARR,M Westenskow
+MGMT,456,[M] Evaluating and Rewarding Employees,01,02528,3,"M,W16.15-17.30",WEB ARR,R Keefer
 MGMT,491,[CAPS] Strategic Management,01,01254,3,"TU,TH14.55-16.10",WEB ARR,P Skilton
-MGMT,496,Seminar,01,02529,3,ARRGT,ARR ARR,J Bravo
+MGMT,496,Seminar,01,02529,3,"TU,TH12.05-13.20",WEB ARR,J Bravo
 MGTOP,215,Business Statistics,01,01457,4,"TU,TH16.20-17.35",WEB ARR,S Morris
 MGTOP,215,Business Statistics,01 Lab,01458,0,"TU,TH17.45-18.35",WEB ARR,S Morris
 MGTOP,340,Operations Management,01,02067,3,"TU,TH13.30-14.45",WEB ARR,T Baker
@@ -396,28 +418,26 @@ MIT,575,Internship and Seminar,01,02119,10,ARRGT,ARR ARR,J Morrison
 MIT,575,Internship and Seminar,01 Lab,02230,0,ARRGT,ARR ARR,M Moscatelli
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,02120,V,ARRGT,ARR ARR,(multiple)
 MKTG,360,Marketing,01,01260,3,"TU,TH17.45-19",WEB ARR,R Hammond
-MKTG,407,Consumer Behavior,01,02294,3,"TU,TH13.30-14.45",WEB ARR,J Giese
 MKTG,495,[M] Marketing Management,01,01261,3,"TU,TH16.20-17.35",WEB ARR,J Giese
-NURS,308,Professional Development I: Evidence Based Practice,01,01004,3,W10.30-13.30,WEB ARR,""
-NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,01002,3,TH13.10-16,WEB ARR,""
-NURS,311,Pathophysiology and Pharmacology in Nursing,01,01003,4,W8.10-10,WEB ARR,""
+NURS,308,Professional Development I: Evidence Based Practice,01,01004,3,W10.30-13.30,WEB ARR,J Dotson
+NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,01002,3,TH13.10-16,WEB ARR,K Anders
+NURS,311,Pathophysiology and Pharmacology in Nursing,01,01003,4,W8.10-10,WEB ARR,V Sattler
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,WEB ARR,""
-NURS,315,Nursing Practice: Health and Illness,01,01011,4,ARRGT,ARR ARR,""
+NURS,315,Nursing Practice: Health and Illness,01,01011,4,ARRGT,ARR ARR,M Neeway
 NURS,315,Nursing Practice: Health and Illness,02,01059,4,ARRGT,ARR ARR,""
 NURS,315,Nursing Practice: Health and Illness,03,01100,4,ARRGT,ARR ARR,""
-NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,01005,2,TU13.10-15,WEB ARR,""
-NURS,317,Health Assessment,01,01006,3,TU10.30-12.30,WEB ARR,""
+NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,01005,2,TU13.10-15,WEB ARR,K Olson
+NURS,317,Health Assessment,01,01006,3,TU10.30-12.30,WEB ARR,R Faubion
 NURS,317,Health Assessment,01 Lab,01007,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,02 Lab,01098,0,ARRGT,ARR ARR,""
-NURS,317,Health Assessment,03 Lab,01101,0,ARRGT,ARR ARR,""
-NURS,322,The Human Experience of Diversity and Health,01,01008,2,F8.10-10,WEB ARR,""
-NURS,323,Nursing in the Genome Era,01,01009,2,M8.10-10,WEB ARR,""
-NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,01,01019,4,M10.30-12.30,WEB ARR,""
+NURS,317,Health Assessment,02 Lab,01098,0,ARRGT,ARR ARR,S Mcintosh
+NURS,322,The Human Experience of Diversity and Health,01,01008,2,F8.10-10,WEB ARR,L Parisot
+NURS,323,Nursing in the Genome Era,01,01009,2,M8.10-10,WEB ARR,L Jinishian
+NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,01,01019,4,M10.30-12.30,WEB ARR,L Punch
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","",F10.30-12.30,WEB ARR,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,01,01010,5,ARRGT,ARR ARR,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,01060,5,ARRGT,ARR ARR,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,01104,5,ARRGT,ARR ARR,""
-NURS,328,Introduction to Gerontological Nursing,01,01012,2,TU8.10-10,WEB ARR,""
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,01,01010,5,ARRGT,ARR ARR,A Young
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,01060,5,ARRGT,ARR ARR,L Punch
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,01104,5,ARRGT,ARR ARR,A Young
+NURS,328,Introduction to Gerontological Nursing,01,01012,2,TU8.10-10,WEB ARR,S Mcfadden
 NURS,360,Professional Nursing Concepts and Issues,01,01013,2,ARRGT,ARR ARR,A Brittain
 NURS,360,Professional Nursing Concepts and Issues,02,01014,2,ARRGT,ARR ARR,A Brittain
 NURS,366,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice II,01,01016,2,ARRGT,ARR ARR,S Hurst
@@ -426,38 +446,38 @@ NURS,400,[M] Nursing Research and Evidence-Based Practice,01,01018,3,ARRGT,ARR A
 NURS,400,[M] Nursing Research and Evidence-Based Practice,02,01017,3,ARRGT,ARR ARR,C Richards
 NURS,406,Nursing Management of the Healthcare Environment,01,01020,3,ARRGT,ARR ARR,C Van Son
 NURS,406,Nursing Management of the Healthcare Environment,02,01021,3,ARRGT,ARR ARR,C Van Son
-NURS,408,Professional Development III: Leadership and Management,01,01022,3,TH9.10-12,WEB ARR,""
-NURS,409,Professional Development IV: Transition to Practice,01,01023,2,M13.10-16,WEB ARR,B Sarkinen
-NURS,412,Family and Community as a Context of Care,01,01027,1,ARRGT,ARR ARR,""
-NURS,414,Child and Family Health: Theory,01,01024,3,F8.10-11,WEB ARR,""
-NURS,415,Children and Families as the Focus of Nursing Care,01,01025,2,ARRGT,ARR ARR,""
-NURS,415,Children and Families as the Focus of Nursing Care,02,01061,2,ARRGT,ARR ARR,""
-NURS,415,Children and Families as the Focus of Nursing Care,03,01113,2,ARRGT,ARR ARR,""
-NURS,416,Childbearing Health of the Family,01,01026,3,TH13.10-16,WEB ARR,""
-NURS,417,Nursing Care of Childbearing Families,01,01028,2,ARRGT,ARR ARR,""
-NURS,417,Nursing Care of Childbearing Families,02,01062,2,ARRGT,ARR ARR,""
-NURS,417,Nursing Care of Childbearing Families,03,01114,2,ARRGT,ARR ARR,""
+NURS,408,Professional Development III: Leadership and Management,01,01022,3,TH9.10-12,WEB ARR,S Perkins
+NURS,409,Professional Development IV: Transition to Practice,01,01023,2,M13.10-16,WEB ARR,D Brinker
+NURS,412,Family and Community as a Context of Care,01,01027,1,ARRGT,ARR ARR,S Franco
+NURS,414,Child and Family Health: Theory,01,01024,3,F8.10-11,WEB ARR,C Risse
+NURS,415,Children and Families as the Focus of Nursing Care,01,01025,2,ARRGT,ARR ARR,S Franco
+NURS,415,Children and Families as the Focus of Nursing Care,02,01061,2,ARRGT,ARR ARR,M Neeway
+NURS,415,Children and Families as the Focus of Nursing Care,03,01113,2,ARRGT,ARR ARR,S Franco
+NURS,416,Childbearing Health of the Family,01,01026,3,TH13.10-16,WEB ARR,K Mitchell
+NURS,417,Nursing Care of Childbearing Families,01,01028,2,ARRGT,ARR ARR,S Mcintosh
+NURS,417,Nursing Care of Childbearing Families,02,01062,2,ARRGT,ARR ARR,S Mcintosh
+NURS,417,Nursing Care of Childbearing Families,03,01114,2,ARRGT,ARR ARR,S Mcintosh
 NURS,424,Psychiatric/Mental Health Nursing Concepts,01,01029,3,M8.10-10,WEB ARR,K Tietjen
 NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",TH10.10-12,WEB ARR,""
-NURS,425,Nursing Practice: Psychiatric/Mental Health,01,01030,2,ARRGT,ARR ARR,J Larson
-NURS,425,Nursing Practice: Psychiatric/Mental Health,02,01063,2,ARRGT,ARR ARR,J Larson
+NURS,425,Nursing Practice: Psychiatric/Mental Health,01,01030,2,ARRGT,ARR ARR,M Aronow
+NURS,425,Nursing Practice: Psychiatric/Mental Health,02,01063,2,ARRGT,ARR ARR,M Aronow
 NURS,425,Nursing Practice: Psychiatric/Mental Health,03,16039,2,ARRGT,ARR ARR,J Larson
-NURS,426,[M] Community Health Nursing Theory,01,01031,2,M10.10-12,WEB ARR,""
+NURS,426,[M] Community Health Nursing Theory,01,01031,2,M10.10-12,WEB ARR,P Eide
 NURS,426,[M] Community Health Nursing Theory,"","","",TH9.10-10.10,WEB ARR,""
 NURS,427,Community Health Nursing Practice,01,01032,3,ARRGT,ARR ARR,B Sarkinen
-NURS,427,Community Health Nursing Practice,02,01064,3,ARRGT,ARR ARR,B Sarkinen
-NURS,427,Community Health Nursing Practice,03,16040,3,ARRGT,ARR ARR,B Sarkinen
-NURS,430,[CAPS] Senior Practicum,01,01033,3,ARRGT,ARR ARR,""
-NURS,440,[M] Population Health Theory,01,01034,3,ARRGT,ARR ARR,S Edwards
-NURS,440,[M] Population Health Theory,02,01035,3,ARRGT,ARR ARR,S Edwards
+NURS,427,Community Health Nursing Practice,02,01064,3,ARRGT,ARR ARR,J Larson
+NURS,427,Community Health Nursing Practice,03,16040,3,ARRGT,ARR ARR,J Larson
+NURS,430,[CAPS] Senior Practicum,01,01033,3,ARRGT,ARR ARR,R Faubion
+NURS,440,[M] Population Health Theory,01,01034,3,ARRGT,ARR ARR,S Girard
+NURS,440,[M] Population Health Theory,02,01035,3,ARRGT,ARR ARR,S Girard
 NURS,455,Cultural Safety and Social Justice in Global Society,01,01096,3,ARRGT,ARR ARR,C Van Son
 NURS,455,Cultural Safety and Social Justice in Global Society,02,01097,3,ARRGT,ARR ARR,C Van Son
 NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,01,01036,2,ARRGT,ARR ARR,S Edwards
 NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,02,01037,2,ARRGT,ARR ARR,S Edwards
 NURS,465,Application of Population Health Principles,01,01038,3,ARRGT,ARR ARR,P Eide
 NURS,465,Application of Population Health Principles,02,01050,3,ARRGT,ARR ARR,P Eide
-NURS,477,Health Care Ethics,01,01039,V,ARRGT,ARR ARR,B Severtsen
-NURS,477,Health Care Ethics,02,01040,V,ARRGT,ARR ARR,B Severtsen
+NURS,477,Health Care Ethics,01,01039,V,ARRGT,ARR ARR,S Edwards
+NURS,477,Health Care Ethics,02,01040,V,ARRGT,ARR ARR,S Edwards
 NURS,495,[CAPS] Advanced Practicum,01,01041,3,ARRGT,ARR ARR,S Edwards
 NURS,495,[CAPS] Advanced Practicum,02,01045,3,ARRGT,ARR ARR,S Edwards
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents",01,01066,3,W9.10-12,WEB ARR,K Tietjen
@@ -572,8 +592,8 @@ NURS,542,"Advanced Pathophysiology, Pharmacology, and Assessment for Population 
 NURS,542,"Advanced Pathophysiology, Pharmacology, and Assessment for Population Healthcare Professionals","","","",TU11.10-15,WEB ARR,""
 NURS,542,"Advanced Pathophysiology, Pharmacology, and Assessment for Population Healthcare Professionals","","","",TU11.10-15,WEB ARR,""
 NURS,542,"Advanced Pathophysiology, Pharmacology, and Assessment for Population Healthcare Professionals","","","",TU11.10-15,WEB ARR,""
-NURS,542,"Advanced Pathophysiology, Pharmacology, and Assessment for Population Healthcare Professionals",01 Lab,01107,0,ARRGT,ARR ARR,""
-NURS,542,"Advanced Pathophysiology, Pharmacology, and Assessment for Population Healthcare Professionals",02 Lab,01108,0,ARRGT,ARR ARR,""
+NURS,542,"Advanced Pathophysiology, Pharmacology, and Assessment for Population Healthcare Professionals",01 Lab,01107,0,ARRGT,ARR ARR,B Sarkinen
+NURS,542,"Advanced Pathophysiology, Pharmacology, and Assessment for Population Healthcare Professionals",02 Lab,01108,0,ARRGT,ARR ARR,B Sarkinen
 NURS,545,Therapeutic Modalities II,01,01077,3,W16.10-19,WEB ARR,P Stover
 NURS,545,Therapeutic Modalities II,"","","",W16.10-19,WEB ARR,""
 NURS,545,Therapeutic Modalities II,"","","",W16.10-19,WEB ARR,""
@@ -650,8 +670,8 @@ NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,WEB ARR,""
 NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,WEB ARR,""
 NURS,576,Organizational Systems and Leadership I,01 Lab,01109,0,ARRGT,ARR ARR,""
 NURS,576,Organizational Systems and Leadership I,02 Lab,01110,0,ARRGT,ARR ARR,""
-NURS,577,Health Care Ethics,01,01714,V,ARRGT,ARR ARR,B Severtsen
-NURS,577,Health Care Ethics,02,01715,V,ARRGT,ARR ARR,B Severtsen
+NURS,577,Health Care Ethics,01,01714,V,ARRGT,ARR ARR,S Edwards
+NURS,577,Health Care Ethics,02,01715,V,ARRGT,ARR ARR,S Edwards
 NURS,582,PMHNP Internship,01,01094,3,TH15.10-17,WEB ARR,A Hamel
 NURS,582,PMHNP Internship,"","","",TH15.10-17,WEB ARR,""
 NURS,582,PMHNP Internship,"","","",TH15.10-17,WEB ARR,""
@@ -694,18 +714,23 @@ NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,WEB ARR,""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,WEB ARR,""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,WEB ARR,""
-PHIL,201,[QUAN] Introduction to Formal Logic,02,01696,3,"M,W,F11.10-12",WEB ARR,L Hubbard-Mattix
+PHIL,201,[QUAN] Introduction to Formal Logic,02,"",3,"M,W,F11.10-12",WEB ARR,L Hubbard-Mattix
 PHIL,365,[HUM] Biomedical Ethics,01,16209,3,"M,W,F10.10-11",WEB ARR,W Kabasenche
+PHYSICS,101,[PSCI] General Physics,01,"",4,"TU,TH9.10-10.25",WEB ARR,A Rasmussen
+PHYSICS,101,[PSCI] General Physics,01 Lab,16253,0,TH15.10-18,WEB ARR,""
 PHYSICS,102,[PSCI] General Physics,01,01298,4,"M,W,F8.10-9",WEB ARR,C Capan
 PHYSICS,102,[PSCI] General Physics,01 Lab,01299,0,F14.10-17,WEB ARR,C Capan
 PHYSICS,102,[PSCI] General Physics,02 Lab,02145,0,TU14.30-17.20,WEB ARR,C Capan
+PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,"",4,"M,W,F11.10-12",WEB ARR,J Eld
+PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01 Lab,"",0,TH12.10-15,WEB ARR,""
 PHYSICS,202,Physics for Scientists and Engineers II,01,01300,4,"M,W,F11.10-12",WEB ARR,C Capan
 PHYSICS,202,Physics for Scientists and Engineers II,01 Lab,01301,0,TH8-10.50,WEB ARR,C Capan
 PHYSICS,202,Physics for Scientists and Engineers II,02 Lab,01504,0,TH11.10-14,WEB ARR,C Capan
 PHYSICS,202,Physics for Scientists and Engineers II,03 Lab,02103,0,TU11.10-14,WEB ARR,C Capan
+PL_P,545,Statistical Genomics,01,"",3,"M,F15.10-16",WEB ARR,Z Zhang
+PL_P,545,Statistical Genomics,01 Lab,16401,0,W15.10-17.40,WEB ARR,Z Zhang
 PL_P,551,Epidemiology and Management of Plant Diseases,01,02421,3,"TU,TH12.05-13.20",WEB ARR,G Grove
-POL_S,101,[SSCI] American National Government,01,01467,3,"M,W,F10.10-11",WEB ARR,""
-POL_S,101,[SSCI] American National Government,03,02233,3,"M,W,F12.10-13",WEB ARR,""
+POL_S,101,[SSCI] American National Government,03,02233,3,"M,W,F12.10-13",WEB ARR,K Waites
 POL_S,102,[SSCI] Introduction to Comparative Politics,01,01854,3,ARRGT,ARR ARR,N Steffen
 PSYCH,105,[SSCI] Introductory Psychology,01,01276,3,"TU,TH12.05-13.20",WEB ARR,S Tragesser
 PSYCH,201,Degrees and Careers in Psychology,02,15400,1,M13.10-14,WEB ARR,S Bauman
@@ -725,17 +750,17 @@ PSYCH,466,Environmental Psychology,01,02519,3,"TU,TH10.35-11.50",WEB ARR,A Matth
 PSYCH,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,(multiple)
 PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,(multiple)
 PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,J Peters
-SCIENCE,102,[BSCI] Integrated Science: Dynamic Systems in the Natural World,01,01464,4,M17.45-20.35,WEB ARR,""
-SCIENCE,102,[BSCI] Integrated Science: Dynamic Systems in the Natural World,01 Lab,01465,0,M14-16.50,WEB ARR,""
+SCIENCE,102,[BSCI] Integrated Science: Dynamic Systems in the Natural World,01,01464,4,M17.45-20.35,WEB ARR,G Schramm
+SCIENCE,102,[BSCI] Integrated Science: Dynamic Systems in the Natural World,01 Lab,01465,0,M14-16.50,WEB ARR,G Schramm
 SOC,102,[SSCI] Social Problems,01,01404,3,"TU,TH16.15-17.30",WEB ARR,J Farman
 SOE,101,[PSCI] Introduction to Geology,01,"",4,"M,W,F10.10-11",WEB ARR,J Menard
 SOE,101,[PSCI] Introduction to Geology,01 Lab,"",0,W15.10-18,WEB ARR,J Menard
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,02127,4,"M,W,F9.10-10",WEB ARR,""
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,02128,0,F12.10-15,WEB ARR,""
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,02127,4,"M,W,F9.10-10",WEB ARR,E Bakker
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,02128,0,F12.10-15,WEB ARR,E Bakker
 SOE,230,[PSCI] Introductory Oceanography,01,01416,3,"TU,TH9.10-10.25",WEB ARR,J Rosso
 SOE,390,Living on the Edge: Global Climate Change and Earth History,01,02507,3,"TU,TH10.35-11.50",WEB ARR,J Pratt
 SOE,404,[CAPS] [M] The Ecosystem,01,02130,3,"M,W16.15-17.30",WEB ARR,A Felsot
-SOE,444,Environmental Assessment,01,01621,3,"TU,TH16.20-17.35",WEB ARR,""
+SOE,444,Environmental Assessment,01,01621,3,"TU,TH16.20-17.35",WEB ARR,R Swenson
 SOE,461,Watershed Management,01,02112,3,"M,W,F9.10-10",WEB ARR,S Roley
 SOE,492,Special Topics,01,01637,3,"M,W,F11.10-12",WEB ARR,H Adams
 SOE,492,Special Topics,02,16186,3,"TU,TH10.35-11.50",WEB ARR,A Meddens
@@ -743,7 +768,7 @@ SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,(multiple)
 SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 SOE,531,Fundamentals of Environmental Toxicology,01,01742,3,"TU,TH16.20-17.35",WEB ARR,J Mcintyre
 SOE,540,Agroecology,01,15920,3,W13.30-16,WEB ARR,M Ostrom
-SOE,544,Environmental Assessment,01,01628,3,"TU,TH16.20-17.35",WEB ARR,""
+SOE,544,Environmental Assessment,01,01628,3,"TU,TH16.20-17.35",WEB ARR,R Swenson
 SOE,594,Environmental and Natural Resources Issues and Ethics,01,01561,3,W17.10-20,WEB ARR,M Carroll
 SOE,600,Special Projects or Independent Study,01,01294,V,ARRGT,ARR ARR,(multiple)
 SOE,700,"Master's Research, Thesis, and/or Examination",01,01295,V,ARRGT,ARR ARR,(multiple)
@@ -763,15 +788,19 @@ SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,01446,3,
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,"",3,ARRGT,ARR ARR,M Poppen
 SPEC_ED,520,Teaching in Inclusive Classrooms,01,01241,V,M17.15-20,WEB ARR,Y Hsiao
 SPEC_ED,522,Topics in Special Education,01,15969,3,W17.10-20,WEB ARR,D Mcmahon
-SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,"",3,ARRGT,ARR ARR,M Dunn
 SPEC_ED,590,Practicum in Special Education,01,01503,V,ARRGT,ARR ARR,Y Hsiao
-SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,02116,1,W16.10-17,WEB ARR,D Mcmahon
+SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,02116,1,TH16.10-17,WEB ARR,H Whittenburg
 STAT,212,[QUAN] Introduction to Statistical Methods,01,01443,4,"M,W,F15.10-16",WEB ARR,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,01444,0,M11.10-13,WEB ARR,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,01510,0,W13.10-15,WEB ARR,R Learn
 STAT,360,Probability and Statistics,01,01325,3,"M,W,F10.10-11",WEB ARR,R Learn
+STAT,423,Statistical Methods for Engineers and Scientists,01,"",3,"M,W,F12.10-13",WEB ARR,D Das
 STAT,511,Statistical Methods for Graduate Researchers,01,02438,4,"TU,TH12.05-13.20",WEB ARR,C Kogan
 STAT,511,Statistical Methods for Graduate Researchers,01 Lab,02439,0,W15.10-17,WEB ARR,C Kogan
+STAT,512,Analysis of Variance of Designed Experiments,02,"",3,"M,W10.10-11",WEB ARR,H Johnson
+STAT,512,Analysis of Variance of Designed Experiments,02 Lab,16371,0,F13.10-15,WEB ARR,H Johnson
+STAT,523,Statistical Methods for Engineers and Scientists,01,"",3,"M,W,F12.10-13",WEB ARR,D Das
+STAT,535,Regression Analysis,01,"",3,"TU,TH12.05-13.20",WEB ARR,L New
 TCH_LRN,301,Learning and Development,01,01303,3,W13.10-15.55,WEB ARR,M Moscatelli
 TCH_LRN,310,[M] Classroom Management,01,01524,2,TH13.10-14.55,WEB ARR,J Mancinelli
 TCH_LRN,322,[M] Reading and Writing in Grades 4 - 8,01,01304,3,W17.45-20.30,WEB ARR,S Newcomer
@@ -786,6 +815,7 @@ TCH_LRN,401,Practicum in Bilingual/ESL Education,01 Lab,01310,0,ARRGT,ARR ARR,E 
 TCH_LRN,405,Instructional Practicum II,01,01311,V,F10-12.15,WEB ARR,M Belgard
 TCH_LRN,405,Instructional Practicum II,"","","",F10-12.15,WEB ARR,""
 TCH_LRN,405,Instructional Practicum II,"","","",F10-12.15,WEB ARR,""
+TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,02,16291,3,M16.10-19,WEB ARR,T Salsbury
 TCH_LRN,415,Student Teaching,01,01312,V,M16-17.30,WEB ARR,M Moscatelli
 TCH_LRN,415,Student Teaching,"","","",M16-17.30,WEB ARR,""
 TCH_LRN,415,Student Teaching,"","","",M16-17.30,WEB ARR,""
@@ -816,7 +846,7 @@ TCH_LRN,516,Advanced Study in Computer-Assisted Language Learning,01,14570,3,TH1
 TCH_LRN,518,Integrating Technology into the Curriculum,01,01495,3,W13.10-16,WEB ARR,J Egbert
 TCH_LRN,549,Communicating in a Multilingual Society,02,02384,3,W17.45-20.30,WEB ARR,G Ernst-Slavit
 TCH_LRN,561,Elementary School Mathematics,01,14571,3,TH17.45-20.30,WEB ARR,M Kelton
-TCH_LRN,570,Theory and Research in Electronic Literacies,01,16089,3,TH17.45-20,WEB ARR,J Egbert
+TCH_LRN,570,Theory and Research in Electronic Literacies,01,16089,3,TU13.10-16,WEB ARR,J Egbert
 TCH_LRN,571,Research in STEM Education,01,14572,3,W17.45-20.30,WEB ARR,T Holmlund
 TCH_LRN,577,Curriculum Theory,01,15039,3,W17.45-20.30,WEB ARR,R Sawyer
 TCH_LRN,582,Scholarly Writing,01,02162,3,TH11.10-14,WEB ARR,D Day-Wiff
@@ -828,15 +858,14 @@ TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,0
 TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,01317,V,ARRGT,ARR ARR,(multiple)
 UNIV,100,College Majors and Career Exploration,01,01663,1,TU10.35-11.25,WEB ARR,J Hough
 UNIV,104,First-Year Success Seminar,02,16019,2,M15-16.50,WEB ARR,C Skinner
-UNIV,250,Success in College and Beyond,01,02520,1,"M,W13.10-14",WEB ARR,K Aispuro
 UNIV,300,Accessing Information for Research,01,01451,1,F10.10-11,WEB ARR,H Gover
 VIT_ENOL,113,Introduction to Vines and Wines,01,01542,3,"TU,TH12.05-13.20",WEB ARR,J Harbertson
 VIT_ENOL,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,A Snider
-VIT_ENOL,413,Advanced Viticulture,01,01250,3,ARRGT,ARR ARR,""
+VIT_ENOL,413,Advanced Viticulture,01,01250,3,"TU,TH10.35-11.50",WEB ARR,B Bondada
 VIT_ENOL,422,Sensory Evaluation of Food and Wine,01,01381,3,"M,W,F9.10-10",WEB ARR,J Harbertson
 VIT_ENOL,433,[CAPS] [M] Critical Thinking in Vineyard and Winery Management,01,01543,3,"TU,TH14.55-16.10",WEB ARR,T Collins
 VIT_ENOL,440,Winery Operations and Equipment,01,02177,3,"M,W,F10.10-11",WEB ARR,T Collins
 VIT_ENOL,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,C Edwards
 WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,02,02076,3,"TU,TH10.35-11.50",WEB ARR,M Mansperger
-WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,03,16025,3,"M,W,F10.10-11",WEB ARR,H Macintyre
+WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,03,"",3,"M,W,F10.10-11",WEB ARR,H Macintyre
 WRIT,302,Advanced Writing Collaborative,01,01712,1,ARRGT,ARR ARR,R Mays
