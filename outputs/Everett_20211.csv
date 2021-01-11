@@ -11,7 +11,7 @@ B_LAW,210,Law and the Legal Environment of Business,01,10720,3,ARRGT,ARR ARR,S B
 COM,101,[SSCI] Media and Society,01,10662,3,ARRGT,ARR ARR,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,10749,3,ARRGT,ARR ARR,C Curtis
 COM,105,[HUM] Communication in Global Contexts,01,10659,3,ARRGT,ARR ARR,C Curtis
-COM,138,Introduction to Communication,01,10707,3,ARRGT,ARR ARR,N Mcgrath
+COM,138,Introduction to Communication,01,10707,3,ARRGT,ARR ARR,H Khan
 COM,210,[COMM] Multimedia Content Creation,01,10663,3,ARRGT,ARR ARR,""
 COM,210,[COMM] Multimedia Content Creation,02,15232,3,ARRGT,ARR ARR,""
 COM,300,[M] Writing in Communication,02,11361,3,ARRGT,ARR ARR,L Paxson
@@ -49,7 +49,7 @@ CPT_S,434,Neural Network Design and Application,01,15993,3,"M,W,F14.10-15",WEB A
 CPT_S,437,Introduction to Machine Learning,01,15994,3,"M,W,F10.10-11",WEB ARR,D Cook
 CPT_S,443,Human-Computer Interaction,01,15928,3,"TU,TH10.35-11.50",WEB ARR,C Hundhausen
 CPT_S,451,Introduction to Database Systems,01,10929,3,ARRGT,ARR ARR,A Jillepalli
-CPT_S,451,Introduction to Database Systems,02,"",3,"TU,TH12.05-13.20","",S Arslan Ay
+CPT_S,451,Introduction to Database Systems,02,11132,3,"TU,TH12.05-13.20","",S Arslan Ay
 CPT_S,471,Computational Genomics,01,11119,3,"M,W,F11.10-12",WEB ARR,A Kalyanaraman
 CPT_S,479,Mobile Application Development,01,11061,3,"M,W,F15.10-16",WEB ARR,L Holder
 CPT_S,487,Software Design and Architecture,02,11117,3,"TU,TH12.05-13.20",WEB ARR,B Zeng
@@ -96,7 +96,7 @@ HBM,358,Foodservice Systems and Control,01,10802,3,TU13.30-16.05,WEB ARR,S Seo
 HBM,375,Introduction to Senior Living Management,01,10803,3,TU16.30-19,"",N Swanger
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,02,"",3,ARRGT,ARR ARR,K Philander
 HBM,383,Meeting and Convention Management,01,14754,3,ARRGT,ARR ARR,A Senter
-HBM,401,Career Management,02,"",1,ARRGT,ARR ARR,M Snyder
+HBM,401,Career Management,02,"",1,"M,W,F13.10-14",WEB ARR,A Alonzo
 HBM,494,[M] Service Operations Management,01,15944,3,TH16.25-18.55,WEB ARR,J Harbour
 HBM,495,[CAPS] Case Studies and Research,01,10879,3,W8.10-11,WEB ARR,J Sandstrom
 HBM,496,Special Topics,01,11344,V,ARRGT,ARR ARR,M Beattie
@@ -106,15 +106,15 @@ HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,10654,3
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,02,11267,3,ARRGT,ARR ARR,B Miller
 I_BUS,380,International Business,01,"",3,ARRGT,ARR ARR,M Downes
 I_BUS,453,[M] International Management,01,"",3,ARRGT,ARR ARR,D Nelson
-I_BUS,482,[M] International Marketing,01,"",3,ARRGT,ARR ARR,M Cicek
+I_BUS,482,[M] International Marketing,01,"",3,ARRGT,ARR ARR,U Umesh
 IPM,452,Pesticides and the Environment,02,16157,3,"TU,TH10.35-11.50",WEB ARR,A Felsot
 MATH,216,Discrete Structures,01,10725,3,"M,W,F9.10-10",WEB ARR,M Morgan
 ME,304,Heat Transfer,01,10673,3,"M,W,F10.10-11",WEB ARR,G Taub
 ME,310,Manufacturing Processes,01,10674,2,"M,F13.10-14",WEB ARR,X Bi
 ME,348,Dynamics Systems,01,10675,3,"M,W,F11.10-12",WEB ARR,Y Hu
 ME,401,Mechatronics,01,10676,3,M9.10-10,WEB ARR,Y Hu
-ME,401,Mechatronics,01 Lab,10692,0,TH9.10-12,EVRT 156,""
-ME,401,Mechatronics,02 Lab,10913,0,TH13.10-16,EVRT 115,""
+ME,401,Mechatronics,01 Lab,10692,0,TH9.10-12,EVRT 156,Y Hu
+ME,401,Mechatronics,02 Lab,10913,0,TH13.10-16,EVRT 115,Y Hu
 ME,406,[M] Experimental Design,01,10677,3,M13.10-14,WEB ARR,G Taub
 ME,406,[M] Experimental Design,01 Lab,10683,0,TU8-12,EVRT 157,""
 ME,406,[M] Experimental Design,"","","",F10.10-12,WEB ARR,""
@@ -146,6 +146,8 @@ MKTG,360,Marketing,02,10812,3,TH13-16,WEB ARR,S Seo
 MSE,404,Engineering Composites,01,10658,3,"M,W,F14.10-15",WEB ARR,W Zhong
 PHIL,450,Data Analytics Ethics,01,10869,3,ARRGT,ARR ARR,P Glazebrook
 POL_S,317,Media and Politics,02,"",3,"TU,TH10.35-11.50",WEB ARR,T Chatburn
+PSYCH,308,Organizational Psychology,01,"",3,ARRGT,ARR ARR,B Rangel
+SOC,340,[DIVR] Social Inequality,01,11170,3,ARRGT,ARR ARR,X Huang
 SOE,300,Natural Resource Ecology,01,14866,3,ARRGT,ARR ARR,S Woodley
 SOIL_SCI,201,[BSCI] Soil: A Living System,02,11151,3,"TU,TH10.35-11.50",WEB ARR,C Perillo
 SOIL_SCI,441,Soil Fertility,02,15886,3,"M,W,F10.10-11",WEB ARR,I Madsen

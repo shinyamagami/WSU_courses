@@ -8,10 +8,12 @@ GEM
   specs:
     csv (3.1.9)
     diff-lcs (1.4.4)
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.10)
-      mini_portile2 (~> 2.4.0)
-    rake (12.3.3)
+    mini_portile2 (2.5.0)
+    nokogiri (1.11.1)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
+    racc (1.5.2)
+    rake (13.0.3)
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
       rspec-expectations (~> 3.10.0)
@@ -21,7 +23,7 @@ GEM
     rspec-expectations (3.10.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
-    rspec-mocks (3.10.0)
+    rspec-mocks (3.10.1)
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
     rspec-support (3.10.1)
@@ -33,8 +35,8 @@ DEPENDENCIES
   WSU_In_Person!
   csv
   nokogiri
-  rake (~> 12.0)
-  rspec (~> 3.0)
+  rake
+  rspec
 
 RUBY VERSION
    ruby 2.7.1p83

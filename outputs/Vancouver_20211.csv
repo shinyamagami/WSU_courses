@@ -86,8 +86,10 @@ CES,209,[HUM] Hip Hop Around the Globe,02,14810,3,"M,W9.10-10",WEB ARR,B Hazelwo
 CES,220,[HUM] Introduction to Multicultural Literature,01,14887,3,"M,W14.55-16.10",WEB ARR,R Tanvir
 CES,373,[M] Native American Literature,01,14891,3,TU17.45-20.30,WEB ARR,J Ankney
 CHEM,105,[PSCI] Principles of Chemistry I,01,11819,4,"TU,TH13.30-14.45",WEB ARR,E Valente
+CHEM,105,[PSCI] Principles of Chemistry I,02,"",4,"M,W,F11.10-12",WEB ARR,P Buckley
 CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,11820,0,TU14.55-17.35,WEB ARR,""
 CHEM,105,[PSCI] Principles of Chemistry I,02 Lab,11930,0,TU17.45-20.25,WEB ARR,""
+CHEM,105,[PSCI] Principles of Chemistry I,03 Lab,"",0,TH10.10-11,WEB ARR,""
 CHEM,106,Principles of Chemistry II,01,11635,4,"M,W,F10.35-11.25",WEB ARR,A Otoikhian
 CHEM,106,Principles of Chemistry II,02,11636,4,"M,W,F13.30-14.20",WEB ARR,A Otoikhian
 CHEM,106,Principles of Chemistry II,01 Lab,11637,0,W14.55-17.35,WEB ARR,""
@@ -152,7 +154,6 @@ CS,458,Mobile Application Development,01,12088,3,"TU,TH12.05-13.20",WEB ARR,P Bo
 CS,460,Operating Systems,01,12089,3,"M,W,F13.30-14.20",WEB ARR,X Zhang
 CS,466,Embedded Systems,01,12091,3,TU17.45-19.40,WEB ARR,D Lowe
 CS,466,Embedded Systems,01 Lab,12093,0,TH17.45-20.15,WEB ARR,D Lowe
-CS,483,Topics in Computer Science,01,12435,3,TU15.10-18,WEB ARR,S Begum
 CS,527,Cryptography and Network Security,01,12087,3,"TU,TH13.30-14.45",WEB ARR,F Kabir
 CS,558,Wireless Sensor Networks,01,14707,3,"M,W13.30-14.45",WEB ARR,A Wisniewska
 CS,566,Embedded Systems,01,12092,3,TU17.45-19.40,WEB ARR,D Lowe
@@ -200,9 +201,9 @@ ECE,324,Digital Systems Design,01 Lab,12101,0,TH14.30-17,WEB ARR,T Pritchard
 ECE,327,Introduction to Power Electronics,01,12130,3,"TU,TH12.05-12.55",WEB ARR,""
 ECE,327,Introduction to Power Electronics,01 Lab,12131,0,ARRGT,ARR ARR,""
 ECE,327,Introduction to Power Electronics,02 Lab,12132,0,ARRGT,ARR ARR,""
-ECE,341,Signals and Systems,01,12103,3,TU14.55-16.45,WEB ARR,P Sekhar
-ECE,341,Signals and Systems,01 Lab,12142,0,ARRGT,ARR ARR,P Sekhar
-ECE,341,Signals and Systems,02 Lab,12143,0,ARRGT,ARR ARR,P Sekhar
+ECE,341,Signals and Systems,01,12103,3,TU14.55-16.45,WEB ARR,""
+ECE,341,Signals and Systems,01 Lab,12142,0,ARRGT,ARR ARR,""
+ECE,341,Signals and Systems,02 Lab,12143,0,ARRGT,ARR ARR,""
 ECE,370,Electromagnetic Fields and Waves,01,12104,3,"M,W9.10-10.25",WEB ARR,T Karacolak
 ECE,405,[M] Professional Issues and Ethics in Electrical Engineering,01,12105,3,"M,W,F9.10-10",WEB ARR,J Lynch
 ECE,452,[CAPS] [M] Capstone Design II,01,12106,3,"TU,TH13.30-14.45",WEB ARR,P Sekhar
@@ -211,12 +212,10 @@ ECE,462,Power Systems Analysis and Design II,01 Lab,12304,0,W17.30-20,WEB ARR,C 
 ECE,471,Antenna Design and Analysis,01,12108,3,"M,W12.05-12.55",WEB ARR,T Karacolak
 ECE,471,Antenna Design and Analysis,01 Lab,12109,0,ARRGT,ARR ARR,T Karacolak
 ECE,471,Antenna Design and Analysis,02 Lab,12173,0,ARRGT,ARR ARR,T Karacolak
-ECE,483,Topics in Electrical Engineering,01,12191,3,"TU,TH14.55-16.10",WEB ARR,B Arigong
 ECE,483,Topics in Electrical Engineering,02,14713,3,F11.10-14,WEB ARR,J Campos Do Prado
 ECE,496,Silicon Integrated Circuit Design Technology,01,12255,3,TU9.10-10.50,WEB ARR,F Zhao
 ECE,496,Silicon Integrated Circuit Design Technology,01 Lab,12306,0,ARRGT,ARR ARR,F Zhao
 ECE,501,Fundamentals of Laboratory-on-Chip,01,12172,3,"M,W10.35-11.50",WEB ARR,F Zhao
-ECE,537,High Frequency Circuit Design,01,12256,3,"M,W9.10-10.25",WEB ARR,B Arigong
 ECE,700,"Master's Research, Thesis, and/or Examination",01,12180,V,ARRGT,ARR ARR,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,12027,3,"M,W10.35-11.50",WEB ARR,E Reilly Gurocak
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,12028,3,"TU,TH10.35-11.50",WEB ARR,E Reilly Gurocak
@@ -422,15 +421,16 @@ MATH,315,Differential Equations,01,11726,3,"TU,TH10.35-11.50",WEB ARR,S Black
 MATH,315,Differential Equations,02,11773,3,"TU,TH12.05-13.20",WEB ARR,S Black
 MATH,320,[M] Elementary Modern Algebra,01,11867,3,"TU,TH13.30-14.45",WEB ARR,K Vincent
 MATH,351,Algebraic Thinking for the Middle School Teacher,01,11783,3,TH16.20-19,WEB ARR,D Slavit
+MATH,352,Probability and Data Analysis for Middle School Teachers,01,"",3,"M,W,F14.50-15.40",WEB ARR,J Martin
 MATH,398,Mathematical Snapshots,01,14744,1,ARRGT,ARR ARR,K Debower
 MATH,402,[M] Introduction to Analysis II,01,12656,3,"M,W,F13.10-14",WEB ARR,K Vixie
 MATH,415,Intermediate Differential Equations,01,11912,3,"TU,TH12.05-13.20",WEB ARR,A Dimitrov
 MATH,421,[M] Algebraic Structures,01,11814,3,"M,W,F9.10-10",WEB ARR,K Vincent
 MATH,432,[CAPS] Mathematics for College and Secondary Teachers,01,"",3,"TU,TH10.35-11.50",WEB ARR,K Vincent
-MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
+MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 MATH,583,Topics in Applied Mathematics,01,12786,V,"TU,TH13.30-14.45",WEB ARR,X Wang
 MATH,591,Seminar in Mathematical Biology,01,12760,1,TU16.10-17,WEB ARR,R Dillon
-MATH,592,Seminar in Analysis,01,11784,1,W13.30-14.20,WEB ARR,""
+MATH,592,Seminar in Analysis,01,11784,1,W13.30-14.20,WEB ARR,A Dimitrov
 MATH,600,Special Projects or Independent Study,01,11869,V,ARRGT,ARR ARR,""
 MATH,702,"Master's Special Problems, Directed Study, and/or Examination",01,11755,V,ARRGT,ARR ARR,(multiple)
 MATH,800,"Doctoral Research, Dissertation, and/or Examination",01,11631,V,ARRGT,ARR ARR,(multiple)
@@ -459,7 +459,7 @@ MECH,477,Manufacturing for Polymer Composites,01,12187,3,"M,W12.05-13.20",WEB AR
 MECH,485,Computer-aided Engineering,01,12123,3,M13.30-16,WEB ARR,X Chen
 MECH,521,Fundamentals of Fluids I,01,12189,3,"TU,TH13.30-14.45",WEB ARR,S Solovitz
 MECH,538,Microfabrication Technology,01,14953,3,"TU,TH9.10-10.25",WEB ARR,J Kim
-MECH,579,Advanced Topics in Design and Manufacturing,01,12190,V,"M,W10.35-11.50",WEB ARR,S Kim
+MECH,579,Advanced Topics in Design and Manufacturing,01,12190,3,"M,W10.35-11.50",WEB ARR,S Kim
 MECH,700,"Master's Research, Thesis, and/or Examination",01,12124,V,ARRGT,ARR ARR,(multiple)
 MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,12537,10,ARRGT,ARR ARR,J Bowman
 MED_LMH,523,Value-based Care,01,12538,1,ARRGT,ARR ARR,J Haney
@@ -664,6 +664,7 @@ NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,WEB ARR,""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,WEB ARR,""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,WEB ARR,""
+NURS,800,"Doctoral Research, Dissertation, and/or Examination",01,16541,V,ARRGT,ARR ARR,L Eddy
 PHIL,103,[HUM] Introduction to Ethics,01,"",3,"TU,TH10.35-11.50",WEB ARR,M Stichter
 PHIL,365,[HUM] Biomedical Ethics,01,"",3,"M,W,F10.10-11",WEB ARR,W Kabasenche
 PHIL,450,Data Analytics Ethics,01,"",3,ARRGT,ARR ARR,P Glazebrook
@@ -734,7 +735,7 @@ SOC,350,Social Psychology,01,11885,3,ARRGT,ARR ARR,K Saville
 SOC,350,Social Psychology,02,11886,3,ARRGT,ARR ARR,K Saville
 SOC,368,Drugs and Society,01,11798,3,"TU,TH9.10-10.25",WEB ARR,C Mosher
 SOC,390,Gender and Work,01,11832,3,"M,W9.10-10.25",WEB ARR,K Leupp
-SOC,461,Corrections,01,11833,3,"TU,TH12.05-13.20",WEB ARR,C Mosher
+SOC,461,Corrections,01,11833,3,"TU,TH12.05-13.20",WEB ARR,T Herold-Prayer
 SOC,468,Addictive Behavior Among Diverse Populations,01,12324,3,"W,F16.20-17.35",WEB ARR,A Blume
 SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,"",""
 SOC,800,"Doctoral Research, Dissertation, and/or Examination",01,11680,V,ARRGT,ARR ARR,(multiple)
@@ -745,6 +746,7 @@ SOE,101,[PSCI] Introduction to Geology,03 Lab,11601,0,W14.55-17.35,WEB ARR,""
 SOE,105,[PSCI] Natural Resources and Natural Hazards,01,12325,3,"M,W12.05-13.20",WEB ARR,K Moffett
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,"",4,"TU,TH10.35-11.50",WEB ARR,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,"",0,F12.10-14.45,WEB ARR,K Whitman
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",02 Lab,"",0,TH12.10-14.45,WEB ARR,""
 SOE,250,[PSCI] Introduction to Earth System Science,01,11841,3,TH12.05-13.20,WEB ARR,P Williams
 SOE,280,[PSCI] How the Earth's Climate System Works,01,12343,3,"M,W9.10-10.25",WEB ARR,D Singh
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,12200,3,"TU,TH13.30-14.45",WEB ARR,D Busch
@@ -761,7 +763,7 @@ SOE,540,Agroecology,01,15950,3,W13.30-16,WEB ARR,M Ostrom
 SOE,593,Graduate Seminar in Earth and Environmental Sciences,01,15280,1,F15.10-16,WEB ARR,H Adams
 SOE,594,Environmental and Natural Resources Issues and Ethics,01,12573,3,W17.10-20,WEB ARR,M Carroll
 SOE,598,Seminar,01,12529,1,ARRGT,ARR ARR,C Schultz
-SOE,598,Seminar,02,12531,1,F12.05-12.55,WEB ARR,K Moffett
+SOE,598,Seminar,02,12531,1,TU14.55-15.45,WEB ARR,K Moffett
 SOE,600,Special Projects or Independent Study,01,11613,V,ARRGT,ARR ARR,J Padowski
 SOE,700,"Master's Research, Thesis, and/or Examination",01,11609,V,ARRGT,ARR ARR,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,11610,V,ARRGT,ARR ARR,(multiple)
@@ -786,7 +788,8 @@ SPEC_ED,440,Methods in Intensive Educational Supports,01,11974,3,ARRGT,ARR ARR,A
 SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,11954,3,ARRGT,ARR ARR,M Dunn
 SPEC_ED,490,Practicum in Special Education,01,11955,V,ARRGT,ARR ARR,J Scalice
 SPEC_ED,520,Teaching in Inclusive Classrooms,01,11953,2,"M,F16.45-18.50",WEB ARR,S Van Horn
-SPEC_ED,522,Topics in Special Education,01,12020,3,W17.10-20,WEB ARR,D Mcmahon
+SPEC_ED,522,Topics in Special Education,01,12020,3,TH17.10-20,WEB ARR,D Mcmahon
+SPEC_ED,522,Topics in Special Education,02,16564,1,TH16.10-17,WEB ARR,H Whittenburg
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,12287,1,TH16.10-17,WEB ARR,H Whittenburg
 STAT,212,[QUAN] Introduction to Statistical Methods,01,11727,4,"M,W9.10-10.25",WEB ARR,F Mcgrade
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,11728,0,"TU,TH9.10-10",WEB ARR,""
