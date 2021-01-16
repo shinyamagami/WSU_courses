@@ -1,10 +1,12 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Instructor
 ANTH,404,[CAPS] The Self in Culture,01,"",3,ARRGT,ARR ARR,J Mageo
+ANTH,405,Medical Anthropology,01,"",3,ARRGT,ARR ARR,M Quinlan
 ANTH,418,Human Issues in International Development,01,"",3,ARRGT,ARR ARR,R Quinlan
 B_A,100,Introduction to Business,01,13975,3,ARRGT,ARR ARR,C Cooney
 BIOLOGY,301,General Genetics,01,"",4,ARRGT,ARR ARR,N Mccabe
-COMSOC,421,[CAPS] Intercultural Communication and Globalization,01,"",3,ARRGT,ARR ARR,""
+COMHLTH,573,Communicating Health in a Digital Landscape,01,14072,3,ARRGT,ARR ARR,""
 CRM_J,555,Seminar in Criminological Theory,01,12976,3,TU14.10-17,WEB ARR,A Pedneault
+E_M,567,System Supportability and Logistics Management,01,14685,3,W17.15-19.45,"",W Gray
 ED_AD,503,Values and Ethics for Educational Leaders,01,"",3,TU17.45-20.30,VC ARR,J Walls
 ED_AD,521,Topics in Education,01,"",V,ARRGT,ARR ARR,G Hill
 ED_AD,521,Topics in Education,02,"",3,ARRGT,ARR ARR,G Hill
@@ -32,7 +34,9 @@ ED_RES,564,Qualitative Research,01,13531,3,TU17.45-20.30,AMS SPK,S Johnson
 ED_RES,564,Qualitative Research,02,"",3,M17.45-20.30,AMS SPK,S Finley
 FS,510,Functional Foods and Health,01,"",3,ARRGT,ARR ARR,T Bernhard
 FS,531,Advanced Food Safety and Quality,01,13681,3,ARRGT,ARR ARR,T Bernhard
+H_D,205,[COMM] Developing Effective Communication and Life Skills,01,"",4,ARRGT,ARR ARR,M Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02,"",4,ARRGT,ARR ARR,M Strey
+H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,"",0,ARRGT,ARR ARR,M Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,"",0,ARRGT,ARR ARR,""
 H_D,520,Adolescence,01,13505,3,M14.10-17,WEB ARR,J Duckworth
 H_D,550,Seminar on Family Relationships,01,13562,3,W14.10-17,WEB ARR,Y Sano
@@ -67,32 +71,14 @@ MED_CLIN,553,Pediatric Subspecialties,01,"",V,ARRGT,ARR ARR,C Anderson
 MED_CLIN,553,Pediatric Subspecialties,02,"",V,ARRGT,ARR ARR,C Anderson
 MED_CLIN,553,Pediatric Subspecialties,03,"",V,ARRGT,ARR ARR,C Anderson
 MED_CLIN,560,Advanced Family Medicine,01,"",V,ARRGT,ARR ARR,J Haney
-MED_CLIN,560,Advanced Family Medicine,02,"",V,ARRGT,ARR ARR,J Haney
-MED_CLIN,560,Advanced Family Medicine,03,"",V,ARRGT,ARR ARR,J Haney
 MED_CLIN,561,Advanced Internal Medicine: Ambulatory,01,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,561,Advanced Internal Medicine: Ambulatory,02,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,561,Advanced Internal Medicine: Ambulatory,03,"",V,ARRGT,ARR ARR,L Sood
 MED_CLIN,562,Advanced Obstetrics and Gynecology: Ambulatory,01,"",V,ARRGT,ARR ARR,H Andersen
-MED_CLIN,562,Advanced Obstetrics and Gynecology: Ambulatory,02,"",V,ARRGT,ARR ARR,H Andersen
-MED_CLIN,562,Advanced Obstetrics and Gynecology: Ambulatory,03,"",V,ARRGT,ARR ARR,H Andersen
 MED_CLIN,563,Advanced Pediatrics: Ambulatory,01,"",V,ARRGT,ARR ARR,C Anderson
-MED_CLIN,563,Advanced Pediatrics: Ambulatory,02,"",V,ARRGT,ARR ARR,C Anderson
-MED_CLIN,563,Advanced Pediatrics: Ambulatory,03,"",V,ARRGT,ARR ARR,C Anderson
 MED_CLIN,564,Psychiatry Subspecialties,01,"",V,ARRGT,ARR ARR,M Layton
-MED_CLIN,564,Psychiatry Subspecialties,02,"",V,ARRGT,ARR ARR,M Layton
-MED_CLIN,564,Psychiatry Subspecialties,03,"",V,ARRGT,ARR ARR,M Layton
 MED_CLIN,565,Advanced Surgery,01,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,565,Advanced Surgery,02,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,565,Advanced Surgery,03,"",V,ARRGT,ARR ARR,A Kumar
 MED_CLIN,566,Advanced Internal Medicine: Inpatient,01,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,566,Advanced Internal Medicine: Inpatient,02,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,566,Advanced Internal Medicine: Inpatient,03,"",V,ARRGT,ARR ARR,L Sood
 MED_CLIN,567,Advanced Obstetrics and Gynecology,01,"",V,ARRGT,ARR ARR,H Andersen
-MED_CLIN,567,Advanced Obstetrics and Gynecology,02,"",V,ARRGT,ARR ARR,H Andersen
-MED_CLIN,567,Advanced Obstetrics and Gynecology,03,"",V,ARRGT,ARR ARR,H Andersen
 MED_CLIN,568,Pediatric Hospital Medicine,01,"",V,ARRGT,ARR ARR,C Anderson
-MED_CLIN,568,Pediatric Hospital Medicine,02,"",V,ARRGT,ARR ARR,C Anderson
-MED_CLIN,568,Pediatric Hospital Medicine,03,"",V,ARRGT,ARR ARR,C Anderson
 MED_CLIN,570,Away Rotation: North America,01,"",V,ARRGT,ARR ARR,D Dewitt
 MED_CLIN,570,Away Rotation: North America,02,"",V,ARRGT,ARR ARR,D Dewitt
 MED_CLIN,570,Away Rotation: North America,03,"",V,ARRGT,ARR ARR,D Dewitt
@@ -170,7 +156,7 @@ NEP,402,Vitamin and Mineral Metabolism,01,13108,3,"M,TU,W8.10-9",ARR ARR,J Larse
 NEP,427,[M] Nutritional Assessment and Lifestyle Counseling,01,13110,3,TU9.10-11,ARR ARR,J Larsen
 NEP,427,[M] Nutritional Assessment and Lifestyle Counseling,01 Lab,13112,0,TU12-14.30,SHER 334,J Larsen
 NEP,427,[M] Nutritional Assessment and Lifestyle Counseling,02 Lab,13113,0,TU15-17.30,SHER 334,J Larsen
-NEP,435,"Exercise, Diet and Disease",01,13109,4,"M,W9.10-10.50",ARR ARR,J Larsen
+NEP,435,Applied Pathophysiology,01,13109,4,"M,W9.10-10.50",ARR ARR,J Larsen
 NEP,450,Management and Facilities,01,13137,3,"TU,TH11.10-12.25",ARR ARR,J Beary
 NEP,476,Exercise Testing and Prescription,01,13111,3,W11.10-13,SAC 347,L Miller
 NEP,476,Exercise Testing and Prescription,01 Lab,13114,0,TH9.10-10.50,SHER 301,L Miller
@@ -188,6 +174,7 @@ NEP,499,Special Problems,02,"",V,ARRGT,ARR ARR,H Haverkamp
 NEP,499,Special Problems,03,"",V,ARRGT,ARR ARR,M Perrigue
 NEP,499,Special Problems,04,"",V,ARRGT,ARR ARR,L Miller
 NEP,499,Special Problems,05,"",V,ARRGT,ARR ARR,J Larsen
+NEP,499,Special Problems,06,"",V,ARRGT,ARR ARR,G Duncan
 NEP,501,Community Supervised Practice,01,13117,5,"M,TU14.10-16",WEB ARR,A Davis
 NEP,501,Community Supervised Practice,"","","",F14.10-18,ARR ARR,""
 NEP,501,Community Supervised Practice,"","","",F13.10-14,ARR ARR,""
@@ -406,7 +393,7 @@ NURS,477,Health Care Ethics,02,13388,V,ARRGT,ARR ARR,S Edwards
 NURS,495,[CAPS] Advanced Practicum,01,13332,3,ARRGT,ARR ARR,S Edwards
 NURS,495,[CAPS] Advanced Practicum,02,13340,3,ARRGT,ARR ARR,S Edwards
 NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
-NURS,499,Special Problems,02,"",V,ARRGT,ARR ARR,(multiple)
+NURS,499,Special Problems,02,"",V,ARRGT,ARR ARR,A Fulton
 NURS,499,Special Problems,03,13331,V,ARRGT,ARR ARR,V Denson
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents",01,13359,3,W9.10-12,VC ARR,K Tietjen
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents","","","",W9.10-12,VC ARR,""
@@ -725,7 +712,10 @@ NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
 NURS,598,Advanced Topics in Nursing,05,13430,V,ARRGT,ARR ARR,T Landis
 NURS,599,Independent Study,01,"",V,ARRGT,ARR ARR,J Purath
+NURS,599,Independent Study,02,13394,V,ARRGT,ARR ARR,(multiple)
 NURS,599,Independent Study,03,"",V,ARRGT,ARR ARR,A Mason
+NURS,599,Independent Study,04,13382,V,ARRGT,ARR ARR,L Kaplan
+NURS,599,Independent Study,05,13424,V,ARRGT,ARR ARR,G Oneal
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,"",V,TU15.10-18,VC ARR,(multiple)
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,VC ARR,""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,VC ARR,""
@@ -865,10 +855,10 @@ SHS,376,Speech Sound Disorders,01,13139,3,"TH,F13.35-14.50",WEB ARR,D Algeo
 SHS,376,Speech Sound Disorders,02,13140,3,"TH,F13.35-14.50",WEB ARR,D Algeo
 SHS,378,Speech and Hearing Sciences,01,13141,3,"TU,TH10.10-11.25",WEB ARR,H Hashemi Hosseinabad
 SHS,378,Speech and Hearing Sciences,02,16184,3,"TU,TH10.10-11.35",WEB ARR,H Hashemi Hosseinabad
-SHS,450,Special Topics in Speech and Hearing Sciences,01,13171,V,"M,W2.35-3.50",WEB ARR,L Williams
+SHS,450,Special Topics in Speech and Hearing Sciences,01,13171,V,"M,W14.35-15.50",WEB ARR,L Williams
 SHS,451,Neurogenic Communication Disorders,01,13142,3,"W,F13.10-14.25",WEB ARR,E Clark
 SHS,461,Clinical Methods,01,13144,2,F10.10-11.50,WEB ARR,C Dechert
-SHS,472,Audiometry,01,13145,3,"TU,TH12.20-13.25",WEB ARR,B Peregoy
+SHS,472,Audiometry,01,13145,3,"TU,TH12.10-13.25",WEB ARR,B Peregoy
 SHS,473,[M] Language and Literacy,01,13146,3,"W,TH10.30-11.45",WEB ARR,D Algeo
 SHS,478,Language Impairment,01,13147,3,"M,W13.10-14.25",WEB ARR,G Lynch
 SHS,480,[CAPS] Senior Seminar,01,13148,3,"TU,TH13.10-14.25",WEB ARR,A Meredith
@@ -889,7 +879,7 @@ SHS,566,Off-Campus Practicum Public School Setting,01,13160,V,ARRGT,ARR ARR,K Ra
 SHS,568,Off-campus Practicum Clinical Setting,01,13161,V,ARRGT,ARR ARR,K Rademaker Simpson
 SHS,570,Advanced Internship in Speech-Language Pathology,01,13162,V,ARRGT,ARR ARR,K Rademaker Simpson
 SHS,575,Advanced Clinical Practice,01,13163,V,W11-12.30,WEB ARR,C Dechert
-SHS,575,Advanced Clinical Practice,02,16280,V,TH10.30-12,ARR ARR,C Dechert
+SHS,575,Advanced Clinical Practice,02,16280,V,TH10.30-12,WEB ARR,C Dechert
 SHS,700,"Master's Research, Thesis, and/or Examination",01,13168,V,ARRGT,ARR ARR,(multiple)
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,13169,V,ARRGT,ARR ARR,(multiple)
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,"",3,ARRGT,ARR ARR,A Albagshi
