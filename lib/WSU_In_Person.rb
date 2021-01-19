@@ -2,7 +2,7 @@
 require 'nokogiri'
 require 'open-uri'
 require 'csv'
-require './lib/export_csv'
+require './lib/export_csv.rb'
 
 
 module WSUInPerson
