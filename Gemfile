@@ -7,6 +7,6 @@ gemspec
 
 gem "rake"
 gem "rspec"
-gem "did_you_mean"
+
 gem "nokogiri"
 gem "csv"
