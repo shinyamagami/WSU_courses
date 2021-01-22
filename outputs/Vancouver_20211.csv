@@ -35,6 +35,7 @@ B_A,211,"Ethics, Teams, and Innovation",01,"",3,ARRGT,ARR ARR,J Saylors
 B_A,211,"Ethics, Teams, and Innovation",02,14792,3,"M,W16.20-17.35",WEB ARR,B Warnick
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,14667,3,"TU,TH16.20-17.35",WEB ARR,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,"",3,ARRGT,ARR ARR,Y He
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",03,16617,3,ARRGT,ARR ARR,Y He
 B_LAW,210,Law and the Legal Environment of Business,01,11458,3,"M,W14.55-16.10",WEB ARR,B Holbrook
 BIOLOGY,101,[BSCI] Biology of Humans,02,12657,3,ARRGT,ARR ARR,W Cushwa
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01,12066,4,"TU,TH9.10-10.25",WEB ARR,M Berger
@@ -56,19 +57,19 @@ BIOLOGY,372,[M] General Ecology,03 Lab,11803,0,TH14.55-17.35,WEB ARR,""
 BIOLOGY,372,[M] General Ecology,04 Lab,11804,0,F9.10-11.50,WEB ARR,""
 BIOLOGY,393,[M] Professional Communications in Biology,02,14718,2,"W,F13.30-14.20",WEB ARR,K Turner
 BIOLOGY,402,[M] Beneficial Microbes in Nature and Society,01,11879,3,"M,W9.10-10.25",WEB ARR,S Porter
-BIOLOGY,462,Community Ecology,01,14742,3,"TU,TH13.30-14.45","",""
+BIOLOGY,462,Community Ecology,01,14742,3,"TU,TH13.30-14.45","",J Piovia-Scott
 BIOLOGY,476,Epigenetics and Systems Biology,02,15326,3,"TU,TH10.35-11.50",WEB ARR,M Skinner
 BIOLOGY,485,[CAPS] Biology of the Oceans,01,11880,3,"TU,TH14.55-16.10",WEB ARR,G Rollwagen-Bollens
 BIOLOGY,489,[CAPS] [M] Synthesis and Communication of Independent Research,01,"",3,"M,W13.30-14.45",WEB ARR,E Crespi
 BIOLOGY,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,""
-BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
+BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 BIOLOGY,500,Seminar,01,12501,1,ARRGT,ARR ARR,""
 BIOLOGY,500,Seminar,02,12502,1,ARRGT,ARR ARR,""
 BIOLOGY,501,Proposal Defense Seminar,01,12503,2,ARRGT,ARR ARR,""
 BIOLOGY,537,Plant Cell Biology,01,15524,3,"TU,TH10.35-11.50",WEB ARR,H Hellmann
 BIOLOGY,540,Stable Isotope Theory and Methods,01,15523,3,"TU,TH10.35-11.50",WEB ARR,R Evans
 BIOLOGY,561,Environmental Physiology,01,15302,3,"TU,TH9.10-10.25",WEB ARR,W Dowd
-BIOLOGY,562,Community Ecology,01,14743,3,"TU,TH13.30-14.45","",""
+BIOLOGY,562,Community Ecology,01,14743,3,"TU,TH13.30-14.45","",J Piovia-Scott
 BIOLOGY,572,Quantitative Methods and Statistics in Ecology,01,"",4,"TU,TH10.35-11.50",WEB ARR,J Brunner
 BIOLOGY,572,Quantitative Methods and Statistics in Ecology,01 Lab,"",0,ARRGT,ARR ARR,""
 BIOLOGY,576,Epigenetics and Systems Biology,02,15327,3,"TU,TH10.35-11.50",WEB ARR,M Skinner
@@ -152,6 +153,7 @@ CS,566,Embedded Systems,01,12092,3,TU17.45-19.40,WEB ARR,D Lowe
 CS,566,Embedded Systems,01 Lab,12094,0,TH17.45-20.15,WEB ARR,D Lowe
 CS,700,"Master's Research, Thesis, and/or Examination",01,12090,V,ARRGT,ARR ARR,(multiple)
 DATA,115,Introduction to Data Analytics,02,11941,3,"M,W,F11.10-12",WEB ARR,D Deford
+DATA,424,[CAPS] [M] Data Analytics Capstone,01,12756,3,ARRGT,ARR ARR,R Crate
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,11742,3,"M,W12.05-13.20",WEB ARR,M Rabby
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,11743,3,"M,W13.30-14.45",WEB ARR,M Rabby
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,03,11796,3,"TU,TH14.55-16.10",WEB ARR,E Mcdonald
@@ -189,9 +191,9 @@ ECE,260,Circuit Modeling and Analysis I,01,12097,4,"TU,TH9.10-10.25",WEB ARR,J L
 ECE,260,Circuit Modeling and Analysis I,01 Lab,12098,0,ARRGT,ARR ARR,J Lynch
 ECE,324,Digital Systems Design,01,12100,3,"TU,TH13.30-14.20",WEB ARR,T Pritchard
 ECE,324,Digital Systems Design,01 Lab,12101,0,TH14.30-17,WEB ARR,T Pritchard
-ECE,327,Introduction to Power Electronics,01,12130,3,"TU,TH12.05-12.55",WEB ARR,J Lynch
-ECE,327,Introduction to Power Electronics,01 Lab,12131,0,ARRGT,ARR ARR,""
-ECE,327,Introduction to Power Electronics,02 Lab,12132,0,ARRGT,ARR ARR,""
+ECE,327,Introduction to Power Electronics,01,12130,3,"TU,TH12.05-12.55",WEB ARR,H Gao
+ECE,327,Introduction to Power Electronics,01 Lab,12131,0,ARRGT,ARR ARR,H Gao
+ECE,327,Introduction to Power Electronics,02 Lab,12132,0,ARRGT,ARR ARR,H Gao
 ECE,341,Signals and Systems,01,12103,3,TU14.55-16.45,WEB ARR,P Sekhar
 ECE,341,Signals and Systems,01 Lab,12142,0,ARRGT,ARR ARR,P Sekhar
 ECE,341,Signals and Systems,02 Lab,12143,0,ARRGT,ARR ARR,P Sekhar
@@ -270,7 +272,7 @@ ENGLISH,419,The Twentieth Century Novel,02,14885,3,"M,W13.30-14.45",WEB ARR,C Ra
 ENGLISH,461,[M] Theory and Practice in Technical and Professional Writing,01,14892,3,ARRGT,ARR ARR,J Phelps
 ENGLISH,495,Rhetoric of Science and Technology,01,"",3,"M,W,F12.10-13",WEB ARR,J Staggers
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,J Phelps
-ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
+ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,L Russo
 ENGLISH,499,Special Problems,02,11646,3,W17.45-20.30,WEB ARR,C Ratzlaff
 ENGLISH,800,"Doctoral Research, Dissertation, and/or Examination",01,11620,V,ARRGT,ARR ARR,(multiple)
 ENTRP,426,Entrepreneurial Finance,01,11483,3,"M,W16.20-17.35",WEB ARR,D Steck
@@ -381,6 +383,7 @@ MATH,103,Algebra Methods and Introduction to Functions,02,11775,3,"M,W10.35-11.5
 MATH,103,Algebra Methods and Introduction to Functions,04,15014,3,"TU,TH9.10-10.25",WEB ARR,P Krouss
 MATH,106,College Algebra,01,11623,3,"M,W10.35-11.50",WEB ARR,J Valenciano
 MATH,106,College Algebra,02,11756,3,"M,W12.05-13.20",WEB ARR,J Valenciano
+MATH,106,College Algebra,03,"",3,ARRGT,ARR ARR,R Learn
 MATH,108,Trigonometry,01,11624,2,"TU,TH12.05-12.55",WEB ARR,F Mcgrade
 MATH,108,Trigonometry,02,11825,2,"TU,TH13.30-14.20",WEB ARR,F Mcgrade
 MATH,110,Mathematics Acceleration,01,11625,1,ARRGT,ARR ARR,G Salos
@@ -431,7 +434,7 @@ MBIOS,306,General Microbiology Laboratory,01,12065,2,"TU,TH13.30-16.10",WEB ARR,
 MBIOS,401,Cell Biology,02,12195,3,"TU,TH9.10-10.25",WEB ARR,C Cooper
 MBIOS,440,Immunology,01,12159,3,"TU,TH10.35-11.50",WEB ARR,G Gakhar
 MBIOS,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
-MBIOS,501,Cell Biology,01,12196,3,"TU,TH9.10-10.25",WEB ARR,C Cooper
+MBIOS,501,Cell Biology,01,12196,3,"TU,TH9.10-10.25",WEB ARR,E Shelden
 MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,12166,V,ARRGT,ARR ARR,C Cooper
 MECH,101,Introduction to Mechanical Engineering,01,12164,2,"M,W10.35-11.25",WEB ARR,D Kim
 MECH,212,Dynamics,01,12110,3,"TU,TH9.10-10.25",WEB ARR,H Rad
@@ -482,6 +485,7 @@ MIS,372,[M] Data Management,01,11495,3,"TU,TH12.05-13.20",WEB ARR,A Smith
 MIS,421,Business Intelligence Strategy,01,14720,3,"TU,TH10.35-11.50",WEB ARR,G Rose
 MIS,441,Global E-Commerce,01,11488,3,"TU,TH13.30-14.45",WEB ARR,A Smith
 MIS,448,Global IS Project Management,01,11496,3,"TU,TH9.10-10.25",WEB ARR,G Rose
+MIS,498,Management Information Systems Internship,01,"",V,ARRGT,ARR ARR,A Smith
 MIT,506,Integrating Technology into Classroom Teaching,01,12010,2,"M,F11.45-14",WEB ARR,D Day-Wiff
 MIT,506,Integrating Technology into Classroom Teaching,02,12011,2,M15.30-16.45,WEB ARR,R Mattson
 MIT,510,Instruction for Secondary Teachers,01,12014,3,M17-19.45,WEB ARR,R Sawyer
@@ -710,8 +714,9 @@ PSYCH,442,Advanced Addiction Treatment Techniques,01,12319,4,"W,F13.30-14.45",WE
 PSYCH,442,Advanced Addiction Treatment Techniques,01 Lab,12320,0,ARRGT,ARR ARR,""
 PSYCH,444,[M] Basic Clinical Skills,01,15278,3,W14.55-16.10,WEB ARR,K Schmaling
 PSYCH,468,Addictive Behavior Among Diverse Populations,01,12323,3,"W,F16.20-17.35",WEB ARR,A Blume
+PSYCH,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,R Magnan
 PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,(multiple)
-PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
+PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,R Magnan
 PSYCH,510,Introduction to Online Instruction,01,12813,1,ARRGT,ARR ARR,L Daffin
 PSYCH,516,Applied Structural Equation Modeling with Current Software,01,11884,3,"TU,TH14.55-16.10",WEB ARR,G Burns
 PSYCH,550,Social Psychology,01,16070,3,W13.10-16,WEB ARR,E Canning
@@ -725,9 +730,9 @@ SOC,350,Social Psychology,01,11885,3,ARRGT,ARR ARR,K Saville
 SOC,350,Social Psychology,02,11886,3,ARRGT,ARR ARR,K Saville
 SOC,368,Drugs and Society,01,11798,3,"TU,TH9.10-10.25",WEB ARR,C Mosher
 SOC,390,Gender and Work,01,11832,3,"M,W9.10-10.25",WEB ARR,K Leupp
-SOC,461,Corrections,01,11833,3,"TU,TH12.05-13.20",WEB ARR,T Herold-Prayer
+SOC,461,Corrections,01,11833,3,"TU,TH12.05-13.20",WEB ARR,T Herold -Prayer
 SOC,468,Addictive Behavior Among Diverse Populations,01,12324,3,"W,F16.20-17.35",WEB ARR,A Blume
-SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,"",S Whitley
+SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,ARR ARR,S Whitley
 SOC,800,"Doctoral Research, Dissertation, and/or Examination",01,11680,V,ARRGT,ARR ARR,(multiple)
 SOE,101,[PSCI] Introduction to Geology,01,11598,4,"M,W12.05-13.20",WEB ARR,B Walker
 SOE,101,[PSCI] Introduction to Geology,01 Lab,11599,0,M13.30-16.10,WEB ARR,""
@@ -736,7 +741,7 @@ SOE,101,[PSCI] Introduction to Geology,03 Lab,11601,0,W14.55-17.35,WEB ARR,""
 SOE,105,[PSCI] Natural Resources and Natural Hazards,01,12325,3,"M,W12.05-13.20",WEB ARR,K Moffett
 SOE,250,[PSCI] Introduction to Earth System Science,01,11841,3,TH12.05-13.20,WEB ARR,P Williams
 SOE,280,[PSCI] How the Earth's Climate System Works,01,12343,3,"M,W9.10-10.25",WEB ARR,D Singh
-SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,12200,3,"TU,TH13.30-14.45",WEB ARR,D Busch
+SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,12200,3,"TU,TH13.30-14.45",WEB ARR,J Harrison
 SOE,315,Water and the Earth,01,11604,3,"M,W10.35-11.25",WEB ARR,K Moffett
 SOE,315,Water and the Earth,01 Lab,11605,0,F10.35-13.15,WEB ARR,""
 SOE,404,[CAPS] [M] The Ecosystem,01,11893,3,"M,W12.05-13.20",WEB ARR,M Kramer
@@ -744,7 +749,7 @@ SOE,491,Senior Seminar,01,11608,1,M15.10-17,WEB ARR,K Turner
 SOE,492,Special Topics,01,11923,3,"TU,TH10.35-11.50",WEB ARR,A Meddens
 SOE,492,Special Topics,02,15016,3,"M,W,F11.10-12",WEB ARR,H Adams
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,D Busch
-SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,K Moffett
+SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 SOE,531,Fundamentals of Environmental Toxicology,01,11612,3,"TU,TH16.20-17.35",WEB ARR,J Mcintyre
 SOE,540,Agroecology,01,15950,3,W13.30-16,WEB ARR,M Ostrom
 SOE,593,Graduate Seminar in Earth and Environmental Sciences,01,15280,1,F15.10-16,WEB ARR,H Adams
@@ -796,7 +801,6 @@ STAT,590,Statistical Consulting Practicum,01,12955,V,ARRGT,ARR ARR,N Dasgupta
 STAT,591,Seminar in Statistics,01,12926,1,W16.10-17,WEB ARR,X Chen
 STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,12773,V,ARRGT,ARR ARR,L New
 TCH_LRN,321,Early Literacy,01,12002,3,W17.15-20,WEB ARR,D Duncan
-TCH_LRN,330,Diversity in Education,01,12434,3,"TU,TH14.55-16.10",WEB ARR,S Rakha
 TCH_LRN,352,Teaching Elementary Mathematics,01,11977,3,M8.10-11,WEB ARR,T Heikila
 TCH_LRN,371,Teaching Elementary Science,01,11978,3,M11.10-14,WEB ARR,S Matouk
 TCH_LRN,401,Practicum in Bilingual/ESL Education,01,11979,3,W14.10-17,WEB ARR,J Morales
@@ -823,7 +827,6 @@ UNIV,250,Success in College and Beyond,05,"",1,F12.05-13.20,WEB ARR,J Mercado
 UNIV,250,Success in College and Beyond,06,"",1,F12.05-13.20,WEB ARR,C Johnston
 UNIV,250,Success in College and Beyond,07,"",1,F12.05-13.20,WEB ARR,N Carrera
 UNIV,250,Success in College and Beyond,08,"",1,TU12.05-13.20,WEB ARR,C Morical
-UNIV,250,Success in College and Beyond,09,15146,1,TU12.05-13.20,WEB ARR,J Rodriguez
 UNIV,300,Accessing Information for Research,01,12049,1,ARRGT,ARR ARR,C Fisher
 UNIV,301,Career Exploration and Professional Development,02,15150,1,TU16.20-17.35,WEB ARR,C Johnston
 UNIV,304,Transfer Student Seminar,01,15149,2,F12.05-13.55,WEB ARR,E Scott

@@ -36,6 +36,7 @@ BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01 Lab,01534,
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,02 Lab,01535,0,TH11.10-14,WEB ARR,E Sweet
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,03 Lab,01536,0,TU8-10.50,WEB ARR,E Sweet
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,04 Lab,01630,0,W15.10-18,WEB ARR,W Davis
+BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,06 Lab,16543,0,F12.10-15,WEB ARR,W Davis
 BIOLOGY,220,Medical Terminology,01,"",2,ARRGT,ARR ARR,K Turner
 BIOLOGY,251,Introductory Human Physiology,01,01405,4,"TU,TH10.35-11.50",WEB ARR,E Sweet
 BIOLOGY,251,Introductory Human Physiology,01 Lab,01406,0,W15.20-18.10,WEB ARR,E Sweet
@@ -48,7 +49,7 @@ BIOLOGY,403,Evolutionary Biology,01,02081,3,"M,W,F13.10-14",WEB ARR,L Nelson
 BIOLOGY,473,[CAPS] [M] Evolution and Society,01,01619,3,"M,W,F9.10-10",WEB ARR,K Bergstrom
 BIOLOGY,476,Epigenetics and Systems Biology,01,01740,3,"TU,TH10.35-11.50",WEB ARR,M Skinner
 BIOLOGY,489,[CAPS] [M] Synthesis and Communication of Independent Research,01,"",3,"M,W13.30-14.45",WEB ARR,E Crespi
-BIOLOGY,495,"Internship in Biology, Botany, and Zoology",02,"",V,ARRGT,ARR ARR,L Nelson
+BIOLOGY,495,"Internship in Biology, Botany, and Zoology",02,"",V,ARRGT,ARR ARR,E Sweet
 BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 BIOLOGY,500,Seminar,01,01563,1,ARRGT,ARR ARR,T Cheeke
 BIOLOGY,500,Seminar,02,15567,1,M15.10-16.25,WEB ARR,T Cheeke
@@ -81,7 +82,6 @@ CE,414,Structural Design Loads and Load Paths,01,01627,3,"TU,TH7.45-9",WEB ARR,M
 CE,419,Hazardous Waste Treatment,01,"",3,"TU,TH12.05-13.20",WEB ARR,R Watts
 CE,430,Analysis of Indeterminate Structures,01,01588,3,"TU,TH14.55-16.10",WEB ARR,M Mortuza
 CE,435,Foundations,01,01352,3,"TU,TH13.30-14.45",WEB ARR,J Morshed
-CE,436,Design of Timber Structures,01,01639,3,"TU,TH17.45-19",WEB ARR,J Shuttleworth
 CE,442,Water and Wastewater Treatment Design,01,01353,3,"TU,TH16.20-17.35",WEB ARR,M Hossain
 CE,465,[CAPS] [M] Integrated Civil Engineering Design,01,"",3,F16.10-17,WEB ARR,M Black
 CE,465,[CAPS] [M] Integrated Civil Engineering Design,01 Lab,"",0,"M,F13.10-16",WEB ARR,M Black
@@ -193,6 +193,8 @@ DTC,498,Internship,01,"",V,ARRGT,ARR ARR,(multiple)
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
 E_A,301,Educ Abroad,02,"",V,ARRGT,ARR ARR,""
+E_E,214,Design of Logic Circuits,01,"",4,"M,W,F8.10-9",WEB ARR,C Cole
+E_E,214,Design of Logic Circuits,01 Lab,16593,0,TH13.30-16.20,WEB ARR,C Cole
 E_E,221,Numerical Computing for Engineers,01,01365,2,"M,W15.10-16",WEB ARR,J Miller
 E_E,234,Microprocessor Systems,01,01366,4,"M,W16.15-17.30",WEB ARR,M Engels
 E_E,234,Microprocessor Systems,01 Lab,01367,0,TU17.45-20.35,WEB ARR,M Engels
@@ -302,6 +304,7 @@ HBM,493,[CAPS] Food and Beverage Strategies,01,02068,3,"TU,TH10.35-11.50",WEB AR
 HBM,494,[M] Service Operations Management,01,02066,3,"M,W,F9.10-10",WEB ARR,B Marlowe
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,01229,3,"M,W,F9.10-10",WEB ARR,R Franklin
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,01532,3,"TU,TH9.10-10.25",WEB ARR,T Hanshew
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,06,"",3,ARRGT,ARR ARR,N Harrington
 HISTORY,110,[HUM] American History to 1877,01,"",3,ARRGT,ARR ARR,R Powell
 HISTORY,111,[HUM] American History Since 1877,01,01230,3,"M,W,F10.10-11",WEB ARR,R Franklin
 HISTORY,111,[HUM] American History Since 1877,02,02271,3,"TU,TH10.35-11.50",WEB ARR,T Hanshew
@@ -315,6 +318,7 @@ HISTORY,435,"[CAPS] European Expansion Overseas, 1400-1800",01,"",3,"TU,TH10.35-
 HISTORY,444,[CAPS] The Renaissance,01,"",3,ARRGT,ARR ARR,B Traver
 HISTORY,465,Representations of the Holocaust,01,02516,3,"TU,TH12.05-13.20",WEB ARR,G Sperling
 HISTORY,469,[M] Seminar in History,01,01232,3,"M,W,F11.10-12",WEB ARR,R Bauman
+HISTORY,495,"[CAPS] Space, Place, and Power in History: Historical Geography in Global Perspective",01,"",3,"M,W,F13.10-14",WEB ARR,T Jordan
 HISTORY,498,History Internship,01,"",V,ARRGT,ARR ARR,R Bauman
 HISTORY,499,Special Problems,01,"",V,ARRGT,ARR ARR,R Bauman
 HISTORY,521,The American West,01,14996,3,"TU,TH14.55-16.10",WEB ARR,T Hanshew
@@ -355,13 +359,16 @@ KIN_ACTV,112,Beginning Weight Training,01,01462,1,"TU,TH15.10-16",WEB ARR,W Patt
 KINES,514,Motivation Theories,01,16374,3,M15.10-18,WEB ARR,K Carbonneau
 LLT,586,"Seminar in Language, Literacy, and Technology",01,02161,1,TU12.10-13,WEB ARR,J Kelley
 MATH,100,Basic Mathematics,01,"",2,"TU,TH11.10-12",WEB ARR,S Harrington
+MATH,100,Basic Mathematics,02,"",2,"TU,TH12.10-13",WEB ARR,J Eld
 MATH,103,Algebra Methods and Introduction to Functions,01,01538,3,"TU,TH9.10-10.25",WEB ARR,K Fiedler
 MATH,105,[QUAN] Exploring Mathematics,01,"",3,"M,W,F10.10-11",WEB ARR,C Jacobs
 MATH,106,College Algebra,01,01429,3,"M,W,F10.10-11",WEB ARR,K Fiedler
 MATH,108,Trigonometry,01,01430,2,"TU,TH12.05-12.55",WEB ARR,K Fiedler
 MATH,108,Trigonometry,02,"",2,ARRGT,ARR ARR,S Selmi
 MATH,171,[QUAN] Calculus I,01,01431,4,"M,W,F13.10-14",WEB ARR,S Selmi
+MATH,171,[QUAN] Calculus I,02,"",4,ARRGT,ARR ARR,J Sung
 MATH,171,[QUAN] Calculus I,01 Lab,01498,0,"TU,TH13.30-14.45",WEB ARR,S Selmi
+MATH,171,[QUAN] Calculus I,02 Lab,02403,0,ARRGT,ARR ARR,J Sung
 MATH,172,Calculus II,01,01432,4,"M,W,F10.10-11",WEB ARR,D Mitchell
 MATH,172,Calculus II,01 Lab,01433,0,"TU,TH9.10-10.25",WEB ARR,D Mitchell
 MATH,201,Mathematics for Business and Economics,02,"",3,"M,W,F9.10-10",WEB ARR,D Zhang
@@ -406,6 +413,8 @@ ME,312,Manufacturing Engineering,01 Lab,15572,0,F9.10-12,WEB ARR,C Yang
 ME,312,Manufacturing Engineering,02 Lab,15574,0,TH9.10-12,WEB ARR,C Yang
 ME,312,Manufacturing Engineering,03 Lab,15575,0,W9.10-12,WEB ARR,C Yang
 ME,348,Dynamics Systems,01,01388,3,"TU,TH13.30-14.45",WEB ARR,J Iannelli
+ME,401,Mechatronics,02,"",3,"M,W9.10-10",WEB ARR,M Pitts
+ME,401,Mechatronics,02 Lab,16636,0,TH9.10-12,WEB ARR,M Pitts
 ME,406,[M] Experimental Design,01,01390,3,M13.10-14,WEB ARR,C Yang
 ME,406,[M] Experimental Design,01 Lab,01391,0,"M,W14.10-17",WEB ARR,C Yang
 ME,406,[M] Experimental Design,"","","","M,W14.10-17",TFLO 115,""
@@ -449,6 +458,7 @@ MIT,575,Internship and Seminar,01 Lab,02230,0,ARRGT,ARR ARR,M Moscatelli
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,02120,V,ARRGT,ARR ARR,(multiple)
 MKTG,360,Marketing,01,01260,3,"TU,TH17.45-19",WEB ARR,R Hammond
 MKTG,495,[M] Marketing Management,01,01261,3,"TU,TH16.20-17.35",WEB ARR,J Giese
+MSE,401,Metallic Materials,01,"",3,"M,W,F10.10-11",WEB ARR,I Sargin
 NURS,308,Professional Development I: Evidence Based Practice,01,01004,3,W10.30-13.30,WEB ARR,J Dotson
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,01002,3,TH13.10-16,WEB ARR,K Anders
 NURS,311,Pathophysiology and Pharmacology in Nursing,01,01003,4,W8.10-10,WEB ARR,V Sattler
@@ -797,7 +807,7 @@ SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,02127,4,"M,W
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,02128,0,F12.10-15,WEB ARR,E Bakker
 SOE,230,[PSCI] Introductory Oceanography,01,01416,3,"TU,TH9.10-10.25",WEB ARR,J Rosso
 SOE,300,Natural Resource Ecology,01,"",3,ARRGT,ARR ARR,S Woodley
-SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,"",3,"TU,TH13.30-14.45",WEB ARR,D Busch
+SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,"",3,"TU,TH13.30-14.45",WEB ARR,""
 SOE,390,Living on the Edge: Global Climate Change and Earth History,01,02507,3,"TU,TH10.35-11.50",WEB ARR,J Pratt
 SOE,404,[CAPS] [M] The Ecosystem,01,02130,3,"M,W16.15-17.30",WEB ARR,A Felsot
 SOE,444,Environmental Assessment,01,01621,3,"TU,TH16.20-17.35",WEB ARR,R Swenson
@@ -825,12 +835,12 @@ SPANISH,351,[ARTS] Introduction to Latin American Literature,01,02533,3,"M,W,F9.
 SPEC_ED,301,Education of Exceptional Children,01,"",3,ARRGT,ARR ARR,L Bruno
 SPEC_ED,402,Assessment and Curriculum for Students with Disabilities,01,01445,3,TH17.15-20,WEB ARR,Y Hsiao
 SPEC_ED,403,Secondary Education for Students with Disabilities,01,"",3,ARRGT,ARR ARR,M Poppen
-SPEC_ED,420,Teaching in Inclusive Classrooms,01,01240,V,M17.15-20,WEB ARR,Y Hsiao
+SPEC_ED,420,Teaching in Inclusive Classrooms,01,01240,V,M17.45-20.30,WEB ARR,Y Hsiao
 SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,"",3,ARRGT,ARR ARR,M Dunn
 SPEC_ED,490,Practicum in Special Education,01,01239,V,ARRGT,ARR ARR,Y Hsiao
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,01446,3,TH17.15-20,WEB ARR,Y Hsiao
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,"",3,ARRGT,ARR ARR,M Poppen
-SPEC_ED,520,Teaching in Inclusive Classrooms,01,01241,V,M17.15-20,WEB ARR,Y Hsiao
+SPEC_ED,520,Teaching in Inclusive Classrooms,01,01241,V,M17.45-20.30,WEB ARR,Y Hsiao
 SPEC_ED,522,Topics in Special Education,01,15969,3,W17.10-20,WEB ARR,D Mcmahon
 SPEC_ED,590,Practicum in Special Education,01,01503,V,ARRGT,ARR ARR,Y Hsiao
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,02116,1,TH16.10-17,WEB ARR,H Whittenburg
@@ -843,6 +853,7 @@ STAT,212,[QUAN] Introduction to Statistical Methods,03 Lab,01955,0,ARRGT,ARR ARR
 STAT,212,[QUAN] Introduction to Statistical Methods,04 Lab,01692,0,M8.10-10,WEB ARR,""
 STAT,360,Probability and Statistics,01,01325,3,"M,W,F10.10-11",WEB ARR,R Learn
 STAT,412,Statistical Methods in Research I,01,"",3,ARRGT,ARR ARR,H Zhang
+STAT,419,Introduction to Multivariate Statistics,01,"",3,"TU,TH14.55-16.10",WEB ARR,M Shaffer
 STAT,423,Statistical Methods for Engineers and Scientists,01,"",3,"M,W,F12.10-13",WEB ARR,D Das
 STAT,511,Statistical Methods for Graduate Researchers,01,"",4,"TU,TH12.05-13.20",WEB ARR,C Kogan
 STAT,511,Statistical Methods for Graduate Researchers,01 Lab,02439,0,W15.10-17,WEB ARR,C Kogan

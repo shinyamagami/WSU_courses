@@ -4,9 +4,9 @@ ANTH,405,Medical Anthropology,01,"",3,ARRGT,ARR ARR,M Quinlan
 ANTH,418,Human Issues in International Development,01,"",3,ARRGT,ARR ARR,R Quinlan
 B_A,100,Introduction to Business,01,13975,3,ARRGT,ARR ARR,C Cooney
 BIOLOGY,301,General Genetics,01,"",4,ARRGT,ARR ARR,N Mccabe
-COMHLTH,573,Communicating Health in a Digital Landscape,01,14072,3,ARRGT,ARR ARR,""
+COMHLTH,573,Communicating Health in a Digital Landscape,01,"",3,ARRGT,ARR ARR,""
 CRM_J,555,Seminar in Criminological Theory,01,12976,3,TU14.10-17,WEB ARR,A Pedneault
-E_M,567,System Supportability and Logistics Management,01,14685,3,W17.15-19.45,"",W Gray
+CSSTE,537,Place-Based Education,01,16626,3,TH17.10-20,ARR ARR,S Johnson
 ED_AD,503,Values and Ethics for Educational Leaders,01,"",3,TU17.45-20.30,VC ARR,J Walls
 ED_AD,521,Topics in Education,01,"",V,ARRGT,ARR ARR,G Hill
 ED_AD,521,Topics in Education,02,"",3,ARRGT,ARR ARR,G Hill
@@ -30,8 +30,10 @@ ED_PSYCH,521,Topics in Educational Psychology,01,16106,3,M17.45-20.30,WEB ARR,R 
 ED_PSYCH,575,Multilevel Modeling,01,16213,3,TH13.10-16,WEB ARR,B French
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,14884,3,TU17.45-20.30,VC ARR,""
 ED_RES,563,Principles of Research,01,13437,3,TU17.45-20.30,VC ARR,R Danielson
+ED_RES,563,Principles of Research,02,13494,3,TU17.45-20.30,VC ARR,H Liao
 ED_RES,564,Qualitative Research,01,13531,3,TU17.45-20.30,AMS SPK,S Johnson
 ED_RES,564,Qualitative Research,02,"",3,M17.45-20.30,AMS SPK,S Finley
+FINE_ART,101,[ARTS] Introduction to Art,01,"",3,ARRGT,ARR ARR,""
 FS,510,Functional Foods and Health,01,"",3,ARRGT,ARR ARR,T Bernhard
 FS,531,Advanced Food Safety and Quality,01,13681,3,ARRGT,ARR ARR,T Bernhard
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01,"",4,ARRGT,ARR ARR,M Strey
@@ -47,6 +49,8 @@ HONORS,201,MESI Workshop Series,01,16405,1,ARRGT,ARR ARR,L Gerber
 HONORS,212,Active and Immersive Community Engagement,01,16402,1,ARRGT,ARR ARR,L Gerber
 HONORS,398,Honors Thesis Proposal Seminar,06,16175,1,ARRGT,ARR ARR,J Graves
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,""
+MBIOS,301,General Genetics,01,"",4,ARRGT,ARR ARR,N Mccabe
+MBIOS,503,Advanced Molecular Biology I,01,"",3,ARRGT,ARR ARR,C Her
 MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,14005,10,ARRGT,ARR ARR,J Bowman
 MED_CLIN,531,Sub Internship in Family Medicine,01,"",4,ARRGT,ARR ARR,J Haney
 MED_CLIN,532,Sub Internship in Internal Medicine,01,"",4,ARRGT,ARR ARR,L Sood
@@ -142,6 +146,7 @@ MED_ETH,540,"Seminar in Clinical Ethics: Methods, Process, Skills & Traits",01,1
 MED_ETH,540,"Seminar in Clinical Ethics: Methods, Process, Skills & Traits",02,"",3,ARRGT,ARR ARR,T May
 MED_FMS,503,Foundations of Medical Science III,01,13482,12,ARRGT,ARR ARR,K Beine
 MED_FMS,503,Foundations of Medical Science III,01 Lab,13483,0,ARRGT,ARR ARR,K Beine
+MED_FMS,509,Special Topics in Medicine,01,"",V,ARRGT,ARR ARR,J Bowen
 MED_FMS,513,Foundations of Medical Science VI,01,13432,11,ARRGT,ARR ARR,K Beine
 MED_FMS,513,Foundations of Medical Science VI,01 Lab,13433,0,ARRGT,ARR ARR,K Beine
 MED_LMH,503,"Physicians as Leaders, Scientists, and Advocates",01,13481,1,ARRGT,ARR ARR,""
@@ -221,7 +226,7 @@ NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,01,13470,V,"M
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,WEB ARR,""
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,02,13471,V,"M,F9.10-10",WEB ARR,G Wayman
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",W8.10-10,WEB ARR,""
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,03,13514,V,"M,F9.10-10",WEB ARR,J Peters
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,03,13514,V,"M,F9.10-10",WEB ARR,S Wayman
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",W8.10-10,WEB ARR,""
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,01,13469,V,"M,F9-10",WEB ARR,R Fuchs Lokensgard
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,WEB ARR,""
@@ -393,7 +398,7 @@ NURS,477,Health Care Ethics,02,13388,V,ARRGT,ARR ARR,S Edwards
 NURS,495,[CAPS] Advanced Practicum,01,13332,3,ARRGT,ARR ARR,S Edwards
 NURS,495,[CAPS] Advanced Practicum,02,13340,3,ARRGT,ARR ARR,S Edwards
 NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
-NURS,499,Special Problems,02,"",V,ARRGT,ARR ARR,A Fulton
+NURS,499,Special Problems,02,"",V,ARRGT,ARR ARR,(multiple)
 NURS,499,Special Problems,03,13331,V,ARRGT,ARR ARR,V Denson
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents",01,13359,3,W9.10-12,VC ARR,K Tietjen
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents","","","",W9.10-12,VC ARR,""

@@ -51,6 +51,7 @@ B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,10638,3,ARR
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,14730,3,ARRGT,ARR ARR,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",03,14731,3,ARRGT,ARR ARR,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",04,14732,3,ARRGT,ARR ARR,Y He
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",05,16614,3,ARRGT,ARR ARR,Y He
 B_A,500,Data Analysis for Managers,01,09993,2,ARRGT,ARR ARR,T Kokta
 B_A,500,Data Analysis for Managers,02,09994,2,ARRGT,ARR ARR,T Kokta
 B_A,500,Data Analysis for Managers,03,09995,2,ARRGT,ARR ARR,T Kokta
@@ -427,19 +428,17 @@ MATH,172,Calculus II,01,10529,4,ARRGT,ARR ARR,D Hill
 MATH,172,Calculus II,01 Lab,10532,0,ARRGT,ARR ARR,D Hill
 MATH,201,Mathematics for Business and Economics,01,09746,3,ARRGT,ARR ARR,D Zhang
 MATH,202,[QUAN] Calculus for Business and Economics,01,09747,3,ARRGT,ARR ARR,E Remaley
-MATH,216,Discrete Structures,01,10581,3,ARRGT,ARR ARR,J Dickson
 MATH,225,Linear Algebra with Modern Applications,01,14898,3,ARRGT,ARR ARR,J Mcdonald
 MBIOS,301,General Genetics,01,09754,4,ARRGT,ARR ARR,N Mccabe
 MBIOS,303,Introductory Biochemistry,01,09756,4,ARRGT,ARR ARR,R Brosemer
 MBIOS,305,General Microbiology,01,09757,3,ARRGT,ARR ARR,C Helmick
 MBIOS,320,[BSCI] DNA and Society,01,09758,3,ARRGT,ARR ARR,R Brosemer
 MBIOS,401,Cell Biology,01,09900,3,ARRGT,ARR ARR,E Shelden
-MBIOS,413,General Biochemistry,01,"",3,ARRGT,"",R Brosemer
+MBIOS,413,General Biochemistry,01,"",3,ARRGT,ARR ARR,R Brosemer
 MBIOS,501,Cell Biology,01,09901,3,ARRGT,ARR ARR,E Shelden
 MBIOS,503,Advanced Molecular Biology I,01,09759,3,ARRGT,ARR ARR,C Her
-MBIOS,513,General Biochemistry,01,10265,3,ARRGT,"",R Brosemer
+MBIOS,513,General Biochemistry,01,10265,3,ARRGT,ARR ARR,R Brosemer
 MBIOS,580,Science Information Literacy,01,09760,2,ARRGT,ARR ARR,B Galbraith
-MBIOS,583,Professional Skills Seminar,01,09761,1,ARRGT,ARR ARR,B Hubbard
 MBIOS,584,Medical Genetics,01,15171,3,ARRGT,ARR ARR,I Wallace
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,10410,V,ARRGT,ARR ARR,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,09762,V,ARRGT,ARR ARR,N Mccabe
@@ -598,7 +597,7 @@ SOC,361,[DIVR] Criminology,01,09721,3,ARRGT,ARR ARR,J Burke
 SOC,384,Sociology of Gender,01,09722,3,ARRGT,ARR ARR,E Allen
 SOC,418,Human Issues in International Development,01,09808,3,ARRGT,ARR ARR,R Quinlan
 SOC,493,Internship,01,"",V,ARRGT,ARR ARR,(multiple)
-SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,"",S Whitley
+SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,ARR ARR,S Whitley
 SOE,210,[PSCI] Earth's History and Evolution,01,09738,4,ARRGT,ARR ARR,J Boro
 SOE,210,[PSCI] Earth's History and Evolution,01 Lab,09739,0,ARRGT,ARR ARR,J Boro
 SOE,230,[PSCI] Introductory Oceanography,01,10433,3,ARRGT,ARR ARR,S Katz
@@ -623,7 +622,7 @@ SPEC_ED,402,Assessment and Curriculum for Students with Disabilities,01,09861,3,
 SPEC_ED,403,Secondary Education for Students with Disabilities,01,09863,3,ARRGT,ARR ARR,M Poppen
 SPEC_ED,440,Methods in Intensive Educational Supports,01,09865,3,ARRGT,ARR ARR,A Albagshi
 SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,09867,3,ARRGT,ARR ARR,M Dunn
-SPEC_ED,490,Practicum in Special Education,01,09868,V,ARRGT,ARR ARR,""
+SPEC_ED,490,Practicum in Special Education,01,"",V,ARRGT,ARR ARR,""
 SPEC_ED,499,Special Problems,02,09869,V,ARRGT,ARR ARR,""
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,09862,3,ARRGT,ARR ARR,A Albagshi
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,09864,3,ARRGT,ARR ARR,M Poppen
