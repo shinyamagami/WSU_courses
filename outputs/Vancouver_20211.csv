@@ -31,7 +31,7 @@ ASTRONOM,135,[PSCI] Astronomy,02 Lab,11634,0,W19.15-20.55,WEB ARR,""
 B_A,100,Introduction to Business,01,12281,3,"TU,TH16.20-17.35",WEB ARR,R Howell
 B_A,102,Exploring Careers in Business,01,12280,1,"W,F12.05-13.20",WEB ARR,R Worthy
 B_A,102,Exploring Careers in Business,02,12437,1,"W,F12.05-13.20",WEB ARR,R Worthy
-B_A,211,"Ethics, Teams, and Innovation",01,"",3,ARRGT,ARR ARR,J Saylors
+B_A,211,"Ethics, Teams, and Innovation",01,"",3,ARRGT,ARR ARR,N Yaws-Gonzalez
 B_A,211,"Ethics, Teams, and Innovation",02,14792,3,"M,W16.20-17.35",WEB ARR,B Warnick
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,14667,3,"TU,TH16.20-17.35",WEB ARR,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,"",3,ARRGT,ARR ARR,Y He
@@ -434,7 +434,7 @@ MBIOS,306,General Microbiology Laboratory,01,12065,2,"TU,TH13.30-16.10",WEB ARR,
 MBIOS,401,Cell Biology,02,12195,3,"TU,TH9.10-10.25",WEB ARR,C Cooper
 MBIOS,440,Immunology,01,12159,3,"TU,TH10.35-11.50",WEB ARR,G Gakhar
 MBIOS,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
-MBIOS,501,Cell Biology,01,12196,3,"TU,TH9.10-10.25",WEB ARR,E Shelden
+MBIOS,501,Cell Biology,01,12196,3,"TU,TH9.10-10.25",WEB ARR,C Cooper
 MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,12166,V,ARRGT,ARR ARR,C Cooper
 MECH,101,Introduction to Mechanical Engineering,01,12164,2,"M,W10.35-11.25",WEB ARR,D Kim
 MECH,212,Dynamics,01,12110,3,"TU,TH9.10-10.25",WEB ARR,H Rad
@@ -716,7 +716,7 @@ PSYCH,444,[M] Basic Clinical Skills,01,15278,3,W14.55-16.10,WEB ARR,K Schmaling
 PSYCH,468,Addictive Behavior Among Diverse Populations,01,12323,3,"W,F16.20-17.35",WEB ARR,A Blume
 PSYCH,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,R Magnan
 PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,(multiple)
-PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,R Magnan
+PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 PSYCH,510,Introduction to Online Instruction,01,12813,1,ARRGT,ARR ARR,L Daffin
 PSYCH,516,Applied Structural Equation Modeling with Current Software,01,11884,3,"TU,TH14.55-16.10",WEB ARR,G Burns
 PSYCH,550,Social Psychology,01,16070,3,W13.10-16,WEB ARR,E Canning
@@ -741,7 +741,7 @@ SOE,101,[PSCI] Introduction to Geology,03 Lab,11601,0,W14.55-17.35,WEB ARR,""
 SOE,105,[PSCI] Natural Resources and Natural Hazards,01,12325,3,"M,W12.05-13.20",WEB ARR,K Moffett
 SOE,250,[PSCI] Introduction to Earth System Science,01,11841,3,TH12.05-13.20,WEB ARR,P Williams
 SOE,280,[PSCI] How the Earth's Climate System Works,01,12343,3,"M,W9.10-10.25",WEB ARR,D Singh
-SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,12200,3,"TU,TH13.30-14.45",WEB ARR,J Harrison
+SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,12200,3,"TU,TH13.30-14.45",WEB ARR,M Steen-Adams
 SOE,315,Water and the Earth,01,11604,3,"M,W10.35-11.25",WEB ARR,K Moffett
 SOE,315,Water and the Earth,01 Lab,11605,0,F10.35-13.15,WEB ARR,""
 SOE,404,[CAPS] [M] The Ecosystem,01,11893,3,"M,W12.05-13.20",WEB ARR,M Kramer
@@ -799,6 +799,7 @@ STAT,556,Introduction to Statistical Theory,01,11932,3,"TU,TH9.10-10.25",WEB ARR
 STAT,574,Linear and Nonlinear Mixed Models,01,16150,3,"TU,TH13.30-14.45",WEB ARR,Y Wang
 STAT,590,Statistical Consulting Practicum,01,12955,V,ARRGT,ARR ARR,N Dasgupta
 STAT,591,Seminar in Statistics,01,12926,1,W16.10-17,WEB ARR,X Chen
+STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,16645,V,ARRGT,ARR ARR,L New
 STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,12773,V,ARRGT,ARR ARR,L New
 TCH_LRN,321,Early Literacy,01,12002,3,W17.15-20,WEB ARR,D Duncan
 TCH_LRN,352,Teaching Elementary Mathematics,01,11977,3,M8.10-11,WEB ARR,T Heikila

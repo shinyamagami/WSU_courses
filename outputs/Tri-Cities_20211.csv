@@ -92,7 +92,7 @@ CE,519,Hazardous Waste Treatment,01,"",3,"TU,TH12.05-13.20",WEB ARR,R Watts
 CE,542,Biochemical Wastewater Treatment,01,01399,3,"TU,TH9.10-10.25",WEB ARR,M Hossain
 CE,543,Advanced Topics in Environmental Engineering Practice,01,01733,V,"TU,TH10.35-11.50",WEB ARR,Y Demissie
 CE,564,Numerical Methods,01,"",3,"TU,TH12.05-13.20",WEB ARR,N Engdahl
-CE,580,Graduate Seminar,01,01359,1,F11.10-12,WEB ARR,(multiple)
+CE,580,Graduate Seminar,01,01359,1,F11.10-12,WEB ARR,Y Demissie
 CE,600,Special Projects or Independent Study,01,01470,V,ARRGT,ARR ARR,(multiple)
 CE,700,"Master's Research, Thesis and/or Examination",01,01362,V,ARRGT,ARR ARR,(multiple)
 CE,702,"Master's Special Problems, Directed Study, and/or Examination",01,01363,V,ARRGT,ARR ARR,(multiple)
@@ -124,6 +124,7 @@ CHEM,222,Quantitative Analysis Laboratory,01,15965,1,TU14.55-17.45,WEB ARR,J Les
 CHEM,345,Organic Chemistry I,01,"",4,"M,W,F13.10-14",WEB ARR,C Zhu
 CHEM,345,Organic Chemistry I,01 Lab,16194,0,TH13.30-16.20,WEB ARR,""
 CHEM,345,Organic Chemistry I,02 Lab,16270,0,TH13.30-16.20,WEB ARR,""
+CHEM,345,Organic Chemistry I,03 Lab,16642,0,TU13.30-16.20,WEB ARR,""
 CHEM,348,Organic Chemistry II and Problem Solving,01,01288,4,"TU,TH14.55-16.10",WEB ARR,N Devarie Baez
 CHEM,348,Organic Chemistry II and Problem Solving,02,15967,4,"M,W,F10.10-11",WEB ARR,G Crouch
 CHEM,348,Organic Chemistry II and Problem Solving,01 Lab,01289,0,W14.10-16,WEB ARR,N Devarie Baez
@@ -197,7 +198,9 @@ E_E,214,Design of Logic Circuits,01,"",4,"M,W,F8.10-9",WEB ARR,C Cole
 E_E,214,Design of Logic Circuits,01 Lab,16593,0,TH13.30-16.20,WEB ARR,C Cole
 E_E,221,Numerical Computing for Engineers,01,01365,2,"M,W15.10-16",WEB ARR,J Miller
 E_E,234,Microprocessor Systems,01,01366,4,"M,W16.15-17.30",WEB ARR,M Engels
+E_E,234,Microprocessor Systems,02,"",4,"M,W,F15.10-16",WEB ARR,C Cole
 E_E,234,Microprocessor Systems,01 Lab,01367,0,TU17.45-20.35,WEB ARR,M Engels
+E_E,234,Microprocessor Systems,02 Lab,16638,0,TH7.45-10.35,WEB ARR,C Cole
 E_E,261,Electrical Circuits I,01,01368,3,"M,W,F13.10-14",WEB ARR,D Lowry
 E_E,262,Electrical Circuits Laboratory I,01,01369,1,TH9.10-12,WEB ARR,M Osman
 E_E,262,Electrical Circuits Laboratory I,02,02252,1,TU12.05-14.55,WEB ARR,M Osman
@@ -347,7 +350,7 @@ HUMANITY,101,[HUM] Humanities in the Ancient World,03,15020,3,"TU,TH14.55-16.10"
 HUMANITY,335,The Bible as Literature,01,01321,3,"M,W,F13.10-14",WEB ARR,M Pieracci
 HUMANITY,450,Representations of the Holocaust,01,01576,3,"TU,TH12.05-13.20",WEB ARR,G Sperling
 I_BUS,380,International Business,01,02292,3,"TU,TH10.35-11.50",WEB ARR,J Bravo
-I_BUS,380,International Business,02,"",3,ARRGT,ARR ARR,""
+I_BUS,380,International Business,02,"",3,ARRGT,ARR ARR,M Downes
 I_BUS,380,International Business,03,15982,3,TU18-20.45,WEB ARR,T Larson
 I_BUS,482,[M] International Marketing,01,02293,3,"TU,TH16.20-17.35",WEB ARR,P Carlisle
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,B Clowers
@@ -413,8 +416,6 @@ ME,312,Manufacturing Engineering,01 Lab,15572,0,F9.10-12,WEB ARR,C Yang
 ME,312,Manufacturing Engineering,02 Lab,15574,0,TH9.10-12,WEB ARR,C Yang
 ME,312,Manufacturing Engineering,03 Lab,15575,0,W9.10-12,WEB ARR,C Yang
 ME,348,Dynamics Systems,01,01388,3,"TU,TH13.30-14.45",WEB ARR,J Iannelli
-ME,401,Mechatronics,02,"",3,"M,W9.10-10",WEB ARR,M Pitts
-ME,401,Mechatronics,02 Lab,16636,0,TH9.10-12,WEB ARR,M Pitts
 ME,406,[M] Experimental Design,01,01390,3,M13.10-14,WEB ARR,C Yang
 ME,406,[M] Experimental Design,01 Lab,01391,0,"M,W14.10-17",WEB ARR,C Yang
 ME,406,[M] Experimental Design,"","","","M,W14.10-17",TFLO 115,""
@@ -759,8 +760,10 @@ PHARMSCI,579,Principles of Pharmacology,01,"",3,"M,W13.10-14.25",WEB ARR,""
 PHIL,201,[QUAN] Introduction to Formal Logic,02,"",3,"M,W,F11.10-12",WEB ARR,L Hubbard-Mattix
 PHIL,365,[HUM] Biomedical Ethics,01,16209,3,"M,W,F10.10-11",WEB ARR,W Kabasenche
 PHYSICS,101,[PSCI] General Physics,01,"",4,"TU,TH9.10-10.25",WEB ARR,A Rasmussen
+PHYSICS,101,[PSCI] General Physics,02,"",4,"M,W,F13.30-14.20",WEB ARR,G Newman
 PHYSICS,101,[PSCI] General Physics,01 Lab,16253,0,TH15.10-18,WEB ARR,""
 PHYSICS,101,[PSCI] General Physics,02 Lab,16563,0,TU15.10-18,WEB ARR,""
+PHYSICS,101,[PSCI] General Physics,03 Lab,16644,0,TU13.30-16.10,WEB ARR,S Sivaramakrishnan
 PHYSICS,102,General Physics,01,01298,4,"M,W,F8.10-9",WEB ARR,C Capan
 PHYSICS,102,General Physics,01 Lab,01299,0,F14.10-17,WEB ARR,C Capan
 PHYSICS,102,General Physics,02 Lab,02145,0,TU14.30-17.20,WEB ARR,C Capan
@@ -807,7 +810,7 @@ SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,02127,4,"M,W
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,02128,0,F12.10-15,WEB ARR,E Bakker
 SOE,230,[PSCI] Introductory Oceanography,01,01416,3,"TU,TH9.10-10.25",WEB ARR,J Rosso
 SOE,300,Natural Resource Ecology,01,"",3,ARRGT,ARR ARR,S Woodley
-SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,"",3,"TU,TH13.30-14.45",WEB ARR,""
+SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,"",3,"TU,TH13.30-14.45",WEB ARR,M Steen-Adams
 SOE,390,Living on the Edge: Global Climate Change and Earth History,01,02507,3,"TU,TH10.35-11.50",WEB ARR,J Pratt
 SOE,404,[CAPS] [M] The Ecosystem,01,02130,3,"M,W16.15-17.30",WEB ARR,A Felsot
 SOE,444,Environmental Assessment,01,01621,3,"TU,TH16.20-17.35",WEB ARR,R Swenson

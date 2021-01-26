@@ -165,6 +165,7 @@ COMSTRAT,475,Strategic Communication Seminar in Public Relations,02,15348,3,ARRG
 COMSTRAT,476,Consumer Insights and Branding,01,10535,3,ARRGT,ARR ARR,M Kistler
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,10393,3,ARRGT,ARR ARR,Y Lee
 COMSTRAT,485,[M] Public Relations Management and Campaigns,02,10588,3,ARRGT,ARR ARR,M Ritsch
+COMSTRAT,485,[M] Public Relations Management and Campaigns,04,"",3,ARRGT,ARR ARR,P Borah
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,A Schweigert
 COMSTRAT,561,Persuasion for Professional Communicators,01,09904,3,ARRGT,ARR ARR,R Richardson
 COMSTRAT,562,Creative Media Strategies and Techniques,01,09963,3,ARRGT,ARR ARR,M Ritsch
@@ -213,28 +214,28 @@ E_E,451,Digital Communication Systems,01,10245,3,"M,W,F10.10-11","",B Belzer
 E_E,483,Topics in Electrical and Computer Engineering,01,14843,3,ARRGT,ARR ARR,R Olsen
 E_E,483,Topics in Electrical and Computer Engineering,03,16041,3,"TU,TH13.30-14.45","",M Kejariwal
 E_E,485,Electric Energy Distribution Systems,01,"",3,"TU,TH9.10-10.25","",A Dubey
-E_E,485,Electric Energy Distribution Systems,02,10576,3,"TU,TH9.10-10.25","",A Dubey
+E_E,485,Electric Energy Distribution Systems,02,10576,3,"TU,TH9.10-10.25",WEB ARR,A Dubey
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,(multiple)
 E_E,499,Special Problems,01,"",3,ARRGT,ARR ARR,M Kejariwal
 E_E,521,Analysis of Power Systems,01,09926,3,ARRGT,ARR ARR,A Bose
 E_E,522,High Voltage Engineering,01,14802,3,ARRGT,ARR ARR,P Pedrow
 E_E,701,Master's Independent Capstone Project and /or Examination,01,10134,V,ARRGT,ARR ARR,(multiple)
-E_M,401,Management of Organizations,01,"",3,TH17.15-19.45,"",K Bachman
+E_M,401,Management of Organizations,01,"",3,TH17.15-19.45,WEB ARR,K Bachman
 E_M,401,Management of Organizations,02,"",3,TH17.15-19.45,"",G Vanek
-E_M,426,Constraints Management,01,"",3,W17.15-19.45,"",L Scheinkopf
-E_M,480,Quality Control and Reliability,01,"",3,W18.15-20.45,"",D Paulus
+E_M,426,Constraints Management,01,"",3,W17.15-19.45,WEB ARR,L Scheinkopf
+E_M,480,Quality Control and Reliability,01,"",3,W18.15-20.45,WEB ARR,D Paulus
 E_M,490,Leading Design and Innovation,01,"",3,TU18.15-20.45,WEB ARR,D Paulus
-E_M,501,Management of Organizations,01,09854,3,TH17.15-19.45,"",K Bachman
+E_M,501,Management of Organizations,01,09854,3,TH17.15-19.45,WEB ARR,K Bachman
 E_M,501,Management of Organizations,02,10275,3,TH17.15-19.45,"",G Vanek
-E_M,505,Finance for Technical Systems,01,09856,3,M17.15-19.45,"",A Squires
-E_M,526,Constraints Management,01,09853,3,W17.15-19.45,"",L Scheinkopf
-E_M,540,Operations Research and Analytics for Managers,01,09857,3,TU18.15-20.45,"",L Magpili
-E_M,565,Introduction to Systems Management,01,10508,3,M17.15-19.45,"",W Gray
-E_M,567,System Supportability and Logistics Management,01,14668,3,W17.15-19.45,"",W Gray
-E_M,568,Risk Assessment and Management,01,10367,3,TH18.15-20.45,"",L Magpili
-E_M,580,Quality Control and Reliability,01,14659,3,W18.15-20.45,"",D Paulus
+E_M,505,Finance for Technical Systems,01,09856,3,M17.15-19.45,WEB ARR,A Squires
+E_M,526,Constraints Management,01,09853,3,W17.15-19.45,WEB ARR,L Scheinkopf
+E_M,540,Operations Research and Analytics for Managers,01,09857,3,TU18.15-20.45,WEB ARR,L Magpili
+E_M,565,Introduction to Systems Management,01,10508,3,M17.15-19.45,WEB ARR,W Gray
+E_M,567,System Supportability and Logistics Management,01,14668,3,W17.15-19.45,WEB ARR,W Gray
+E_M,568,Risk Assessment and Management,01,10367,3,TH18.15-20.45,WEB ARR,L Magpili
+E_M,580,Quality Control and Reliability,01,14659,3,W18.15-20.45,WEB ARR,D Paulus
 E_M,590,Leading Design and Innovation,01,10347,3,TU18.15-20.45,WEB ARR,D Paulus
-E_M,591,Strategic Management of Technology and Innovations in Engineering,01,09946,3,TU17.15-19.45,"",J Pricco
+E_M,591,Strategic Management of Technology and Innovations in Engineering,01,09946,3,TU17.15-19.45,WEB ARR,J Pricco
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10163,V,ARRGT,ARR ARR,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,09742,3,ARRGT,ARR ARR,A Salimgarieva
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,09743,3,ARRGT,ARR ARR,G Shakil
@@ -282,7 +283,6 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,14,10400,3,ARRGT,ARR A
 ENGLISH,405,Advanced Professional Writing and Editing,01,14961,3,ARRGT,ARR ARR,J Staggers
 ENGLISH,419,The Twentieth Century Novel,01,09788,3,ARRGT,ARR ARR,C Harty
 ENGLISH,461,[M] Theory and Practice in Technical and Professional Writing,01,14972,3,ARRGT,ARR ARR,J Phelps
-ENGLISH,495,Rhetoric of Science and Technology,01,16351,3,ARRGT,ARR ARR,J Staggers
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,""
 ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
 ENGR,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,(multiple)
@@ -623,7 +623,7 @@ SPEC_ED,403,Secondary Education for Students with Disabilities,01,09863,3,ARRGT,
 SPEC_ED,440,Methods in Intensive Educational Supports,01,09865,3,ARRGT,ARR ARR,A Albagshi
 SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,09867,3,ARRGT,ARR ARR,M Dunn
 SPEC_ED,490,Practicum in Special Education,01,"",V,ARRGT,ARR ARR,""
-SPEC_ED,499,Special Problems,02,09869,V,ARRGT,ARR ARR,""
+SPEC_ED,499,Special Problems,02,09869,V,ARRGT,ARR ARR,H Whittenburg
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,09862,3,ARRGT,ARR ARR,A Albagshi
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,09864,3,ARRGT,ARR ARR,M Poppen
 SPEC_ED,540,Methods in Intensive Educational Supports,01,09866,3,ARRGT,ARR ARR,A Albagshi
