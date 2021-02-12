@@ -11,7 +11,7 @@ ACCTG,439,[M] Auditing,01,11489,3,"TU,TH16.20-17.35",WEB ARR,C Latham
 ACCTG,498,Accounting Internship,01,"",V,ARRGT,ARR ARR,C Latham
 ANTH,101,[DIVR] Introduction to Anthropology,01,11761,3,ARRGT,ARR ARR,J Fancher
 ANTH,201,[HUM] Art and Society,01,14710,3,ARRGT,ARR ARR,K Dhawan
-ANTH,203,[DIVR] Global Cultural Diversity,01,11781,3,M10.35-11.50,WEB ARR,C Weber
+ANTH,203,[DIVR] Global Cultural Diversity,01,11781,3,M10.35-11.50,WEB ARR,C Wilkinson
 ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures",01,11870,3,ARRGT,ARR ARR,B Hewlett
 ANTH,230,Archaeological Methods and Interpretation,01,11706,3,"TU,TH10.35-11.50",WEB ARR,C Grier
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,11718,4,"TU,TH9.10-10.25",WEB ARR,E Hagen
@@ -19,7 +19,7 @@ ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,11719,0,TU14.55-1
 ANTH,260,[BSCI] Introduction to Biological Anthropology,02 Lab,11720,0,TH14.55-17.35,WEB ARR,""
 ANTH,302,[SSCI] Childhood and Culture,02,14708,3,ARRGT,ARR ARR,B Hewlett
 ANTH,304,[SSCI] Cross-Cultural Perspectives of Mental Health and Illness,01,11817,3,ARRGT,ARR ARR,B Hewlett
-ANTH,350,"[DIVR] Speech, Thought, and Culture",02,14912,3,ARRGT,ARR ARR,C Weber
+ANTH,350,"[DIVR] Speech, Thought, and Culture",02,14912,3,ARRGT,ARR ARR,C Wilkinson
 ANTH,381,[BSCI] Primate Behavioral Ecology,01,11864,3,ARRGT,ARR ARR,N Hess
 ANTH,490,[CAPS] [M] Integrative Themes in Anthropology,02,14709,3,"TU,TH13.30-14.45",WEB ARR,C Grier
 ANTH,562,Evolutionary Method and Theory in Anthropology and Archaeology,01,11826,3,W9.10-11.40,WEB ARR,E Hagen
@@ -57,7 +57,7 @@ BIOLOGY,372,[M] General Ecology,03 Lab,11803,0,TH14.55-17.35,WEB ARR,""
 BIOLOGY,372,[M] General Ecology,04 Lab,11804,0,F9.10-11.50,WEB ARR,""
 BIOLOGY,393,[M] Professional Communications in Biology,02,14718,2,"W,F13.30-14.20",WEB ARR,K Turner
 BIOLOGY,402,[M] Beneficial Microbes in Nature and Society,01,11879,3,"M,W9.10-10.25",WEB ARR,S Porter
-BIOLOGY,462,Community Ecology,01,14742,3,"TU,TH13.30-14.45","",J Piovia-Scott
+BIOLOGY,462,Community Ecology,01,14742,3,"TU,TH13.30-14.45",WEB ARR,J Piovia-Scott
 BIOLOGY,476,Epigenetics and Systems Biology,02,15326,3,"TU,TH10.35-11.50",WEB ARR,M Skinner
 BIOLOGY,485,[CAPS] Biology of the Oceans,01,11880,3,"TU,TH14.55-16.10",WEB ARR,G Rollwagen-Bollens
 BIOLOGY,489,[CAPS] [M] Synthesis and Communication of Independent Research,01,"",3,"M,W13.30-14.45",WEB ARR,E Crespi
@@ -69,7 +69,7 @@ BIOLOGY,501,Proposal Defense Seminar,01,12503,2,ARRGT,ARR ARR,""
 BIOLOGY,537,Plant Cell Biology,01,15524,3,"TU,TH10.35-11.50",WEB ARR,H Hellmann
 BIOLOGY,540,Stable Isotope Theory and Methods,01,15523,3,"TU,TH10.35-11.50",WEB ARR,R Evans
 BIOLOGY,561,Environmental Physiology,01,15302,3,"TU,TH9.10-10.25",WEB ARR,W Dowd
-BIOLOGY,562,Community Ecology,01,14743,3,"TU,TH13.30-14.45","",J Piovia-Scott
+BIOLOGY,562,Community Ecology,01,14743,3,"TU,TH13.30-14.45",WEB ARR,J Piovia-Scott
 BIOLOGY,572,Quantitative Methods and Statistics in Ecology,01,"",4,"TU,TH10.35-11.50",WEB ARR,J Brunner
 BIOLOGY,572,Quantitative Methods and Statistics in Ecology,01 Lab,"",0,ARRGT,ARR ARR,""
 BIOLOGY,576,Epigenetics and Systems Biology,02,15327,3,"TU,TH10.35-11.50",WEB ARR,M Skinner
@@ -182,6 +182,7 @@ DTC,492,Engines and Platforms,02,16372,3,TH17.45-20.30,WEB ARR,C Goglin
 DTC,497,[CAPS] Senior Seminar,01,"",3,W13.30-16.10,WEB ARR,R Grigar
 DTC,497,[CAPS] Senior Seminar,02,"",3,W13.30-16.10,WEB ARR,S Anderson
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
+DTC,499,Special Problems,02,"",V,TH17.45-20.30,WEB ARR,C Goglin
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
 ECE,234,Microprocessor Systems,01,12095,3,"W,F14.55-15.45",WEB ARR,J Lynch
@@ -229,7 +230,7 @@ ED_AD,590,Internship,"","","",W17.45-20.30,WEB ARR,""
 ED_AD,590,Internship,"","","",W17.45-20.30,WEB ARR,""
 ED_AD,590,Internship,02,11963,3,ARRGT,ARR ARR,G Hill
 ED_AD,600,Special Projects or Independent Study,01,11989,3,ARRGT,ARR ARR,G Hill
-ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,11964,4,ARRGT,ARR ARR,S Kruse
+ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,11964,V,ARRGT,ARR ARR,S Kruse
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,11965,V,ARRGT,ARR ARR,(multiple)
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,11988,1,W16.30-17.30,WEB ARR,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,11991,V,ARRGT,ARR ARR,(multiple)
@@ -271,7 +272,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,07,11908,3,ARRGT,ARR A
 ENGLISH,419,The Twentieth Century Novel,02,14885,3,"M,W13.30-14.45",WEB ARR,C Ratzlaff
 ENGLISH,461,[M] Theory and Practice in Technical and Professional Writing,01,14892,3,ARRGT,ARR ARR,J Phelps
 ENGLISH,495,Rhetoric of Science and Technology,01,"",3,"M,W,F12.10-13",WEB ARR,J Staggers
-ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,J Phelps
+ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,(multiple)
 ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,L Russo
 ENGLISH,499,Special Problems,02,11646,3,W17.45-20.30,WEB ARR,C Ratzlaff
 ENGLISH,800,"Doctoral Research, Dissertation, and/or Examination",01,11620,V,ARRGT,ARR ARR,(multiple)
@@ -290,8 +291,8 @@ FIN,346,Washington Real Estate Regulations,01,"",1,ARRGT,ARR ARR,F Benjamin
 FIN,350,Risk and Insurance,01,11500,3,W18-20.45,WEB ARR,M Mcnamara
 FIN,425,[M] Intermediate Financial Management,01,"",3,"TU,TH10.35-11.50",WEB ARR,Y He
 FIN,481,[M] International Finance,01,11462,3,TH12.05-13.20,WEB ARR,D Paul
-FINE_ART,102,[ARTS] 2D Art and Design,01,11858,3,"M,W10.35-13.15",WEB ARR,L Higgs
-FINE_ART,103,[ARTS] 3D Art and Design,01,11859,3,"M,W14.55-17.35",WEB ARR,L Higgs
+FINE_ART,102,[ARTS] 2D Art and Design,01,11858,3,"M,W10.35-13.15",WEB ARR,H Higgs
+FINE_ART,103,[ARTS] 3D Art and Design,01,11859,3,"M,W14.55-17.35",WEB ARR,H Higgs
 FINE_ART,110,[ARTS] Drawing,01,11860,3,"TU,TH13.30-16.10",WEB ARR,J Barron
 FINE_ART,110,[ARTS] Drawing,02,14721,3,"TU,TH9.10-11.40",WEB ARR,S Broussard
 FINE_ART,110,[ARTS] Drawing,03,16298,3,"TU,TH13.30-16.10",WEB ARR,E Dengerink
@@ -325,7 +326,7 @@ H_D,410,[M] Public Policy Issues in Human Development,01,12037,3,W12.05-13.20,WE
 H_D,430,[M] Professional and Grant Writing Skills,01,12154,3,"M,W9.10-10.25",WEB ARR,A Salazar
 H_D,446,Practicum in Early Childhood Programs,01,"",6,ARRGT,ARR ARR,L Krupke
 H_D,482,Child Assessment and Evaluation,01,"",3,ARRGT,ARR ARR,B Boyd
-H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,J Lanigan
+H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,(multiple)
 H_D,487,Special Topics in Human Development,01,"",V,ARRGT,ARR ARR,J Hewa
 H_D,487,Special Topics in Human Development,02,16190,3,TH12.05-13.20,WEB ARR,J Lanigan
 H_D,495,Instructional Practicum,01,"",V,ARRGT,ARR ARR,""
@@ -381,8 +382,8 @@ MATH,100,Basic Mathematics,01,11767,2,"M,W16.20-17.10",WEB ARR,K Debower
 MATH,103,Algebra Methods and Introduction to Functions,01,11622,3,"M,W9.10-10.25",WEB ARR,P Krouss
 MATH,103,Algebra Methods and Introduction to Functions,02,11775,3,"M,W10.35-11.50",WEB ARR,P Krouss
 MATH,103,Algebra Methods and Introduction to Functions,04,15014,3,"TU,TH9.10-10.25",WEB ARR,P Krouss
-MATH,106,College Algebra,01,11623,3,"M,W10.35-11.50",WEB ARR,J Valenciano
-MATH,106,College Algebra,02,11756,3,"M,W12.05-13.20",WEB ARR,J Valenciano
+MATH,106,College Algebra,01,11623,3,"M,W10.35-11.50",WEB ARR,J Valenciano Ibarra
+MATH,106,College Algebra,02,11756,3,"M,W12.05-13.20",WEB ARR,J Valenciano Ibarra
 MATH,106,College Algebra,03,"",3,ARRGT,ARR ARR,R Learn
 MATH,108,Trigonometry,01,11624,2,"TU,TH12.05-12.55",WEB ARR,F Mcgrade
 MATH,108,Trigonometry,02,11825,2,"TU,TH13.30-14.20",WEB ARR,F Mcgrade
@@ -457,7 +458,7 @@ MECH,538,Microfabrication Technology,01,14953,3,"TU,TH9.10-10.25",WEB ARR,J Kim
 MECH,579,Advanced Topics in Design and Manufacturing,01,12190,3,"M,W10.35-11.50",WEB ARR,S Kim
 MECH,700,"Master's Research, Thesis, and/or Examination",01,12124,V,ARRGT,ARR ARR,(multiple)
 MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,12537,10,ARRGT,ARR ARR,J Bowman
-MED_LMH,523,Value-based Care,01,12538,1,ARRGT,ARR ARR,J Haney
+MED_LMH,523,Value-based Care,01,12538,1,ARRGT,ARR ARR,L Francis
 MED_LMH,533,Personal Leadership Development III,01,14717,1,ARRGT,ARR ARR,J Haney
 MGMT,301,Principles of Management and Organization,02,11464,3,"M,W13.30-14.45",WEB ARR,R Saylors
 MGMT,401,Leading People and Organizations,01,11479,3,TH18-20.45,WEB ARR,T Tripp
@@ -480,13 +481,13 @@ MIL_SCI,499,Special Problems,04,12062,V,ARRGT,ARR ARR,""
 MIS,250,Managing Information Technology,01,11477,3,"TU,TH9.10-10.25",WEB ARR,A Smith
 MIS,250,Managing Information Technology,04,"",3,ARRGT,ARR ARR,G Rose
 MIS,322,[M] Enterprise Business Process Analysis,01,"",3,"M,W,F15.10-16",WEB ARR,V Compeau
-MIS,325,Enterprise Business Development,01,"",3,"M,W,F10.10-11","",M Featherman
+MIS,325,Enterprise Business Development,01,"",3,"M,W,F10.10-11",WEB ARR,M Featherman
 MIS,372,[M] Data Management,01,11495,3,"TU,TH12.05-13.20",WEB ARR,A Smith
 MIS,421,Business Intelligence Strategy,01,14720,3,"TU,TH10.35-11.50",WEB ARR,G Rose
 MIS,441,Global E-Commerce,01,11488,3,"TU,TH13.30-14.45",WEB ARR,A Smith
 MIS,448,Global IS Project Management,01,11496,3,"TU,TH9.10-10.25",WEB ARR,G Rose
 MIS,498,Management Information Systems Internship,01,"",V,ARRGT,ARR ARR,A Smith
-MIT,506,Integrating Technology into Classroom Teaching,01,12010,2,"M,F11.45-14",WEB ARR,D Day-Wiff
+MIT,506,Integrating Technology into Classroom Teaching,01,12010,2,"M,F14.15-16.15",WEB ARR,M Munn
 MIT,506,Integrating Technology into Classroom Teaching,02,12011,2,M15.30-16.45,WEB ARR,R Mattson
 MIT,510,Instruction for Secondary Teachers,01,12014,3,M17-19.45,WEB ARR,R Sawyer
 MIT,512,ESL Methods for General Educators (K-8),01,12009,2,"M,F8.30-10.45",WEB ARR,G Ernst-Slavit
@@ -823,7 +824,7 @@ UNIV,104,First-Year Success Seminar,01,"",2,F12.05-13.55,WEB ARR,C Morical
 UNIV,250,Success in College and Beyond,01,"",1,F12.05-13.20,WEB ARR,M Nakamoto
 UNIV,250,Success in College and Beyond,02,"",1,F12.05-13.20,WEB ARR,S Reyes
 UNIV,250,Success in College and Beyond,03,"",1,F12.05-13.20,WEB ARR,B Lim
-UNIV,250,Success in College and Beyond,04,"",1,F12.05-13.20,WEB ARR,J Rodriguez
+UNIV,250,Success in College and Beyond,04,"",1,F12.05-13.20,WEB ARR,J Cohen-Rodriguez
 UNIV,250,Success in College and Beyond,05,"",1,F12.05-13.20,WEB ARR,J Mercado
 UNIV,250,Success in College and Beyond,06,"",1,F12.05-13.20,WEB ARR,C Johnston
 UNIV,250,Success in College and Beyond,07,"",1,F12.05-13.20,WEB ARR,N Carrera

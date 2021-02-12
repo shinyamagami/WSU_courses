@@ -4,7 +4,8 @@ ANTH,405,Medical Anthropology,01,"",3,ARRGT,ARR ARR,M Quinlan
 ANTH,418,Human Issues in International Development,01,"",3,ARRGT,ARR ARR,R Quinlan
 B_A,100,Introduction to Business,01,13975,3,ARRGT,ARR ARR,C Cooney
 BIOLOGY,301,General Genetics,01,"",4,ARRGT,ARR ARR,N Mccabe
-COMHLTH,573,Communicating Health in a Digital Landscape,01,"",3,ARRGT,ARR ARR,""
+COMHLTH,573,Communicating Health in a Digital Landscape,01,"",3,ARRGT,ARR ARR,C Newman
+COMSOC,421,[CAPS] Intercultural Communication and Globalization,01,"",3,ARRGT,ARR ARR,R Richardson
 CRM_J,555,Seminar in Criminological Theory,01,12976,3,TU14.10-17,WEB ARR,A Pedneault
 CSSTE,537,Place-Based Education,01,16626,3,TH17.10-20,ARR ARR,S Johnson
 ED_AD,503,Values and Ethics for Educational Leaders,01,"",3,TU17.45-20.30,VC ARR,J Walls
@@ -33,13 +34,13 @@ ED_RES,563,Principles of Research,01,13437,3,TU17.45-20.30,VC ARR,R Danielson
 ED_RES,563,Principles of Research,02,13494,3,TU17.45-20.30,VC ARR,H Liao
 ED_RES,564,Qualitative Research,01,13531,3,TU17.45-20.30,AMS SPK,S Johnson
 ED_RES,564,Qualitative Research,02,"",3,M17.45-20.30,AMS SPK,S Finley
-FINE_ART,101,[ARTS] Introduction to Art,01,"",3,ARRGT,ARR ARR,""
+FINE_ART,101,[ARTS] Introduction to Art,01,"",3,ARRGT,ARR ARR,D Doty
 FS,510,Functional Foods and Health,01,"",3,ARRGT,ARR ARR,T Bernhard
 FS,531,Advanced Food Safety and Quality,01,13681,3,ARRGT,ARR ARR,T Bernhard
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01,"",4,ARRGT,ARR ARR,M Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02,"",4,ARRGT,ARR ARR,M Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,"",0,ARRGT,ARR ARR,M Strey
-H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,"",0,ARRGT,ARR ARR,""
+H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,"",0,ARRGT,ARR ARR,M Strey
 H_D,520,Adolescence,01,13505,3,M14.10-17,WEB ARR,J Duckworth
 H_D,550,Seminar on Family Relationships,01,13562,3,W14.10-17,WEB ARR,Y Sano
 H_D,580,"Families, Community and Public Policy",01,13960,3,TU15.10-18,WEB ARR,P Pendry
@@ -52,110 +53,23 @@ HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,""
 MBIOS,301,General Genetics,01,"",4,ARRGT,ARR ARR,N Mccabe
 MBIOS,503,Advanced Molecular Biology I,01,"",3,ARRGT,ARR ARR,C Her
 MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,14005,10,ARRGT,ARR ARR,J Bowman
-MED_CLIN,531,Sub Internship in Family Medicine,01,"",4,ARRGT,ARR ARR,J Haney
-MED_CLIN,532,Sub Internship in Internal Medicine,01,"",4,ARRGT,ARR ARR,L Sood
-MED_CLIN,534,Sub Internship in Pediatrics,01,"",4,ARRGT,ARR ARR,C Anderson
-MED_CLIN,535,Sub Internship in Psychiatry,01,"",4,ARRGT,ARR ARR,M Layton
-MED_CLIN,536,Sub Internship in Obstetrics and Gynecology,01,"",4,ARRGT,ARR ARR,H Andersen
-MED_CLIN,537,Emergency Medicine,01,"",4,ARRGT,ARR ARR,C Heine
-MED_CLIN,538,Rural Medicine,01,"",4,ARRGT,ARR ARR,J Haney
-MED_CLIN,539,Underserved Medicine,01,"",4,ARRGT,ARR ARR,J Haney
-MED_CLIN,541,Radiology,01,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,542,Dermatology,01,"",V,ARRGT,ARR ARR,C Heine
-MED_CLIN,543,Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,C Heine
-MED_CLIN,544,Clinical Rotation in Nephrology,01,"",4,ARRGT,ARR ARR,L Sood
-MED_CLIN,545,Critical Care Medicine,01,"",4,ARRGT,ARR ARR,L Sood
-MED_CLIN,546,Clinical Rotation in Vascular Surgery,01,"",4,ARRGT,ARR ARR,A Kumar
-MED_CLIN,547,Clinical Rotation in Cardiology,01,"",4,ARRGT,ARR ARR,L Sood
-MED_CLIN,548,Clinical Rotation in Orthopaedic Surgery,01,"",4,ARRGT,ARR ARR,A Kumar
 MED_CLIN,549,Clinical Rotation in Hematology and Oncology,01,"",4,ARRGT,ARR ARR,L Sood
-MED_CLIN,551,Pathology,01,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,552,Clinical Rotation in Gastroenterology,01,"",4,ARRGT,ARR ARR,L Sood
-MED_CLIN,553,Pediatric Subspecialties,01,"",V,ARRGT,ARR ARR,C Anderson
-MED_CLIN,553,Pediatric Subspecialties,02,"",V,ARRGT,ARR ARR,C Anderson
-MED_CLIN,553,Pediatric Subspecialties,03,"",V,ARRGT,ARR ARR,C Anderson
-MED_CLIN,560,Advanced Family Medicine,01,"",V,ARRGT,ARR ARR,J Haney
-MED_CLIN,561,Advanced Internal Medicine: Ambulatory,01,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,562,Advanced Obstetrics and Gynecology: Ambulatory,01,"",V,ARRGT,ARR ARR,H Andersen
-MED_CLIN,563,Advanced Pediatrics: Ambulatory,01,"",V,ARRGT,ARR ARR,C Anderson
-MED_CLIN,564,Psychiatry Subspecialties,01,"",V,ARRGT,ARR ARR,M Layton
-MED_CLIN,565,Advanced Surgery,01,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,566,Advanced Internal Medicine: Inpatient,01,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,567,Advanced Obstetrics and Gynecology,01,"",V,ARRGT,ARR ARR,H Andersen
-MED_CLIN,568,Pediatric Hospital Medicine,01,"",V,ARRGT,ARR ARR,C Anderson
-MED_CLIN,570,Away Rotation: North America,01,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,570,Away Rotation: North America,02,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,570,Away Rotation: North America,03,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,571,Away Rotation: International,01,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,571,Away Rotation: International,02,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,571,Away Rotation: International,03,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,572,Addiction Medicine,01,"",V,ARRGT,ARR ARR,M Layton
-MED_CLIN,572,Addiction Medicine,02,"",V,ARRGT,ARR ARR,M Layton
-MED_CLIN,572,Addiction Medicine,03,"",V,ARRGT,ARR ARR,M Layton
-MED_CLIN,573,Anesthesiology,01,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,573,Anesthesiology,02,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,573,Anesthesiology,03,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,574,Clinical Bioethics,01,"",V,ARRGT,ARR ARR,C Heine
-MED_CLIN,574,Clinical Bioethics,02,"",V,ARRGT,ARR ARR,C Heine
-MED_CLIN,574,Clinical Bioethics,03,"",V,ARRGT,ARR ARR,C Heine
-MED_CLIN,575,Geriatrics,01,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,575,Geriatrics,02,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,575,Geriatrics,03,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,576,Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,576,Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,576,Medicine Subspecialties,03,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,577,Subspecialty Surgery,01,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,577,Subspecialty Surgery,02,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,577,Subspecialty Surgery,03,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,578,Advanced General Surgery,01,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,578,Advanced General Surgery,02,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,578,Advanced General Surgery,03,"",V,ARRGT,ARR ARR,A Kumar
-MED_CLIN,579,Medical Informatics,01,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,579,Medical Informatics,02,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,579,Medical Informatics,03,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,580,Neurology,01,"",V,ARRGT,ARR ARR,M Layton
-MED_CLIN,580,Neurology,02,"",V,ARRGT,ARR ARR,M Layton
-MED_CLIN,580,Neurology,03,"",V,ARRGT,ARR ARR,M Layton
-MED_CLIN,581,Obstetrics and Gynecology Subspecialties,01,"",V,ARRGT,ARR ARR,H Andersen
-MED_CLIN,581,Obstetrics and Gynecology Subspecialties,02,"",V,ARRGT,ARR ARR,H Andersen
-MED_CLIN,581,Obstetrics and Gynecology Subspecialties,03,"",V,ARRGT,ARR ARR,H Andersen
-MED_CLIN,584,Ophthalmology,01,"",V,ARRGT,ARR ARR,C Heine
-MED_CLIN,584,Ophthalmology,02,"",V,ARRGT,ARR ARR,C Heine
-MED_CLIN,584,Ophthalmology,03,"",V,ARRGT,ARR ARR,C Heine
-MED_CLIN,585,Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,J Haney
-MED_CLIN,585,Hospice and Palliative Medicine,02,"",V,ARRGT,ARR ARR,J Haney
-MED_CLIN,585,Hospice and Palliative Medicine,03,"",V,ARRGT,ARR ARR,J Haney
-MED_CLIN,587,Public Health,01,"",V,ARRGT,ARR ARR,J Haney
-MED_CLIN,587,Public Health,02,"",V,ARRGT,ARR ARR,J Haney
-MED_CLIN,587,Public Health,03,"",V,ARRGT,ARR ARR,J Haney
-MED_CLIN,588,Radiation Oncology,01,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,588,Radiation Oncology,02,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,588,Radiation Oncology,03,"",V,ARRGT,ARR ARR,L Sood
-MED_CLIN,589,Transition to Residency,01,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,589,Transition to Residency,02,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,589,Transition to Residency,03,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,590,Medical Education,01,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,590,Medical Education,02,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,590,Medical Education,03,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,D Dewitt
-MED_CLIN,599,Special Projects,03,"",V,ARRGT,ARR ARR,D Dewitt
 MED_ETH,530,The Practice of Clinical Ethics,01,16062,3,ARRGT,ARR ARR,T May
 MED_ETH,530,The Practice of Clinical Ethics,02,"",3,ARRGT,ARR ARR,T May
 MED_ETH,540,"Seminar in Clinical Ethics: Methods, Process, Skills & Traits",01,16082,3,ARRGT,ARR ARR,T May
 MED_ETH,540,"Seminar in Clinical Ethics: Methods, Process, Skills & Traits",02,"",3,ARRGT,ARR ARR,T May
 MED_FMS,503,Foundations of Medical Science III,01,13482,12,ARRGT,ARR ARR,K Beine
 MED_FMS,503,Foundations of Medical Science III,01 Lab,13483,0,ARRGT,ARR ARR,K Beine
-MED_FMS,509,Special Topics in Medicine,01,"",V,ARRGT,ARR ARR,J Bowen
+MED_FMS,509,Special Topics in Medicine,01,"",V,TU17-20,"",S Kynast-Gales
 MED_FMS,513,Foundations of Medical Science VI,01,13432,11,ARRGT,ARR ARR,K Beine
 MED_FMS,513,Foundations of Medical Science VI,01 Lab,13433,0,ARRGT,ARR ARR,K Beine
-MED_LMH,503,"Physicians as Leaders, Scientists, and Advocates",01,13481,1,ARRGT,ARR ARR,""
-MED_LMH,513,Information Management in Healthcare: Clinical Information Systems,01,13434,1,ARRGT,ARR ARR,J Haney
-MED_LMH,523,Value-based Care,01,14006,1,ARRGT,ARR ARR,J Haney
+MED_LMH,503,"Physicians as Leaders, Scientists, and Advocates",01,13481,1,ARRGT,ARR ARR,C Fischer
+MED_LMH,513,Information Management in Healthcare: Clinical Information Systems,01,13434,1,ARRGT,ARR ARR,C Fischer
+MED_LMH,523,Value-based Care,01,14006,1,ARRGT,ARR ARR,L Francis
 MED_LMH,533,Personal Leadership Development III,01,14715,1,ARRGT,ARR ARR,J Haney
 MIT,505,Classroom Management Seminar,01,13480,3,M16.10-19,VC ARR,A Segadelli
 MIT,575,Internship and Seminar,01,13501,10,ARRGT,ARR ARR,A Segadelli
-MIT,575,Internship and Seminar,01 Lab,13506,0,ARRGT,ARR ARR,""
+MIT,575,Internship and Seminar,01 Lab,13506,0,ARRGT,ARR ARR,A Segadelli
 NEP,200,[SSCI] Place and Health,01,13983,3,"TU,TH16.15-17.30",ARR ARR,O Amram
 NEP,402,Vitamin and Mineral Metabolism,01,13108,3,"M,TU,W8.10-9",ARR ARR,J Larsen
 NEP,427,[M] Nutritional Assessment and Lifestyle Counseling,01,13110,3,TU9.10-11,ARR ARR,J Larsen
@@ -240,7 +154,7 @@ NEUROSCI,564,Topics in Biomedical Experimentation,09,13517,V,"TU,TH9.10-10.25",W
 NEUROSCI,564,Topics in Biomedical Experimentation,10,13520,V,"TU,TH15.30-16.45",WEB ARR,B Slinker
 NEUROSCI,590,Seminar,01,13519,1,F12.10-13.30,WEB ARR,S Wayman
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,13464,V,ARRGT,ARR ARR,(multiple)
-NURS,308,Professional Development I: Evidence Based Practice,01,13309,3,W10.30-13.30,VC ARR,J Dotson
+NURS,308,Professional Development I: Evidence Based Practice,01,13309,3,W10.30-13.30,VC ARR,""
 NURS,308,Professional Development I: Evidence Based Practice,02,13310,3,W10.30-13.30,VC ARR,J Dotson
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,13311,3,TH13.10-16,VC ARR,K Anders
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,02,13312,3,TH13.10-16,VC ARR,K Anders
@@ -710,6 +624,7 @@ NURS,593,Preliminary Examination Seminar,"","","",F11.10-12,ARR ARR,""
 NURS,593,Preliminary Examination Seminar,"","","",F11.10-12,ARR ARR,""
 NURS,593,Preliminary Examination Seminar,"","","",F11.10-12,ARR ARR,""
 NURS,597,Advanced Topics in Nursing,01,14097,V,ARRGT,ARR ARR,N Wood
+NURS,598,Advanced Topics in Nursing,01,13307,V,ARRGT,ARR ARR,G Oneal
 NURS,598,Advanced Topics in Nursing,04,13429,V,TH18.10-19,AMS ARR,L Kaplan
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
 NURS,598,Advanced Topics in Nursing,"","","",TH18.10-19,AMS ARR,""
@@ -820,6 +735,7 @@ PHARMACY,582,Ambulatory Care Advanced Practice Experience,50,13049,5,ARRGT,ARR A
 PHARMACY,583,Community Advanced Practice Experience,01,13000,5,ARRGT,ARR ARR,J White
 PHARMACY,583,Community Advanced Practice Experience,50,13050,5,ARRGT,ARR ARR,J White
 PHARMACY,584,Institutional Advanced Practice Experience,01,12996,5,ARRGT,ARR ARR,J White
+PHARMACY,584,Institutional Advanced Practice Experience,02,"",5,ARRGT,ARR ARR,J White
 PHARMACY,584,Institutional Advanced Practice Experience,50,13051,5,ARRGT,ARR ARR,J White
 PHARMACY,585,Elective I Advanced Practice Experience,01,12997,5,ARRGT,ARR ARR,J White
 PHARMACY,585,Elective I Advanced Practice Experience,50,13052,5,ARRGT,ARR ARR,J White
@@ -840,7 +756,7 @@ PHARMACY,596,Entrepreneurship in Pharmacy,01,12999,1,W13.10-15,WEB ARR,N Rodin
 PHARMACY,596,Entrepreneurship in Pharmacy,50,13028,1,W13.10-15,WEB ARR,D Brand
 PHARMACY,597,Advanced Diabetes Management,01,14090,2,TH15.10-17,WEB ARR,J Neumiller
 PHARMACY,597,Advanced Diabetes Management,50,16094,2,TH15.10-17,ARR ARR,J Neumiller
-PHARMACY,599,Special Projects,01,"",V,ARRGT,ARR ARR,L Maclean
+PHARMACY,599,Special Projects,01,"",V,ARRGT,ARR ARR,(multiple)
 PHARMACY,599,Special Projects,50,13030,V,ARRGT,ARR ARR,D Brand
 PHARMSCI,571,Computer-Aided Drug Design,01,"",3,"W,F9.10-10.25",ARR ARR,S Natesan
 PHARMSCI,571,Computer-Aided Drug Design,02 Lab,"",0,ARRGT,ARR ARR,""
@@ -880,9 +796,9 @@ SHS,556,Problems in Stuttering,01,13174,2,TU11.10-12.50,WEB ARR,D Jenson
 SHS,556,Problems in Stuttering,02,13175,2,M11.10-12.50,WEB ARR,D Jenson
 SHS,563,Dysphagia,01,13158,3,"M,W8-9.35",WEB ARR,N Potter
 SHS,563,Dysphagia,02,13159,3,"TU,TH8-9.35",WEB ARR,N Potter
-SHS,566,Off-Campus Practicum Public School Setting,01,13160,V,ARRGT,ARR ARR,K Rademaker Simpson
-SHS,568,Off-campus Practicum Clinical Setting,01,13161,V,ARRGT,ARR ARR,K Rademaker Simpson
-SHS,570,Advanced Internship in Speech-Language Pathology,01,13162,V,ARRGT,ARR ARR,K Rademaker Simpson
+SHS,566,Off-Campus Practicum Public School Setting,01,13160,V,ARRGT,ARR ARR,K Simpson
+SHS,568,Off-campus Practicum Clinical Setting,01,13161,V,ARRGT,ARR ARR,K Simpson
+SHS,570,Advanced Internship in Speech-Language Pathology,01,13162,V,ARRGT,ARR ARR,K Simpson
 SHS,575,Advanced Clinical Practice,01,13163,V,W11-12.30,WEB ARR,C Dechert
 SHS,575,Advanced Clinical Practice,02,16280,V,TH10.30-12,WEB ARR,C Dechert
 SHS,700,"Master's Research, Thesis, and/or Examination",01,13168,V,ARRGT,ARR ARR,(multiple)

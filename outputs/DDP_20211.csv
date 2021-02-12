@@ -15,7 +15,7 @@ ACCTG,550,Introduction to Financial and Managerial Accounting,02,10006,3,ARRGT,A
 ACCTG,550,Introduction to Financial and Managerial Accounting,03,10007,3,ARRGT,ARR ARR,B Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,04,10008,3,ARRGT,ARR ARR,B Wong-On-Wing
 AFS,302,[M] Introduction to Agroecology,01,09881,3,ARRGT,ARR ARR,K Murphy
-AGRI,700,"Master's Research, Thesis, and/or Examination",01,09878,V,ARRGT,ARR ARR,""
+AGRI,700,"Master's Research, Thesis, and/or Examination",01,09878,V,ARRGT,ARR ARR,M Keller
 AGRI,702,"Master's Special Problems, Directed Study, and/or Examination",01,09879,V,ARRGT,ARR ARR,(multiple)
 AIS,320,[DIVR] Native Peoples of North America,01,10537,3,ARRGT,ARR ARR,J Mcnassar
 AIS,327,[DIVR] Contemporary Native Peoples of the Americas,01,10538,3,ARRGT,ARR ARR,J Mcnassar
@@ -28,7 +28,7 @@ ANTH,316,[DIVR] Gender in Cross Cultural Perspective,01,09803,3,ARRGT,ARR ARR,C 
 ANTH,320,[DIVR] Native Peoples of North America,01,09941,3,ARRGT,ARR ARR,J Mcnassar
 ANTH,327,[DIVR] Contemporary Native Peoples of the Americas,01,10232,3,ARRGT,ARR ARR,J Mcnassar
 ANTH,336,Old World Civilizations,01,14775,3,ARRGT,ARR ARR,M Sugerman
-ANTH,350,"[DIVR] Speech, Thought, and Culture",01,14895,3,ARRGT,ARR ARR,C Weber
+ANTH,350,"[DIVR] Speech, Thought, and Culture",01,14895,3,ARRGT,ARR ARR,C Wilkinson
 ANTH,404,[CAPS] The Self in Culture,01,09805,3,ARRGT,ARR ARR,J Mageo
 ANTH,405,Medical Anthropology,01,10231,3,ARRGT,ARR ARR,M Quinlan
 ANTH,418,Human Issues in International Development,01,09806,3,ARRGT,ARR ARR,R Quinlan
@@ -78,7 +78,7 @@ B_A,514,Business Analytics: Transforming Data into Decisions,02,"",3,ARRGT,ARR A
 B_A,579,MBA Capstone,01,10021,2,ARRGT,ARR ARR,M Jordan
 B_A,579,MBA Capstone,02,10022,2,ARRGT,ARR ARR,M Jordan
 B_A,579,MBA Capstone,03,10023,2,ARRGT,ARR ARR,M Jordan
-B_A,579,MBA Capstone,11,10046,2,ARRGT,ARR ARR,""
+B_A,579,MBA Capstone,11,10046,2,ARRGT,ARR ARR,M Jordan
 B_A,579,MBA Capstone,12,10047,2,ARRGT,ARR ARR,M Jordan
 B_A,579,MBA Capstone,13,10049,2,ARRGT,ARR ARR,M Jordan
 B_A,579,MBA Capstone,21,"",3,ARRGT,ARR ARR,V Kolde
@@ -92,7 +92,6 @@ B_A,599,Strategic Planning for Personal and Program Success,05,10479,1,ARRGT,ARR
 B_A,599,Strategic Planning for Personal and Program Success,09,10483,1,ARRGT,ARR ARR,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,10,10484,1,ARRGT,ARR ARR,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,17,10491,1,ARRGT,ARR ARR,D Mundell
-B_A,599,Strategic Planning for Personal and Program Success,18,10492,1,ARRGT,ARR ARR,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,25,"",1,ARRGT,ARR ARR,R Liu
 B_A,599,Strategic Planning for Personal and Program Success,26,"",1,ARRGT,ARR ARR,R Liu
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",01,"",1,ARRGT,ARR ARR,R Moser
@@ -152,7 +151,7 @@ COM,563,Ethics for Professionals,01,09846,3,ARRGT,ARR ARR,E Hindman
 COM,563,Ethics for Professionals,02,15563,3,ARRGT,ARR ARR,B Irom
 COM,564,Research Methods for Professionals,01,09847,3,ARRGT,ARR ARR,P Borah
 COMHLTH,573,Communicating Health in a Digital Landscape,01,10536,3,ARRGT,ARR ARR,C Newman
-COMJOUR,333,[M] Reporting Across Platforms,01,10374,3,ARRGT,ARR ARR,L Paxson
+COMJOUR,333,[M] Reporting Across Platforms,01,10374,3,ARRGT,ARR ARR,L Cuen Paxson
 COMSOC,301,Foundations of Persuasion,01,10504,3,ARRGT,ARR ARR,M Kistler
 COMSOC,421,[CAPS] Intercultural Communication and Globalization,01,10505,3,ARRGT,ARR ARR,R Richardson
 COMSTRAT,310,Digital Content Promotion,01,10253,3,ARRGT,ARR ARR,M Galey
@@ -200,7 +199,7 @@ DTC,201,[ARTS] Tools and Methods for Digital Technology,02,15175,3,ARRGT,ARR ARR
 DTC,354,Digital Storytelling,01,15102,3,ARRGT,ARR ARR,L Westerfield
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
-E_E,234,Microprocessor Systems,01,10104,4,"M,W,F15.10-16","",C Cole
+E_E,234,Microprocessor Systems,01,10104,4,ARRGT,ARR ARR,C Cole
 E_E,234,Microprocessor Systems,01 Lab,10105,0,TU7.45-10.35,"",C Cole
 E_E,341,Signals and Systems,01,10106,3,"TU,TH12.30-13.45","",J Guerrero Sedeno
 E_E,352,[M] Electrical Engineering Laboratory I,01,15046,3,M8.10-9,"",M Kejariwal
@@ -214,7 +213,7 @@ E_E,451,Digital Communication Systems,01,10245,3,"M,W,F10.10-11","",B Belzer
 E_E,483,Topics in Electrical and Computer Engineering,01,14843,3,ARRGT,ARR ARR,R Olsen
 E_E,483,Topics in Electrical and Computer Engineering,03,16041,3,"TU,TH13.30-14.45","",M Kejariwal
 E_E,485,Electric Energy Distribution Systems,01,"",3,"TU,TH9.10-10.25","",A Dubey
-E_E,485,Electric Energy Distribution Systems,02,10576,3,"TU,TH9.10-10.25",WEB ARR,A Dubey
+E_E,485,Electric Energy Distribution Systems,02,10576,3,ARRGT,ARR ARR,A Dubey
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,(multiple)
 E_E,499,Special Problems,01,"",3,ARRGT,ARR ARR,M Kejariwal
 E_E,521,Analysis of Power Systems,01,09926,3,ARRGT,ARR ARR,A Bose
@@ -243,7 +242,7 @@ ECONS,302,Intermediate Macroeconomic Analysis,01,10239,3,ARRGT,ARR ARR,W King
 ECONS,305,Intermediate Microeconomics without Calculus,01,09949,3,ARRGT,ARR ARR,W Sugiarto
 ECONS,320,Money and Banking,01,09744,3,ARRGT,ARR ARR,N Nguyen
 ECONS,323,Labor Economics,01,10401,3,ARRGT,ARR ARR,K Garcia
-ECONS,327,International Trade and Finance,01,09907,3,ARRGT,ARR ARR,M Randriamaro
+ECONS,327,International Trade and Finance,01,09907,3,ARRGT,ARR ARR,T Randriamaro
 ECONS,351,Introduction to Food and Agricultural Markets,01,10240,3,ARRGT,ARR ARR,Y Zhang
 ECONS,426,Transportation Economics and Supply Chain Analysis,01,10493,3,ARRGT,ARR ARR,J Jeong
 ECONS,428,[DIVR] Global Capitalism Today: Perspectives and Issues,01,10494,3,ARRGT,ARR ARR,B Okhunjanov
@@ -255,7 +254,7 @@ ECONS,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 ED_PSYCH,505,Research Methods I,01,09839,3,ARRGT,ARR ARR,K Carbonneau
 ENGLISH,101,[WRTG] College Composition,01,09778,3,ARRGT,ARR ARR,E Coleman
 ENGLISH,101,[WRTG] College Composition,02,10378,3,ARRGT,ARR ARR,R Goodrich
-ENGLISH,102,Writing Tutorial,01,10383,1,ARRGT,ARR ARR,R Holland
+ENGLISH,102,Writing Tutorial,01,10383,1,ARRGT,ARR ARR,T Holland
 ENGLISH,201,[WRTG] Writing and Research,01,09751,3,ARRGT,ARR ARR,J Mccarthy
 ENGLISH,210,[HUM] Readings in American Literature,01,16422,3,ARRGT,ARR ARR,D Campbell
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,09779,3,ARRGT,ARR ARR,E Mcmenomy
@@ -306,8 +305,8 @@ FIN,521,Interest Rates and Financial Markets,05,14450,3,ARRGT,ARR ARR,J Kallberg
 FIN,521,Interest Rates and Financial Markets,06,14451,3,ARRGT,ARR ARR,J Kallberg
 FIN,521,Interest Rates and Financial Markets,07,14452,3,ARRGT,ARR ARR,J Kallberg
 FIN,521,Interest Rates and Financial Markets,08,14453,3,ARRGT,ARR ARR,J Kallberg
-FIN,521,Interest Rates and Financial Markets,09,14454,3,ARRGT,ARR ARR,""
-FIN,521,Interest Rates and Financial Markets,10,14455,3,ARRGT,ARR ARR,""
+FIN,521,Interest Rates and Financial Markets,09,14454,3,ARRGT,ARR ARR,J Kallberg
+FIN,521,Interest Rates and Financial Markets,10,14455,3,ARRGT,ARR ARR,J Kallberg
 FIN,526,Financial Management,01,"",3,ARRGT,ARR ARR,M Reyes
 FIN,526,Financial Management,02,"",3,ARRGT,ARR ARR,M Reyes
 FIN,526,Financial Management,03,"",3,ARRGT,ARR ARR,M Reyes
@@ -355,18 +354,17 @@ HBM,101,Professional and Career Development for the Business World,03,14735,1,AR
 HBM,101,Professional and Career Development for the Business World,04,16611,1,ARRGT,ARR ARR,A Alonzo
 HBM,280,Hospitality Systems,01,10296,3,ARRGT,ARR ARR,K Philander
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,09832,3,ARRGT,ARR ARR,K Philander
-HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,D Casoinic
-HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,D Casoinic
+HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,H Andlid
+HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,H Andlid
 HBM,383,Meeting and Convention Management,01,14737,3,ARRGT,ARR ARR,A Senter
 HBM,480,[M] Marketing Strategy and Development,01,"",3,ARRGT,ARR ARR,J Sandstrom
 HBM,491,Operational Analysis,01,"",3,ARRGT,ARR ARR,J Sandstrom
 HBM,491,Operational Analysis,02,"",3,ARRGT,ARR ARR,Z Ouyang
-HBM,494,[M] Service Operations Management,01,10297,3,ARRGT,ARR ARR,H Kim
+HBM,494,[M] Service Operations Management,01,10297,3,ARRGT,ARR ARR,J Kim
 HBM,495,[CAPS] Case Studies and Research,01,"",3,ARRGT,ARR ARR,O Larina
 HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,O Larina
 HBM,535,International Tourism Strategy and Planning,01,14441,3,ARRGT,ARR ARR,D Gursoy
-HBM,535,International Tourism Strategy and Planning,02,14442,3,ARRGT,ARR ARR,""
-HBM,535,International Tourism Strategy and Planning,03,14443,3,ARRGT,ARR ARR,""
+HBM,535,International Tourism Strategy and Planning,02,14442,3,ARRGT,ARR ARR,D Gursoy
 HISTORY,101,[HUM] Classical and Christian Europe,01,10514,3,ARRGT,ARR ARR,N Overtoom
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,09763,3,ARRGT,ARR ARR,E Smelyansky
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10522,3,ARRGT,ARR ARR,N Martin
@@ -398,7 +396,7 @@ I_BUS,380,International Business,04,"",3,ARRGT,ARR ARR,K Tajeddini
 I_BUS,380,International Business,05,"",3,ARRGT,ARR ARR,K Tajeddini
 I_BUS,453,[M] International Management,01,10375,3,ARRGT,ARR ARR,D Nelson
 I_BUS,453,[M] International Management,02,10379,3,ARRGT,ARR ARR,D Nelson
-I_BUS,470,International Trade and Finance,01,09908,3,ARRGT,ARR ARR,M Randriamaro
+I_BUS,470,International Trade and Finance,01,09908,3,ARRGT,ARR ARR,T Randriamaro
 I_BUS,482,[M] International Marketing,01,10312,3,ARRGT,ARR ARR,U Umesh
 I_BUS,482,[M] International Marketing,02,10313,3,ARRGT,ARR ARR,U Umesh
 I_BUS,580,International Business Management,01,"",3,ARRGT,ARR ARR,D Jha
@@ -415,8 +413,8 @@ I_BUS,582,International Marketing Management,05,14482,3,ARRGT,ARR ARR,J Joireman
 I_BUS,582,International Marketing Management,06,14483,3,ARRGT,ARR ARR,J Joireman
 I_BUS,582,International Marketing Management,07,14484,3,ARRGT,ARR ARR,J Joireman
 I_BUS,582,International Marketing Management,08,14485,3,ARRGT,ARR ARR,J Joireman
-I_BUS,582,International Marketing Management,09,14486,3,ARRGT,ARR ARR,""
-I_BUS,582,International Marketing Management,10,14487,3,ARRGT,ARR ARR,""
+I_BUS,582,International Marketing Management,09,14486,3,ARRGT,ARR ARR,J Joireman
+I_BUS,582,International Marketing Management,10,14487,3,ARRGT,ARR ARR,J Joireman
 I_BUS,582,International Marketing Management,11,14488,3,ARRGT,ARR ARR,""
 ISE,300,INTRN'L EXCH,01,"",V,ARRGT,ARR ARR,""
 MATH,103,Algebra Methods and Introduction to Functions,01,09745,3,ARRGT,ARR ARR,E Sablan
@@ -462,8 +460,8 @@ MGMT,301,Principles of Management and Organization,02,10131,3,ARRGT,ARR ARR,L Sh
 MGMT,301,Principles of Management and Organization,03,10140,3,ARRGT,ARR ARR,L Sheppard
 MGMT,301,Principles of Management and Organization,05,"",3,ARRGT,ARR ARR,K Tajeddini
 MGMT,450,Personnel and Human Resources Management,01,10376,3,ARRGT,ARR ARR,K Kuhn
-MGMT,450,Personnel and Human Resources Management,02,"",3,ARRGT,ARR ARR,T Konrad
-MGMT,450,Personnel and Human Resources Management,03,"",3,ARRGT,ARR ARR,T Konrad
+MGMT,450,Personnel and Human Resources Management,02,"",3,ARRGT,ARR ARR,E Gillard
+MGMT,450,Personnel and Human Resources Management,03,"",3,ARRGT,ARR ARR,E Gillard
 MGMT,450,Personnel and Human Resources Management,04,14752,3,ARRGT,ARR ARR,K Kuhn
 MGMT,455,Recruiting and Hiring Human Capital,01,10300,3,ARRGT,ARR ARR,W Larson
 MGMT,456,[M] Evaluating and Rewarding Employees,01,10315,3,ARRGT,ARR ARR,W Larson
@@ -477,7 +475,6 @@ MGMT,587,Professional Ethics and Practice in Business,01,"",3,ARRGT,ARR ARR,R Sa
 MGMT,587,Professional Ethics and Practice in Business,02,"",3,ARRGT,ARR ARR,R Sanchez
 MGMT,587,Professional Ethics and Practice in Business,03,"",3,ARRGT,ARR ARR,R Sanchez
 MGMT,587,Professional Ethics and Practice in Business,04,"",3,ARRGT,ARR ARR,R Pao
-MGMT,587,Professional Ethics and Practice in Business,05,"",3,ARRGT,ARR ARR,""
 MGTOP,215,Business Statistics,01,09895,4,ARRGT,ARR ARR,S Ahn
 MGTOP,215,Business Statistics,01 Lab,09896,0,ARRGT,ARR ARR,S Ahn
 MGTOP,340,Operations Management,01,10298,3,ARRGT,ARR ARR,T Almutairi
@@ -491,28 +488,28 @@ MIS,372,[M] Data Management,02,14356,3,ARRGT,ARR ARR,M Carter
 MIS,372,[M] Data Management,03,14740,3,ARRGT,ARR ARR,M Carter
 MIS,420,Business Intelligence,01,09831,3,ARRGT,ARR ARR,M Featherman
 MIS,420,Business Intelligence,02,10578,3,ARRGT,ARR ARR,M Featherman
-MIS,580,Information Systems Management,01,10447,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,02,10448,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,03,10449,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,04,10450,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,05,10451,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,06,10452,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,07,14596,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,08,14597,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,09,14598,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,10,14599,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,11,14600,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,12,14601,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,13,14602,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,14,14603,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,15,14604,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,16,14605,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,17,14606,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,18,14607,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,19,14608,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,20,14609,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,21,15973,3,ARRGT,ARR ARR,J Johnson
-MIS,580,Information Systems Management,22,15974,3,ARRGT,ARR ARR,J Johnson
+MIS,580,Information Systems Management,01,10447,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,02,10448,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,03,10449,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,04,10450,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,05,10451,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,06,10452,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,07,14596,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,08,14597,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,09,14598,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,10,14599,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,11,14600,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,12,14601,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,13,14602,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,14,14603,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,15,14604,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,16,14605,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,17,14606,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,18,14607,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,19,14608,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,20,14609,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,21,15973,3,ARRGT,ARR ARR,N Johnson
+MIS,580,Information Systems Management,22,15974,3,ARRGT,ARR ARR,N Johnson
 MKTG,360,Marketing,01,10317,3,ARRGT,ARR ARR,D Muehling
 MKTG,360,Marketing,02,10318,3,ARRGT,ARR ARR,D Muehling
 MKTG,360,Marketing,03,10319,3,ARRGT,ARR ARR,D Muehling
@@ -655,6 +652,6 @@ WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,01,09804,3,ARRGT,ARR AR
 WOMEN_ST,363,[DIVR] Women in Music,01,10096,3,ARRGT,ARR ARR,M Parkhurst
 WOMEN_ST,384,Sociology of Gender,01,09906,3,ARRGT,ARR ARR,E Allen
 WOMEN_ST,403,[CAPS] Violence Toward Women,01,10498,3,ARRGT,ARR ARR,A Kraft-Duley
-WRIT,302,Advanced Writing Collaborative,01,10380,1,ARRGT,ARR ARR,R Holland
+WRIT,302,Advanced Writing Collaborative,01,10380,1,ARRGT,ARR ARR,T Holland
 WRIT,302,Advanced Writing Collaborative,02,"",1,ARRGT,ARR ARR,D Casoinic
 WRIT,302,Advanced Writing Collaborative,03,"",1,ARRGT,ARR ARR,D Casoinic
