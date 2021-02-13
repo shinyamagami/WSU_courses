@@ -19,6 +19,7 @@ ANTH,355,[HUM] Historical Linguistics,01,02527,3,"M,W,F14.10-15",WEB ARR,M Mansp
 ANTH,395,Topics in Anthropology,01,02509,V,"M,W,F11.10-12",WEB ARR,M Mansperger
 ANTH,473,[CAPS] [M] Evolution and Society,01,01620,3,"M,W,F9.10-10",WEB ARR,K Bergstrom
 ANTH,498,Anthropology Internship,01,"",V,ARRGT,ARR ARR,M Mansperger
+ANTH,499,Special Problems,01,"",V,ARRGT,ARR ARR,M Mansperger
 B_A,100,Introduction to Business,01,02303,3,"TU,TH10.35-11.50",WEB ARR,P Skilton
 B_A,100,Introduction to Business,03,15892,3,"TU,TH16.20-17.35",WEB ARR,R Howell
 B_A,102,Exploring Careers in Business,01,02291,1,"M,W15.10-16",WEB ARR,R Keefer
@@ -443,6 +444,56 @@ MED_CLIN,549,Clinical Rotation in Hematology and Oncology,01,"",4,ARRGT,ARR ARR,
 MED_CLIN,550,Residency Preparation Clinical Cases,01,"",2,ARRGT,ARR ARR,D Dewitt
 MED_CLIN,551,Pathology,01,"",V,ARRGT,ARR ARR,L Sood
 MED_CLIN,552,Clinical Rotation in Gastroenterology,01,"",4,ARRGT,ARR ARR,L Sood
+MED_CLIN,553,Pediatric Subspecialties,01,"",V,ARRGT,ARR ARR,C Anderson
+MED_CLIN,553,Pediatric Subspecialties,02,"",V,ARRGT,ARR ARR,C Anderson
+MED_CLIN,553,Pediatric Subspecialties,03,"",V,ARRGT,ARR ARR,C Anderson
+MED_CLIN,554,Telemedicine: Principles of Practice,01,"",2,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,555,Telemedicine: Clinical Practice,01,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,556,Basic Medical Spanish,01,"",2,ARRGT,ARR ARR,F Williams
+MED_CLIN,560,Advanced Family Medicine,01,"",V,ARRGT,ARR ARR,J Haney
+MED_CLIN,562,Advanced Obstetrics and Gynecology: Ambulatory,01,"",V,ARRGT,ARR ARR,H Andersen
+MED_CLIN,563,Advanced Pediatrics: Ambulatory,01,"",V,ARRGT,ARR ARR,C Anderson
+MED_CLIN,564,Psychiatry Subspecialties,01,"",V,ARRGT,ARR ARR,M Layton
+MED_CLIN,565,Advanced Surgery,01,"",V,ARRGT,ARR ARR,A Kumar
+MED_CLIN,566,Advanced Internal Medicine: Inpatient,01,"",V,ARRGT,ARR ARR,L Sood
+MED_CLIN,567,Advanced Obstetrics and Gynecology,01,"",V,ARRGT,ARR ARR,H Andersen
+MED_CLIN,568,Pediatric Hospital Medicine,01,"",V,ARRGT,ARR ARR,C Anderson
+MED_CLIN,570,Away Rotation: North America,01,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,570,Away Rotation: North America,02,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,570,Away Rotation: North America,03,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,571,Away Rotation: International,01,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,572,Addiction Medicine,01,"",V,ARRGT,ARR ARR,M Layton
+MED_CLIN,573,Anesthesiology,01,"",V,ARRGT,ARR ARR,A Kumar
+MED_CLIN,574,Clinical Bioethics,01,"",V,ARRGT,ARR ARR,C Heine
+MED_CLIN,575,Geriatrics,01,"",V,ARRGT,ARR ARR,L Sood
+MED_CLIN,576,Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,L Sood
+MED_CLIN,576,Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,L Sood
+MED_CLIN,576,Medicine Subspecialties,03,"",V,ARRGT,ARR ARR,L Sood
+MED_CLIN,577,Subspecialty Surgery,01,"",V,ARRGT,ARR ARR,A Kumar
+MED_CLIN,577,Subspecialty Surgery,02,"",V,ARRGT,ARR ARR,A Kumar
+MED_CLIN,577,Subspecialty Surgery,03,"",V,ARRGT,ARR ARR,A Kumar
+MED_CLIN,578,Advanced General Surgery,01,"",V,ARRGT,ARR ARR,A Kumar
+MED_CLIN,579,Medical Informatics,01,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,580,Neurology,01,"",V,ARRGT,ARR ARR,M Layton
+MED_CLIN,581,Obstetrics and Gynecology Subspecialties,01,"",V,ARRGT,ARR ARR,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology Subspecialties,02,"",V,ARRGT,ARR ARR,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology Subspecialties,03,"",V,ARRGT,ARR ARR,H Andersen
+MED_CLIN,584,Ophthalmology,01,"",V,ARRGT,ARR ARR,C Heine
+MED_CLIN,585,Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,J Haney
+MED_CLIN,587,Public Health,01,"",V,ARRGT,ARR ARR,J Haney
+MED_CLIN,588,Radiation Oncology,01,"",V,ARRGT,ARR ARR,L Sood
+MED_CLIN,589,Transition to Residency,01,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,589,Transition to Residency,02,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,590,Medical Education,01,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,597,Virtual Clerkship,01,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,598,Research Experience in Medicine,01,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,599,Special Projects,03,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,599,Special Projects,04,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,599,Special Projects,05,"",V,ARRGT,ARR ARR,D Dewitt
+MED_CLIN,626,Advanced Psychiatry: Ambulatory,01,"",V,ARRGT,ARR ARR,M Layton
+MED_CLIN,627,Advanced Psychiatry: Inpatient,01,"",V,ARRGT,ARR ARR,M Layton
 MED_LMH,523,Value-based Care,01,02344,1,ARRGT,ARR ARR,L Francis
 MED_LMH,533,Personal Leadership Development III,01,14716,1,ARRGT,ARR ARR,J Haney
 MGMT,301,Principles of Management and Organization,02,"",3,ARRGT,ARR ARR,L Sheppard
