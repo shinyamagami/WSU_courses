@@ -44,6 +44,23 @@ module WSUInPerson
     end
 
 
+    #get a semester
+    # @campuses = ["P", "Spokane", "Tri-Cities", "Vancouver", "Everett", "DDP"]
+
+    # puts "For which campus do you want to get?\n
+    # 1.Pullman\n
+    # 2.Spokane\n
+    # 3.Tri-Cities\n
+    # 4.Vancouver\n
+    # 5.Everett\n
+    # 6.Global\n
+    # 7.All\n"
+
+
+
+
+
+
     def scrape_subject_urls
 
       @campuses.each do |campus|
