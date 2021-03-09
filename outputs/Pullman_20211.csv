@@ -895,6 +895,7 @@ CHEM,347,Organic Qualitative Analysis Laboratory,01,02634,3,"TU,TH9.10-10.25",WE
 CHEM,347,Organic Qualitative Analysis Laboratory,01 Lab,02635,0,"TU,TH10.35-13.15",FLMA 438,""
 CHEM,347,Organic Qualitative Analysis Laboratory,02 Lab,02636,0,"TU,TH10.35-13.15",FLMA 438,""
 CHEM,348,Organic Chemistry II and Problem Solving,01,02637,4,"M,W,F10.10-11",WEB ARR,G Crouch
+CHEM,348,Organic Chemistry II and Problem Solving,02,16122,4,"TU,TH14.55-16.10",WEB ARR,N Devarie Baez
 CHEM,348,Organic Chemistry II and Problem Solving,01 Lab,02638,0,W14.10-16,WEB ARR,""
 CHEM,348,Organic Chemistry II and Problem Solving,03 Lab,02639,0,TH14.55-16.45,WEB ARR,""
 CHEM,348,Organic Chemistry II and Problem Solving,04 Lab,02640,0,W16.10-18,WEB ARR,""
@@ -1183,7 +1184,7 @@ CPT_S,427,Computer Security,01,14370,3,"M,W,F12.10-13",WEB ARR,W Hutton
 CPT_S,430,Numerical Analysis,01,06523,3,"TU,TH13.30-14.45",WEB ARR,A Panchenko
 CPT_S,434,Neural Network Design and Application,01,14373,3,"M,W,F14.10-15",WEB ARR,Y Yan
 CPT_S,437,Introduction to Machine Learning,01,07633,3,"M,W,F10.10-11",WEB ARR,D Cook
-CPT_S,443,Human-Computer Interaction,01,05221,3,ARRGT,ARR ARR,""
+CPT_S,443,Human-Computer Interaction,01,05221,3,ARRGT,ARR ARR,C Hundhausen
 CPT_S,451,Introduction to Database Systems,01,"",3,ARRGT,ARR ARR,A Jillepalli
 CPT_S,451,Introduction to Database Systems,02,07631,3,"M,W,F13.10-14",WEB ARR,S Arslan Ay
 CPT_S,460,Operating Systems and Computer Architecture,01,05224,3,"TU,TH12.05-13.20",WEB ARR,K Wang
@@ -1200,7 +1201,7 @@ CPT_S,516,Algorithmics,01,05228,3,"TU,TH16.20-17.35",WEB ARR,Z Dang
 CPT_S,527,Computer Security,01,14380,3,"M,W,F12.10-13",WEB ARR,W Hutton
 CPT_S,530,Numerical Analysis,01,06524,3,"TU,TH13.30-14.45",WEB ARR,A Panchenko
 CPT_S,534,Neural Network Design and Application,01,14381,3,"M,W,F14.10-15",WEB ARR,Y Yan
-CPT_S,543,Human-Computer Interaction,01,05222,3,ARRGT,ARR ARR,""
+CPT_S,543,Human-Computer Interaction,01,05222,3,ARRGT,ARR ARR,C Hundhausen
 CPT_S,571,Computational Genomics,01,05226,3,"M,W,F11.10-12",WEB ARR,A Kalyanaraman
 CPT_S,580,Advanced Topics in Computer Science,04,06476,3,"TU,TH13.30-14.45",WEB ARR,A Sukumaran Rajam
 CPT_S,583,Software Quality,02,08911,3,"TU,TH12.05-13.20",WEB ARR,H Cai
@@ -2513,7 +2514,7 @@ KIN_ACTV,112,Beginning Weight Training,02,14512,1,"M,W10.10-11",WEB ARR,S Mahein
 KIN_ACTV,112,Beginning Weight Training,03,15255,1,ARRGT,ARR ARR,T Barbour
 KIN_ACTV,112,Beginning Weight Training,05,16108,1,"M,W13.10-14",WEB ARR,D Cruz
 KIN_ACTV,112,Beginning Weight Training,08,16112,1,"TU,TH11.10-12",WEB ARR,C Donahoo
-KIN_ACTV,115,Jogging,01,14543,1,"M,W14.10-15",WEB ARR,P Richards
+KIN_ACTV,115,Jogging,01,14543,1,"M,W14.10-15",WEB ARR,""
 KIN_ACTV,118,Yoga,01,14544,1,"TU,TH7.45-9",WEB ARR,S Pennestri
 KIN_ACTV,118,Yoga,02,14545,1,"TU,TH9.10-10.25",WEB ARR,S Pennestri
 KIN_ACTV,118,Yoga,03,14546,1,"TU,TH10.35-11.50",WEB ARR,S Pennestri
@@ -2716,6 +2717,7 @@ MATH,202,[QUAN] Calculus for Business and Economics,02,02860,3,"M,W,F13.10-14",W
 MATH,202,[QUAN] Calculus for Business and Economics,03,02861,3,"M,W,F14.10-15",WEB ARR,C Sakabe
 MATH,202,[QUAN] Calculus for Business and Economics,04,02862,3,"M,W,F9.10-10",WEB ARR,L Oliver
 MATH,202,[QUAN] Calculus for Business and Economics,06,02863,3,"M,W,F11.10-12",WEB ARR,J Shim
+MATH,202,[QUAN] Calculus for Business and Economics,07,02965,3,ARRGT,ARR ARR,E Remaley
 MATH,216,Discrete Structures,01,02914,3,"M,W,F13.10-14",WEB ARR,M Morgan
 MATH,216,Discrete Structures,02,02915,3,"M,W,F9.10-10",WEB ARR,M Morgan
 MATH,216,Discrete Structures,03,02922,3,"M,W,F14.10-15",WEB ARR,A Panchenko
@@ -2861,6 +2863,8 @@ MBIOS,454,[M] Biochemistry Laboratory,01,"",3,F13.10-14,WEB ARR,M Rolfsmeier
 MBIOS,454,[M] Biochemistry Laboratory,02 Lab,"",0,"TU,TH13.25-16.15",WEB ARR,M Rolfsmeier
 MBIOS,465,Principles of Biophysical Chemistry,01,05094,3,"TU,TH9.10-10.25",WEB ARR,A Goodman
 MBIOS,494,[CAPS] [M] Senior Project in Molecular Biosciences,01,05095,3,"M,W,F12.10-13",WEB ARR,""
+MBIOS,494,[CAPS] [M] Senior Project in Molecular Biosciences,02,"",3,"M,W,F12.10-13",WEB ARR,""
+MBIOS,494,[CAPS] [M] Senior Project in Molecular Biosciences,03,"",3,"M,W,F12.10-13",WEB ARR,""
 MBIOS,495,Internship Training,01,"",V,ARRGT,ARR ARR,""
 MBIOS,498,Directed Research,01,"",V,ARRGT,ARR ARR,(multiple)
 MBIOS,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
@@ -3391,6 +3395,7 @@ NEUROSCI,590,Seminar,01,04176,1,F12.10-13.30,WEB ARR,S Wayman
 NEUROSCI,600,Special Projects or Independent Study,01,04177,V,ARRGT,ARR ARR,(multiple)
 NEUROSCI,700,"Master's Research, Thesis, and/or Examination",01,04178,V,ARRGT,ARR ARR,(multiple)
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,04179,V,ARRGT,ARR ARR,(multiple)
+NSE,301,National Student Exchange,01,"",12,ARRGT,ARR ARR,A Bretthauer
 PHIL,101,[HUM] Introduction to Philosophy,02,03016,3,"TU,TH13.30-14.45",WEB ARR,R Vaughan
 PHIL,101,[HUM] Introduction to Philosophy,03,03029,3,ARRGT,ARR ARR,P Glazebrook
 PHIL,103,[HUM] Introduction to Ethics,01,02998,3,"TU,TH10.35-11.50",WEB ARR,M Stichter
@@ -3433,6 +3438,7 @@ PHYSICS,101,[PSCI] General Physics,11 Lab,03054,0,TH12.10-15,WEB ARR,""
 PHYSICS,101,[PSCI] General Physics,12 Lab,03140,0,W9.10-12,WEB ARR,""
 PHYSICS,101,[PSCI] General Physics,13 Lab,03141,0,W15.10-18,WEB ARR,""
 PHYSICS,102,General Physics,01,03055,4,"M,W,F15.10-16",WEB ARR,M Allen
+PHYSICS,102,General Physics,02,16403,4,"M,W,F8.10-9",WEB ARR,C Capan
 PHYSICS,102,General Physics,01 Lab,03056,0,TU9.10-12,WEB ARR,""
 PHYSICS,102,General Physics,02 Lab,03057,0,TU12.10-15,WEB ARR,""
 PHYSICS,102,General Physics,03 Lab,03058,0,TU15.10-18,WEB ARR,""
@@ -3441,6 +3447,7 @@ PHYSICS,102,General Physics,05 Lab,03060,0,W12.10-15,WEB ARR,""
 PHYSICS,102,General Physics,06 Lab,03061,0,TH12.10-15,WEB ARR,""
 PHYSICS,102,General Physics,07 Lab,03062,0,TH9.10-12,WEB ARR,""
 PHYSICS,102,General Physics,08 Lab,03063,0,TH15.10-18,WEB ARR,""
+PHYSICS,102,General Physics,13 Lab,16404,0,TU14.30-17.20,WEB ARR,C Capan
 PHYSICS,150,[PSCI] Physics and Your World,01,03125,3,"TU,TH11.10-13",WEBS 741,A Rasmussen
 PHYSICS,150,[PSCI] Physics and Your World,02,14772,3,"M,W12.10-14",WEBS 741,A Rasmussen
 PHYSICS,189,First-Year Seminar II,01,03152,1,TU16.20-17.10,WEB ARR,M Allen
@@ -3776,6 +3783,7 @@ SDC,350,[M] Global History of Design II,01,04883,3,"TU,TH12.05-13.20",WEB ARR,C 
 SDC,473,[M] Professional Practice,01,07981,3,"TU,TH9.10-10.25",WEB ARR,R Smith
 SDC,499,Special Problems,01,07821,V,ARRGT,ARR ARR,J Rice
 SHS,202,American Sign Language II,01,07699,4,"TU,TH11.10-12",WEB ARR,M Ratsch
+SHS,202,American Sign Language II,02,"",4,ARRGT,ARR ARR,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,05411,3,"TU,TH9.10-10.25",WEB ARR,E Johnson
 SOC,101,[SSCI] Introduction to Sociology,02,05412,3,"M,W12.10-13",WEB ARR,""
 SOC,101,[SSCI] Introduction to Sociology,"","","",W13.10-14,WEB ARR,""
@@ -4109,6 +4117,7 @@ SPMGT,702,"Master's Special Problems, Directed Study, and/or Examination",01,043
 STAT,212,[QUAN] Introduction to Statistical Methods,01,03431,4,"M,W,F10.10-11",WEB ARR,M Lesperance
 STAT,212,[QUAN] Introduction to Statistical Methods,02,03432,4,"TU,TH9.10-10.25",WEB ARR,M Lesperance
 STAT,212,[QUAN] Introduction to Statistical Methods,03,03477,4,"M,W,F11.10-12",WEB ARR,H Johnson
+STAT,212,[QUAN] Introduction to Statistical Methods,04,"",4,ARRGT,ARR ARR,M Lesperance
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,03433,0,M8.10-10,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,03473,0,F8.10-10,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,03 Lab,03434,0,M12.10-14,WEB ARR,""
@@ -4124,6 +4133,7 @@ STAT,212,[QUAN] Introduction to Statistical Methods,12 Lab,03443,0,TH12.10-14,WE
 STAT,212,[QUAN] Introduction to Statistical Methods,13 Lab,03470,0,W8.10-10,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,14 Lab,03471,0,W10.10-12,WEB ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,15 Lab,03444,0,F12.10-14,WEB ARR,""
+STAT,212,[QUAN] Introduction to Statistical Methods,25 Lab,"",0,ARRGT,ARR ARR,M Lesperance
 STAT,360,Probability and Statistics,01,03460,3,"M,W,F13.10-14",WEB ARR,X Wen
 STAT,360,Probability and Statistics,02,03461,3,"M,W,F14.10-15",WEB ARR,D Hull-Nye
 STAT,360,Probability and Statistics,04,16208,3,"TU,TH10.35-11.50",WEB ARR,H Li
@@ -4136,6 +4146,7 @@ STAT,419,Introduction to Multivariate Statistics,01,14330,3,"TU,TH14.55-16.10",W
 STAT,423,Statistical Methods for Engineers and Scientists,01,03448,3,"M,W,F12.10-13",WEB ARR,D Das
 STAT,423,Statistical Methods for Engineers and Scientists,02,03468,3,"TU,TH10.35-11.50",WEB ARR,Y Wang
 STAT,437,High Dimensional Data Learning and Visualization,01,03484,3,"M,W,F14.10-15",WEB ARR,A Kaul
+STAT,437,High Dimensional Data Learning and Visualization,02,"",3,ARRGT,ARR ARR,X Chen
 STAT,447,Introduction to Time Series Analysis,01,03485,3,"M,W,F11.10-12",WEB ARR,M Lesperance
 STAT,456,Introduction to Statistical Theory,01,03449,3,"TU,TH9.10-10.25",WEB ARR,V Jandhyala
 STAT,511,Statistical Methods for Graduate Researchers,01,03486,4,"TU,TH12.05-13.20",WEB ARR,C Kogan
@@ -4193,6 +4204,7 @@ TCH_LRN,401,Practicum in Bilingual/ESL Education,02,06503,3,TH16.10-19,WEB ARR,I
 TCH_LRN,401,Practicum in Bilingual/ESL Education,02 Lab,06504,0,ARRGT,ARR ARR,I Haller Gryc
 TCH_LRN,402,Instructional Practicum I,01,04534,V,M11.10-12,WEB ARR,L White
 TCH_LRN,405,Instructional Practicum II,01,04535,V,F11.10-12,WEB ARR,L White
+TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,02,06432,3,M16.10-19,WEB ARR,T Salsbury
 TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,03,06505,3,M16.10-19,WEB ARR,O Akasha
 TCH_LRN,413,Introduction to ESL for K-8 Teachers,01,"",3,"M,W10.30-12.20",WEB ARR,N Moua
 TCH_LRN,413,Introduction to ESL for K-8 Teachers,02,"",3,"M,W8.10-10",WEB ARR,T Salsbury
@@ -4251,11 +4263,11 @@ UNIV,111,Developing Academic Strategies for Listening and Discussion,01,"",4,"M,
 UNIV,111,Developing Academic Strategies for Listening and Discussion,02,"",4,"M,F8-8.50",WEB ARR,E Harmon
 UNIV,250,Success in College and Beyond,01,"",1,"M,W13.10-14",WEB ARR,R Thai
 UNIV,250,Success in College and Beyond,02,"",1,"M,W10.10-11",WEB ARR,K Reilly
+UNIV,250,Success in College and Beyond,03,"",1,"M,W12.10-13",WEB ARR,K Reilly
 UNIV,250,Success in College and Beyond,04,"",1,"TU,TH9.10-10",WEB ARR,K Guetlein
 UNIV,250,Success in College and Beyond,08,"",1,"TU,TH10.35-11.25",WEB ARR,K Guetlein
 UNIV,250,Success in College and Beyond,11,"",1,"M,W11.10-12",WEB ARR,K Reilly
 UNIV,250,Success in College and Beyond,15,"",1,"M,W12.10-13",WEB ARR,R Thai
-UNIV,250,Success in College and Beyond,16,"",1,"M,W14.10-15",WEB ARR,R Thai
 UNIV,295,Introduction to Models of Leadership,01,07176,2,TU12.10-13.25,WEB ARR,S Mckay
 UNIV,295,Introduction to Models of Leadership,"","","",TH12.10-13.25,ARR ARR,""
 UNIV,295,Introduction to Models of Leadership,02,"",2,"M,W15.10-16",WEB ARR,""
@@ -4490,6 +4502,7 @@ VET_MED,613,Small Animal Referral Medicine Elective,01,04416,V,ARRGT,ARR ARR,R S
 VET_MED,614,Small Animal Community Practice Elective,01,04417,V,ARRGT,ARR ARR,R Farnsworth
 VET_MED,615,Small Animal Medicine - Special Topics,01,04418,V,ARRGT,ARR ARR,T Alessio
 VET_MED,615,Small Animal Medicine - Special Topics,02,04419,V,ARRGT,ARR ARR,""
+VET_MED,615,Small Animal Medicine - Special Topics,04,04421,V,ARRGT,ARR ARR,""
 VET_MED,616,Exotic Animal Medicine,01,04422,V,ARRGT,ARR ARR,N Finch
 VET_MED,620,Clinical Oncology,01,04424,V,ARRGT,ARR ARR,J Fidel
 VET_MED,621,Clinical Cardiology,01,04425,V,ARRGT,ARR ARR,O Nelson
@@ -4534,6 +4547,7 @@ VET_MED,674,Small Animal Intensive Care,01,04454,V,ARRGT,ARR ARR,L Martin
 VET_MED,675,Emergency and Critical Care,01,04455,V,ARRGT,ARR ARR,N Huggons
 VET_MED,676,Veterinary Research Practicum,01,04456,V,ARRGT,ARR ARR,""
 VET_MED,690,Externship,01,04457,V,ARRGT,ARR ARR,""
+VET_MED,690,Externship,02,06638,V,ARRGT,ARR ARR,""
 VET_MED,691,Guided Preceptorship,01,04458,V,ARRGT,ARR ARR,""
 VET_MED,692,"Government, Corporate, and Zoological Practice Elective",01,04459,V,ARRGT,ARR ARR,W Dernell
 VET_MED,693,Laboratory Animal Medicine,01,04460,V,ARRGT,ARR ARR,B Iritani
