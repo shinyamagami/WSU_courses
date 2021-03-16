@@ -193,7 +193,7 @@ AMDT,702,"Master's Special Problems, Directed Study and/or Examination",04,"",V,
 AMDT,702,"Master's Special Problems, Directed Study and/or Examination",05,"",V,ARRGT,ARR ARR,J Son
 AMDT,702,"Master's Special Problems, Directed Study and/or Examination",06,"",V,ARRGT,ARR ARR,C Hwang
 AMER_ST,529,Cultural Politics of the Body,01,14458,3,TU14-17,WEB ARR,S Ginsburg
-AMER_ST,555,U.S. Interventions in Latin America,01,14459,3,W14-17,WEB ARR,V Navarro-Daniels
+AMER_ST,555,U.S. Interventions in Latin America,02,16706,3,W14-17,WEB ARR,C Lugo-Lugo
 AMER_ST,580,Immigration and Citizenship,01,14460,3,TH14-17,WEB ARR,R Ong
 AMER_ST,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,(multiple)
 AMER_ST,800,"Doctoral Research, Dissertation, and/or Examination",01,04811,V,ARRGT,ARR ARR,(multiple)
@@ -1986,7 +1986,7 @@ FINE_ART,101,[ARTS] Introduction to Art,02,04588,3,"TU,TH9.10-10.25",WEB ARR,H M
 FINE_ART,101,[ARTS] Introduction to Art,03,04589,3,"TU,TH10.35-11.50",WEB ARR,H Meredith
 FINE_ART,101,[ARTS] Introduction to Art,04,06536,3,"M,W9.10-10.25",WEB ARR,A Rocha
 FINE_ART,102,[ARTS] 2D Art and Design,01,08368,3,"TU,TH9.10-11.40",WEB ARR,D Janssen
-FINE_ART,102,[ARTS] 2D Art and Design,02,08369,3,"M,W,F13.15-15.55",WEB ARR,O Fields
+FINE_ART,102,[ARTS] 2D Art and Design,02,08369,3,"M,W13.15-15.55",WEB ARR,O Fields
 FINE_ART,102,[ARTS] 2D Art and Design,03,08370,3,"M,W,F10.10-11.50",WEB ARR,S Stinebaugh
 FINE_ART,102,[ARTS] 2D Art and Design,04,08371,3,"M,W,F15.10-16.50",WEB ARR,A Vu
 FINE_ART,103,[ARTS] 3D Art and Design,01,08374,3,"TU,TH9.10-11.40",WEB ARR,I Palmer
@@ -2048,7 +2048,6 @@ FINE_ART,581,Graduate Photography,01,"",3,ARRGT,ARR ARR,(multiple)
 FINE_ART,582,Graduate Photography,01,"",3,ARRGT,ARR ARR,(multiple)
 FINE_ART,598,Graduate Seminar,01,04618,2,M16-17.35,WEB ARR,J Hedges
 FINE_ART,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,(multiple)
-FOR_LANG,300,Studies in Foreign Languages,01,"",V,W17.10-18,WEB ARR,S Lopez-Lopez
 FOR_LANG,410,[CAPS] Advanced Topics in Global Cinema,01,06689,3,"TU,TH10.35-11.50",WEB ARR,V Navarro-Daniels
 FOR_LANG,440,Methods of Teaching Foreign Languages,01,14696,3,"TU,TH12.10-13.25",WEB ARR,M Hubert
 FOR_LANG,495,Cooperative Education Internship,01,"",V,ARRGT,ARR ARR,L Heustis
@@ -2160,7 +2159,7 @@ H_D,342,Curriculum for Early Childhood Programs,04 Lab,05136,0,"TU,TH8-10",CCC 1
 H_D,342,Curriculum for Early Childhood Programs,05 Lab,05137,0,"TU,TH10-12",CCC 150C,B Boyd
 H_D,342,Curriculum for Early Childhood Programs,06 Lab,05138,0,"TU,TH15.30-17.30",CCC 150C,B Boyd
 H_D,350,[DIVR] Family Diversity,01,06590,3,"TU,TH10.35-11.50",WEB ARR,R Cooper
-H_D,350,[DIVR] Family Diversity,02,"",3,ARRGT,ARR ARR,""
+H_D,350,[DIVR] Family Diversity,02,"",3,ARRGT,ARR ARR,S Lee
 H_D,385,Perspectives in Human Services,01,15241,3,ARRGT,ARR ARR,J Smith
 H_D,403,[CAPS] Families in Poverty,01,05143,3,"M,W,F13.10-14",WEB ARR,R Weaver
 H_D,403,[CAPS] Families in Poverty,03,14329,3,"TU,TH10.35-11.50",WEB ARR,D Handy
@@ -2503,9 +2502,7 @@ KIN_ACTV,106,Self Defense,01,14466,1,"M,W12.10-13",WEB ARR,S Mcfarland
 KIN_ACTV,106,Self Defense,02,14467,1,"TU,TH12.10-13",WEB ARR,S Mcfarland
 KIN_ACTV,107,Judo,01,14468,1,"M,W14.10-15",WEB ARR,M Molitor
 KIN_ACTV,109,Beginning Golf,01,14472,1,"M,W9.30-10.45",GOLF COUR,T Goetz
-KIN_ACTV,109,Beginning Golf,02,14474,1,"M,W11-12.15",GOLF COUR,T Goetz
 KIN_ACTV,109,Beginning Golf,03,14504,1,"M,W12.30-13.45",GOLF COUR,T Goetz
-KIN_ACTV,109,Beginning Golf,04,14505,1,"TU,TH9.30-10.45",GOLF COUR,D Clark
 KIN_ACTV,109,Beginning Golf,05,14506,1,"TU,TH11-12.15",GOLF COUR,D Clark
 KIN_ACTV,110,Intermediate Golf,01,14475,1,"TU,TH12.30-13.45",GOLF COUR,D Clark
 KIN_ACTV,111,Advanced Golf,01,14476,1,F10.10-13,GOLF COUR,T Goetz
@@ -3028,6 +3025,7 @@ MIS,250,Managing Information Technology,04,10601,3,"TU,TH16.20-17.35",WEB ARR,J 
 MIS,250,Managing Information Technology,05,10602,3,"M,W,F9.10-10",WEB ARR,V Compeau
 MIS,250,Managing Information Technology,06,10603,3,"M,W,F10.10-11",WEB ARR,V Compeau
 MIS,250,Managing Information Technology,07,10604,3,"M,W,F11.10-12",WEB ARR,V Compeau
+MIS,250,Managing Information Technology,14,"",3,ARRGT,ARR ARR,G Rose
 MIS,322,[M] Enterprise Business Process Analysis,01,06235,3,"M,W,F15.10-16",WEB ARR,V Compeau
 MIS,325,Enterprise Business Development,01,06929,3,"M,W,F10.10-11",WEB ARR,M Featherman
 MIS,325,Enterprise Business Development,02,06236,3,"M,W,F11.10-12",WEB ARR,M Featherman
@@ -3252,7 +3250,7 @@ MUS,438,[ARTS] Jazz-Lab Band,01,06175,1,"M,TU,W,TH12.10-13",WEB ARR,G Yasinitsky
 MUS,438,[ARTS] Jazz-Lab Band,02,06177,1,"M,W,F13.10-14",WEB ARR,M Harrington
 MUS,440,Jazz Combos,01,06179,1,ARRGT,ARR ARR,F Snider
 MUS,441,Accompanying,01,06181,1,"M,W,F13.10-14",WEB ARR,Y Roh
-MUS,444,Marching Band/Varsity Band,01,06183,1,TU17.15-19,WEB ARR,T Bennefield
+MUS,444,Marching Band/Varsity Band,01,06183,1,TU17.15-19,WEB ARR,S Miller
 MUS,444,Marching Band/Varsity Band,02,07946,1,"TU,TH17.10-19",WEB ARR,B Edwards
 MUS,452,Electronic Music Techniques,01,08342,2,"TU,TH13.10-14",WEB ARR,S Blasco
 MUS,456,Seminar in Advanced Composition,01,"",4,TU12.10-13,WEB ARR,S Blasco
@@ -3271,6 +3269,7 @@ MUS,496,Topics in Music,02,16414,V,TU17-17.50,WEB ARR,G Condon
 MUS,497,Directed Student Teaching in Music,01,"",V,ARRGT,ARR ARR,M King
 MUS,498,Piano Pedagogy Practicum,01,06191,2,ARRGT,ARR ARR,F Menchetti
 MUS,499,Special Problems,01,06192,V,ARRGT,ARR ARR,D Luethi
+MUS,499,Special Problems,05,"",V,ARRGT,ARR ARR,C Wilson
 MUS,499,Special Problems,06,"",V,ARRGT,ARR ARR,M King
 MUS,502,Piano,01,07798,V,TU11-11.50,ARR ARR,F Menchetti
 MUS,502,Piano,02,09223,V,TU11-11.50,ARR ARR,Y Roh
@@ -3310,7 +3309,7 @@ MUS,519,Secondary Performance Study,17,"",V,TU11-11.50,WEB ARR,D Turnbull
 MUS,519,Secondary Performance Study,18,"",V,TU11-11.50,WEB ARR,J Wieck
 MUS,519,Secondary Performance Study,20,"",V,TU11-11.50,WEB ARR,H Young
 MUS,520,Guitar,01,07616,V,TU11-11.50,WEB ARR,G Condon
-MUS,522,Graduate Recital,01,06210,2,ARRGT,ARR ARR,S Scott
+MUS,522,Graduate Recital,01,06210,2,ARRGT,ARR ARR,K Mccarthy
 MUS,528,[ARTS] Opera Workshop,01,08325,1,"M,W15.10-18",WEB ARR,J Wieck
 MUS,531,[ARTS] Concert Choir,01,06165,1,"M,TU,W,TH14.10-15",WEB ARR,D Luethi
 MUS,534,[ARTS] Symphony Orchestra,01,06169,1,"TU,TH15.10-17",KIMB B0048,D Pham
@@ -3377,14 +3376,14 @@ NEUROSCI,499,Special Problems,02,04803,V,ARRGT,ARR ARR,S Gizerian
 NEUROSCI,531,Neuroscience Laboratory Rotation,01,04804,1,ARRGT,ARR ARR,""
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,01,06659,V,"M,W10.10-11",WEB ARR,J Harding
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,WEB ARR,""
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,02,06843,V,"M,F9.10-10",WEB ARR,G Wayman
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",W8.10-10,WEB ARR,""
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,02,06843,V,"M,W10.10-11",WEB ARR,G Wayman
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,WEB ARR,""
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,03,08939,V,"M,F9.10-10",WEB ARR,S Wayman
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",W8.10-10,WEB ARR,""
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,01,06389,V,"M,F9-10",WEB ARR,R Fuchs Lokensgard
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,WEB ARR,""
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,02,08940,V,"M,W10.10-11",WEB ARR,R Mclaughlin
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",F10.10-12,WEB ARR,""
+NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,02,08940,V,"M,F9.10-10",WEB ARR,R Mclaughlin
+NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,WEB ARR,""
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,03,06844,V,"M,W10.10-11",WEB ARR,H Jansen
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",F10.10-12,WEB ARR,""
 NEUROSCI,564,Topics in Biomedical Experimentation,01,07570,V,"TU,TH13.30-14.45",WEB ARR,S Simasko
@@ -3827,6 +3826,7 @@ SOC,385,"[DIVR] Introduction to Lesbian, Gay, Bisexual, and Transgender Studies"
 SOC,418,Human Issues in International Development,01,06441,3,ARRGT,ARR ARR,R Quinlan
 SOC,430,Society and Technology,02,08918,3,"TU,TH10.35-11.50",WEB ARR,M Montanez
 SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,ARR ARR,S Whitley
+SOC,498,Research Assistantship,01,"",3,ARRGT,ARR ARR,(multiple)
 SOC,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 SOC,510,Development of Social Theory,01,14395,3,M14.10-17,WEB ARR,C Horne
 SOC,521,Regression Models,01,05433,3,"TU,TH13.30-14.45",WEB ARR,T Rotolo
@@ -4291,7 +4291,7 @@ UNIV,497,Peer Leadership,13,"",V,ARRGT,ARR ARR,A Klimko
 UNIV,497,Peer Leadership,16,07054,V,TH10.35-11.25,WEB ARR,A Klimko
 UNIV,497,Peer Leadership,17,"",V,ARRGT,ARR ARR,S Bischoff
 UNIV,497,Peer Leadership,18,"",V,ARRGT,ARR ARR,K Newlon
-UNIV,497,Peer Leadership,19,08755,V,TH9.10-10,WEB ARR,R Zecena
+UNIV,497,Peer Leadership,19,08755,V,TH9.10-10,WEB ARR,S Bischoff
 UNIV,497,Peer Leadership,20,09656,V,"M,W,F11.10-12",WEB ARR,J Dalton
 UNIV,497,Peer Leadership,21,"",V,ARRGT,ARR ARR,""
 UNIV,497,Peer Leadership,22,"",V,"M,W16.10-17.25",WEB ARR,C Ben-Yisrael
