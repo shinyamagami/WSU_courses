@@ -65,7 +65,8 @@ module WSUInPerson
 
       @campuses.each do |campus|
 
-        time = '20211'
+        time = '20212'
+        # time = '20211'
 
         doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/' +time))
 
