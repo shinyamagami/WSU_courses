@@ -52,7 +52,7 @@ AMDT,490,Cooperative Education Internship,01,02492,V,ARRGT,ARR ARR,S Hiscock
 ANIM_SCI,205,[BSCI] Companion Animal Nutrition,01,02882,3,ARRGT,ARR ARR,N Irlbeck
 ANIM_SCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,N Irlbeck
 ANTH,203,[DIVR] Global Cultural Diversity,01,02656,3,ARRGT,ARR ARR,M Quinlan
-ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,02886,3,ARRGT,ARR ARR,""
+ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,02886,3,ARRGT,ARR ARR,C Smith
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",02,07022,3,ARRGT,ARR ARR,M Gaffney
 ANTH,302,[SSCI] Childhood and Culture,01,02843,3,ARRGT,ARR ARR,C Heckelsmiller
 ANTH,320,[DIVR] Native Peoples of North America,01,02572,3,ARRGT,ARR ARR,J Mcnassar
@@ -66,6 +66,7 @@ B_A,102,Exploring Careers in Business,02,02958,1,ARRGT,ARR ARR,S Billington
 B_A,211,"Ethics, Teams, and Innovation",01,07299,3,ARRGT,ARR ARR,N Yaws-Gonzalez
 B_A,211,"Ethics, Teams, and Innovation",02,07566,3,ARRGT,ARR ARR,N Yaws-Gonzalez
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,07296,3,ARRGT,ARR ARR,Y He
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,07567,3,ARRGT,ARR ARR,Y He
 B_A,500,Data Analysis for Managers,01,06773,2,ARRGT,ARR ARR,T Kokta
 B_A,500,Data Analysis for Managers,02,06865,2,ARRGT,ARR ARR,T Kokta
 B_A,501,Foundations in Marketing,01,06879,2,ARRGT,ARR ARR,D Muehling
@@ -206,6 +207,7 @@ DTC,354,Digital Storytelling,01,07306,3,ARRGT,ARR ARR,L Westerfield
 DTC,355,[M] Multimedia Authoring,01,07304,3,ARRGT,ARR ARR,R Gregory
 DTC,375,"[M] Language, Texts and Technology",01,07305,3,ARRGT,ARR ARR,L Roper
 DTC,475,[DIVR] Digital Diversity,02,02822,3,ARRGT,ARR ARR,E Fournier
+E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
 E_M,401,Management of Organizations,01,"",3,"TU,W17.15-19.45","",A Squires
 E_M,438,Lean Tools for Systems Improvement,01,"",3,"M,W18.15-20.45","",D Paulus
 E_M,464,Project Management,01,"",3,"M,W17.15-19.45","",W Gray
@@ -335,20 +337,18 @@ I_BUS,380,International Business,04,02961,3,ARRGT,ARR ARR,M Cicek
 I_BUS,470,International Trade and Finance,01,02604,3,ARRGT,ARR ARR,""
 IPM,452,Pesticides and the Environment,01,"",3,ARRGT,ARR ARR,A Felsot
 IPM,552,Pesticides and the Environment,01,02665,3,ARRGT,ARR ARR,A Felsot
-MATH,103,Algebra Methods and Introduction to Functions,01,02535,3,ARRGT,ARR ARR,""
+MATH,103,Algebra Methods and Introduction to Functions,01,02535,3,ARRGT,ARR ARR,J Eld
 MATH,103,Algebra Methods and Introduction to Functions,02,02591,3,ARRGT,ARR ARR,E Sablan
-MATH,105,[QUAN] Exploring Mathematics,01,02536,3,ARRGT,ARR ARR,D Reiss
+MATH,105,[QUAN] Exploring Mathematics,01,02536,3,ARRGT,ARR ARR,S Lapin
 MATH,106,College Algebra,01,02921,3,ARRGT,ARR ARR,R Learn
-MATH,108,Trigonometry,01,02922,2,ARRGT,ARR ARR,S Selmi
-MATH,110,Mathematics Acceleration,01,07431,1,ARRGT,ARR ARR,""
-MATH,201,Mathematics for Business and Economics,01,02579,3,ARRGT,ARR ARR,""
-MATH,201,Mathematics for Business and Economics,02,02631,3,ARRGT,ARR ARR,""
+MATH,108,Trigonometry,01,02922,2,ARRGT,ARR ARR,""
+MATH,110,Mathematics Acceleration,01,07431,1,ARRGT,ARR ARR,E Pena
+MATH,201,Mathematics for Business and Economics,01,02579,3,ARRGT,ARR ARR,D Zhang
+MATH,201,Mathematics for Business and Economics,02,02631,3,ARRGT,ARR ARR,D Malone Buoy
 MATH,202,[QUAN] Calculus for Business and Economics,01,02537,3,ARRGT,ARR ARR,E Remaley
-MATH,202,[QUAN] Calculus for Business and Economics,02,02588,3,ARRGT,ARR ARR,A Tower
+MATH,202,[QUAN] Calculus for Business and Economics,02,02588,3,ARRGT,ARR ARR,M Gaddis
 MBIOS,101,[BSCI] Introductory Microbiology,01,07891,4,ARRGT,ARR ARR,C Helmick
-MBIOS,101,[BSCI] Introductory Microbiology,02,07892,4,ARRGT,ARR ARR,C Helmick
 MBIOS,101,[BSCI] Introductory Microbiology,01 Lab,07614,0,ARRGT,ARR ARR,C Helmick
-MBIOS,101,[BSCI] Introductory Microbiology,02 Lab,08466,0,ARRGT,ARR ARR,C Helmick
 MBIOS,301,General Genetics,01,06741,4,ARRGT,ARR ARR,N Mccabe
 MBIOS,303,Introductory Biochemistry,01,06742,4,ARRGT,ARR ARR,R Brosemer
 MBIOS,305,General Microbiology,01,07616,3,ARRGT,ARR ARR,M Rolfsmeier
@@ -361,6 +361,7 @@ MBIOS,583,Professional Skills Seminar,01,07627,1,ARRGT,ARR ARR,""
 MBIOS,584,Medical Genetics,01,07597,3,ARRGT,ARR ARR,I Wallace
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,02625,V,ARRGT,ARR ARR,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,02539,V,ARRGT,ARR ARR,(multiple)
+ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,S Brabb
 MGMT,301,Principles of Management and Organization,01,02711,3,ARRGT,ARR ARR,T Loi
 MGMT,301,Principles of Management and Organization,02,02721,3,ARRGT,ARR ARR,T Loi
 MGMT,450,Personnel and Human Resources Management,01,02744,3,ARRGT,ARR ARR,R He
@@ -525,11 +526,11 @@ SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,02705,3,ARRGT
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,02706,3,ARRGT,ARR ARR,""
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,""
 SPEC_ED,800,"Doctoral Research, Dissertation, and/or Examination",01,02556,V,ARRGT,ARR ARR,(multiple)
-STAT,212,[QUAN] Introduction to Statistical Methods,01,02580,4,ARRGT,ARR ARR,""
-STAT,212,[QUAN] Introduction to Statistical Methods,02,02589,4,ARRGT,ARR ARR,""
-STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,02581,0,ARRGT,ARR ARR,""
-STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,02590,0,ARRGT,ARR ARR,M Hasan
-STAT,360,Probability and Statistics,01,02688,3,ARRGT,ARR ARR,""
+STAT,212,[QUAN] Introduction to Statistical Methods,01,02580,4,ARRGT,ARR ARR,M Lesperance
+STAT,212,[QUAN] Introduction to Statistical Methods,02,02589,4,ARRGT,ARR ARR,A Fisher
+STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,02581,0,ARRGT,ARR ARR,M Lesperance
+STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,02590,0,ARRGT,ARR ARR,A Fisher
+STAT,360,Probability and Statistics,01,02688,3,ARRGT,ARR ARR,O Dykhovychnyi
 STAT,370,Introductory Statistics for Engineers,01,08399,3,ARRGT,ARR ARR,""
 STAT,412,Statistical Methods in Research I,01,02687,3,ARRGT,ARR ARR,""
 STAT,419,Introduction to Multivariate Statistics,01,08486,3,ARRGT,ARR ARR,""

@@ -18,7 +18,7 @@ AIS,320,[DIVR] Native Peoples of North America,01,11104,3,ARRGT,ARR ARR,J Mcnass
 AIS,331,[SSCI] Archaeology of the Americas,01,11105,3,ARRGT,ARR ARR,J Mcnassar
 AIS,331,[SSCI] Archaeology of the Americas,02,12373,3,ARRGT,ARR ARR,J Mcnassar
 AIS,401,Tribal Nation Building Leadership - Research I,01,"",2,ARRGT,ARR ARR,K Lokensgard
-ANTH,203,[DIVR] Global Cultural Diversity,01,10951,3,ARRGT,ARR ARR,M Quinlan
+ANTH,203,[DIVR] Global Cultural Diversity,01,10951,3,ARRGT,ARR ARR,""
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,17502,4,ARRGT,ARR ARR,V Black
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,17503,0,ARRGT,ARR ARR,V Black
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,10249,3,ARRGT,ARR ARR,""
@@ -46,6 +46,8 @@ B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,11032,3,ARR
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,11143,3,ARRGT,ARR ARR,""
 B_A,500,Data Analysis for Managers,01,10535,2,ARRGT,ARR ARR,T Kokta
 B_A,500,Data Analysis for Managers,07,17220,2,ARRGT,ARR ARR,T Kokta
+B_A,502,Foundations in Operations Management,01,10541,2,ARRGT,ARR ARR,J Hu
+B_A,502,Foundations in Operations Management,02,10542,2,ARRGT,ARR ARR,J Hu
 B_A,503,Foundations in Business Law,01,10546,2,ARRGT,ARR ARR,S Bergstedt
 B_A,503,Foundations in Business Law,02,10547,2,ARRGT,ARR ARR,""
 B_A,503,Foundations in Business Law,03,10548,2,ARRGT,ARR ARR,S Bergstedt
@@ -86,7 +88,10 @@ BIOLOGY,102,[BSCI] General Biology,01 Lab,10275,0,ARRGT,ARR ARR,L Cook
 BIOLOGY,105,General Biology Laboratory,01,10276,1,ARRGT,ARR ARR,L Cook
 BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,10277,3,ARRGT,ARR ARR,L Cook
 BIOLOGY,301,General Genetics,01,10223,4,ARRGT,ARR ARR,N Mccabe
+BIOLOGY,354,Human Anatomy for Health Occupations,01,17706,4,ARRGT,ARR ARR,K Biggs
+BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,17711,0,ARRGT,ARR ARR,K Biggs
 BIOLOGY,393,[M] Professional Communications in Biology,01,10453,2,ARRGT,ARR ARR,N Ankrah
+BIOLOGY,401,[CAPS] Plants and People,01,11115,3,ARRGT,ARR ARR,D Thomas
 CAS,400,End-of-Program Evaluation Portfolio,01,10326,1,ARRGT,ARR ARR,A Rocha
 CAS,497,Internship,01,"",V,ARRGT,ARR ARR,(multiple)
 CES,271,[HUM] Native Music of North America,01,10460,3,ARRGT,ARR ARR,M Parkhurst
@@ -173,25 +178,29 @@ E_E,464,Digital Signal Processing I,01,"",3,"TU,TH12.05-13.20",WEB ARR,M Torabi 
 E_E,489,Introduction to Control Systems,01,"",3,"M,W,F9.10-10",WEB ARR,A Saberi
 E_E,491,Performance of Power Systems,01,10956,3,"TU,TH9.10-10.25",WEB ARR,M Venkatasubramanian
 E_E,492,Renewable Energy Sources,01,"",3,"M,W,F14.10-15","",J Guerrero Sedeno
+E_E,492,Renewable Energy Sources,03,17719,3,ARRGT,ARR ARR,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,01 Lab,"",0,ARRGT,ARR ARR,J Guerrero Sedeno
+E_E,492,Renewable Energy Sources,03 Lab,17734,0,ARRGT,ARR ARR,J Guerrero Sedeno
+E_E,526,High Voltage Overhead Transmission Lines,01,"",3,ARRGT,ARR ARR,R Olsen
+E_E,536,Power Systems Economics and Electricity Markets,01,10676,3,ARRGT,ARR ARR,A Srivastava
 E_E,701,Master's Independent Capstone Project and /or Examination,01,10726,V,ARRGT,ARR ARR,(multiple)
 E_M,422,Leading People and Organizations,01,"",3,TU17.15-19.45,WEB ARR,K Bachman
 E_M,422,Leading People and Organizations,02,"",3,W17.15-19.45,WEB ARR,K Bachman
-E_M,430,Applications of Constraints Management,01,"",3,TH17.15-19.45,"",L Magpili
-E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,"",""
-E_M,464,Project Management,01,"",3,M17.15-19.45,"",W Gray
+E_M,430,Applications of Constraints Management,01,"",3,TH17.15-19.45,WEB ARR,L Magpili
+E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,""
+E_M,464,Project Management,01,"",3,M17.15-19.45,WEB ARR,W Gray
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",D Paulus
-E_M,485,Design of Experiments,01,"",3,M18.15-20.45,"",D Paulus
-E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,"",R Crick
+E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,D Paulus
+E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,WEB ARR,R Crick
 E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,WEB ARR,K Bachman
 E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,WEB ARR,K Bachman
-E_M,530,Applications of Constraints Management,01,10412,3,TH17.15-19.45,"",L Magpili
-E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,"",""
-E_M,564,Project Management,01,10282,3,M17.15-19.45,"",W Gray
-E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,"",A Squires
+E_M,530,Applications of Constraints Management,01,10412,3,TH17.15-19.45,WEB ARR,L Magpili
+E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,""
+E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,W Gray
+E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,WEB ARR,A Squires
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,11112,3,W18.15-20.45,"",D Paulus
-E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,W17.15-19.45,"",W Gray
-E_M,585,Design of Experiments,01,10476,3,M18.15-20.45,"",D Paulus
+E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,W17.15-19.45,WEB ARR,W Gray
+E_M,585,Design of Experiments,01,10476,3,M18.15-20.45,WEB ARR,D Paulus
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10684,V,F17.15-19.45,"",(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,10284,3,ARRGT,ARR ARR,""
 ECONS,101,[SSCI] Fundamentals of Microeconomics,02,10982,3,ARRGT,ARR ARR,""
@@ -213,11 +222,14 @@ ECONS,499,Special Problems,01,"",V,ARRGT,ARR ARR,M Gibson
 ECONS,505,Economics for Agricultural Decision Making,01,10289,3,ARRGT,ARR ARR,R Gallardo
 ENGLISH,101,[WRTG] College Composition,01,10290,3,ARRGT,ARR ARR,R Goodrich
 ENGLISH,102,Writing Tutorial,01,10948,1,ARRGT,ARR ARR,T Holland
+ENGLISH,112,[HUM] Language in the Real World,01,10741,3,ARRGT,ARR ARR,E Siler
 ENGLISH,201,[WRTG] Writing and Research,01,10291,3,ARRGT,ARR ARR,J Mccarthy
-ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,10292,3,ARRGT,ARR ARR,""
+ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,10292,3,ARRGT,ARR ARR,V Cozza
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,11193,3,ARRGT,ARR ARR,""
+ENGLISH,302,[M] Introduction to English Studies,01,10994,3,ARRGT,ARR ARR,K Robertson
 ENGLISH,308,[M] Introduction to Literary Criticism,01,10979,3,ARRGT,ARR ARR,J Hegglund
 ENGLISH,361,Everyday Rhetorics,01,10980,3,ARRGT,ARR ARR,""
+ENGLISH,362,[DIVR] Rhetorics of Racism,01,10978,3,ARRGT,ARR ARR,R Eddy
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,10293,3,ARRGT,ARR ARR,P Hager
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,10294,3,ARRGT,ARR ARR,K Ericsson
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,10295,3,ARRGT,ARR ARR,K Ericsson
@@ -231,6 +243,10 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,10302,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,10303,3,ARRGT,ARR ARR,P Hager
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,10444,3,ARRGT,ARR ARR,J Hughes
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,10529,3,ARRGT,ARR ARR,""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,17,11020,3,ARRGT,ARR ARR,J Staggers
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,18,12376,3,ARRGT,ARR ARR,G Maierhofer
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,19,12379,3,ARRGT,ARR ARR,A May
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,20,17699,3,ARRGT,ARR ARR,A Hillen
 ENGLISH,419,The Twentieth Century Novel,01,11131,3,ARRGT,ARR ARR,""
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,R Gregory
 ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,10239,3,ARRGT,ARR ARR,A Felsot
@@ -240,6 +256,12 @@ FIN,325,Introduction to Financial Management,01,10322,3,ARRGT,ARR ARR,M Reyes
 FIN,325,Introduction to Financial Management,02,10651,3,ARRGT,ARR ARR,""
 FIN,345,Real Estate,01,10306,3,ARRGT,ARR ARR,F Benjamin
 FIN,346,Washington Real Estate Regulations,01,10462,1,ARRGT,ARR ARR,F Benjamin
+FIN,527,Investment Analysis,01,17661,3,ARRGT,ARR ARR,R Hernandez
+FIN,527,Investment Analysis,02,17662,3,ARRGT,ARR ARR,R Hernandez
+FIN,527,Investment Analysis,03,17663,3,ARRGT,ARR ARR,R Hernandez
+FIN,527,Investment Analysis,04,17664,3,ARRGT,ARR ARR,R Hernandez
+FIN,527,Investment Analysis,05,17665,3,ARRGT,ARR ARR,R Hernandez
+FIN,527,Investment Analysis,06,17666,3,ARRGT,ARR ARR,R Hernandez
 FINE_ART,101,[ARTS] Introduction to Art,01,10321,3,ARRGT,ARR ARR,D Doty
 FINE_ART,103,[ARTS] 3D Art and Design,01,11136,3,ARRGT,ARR ARR,I Palmer
 FOR_LANG,101,[HUM] Introduction to the World of Languages,01,10325,3,ARRGT,ARR ARR,""
@@ -290,18 +312,23 @@ HBM,494,[M] Service Operations Management,02,"",3,ARRGT,ARR ARR,B Marlowe
 HBM,494,[M] Service Operations Management,03,17583,3,ARRGT,ARR ARR,B Marlowe
 HBM,495,[CAPS] Case Studies and Research,01,"",3,ARRGT,ARR ARR,O Larina
 HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,O Larina
+HBM,582,Hospitality Operations Analysis,01,17691,3,ARRGT,ARR ARR,C Chi
 HISTORY,102,[HUM] Modern Europe,01,10199,3,ARRGT,ARR ARR,R Sun
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,10204,3,ARRGT,ARR ARR,""
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10855,3,ARRGT,ARR ARR,""
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10855,3,ARRGT,ARR ARR,R Weller
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,12247,3,ARRGT,ARR ARR,N Harrington
 HISTORY,110,[HUM] American History to 1877,01,10827,3,ARRGT,ARR ARR,""
 HISTORY,120,[DIVR] World History I,01,10869,3,ARRGT,ARR ARR,S Herzog
 HISTORY,300,[M] Writing about History,01,10811,3,ARRGT,ARR ARR,J Thigpen
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,10205,3,ARRGT,ARR ARR,""
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,03,11116,3,ARRGT,ARR ARR,N Harrington
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,17642,3,ARRGT,ARR ARR,""
 HISTORY,308,"[DIVR] North American Indian History, Precontact to Present",01,10203,3,ARRGT,ARR ARR,O Svingen
 HISTORY,388,US and Vietnam,01,10963,3,ARRGT,ARR ARR,R Bauman
 HISTORY,390,U.S. Military History,01,17235,3,ARRGT,ARR ARR,O Svingen
 HISTORY,422,History of the Pacific Northwest,01,17588,3,ARRGT,ARR ARR,""
+HISTORY,444,[CAPS] The Renaissance,01,11113,3,ARRGT,ARR ARR,B Traver
+HISTORY,466,"History of the Cold War, 1944-present",01,17701,3,ARRGT,ARR ARR,A Chastain
 HUMANITY,103,[HUM] Mythology,01,10474,3,ARRGT,ARR ARR,R Goodrich
 HUMANITY,103,[HUM] Mythology,02,10715,3,ARRGT,ARR ARR,R Goodrich
 I_BUS,380,International Business,01,10329,3,ARRGT,ARR ARR,""
@@ -309,6 +336,12 @@ I_BUS,380,International Business,02,10652,3,ARRGT,ARR ARR,""
 I_BUS,453,[M] International Management,01,10330,3,ARRGT,ARR ARR,""
 I_BUS,453,[M] International Management,02,10736,3,ARRGT,ARR ARR,""
 I_BUS,470,International Trade and Finance,01,10288,3,ARRGT,ARR ARR,""
+I_BUS,580,International Business Management,01,10919,3,ARRGT,ARR ARR,B Marlowe
+I_BUS,580,International Business Management,02,10920,3,ARRGT,ARR ARR,B Marlowe
+I_BUS,580,International Business Management,03,10921,3,ARRGT,ARR ARR,B Marlowe
+I_BUS,580,International Business Management,04,10922,3,ARRGT,ARR ARR,B Marlowe
+I_BUS,580,International Business Management,05,10923,3,ARRGT,ARR ARR,B Marlowe
+I_BUS,580,International Business Management,06,10924,3,ARRGT,ARR ARR,B Marlowe
 KINES,496,Special Topics,01,10829,V,ARRGT,ARR ARR,C Connolly
 MATH,103,Algebra Methods and Introduction to Functions,01,10332,3,ARRGT,ARR ARR,""
 MATH,201,Mathematics for Business and Economics,01,10334,3,ARRGT,ARR ARR,""
@@ -398,14 +431,24 @@ MKTG,360,Marketing,01,10357,3,ARRGT,ARR ARR,""
 MKTG,360,Marketing,02,10659,3,ARRGT,ARR ARR,""
 MKTG,360,Marketing,03,10660,3,ARRGT,ARR ARR,""
 MKTG,477,Integrated Marketing Communications,01,10740,3,ARRGT,ARR ARR,""
+MKTG,561,New Product Marketing,01,17676,3,ARRGT,ARR ARR,T Kokta
+MKTG,561,New Product Marketing,02,17677,3,ARRGT,ARR ARR,T Kokta
+MKTG,561,New Product Marketing,03,17678,3,ARRGT,ARR ARR,T Kokta
+MKTG,561,New Product Marketing,04,17679,3,ARRGT,ARR ARR,T Kokta
+MKTG,561,New Product Marketing,05,17680,3,ARRGT,ARR ARR,T Kokta
+MKTG,561,New Product Marketing,06,17681,3,ARRGT,ARR ARR,T Kokta
 MUS,160,[ARTS] Survey of Music Literature,01,10400,3,ARRGT,ARR ARR,K Mccarthy
+MUS,160,[ARTS] Survey of Music Literature,02,10849,3,ARRGT,ARR ARR,D Luethi
 MUS,262,[ARTS] Rock Music: History and Social Analysis,01,10402,3,ARRGT,ARR ARR,A Miller
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,10401,3,ARRGT,ARR ARR,A Miller
+MUS,262,[ARTS] Rock Music: History and Social Analysis,04,10850,3,ARRGT,ARR ARR,D Luethi
 MUS,265,[HUM] Native Music of North America,01,10459,3,ARRGT,ARR ARR,M Parkhurst
 MUS,266,[ARTS] Film Music,01,11188,3,ARRGT,ARR ARR,C Dickey
 MUS,362,[DIVR] History of Jazz,01,10403,3,ARRGT,ARR ARR,A Miller
 MUS,362,[DIVR] History of Jazz,02,12241,3,ARRGT,ARR ARR,S Miller
+MUS,362,[DIVR] History of Jazz,03,10851,3,ARRGT,ARR ARR,D Luethi
 MUS,363,[DIVR] Women in Music,01,10700,3,ARRGT,ARR ARR,S Tegart
+MUS,363,[DIVR] Women in Music,02,10852,3,ARRGT,ARR ARR,D Luethi
 MUS,553,Seminar in Music Theory,01,10404,2,ARRGT,ARR ARR,S Blasco
 MUS,560,Introduction to Graduate Studies in Music,01,10405,2,ARRGT,ARR ARR,K Mccarthy
 MUS,566,Seminar in Music History,01,10731,2,ARRGT,ARR ARR,S Tegart
@@ -496,7 +539,12 @@ SPEC_ED,509,Early Childhood Special Education,01,"",3,ARRGT,ARR ARR,""
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,"",3,ARRGT,ARR ARR,""
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,M Dunn
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,12310,V,ARRGT,ARR ARR,(multiple)
+STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,""
 STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",G Taub
+STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,""
+STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,""
+STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,""
+STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,""
 TCH_LRN,415,Student Teaching,01,"",V,ARRGT,ARR ARR,M Coulter
 TCH_LRN,415,Student Teaching,01 Lab,"",0,ARRGT,ARR ARR,M Coulter
 TCH_LRN,499,Special Problems,01,10734,V,ARRGT,ARR ARR,""
@@ -508,11 +556,13 @@ UNIV,490,Global Leadership Experience,01,"",1,ARRGT,ARR ARR,K Newlon
 UNIV,491,Global Leadership Integrative Capstone,01,10213,1,W11.10-12,"",K Newlon
 UNIV,497,Peer Leadership,01,10214,V,ARRGT,ARR ARR,K Newlon
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,10844,3,ARRGT,ARR ARR,""
+WOMEN_ST,230,Human Sexuality,01,10365,3,ARRGT,ARR ARR,""
 WOMEN_ST,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10967,3,ARRGT,ARR ARR,""
 WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,01,10243,3,ARRGT,ARR ARR,""
 WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,02,12298,3,ARRGT,ARR ARR,C Anderson
 WOMEN_ST,324,Psychology of Gender,01,10372,3,ARRGT,ARR ARR,""
 WOMEN_ST,363,[DIVR] Women in Music,01,10701,3,ARRGT,ARR ARR,S Tegart
+WOMEN_ST,363,[DIVR] Women in Music,02,10853,3,ARRGT,ARR ARR,D Luethi
 WOMEN_ST,403,[CAPS] Violence Toward Women,02,10832,3,ARRGT,ARR ARR,""
 WRIT,302,Advanced Writing Collaborative,01,10945,1,ARRGT,ARR ARR,T Holland
 WRIT,302,Advanced Writing Collaborative,02,"",1,ARRGT,ARR ARR,D Casoinic

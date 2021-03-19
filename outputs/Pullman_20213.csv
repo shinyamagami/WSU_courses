@@ -153,12 +153,14 @@ ANTH,201,[HUM] Art and Society,01,02968,3,"TU,TH10.35-11.50",WLSH 13,""
 ANTH,201,[HUM] Art and Society,02,02969,3,"M,W,F12.10-13",WLSH 13,""
 ANTH,203,[DIVR] Global Cultural Diversity,01,05243,3,"M,W,F13.10-14",GUC TBS,M Quinlan
 ANTH,203,[DIVR] Global Cultural Diversity,02,05244,3,"TU,TH12.05-13.20",GUC TBS,J Cassaniti
-ANTH,203,[DIVR] Global Cultural Diversity,03,07422,3,ARRGT,ARR ARR,M Quinlan
+ANTH,203,[DIVR] Global Cultural Diversity,03,07422,3,ARRGT,ARR ARR,""
 ANTH,220,[DIVR] Perspectives on Race,01,17448,3,"TU,TH13.30-14.45",GUC TBS,N Grow
 ANTH,230,Archaeological Methods and Interpretation,01,05245,3,"TU,TH13.30-14.45",GUC TBS,S Tushingham
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,05246,4,"M,W,F11.10-12",GUC TBS,A Blackwell
+ANTH,260,[BSCI] Introduction to Biological Anthropology,02,17722,4,ARRGT,ARR ARR,V Black
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,05247,0,M13.10-15.40,COLL 355,A Blackwell
 ANTH,260,[BSCI] Introduction to Biological Anthropology,02 Lab,05248,0,W13.10-15.40,COLL 355,A Blackwell
+ANTH,260,[BSCI] Introduction to Biological Anthropology,03 Lab,17723,0,ARRGT,ARR ARR,V Black
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,07015,3,"TU,TH10.35-11.50",GUC TBS,A Pisor
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",03,06362,3,ARRGT,ARR ARR,""
 ANTH,280,[BSCI] Skeleton Keys: Introduction to Forensic Anthropology,01,17454,3,"M,W,F9.10-10",GUC TBS,E Thornton
@@ -202,7 +204,7 @@ ANTH,800,"Doctoral Research, Dissertation, and/or Examination",01,05267,V,ARRGT,
 ARCH,201,Architectural Design I,01,02945,5,"M,W,F9.10-12",CARP 401,""
 ARCH,201,Architectural Design I,02,02946,5,"M,W8.10-12",CARP 401,""
 ARCH,201,Architectural Design I,03,07963,5,"M,W,F13.10-16",CARP 401,""
-ARCH,210,Digital Analysis and Representation,01,05986,3,"TU,TH7.45-9",WEB ARR,""
+ARCH,210,Digital Analysis and Representation,01,05986,3,"TU,TH7.45-9",GUC TBS,""
 ARCH,210,Digital Analysis and Representation,01 Lab,03923,0,TU9.10-10.50,CARP 320,""
 ARCH,210,Digital Analysis and Representation,02 Lab,07883,0,TU11.10-12.50,CARP 320,""
 ARCH,210,Digital Analysis and Representation,03 Lab,07884,0,TH9.10-10.50,CARP 320,""
@@ -233,6 +235,10 @@ ASIA,275,[DIVR] Introduction to East Asian Culture,01,05981,3,"M,W,F13.10-14",GU
 ASIA,387,World War II in Asia and the Pacific,01,07144,3,"TU,TH12.10-13.25",GUC TBS,N Kawamura
 ASIA,478,[M] The Two Koreas in the Modern World,01,07139,3,"M,W,F10.10-11",GUC TBS,W Brecher
 ASTRONOM,135,[PSCI] Astronomy,01,01015,4,"M,W,F9.10-10",WEBS 16,""
+ASTRONOM,135,[PSCI] Astronomy,01 Lab,01016,0,TU9.10-12,WEBS 249,""
+ASTRONOM,135,[PSCI] Astronomy,02 Lab,01017,0,TU12.10-15,WEBS 249,""
+ASTRONOM,135,[PSCI] Astronomy,03 Lab,01018,0,W12.10-15,WEBS 249,""
+ASTRONOM,135,[PSCI] Astronomy,04 Lab,01019,0,W18.10-21,WEBS 249,""
 ASTRONOM,138,[PSCI] Planets and Planetary Systems,01,01022,3,"TU,TH13.30-14.45",WEBS 16,""
 ASTRONOM,345,Principles of Astronomy,01,01023,3,"TU,TH9.10-10.25",GUC TBS,""
 ATH_T,267,Techniques in Athletic Injuries,01,05081,3,"M,W,F9.10-10",SGYM 214A,K Pietz
@@ -255,6 +261,7 @@ ATH_T,590,Organization and Administration in Athletic Training,01,17397,3,"TU,TH
 ATH_T,591,Athletic Training Clinical Internship I,01,07413,2,ARRGT,ARR ARR,K Pietz
 ATH_T,592,Athletic Training Clinical Internship II,01,07866,3,ARRGT,ARR ARR,K Pietz
 ATH_T,592,Athletic Training Clinical Internship II,01 Lab,08236,0,ARRGT,ARR ARR,K Pietz
+ATH_T,593,Athletic Training Clinical Internship III,01,17389,5,ARRGT,ARR ARR,K Pietz
 B_A,100,Introduction to Business,01,07315,3,"M,W,F9.10-10",GUC TBS,""
 B_A,100,Introduction to Business,02,07316,3,"M,W,F13.10-14",GUC TBS,""
 B_A,100,Introduction to Business,03,07317,3,"M,W,F10.10-11",GUC TBS,""
@@ -458,7 +465,7 @@ BIOLOGY,372,[M] General Ecology,03 Lab,03070,0,W15.10-18,EAST G0094,J Zambrano M
 BIOLOGY,372,[M] General Ecology,04 Lab,03071,0,TU12.05-14.55,EAST G0094,J Zambrano Moncada
 BIOLOGY,372,[M] General Ecology,05 Lab,03072,0,TH12.05-14.55,EAST G0094,J Zambrano Moncada
 BIOLOGY,393,[M] Professional Communications in Biology,03,05773,2,ARRGT,ARR ARR,N Ankrah
-BIOLOGY,395,Evolutionary Medicine,01,07909,3,"TU,TH13.30-14.45",GUC SPK,A Storfer
+BIOLOGY,395,Evolutionary Medicine,01,07909,3,"TU,TH14.55-16.10",GUC TBS,A Storfer
 BIOLOGY,401,[CAPS] Plants and People,01,06786,3,"TU,TH13.30-14.45",GUC TBS,S Ritchie
 BIOLOGY,418,Parasitology,01,05392,4,"M,W,F12.10-13",ABEL 201,N Ankrah
 BIOLOGY,418,Parasitology,01 Lab,05393,0,TH14.55-17.45,EAST 170,N Ankrah
@@ -493,8 +500,7 @@ BIOLOGY,585,Professional Development and Training for College and University Tea
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,05411,V,ARRGT,ARR ARR,(multiple)
 BIOLOGY,702,"Master's Special Problems, Directed Study and/or Examination",01,05412,V,ARRGT,ARR ARR,(multiple)
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,05413,V,ARRGT,ARR ARR,(multiple)
-BSYSE,491,Advanced Topics,01,"",V,"TU,TH13.30-14.45",VC PUL,L Khot
-BSYSE,491,Advanced Topics,02,"",V,"TU,TH13.30-14.45",VC PUL,L Khot
+BSYSE,596,Biomass Thermo-Chemical Conversion,01,17718,3,M8.10-10.40,VC PUL,M Garcia-Perez
 BSYSE,598,Graduate Seminar,01,02970,1,TH16.10-17,VC PUL,""
 BSYSE,598,Graduate Seminar,02,02971,1,TH16.10-17,VC ARR,""
 BSYSE,598,Graduate Seminar,03,02972,1,TH16.10-17,VC ARR,""
@@ -879,7 +885,7 @@ COM,102,[COMM] Public Speaking in the Digital Age,15,04972,3,F11.10-12,GUC TBS,"
 COM,102,[COMM] Public Speaking in the Digital Age,16,04973,3,M11.10-12,GUC TBS,""
 COM,102,[COMM] Public Speaking in the Digital Age,17,04974,3,W11.10-12,GUC TBS,""
 COM,102,[COMM] Public Speaking in the Digital Age,18,04975,3,W13.10-14,SPRK G0045,""
-COM,102,[COMM] Public Speaking in the Digital Age,19,04976,3,W13.10-14,SPRK G0045,C Curtis
+COM,102,[COMM] Public Speaking in the Digital Age,19,04976,3,W13.10-14,SPRK G0045,""
 COM,102,[COMM] Public Speaking in the Digital Age,20,04977,3,W12.10-13,GUC TBS,""
 COM,102,[COMM] Public Speaking in the Digital Age,21,04978,3,F12.10-13,GUC TBS,""
 COM,102,[COMM] Public Speaking in the Digital Age,22,04979,3,M12.10-13,GUC TBS,""
@@ -1132,7 +1138,7 @@ CRM_J,320,Criminal Law,03,07797,3,"M,W,F13.10-14",GUC TBS,J Snyder
 CRM_J,321,Quantitative Methods for Criminal Justice,02,06729,3,"M,W,F10.10-11",GUC TBS,D Willits
 CRM_J,330,Crime Control Policies,01,04713,3,"M,W,F13.10-14",FNA 5062,C Dollar
 CRM_J,365,Juvenile Justice and Corrections,01,04716,3,"M,W,F11.10-12",GUC TBS,A Kraft-Duley
-CRM_J,370,Policing and Society,01,"",3,ARRGT,ARR ARR,J Marsh
+CRM_J,370,Policing and Society,01,05861,3,ARRGT,ARR ARR,J Marsh
 CRM_J,380,Criminal Courts in America,02,06489,3,ARRGT,ARR ARR,C Hemmens
 CRM_J,385,Institutional Corrections,01,04719,3,"M,W,F12.10-13",TODD 230,""
 CRM_J,403,[CAPS] Violence Toward Women,01,04720,3,"TU,TH12.05-13.20",GUC TBS,T Kennon
@@ -1235,7 +1241,7 @@ CST_M,254,Construction Graphics,06 Lab,03061,0,TH16.20-17.50,CARP 212,""
 CST_M,254,Construction Graphics,07 Lab,"",0,M9.10-10.40,CARP 212,""
 CST_M,254,Construction Graphics,08 Lab,"",0,F9.10-10.40,CARP 212,""
 CST_M,332,Building Science I,01,04736,3,"M,W,F9.10-10",SPRK 227,""
-CST_M,362,[M] Legal Aspects of Construction and Design,01,03931,3,"TU,TH14.55-16.10",GUC SPK,""
+CST_M,362,[M] Legal Aspects of Construction and Design,01,03931,3,"TU,TH14.55-16.10",GUC TBS,""
 CST_M,370,Estimating I,01,03932,3,"M,W10.10-11",CARP 220,""
 CST_M,370,Estimating I,02,03933,3,"TU,TH12.05-12.55",CARP 220,""
 CST_M,370,Estimating I,01 Lab,03934,0,W11.10-12.50,CARP 220,""
@@ -1271,7 +1277,6 @@ DTC,206,[DIVR] Digital Inclusion,01,06875,3,"TU,TH9.10-10.25",GUC TBS,""
 DTC,206,[DIVR] Digital Inclusion,02,06876,3,"TU,TH10.35-11.50",GUC TBS,""
 DTC,208,[ARTS] Introduction to Digital Cinema,01,07392,3,TU14.55-17.25,AVER 101,R Gregory
 DTC,208,[ARTS] Introduction to Digital Cinema,02,07899,3,TH14.55-17.25,AVER 101,R Gregory
-DTC,209,Introduction to Data Visualization,01,17372,3,"M,W,F14.10-15",GUC TBS,""
 DTC,331,Social Media Practices,01,07831,3,"TU,TH13.30-14.45",GUC TBS,""
 DTC,335,3D Digital Animation,01,03579,3,"TU,TH9.10-10",AVER 101,J Riddle
 DTC,335,3D Digital Animation,02,03580,3,"TU,TH13.30-14.20",AVER 101,J Riddle
@@ -1290,7 +1295,7 @@ DTC,392,Video Games Theories and History,01,07832,3,"M,W,F13.10-14",GUC TBS,""
 DTC,475,[DIVR] Digital Diversity,01,07502,3,ARRGT,ARR ARR,""
 DTC,476,Digital Strategies,01,07735,3,"M,W,F9.10-10",GUC TBS,J Riddle
 DTC,477,Advanced Multimedia Authoring,01,07975,3,"M,W,F9.10-10",SPRK 210,T De Vries
-DTC,497,[CAPS] Senior Seminar,01,07396,3,"TU,TH12.05-13.20",GUC TBS,R Gregory
+DTC,497,[CAPS] Senior Seminar,01,07396,3,"TU,TH12.05-13.20",VC PUL,R Gregory
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,""
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
 E_A,300,Educ Abroad,01,"",V,ARRGT,"",""
@@ -1358,21 +1363,21 @@ E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,03845
 E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,03846,V,ARRGT,"",(multiple)
 E_M,422,Leading People and Organizations,01,"",3,TU17.15-19.45,WEB ARR,K Bachman
 E_M,422,Leading People and Organizations,02,"",3,W17.15-19.45,WEB ARR,K Bachman
-E_M,430,Applications of Constraints Management,01,"",3,TH17.15-19.45,"",L Magpili
-E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,"",""
-E_M,464,Project Management,01,06196,3,M17.15-19.45,"",W Gray
+E_M,430,Applications of Constraints Management,01,"",3,TH17.15-19.45,WEB ARR,L Magpili
+E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,""
+E_M,464,Project Management,01,06196,3,M17.15-19.45,WEB ARR,W Gray
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,WEB ARR,D Paulus
-E_M,485,Design of Experiments,01,"",3,M18.15-20.45,"",D Paulus
-E_M,508,Legal Concepts for Engineering and Technical Managers,01,03887,3,TU17.15-19.45,"",R Crick
+E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,D Paulus
+E_M,508,Legal Concepts for Engineering and Technical Managers,01,03887,3,TU17.15-19.45,WEB ARR,R Crick
 E_M,522,Leading People and Organizations,01,05630,3,TU17.15-19.45,WEB ARR,K Bachman
 E_M,522,Leading People and Organizations,02,07109,3,W17.15-19.45,WEB ARR,K Bachman
-E_M,530,Applications of Constraints Management,01,03886,3,TH17.15-19.45,"",L Magpili
-E_M,560,Integrated Supply Chain Management,01,06393,3,TU18.15-20.45,"",""
-E_M,564,Project Management,01,05631,3,M17.15-19.45,"",W Gray
-E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,07954,3,TH17.15-19.45,"",A Squires
+E_M,530,Applications of Constraints Management,01,03886,3,TH17.15-19.45,WEB ARR,L Magpili
+E_M,560,Integrated Supply Chain Management,01,06393,3,TU18.15-20.45,WEB ARR,""
+E_M,564,Project Management,01,05631,3,M17.15-19.45,WEB ARR,W Gray
+E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,07954,3,TH17.15-19.45,WEB ARR,A Squires
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,07956,3,W18.15-20.45,WEB ARR,D Paulus
-E_M,575,Managing Innovation: Strategy and Performance,01,06384,3,W17.15-19.45,"",W Gray
-E_M,585,Design of Experiments,01,05980,3,M18.15-20.45,"",D Paulus
+E_M,575,Managing Innovation: Strategy and Performance,01,06384,3,W17.15-19.45,WEB ARR,W Gray
+E_M,585,Design of Experiments,01,05980,3,M18.15-20.45,WEB ARR,D Paulus
 E_MIC,586,Special Projects in Electron Microscopy,01,04640,V,ARRGT,ARR ARR,M Knoblauch
 E_MIC,587,Special Topics in Electron Microscopy,01,04641,1,W16.10-17,GUC TBS,M Knoblauch
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,03153,3,"M,W,F13.10-14",JSNH C0107,""
@@ -1630,12 +1635,14 @@ ED_PSYCH,468,"Classroom Assessment, Secondary",01,04019,3,"TU,TH10.10-11.25",CLE
 ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,04021,3,W12.10-15,VC PUL,R Danielson
 ED_PSYCH,505,Research Methods I,01,04022,3,M16.10-19,CLEV 255,B French
 ED_PSYCH,505,Research Methods I,02,06668,3,M17.45-20.30,VC PUL,H Liao
+ED_PSYCH,507,Introduction to Qualitative Research,01,17410,3,TH9.10-12,"",Z Strong
 ED_PSYCH,508,Educational Statistics,01,04023,3,M12.10-15,CLEV 63,""
 ED_PSYCH,508,Educational Statistics,02,06040,3,TU17.45-20.35,VC PUL,""
 ED_PSYCH,521,Topics in Educational Psychology,01,07908,V,TU12.10-15,VC PUL,K Carbonneau
 ED_PSYCH,570,Introduction to Program Evaluation,01,04024,3,TH12.10-15,CLEV 234,M Poppen
 ED_PSYCH,572,Introduction to Systematic Literature Reviews and Meta-Analyses,01,04025,3,TU16.10-19,VC PUL,O Adesope
 ED_PSYCH,574,Seminar in Educational Psychology,01,04026,1,F10.10-12,CLEV 311,R Danielson
+ED_PSYCH,578,Advanced Item Response Theory,01,17412,3,TH16.10-19,CLEV 63,S Dai
 ED_PSYCH,597,Educational Psychology Internship,01,04027,3,W9.10-12,GUC TBS,K Carbonneau
 ED_PSYCH,600,Special Projects or Independent Study,01,04028,V,ARRGT,ARR ARR,(multiple)
 ED_PSYCH,700,"Master's Research, Thesis, and/or Examination",01,04029,V,ARRGT,ARR ARR,(multiple)
@@ -1651,20 +1658,20 @@ ENGLISH,100,Introductory College Composition,03,03397,3,"TU,TH10.35-11.50",GUC T
 ENGLISH,100,Introductory College Composition,04,06608,3,"M,W,F11.10-12",GUC TBS,A Heile
 ENGLISH,100,Introductory College Composition,05,06664,3,"TU,TH13.30-14.45",GUC TBS,D Martin
 ENGLISH,100,Introductory College Composition,06,07045,3,"M,W,F10.10-11",GUC TBS,A Heile
-ENGLISH,100,Introductory College Composition,07,07064,3,"TU,TH10.35-11.50",GUC TBS,""
+ENGLISH,100,Introductory College Composition,07,07064,3,"TU,TH10.35-11.50",GUC TBS,W Richards
 ENGLISH,100,Introductory College Composition,08,07065,3,"TU,TH14.50-16.05",GUC TBS,""
 ENGLISH,100,Introductory College Composition,09,08022,3,"M,W,F13.10-14",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,01,03398,3,"M,W,F9.10-10",GUC TBS,L Powers
 ENGLISH,101,[WRTG] College Composition,02,"",3,"M,W,F13.10-14",GUC TBS,L Powers
-ENGLISH,101,[WRTG] College Composition,03,03400,3,"TU,TH13.30-14.45",GUC TBS,""
+ENGLISH,101,[WRTG] College Composition,03,03400,3,"TU,TH13.30-14.45",GUC TBS,J Jones
 ENGLISH,101,[WRTG] College Composition,04,"",3,"M,W,F8.10-9",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,05,03402,3,"TU,TH9.10-10.25",GUC TBS,J Flathers
 ENGLISH,101,[WRTG] College Composition,06,03403,3,"M,W,F10.10-11",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,07,03404,3,"TU,TH14.55-16.10",GUC TBS,D Martin
-ENGLISH,101,[WRTG] College Composition,08,03405,3,"M,W,F11.10-12",GUC TBS,""
+ENGLISH,101,[WRTG] College Composition,08,03405,3,"M,W,F11.10-12",GUC TBS,C Criss
 ENGLISH,101,[WRTG] College Composition,09,03406,3,"M,W,F10.10-11",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,10,03407,3,"M,W,F15.10-16",GUC TBS,C Mcgill
-ENGLISH,101,[WRTG] College Composition,11,03408,3,"TU,TH12.05-13.20",GUC TBS,""
+ENGLISH,101,[WRTG] College Composition,11,03408,3,"TU,TH12.05-13.20",GUC TBS,J Jones
 ENGLISH,101,[WRTG] College Composition,12,03409,3,"TU,TH14.55-16.10",GUC TBS,J Flathers
 ENGLISH,101,[WRTG] College Composition,13,03410,3,"M,W,F10.10-11",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,14,03411,3,"TU,TH9.10-10.25",GUC TBS,""
@@ -1685,8 +1692,8 @@ ENGLISH,101,[WRTG] College Composition,32,03425,3,"M,W,F15.10-16",GUC TBS,A Heil
 ENGLISH,101,[WRTG] College Composition,33,03426,3,"M,W,F11.10-12",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,34,03427,3,"TU,TH10.35-11.50",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,36,03428,3,"TU,TH9.10-10.25",GUC TBS,""
-ENGLISH,101,[WRTG] College Composition,37,03429,3,"M,W,F13.10-14",GUC TBS,""
-ENGLISH,101,[WRTG] College Composition,38,03430,3,"M,W,F14.10-15",GUC TBS,""
+ENGLISH,101,[WRTG] College Composition,37,03429,3,"M,W,F13.10-14",GUC TBS,C Criss
+ENGLISH,101,[WRTG] College Composition,38,03430,3,"M,W,F15.10-16",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,39,03431,3,"M,W,F13.10-14",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,40,"",3,"TU,TH10.35-11.50",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,41,03433,3,"M,W,F13.10-14",GUC TBS,""
@@ -1701,11 +1708,15 @@ ENGLISH,101,[WRTG] College Composition,55,06139,3,"M,W,F11.10-12",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,56,07063,3,"M,W,F14.10-15",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,57,07068,3,"M,W,F11.10-12",GUC TBS,""
 ENGLISH,101,[WRTG] College Composition,58,07069,3,"M,W,F14.10-15",GUC TBS,""
+ENGLISH,102,Writing Tutorial,01,07341,1,ARRGT,ARR ARR,B Walter
+ENGLISH,102,Writing Tutorial,02,07347,1,ARRGT,ARR ARR,B Walter
+ENGLISH,102,Writing Tutorial,03,07348,1,ARRGT,ARR ARR,B Walter
+ENGLISH,102,Writing Tutorial,04,07342,1,ARRGT,ARR ARR,B Walter
 ENGLISH,104,Introductory Composition for Multilingual Writers,01,03439,3,"M,W,F10.10-11",GUC TBS,M Thomas
-ENGLISH,105,[WRTG] College Composition for Multilingual Writers,01,"",3,ARRGT,ARR ARR,M Thomas
-ENGLISH,105,[WRTG] College Composition for Multilingual Writers,02,03441,3,"M,W,F14.10-15",GUC TBS,M Thomas
-ENGLISH,105,[WRTG] College Composition for Multilingual Writers,05,03442,3,"M,W,F11.10-12",GUC TBS,N Idris
-ENGLISH,106,[COMM] Communicating in Academic Contexts,01,07978,3,"TU,TH9.10-10.25",GUC TBS,""
+ENGLISH,105,[WRTG] College Composition for Multilingual Writers,02,03441,3,"M,W,F10.10-11",GUC TBS,N Idris
+ENGLISH,105,[WRTG] College Composition for Multilingual Writers,05,03442,3,"M,W,F11.10-12",GUC TBS,M Thomas
+ENGLISH,106,[COMM] Communicating in Academic Contexts,01,07978,3,"M,W,F12.10-13",GUC TBS,""
+ENGLISH,107,Writing Tutorial for Multilingual Writers,01,03443,1,ARRGT,ARR ARR,B Walter
 ENGLISH,108,[HUM] Introduction to Literature,01,03449,3,"M,W,F9.10-10",GUC TBS,""
 ENGLISH,109,[HUM] Creative Writing Now,01,07979,3,"M,W,F11.10-12",GUC TBS,C Mcgill
 ENGLISH,110,[HUM] Reading Now,01,07313,3,"M,W,F9.10-10",GUC TBS,""
@@ -1716,8 +1727,9 @@ ENGLISH,201,[WRTG] Writing and Research,03,03452,3,"M,W,F11.10-12",GUC TBS,L Pow
 ENGLISH,201,[WRTG] Writing and Research,04,03453,3,ARRGT,ARR ARR,J Mccarthy
 ENGLISH,201,[WRTG] Writing and Research,05,03454,3,"TU,TH12.05-13.20",GUC TBS,""
 ENGLISH,205,[HUM] Introduction to Shakespeare,01,03462,3,"M,W,F9.10-10",GUC TBS,M Delahoyde
+ENGLISH,210,[HUM] Readings in American Literature,01,"",3,"TU,TH12.05-13.20",GUC TBS,""
 ENGLISH,211,[HUM] Sex Matters: Introduction to Queer Culture and Literature,01,04037,3,"M,W,F11.10-12",GUC TBS,""
-ENGLISH,212,[ARTS] Introduction to Comics and Graphic Novels,01,08004,3,"TU,TH13.30-14.45",GUC TBS,""
+ENGLISH,212,[ARTS] Introduction to Comics and Graphic Novels,01,"",3,"TU,TH13.30-14.45",GUC TBS,""
 ENGLISH,220,[HUM] Introduction to Multicultural Literature,01,07245,3,"TU,TH13.30-14.45",GUC TBS,L Guerrero
 ENGLISH,251,[ARTS] Introduction to Creative Writing: Exploring the Genres,01,03463,3,"M,W,F10.10-11",GUC TBS,C Criss
 ENGLISH,251,[ARTS] Introduction to Creative Writing: Exploring the Genres,03,05976,3,"TU,TH13.30-14.45",VC PUL,J Flathers
@@ -1744,9 +1756,9 @@ ENGLISH,309,Women Writers,01,06274,3,"TU,TH13.30-14.45",GUC TBS,""
 ENGLISH,310,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,07324,3,"M,W,F12.10-13",GUC TBS,H Ramos
 ENGLISH,322,[DIVR] [M] Topics in African American Literature,01,03002,3,"TU,TH12.05-13.20",GUC TBS,A Oforlea
 ENGLISH,323,Approaches to the Teaching of English,01,07320,3,"TU,TH12.05-13.20",GUC TBS,A Boyd
-ENGLISH,324,[M] Rhetoric and Composition for Teaching,01,05452,3,"M,W,F14.10-15",GUC TBS,K Watts
+ENGLISH,324,[M] Rhetoric and Composition for Teaching,01,05452,3,"M,W,F13.10-14",GUC TBS,K Watts
 ENGLISH,325,Young Adult Literature,01,05453,3,"TU,TH13.30-14.45",GUC TBS,R Wolney
-ENGLISH,326,Applied Grammar for Teachers,01,07321,3,"M,W,F13.10-14",GUC TBS,K Watts
+ENGLISH,326,Applied Grammar for Teachers,01,07321,3,"M,W,F14.10-15",GUC TBS,K Watts
 ENGLISH,332,[M] Topics in Literature,01,08031,3,"M,W,F13.10-14",GUC TBS,L Hunter
 ENGLISH,343,Introduction to Screenwriting,01,08032,3,"TU,TH9.10-10.25",GUC TBS,L Levy
 ENGLISH,351,Creative Writing: Prose,01,08005,3,"TU,TH12-13.15",GUC TBS,P Chilson
@@ -1818,7 +1830,7 @@ ENGLISH,545,Graduate Student Writing Workshop,02,"",3,ARRGT,ARR ARR,""
 ENGLISH,546,Topics in Teaching English as a Second Language,01,07340,3,TU14.55-17.25,GUC TBS,N Bell
 ENGLISH,548,Seminar in Critical and Cultural Theory,01,17484,3,W15.10-17.40,GUC TBS,N Shahani
 ENGLISH,590,Research in English Studies,01,"",1,ARRGT,ARR ARR,(multiple)
-ENGLISH,597,Topics in Composition and Rhetoric,01,05974,3,TH14.50-17.20,GUC TBS,J Phelps
+ENGLISH,597,Topics in Composition and Rhetoric,01,05974,3,TH14.50-17.20,VC PUL,J Phelps
 ENGLISH,598,Teaching Apprenticeship,01,"",1,ARRGT,ARR ARR,""
 ENGLISH,598,Teaching Apprenticeship,02,"",1,ARRGT,ARR ARR,P Thoma
 ENGLISH,600,Special Projects or Independent Study,01,03482,V,ARRGT,ARR ARR,(multiple)
@@ -1899,7 +1911,7 @@ ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",10,04002,V,ARRGT
 ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",11,04003,V,ARRGT,ARR ARR,J Stark
 ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",12,04004,V,ARRGT,ARR ARR,D Walsh
 ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",13,06507,V,ARRGT,ARR ARR,R Zack
-ENTRP,426,Entrepreneurial Finance,01,05929,3,"TU,TH9.10-10.25",GUC TBS,A Brown
+ENTRP,426,Entrepreneurial Finance,01,05929,3,"TU,TH14.55-16.10",GUC TBS,A Brown
 ENTRP,485,[M] New Venture Planning,01,03694,3,"TU,TH10.35-11.50",GUC TBS,M Mayes
 ENTRP,489,Entrepreneurial Management,01,03695,3,"M,W,F12.10-13",GUC TBS,C Sears
 ENTRP,490,[M] Entrepreneurial Marketing,01,05652,3,"M,W,F8.10-9",GUC TBS,C Cooney
@@ -2125,7 +2137,7 @@ HBM,258,Fundamentals of Cooking,03 Lab,03093,0,W13.10-16,TDAD 270,J Callison
 HBM,258,Fundamentals of Cooking,04 Lab,03094,0,W9.10-12,TDAD 270,J Callison
 HBM,280,Hospitality Systems,01,04443,3,"TU,TH9.10-10.25",TODD 120,D Jha
 HBM,298,Internship Experience,01,"",V,ARRGT,"",A Alonzo
-HBM,301,Introduction to Event Planning,01,07960,3,ARRGT,"",""
+HBM,301,Introduction to Event Planning,01,07960,3,ARRGT,ARR ARR,""
 HBM,350,Beverage Management,01,04446,3,"TU,TH14.55-16.10",GUC TBS,J Harbour
 HBM,350,Beverage Management,02,17429,3,"TU,TH13.30-14.45",GUC TBS,J Harbour
 HBM,358,Foodservice Systems and Control,01,04447,3,"TU,TH9.10-10.25",GUC TBS,J Harbour
@@ -2147,7 +2159,7 @@ HISTORY,102,[HUM] Modern Europe,02,07140,3,"TU,TH10.35-11.50",GUC TBS,S Kale
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,03022,3,"M,W,F9.10-10",GUC TBS,K Faunce
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,03023,3,"M,W,F9.10-10",GUC TBS,K Whalen
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,03024,3,"M,W,F10.10-11",GUC TBS,K Faunce
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,03025,3,"M,W,F10.10-11",GUC TBS,K Whalen
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,03025,3,ARRGT,ARR ARR,K Whalen
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,05,03026,3,"M,W,F10.10-11",GUC TBS,E Smelyansky
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,06,03027,3,"M,W,F11.10-12",GUC TBS,K Faunce
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,07,03028,3,"M,W,F11.10-12",GUC TBS,K Whalen
@@ -2238,8 +2250,7 @@ HONORS,270,Principles and Research Methods in Social Science,03,05624,3,M17.30-2
 HONORS,280,Contextual Understanding in the Arts and Humanities,01,03861,3,"TU,TH13.30-14.45",GUC TBS,D Lee
 HONORS,280,Contextual Understanding in the Arts and Humanities,02,03862,3,ARRGT,ARR ARR,E Lampman
 HONORS,280,Contextual Understanding in the Arts and Humanities,03,03863,3,"TU,TH10.35-11.50",GUC TBS,K Andersen
-HONORS,280,Contextual Understanding in the Arts and Humanities,04,03864,3,"M,W,F10.10-11",HNRS 142,D Shier
-HONORS,280,Contextual Understanding in the Arts and Humanities,05,06552,3,"TU,TH12.05-13.20",GUC TBS,""
+HONORS,280,Contextual Understanding in the Arts and Humanities,04,03864,3,"M,W,F9.10-10",HNRS 142,D Shier
 HONORS,290,Science as a Way of Knowing,01,04274,3,"TU,TH13.30-14.45",GUC TBS,V Manoranjan
 HONORS,290,Science as a Way of Knowing,02,04275,3,"TU,TH9.10-10.25",HNRS 142,J Schultz
 HONORS,290,Science as a Way of Knowing,03,04276,3,ARRGT,ARR ARR,J Schultz
@@ -2251,6 +2262,10 @@ HONORS,370,Case Study: Global Issues in Social Sciences,03,05969,3,"TU,TH14.55-1
 HONORS,380,Case Study: Global Issues in the Arts and Humanities,01,03867,3,"TU,TH10.35-11.50",GUC TBS,V Navarro-Daniels
 HONORS,380,Case Study: Global Issues in the Arts and Humanities,02,03868,3,"M,W,F12.10-13",HNRS 142,R Bond
 HONORS,380,Case Study: Global Issues in the Arts and Humanities,04,03870,3,"TU,TH13.30-14.45",HNRS 142,K Andersen
+HONORS,390,Case Study: Global Issues in the Sciences,01,03871,3,"TU,TH13.30-14.45",GUC TBS,L Gloss
+HONORS,390,Case Study: Global Issues in the Sciences,02,03872,3,"M,W,F11.10-12",GUC TBS,R Quock
+HONORS,390,Case Study: Global Issues in the Sciences,03,05970,3,"TU,TH9.10-10.25",GUC TBS,S Lapin
+HONORS,390,Case Study: Global Issues in the Sciences,04,06716,3,W17-19.30,HNRS 142,L Gerber
 HONORS,398,Honors Thesis Proposal Seminar,01,03873,1,W13.10-14,HNRS 142,K Andersen
 HONORS,398,Honors Thesis Proposal Seminar,02,03874,1,W11.10-12,HNRS 142,J Schultz
 HONORS,398,Honors Thesis Proposal Seminar,03,03875,1,ARRGT,ARR ARR,E Lampman
@@ -2275,8 +2290,8 @@ HORT,418,[M] Post-harvest Biology and Technology,03,"",3,"TU,TH10.35-11.25",VC A
 HORT,418,[M] Post-harvest Biology and Technology,04,"",3,"TU,TH10.35-11.25",VC ARR,R Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,05,"",3,"TU,TH10.35-11.25",VC ARR,R Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,01 Lab,04532,0,TU14.55-17.45,VPBS 39,R Sharpe
-HORT,418,[M] Post-harvest Biology and Technology,02 Lab,"",0,TU14.55-17.45,VPBS 39,R Sharpe
-HORT,418,[M] Post-harvest Biology and Technology,03 Lab,"",0,TU14.55-17.45,VPBS 39,R Sharpe
+HORT,418,[M] Post-harvest Biology and Technology,02 Lab,"",0,TU14.55-17.45,ARR ARR,R Sharpe
+HORT,418,[M] Post-harvest Biology and Technology,03 Lab,"",0,F9.10-12,VPBS 39,R Sharpe
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,01,06867,3,"M,W,F9.10-10",VC PUL,""
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,02,06934,3,"M,W,F9.10-10",VC ARR,""
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,03,06936,3,"M,W,F9.10-10",VC ARR,""
@@ -2300,8 +2315,8 @@ HORT,518,[M] Post-harvest Biology and Technology,03,04529,3,"TU,TH10.35-11.25",V
 HORT,518,[M] Post-harvest Biology and Technology,04,04530,3,"TU,TH10.35-11.25",VC ARR,R Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,05,04531,3,"TU,TH10.35-11.25",VC ARR,R Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,01 Lab,04533,0,TU14.55-17.45,VPBS 39,R Sharpe
-HORT,518,[M] Post-harvest Biology and Technology,02 Lab,04534,0,TU14.55-17.45,VPBS 39,R Sharpe
-HORT,518,[M] Post-harvest Biology and Technology,03 Lab,07234,0,TU14.55-17.45,VPBS 39,R Sharpe
+HORT,518,[M] Post-harvest Biology and Technology,02 Lab,04534,0,TU14.55-17.45,ARR ARR,R Sharpe
+HORT,518,[M] Post-harvest Biology and Technology,03 Lab,07234,0,F9.10-12,VPBS 39,R Sharpe
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,01,06868,3,"M,W,F9.10-10",VC PUL,""
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,02,06870,3,"M,W,F9.10-10",VC ARR,""
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,03,06871,3,"M,W,F9.10-10",VC ARR,""
@@ -2366,7 +2381,7 @@ I_BUS,480,Advanced International Business and Leadership,01,17593,3,"M,W,F8.10-9
 I_BUS,482,[M] International Marketing,01,03497,3,"M,W,F10.10-11",GUC TBS,""
 I_BUS,498,International Business Internship,01,"",V,ARRGT,ARR ARR,J Joireman
 I_BUS,499,Special Problems,01,"",V,ARRGT,ARR ARR,J Joireman
-I_D,197,Design Communication I,01,07411,3,"TU,TH7.45-9",WEB ARR,""
+I_D,197,Design Communication I,01,07411,3,"TU,TH7.45-9",GUC TBS,""
 I_D,197,Design Communication I,01 Lab,07412,0,TU9.10-10.50,CARP 320,""
 I_D,197,Design Communication I,02 Lab,08251,0,TU11.10-12.50,CARP 320,""
 I_D,197,Design Communication I,03 Lab,08252,0,TH9.10-10.50,CARP 320,""
@@ -2424,10 +2439,9 @@ KIN_ACTV,108,Karate,01,05220,1,"TU,TH14.10-15",PEB 145,R Hunter
 KIN_ACTV,109,Beginning Golf,01,07450,1,"M,W9.30-11",ARR ARR,""
 KIN_ACTV,109,Beginning Golf,02,07449,1,"M,W12.30-14",ARR ARR,""
 KIN_ACTV,109,Beginning Golf,03,07451,1,"TU,TH9.30-11",ARR ARR,""
-KIN_ACTV,109,Beginning Golf,04,06916,1,ARRGT,ARR ARR,""
-KIN_ACTV,110,Intermediate Golf,01,05711,1,ARRGT,ARR ARR,""
-KIN_ACTV,110,Intermediate Golf,02,06038,1,"M,W11-12.15",ARR ARR,""
-KIN_ACTV,110,Intermediate Golf,"","","","M,W11.10-12.25",ARR ARR,""
+KIN_ACTV,109,Beginning Golf,04,06916,1,"TU,TH12.30-14",ARR ARR,""
+KIN_ACTV,110,Intermediate Golf,01,05711,1,"TU,TH11-12.30",ARR ARR,""
+KIN_ACTV,110,Intermediate Golf,02,06038,1,"M,W11-12.30",ARR ARR,W Myers
 KIN_ACTV,111,Advanced Golf,01,05241,1,F10.10-13,ARR ARR,T Goetz
 KIN_ACTV,112,Beginning Weight Training,01,05221,1,"M,W9.10-10",PEB 30,""
 KIN_ACTV,112,Beginning Weight Training,02,05222,1,ARRGT,ARR ARR,T Barbour
@@ -2453,7 +2467,7 @@ KIN_ACTV,120,Beginning Ballet,01,08156,1,"M,W10.10-11",ARR ARR,""
 KIN_ACTV,121,Intermediate Ballet,01,08157,1,"M,W11.10-12",ARR ARR,""
 KIN_ACTV,122,Beginning Jazz Dance,01,08161,1,"M,W9.10-10",ARR ARR,""
 KIN_ACTV,123,Intermediate Jazz Dance,01,08162,1,"TU,TH10.10-11",ARR ARR,""
-KIN_ACTV,124,Beginning Tennis,01,05239,1,"M,W13.10-14.25",ARR ARR,T Huynh
+KIN_ACTV,124,Beginning Tennis,01,05239,1,"M,W13-14.30",ARR ARR,T Huynh
 KIN_ACTV,125,Intermediate Tennis,01,06039,1,"TU,TH14.30-16",ARR ARR,T Huynh
 KIN_ACTV,126,Modern Dance,01,05709,1,"M,W14.10-15",SGYM 115,""
 KIN_ACTV,127,Water Aerobics,01,08183,1,"M,W14.10-15",SGYM 77,""
@@ -2511,7 +2525,10 @@ KINES,312,[M] Research and Assessment in Kinesiology,02,08092,3,"TU,TH10.35-11.5
 KINES,313,Psychological Aspects of Physical Movement,01,05086,3,"M,W,F11.10-12",GUC TBS,A Cox
 KINES,361,Health and Wellness,01,05087,3,"TU,TH13.30-14.45",SGYM 201,""
 KINES,361,Health and Wellness,02,05088,3,"M,W,F11.10-12",GUC TBS,""
+KINES,361,Health and Wellness,03,17425,3,"TU,TH12.05-13.20",SGYM 201,""
+KINES,361,Health and Wellness,04,17426,3,"M,W,F12.10-13","",""
 KINES,362,Qualitative Biomechanics,01,05983,3,"M,W,F8.10-9",GUC TBS,R Catena
+KINES,380,Introduction to Exercise Physiology,01,03018,3,"M,W,F10.10-11","",C Connolly
 KINES,390,Kinesiology Practicum or Research,01,05090,V,ARRGT,ARR ARR,T Goetz
 KINES,411,Advanced Strength Training,01,03019,3,"TU,TH10.35-11.50",ARR ARR,T Barbour
 KINES,412,Strength Training Practicum I,01,05094,3,ARRGT,ARR ARR,K Holmstrom
@@ -2550,15 +2567,14 @@ KINES,499,Special Problems,09,05122,V,ARRGT,ARR ARR,R Catena
 KINES,499,Special Problems,13,05126,V,ARRGT,ARR ARR,C Connolly
 KINES,513,Advanced Psychology of Physical Activity,01,07878,3,TH15.10-18,SGYM 201,A Cox
 KINES,560,Neuromuscular Physiology,01,07939,3,W15.10-18,SGYM 201,J Schultz
-KINES,580,Applied Experiences in Exercise Physiology,01,07986,3,TU15.10-18,SGYM 201,C Connolly
 KINES,590,Kinesiology Seminar,01,08038,1,TH8-8.50,SGYM 201,R Catena
 KINES,600,Special Projects or Independent Study,01,08135,V,ARRGT,ARR ARR,""
 KINES,700,"Master's Research, Thesis, and/or Examination",01,08136,V,ARRGT,ARR ARR,""
 KINES,702,"Master's Special Problems, Directed Study, and/or Examination",01,08137,V,ARRGT,ARR ARR,""
 LLT,586,"Seminar in Language, Literacy, and Technology",01,05684,1,TU12.10-13,CLEV 63,J Kelley
 LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,06470,V,ARRGT,ARR ARR,(multiple)
-LND_ARCH,150,[HUM] Landscapes of the Palouse,01,08055,3,"TU,TH12.05-13.20",GUC SPK,""
-LND_ARCH,210,Digital Analysis and Representation,01,06940,3,"TU,TH7.45-9",WEB ARR,""
+LND_ARCH,150,[HUM] Landscapes of the Palouse,01,08055,3,"TU,TH12.05-13.20",GUC TBS,""
+LND_ARCH,210,Digital Analysis and Representation,01,06940,3,"TU,TH7.45-9",GUC TBS,""
 LND_ARCH,210,Digital Analysis and Representation,01 Lab,06941,0,TU9.10-10.50,CARP 320,""
 LND_ARCH,210,Digital Analysis and Representation,02 Lab,07886,0,TU11.10-12.50,CARP 320,""
 LND_ARCH,210,Digital Analysis and Representation,03 Lab,07887,0,TH9.10-10.50,CARP 320,""
@@ -2753,6 +2769,7 @@ MATH,600,Special Projects or Independent Study,01,01443,V,ARRGT,ARR ARR,""
 MATH,600,Special Projects or Independent Study,02,"",V,ARRGT,ARR ARR,""
 MATH,702,"Master's Special Problems, Directed Study, and/or Examination",01,01444,V,ARRGT,ARR ARR,""
 MATH,800,"Doctoral Research, Dissertation, and/or Examination",01,01445,V,ARRGT,ARR ARR,""
+MATSE,506,Biomaterials,01,04482,3,"TU,TH12.05-13.20",GUC TBS,S Bose
 MBIOS,101,[BSCI] Introductory Microbiology,01,04891,4,"M,W,F12.10-13",CUE 203,C Helmick
 MBIOS,101,[BSCI] Introductory Microbiology,01 Lab,04892,0,"TU,TH9.10-10.25",EAST G0080,C Helmick
 MBIOS,101,[BSCI] Introductory Microbiology,02 Lab,04893,0,"TU,TH10.35-11.50",EAST G0080,C Helmick
@@ -2832,6 +2849,10 @@ MBIOS,513,General Biochemistry,01,03050,3,"M,W,F11.10-12",GUC TBS,E Offerdahl
 MBIOS,540,Immunology,01,04934,3,"M,W,F10.10-11",SPRK G0010,P Mixter
 MBIOS,548,Selected Topics in Immunology & Virology,01,04942,1,M16.10-17,GUC TBS,P Mixter
 MBIOS,563,Deconstruction of Research,01,06374,3,"TU,TH10.35-11.50",VC PUL,""
+MBIOS,564,Topics in Biomedical Experimentation,01,07702,V,"TU,TH9.10-10.25",GUC TBS,E Offerdahl
+MBIOS,578,Bioinformatics,01,03100,3,"TU,TH16.20-17.10",GUC TBS,J Wyrick
+MBIOS,578,Bioinformatics,02,"",3,ARRGT,ARR ARR,J Wyrick
+MBIOS,578,Bioinformatics,01 Lab,03104,0,"TU,TH17.45-19",GUC TBS,J Wyrick
 MBIOS,579,Molecular Biosciences Seminar,01,04943,1,"TU,TH12.10-13",GUC TBS,J Wyrick
 MBIOS,583,Professional Skills Seminar,01,04944,1,ARRGT,ARR ARR,B Hubbard
 MBIOS,593,Research Proposal,01,04946,2,ARRGT,"",(multiple)
@@ -2925,8 +2946,7 @@ MGMT,450,Personnel and Human Resources Management,02,04009,3,"TU,TH13.30-14.45",
 MGMT,455,Recruiting and Hiring Human Capital,01,07175,3,"M,W,F9.10-10",GUC TBS,""
 MGMT,456,[M] Evaluating and Rewarding Employees,01,06285,3,"M,W,F11.10-12",GUC TBS,R Moser
 MGMT,483,[M] Management of Innovation and Change,01,05948,3,"TU,TH13.30-14.45",GUC TBS,L Cooper
-MGMT,485,[M] Negotiation Skills,01,06355,3,"M,W,F13.10-14",GUC TBS,""
-MGMT,485,[M] Negotiation Skills,02,17414,3,"TU,TH14.10-15",GUC TBS,L Sheppard
+MGMT,485,[M] Negotiation Skills,02,17414,3,"TU,TH14.55-16.10",GUC TBS,L Sheppard
 MGMT,487,Business Ethics and Corporate Responsibility,01,03004,3,"M,W,F10.35-11.25",GUC TBS,""
 MGMT,491,[CAPS] Strategic Management,01,04010,3,"M,W,F14.10-15",GUC TBS,""
 MGMT,491,[CAPS] Strategic Management,02,04011,3,"TU,TH9.10-10.25",GUC TBS,A Lahiri
@@ -2942,11 +2962,20 @@ MGMT,600,Special Projects or Independent Study,01,04015,V,ARRGT,ARR ARR,K Butter
 MGMT,800,"Doctoral Research, Dissertation, and/or Examination",01,04016,V,ARRGT,ARR ARR,A Sahaym
 MGTOP,215,Business Statistics,01,03774,4,"TU,TH9.10-10.25",GUC TBS,S Fotopoulos
 MGTOP,215,Business Statistics,02,03775,4,"TU,TH10.35-11.50",GUC TBS,S Fotopoulos
-MGTOP,215,Business Statistics,03,03776,4,"M,W,F10.10-11",GUC TBS,""
+MGTOP,215,Business Statistics,03,03776,4,"M,W,F10.10-11",GUC TBS,T Almutairi
+MGTOP,215,Business Statistics,01 Lab,03777,0,TU17-18.50,TODD 330,""
+MGTOP,215,Business Statistics,02 Lab,03778,0,TU19-20.50,TODD 330,""
+MGTOP,215,Business Statistics,03 Lab,03779,0,TH15-16.50,TODD 330,""
+MGTOP,215,Business Statistics,04 Lab,03780,0,TU15-16.50,WEB ARR,""
+MGTOP,215,Business Statistics,05 Lab,03781,0,W17-18.50,TODD 330,""
+MGTOP,215,Business Statistics,06 Lab,03782,0,TH19-20.50,TODD 330,""
+MGTOP,215,Business Statistics,07 Lab,03783,0,W15.10-17,WEB ARR,T Almutairi
+MGTOP,215,Business Statistics,08 Lab,03784,0,TH17.10-19,TODD 330,T Almutairi
+MGTOP,215,Business Statistics,09 Lab,03785,0,W19-20.50,WEB ARR,T Almutairi
 MGTOP,340,Operations Management,01,03786,3,"TU,TH10.35-11.50",GUC TBS,X Wang
 MGTOP,340,Operations Management,02,03787,3,"TU,TH14.55-16.10",GUC TBS,X Wang
 MGTOP,340,Operations Management,03,03788,3,"TU,TH12.05-13.20",GUC TBS,Y Xiao
-MGTOP,340,Operations Management,04,03789,3,"M,W,F11.10-12",GUC TBS,""
+MGTOP,340,Operations Management,04,03789,3,"M,W,F11.10-12",GUC TBS,T Almutairi
 MGTOP,470,Business Modeling with Spreadsheets,01,03790,3,"TU,TH9.10-10.25",TODD 203,C Munson
 MGTOP,519,Applied Multivariate Analysis,01,06317,3,"TU,TH14.55-16.10",GUC TBS,""
 MIL_SCI,101,The United States Army,01,03359,1,TU13.30-14.20,FLMA 150,M Kelly
@@ -3002,6 +3031,7 @@ MKTG,702,"Master's Special Problems, Directed Study, and/or Examination",01,0450
 MKTG,800,"Doctoral Research, Dissertation, and/or Examination",01,04509,V,ARRGT,ARR ARR,E Howlett
 MPS,515,Seminar in Molecular Plant Sciences,01,03052,1,W12.10-14,BRYN 305,A Smertenko
 MPS,570,Advanced Topics in Molecular Plant Sciences,01,03393,1,TH16.10-17,GUC TBS,L Bartley
+MPS,574,Protein Biotechnology,01,17643,3,"TU,TH14.55-16.10",GUC TBS,J Peters
 MPS,800,"Doctoral Research, Dissertation and/or Examination",01,03394,V,ARRGT,ARR ARR,(multiple)
 MSE,201,Materials Engineering Fundamentals,01,06329,3,"M,W,F11.10-12",CARP 102,""
 MSE,302,Electronic Materials,01,04475,3,"M,W,F12.10-13",GUC TBS,""
@@ -3250,6 +3280,7 @@ NEUROSCI,495,Directed Research,01,"",V,ARRGT,ARR ARR,(multiple)
 NEUROSCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
 NEUROSCI,531,Neuroscience Laboratory Rotation,01,03379,1,ARRGT,"",S Wayman
 NEUROSCI,563,Deconstruction of Research,01,06273,3,"TU,TH10.35-11.50",VC PUL,""
+NEUROSCI,564,Topics in Biomedical Experimentation,01,07531,V,"TU,TH9.10-10.25",GUC TBS,E Offerdahl
 NEUROSCI,590,Seminar,01,03380,1,F12.10-13.30,VC PUL,S Wayman
 NEUROSCI,592,Research Writing and Seminar,01,05891,2,TU15.30-17.30,VBRB 201,S Wayman
 NEUROSCI,592,Research Writing and Seminar,"","","",F15-16,VC PUL,""
@@ -3277,10 +3308,34 @@ PHIL,470,Philosophy of Law,01,01573,3,"TU,TH10.35-11.50",GUC TBS,L Hubbard-Matti
 PHIL,472,[M] Social and Political Philosophy,01,01563,3,"TU,TH1.30-2.45",GUC TBS,M Stichter
 PHIL,499,Special Problems,01,"",V,ARRGT,"",(multiple)
 PHIL,501,Advanced Formal Logic,01,01565,3,"M,W,F10.10-11",GUC TBS,M Goldsby
+PHIL,564,Topics in Biomedical Experimentation,01,01569,V,"TU,TH9.10-10.25",GUC TBS,E Offerdahl
 PHIL,600,Special Projects or Independent Study,01,"",V,ARRGT,"",(multiple)
 PHYSICS,101,[PSCI] General Physics,01,01576,3,"M,W,F11.10-12",WEBS 16,""
 PHYSICS,101,[PSCI] General Physics,02,01577,3,"M,W,F14.10-15",WEBS 16,""
 PHYSICS,102,General Physics,01,01592,3,"M,W,F15.10-16",WEBS 16,""
+PHYSICS,111,[PSCI] General Physics Lab,01,15493,1,TU9.10-12,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,02,15494,1,TU9.10-12,WEBS 222,""
+PHYSICS,111,[PSCI] General Physics Lab,03,15495,1,TU12.10-15,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,04,15496,1,TU12.10-15,WEBS 222,""
+PHYSICS,111,[PSCI] General Physics Lab,05,15497,1,TU15.10-18,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,06,17140,1,TU15.10-18,WEBS 222,""
+PHYSICS,111,[PSCI] General Physics Lab,07,17141,1,TU18.10-21,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,08,17142,1,TU18.10-21,WEBS 222,""
+PHYSICS,111,[PSCI] General Physics Lab,09,17143,1,W12.10-15,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,10,17144,1,W12.10-15,WEBS 222,""
+PHYSICS,111,[PSCI] General Physics Lab,11,17145,1,W18.10-21,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,12,17146,1,W18.10-21,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,13,17147,1,TH9.10-12,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,15,17149,1,TH12.10-15,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,17,17151,1,TH15.10-18,WEBS 232,""
+PHYSICS,111,[PSCI] General Physics Lab,19,17153,1,TH18.10-21,WEBS 232,""
+PHYSICS,112,General Physics Lab II,01,17600,1,TU12.10-15,WEBS 241,""
+PHYSICS,112,General Physics Lab II,02,17601,1,TU15.10-18,WEBS 241,""
+PHYSICS,112,General Physics Lab II,03,17602,1,TU18.10-21,WEBS 241,""
+PHYSICS,112,General Physics Lab II,04,17603,1,W12.10-15,WEBS 241,""
+PHYSICS,112,General Physics Lab II,06,17605,1,W18.10-21,WEBS 241,""
+PHYSICS,112,General Physics Lab II,07,17606,1,TH12.10-15,WEBS 241,""
+PHYSICS,112,General Physics Lab II,08,17607,1,TH9.10-12,WEBS 241,""
 PHYSICS,150,[PSCI] Physics and Your World,01,01677,3,"TU,TH11.10-13",WEBS 741,""
 PHYSICS,188,First-Year Seminar I,01,01598,1,TU16.20-17.10,GUC TBS,""
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,01599,3,"M,W,F12.10-13",WEBS 16,""
@@ -3289,6 +3344,33 @@ PHYSICS,202,Physics for Scientists and Engineers II,01,01625,3,"M,W,F16.10-17",W
 PHYSICS,206,Physics for Scientists and Engineers II - Honors,01,01632,5,"M,W,F11.10-12",GUC TBS,""
 PHYSICS,206,Physics for Scientists and Engineers II - Honors,01 Lab,01633,0,TU18.10-21,WEBS 441,""
 PHYSICS,206,Physics for Scientists and Engineers II - Honors,"","","",TH17.45-19.35,GUC TBS,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,17156,1,TU9.10-12,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,17157,1,TU9.10-12,WEBS 422,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,03,17158,1,TU12.10-15,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,04,17159,1,TU12.10-15,WEBS 422,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,05,17160,1,TU15.10-18,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,06,17161,1,TU15.10-18,WEBS 422,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,07,17162,1,TU18.10-21,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,08,17163,1,TU18.10-21,WEBS 422,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,09,17164,1,W9.10-12,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,10,17165,1,W9.10-12,WEBS 422,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,11,17166,1,W12.10-15,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,12,17167,1,W12.10-15,WEBS 422,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,13,17168,1,W15.10-18,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,14,17169,1,W15.10-18,WEBS 422,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,15,17170,1,W18.10-21,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,16,17171,1,W18.10-21,WEBS 422,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,17,17172,1,TH9.10-12,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,19,17174,1,TH12.10-15,WEBS 432,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,21,17179,1,TH15.10-18,WEBS 432,""
+PHYSICS,212,Physics Lab for Scientists and Engineers II,01,17610,1,TU9.10-12,WEBS 441,""
+PHYSICS,212,Physics Lab for Scientists and Engineers II,02,17611,1,TU12.10-15,WEBS 441,""
+PHYSICS,212,Physics Lab for Scientists and Engineers II,03,17612,1,TU15.10-18,WEBS 441,""
+PHYSICS,212,Physics Lab for Scientists and Engineers II,04,17613,1,W9.10-12,WEBS 441,""
+PHYSICS,212,Physics Lab for Scientists and Engineers II,05,17614,1,W12.10-15,WEBS 441,""
+PHYSICS,212,Physics Lab for Scientists and Engineers II,06,17615,1,W18.10-21,WEBS 441,""
+PHYSICS,212,Physics Lab for Scientists and Engineers II,07,17616,1,TH9.10-12,WEBS 441,""
+PHYSICS,212,Physics Lab for Scientists and Engineers II,08,17617,1,TH12.10-15,WEBS 441,""
 PHYSICS,303,Modern Physics I,01,01634,3,"M,W,F13.10-14",GUC TBS,""
 PHYSICS,320,Mechanics,01,01635,3,"M,W,F12.10-13",GUC TBS,""
 PHYSICS,322,[PSCI] Sound Waves and Music,01,01680,4,"M,W,F15.10-16",GUC TBS,""
@@ -3679,6 +3761,7 @@ SOE,495,Undergraduate Internship,03,"",V,ARRGT,ARR ARR,M Swanson
 SOE,495,Undergraduate Internship,04,"",V,ARRGT,ARR ARR,W Schlosser
 SOE,498,Seminar,01,03064,1,TH16.20-17.10,GUC TBS,J Vervoort
 SOE,501,Graduate Skills Seminar,01,04428,1,F10.10-11,TROY G0007,C Keller
+SOE,536,"Climate Change Impacts on Physical, Natural, and Human Systems",01,17730,3,"TU,TH14.55-16.10",ARR ARR,D Singh
 SOE,541,Orogenic Systems,01,17202,3,"TU,TH14.55-16.10",WEBS 1141,S Long
 SOE,576,Biology and Ecology of Pacific Salmon,01,07457,3,"TU,TH16.25-17.40",VC PUL,J Mcintyre
 SOE,598,Seminar,01,03065,1,TH16.20-17.10,GUC TBS,J Vervoort
@@ -3943,7 +4026,9 @@ TCH_LRN,499,Special Problems,01,05557,V,ARRGT,ARR ARR,T Akmal
 TCH_LRN,499,Special Problems,02,06685,V,ARRGT,ARR ARR,""
 TCH_LRN,517,Coding for Teachers,01,07953,3,TU9.10-12,EDAD 216,""
 TCH_LRN,519,Instructional Media Production I,01,06923,3,M13.10-16,ARR ARR,J Egbert
+TCH_LRN,521,Topics in Education,01,05657,3,TH16.10-19,VC PUL,K Lesseig
 TCH_LRN,522,Topics in Education,01,"",V,ARRGT,ARR ARR,T Akmal
+TCH_LRN,581,Learning and Development in Mathematics and Science,01,05564,3,W17.45-20.30,VC PUL,A Roth-Mcduffie
 TCH_LRN,590,Internship,01,"",V,ARRGT,ARR ARR,""
 TCH_LRN,590,Internship,02,"",V,ARRGT,ARR ARR,""
 TCH_LRN,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,T Akmal
@@ -3972,7 +4057,7 @@ UNIV,104,First-Year Success Seminar,15,"",2,"M,W15.10-17",GUC TBS,C Williams
 UNIV,104,First-Year Success Seminar,20,"",2,TU15.30-17,GUC TBS,S Mooney
 UNIV,104,First-Year Success Seminar,21,"",2,"TU,TH14.55-16.10",GUC TBS,J Galvan
 UNIV,104,First-Year Success Seminar,22,"",2,"TU,TH14.55-15.45",GUC TBS,""
-UNIV,104,First-Year Success Seminar,23,08272,2,"TU,TH12.10-13",GUC TBS,O Martinez
+UNIV,104,First-Year Success Seminar,23,08272,2,ARRGT,ARR ARR,O Martinez
 UNIV,104,First-Year Success Seminar,24,17493,2,"M,W15.10-16",GUC TBS,P Panday Shukla
 UNIV,104,First-Year Success Seminar,25,17495,2,TH14.50-17.20,GUC TBS,C Skinner
 UNIV,104,First-Year Success Seminar,26,17496,2,"M,W15.10-16",GUC TBS,R Pruneda
@@ -3981,24 +4066,26 @@ UNIV,110,Developing Academic Strategies for Reading and Writing,01,"",4,"TU,W,TH
 UNIV,111,Developing Academic Strategies for Listening and Discussion,01,"",4,"M,TU,W,TH4.10-5",GUC TBS,""
 UNIV,111,Developing Academic Strategies for Listening and Discussion,02,"",4,"M,TU,W,TH16.10-17",GUC TBS,""
 UNIV,111,Developing Academic Strategies for Listening and Discussion,03,"",4,ARRGT,ARR ARR,""
-UNIV,250,Success in College and Beyond,01,"",1,"M,W12.10-13",GUC TBS,R Thai
+UNIV,250,Success in College and Beyond,01,"",1,"M,W12.10-13",GUC TBS,""
 UNIV,250,Success in College and Beyond,02,"",1,"TU,TH13.30-14.20",GUC TBS,A Petersen
 UNIV,250,Success in College and Beyond,03,"",1,"TU,TH12.10-13",GUC TBS,A Petersen
-UNIV,250,Success in College and Beyond,04,"",1,"M,W11.10-12",GUC TBS,K Reilly
-UNIV,250,Success in College and Beyond,05,"",1,"M,W13.10-14",GUC TBS,R Thai
-UNIV,250,Success in College and Beyond,06,"",1,"TU,TH10.35-11.25",GUC TBS,K Guetlein
+UNIV,250,Success in College and Beyond,04,"",1,"M,W11.10-12",GUC TBS,""
+UNIV,250,Success in College and Beyond,05,"",1,"M,W13.10-14",GUC TBS,""
+UNIV,250,Success in College and Beyond,06,"",1,"TU,TH10.35-11.25",GUC TBS,""
 UNIV,250,Success in College and Beyond,07,"",1,"M,W14.10-15",GUC TBS,A Petersen
 UNIV,250,Success in College and Beyond,08,"",1,"TU,TH12.05-12.55",GUC TBS,A Petersen
 UNIV,250,Success in College and Beyond,09,"",1,"TU,TH13.30-14.20",GUC TBS,A Petersen
-UNIV,250,Success in College and Beyond,10,"",1,"TU,TH9.10-10",GUC TBS,K Guetlein
-UNIV,250,Success in College and Beyond,11,"",1,"M,W10.10-11",GUC TBS,K Reilly
+UNIV,250,Success in College and Beyond,10,"",1,"TU,TH9.10-10",GUC TBS,""
+UNIV,250,Success in College and Beyond,11,"",1,"M,W10.10-11",GUC TBS,""
 UNIV,250,Success in College and Beyond,12,07646,1,"TU,TH15.10-16",GUC TBS,A Petersen
 UNIV,295,Introduction to Models of Leadership,01,06260,2,TU12.10-13.25,GUC TBS,S Mckay
 UNIV,295,Introduction to Models of Leadership,03,"",2,"M,W10.10-11",GUC TBS,C Ross
 UNIV,301,Career Exploration and Professional Development,01,03961,1,TU10.35-11.50,GUC TBS,M Kiel
 UNIV,301,Career Exploration and Professional Development,02,"",1,ARRGT,ARR ARR,C Ben-Yisrael
+UNIV,301,Career Exploration and Professional Development,04,"",1,"M,W11.10-12",ARR ARR,M Kiel
 UNIV,304,Transfer Student Seminar,01,07312,2,"M,W15.10-16",ARR ARR,H Reyes
-UNIV,304,Transfer Student Seminar,02,07418,2,"M,W14.10-15",ARR ARR,H Reyes
+UNIV,304,Transfer Student Seminar,02,07418,2,"M,W14.10-15",WEB ARR,H Reyes
+UNIV,304,Transfer Student Seminar,03,17498,2,"TU,TH14.10-15",ARR ARR,H Reyes
 UNIV,304,Transfer Student Seminar,04,17499,2,"TU,TH15.10-16",ARR ARR,H Reyes
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,""
 UNIV,490,Global Leadership Experience,01,"",1,ARRGT,ARR ARR,K Newlon
@@ -4245,11 +4332,27 @@ VET_MED,698,Special Topics,15,07508,V,ARRGT,"",C Faux
 VET_MED,698,Special Topics,16,07509,V,ARRGT,"",""
 VET_MED,699,Advanced Clinical Special Topics,01,05064,V,ARRGT,"",W Dernell
 VET_MED,699,Advanced Clinical Special Topics,02,05065,V,ARRGT,"",W Dernell
+VET_MICR,499,Special Problems,01,03146,V,ARRGT,"",""
+VET_MICR,541,Advanced Diagnostic Microbiology,01,03147,1,ARRGT,"",C Burbick
 VET_MICR,563,Deconstruction of Research,01,06375,3,"TU,TH10.35-11.50",VC PUL,""
+VET_MICR,564,Topics in Biomedical Experimentation,01,07704,V,"TU,TH9.10-10.25",GUC TBS,E Offerdahl
+VET_MICR,572,"Advanced Topics in Microbiology, Parasitology, or Immunology",01,03148,V,ARRGT,"",""
+VET_MICR,591,Seminar in Diagnostic Microbiology,01,03149,1,ARRGT,"",C Burbick
+VET_MICR,600,Special Projects or Independent Study,01,03150,V,ARRGT,ARR ARR,""
+VET_MICR,700,"Master's Research, Thesis, and/or Examination",01,03151,V,ARRGT,"",(multiple)
+VET_MICR,800,"Doctoral Research, Dissertation, and/or Examination",01,03152,V,ARRGT,"",(multiple)
+VET_PATH,542,Advanced Diagnostic Pathology,01,03352,1,ARRGT,"",""
+VET_PATH,544,Immunopathology,01,03353,4,ARRGT,"",S Bose
 VET_PATH,563,Deconstruction of Research,01,06376,3,"TU,TH10.35-11.50",VC PUL,""
+VET_PATH,564,Topics in Biomedical Experimentation,01,07705,V,"TU,TH9.10-10.25",GUC TBS,E Offerdahl
+VET_PATH,571,Advanced Topics in Pathology,01,03355,V,ARRGT,"",""
+VET_PATH,592,Anatomic Pathology Seminar,01,03356,2,ARRGT,"",L White
+VET_PATH,700,"Master's Research, Thesis, and/or Examination",01,03357,V,ARRGT,"",(multiple)
+VET_PATH,800,"Doctoral Research, Dissertation, and/or Examination",01,03358,V,ARRGT,"",(multiple)
 VET_PH,425,Foundations of Medical Physiology,01,06932,3,"TU,TH14.55-16.10",GUC TBS,P Meighan
 VET_PH,426,Foundations of Medical Physiology Lab,01,06942,1,ARRGT,ARR ARR,P Meighan
 VET_PH,563,Deconstruction of Research,01,06377,3,"TU,TH10.35-11.50",VC PUL,""
+VET_PH,564,Topics in Biomedical Experimentation,01,07706,V,"TU,TH9.10-10.25",GUC TBS,E Offerdahl
 VET_PH,590,Seminar,01,07105,1,F12.10-13.30,VC PUL,S Wayman
 VET_PH,600,Special Projects or Independent Study,01,03372,V,ARRGT,"",""
 VET_PH,700,"Master's Research, Thesis, and/or Examination",01,03373,V,ARRGT,"",(multiple)
@@ -4281,3 +4384,5 @@ WOMEN_ST,403,[CAPS] Violence Toward Women,01,04721,3,"TU,TH12.05-13.20",GUC TBS,
 WOMEN_ST,410,Internship,01,"",V,ARRGT,ARR ARR,(multiple)
 WOMEN_ST,485,[M] Theoretical Issues in Queer Studies,01,07794,3,"M,W,F10.10-11",GUC TBS,N Shahani
 WOMEN_ST,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
+WRIT,302,Advanced Writing Collaborative,01,07343,1,ARRGT,ARR ARR,B Walter
+WRIT,431,Writing Center Theory and Practice,01,"",1,TH8.10-9,CUE 303,B Walter

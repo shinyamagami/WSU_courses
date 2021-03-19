@@ -156,6 +156,7 @@ DTC,206,[DIVR] Digital Inclusion,01,09429,3,"M,W,F14.10-15",GUC TRI,A Plemons
 DTC,355,[M] Multimedia Authoring,02,09222,3,"TU,TH9.10-10.25",GUC TRI,""
 DTC,375,"[M] Language, Texts and Technology",01,08829,3,"M,W,F13.10-14",GUC TRI,A Plemons
 DTC,475,[DIVR] Digital Diversity,02,"",3,ARRGT,ARR ARR,""
+DTC,497,[CAPS] Senior Seminar,01,09543,3,"TU,TH12.05-13.20",WEB ARR,R Gregory
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,A Plemons
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,A Plemons
 E_E,214,Design of Logic Circuits,01,08521,4,"M,W16.15-17.30",GUC TRI,M Engels
@@ -181,8 +182,8 @@ E_E,600,Special Projects or Independent Study,01,08534,V,ARRGT,ARR ARR,(multiple
 E_E,700,"Master's Research, Thesis, and/or Examination",01,08535,V,ARRGT,ARR ARR,(multiple)
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,08536,V,ARRGT,ARR ARR,(multiple)
 E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,08537,V,ARRGT,ARR ARR,(multiple)
-E_M,508,Legal Concepts for Engineering and Technical Managers,01,09206,3,TU17.15-19.45,"",R Crick
-E_M,530,Applications of Constraints Management,01,08928,3,TH17.15-19.45,"",L Magpili
+E_M,508,Legal Concepts for Engineering and Technical Managers,01,09206,3,TU17.15-19.45,WEB ARR,R Crick
+E_M,530,Applications of Constraints Management,01,08928,3,TH17.15-19.45,WEB ARR,L Magpili
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,08579,3,"TU,TH9.10-10.25",GUC TRI,J Timmons
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,08718,3,"TU,TH10.35-11.50",GUC TRI,J Timmons
 ECONS,305,Intermediate Microeconomics without Calculus,01,"",3,ARRGT,ARR ARR,""
@@ -219,7 +220,7 @@ ENGLISH,102,Writing Tutorial,06,09410,1,TH15-15.50,GUC TRI,R Mays
 ENGLISH,102,Writing Tutorial,07,09404,1,F11.10-12,GUC TRI,R Mays
 ENGLISH,108,[HUM] Introduction to Literature,01,08580,3,"M,W,F9.10-10",GUC TRI,R Mays
 ENGLISH,210,[HUM] Readings in American Literature,01,08723,3,"M,W,F10.10-11",GUC TRI,G Escalera
-ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,"",3,ARRGT,ARR ARR,""
+ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,"",3,ARRGT,ARR ARR,V Cozza
 ENGLISH,302,[M] Introduction to English Studies,01,09593,3,"TU,TH10.35-11.50",GUC TRI,P Wilde
 ENGLISH,360,Principles of Rhetoric,01,09591,3,"M,W,F11.10-12",GUC TRI,V Cozza
 ENGLISH,361,Everyday Rhetorics,02,"",3,ARRGT,ARR ARR,""
@@ -242,7 +243,7 @@ FIN,325,Introduction to Financial Management,01,08514,3,"TU,TH17.45-19",GUC TRI,
 FIN,325,Introduction to Financial Management,03,17199,3,"M,W16.15-17.30",GUC TRI,K Jones
 FINE_ART,101,[ARTS] Introduction to Art,01,08597,3,"M,W,F10.10-11",GUC TRI,P Mudd
 FINE_ART,102,[ARTS] 2D Art and Design,01,09239,3,"M,W9.10-12",GUC TRI,D Regul
-FINE_ART,110,[ARTS] Drawing,01,09240,3,"TU,TH10.30-13.20",GUC TRI,K Sisson
+FINE_ART,110,[ARTS] Drawing,01,09240,3,"TU,TH10.30-13.05",GUC TRI,K Sisson
 FINE_ART,201,[ARTS] World Art History I,01,08791,3,"M,W,F13.10-14",GUC TRI,R Jones
 FINE_ART,320,Beginning Painting,01,09449,3,"TU,TH13.30-16.20",GUC TRI,D Regul
 FINE_ART,331,"Art, Science, and Technology",01,08660,3,"TU,TH13.30-14.45",GUC TRI,P Christenson
@@ -266,7 +267,7 @@ HBM,101,Professional and Career Development for the Business World,01,"",1,ARRGT
 HBM,231,Introduction to Beverage Management,01,09607,1,"TU,TH12.05-12.55",GUC TRI,B Marlowe
 HBM,280,Hospitality Systems,01,08680,3,TH15.10-18,GUC TRI,B Marlowe
 HBM,280,Hospitality Systems,02,"",3,ARRGT,ARR ARR,""
-HBM,301,Introduction to Event Planning,01,"",3,ARRGT,"",""
+HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,A Senter
 HBM,350,Beverage Management,01,08744,3,TH17.45-20.35,GUC TRI,R Hammond
 HBM,358,Foodservice Systems and Control,01,08828,3,ARRGT,"",S Seo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,17186,3,"TU,TH10.35-11.50",WEB ARR,J Sandstrom
