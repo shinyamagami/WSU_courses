@@ -59,15 +59,14 @@ module WSUInPerson
 
 
 
-
-
     def scrape_subject_urls
 
       @campuses.each do |campus|
 
-        time = '20213'
+        # time = '20213'
         # time = '20212'
-        # time = '20211'
+        time = '20211'
+        # time = '20203'
 
         doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/' +time))
 
@@ -91,7 +90,7 @@ module WSUInPerson
       csv = ExportCSV::ExportCSV.new
       csv.create(campus, time)
       column_names = ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
-        "Bldg & Room", "Instructor"]
+        "Bldg & Room", "Dates", "Instructor"]
       csv.name_column(column_names)
 
 
@@ -111,6 +110,7 @@ module WSUInPerson
           credit = ""
           sched_days = ""
           sched_loc = ""
+          sched_dates = ""
           instructor = ""
           name_on = 0
           sec_on = 0
@@ -144,6 +144,13 @@ module WSUInPerson
               rescue => e
               end
 
+              # some classes don't have sched_dates parts
+              begin
+                sched_dates = tr.css('td').map(&:text)[6].strip
+              rescue NoMethodError => e
+              rescue => e
+              end
+
               # some classes don't have instructor parts
               begin
                 instructor = tr.css('td').map(&:text)[7].strip
@@ -159,6 +166,7 @@ module WSUInPerson
                 sec = ""
                 classnum = ""
                 credit = ""
+                sched_dates = ""
                 instructor = ""
               end
 
@@ -168,11 +176,10 @@ module WSUInPerson
 
             #if sched_loc != "WEB ARR" && sec_on == 1
             if sec_on == 1
-              puts course_number + " " + name + " " + sec + " " +
-                  classnum + " " + credit + " " + sched_days + " " +
-                  sched_loc + " " + instructor
+              puts course_number + " " + name + " " + sec + " " + classnum + " " + credit + " " + sched_days + " " + sched_loc + " " + sched_dates + " " + instructor
               #csv << [prefix, course_number, name, sec, classnum, credit, sched_days, sched_loc, instructor]
-              values = [prefix, course_number, name, sec, classnum, credit, sched_days, sched_loc, instructor]
+              values = [prefix, course_number, name, sec, classnum, credit, sched_days, 
+                        sched_loc, sched_dates, instructor]
               csv.write_row(values)
 
               sec = ""
@@ -180,6 +187,7 @@ module WSUInPerson
               credit = ""
               sched_days = ""
               sched_loc = ""
+              sched_dates = ""
               instructor = ""
 
               sec_on = 0

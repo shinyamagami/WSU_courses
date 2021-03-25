@@ -64,12 +64,15 @@ BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
 BIOLOGY,500,Seminar,01,12811,1,ARRGT,ARR ARR,C Schultz
 BIOLOGY,500,Seminar,02,12883,1,ARRGT,ARR ARR,""
 BIOLOGY,519,Introduction to Population Genetics,01,13043,3,"TU,TH14.10-15.25",WEB ARR,J Busch
+BIOLOGY,549,Behavioral Ecology,01,17739,3,"M,W12.35-13.50",WEB ARR,H Watts
 BIOLOGY,569,[M] Ecosystem Ecology and Global Change,01,13064,3,"TU,TH10.35-11.50",WEB ARR,R Evans
+BIOLOGY,585,Professional Development and Training for College and University Teaching,01,13994,2,F13.10-14,WEB ARR,L Carloye
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,12561,V,ARRGT,ARR ARR,(multiple)
+BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,12562,V,ARRGT,ARR ARR,(multiple)
 CES,101,[DIVR] Race and Racism in the United States,01,13062,3,"M,W9.10-10",WEB ARR,""
 CES,373,[M] Native American Literature,01,17430,3,W17.45-20.30,WEB ARR,J Ankney
 CHEM,105,[PSCI] Principles of Chemistry I,01,12660,4,"M,W,F10.35-11.25",WEB ARR,A Otoikhian
-CHEM,105,[PSCI] Principles of Chemistry I,02,12661,4,"M,W,F13.30-14.20",WEB ARR,A Otoikhian
+CHEM,105,[PSCI] Principles of Chemistry I,02,12661,4,"M,W,F13.30-14.20",WEB ARR,""
 CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,12662,0,W14.55-17.35,VCLS 50,""
 CHEM,105,[PSCI] Principles of Chemistry I,02 Lab,12663,0,W17.45-20.25,VCLS 50,""
 CHEM,105,[PSCI] Principles of Chemistry I,03 Lab,12664,0,TH7.45-10.25,VCLS 50,A Otoikhian
@@ -110,8 +113,10 @@ CS,121,Program Design and Development,01 Lab,12791,0,TU14.55-17.25,WEB ARR,B Mcc
 CS,121,Program Design and Development,02 Lab,12792,0,W10.35-13.05,WEB ARR,B Mccamish
 CS,121,Program Design and Development,03 Lab,12793,0,TH14.55-17.25,WEB ARR,B Mccamish
 CS,121,Program Design and Development,04 Lab,12840,0,F10.35-13.05,WEB ARR,B Mccamish
+CS,215,Data Analytics Systems and Algorithms,02,"",3,"TU,TH7.45-9",WEB ARR,S Badri
 CS,223,Advanced Data Structures,01,12744,3,"M,W13.30-14.45",WEB ARR,P Bonamy
 CS,260,Computer Organization,01,12745,3,"M,W10.35-11.50",WEB ARR,P Bonamy
+CS,315,Introduction to Data Mining,01,"",3,ARRGT,ARR ARR,A Jillepalli
 CS,317,Automata and Formal Languages,01,12746,3,"TU,TH12.05-13.20",GUC VAN,""
 CS,317,Automata and Formal Languages,02,13874,3,"TU,TH13.30-14.45",GUC VAN,""
 CS,330,Numerical Computing,01,12748,3,"TU,TH17.15-18.30",WEB ARR,""
@@ -119,6 +124,7 @@ CS,360,Systems Programming,01,17204,4,"M,W9.10-10.25",WEB ARR,B Mccamish
 CS,360,Systems Programming,01 Lab,17206,0,M14.55-17.25,WEB ARR,B Mccamish
 CS,360,Systems Programming,02 Lab,17207,0,W14.55-17.25,WEB ARR,B Mccamish
 CS,360,Systems Programming,03 Lab,17208,0,F13.30-16,WEB ARR,B Mccamish
+CS,415,Big Data,02,"",3,"TU,TH7.45-9",WEB ARR,J Yu
 CS,420,[CAPS] Software Design Project I,01,12749,3,"M,W16.20-17.35",WEB ARR,X Zhao
 CS,425,Digital Forensics,01,13237,3,"M,W12.05-13.20",WEB ARR,A Wisniewska
 CS,426,Applied Systems Security,01,12994,3,"TU,TH14.55-16.10",WEB ARR,P Bonamy
@@ -131,16 +137,16 @@ CS,518,Advanced Analysis of Algorithms,01,13190,3,"M,W7.45-9",WEB ARR,M Bozorgi
 CS,547,Computer Game Design,01,13241,3,"TU,TH13.30-14.45",WEB ARR,S Wallace
 CS,565,File and Storage Systems,01,12995,3,"TU,TH9.10-10.25",WEB ARR,X Zhang
 CS,700,"Master's Research, Thesis, and/or Examination",01,12754,V,ARRGT,"",(multiple)
-DATA,115,Introduction to Data Analytics,02,12976,3,"TU,TH12.05-13.20",WEB ARR,D Deford
+DATA,115,Introduction to Data Analytics,02,12976,3,"TU,TH10.35-11.50",WEB ARR,D Deford
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,12670,3,"M,W,F9.10-10",WEB ARR,E Mcdonald
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,12671,3,"M,W10.35-11.50",WEB ARR,M Rabby
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,03,12860,3,"TU,TH13.30-14.45",WEB ARR,E Mcdonald
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,04,12903,3,TU17.45-20.30,WEB ARR,E Mcdonald
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,12730,3,"TU,TH9.10-10.25",WEB ARR,B Grell
-DTC,201,[ARTS] Tools and Methods for Digital Technology,02,12813,3,"M,W10.35-11.50",WEB ARR,D Alonzo
+DTC,201,[ARTS] Tools and Methods for Digital Technology,02,12813,3,"M,W10.35-11.50",WEB ARR,C Dreger
 DTC,201,[ARTS] Tools and Methods for Digital Technology,03,13038,3,TH17.45-20.30,WEB ARR,B Grell
 DTC,201,[ARTS] Tools and Methods for Digital Technology,04,17234,3,"TU,TH12.05-13.20",WEB ARR,""
-DTC,208,[ARTS] Introduction to Digital Cinema,01,12964,3,M17.45-20.30,WEB ARR,D Alonzo
+DTC,208,[ARTS] Introduction to Digital Cinema,01,12964,3,M17.45-20.30,WEB ARR,W Luers
 DTC,331,Social Media Practices,01,13091,3,"M,W16.20-17.35",WEB ARR,M Rabby
 DTC,335,3D Digital Animation,01,12678,3,"TU,TH10.35-11.50",WEB ARR,B Grell
 DTC,335,3D Digital Animation,01 Lab,12679,0,ARRGT,ARR ARR,""
@@ -157,9 +163,9 @@ DTC,375,"[M] Language, Texts and Technology",01,12688,3,"TU,TH12.05-13.20",WEB A
 DTC,375,"[M] Language, Texts and Technology",02,12961,3,W17.45-20.30,WEB ARR,""
 DTC,392,Video Games Theories and History,01,13039,3,F11.10-14,WEB ARR,R House
 DTC,475,[DIVR] Digital Diversity,01,13048,3,W17.45-20.30,WEB ARR,M Rabby
-DTC,477,Advanced Multimedia Authoring,01,12675,3,"TU,TH14.55-16.10",WEB ARR,W Luers
+DTC,477,Advanced Multimedia Authoring,01,12675,3,"TU,TH14.55-16.10",WEB ARR,""
 DTC,478,Usability and Interface Design,01,12676,3,M13.30-16.10,WEB ARR,J Barber
-DTC,497,[CAPS] Senior Seminar,01,"",3,W13.30-16.10,WEB ARR,D Alonzo
+DTC,497,[CAPS] Senior Seminar,01,"",3,W13.30-16.10,WEB ARR,S Anderson
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,(multiple)
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
@@ -227,7 +233,7 @@ ENGLISH,102,Writing Tutorial,04,13074,1,TH14.55-15.45,WEB ARR,""
 ENGLISH,102,Writing Tutorial,05,13075,1,ARRGT,ARR ARR,""
 ENGLISH,150,[ARTS] Introduction of Film as Narrative,01,13193,4,"M,W14.55-16.10",WEB ARR,R Tanvir
 ENGLISH,150,[ARTS] Introduction of Film as Narrative,01 Lab,13194,0,ARRGT,ARR ARR,""
-ENGLISH,210,[HUM] Readings in American Literature,01,17457,3,"M,W10.35-11.50",WEB ARR,C Siegel
+ENGLISH,210,[HUM] Readings in American Literature,01,17457,3,"M,W10.35-11.50",WEB ARR,C Ratzlaff
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,12532,3,TU13.30-14.45,WEB ARR,W Olson
 ENGLISH,302,[M] Introduction to English Studies,01,12533,3,"M,W12.05-13.20",WEB ARR,K Robertson
 ENGLISH,302,[M] Introduction to English Studies,02,13174,3,ARRGT,ARR ARR,K Robertson
@@ -235,6 +241,7 @@ ENGLISH,306,Shakespeare,01,13002,3,"TU,TH10.35-11.50",WEB ARR,D Hellegers
 ENGLISH,323,Approaches to the Teaching of English,01,12534,3,"TU,TH16.20-17.35",WEB ARR,J Stevens
 ENGLISH,325,Young Adult Literature,01,12535,3,"M,W16.20-17.35",WEB ARR,S Massart
 ENGLISH,341,[M] Native American Literature,01,17431,3,W17.45-20.30,WEB ARR,J Ankney
+ENGLISH,365,[WRTG] Proposal Writing,01,17758,3,"TU,TH13.30-14.45",WEB ARR,J Staggers
 ENGLISH,370,"The Making of English: Literature, Language and Culture Before 1600",01,12536,3,"TU,TH12.05-13.20",WEB ARR,M Hanly
 ENGLISH,372,[HUM] 19th Century Literature of the British Empire and the Americas,01,12537,3,"TU,TH14.55-16.10",WEB ARR,L Orr
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,"",3,TU10.35-11.50,WEB ARR,M Lobnitz
@@ -243,8 +250,8 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,12583,3,"M,W13.30-1
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,04,12584,3,TU9.10-10.25,WEB ARR,M Lobnitz
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,12585,3,"TU,TH13.30-14.45",GUC VAN,""
 ENGLISH,451,[M] Advanced Creative Writing: Fiction,01,12859,3,TU17.45-20.30,WEB ARR,J Ankney
-ENGLISH,488,Victorian Literature,01,17456,3,"M,W13.30-14.45",WEB ARR,C Siegel
-ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,""
+ENGLISH,488,Victorian Literature,01,17456,3,"M,W13.30-14.45",WEB ARR,C Ratzlaff
+ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,J Phelps
 ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
 ENGLISH,800,"Doctoral Research, Dissertation, and/or Examination",01,12996,V,ARRGT,ARR ARR,""
 ENTRP,485,[M] New Venture Planning,01,12417,3,"M,W9.10-10.25",WEB ARR,A Kier
@@ -319,7 +326,6 @@ HISTORY,336,History of Sexualities,01,13388,3,"TU,TH12.05-13.20",WEB ARR,L Gordi
 HISTORY,387,World War II in Asia and the Pacific,01,13010,3,"M,W14.55-16.10",WEB ARR,X Wang
 HISTORY,419,"[HUM] United States, 1945-Present",01,13011,3,"TU,TH13.30-14.45",WEB ARR,L Mercier
 HISTORY,436,[CAPS] Imperialism in the Modern World,01,13012,3,TU17.45-20.30,WEB ARR,A Whelchel
-HISTORY,439,"Slavery, Abolition and Emancipation in World History",01,17189,3,"TU,TH10.35-11.50",GUC VAN,S Peabody
 HISTORY,444,[CAPS] The Renaissance,01,13766,3,ARRGT,ARR ARR,B Traver
 HISTORY,466,"History of the Cold War, 1944-present",01,17569,3,ARRGT,ARR ARR,A Chastain
 HUMANITY,304,[HUM] Humanities in the Modern World,01,12509,3,"TU,TH9.10-10.25",WEB ARR,L Orr
@@ -361,6 +367,13 @@ MATH,273,Calculus III,01,12700,2,"TU,TH10.35-11.25",WEB ARR,""
 MATH,273,Calculus III,02,12701,2,"TU,TH13.30-14.20",WEB ARR,""
 MATH,300,Mathematical Computing,01,13058,3,"M,W9.10-10.25",WEB ARR,""
 MATH,315,Differential Equations,01,12831,3,"TU,TH9.10-10.25",WEB ARR,""
+MATH,330,Methods of Teaching Secondary School Mathematics,01,12945,3,"TU,TH13.30-14.45",WEB ARR,""
+MATH,405,Introduction to Financial Mathematics,01,"",3,"M,W,F15.10-16",WEB ARR,""
+MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
+MATH,501,Real Analysis,01,12867,3,"M,W,F11.10-12",WEB ARR,""
+MATH,533,Teaching College Mathematics,01,12914,1,M15.10-16,WEB ARR,""
+MATH,592,Seminar in Analysis,01,12843,1,W13.30-14.20,WEB ARR,""
+MATH,600,Special Projects or Independent Study,01,12810,V,ARRGT,ARR ARR,""
 MATH,702,"Master's Special Problems, Directed Study, and/or Examination",01,12809,V,ARRGT,ARR ARR,(multiple)
 MATH,800,"Doctoral Research, Dissertation, and/or Examination",01,12517,V,ARRGT,ARR ARR,(multiple)
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01,12855,3,TU10.35-11.25,WEB ARR,G Gakhar
@@ -416,6 +429,7 @@ MIT,505,Classroom Management Seminar,02,12971,3,TH17-19.45,GUC VAN,H Fowler
 MIT,507,Teacher Inquiry and Praxis,01,12968,3,M17.45-20.30,GUC VAN,R Sawyer
 MIT,530,Elementary School Social Studies Methods,01,12625,3,W8.35-11.25,WEB ARR,S Rakha
 MIT,532,Literacy Development II,01,12626,3,F8.35-11.25,WEB ARR,D Day-Wiff
+MIT,533,Elementary School Mathematics Methods,01,12928,3,W12.35-15.25,WEB ARR,""
 MIT,534,Elementary School Science Methods,01,12929,3,W16.10-19,WEB ARR,R Skar
 MIT,537,Problem Solving in Elementary Mathematics,01,12930,1,TH14.10-16,WEB ARR,""
 MIT,571,Pre-internship and Seminar,01,12627,2,TH16.20-17.50,WEB ARR,N Riem
@@ -618,6 +632,7 @@ PSYCH,350,Social Psychology,01,12600,3,ARRGT,ARR ARR,K Saville
 PSYCH,361,Developmental Psychology,01,12602,3,"TU,TH10.35-11.50",WEB ARR,J Fales
 PSYCH,372,[BSCI] Biological Basis of Behavior,01,12935,3,"M,W12.05-13.20",WEB ARR,D Fortin
 PSYCH,384,Sensation and Perception,02,17582,3,ARRGT,ARR ARR,S Lakatos
+PSYCH,390,[M] Alcohol Use and Abuse,01,17581,3,"M,W10.35-11.50",WEB ARR,B Ladd
 PSYCH,401,[CAPS] [M] Historical Development of Psychology,02,17459,3,"TU,TH10.35-11.50",WEB ARR,M Morgan
 PSYCH,403,Multicultural Psychology,01,13769,3,"W,F13.30-14.45",WEB ARR,A Blume
 PSYCH,412,[CAPS] [M] Psychological Testing and Assessment,01,13756,3,"M,W13.30-14.45",WEB ARR,T Probst
@@ -626,6 +641,9 @@ PSYCH,496,Cooperative Education Internship,01,17485,V,ARRGT,ARR ARR,""
 PSYCH,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,""
 PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,""
 PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
+PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,17482,3,"TU,TH14.55-16.10",WEB ARR,M Morgan
+PSYCH,506,Current Research in Psychology,01,17744,1,W16.10-17,WEB ARR,R Magnan
+PSYCH,523,Health Psychology,01,13392,3,M13.10-16,WEB ARR,R Magnan
 PSYCH,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,(multiple)
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,(multiple)
 SOC,101,[SSCI] Introduction to Sociology,01,12607,3,"M,W13.30-14.45",WEB ARR,""
@@ -644,6 +662,7 @@ SOE,335,[M] Environmental Policy and Law,01,17504,3,"TU,TH16.20-17.35",WEB ARR,R
 SOE,444,Environmental Assessment,01,12684,3,"TU,TH13.30-14.45",WEB ARR,D Thomas
 SOE,476,Biology and Ecology of Pacific Salmon,01,13151,3,"TU,TH16.25-17.40",WEB ARR,J Mcintyre
 SOE,491,Senior Seminar,01,12686,1,M15.10-17,WEB ARR,""
+SOE,492,Special Topics,01,13411,3,"M,W9.10-10.25",WEB ARR,G Rollwagen-Bollens
 SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,""
 SOE,501,Graduate Skills Seminar,01,12687,1,M14.10-15,WEB ARR,C Schultz
 SOE,536,"Climate Change Impacts on Physical, Natural, and Human Systems",01,17697,3,"TU,TH14.55-16.10",WEB ARR,D Singh
@@ -653,6 +672,8 @@ SOE,576,Biology and Ecology of Pacific Salmon,01,13152,3,"TU,TH16.25-17.40",WEB 
 SOE,598,Seminar,01,13057,1,ARRGT,ARR ARR,""
 SOE,700,"Master's Research, Thesis, and/or Examination",01,12567,V,ARRGT,ARR ARR,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,12568,V,ARRGT,ARR ARR,(multiple)
+SOIL_SCI,368,Introduction to Geographic Information Systems,02,17716,3,"TU,TH17.45-20",WEB ARR,""
+SOIL_SCI,368,Introduction to Geographic Information Systems,02 Lab,17717,0,ARRGT,ARR ARR,""
 SPANISH,101,First Semester,01,12719,4,"TU,TH13.30-14.45",WEB ARR,C Gulam
 SPANISH,105,Elementary Conversation,01,12721,1,TU14.55-15.45,WEB ARR,""
 SPANISH,203,Third Semester,01,12722,4,"TU,TH10.35-11.50",WEB ARR,C Gulam
@@ -668,6 +689,9 @@ STAT,360,Probability and Statistics,01,12740,3,"TU,TH9.10-10.25",WEB ARR,""
 STAT,360,Probability and Statistics,02,12741,3,"TU,TH10.35-11.50",WEB ARR,""
 STAT,360,Probability and Statistics,03,12894,3,"TU,TH13.30-14.45",WEB ARR,""
 STAT,423,Statistical Methods for Engineers and Scientists,01,12742,3,"W,F10.35-11.50",WEB ARR,""
+STAT,435,[M] Statistical Modeling for Data Analytics,02,"",3,"M,W11.10-12",WEB ARR,""
+STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,"",0,F11.10-13,WEB ARR,""
+STAT,443,Applied Probability,01,"",3,"TU,TH9.10-10.25",WEB ARR,""
 STAT,523,Statistical Methods for Engineers and Scientists,01,12743,3,"W,F10.35-11.50",WEB ARR,""
 TCH_LRN,305,Fundamentals of Instruction,01,12617,2,"M,F10.10-11",WEB ARR,J Masterson
 TCH_LRN,307,Survey of Children's Literature,01,12823,3,W8.10-11,WEB ARR,D Day-Wiff
@@ -677,6 +701,7 @@ TCH_LRN,330,Diversity in Education,01,12896,3,M11.10-14,WEB ARR,S Rakha
 TCH_LRN,333,Introduction to English as a Second Language (ESL),01,12619,3,W11.10-14,WEB ARR,G Ernst-Slavit
 TCH_LRN,339,Communicating in Diverse Classrooms,01,12620,3,M11.10-14,WEB ARR,G Ernst-Slavit
 TCH_LRN,402,Instructional Practicum I,01,12637,1,W14.10-15,WEB ARR,""
+TCH_LRN,415,Student Teaching,01,12621,V,M17.45-20,WEB ARR,M Connolly
 TCH_LRN,433,Middle Level Mathematics Methods,01,12864,3,M16.45-19.30,WEB ARR,T Heikila
 TCH_LRN,434,Conceptualization of Proportional Thinking,01,12623,3,TH16.15-19,WEB ARR,K Lesseig
 TCH_LRN,445,Elementary Methods of Educational Technology,01,12926,2,M16.20-18.10,WEB ARR,M Munn

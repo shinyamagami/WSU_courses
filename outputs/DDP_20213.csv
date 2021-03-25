@@ -76,7 +76,6 @@ B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",02,""
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",03,"",1,ARRGT,ARR ARR,""
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",04,"",1,ARRGT,ARR ARR,""
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",05,17320,1,ARRGT,ARR ARR,J Rose
-B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",06,17321,1,ARRGT,ARR ARR,J Rose
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",11,17355,1,ARRGT,ARR ARR,G Mader
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",12,17356,1,ARRGT,ARR ARR,G Mader
 B_LAW,210,Law and the Legal Environment of Business,01,10418,3,ARRGT,ARR ARR,""
@@ -94,6 +93,7 @@ BIOLOGY,393,[M] Professional Communications in Biology,01,10453,2,ARRGT,ARR ARR,
 BIOLOGY,401,[CAPS] Plants and People,01,11115,3,ARRGT,ARR ARR,D Thomas
 CAS,400,End-of-Program Evaluation Portfolio,01,10326,1,ARRGT,ARR ARR,A Rocha
 CAS,497,Internship,01,"",V,ARRGT,ARR ARR,(multiple)
+CE,508,Concrete Durability,01,10819,3,ARRGT,ARR ARR,X Shi
 CES,271,[HUM] Native Music of North America,01,10460,3,ARRGT,ARR ARR,M Parkhurst
 CHEM,103,Concepts in Chemistry,01,10960,4,ARRGT,ARR ARR,""
 CHEM,103,Concepts in Chemistry,01 Lab,11135,0,ARRGT,ARR ARR,""
@@ -109,6 +109,7 @@ COM,105,[HUM] Communication in Global Contexts,03,10826,3,ARRGT,ARR ARR,""
 COM,138,Introduction to Communication,01,10682,3,ARRGT,ARR ARR,T Simmons
 COM,210,[COMM] Multimedia Content Creation,01,10312,3,ARRGT,ARR ARR,""
 COM,300,[M] Writing in Communication,01,10848,3,ARRGT,ARR ARR,M Mclaughlin
+COM,300,[M] Writing in Communication,04,11151,3,ARRGT,ARR ARR,L Cuen Paxson
 COM,309,Quantitative Research Methods,01,10754,3,ARRGT,ARR ARR,W Peng
 COM,464,Gender and the Media,01,10426,3,ARRGT,ARR ARR,T Gillig
 COM,475,Communication Seminar,01,10835,3,ARRGT,ARR ARR,M Loveless
@@ -165,12 +166,12 @@ DTC,201,[ARTS] Tools and Methods for Digital Technology,01,17587,3,ARRGT,ARR ARR
 DTC,475,[DIVR] Digital Diversity,01,11103,3,ARRGT,ARR ARR,""
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,P Arnold
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,""
-E_E,214,Design of Logic Circuits,01,"",4,"TU,TH9-10.15","",M Kejariwal
+E_E,214,Design of Logic Circuits,01,"",4,"M,W9-10.15","",M Kejariwal
 E_E,214,Design of Logic Circuits,01 Lab,"",0,M13-16,"",M Kejariwal
-E_E,302,Professional Skills in Computing and Engineering,01,"",3,"TU,TH13.25-14.40","",J Thompson
-E_E,311,Electronics,01,"",3,"TU,TH9-10.15","",M Kejariwal
-E_E,321,Electrical Circuits II,01,"",3,"M,W10.35-11.45","",J Guerrero Sedeno
-E_E,331,Electromagnetic Fields and Waves,01,"",3,"M,W9-10.15","",J Guerrero Sedeno
+E_E,302,Professional Skills in Computing and Engineering,01,"",3,"TU,TH13.30-14.45","",J Thompson
+E_E,311,Electronics,01,"",3,"M,W10.30-11.40","",M Kejariwal
+E_E,321,Electrical Circuits II,01,"",3,"TU,TH10.30-11.45","",J Guerrero Sedeno
+E_E,331,Electromagnetic Fields and Waves,01,"",3,"TU,TH9-10.15","",J Guerrero Sedeno
 E_E,415,Design Project Management,01,"",3,"W,F12.10-13","",M Kejariwal
 E_E,432,RF Engineering for Telecommunications,01,"",4,"M,W,F10.10-11",WEB ARR,B Belzer
 E_E,432,RF Engineering for Telecommunications,01 Lab,"",0,ARRGT,ARR ARR,B Belzer
@@ -181,20 +182,22 @@ E_E,492,Renewable Energy Sources,01,"",3,"M,W,F14.10-15","",J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,03,17719,3,ARRGT,ARR ARR,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,01 Lab,"",0,ARRGT,ARR ARR,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,03 Lab,17734,0,ARRGT,ARR ARR,J Guerrero Sedeno
+E_E,493,Protection of Power Systems I,01,10423,3,"TU,TH16.20-17.35","",S Lotfifard
+E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,M Kejariwal
 E_E,526,High Voltage Overhead Transmission Lines,01,"",3,ARRGT,ARR ARR,R Olsen
 E_E,536,Power Systems Economics and Electricity Markets,01,10676,3,ARRGT,ARR ARR,A Srivastava
 E_E,701,Master's Independent Capstone Project and /or Examination,01,10726,V,ARRGT,ARR ARR,(multiple)
 E_M,422,Leading People and Organizations,01,"",3,TU17.15-19.45,WEB ARR,K Bachman
 E_M,422,Leading People and Organizations,02,"",3,W17.15-19.45,WEB ARR,K Bachman
-E_M,430,Applications of Constraints Management,01,"",3,TH17.15-19.45,WEB ARR,L Magpili
+E_M,430,Applications of Constraints Management,01,"",3,ARRGT,ARR ARR,""
 E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,""
 E_M,464,Project Management,01,"",3,M17.15-19.45,WEB ARR,W Gray
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",D Paulus
 E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,D Paulus
-E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,WEB ARR,R Crick
+E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,ARRGT,ARR ARR,""
 E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,WEB ARR,K Bachman
 E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,WEB ARR,K Bachman
-E_M,530,Applications of Constraints Management,01,10412,3,TH17.15-19.45,WEB ARR,L Magpili
+E_M,530,Applications of Constraints Management,01,10412,3,ARRGT,ARR ARR,""
 E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,""
 E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,W Gray
 E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,WEB ARR,A Squires
@@ -217,6 +220,7 @@ ECONS,335,[QUAN] Business Finance Economics,01,10672,3,ARRGT,ARR ARR,""
 ECONS,352,Business Management Economics,01,10668,3,ARRGT,ARR ARR,""
 ECONS,425,Industrial Organization,01,10845,3,ARRGT,ARR ARR,""
 ECONS,451,Advanced Food Economics and Marketing,01,10957,3,ARRGT,ARR ARR,""
+ECONS,490,[CAPS] [M] Economics Capstone,01,"",3,ARRGT,ARR ARR,""
 ECONS,497,Economics Internship,01,"",V,ARRGT,ARR ARR,E Jessup
 ECONS,499,Special Problems,01,"",V,ARRGT,ARR ARR,M Gibson
 ECONS,505,Economics for Agricultural Decision Making,01,10289,3,ARRGT,ARR ARR,R Gallardo
@@ -249,6 +253,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,19,12379,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,20,17699,3,ARRGT,ARR ARR,A Hillen
 ENGLISH,419,The Twentieth Century Novel,01,11131,3,ARRGT,ARR ARR,""
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,R Gregory
+ENGR,489,Professional Practice Coop/Internship II,01,"",1,ARRGT,ARR ARR,S Brabb
 ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,10239,3,ARRGT,ARR ARR,A Felsot
 FIN,223,[QUAN] Personal Finance,01,10843,3,ARRGT,ARR ARR,""
 FIN,223,[QUAN] Personal Finance,02,10854,3,ARRGT,ARR ARR,""
@@ -265,6 +270,7 @@ FIN,527,Investment Analysis,06,17666,3,ARRGT,ARR ARR,R Hernandez
 FINE_ART,101,[ARTS] Introduction to Art,01,10321,3,ARRGT,ARR ARR,D Doty
 FINE_ART,103,[ARTS] 3D Art and Design,01,11136,3,ARRGT,ARR ARR,I Palmer
 FOR_LANG,101,[HUM] Introduction to the World of Languages,01,10325,3,ARRGT,ARR ARR,""
+FOR_LANG,110,[DIVR] Introduction to Global Film,01,10897,3,ARRGT,ARR ARR,V Navarro-Daniels
 H_D,101,[SSCI] Human Development Across the Lifespan,01,10483,3,ARRGT,ARR ARR,C Seeley
 H_D,200,Introduction to the Field of Human Development,01,10485,2,ARRGT,ARR ARR,W Ewest
 H_D,204,[SSCI] Family Interactions,01,10254,3,ARRGT,ARR ARR,M Garcia
@@ -329,6 +335,7 @@ HISTORY,390,U.S. Military History,01,17235,3,ARRGT,ARR ARR,O Svingen
 HISTORY,422,History of the Pacific Northwest,01,17588,3,ARRGT,ARR ARR,""
 HISTORY,444,[CAPS] The Renaissance,01,11113,3,ARRGT,ARR ARR,B Traver
 HISTORY,466,"History of the Cold War, 1944-present",01,17701,3,ARRGT,ARR ARR,A Chastain
+HONORS,280,Contextual Understanding in the Arts and Humanities,02,15480,3,ARRGT,ARR ARR,E Lampman
 HUMANITY,103,[HUM] Mythology,01,10474,3,ARRGT,ARR ARR,R Goodrich
 HUMANITY,103,[HUM] Mythology,02,10715,3,ARRGT,ARR ARR,R Goodrich
 I_BUS,380,International Business,01,10329,3,ARRGT,ARR ARR,""
@@ -342,8 +349,10 @@ I_BUS,580,International Business Management,03,10921,3,ARRGT,ARR ARR,B Marlowe
 I_BUS,580,International Business Management,04,10922,3,ARRGT,ARR ARR,B Marlowe
 I_BUS,580,International Business Management,05,10923,3,ARRGT,ARR ARR,B Marlowe
 I_BUS,580,International Business Management,06,10924,3,ARRGT,ARR ARR,B Marlowe
+I_D,490,Cooperative Education Internship,01,10465,V,ARRGT,ARR ARR,R Krikac
 KINES,496,Special Topics,01,10829,V,ARRGT,ARR ARR,C Connolly
 MATH,103,Algebra Methods and Introduction to Functions,01,10332,3,ARRGT,ARR ARR,""
+MATH,103,Algebra Methods and Introduction to Functions,02,10874,3,ARRGT,ARR ARR,E Sablan
 MATH,201,Mathematics for Business and Economics,01,10334,3,ARRGT,ARR ARR,""
 MATH,202,[QUAN] Calculus for Business and Economics,01,10335,3,ARRGT,ARR ARR,""
 MBIOS,301,General Genetics,01,10222,4,ARRGT,ARR ARR,N Mccabe
@@ -362,14 +371,14 @@ MBIOS,583,Professional Skills Seminar,01,10236,1,ARRGT,ARR ARR,B Hubbard
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,10863,V,ARRGT,"",N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,10238,V,ARRGT,ARR ARR,N Mccabe
 ME,303,Fluid Mechanics,01,"",3,"M,W,F9.10-10",WEB ARR,B Asgharian Dastenaie
-ME,304,Heat Transfer,01,17596,3,ARRGT,ARR ARR,B Asgharian Dastenaie
+ME,304,Heat Transfer,01,17596,3,"M,W,F11.10-12",WEB ARR,B Asgharian Dastenaie
 ME,313,Engineering Analysis,01,"",3,"M,W13-13.50",WEB ARR,S Chien
 ME,313,Engineering Analysis,01 Lab,10436,0,W13-16,"",S Chien
 ME,316,Mechanical Component Analysis and Design,01,"",3,"M,W,F14.10-15",WEB ARR,M Pitts
 ME,415,[M] Engineering Design,01,"",3,"M,W,F12.10-13",WEB ARR,M Pitts
 ME,436,Combustion Engines,01,"",3,"M,W,F15.10-16",WEB ARR,""
 ME,461,Introduction to Nuclear Engineering,01,"",3,"TU,TH16.15-17.30","",R Stout
-ME,483,Topics in Mechanical Engineering,01,17597,3,ARRGT,ARR ARR,G Taub
+ME,483,Topics in Mechanical Engineering,01,17597,3,"W,F16.15-17.30",WEB ARR,G Taub
 MGMT,301,Principles of Management and Organization,01,10336,3,ARRGT,ARR ARR,""
 MGMT,301,Principles of Management and Organization,02,10653,3,ARRGT,ARR ARR,""
 MGMT,401,Leading People and Organizations,01,10339,3,ARRGT,ARR ARR,""
@@ -427,6 +436,7 @@ MIS,572,Database Management Systems,03,"",3,ARRGT,ARR ARR,J Taylor
 MIS,572,Database Management Systems,04,"",3,ARRGT,ARR ARR,""
 MIS,572,Database Management Systems,05,"",3,ARRGT,ARR ARR,J Taylor
 MIS,572,Database Management Systems,06,"",3,ARRGT,ARR ARR,J Taylor
+MIT,530,Elementary School Social Studies Methods,01,"",3,ARRGT,ARR ARR,""
 MKTG,360,Marketing,01,10357,3,ARRGT,ARR ARR,""
 MKTG,360,Marketing,02,10659,3,ARRGT,ARR ARR,""
 MKTG,360,Marketing,03,10660,3,ARRGT,ARR ARR,""
@@ -517,6 +527,8 @@ SOE,210,[PSCI] Earth's History and Evolution,01,10387,4,ARRGT,ARR ARR,""
 SOE,210,[PSCI] Earth's History and Evolution,01 Lab,10388,0,ARRGT,ARR ARR,""
 SOE,285,The Science and Policy of Climate Change,01,11050,3,ARRGT,"",K Whitman
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,11024,3,ARRGT,ARR ARR,M Ostrom
+SOE,390,Living on the Edge: Global Climate Change and Earth History,01,10860,3,ARRGT,ARR ARR,""
+SOE,492,Special Topics,01,17746,V,"TU,TH12.05-13.20","",A King
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,A King
 SOIL_SCI,101,Organic Gardening and Farming,01,10382,3,ARRGT,ARR ARR,L Carpenter-Boggs
 SOIL_SCI,201,[BSCI] Soil: A Living System,01,10383,3,ARRGT,ARR ARR,G Lahue
@@ -539,7 +551,6 @@ SPEC_ED,509,Early Childhood Special Education,01,"",3,ARRGT,ARR ARR,""
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,"",3,ARRGT,ARR ARR,""
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,M Dunn
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,12310,V,ARRGT,ARR ARR,(multiple)
-STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,""
 STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",G Taub
 STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,""
 STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,""

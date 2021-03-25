@@ -2,20 +2,12 @@ Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg 
 ACCTG,230,Introduction to Financial Accounting,01,08567,3,"M,W,F13.10-14",GUC TRI,K Jones
 ACCTG,231,Introduction to Managerial Accounting,01,08517,3,"TU,TH13.30-14.45",GUC TRI,K Jones
 ACCTG,338,Cost Accounting,01,08518,3,"TU,TH16.20-17.35",GUC TRI,K Jones
-AGRI,587,Research and Extension Communications in Agriculture,01,"",3,ARRGT,ARR ARR,C Perillo
 ANTH,101,[DIVR] Introduction to Anthropology,01,08586,3,"M,W,F11.10-12",GUC TRI,M Mansperger
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,08783,4,"M,W,F14.10-15",GUC TRI,M Mansperger
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,08784,0,"TU,TH9.10-10.25",GUC TRI,M Mansperger
-ANTH,320,[DIVR] Native Peoples of North America,01,"",3,ARRGT,ARR ARR,J Mcnassar
 ANTH,336,Old World Civilizations,01,15490,3,"TU,TH13.30-14.45",GUC TRI,M Mansperger
-ANTH,350,"[DIVR] Speech, Thought, and Culture",01,"",3,ARRGT,ARR ARR,""
-ANTH,390,[M] History of Anthropological Thought,01,"",3,ARRGT,ARR ARR,J Mcnassar
-ANTH,404,[CAPS] The Self in Culture,01,"",3,ARRGT,ARR ARR,J Mageo
 ANTH,498,Anthropology Internship,01,"",V,ARRGT,ARR ARR,M Mansperger
-B_A,100,Introduction to Business,01,"",3,ARRGT,"",C Cooney
-B_A,102,Exploring Careers in Business,01,"",1,ARRGT,"",S Billington
 B_A,211,"Ethics, Teams, and Innovation",01,09589,3,"TU,TH10.35-11.50",GUC TRI,J Bravo
-B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,"",3,ARRGT,"",Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,17197,3,"TU,TH16.20-17.35",GUC TRI,S Koopman
 B_LAW,210,Law and the Legal Environment of Business,01,08520,3,"M,W19.15-20.30",GUC TRI,B Spooner
 BIOLOGY,102,[BSCI] General Biology,01,08627,4,"M,W,F12.10-13",WEB ARR,Y Liu
@@ -28,7 +20,6 @@ BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02 Lab,08733,0,TH9.1
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,03 Lab,08749,0,TH13.30-16.20,"",E Sweet
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,04 Lab,08906,0,TH17.45-20.35,"",E Sweet
 BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,08679,3,"M,W7.45-9",GUC TRI,K Mcateer
-BIOLOGY,220,Medical Terminology,01,"",2,ARRGT,ARR ARR,N Ankrah
 BIOLOGY,301,General Genetics,01,08584,4,"M,W,F12.10-13",WEB ARR,E Sweet
 BIOLOGY,301,General Genetics,"","","",M11.10-12,GUC TRI,""
 BIOLOGY,301,General Genetics,03,09583,4,"M,W,F12.10-13",WEB ARR,E Sweet
@@ -55,6 +46,8 @@ BIOLOGY,600,Special Projects or Independent Study,01,08767,V,ARRGT,ARR ARR,A Fel
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,08576,V,ARRGT,ARR ARR,(multiple)
 BIOLOGY,702,"Master's Special Problems, Directed Study and/or Examination",01,08710,V,ARRGT,ARR ARR,A Felsot
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,08577,V,ARRGT,ARR ARR,(multiple)
+BSYSE,596,Biomass Thermo-Chemical Conversion,01,09271,3,M8.10-10.40,VC TRI,M Garcia-Perez
+BSYSE,598,Graduate Seminar,01,08426,1,TH16.10-17,WEB ARR,S Sablani
 BSYSE,700,"Master's Research, Thesis, and/or Examination",01,08434,V,ARRGT,ARR ARR,(multiple)
 BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,08436,V,ARRGT,ARR ARR,(multiple)
 CE,211,Statics,01,08706,3,"TU,TH17.45-19",GUC TRI,M Hossain
@@ -109,10 +102,6 @@ CHEM,345,Organic Chemistry I,05 Lab,17210,0,TU13.30-16.20,"",N Devarie Baez
 CHEM,499,Special Problems,01,"",V,ARRGT,ARR ARR,E Silva Lopez
 COM,102,[COMM] Public Speaking in the Digital Age,01,08676,3,"TU,TH12.05-13.20",GUC TRI,""
 COM,102,[COMM] Public Speaking in the Digital Age,02,08881,3,"M,W,F10.10-11",GUC TRI,""
-COM,102,[COMM] Public Speaking in the Digital Age,05,"",3,ARRGT,ARR ARR,""
-COM,105,[HUM] Communication in Global Contexts,01,"",3,ARRGT,ARR ARR,C Curtis
-COMHLTH,571,Communicating Health in Practice,01,09530,3,ARRGT,ARR ARR,J Willoughby
-COMHLTH,572,Communicating Health to Specialized Populations,01,09745,3,ARRGT,ARR ARR,C Newman
 CPT_S,121,Program Design and Development C/C++,01,08493,4,"M,W16.15-17.30",GUC TRI,L Delatorre
 CPT_S,121,Program Design and Development C/C++,01 Lab,08494,0,F16.10-19,GUC TRI,L Delatorre
 CPT_S,223,Advanced Data Structures C/C++,01,08495,3,"M,W16.15-17.30",GUC TRI,N Tenney
@@ -141,12 +130,10 @@ CPT_S,534,Neural Network Design and Application,01,09434,3,"TU,TH13.30-14.45",GU
 CPT_S,540,Artificial Intelligence,01,08503,3,"TU,TH9.10-10.25",WEB ARR,L Holder
 CPT_S,542,Computer Graphics,01,08820,3,"TU,TH12.05-13.20",GUC TRI,R Lewis
 CPT_S,553,Graph Theory,01,08910,3,"M,W,F14.10-15",WEB ARR,M Hudelson
-CPT_S,582,Software Testing,01,"",3,ARRGT,"",V Arnaoudova
 CPT_S,600,Special Projects or Independent Study,01,08510,V,ARRGT,ARR ARR,(multiple)
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,08511,V,ARRGT,ARR ARR,(multiple)
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,08512,V,ARRGT,ARR ARR,(multiple)
 CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,08513,V,ARRGT,ARR ARR,(multiple)
-CRM_J,365,Juvenile Justice and Corrections,01,"",3,ARRGT,ARR ARR,""
 CROP_SCI,102,Introduction to Cultivated Plants,01,08713,3,"M,W,F11.10-12",WEB ARR,C Kawula
 CROP_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,A Dhingra
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,08587,3,"M,W,F9.10-10",GUC TRI,P Mudd
@@ -155,10 +142,10 @@ DTC,201,[ARTS] Tools and Methods for Digital Technology,01,08751,3,"M,W,F13.10-1
 DTC,206,[DIVR] Digital Inclusion,01,09429,3,"M,W,F14.10-15",GUC TRI,A Plemons
 DTC,355,[M] Multimedia Authoring,02,09222,3,"TU,TH9.10-10.25",GUC TRI,""
 DTC,375,"[M] Language, Texts and Technology",01,08829,3,"M,W,F13.10-14",GUC TRI,A Plemons
-DTC,475,[DIVR] Digital Diversity,02,"",3,ARRGT,ARR ARR,""
 DTC,497,[CAPS] Senior Seminar,01,09543,3,"TU,TH12.05-13.20",WEB ARR,R Gregory
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,A Plemons
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,A Plemons
+DTC,560,"Critical Theories, Methods, and Practice in Digital Humanities",01,"",3,ARRGT,ARR ARR,A Plemons
 E_E,214,Design of Logic Circuits,01,08521,4,"M,W16.15-17.30",GUC TRI,M Engels
 E_E,214,Design of Logic Circuits,01 Lab,08522,0,M17.40-20.30,GUC TRI,M Engels
 E_E,302,Professional Skills in Computing and Engineering,01,08499,3,"M,W17.45-19",GUC TRI,E Hirt
@@ -182,11 +169,8 @@ E_E,600,Special Projects or Independent Study,01,08534,V,ARRGT,ARR ARR,(multiple
 E_E,700,"Master's Research, Thesis, and/or Examination",01,08535,V,ARRGT,ARR ARR,(multiple)
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,08536,V,ARRGT,ARR ARR,(multiple)
 E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,08537,V,ARRGT,ARR ARR,(multiple)
-E_M,508,Legal Concepts for Engineering and Technical Managers,01,09206,3,TU17.15-19.45,WEB ARR,R Crick
-E_M,530,Applications of Constraints Management,01,08928,3,TH17.15-19.45,WEB ARR,L Magpili
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,08579,3,"TU,TH9.10-10.25",GUC TRI,J Timmons
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,08718,3,"TU,TH10.35-11.50",GUC TRI,J Timmons
-ECONS,305,Intermediate Microeconomics without Calculus,01,"",3,ARRGT,ARR ARR,""
 ED_AD,501,Philosophy of Education,01,08781,3,W17.45-20.30,WEB ARR,S Finley
 ED_AD,501,Philosophy of Education,02,09385,3,TU17.45-20.30,GUC TRI,S Calderone
 ED_AD,512,Leadership Studies for Social Justice,01,08437,3,TU17.45-20.30,WEB ARR,K Rodela
@@ -223,7 +207,6 @@ ENGLISH,210,[HUM] Readings in American Literature,01,08723,3,"M,W,F10.10-11",GUC
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,"",3,ARRGT,ARR ARR,V Cozza
 ENGLISH,302,[M] Introduction to English Studies,01,09593,3,"TU,TH10.35-11.50",GUC TRI,P Wilde
 ENGLISH,360,Principles of Rhetoric,01,09591,3,"M,W,F11.10-12",GUC TRI,V Cozza
-ENGLISH,361,Everyday Rhetorics,02,"",3,ARRGT,ARR ARR,""
 ENGLISH,370,"The Making of English: Literature, Language and Culture Before 1600",01,08851,3,"TU,TH12.05-13.20",WEB ARR,M Hanly
 ENGLISH,371,17th and 18th Century Transnational Literature in English,01,09592,3,"TU,TH13.30-14.45",GUC TRI,M Mays
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,08654,3,"M,W,F9.10-10",GUC TRI,V Cozza
@@ -232,12 +215,12 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,08724,3,"M,W,F10.10
 ENGLISH,492,"[M] Advanced Topics in Literature, Criticism, and Theory",01,15491,3,"TU,TH9.10-10.25",GUC TRI,G Escalera
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,V Cozza
 ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
+ENGLISH,560,"Critical Theories, Methods, and Practice in Digital Humanities",01,"",3,ARRGT,ARR ARR,A Plemons
 ENGR,120,Innovation in Design,01,08481,2,M14.10-15,WEB ARR,S Hudson
 ENGR,120,Innovation in Design,01 Lab,08482,0,M10.10-13,GUC TRI,S Hudson
 ENGR,120,Innovation in Design,02 Lab,08822,0,M15.10-18,GUC TRI,S Hudson
 ENTOM,343,[M] General Entomology,01,08677,3,"TU,TH13.30-14.45",GUC TRI,A Felsot
 ENTOM,460,Biotechnology and the Environment,01,09420,3,"M,W16.15-17.30",VC TRI,A Felsot
-ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,"",3,ARRGT,ARR ARR,A Felsot
 ENTRP,489,Entrepreneurial Management,02,17198,3,"M,W16.15-17.30",GUC TRI,P Carlisle
 FIN,325,Introduction to Financial Management,01,08514,3,"TU,TH17.45-19",GUC TRI,S Koopman
 FIN,325,Introduction to Financial Management,03,17199,3,"M,W16.15-17.30",GUC TRI,K Jones
@@ -257,19 +240,10 @@ FS,501,Topics in Food Science,02,"",V,ARRGT,ARR ARR,T Collins
 FS,565,Wine Microbiology and Processing,01,08608,3,"M,W,F12.10-13",WEB ARR,C Edwards
 FS,700,"Master's Research, Thesis, and/or Examination",01,09295,V,ARRGT,ARR ARR,(multiple)
 FS,800,"Doctoral Research, Dissertation, and/or Examination",01,09556,V,ARRGT,ARR ARR,(multiple)
-H_D,101,[SSCI] Human Development Across the Lifespan,01,"",3,ARRGT,ARR ARR,C Seeley
-H_D,220,Human Development Theories,01,"",3,ARRGT,ARR ARR,""
-H_D,301,Family Stress and Coping,01,09051,3,ARRGT,ARR ARR,W Ewest
-H_D,302,Parent-Child Relationships,01,"",3,ARRGT,ARR ARR,T Ashford
-H_D,350,[DIVR] Family Diversity,01,"",3,ARRGT,ARR ARR,D Bice
-H_D,408,Advanced Adolescent Development,01,"",3,ARRGT,ARR ARR,C Seeley
-HBM,101,Professional and Career Development for the Business World,01,"",1,ARRGT,"",A Alonzo
 HBM,231,Introduction to Beverage Management,01,09607,1,"TU,TH12.05-12.55",GUC TRI,B Marlowe
 HBM,280,Hospitality Systems,01,08680,3,TH15.10-18,GUC TRI,B Marlowe
-HBM,280,Hospitality Systems,02,"",3,ARRGT,ARR ARR,""
 HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,A Senter
 HBM,350,Beverage Management,01,08744,3,TH17.45-20.35,GUC TRI,R Hammond
-HBM,358,Foodservice Systems and Control,01,08828,3,ARRGT,"",S Seo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,17186,3,"TU,TH10.35-11.50",WEB ARR,J Sandstrom
 HBM,401,Career Management,01,09608,1,TH13.30-14.20,VC TRI,B Marlowe
 HBM,490,Food and Beverage Operational Analysis,01,09218,3,"TU,TH10.35-11.50",VC TRI,R Harrington
@@ -277,11 +251,8 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,08661,3,"M,W,F9.10-10",GU
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,08662,3,"M,W,F13.10-14",GUC TRI,R Franklin
 HISTORY,110,[HUM] American History to 1877,01,08865,3,"M,W,F11.10-12",GUC TRI,T Hanshew
 HISTORY,110,[HUM] American History to 1877,02,09439,3,"TU,TH10.35-11.50",GUC TRI,R Bauman
-HISTORY,111,[HUM] American History Since 1877,01,"",3,ARRGT,ARR ARR,R Powell
 HISTORY,120,[DIVR] World History I,01,08663,3,"M,W17.45-19",GUC TRI,J Kennedy
-HISTORY,121,[HUM] World History II,01,"",3,ARRGT,"",S Herzog
 HISTORY,300,[M] Writing about History,01,08441,3,"M,W,F13.10-14",GUC TRI,T Hanshew
-HISTORY,300,[M] Writing about History,02,"",3,ARRGT,ARR ARR,J Thigpen
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,08726,3,"M,W,F14.10-15",GUC TRI,R Franklin
 HISTORY,308,"[DIVR] North American Indian History, Precontact to Present",02,15498,3,"TU,TH17.45-19",GUC TRI,D Arnold
 HISTORY,388,US and Vietnam,02,"",3,ARRGT,ARR ARR,R Bauman
@@ -305,16 +276,12 @@ HORT,518,[M] Post-harvest Biology and Technology,01 Lab,08452,0,ARRGT,ARR ARR,R 
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,01,09249,3,"M,W,F9.10-10",VC TRI,T Collins
 HORT,800,"Doctoral Research, Dissertation, and/or Examination",01,09939,V,ARRGT,ARR ARR,T Collins
 HUMANITY,103,[HUM] Mythology,01,08599,3,"TU,TH12.05-13.20",GUC TRI,M Pieracci
-HUMANITY,103,[HUM] Mythology,05,"",3,ARRGT,ARR ARR,""
 HUMANITY,302,[HUM] [M] Humanities in the Middle Ages and Renaissance,01,09444,3,"M,W,F13.10-14",GUC TRI,M Pieracci
 HUMANITY,350,Sacred Texts and Cultures of World Religions,01,08678,3,"TU,TH14.55-16.10",GUC TRI,M Pieracci
-I_BUS,380,International Business,01,"",3,ARRGT,"",M Downes
 I_BUS,435,International Tourism,01,17187,3,"TU,TH14.55-16.10",WEB ARR,C Chen
 I_BUS,482,[M] International Marketing,01,08826,3,"TU,TH16.20-17.35",GUC TRI,P Carlisle
 INTERDIS,598,Interdisciplinary Seminar,01,"",1,ARRGT,ARR ARR,""
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,B Clowers
-IPM,452,Pesticides and the Environment,01,"",3,ARRGT,ARR ARR,""
-IPM,552,Pesticides and the Environment,01,08847,3,ARRGT,ARR ARR,""
 KIN_ACTV,101,Beginning Conditioning,01,08694,1,"M,W12.10-13","",W Patterson
 MATH,100,Basic Mathematics,01,09251,2,"M,W10.10-11",GUC TRI,K Fiedler
 MATH,103,Algebra Methods and Introduction to Functions,01,08727,3,"TU,TH13.30-14.45",GUC TRI,K Fiedler
@@ -322,14 +289,11 @@ MATH,106,College Algebra,01,08668,3,"M,W,F9.10-10",GUC TRI,K Fiedler
 MATH,108,Trigonometry,01,08669,2,"W,F14.10-15",GUC TRI,S Selmi
 MATH,171,[QUAN] Calculus I,01,08602,4,"M,W,F9.10-10",WEB ARR,S Selmi
 MATH,171,[QUAN] Calculus I,02,08763,4,"TU,TH12.05-13.20",WEB ARR,S Selmi
-MATH,171,[QUAN] Calculus I,03,"",4,ARRGT,ARR ARR,""
 MATH,171,[QUAN] Calculus I,01 Lab,08603,0,"TU,TH9.10-10.25",GUC TRI,S Selmi
 MATH,171,[QUAN] Calculus I,02 Lab,08764,0,"TU,TH13.30-14.45",GUC TRI,S Selmi
-MATH,171,[QUAN] Calculus I,03 Lab,"",0,ARRGT,ARR ARR,""
 MATH,172,Calculus II,01,08618,4,"M,W,F14.10-15",WEB ARR,D Mitchell
 MATH,172,Calculus II,01 Lab,08619,0,"TU,TH12.05-13.20",GUC TRI,D Mitchell
 MATH,201,Mathematics for Business and Economics,01,08604,3,"M,W,F10.10-11",GUC TRI,S Selmi
-MATH,202,[QUAN] Calculus for Business and Economics,01,"",3,ARRGT,ARR ARR,""
 MATH,220,Introductory Linear Algebra,01,08605,2,"M,W13.10-14",GUC TRI,D Mitchell
 MATH,251,Fundamentals of Elementary Mathematics I,01,08745,3,"TU,TH17.45-18.35",WEB ARR,C Tate
 MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,08746,0,"TU,TH18.45-19.35",WEB ARR,C Tate
@@ -344,11 +308,6 @@ MBIOS,301,General Genetics,01,08583,4,"M,W,F12.10-13",WEB ARR,E Sweet
 MBIOS,301,General Genetics,"","","",M11.10-12,GUC TRI,""
 MBIOS,301,General Genetics,03,09584,4,"M,W,F12.10-13",WEB ARR,E Sweet
 MBIOS,301,General Genetics,"","","",W11.10-12,GUC TRI,""
-MBIOS,303,Introductory Biochemistry,01,"",4,ARRGT,ARR ARR,R Brosemer
-MBIOS,305,General Microbiology,01,"",3,ARRGT,ARR ARR,C Helmick
-MBIOS,501,Cell Biology,01,"",3,ARRGT,ARR ARR,E Shelden
-MBIOS,503,Advanced Molecular Biology I,01,"",3,ARRGT,ARR ARR,C Her
-MBIOS,580,Science Information Literacy,01,"",2,ARRGT,ARR ARR,""
 ME,116,Engineering Computer-aided Design and Visualization,01,08571,2,"W,F8.10-11",GUC TRI,C Yang
 ME,220,Materials Laboratory,01,08538,1,M13.10-16,GUC TRI,Y Zhang
 ME,220,Materials Laboratory,02,08539,1,W13.10-16,GUC TRI,Y Zhang
@@ -373,7 +332,6 @@ ME,600,Special Projects or Independent Study,01,09390,V,ARRGT,ARR ARR,(multiple)
 ME,700,"Master's Research, Thesis, and/or Examination",01,08548,V,ARRGT,ARR ARR,(multiple)
 ME,702,"Master's Special Problems, Directed Study, and/or Examination",01,08549,V,ARRGT,ARR ARR,(multiple)
 ME,800,"Doctoral Research, Dissertation, and/or Examination",01,08550,V,ARRGT,ARR ARR,(multiple)
-MGMT,301,Principles of Management and Organization,01,"",3,ARRGT,"",L Sheppard
 MGMT,450,Personnel and Human Resources Management,01,08553,3,"TU,TH9.10-10.25",GUC TRI,J Bravo
 MGMT,483,[M] Management of Innovation and Change,01,09216,3,"TU,TH10.35-11.50",GUC TRI,P Skilton
 MGMT,485,[M] Negotiation Skills,01,08736,3,"TU,TH12.05-13.20",GUC TRI,J Bravo
@@ -382,7 +340,6 @@ MGMT,491,[CAPS] Strategic Management,01,08555,3,"M,W16.15-17.30",GUC TRI,P Skilt
 MGTOP,215,Business Statistics,01,08515,4,"M,W16.15-17.30",GUC TRI,S Morris
 MGTOP,215,Business Statistics,01 Lab,08516,0,"M,W17.45-18.35",GUC TRI,S Morris
 MGTOP,340,Operations Management,01,08667,3,"TU,TH7.45-9",GUC TRI,T Baker
-MGTOP,340,Operations Management,02,"",3,ARRGT,"",""
 MIS,250,Managing Information Technology,01,08903,3,TU16.20-17.35,GUC TRI,R Swannack
 MIS,250,Managing Information Technology,"","","",TH16.20-17.35,GUC TRI,""
 MIT,532,Literacy Development II,01,09297,3,TH17.15-20,VC TRI,S Newcomer
@@ -395,10 +352,8 @@ MIT,575,Internship and Seminar,01 Lab,08769,0,ARRGT,ARR ARR,J Morrison
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,09573,V,ARRGT,ARR ARR,(multiple)
 MKTG,360,Marketing,01,08558,3,"TU,TH14.55-16.10",GUC TRI,R Hammond
 MKTG,368,Marketing Research,01,09441,3,"TU,TH14.55-16.10",GUC TRI,J Giese
-MKTG,477,Integrated Marketing Communications,01,"",3,ARRGT,ARR ARR,""
 MKTG,495,[M] Marketing Management,01,09442,3,"TU,TH16.20-17.35",GUC TRI,J Giese
 MSE,201,Materials Engineering Fundamentals,01,08559,3,"M,W,F12.10-13",VC TRI,A Porter
-MUS,160,[ARTS] Survey of Music Literature,01,08878,3,ARRGT,ARR ARR,K Mccarthy
 NURS,308,Professional Development I: Professional Roles and Responsibilities,01,08316,3,W10.30-13.30,VC TRI,""
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,08317,3,TH13.10-16,VC TRI,""
 NURS,311,Pathophysiology and Pharmacology in Nursing,01,08318,4,W8.10-10,VC TRI,""
@@ -680,14 +635,9 @@ PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,17213,1,TH13.30-1
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,17216,1,TH9.10-12,GUC TRI,C Capan
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,03,17217,1,TH17.45-20.35,GUC TRI,C Capan
 POL_S,101,[SSCI] American National Government,01,08621,3,"M,W,F10.10-11",GUC TRI,""
-POL_S,101,[SSCI] American National Government,03,"",3,ARRGT,ARR ARR,""
-POL_S,418,Human Issues in International Development,01,"",3,ARRGT,ARR ARR,R Quinlan
 PSYCH,105,[SSCI] Introductory Psychology,01,09229,3,"TU,TH12.05-13.20",GUC TRI,S Tragesser
-PSYCH,105,[SSCI] Introductory Psychology,02,"",3,ARRGT,ARR ARR,""
 PSYCH,201,Degrees and Careers in Psychology,02,17176,1,M13.10-14,GUC TRI,S Bauman
 PSYCH,210,Psychology as a Science,01,08722,3,"M,W,F11.10-12",GUC TRI,A Matthews
-PSYCH,230,Human Sexuality,01,"",3,ARRGT,ARR ARR,""
-PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,01,"",3,ARRGT,ARR ARR,""
 PSYCH,311,[QUAN] Statistics in Psychology,01,08622,4,"M,W,F9.10-10",GUC TRI,J Peters
 PSYCH,311,[QUAN] Statistics in Psychology,"","","",W12.10-13,GUC TRI,""
 PSYCH,312,[M] Research Methods in Psychology,01,08623,4,"M,W,F10.10-11",GUC TRI,J Peters
@@ -699,10 +649,7 @@ PSYCH,372,[BSCI] Biological Basis of Behavior,01,08568,3,"M,W,F14.10-15",GUC TRI
 PSYCH,403,Multicultural Psychology,01,09580,3,"M,W,F9.10-10",GUC TRI,S Bauman
 PSYCH,405,Instructional Practicum Training,01,09535,1,ARRGT,ARR ARR,J Peters
 PSYCH,412,[CAPS] [M] Psychological Testing and Assessment,01,09276,3,"TU,TH9.10-10.25",GUC TRI,P Strand
-PSYCH,412,[CAPS] [M] Psychological Testing and Assessment,02,"",3,ARRGT,ARR ARR,""
-PSYCH,490,Cognition and Memory,01,"",3,ARRGT,ARR ARR,""
 PSYCH,490,Cognition and Memory,02,17180,3,"TU,TH10.35-11.50",GUC TRI,A Matthews
-PSYCH,491,Principles of Learning,01,"",3,ARRGT,ARR ARR,""
 PSYCH,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,(multiple)
 PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,(multiple)
 PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,(multiple)
@@ -710,26 +657,17 @@ SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01,08673,4,M
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01 Lab,09305,0,W17.45-20.35,GUC TRI,G Schramm
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,02 Lab,17219,0,F16.15-19.05,GUC TRI,G Schramm
 SOC,101,[SSCI] Introduction to Sociology,01,08690,3,"TU,TH13.30-14.45",GUC TRI,""
-SOC,101,[SSCI] Introduction to Sociology,03,"",3,ARRGT,ARR ARR,""
 SOC,350,Social Psychology,01,09255,3,TU14.55-16.10,GUC TRI,S Tragesser
-SOC,352,Youth and Society,01,"",3,ARRGT,ARR ARR,J Kremer
-SOC,362,Juvenile Delinquency,01,"",3,ARRGT,ARR ARR,""
-SOE,101,[PSCI] Introduction to Geology,01,08682,4,"TU,TH12.05-13.20",WEB ARR,J Rosso
-SOE,101,[PSCI] Introduction to Geology,01 Lab,08683,0,TU13.30-16.20,GUC TRI,J Rosso
-SOE,101,[PSCI] Introduction to Geology,02 Lab,08684,0,W15.10-18,GUC TRI,J Rosso
-SOE,101,[PSCI] Introduction to Geology,03 Lab,08685,0,TH9.10-12,GUC TRI,J Rosso
-SOE,101,[PSCI] Introduction to Geology,04 Lab,08701,0,TH13.30-16.20,GUC TRI,J Rosso
-SOE,101,[PSCI] Introduction to Geology,05 Lab,09231,0,F15.10-18,GUC TRI,J Rosso
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01,08682,4,"TU,TH12.05-13.20",WEB ARR,J Rosso
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,08683,0,TU13.30-16.20,GUC TRI,J Rosso
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02 Lab,08684,0,W15.10-18,GUC TRI,J Rosso
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,03 Lab,08685,0,TH9.10-12,GUC TRI,J Rosso
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,04 Lab,08701,0,W11.10-14,GUC TRI,J Rosso
 SOE,210,[PSCI] Earth's History and Evolution,02,09585,4,"TU,TH10.35-11.50",GUC TRI,S Reidel
-SOE,210,[PSCI] Earth's History and Evolution,02 Lab,09586,0,W11.10-14,GUC TRI,S Reidel
-SOE,285,The Science and Policy of Climate Change,01,"",3,ARRGT,"",K Whitman
-SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,"",3,ARRGT,ARR ARR,M Ostrom
-SOE,315,Water and the Earth,01 Lab,"",0,ARRGT,"",S Henderson
+SOE,210,[PSCI] Earth's History and Evolution,02 Lab,09586,0,TU12.05-14.55,"",S Reidel
 SOE,335,[M] Environmental Policy and Law,01,09254,3,"TU,TH16.20-17.35",VC TRI,R Swenson
-SOE,411,[M] Limnology and Aquatic Ecosystem Management,01,09415,3,"TU,TH12.30-13.20",GUC TRI,S Roley
-SOE,411,[M] Limnology and Aquatic Ecosystem Management,01 Lab,09423,0,TH13.30-16.20,GUC TRI,S Roley
-SOE,454,[CAPS] [M] Restoration Ecology,01,"",3,ARRGT,ARR ARR,""
-SOE,454,[CAPS] [M] Restoration Ecology,01 Lab,"",0,ARRGT,ARR ARR,""
+SOE,411,[M] Limnology and Aquatic Ecosystem Management,01,09415,3,"TU,TH12.10-13",VC TRI,S Roley
+SOE,411,[M] Limnology and Aquatic Ecosystem Management,01 Lab,09423,0,F13.10-16,GUC TRI,S Roley
 SOE,460,Biotechnology and the Environment,01,09419,3,"M,W16.15-17.30",VC TRI,A Felsot
 SOE,475,Groundwater,01,09576,3,"M,W12.10-13",GUC TRI,M Hossain
 SOE,475,Groundwater,01 Lab,09582,0,W8-10.50,GUC TRI,M Hossain
@@ -741,35 +679,20 @@ SOE,600,Special Projects or Independent Study,01,08776,V,ARRGT,ARR ARR,A Felsot
 SOE,700,"Master's Research, Thesis, and/or Examination",01,08590,V,ARRGT,ARR ARR,(multiple)
 SOE,702,"Master's Special Problems, Directed Study, and/or Examination",01,08591,V,ARRGT,ARR ARR,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,08592,V,ARRGT,ARR ARR,(multiple)
-SOIL_SCI,101,Organic Gardening and Farming,01,"",3,ARRGT,ARR ARR,L Carpenter-Boggs
-SOIL_SCI,201,[BSCI] Soil: A Living System,01,"",3,ARRGT,ARR ARR,G Lahue
-SOIL_SCI,368,Introduction to Geographic Information Systems,01,"",3,ARRGT,ARR ARR,L Brueggeman
-SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,"",0,ARRGT,ARR ARR,L Brueggeman
-SOIL_SCI,443,[M] Soil Management for Sustainable and Organic Farming Systems,01,08848,3,ARRGT,ARR ARR,L Carpenter-Boggs
-SOIL_SCI,479,Organic Farm and Garden Field Management,01,"",2,ARRGT,ARR ARR,B Jaeckel
 SOIL_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,A Dhingra
 SPANISH,101,First Semester,01,08674,4,"M,W,F12.10-13",GUC TRI,F Arellano Serratos
-SPANISH,101,First Semester,02,"",4,ARRGT,"",M Previto
 SPANISH,111,[ARTS] Latin American Film,01,17192,3,"M,W,F13.10-14",GUC TRI,F Arellano Serratos
 SPANISH,306,Intermediate Reading and Translation,01,09338,3,"TU,TH13.30-14.45",GUC TRI,F Arellano Serratos
-SPEC_ED,301,Education of Exceptional Children,01,08778,3,ARRGT,ARR ARR,""
-SPEC_ED,301,Education of Exceptional Children,02,09364,3,ARRGT,ARR ARR,J Danielson
 SPEC_ED,401,Teaching Students with Disabilities,01,08454,3,W17.15-20,GUC TRI,Y Hsiao
-SPEC_ED,401,Teaching Students with Disabilities,02,"",3,ARRGT,ARR ARR,""
 SPEC_ED,404,Professional Skills in Special Education,01,08456,3,M17.15-20,GUC TRI,S Petersen
-SPEC_ED,409,Early Childhood Special Education,01,08779,3,ARRGT,ARR ARR,""
 SPEC_ED,420,Teaching in Inclusive Classrooms,01,08458,V,M13.10-16,GUC TRI,Y Hsiao
-SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,08780,3,ARRGT,ARR ARR,""
 SPEC_ED,501,Teaching Students with Disabilities,01,08455,3,W17.15-20,GUC TRI,Y Hsiao
 SPEC_ED,504,Professional Skills in Special Education,01,08457,3,M17.15-20,GUC TRI,S Petersen
-SPEC_ED,509,Early Childhood Special Education,01,08807,3,ARRGT,ARR ARR,""
 SPEC_ED,520,Teaching in Inclusive Classrooms,01,08459,V,M13.10-16,GUC TRI,Y Hsiao
-SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,08714,3,ARRGT,ARR ARR,""
 STAT,212,[QUAN] Introduction to Statistical Methods,01,08728,4,"M,W,F13.10-14",WEB ARR,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,08729,0,M15.10-17,GUC TRI,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,08730,0,W15.10-17,GUC TRI,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,04 Lab,09333,0,F15.10-17,GUC TRI,R Learn
-STAT,360,Probability and Statistics,01,"",3,ARRGT,ARR ARR,""
 STAT,370,Introductory Statistics for Engineers,01,08570,3,"TU,TH16.20-17.35",GUC TRI,R Learn
 STAT,412,Statistical Methods in Research I,01,08585,3,"TU,TH13.30-14.45",GUC TRI,R Learn
 TCH_LRN,301,Learning and Development,01,08461,3,W13.10-15.55,GUC TRI,M Moscatelli
@@ -818,4 +741,3 @@ VIT_ENOL,465,Wine Microbiology and Processing,01,08428,3,"M,W,F12.10-13",WEB ARR
 VIT_ENOL,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,""
 WOMEN_ST,324,Psychology of Gender,02,17178,3,"M,W,F10.10-11",GUC TRI,S Bauman
 WRIT,302,Advanced Writing Collaborative,01,09437,1,M12.10-13,GUC TRI,R Mays
-WRIT,302,Advanced Writing Collaborative,03,"",1,ARRGT,ARR ARR,T Holland
