@@ -72,13 +72,13 @@ BSYSE,700,"Master's Research, Thesis, and/or Examination",01,03017,V,ARRGT,ARR,M
 BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,03019,V,ARRGT,ARR,May 10--Jul 30,(multiple)
 CAS,400,End-of-Program Evaluation Portfolio,01,"",1,ARRGT,ARR ARR,May 10--Jul 30,A Rocha
 CAS,497,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,K Jennings
-CE,211,Statics,01,07417,3,"M,TU,W,TH,F13.30-15.30",WEB ARR,May 10--Jun 04,""
-CE,215,Mechanics of Materials,01,07418,3,"M,TU,W,TH,F10.30-11.30",WEB ARR,Jun 07--Jul 30,""
+CE,211,Statics,01,07417,3,"M,TU,W,TH,F13.30-15.30",WEB ARR,May 10--Jun 04,S Amarasiri
+CE,215,Mechanics of Materials,01,07418,3,"M,TU,W,TH,F10.30-11.30",WEB ARR,Jun 07--Jul 30,J Cheng
 CE,302,Introduction to Surveying,01,07420,2,"M,TU,W,TH,F7.30-8.30",SPRK G0045,May 10--May 28,K Olsen
 CE,302,Introduction to Surveying,01 Lab,07421,0,"M,TU,W,TH,F8.40-11.10",SPRK G0045,May 10--May 28,K Olsen
 CE,302,Introduction to Surveying,02 Lab,07422,0,"M,TU,W,TH,F11.30-14",SPRK G0045,May 10--May 28,K Olsen
-CE,414,Structural Design Loads and Load Paths,01,07423,3,"M,TU,W,TH,F9-11",WEB ARR,May 10--Jun 04,""
-CE,463,Engineering Administration,01,07419,3,"M,TU,W,TH,F14.10-16.40",WEB ARR,May 10--May 28,""
+CE,414,Structural Design Loads and Load Paths,01,07423,3,"M,TU,W,TH,F9-11",WEB ARR,May 10--Jun 04,A Manawadu
+CE,463,Engineering Administration,01,07419,3,"M,TU,W,TH,F14.10-16.40",WEB ARR,May 10--May 28,R Petersen
 CE,600,Special Projects or Independent Study,01,03588,V,ARRGT,ARR ARR,May 10--Jul 30,""
 CE,700,"Master's Research, Thesis and/or Examination",01,03199,V,ARRGT,"",May 10--Jul 30,(multiple)
 CE,702,"Master's Special Problems, Directed Study, and/or Examination",01,03200,V,ARRGT,"",May 10--Jul 30,(multiple)
@@ -141,8 +141,8 @@ CPT_S,595,Directed Study in Computer Science,01,"",V,ARRGT,ARR ARR,May 10--Jul 3
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,03041,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,03042,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,03043,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
-CRM_J,381,Crime and Justice in the Movies,01,07749,3,"M,TU,W,TH12-15",WEB ARR,May 10--Jul 30,M Miller
-CRM_J,381,Crime and Justice in the Movies,01 Lab,07750,0,ARRGT,ARR ARR,May 10--Jul 30,M Miller
+CRM_J,381,Crime and Justice in the Movies,01,07749,3,"M,TU,W,TH12-15",WEB ARR,May 09--Jun 04,M Miller
+CRM_J,381,Crime and Justice in the Movies,01 Lab,07750,0,ARRGT,ARR ARR,May 09--Jun 04,M Miller
 CRM_J,800,"Doctoral Research, Dissertation, and/or Examination",01,07753,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CROP_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 CROP_SCI,498,Professional Internship,01,"",V,ARRGT,"",May 10--Jul 30,""
@@ -304,9 +304,10 @@ FINE_ART,101,[ARTS] Introduction to Art,01,07763,3,"M,TU,W,TH,F10-12",WEB ARR,Ma
 FINE_ART,363,Special Topics - Digital Media,01,07766,V,"M,TU,W,TH,F13.30-17",WEB ARR,May 10--Jun 04,D Janssen
 FOR_LANG,120,[HUM] Introduction to Foreign Cultures,01,04096,3,"M,TU,W,TH,F11.10-12",WEB ARR,May 10--Jul 30,J Bonzo
 FOR_LANG,300,Studies in Foreign Languages,01,03223,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+FRENCH,104,Intensive French: Foundations of Language and Culture,01,07647,4,"M,TU,W,TH,F9.10-10.50",WEB ARR,May 10--Jun 18,I Webber
 FS,401,Topics in Food Science,01,03251,V,ARRGT,ARR ARR,May 10--Jul 30,""
-FS,495,Internship in Food Science,01,"",2,ARRGT,ARR ARR,May 10--Jul 30,""
-FS,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,May 10--Jul 30,C Edwards
+FS,495,Internship in Food Science,01,"",2,ARRGT,ARR ARR,May 10--Jul 30,F Critzer
+FS,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,May 10--Jul 30,G Ganjyal
 FS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 FS,501,Topics in Food Science,01,03089,V,ARRGT,ARR ARR,May 10--Jul 30,""
 FS,700,"Master's Research, Thesis, and/or Examination",01,03090,V,ARRGT,ARR ARR,May 10--Jul 30,F Critzer
@@ -483,7 +484,7 @@ MIT,507,Teacher Inquiry and Praxis,01,03979,3,TH9-15,WEB ARR,May 10--Jun 18,""
 MIT,508,Curriculum and Instruction Methods,01,07797,3,"M,TU,W,TH9-11.30",WEB ARR,Jul 05--Jul 30,""
 MIT,531,Literacy Development I,01,07724,3,"M,TU,W,TH12-14.30",WEB ARR,Jul 05--Jul 30,K Smith
 MIT,535,Integrating Fine Arts into K-8 Curriculum,01,07798,2,"M,W,F10.30-12.35",WEB ARR,May 10--May 28,""
-MIT,551,Literacy within the Disciplines,01,07720,3,ARRGT,ARR ARR,Jul 05--Jul 30,P Provinsal
+MIT,551,Literacy within the Disciplines,01,07720,3,"M,TU,W,TH12-14.30",WEB ARR,Jul 05--Jul 30,P Provinsal
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,03570,2,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MKTG,360,Marketing,01,03880,3,"M,TU,W,TH,F15-16.15",WEB ARR,Jun 21--Jul 30,B Phifer
 MKTG,360,Marketing,02,03834,3,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,J Groves
@@ -571,8 +572,8 @@ PL_P,800,"Doctoral Research, Dissertation, and/or Examination",18,03386,V,ARRGT,
 PL_P,800,"Doctoral Research, Dissertation, and/or Examination",19,03387,V,ARRGT,ARR ARR,May 10--Jul 30,K Tanaka
 PL_P,800,"Doctoral Research, Dissertation, and/or Examination",20,03506,V,ARRGT,ARR ARR,May 10--Jul 30,G Vandemark
 PL_P,800,"Doctoral Research, Dissertation, and/or Examination",21,03507,V,ARRGT,ARR ARR,May 10--Jul 30,D Weller
-POL_S,381,Crime and Justice in the Movies,01,07751,3,"M,TU,W,TH12-15",WEB ARR,May 10--Jul 30,M Miller
-POL_S,381,Crime and Justice in the Movies,01 Lab,07752,0,ARRGT,ARR ARR,May 10--Jul 30,M Miller
+POL_S,381,Crime and Justice in the Movies,01,07751,3,"M,TU,W,TH12-15",WEB ARR,May 09--Jun 04,M Miller
+POL_S,381,Crime and Justice in the Movies,01 Lab,07752,0,ARRGT,ARR ARR,May 09--Jun 04,M Miller
 POL_S,435,Politics of Developing Nations,01,07379,3,"M,TU,W,TH,F10-11.30",WEB ARR,May 10--Jun 11,R Elgar
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,03148,V,ARRGT,ARR ARR,May 10--Jul 30,""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,03149,V,ARRGT,ARR ARR,May 10--Jul 30,""

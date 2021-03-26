@@ -169,7 +169,7 @@ E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_E,214,Design of Logic Circuits,01,"",4,"M,W9-10.15","",Aug 23--Dec 10,M Kejariwal
 E_E,214,Design of Logic Circuits,01 Lab,"",0,M13-16,"",Aug 23--Dec 10,M Kejariwal
 E_E,302,Professional Skills in Computing and Engineering,01,"",3,"TU,TH13.30-14.45","",Aug 23--Dec 10,J Thompson
-E_E,311,Electronics,01,"",3,"M,W10.30-11.40","",Aug 23--Dec 10,M Kejariwal
+E_E,311,Electronics,01,"",3,"M,W10.30-11.45","",Aug 23--Dec 10,M Kejariwal
 E_E,321,Electrical Circuits II,01,"",3,"TU,TH10.30-11.45","",Aug 23--Dec 10,J Guerrero Sedeno
 E_E,331,Electromagnetic Fields and Waves,01,"",3,"TU,TH9-10.15","",Aug 23--Dec 10,J Guerrero Sedeno
 E_E,415,Design Project Management,01,"",3,"W,F12.10-13","",Aug 23--Dec 10,M Kejariwal
@@ -245,7 +245,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,08,10300,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,09,10301,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mccarthy
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,10302,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mccarthy
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,10303,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Hager
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,10444,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Hughes
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,10444,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Hager
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,10529,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Ericsson
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,17,11020,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Staggers
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,18,12376,3,ARRGT,ARR ARR,Dec 18--Jan 09,G Maierhofer
@@ -267,6 +267,8 @@ FIN,527,Investment Analysis,03,17663,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FIN,527,Investment Analysis,04,17664,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FIN,527,Investment Analysis,05,17665,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FIN,527,Investment Analysis,06,17666,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
+FIN,527,Investment Analysis,07,17667,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
+FIN,527,Investment Analysis,08,17668,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FINE_ART,101,[ARTS] Introduction to Art,01,10321,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Doty
 FINE_ART,103,[ARTS] 3D Art and Design,01,11136,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Palmer
 FOR_LANG,101,[HUM] Introduction to the World of Languages,01,10325,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -319,7 +321,8 @@ HBM,494,[M] Service Operations Management,03,17583,3,ARRGT,ARR ARR,Oct 04--Dec 1
 HBM,495,[CAPS] Case Studies and Research,01,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,O Larina
 HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,O Larina
 HBM,582,Hospitality Operations Analysis,01,17691,3,ARRGT,ARR ARR,Aug 23--Oct 10,C Chi
-HISTORY,102,[HUM] Modern Europe,01,10199,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Sun
+HBM,582,Hospitality Operations Analysis,02,17692,3,ARRGT,ARR ARR,Aug 23--Oct 10,C Chi
+HISTORY,102,[HUM] Modern Europe,01,10199,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Miller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,10204,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10855,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Weller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,12247,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Harrington
@@ -350,6 +353,7 @@ I_BUS,580,International Business Management,04,10922,3,ARRGT,ARR ARR,Aug 23--Oct
 I_BUS,580,International Business Management,05,10923,3,ARRGT,ARR ARR,Aug 23--Oct 10,B Marlowe
 I_BUS,580,International Business Management,06,10924,3,ARRGT,ARR ARR,Aug 23--Oct 10,B Marlowe
 I_D,490,Cooperative Education Internship,01,10465,V,ARRGT,ARR ARR,Aug 23--Dec 10,R Krikac
+I_D,498,Special Topics in Interior Design,01,10466,V,ARRGT,ARR ARR,Aug 23--Dec 10,R Krikac
 KINES,496,Special Topics,01,10829,V,ARRGT,ARR ARR,Dec 18--Jan 09,C Connolly
 MATH,103,Algebra Methods and Introduction to Functions,01,10332,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,103,Algebra Methods and Introduction to Functions,02,10874,3,ARRGT,ARR ARR,Nov 29--Jan 09,E Sablan
@@ -421,6 +425,9 @@ MGMT,593,Managerial Leadership and Productivity,19,17632,3,ARRGT,ARR ARR,Oct 18-
 MGMT,593,Managerial Leadership and Productivity,20,17633,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,21,17634,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,22,17635,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
+MGMT,593,Managerial Leadership and Productivity,23,17636,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
+MGMT,593,Managerial Leadership and Productivity,24,17637,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
+MGMT,593,Managerial Leadership and Productivity,25,17638,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MGTOP,215,Business Statistics,01,10347,4,ARRGT,ARR ARR,Aug 23--Oct 10,""
 MGTOP,215,Business Statistics,01 Lab,10350,0,ARRGT,ARR ARR,Aug 23--Oct 10,""
 MGTOP,340,Operations Management,01,10353,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
@@ -539,16 +546,16 @@ SOIL_SCI,479,Organic Farm and Garden Field Management,01,10386,2,ARRGT,ARR ARR,A
 SPANISH,101,First Semester,01,10216,4,ARRGT,"",Aug 23--Dec 10,M Previto
 SPANISH,306,Intermediate Reading and Translation,01,17327,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
 SPANISH,306,Intermediate Reading and Translation,02,17328,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
-SPEC_ED,301,Education of Exceptional Children,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,401,Teaching Students with Disabilities,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,404,Professional Skills in Special Education,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,409,Early Childhood Special Education,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,301,Education of Exceptional Children,01,10389,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,401,Teaching Students with Disabilities,01,10390,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,404,Professional Skills in Special Education,01,10392,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,409,Early Childhood Special Education,01,10394,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,10396,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,499,Special Problems,01,10398,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,501,Teaching Students with Disabilities,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,504,Professional Skills in Special Education,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,509,Early Childhood Special Education,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,501,Teaching Students with Disabilities,01,10391,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,504,Professional Skills in Special Education,01,10393,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,509,Early Childhood Special Education,01,10395,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,10397,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,12310,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
