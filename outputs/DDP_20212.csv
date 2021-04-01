@@ -74,9 +74,10 @@ B_A,500,Data Analysis for Managers,01,06773,2,ARRGT,ARR ARR,May 10--Jun 13,T Kok
 B_A,501,Foundations in Marketing,01,06879,2,ARRGT,ARR ARR,May 10--Jun 13,D Muehling
 B_A,501,Foundations in Marketing,02,06880,2,ARRGT,ARR ARR,May 10--Jun 13,D Muehling
 B_A,501,Foundations in Marketing,03,06881,2,ARRGT,ARR ARR,May 10--Jun 13,D Muehling
+B_A,501,Foundations in Marketing,04,06882,2,ARRGT,ARR ARR,May 10--Jun 13,D Muehling
+B_A,501,Foundations in Marketing,05,06883,2,ARRGT,ARR ARR,May 10--Jun 13,D Muehling
+B_A,501,Foundations in Marketing,06,07375,2,ARRGT,ARR ARR,May 10--Jun 13,D Muehling
 B_A,502,Foundations in Operations Management,01,06754,2,ARRGT,ARR ARR,Jun 14--Jul 18,J Hu
-B_A,502,Foundations in Operations Management,02,06755,2,ARRGT,ARR ARR,Jun 14--Jul 18,J Hu
-B_A,502,Foundations in Operations Management,03,06832,2,ARRGT,ARR ARR,Jun 14--Jul 18,J Hu
 B_A,504,Foundations in Finance,01,06759,2,ARRGT,ARR ARR,Jul 19--Aug 22,M Reyes
 B_A,504,Foundations in Finance,02,06842,2,ARRGT,ARR ARR,Jul 19--Aug 22,""
 B_A,504,Foundations in Finance,03,06843,2,ARRGT,ARR ARR,Jul 19--Aug 22,M Reyes
@@ -120,10 +121,10 @@ B_A,702,"Master's Special Problems, Directed Study, and/or Examination",05,06847
 B_LAW,210,Law and the Legal Environment of Business,01,02709,3,ARRGT,ARR ARR,May 10--Jun 27,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,02,02727,3,ARRGT,ARR ARR,May 10--Jun 27,S Bergstedt
 BIOLOGY,101,[BSCI] Biology of Humans,01,02929,3,ARRGT,ARR ARR,May 10--Jul 02,W Cushwa
-BIOLOGY,102,[BSCI] General Biology,01,02501,4,ARRGT,ARR ARR,May 10--Jul 30,A Brown
-BIOLOGY,102,[BSCI] General Biology,01 Lab,02502,0,ARRGT,ARR ARR,May 10--Jul 30,A Brown
-BIOLOGY,105,General Biology Laboratory,01,02503,1,ARRGT,ARR ARR,May 10--Jul 30,A Brown
-BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,02504,3,ARRGT,ARR ARR,May 10--Jul 30,A Brown
+BIOLOGY,102,[BSCI] General Biology,01,02501,4,ARRGT,ARR ARR,May 10--Jul 30,""
+BIOLOGY,102,[BSCI] General Biology,01 Lab,02502,0,ARRGT,ARR ARR,May 10--Jul 30,L Cook
+BIOLOGY,105,General Biology Laboratory,01,02503,1,ARRGT,ARR ARR,May 10--Jul 30,L Cook
+BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,02504,3,ARRGT,ARR ARR,May 10--Jul 30,L Cook
 BIOLOGY,220,Medical Terminology,01,02573,2,ARRGT,ARR ARR,May 10--Jul 30,N Ankrah
 BIOLOGY,301,General Genetics,01,06740,4,ARRGT,ARR ARR,May 10--Jul 02,N Mccabe
 BIOLOGY,352,Cells,01,02611,3,ARRGT,ARR ARR,May 10--Jul 30,N Ankrah
@@ -211,21 +212,20 @@ DTC,355,[M] Multimedia Authoring,01,07304,3,ARRGT,ARR ARR,May 10--Jun 18,R Grego
 DTC,375,"[M] Language, Texts and Technology",01,07305,3,ARRGT,ARR ARR,May 10--Jun 18,L Roper
 DTC,475,[DIVR] Digital Diversity,02,02822,3,ARRGT,ARR ARR,Jun 21--Jul 30,E Fournier
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
-E_M,401,Management of Organizations,01,"",3,"TU,TH17.15-19.45","",May 10--Jul 02,A Squires
 E_M,438,Lean Tools for Systems Improvement,01,"",3,"M,W18.15-20.45","",May 10--Jul 02,D Paulus
 E_M,464,Project Management,01,"",3,"M,W17.15-19.45","",May 10--Jul 10,W Gray
 E_M,501,Management of Organizations,01,07622,3,"TU,TH17.15-19.45","",May 10--Jul 02,A Squires
 E_M,538,Lean Tools for Systems Improvement,01,07901,3,"M,W18.15-20.45","",May 10--Jul 02,D Paulus
 E_M,564,Project Management,01,07631,3,"M,W17.15-19.45","",May 10--Jul 10,W Gray
-ECONS,101,[SSCI] Fundamentals of Microeconomics,01,02514,3,ARRGT,ARR ARR,May 10--Jul 30,""
-ECONS,101,[SSCI] Fundamentals of Microeconomics,02,02770,3,ARRGT,ARR ARR,Jul 31--Aug 22,""
-ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,02515,3,ARRGT,ARR ARR,May 10--Jul 30,""
-ECONS,301,Intermediate Microeconomic Theory with Calculus,01,02657,4,ARRGT,ARR ARR,May 10--Jul 30,""
-ECONS,305,Intermediate Microeconomics without Calculus,01,02575,3,ARRGT,ARR ARR,May 10--Jul 30,""
-ECONS,320,Money and Banking,01,02516,3,ARRGT,ARR ARR,May 10--Jul 30,G Manandhar
-ECONS,321,Economics of Sports in America,01,02599,3,ARRGT,ARR ARR,May 10--Jul 30,""
-ECONS,327,International Trade and Finance,01,02601,3,ARRGT,ARR ARR,May 10--Jul 30,""
-ECONS,404,Economics for Managers,01,02860,3,ARRGT,ARR ARR,May 10--Jun 18,""
+ECONS,101,[SSCI] Fundamentals of Microeconomics,01,02514,3,ARRGT,ARR ARR,May 10--Jul 30,B Zhao
+ECONS,101,[SSCI] Fundamentals of Microeconomics,02,02770,3,ARRGT,ARR ARR,Jul 31--Aug 22,D Lama
+ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,02515,3,ARRGT,ARR ARR,May 10--Jul 30,M Rahman
+ECONS,301,Intermediate Microeconomic Theory with Calculus,01,02657,4,ARRGT,ARR ARR,May 10--Jul 30,B Okhunjanov
+ECONS,305,Intermediate Microeconomics without Calculus,01,02575,3,ARRGT,ARR ARR,May 10--Jul 30,J Sen
+ECONS,320,Money and Banking,01,02516,3,ARRGT,ARR ARR,May 10--Jul 30,N Nguyen
+ECONS,321,Economics of Sports in America,01,02599,3,ARRGT,ARR ARR,May 10--Jul 30,Y Zhang
+ECONS,327,International Trade and Finance,01,02601,3,ARRGT,ARR ARR,May 10--Jul 30,C Dollin
+ECONS,404,Economics for Managers,01,02860,3,ARRGT,ARR ARR,May 10--Jun 18,J Jeong
 ECONS,555,Managerial Economics for Decision Making,01,07393,3,ARRGT,ARR ARR,Jun 14--Jul 18,A Prera
 ECONS,555,Managerial Economics for Decision Making,02,07394,3,ARRGT,ARR ARR,Jun 14--Jul 18,A Prera
 ECONS,555,Managerial Economics for Decision Making,03,07395,3,ARRGT,ARR ARR,Jun 14--Jul 18,A Prera
@@ -302,8 +302,8 @@ H_D,385,Perspectives in Human Services,01,02831,3,ARRGT,ARR ARR,Jun 21--Jul 30,C
 H_D,403,[CAPS] Families in Poverty,01,02530,3,ARRGT,ARR ARR,May 10--Jul 30,M Garcia
 H_D,410,[M] Public Policy Issues in Human Development,01,02531,3,ARRGT,ARR ARR,May 10--Jul 30,M Garcia
 H_D,487,Special Topics in Human Development,01,"",V,ARRGT,ARR ARR,Jun 21--Jul 30,J Hewa
-H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,M Bumpus
-H_D,498,Field Placement,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Hewa
+H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Whitehall
+H_D,498,Field Placement,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Whitehall
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Hewa
 HBM,101,Professional and Career Development for the Business World,01,02710,1,ARRGT,ARR ARR,May 10--Jun 27,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,02765,1,ARRGT,ARR ARR,May 10--Jun 27,A Alonzo
@@ -339,7 +339,7 @@ I_BUS,380,International Business,01,02743,3,ARRGT,ARR ARR,Jun 28--Aug 15,M Cicek
 I_BUS,380,International Business,02,02756,3,ARRGT,ARR ARR,Jun 28--Aug 15,M Cicek
 I_BUS,380,International Business,03,02764,3,ARRGT,ARR ARR,Jun 28--Aug 15,M Cicek
 I_BUS,380,International Business,04,02961,3,ARRGT,ARR ARR,Jun 28--Aug 15,M Cicek
-I_BUS,470,International Trade and Finance,01,02604,3,ARRGT,ARR ARR,May 10--Jul 30,""
+I_BUS,470,International Trade and Finance,01,02604,3,ARRGT,ARR ARR,May 10--Jul 30,C Dollin
 IPM,452,Pesticides and the Environment,01,"",3,ARRGT,ARR ARR,May 10--Jul 30,A Felsot
 IPM,552,Pesticides and the Environment,01,02665,3,ARRGT,ARR ARR,May 10--Jul 30,A Felsot
 MATH,103,Algebra Methods and Introduction to Functions,01,02535,3,ARRGT,ARR ARR,May 10--Jul 30,J Eld
@@ -364,6 +364,7 @@ MBIOS,501,Cell Biology,01,07618,3,ARRGT,ARR ARR,May 10--Jul 02,E Shelden
 MBIOS,513,General Biochemistry,01,02615,3,ARRGT,ARR ARR,May 10--Jul 30,R Brosemer
 MBIOS,583,Professional Skills Seminar,01,07627,1,ARRGT,ARR ARR,May 10--Jul 02,""
 MBIOS,584,Medical Genetics,01,07597,3,ARRGT,ARR ARR,May 10--Jul 09,I Wallace
+MBIOS,585,Molecular Biotechniques,01,02942,2,ARRGT,ARR ARR,May 10--Jul 30,B Hubbard
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,02625,V,ARRGT,ARR ARR,May 10--Jul 30,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,02539,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
@@ -487,19 +488,19 @@ PSYCH,491,Principles of Learning,01,02662,3,ARRGT,ARR ARR,May 10--Jul 30,H Levy
 SHS,201,American Sign Language I,01,02878,4,ARRGT,ARR ARR,May 10--Jun 18,M Ratsch
 SHS,201,American Sign Language I,02,02783,4,ARRGT,ARR ARR,Jul 31--Aug 22,M Ratsch
 SHS,202,American Sign Language II,01,08410,4,ARRGT,ARR ARR,Jun 21--Jul 30,M Ratsch
-SOC,101,[SSCI] Introduction to Sociology,01,02552,3,ARRGT,ARR ARR,May 10--Jul 30,""
-SOC,102,[SSCI] Social Problems,01,02574,3,ARRGT,ARR ARR,May 10--Jul 30,""
-SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,02674,3,ARRGT,ARR ARR,May 10--Jul 30,""
+SOC,101,[SSCI] Introduction to Sociology,01,02552,3,ARRGT,ARR ARR,May 10--Jul 30,S Lee
+SOC,102,[SSCI] Social Problems,01,02574,3,ARRGT,ARR ARR,May 10--Jul 30,A Reshetnikov
+SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,02674,3,ARRGT,ARR ARR,May 10--Jul 30,M Cervantes
 SOC,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,02869,3,ARRGT,ARR ARR,May 10--Jun 18,L Wilson
 SOC,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",02,07923,3,ARRGT,ARR ARR,Jun 21--Jul 30,L Gutierrez
 SOC,317,[M] Research Methods in Sociology,01,07335,3,ARRGT,ARR ARR,May 10--Jul 30,""
-SOC,340,[DIVR] Social Inequality,01,02667,3,ARRGT,ARR ARR,May 10--Jul 30,""
+SOC,340,[DIVR] Social Inequality,01,02667,3,ARRGT,ARR ARR,May 10--Jul 30,M Aust
 SOC,350,Social Psychology,01,02676,3,ARRGT,ARR ARR,May 10--Jul 30,A Bonnette
-SOC,351,[DIVR] The Family,02,07924,3,ARRGT,ARR ARR,Jun 21--Jul 30,""
-SOC,352,Youth and Society,01,02668,3,ARRGT,ARR ARR,May 10--Jul 30,""
-SOC,361,[DIVR] Criminology,01,02669,3,ARRGT,ARR ARR,May 10--Jul 30,""
+SOC,351,[DIVR] The Family,02,07924,3,ARRGT,ARR ARR,Jun 21--Jul 30,M Montanez
+SOC,352,Youth and Society,01,02668,3,ARRGT,ARR ARR,May 10--Jul 30,X Li
+SOC,361,[DIVR] Criminology,01,02669,3,ARRGT,ARR ARR,May 10--Jul 30,S Cassidy
 SOC,367,Juvenile Justice and Corrections,01,02893,3,ARRGT,ARR ARR,May 10--Jun 18,K Runyan
-SOC,368,Drugs and Society,01,07336,3,ARRGT,ARR ARR,May 10--Jul 30,""
+SOC,368,Drugs and Society,01,07336,3,ARRGT,ARR ARR,May 10--Jul 30,K Rakowski
 SOC,385,"[DIVR] Introduction to Lesbian, Gay, Bisexual, and Transgender Studies",01,02775,3,ARRGT,ARR ARR,Jul 31--Aug 22,N Shahani
 SOC,418,Human Issues in International Development,01,02500,3,ARRGT,ARR ARR,May 10--Jul 30,R Quinlan
 SOC,493,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
@@ -548,14 +549,14 @@ WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",02,02807,3,ARRGT,ARR ARR,Jun 21--Jul 30,H Ramos
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",03,02781,3,ARRGT,ARR ARR,Jul 31--Aug 22,P Abustan
 WOMEN_ST,230,Human Sexuality,01,02542,3,ARRGT,ARR ARR,May 10--Jul 30,S Paup
-WOMEN_ST,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,02678,3,ARRGT,ARR ARR,May 10--Jul 30,""
+WOMEN_ST,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,02678,3,ARRGT,ARR ARR,May 10--Jul 30,M Cervantes
 WOMEN_ST,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,02868,3,ARRGT,ARR ARR,May 10--Jun 18,L Wilson
 WOMEN_ST,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",02,07921,3,ARRGT,ARR ARR,Jun 21--Jul 30,L Gutierrez
 WOMEN_ST,305,Gender and Politics,01,02914,3,ARRGT,ARR ARR,May 10--Jun 18,S Topal
 WOMEN_ST,309,Women Writers,01,02622,3,ARRGT,ARR ARR,May 10--Jul 30,L Carman
 WOMEN_ST,324,Psychology of Gender,01,02547,3,ARRGT,ARR ARR,May 10--Jul 30,K Schofield
 WOMEN_ST,338,"[HUM] Gender, Race, and Popular Culture",01,02866,3,ARRGT,ARR ARR,May 10--Jun 18,P Thoma
-WOMEN_ST,351,[DIVR] The Family,01,02650,3,ARRGT,ARR ARR,Jun 21--Jul 30,""
+WOMEN_ST,351,[DIVR] The Family,01,02650,3,ARRGT,ARR ARR,Jun 21--Jul 30,M Montanez
 WOMEN_ST,363,[DIVR] Women in Music,01,02865,3,ARRGT,ARR ARR,May 10--Jun 18,S Tegart
 WOMEN_ST,363,[DIVR] Women in Music,02,02779,3,ARRGT,ARR ARR,Jul 31--Aug 22,S Tegart
 WOMEN_ST,385,"[DIVR] Introduction to Lesbian, Gay, Bisexual, and Transgender Studies",01,02776,3,ARRGT,ARR ARR,Jul 31--Aug 22,N Shahani

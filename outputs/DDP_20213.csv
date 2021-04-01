@@ -1,13 +1,13 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
-ACCTG,230,Introduction to Financial Accounting,01,10307,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-ACCTG,230,Introduction to Financial Accounting,02,10650,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-ACCTG,231,Introduction to Managerial Accounting,01,10308,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-ACCTG,330,Intermediate Accounting I,01,10309,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-ACCTG,330,Intermediate Accounting I,02,10558,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-ACCTG,338,Cost Accounting,01,10738,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-ACCTG,338,Cost Accounting,02,10747,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-ACCTG,439,[M] Auditing,01,10739,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-ACCTG,439,[M] Auditing,02,10748,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+ACCTG,230,Introduction to Financial Accounting,01,10307,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Pearson
+ACCTG,230,Introduction to Financial Accounting,02,10650,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Pearson
+ACCTG,231,Introduction to Managerial Accounting,01,10308,3,ARRGT,ARR ARR,Aug 23--Oct 10,N Pearson
+ACCTG,330,Intermediate Accounting I,01,10309,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Porter
+ACCTG,330,Intermediate Accounting I,02,10558,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Porter
+ACCTG,338,Cost Accounting,01,10738,3,ARRGT,ARR ARR,Oct 18--Dec 12,B Barnes
+ACCTG,338,Cost Accounting,02,10747,3,ARRGT,ARR ARR,Oct 18--Dec 12,B Barnes
+ACCTG,439,[M] Auditing,01,10739,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Harris
+ACCTG,439,[M] Auditing,02,10748,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Harris
 ACCTG,550,Introduction to Financial and Managerial Accounting,01,10530,3,ARRGT,ARR ARR,Nov 08--Dec 12,B Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,02,10531,3,ARRGT,ARR ARR,Nov 08--Dec 12,""
 ACCTG,550,Introduction to Financial and Managerial Accounting,03,10532,3,ARRGT,ARR ARR,Nov 08--Dec 12,B Wong-On-Wing
@@ -78,14 +78,15 @@ B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",04,""
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",05,17320,1,ARRGT,ARR ARR,Aug 23--Oct 10,J Rose
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",11,17355,1,ARRGT,ARR ARR,Oct 18--Dec 12,G Mader
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",12,17356,1,ARRGT,ARR ARR,Oct 18--Dec 12,G Mader
-B_LAW,210,Law and the Legal Environment of Business,01,10418,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-B_LAW,210,Law and the Legal Environment of Business,02,10648,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
+B_LAW,210,Law and the Legal Environment of Business,01,10418,3,ARRGT,ARR ARR,Aug 23--Oct 10,S Bergstedt
+B_LAW,210,Law and the Legal Environment of Business,02,10648,3,ARRGT,ARR ARR,Aug 23--Oct 10,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,04,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,05,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,S Bergstedt
 BIOLOGY,102,[BSCI] General Biology,01,10274,4,ARRGT,ARR ARR,Aug 23--Dec 10,L Cook
 BIOLOGY,102,[BSCI] General Biology,01 Lab,10275,0,ARRGT,ARR ARR,Aug 23--Dec 10,L Cook
 BIOLOGY,105,General Biology Laboratory,01,10276,1,ARRGT,ARR ARR,Aug 23--Dec 10,L Cook
 BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,10277,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Cook
+BIOLOGY,220,Medical Terminology,01,10417,2,ARRGT,ARR ARR,Aug 23--Dec 10,G Gakhar
 BIOLOGY,301,General Genetics,01,10223,4,ARRGT,ARR ARR,Aug 23--Dec 10,N Mccabe
 BIOLOGY,354,Human Anatomy for Health Occupations,01,17706,4,ARRGT,ARR ARR,Aug 23--Dec 10,K Biggs
 BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,17711,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Biggs
@@ -94,6 +95,7 @@ BIOLOGY,401,[CAPS] Plants and People,01,11115,3,ARRGT,ARR ARR,Aug 23--Dec 10,D T
 CAS,400,End-of-Program Evaluation Portfolio,01,10326,1,ARRGT,ARR ARR,Aug 23--Dec 10,A Rocha
 CAS,497,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,508,Concrete Durability,01,10819,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Shi
+CE,572,Advanced Pavement Design and Analysis,01,17796,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Wen
 CES,271,[HUM] Native Music of North America,01,10460,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Parkhurst
 CHEM,103,Concepts in Chemistry,01,10960,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 CHEM,103,Concepts in Chemistry,01 Lab,11135,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -155,7 +157,7 @@ CRM_J,321,Quantitative Methods for Criminal Justice,01,"",3,ARRGT,ARR ARR,Aug 23
 CRM_J,365,Juvenile Justice and Corrections,01,11100,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 CRM_J,370,Policing and Society,01,10899,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Marsh
 CRM_J,380,Criminal Courts in America,01,10814,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hemmens
-CRM_J,403,[CAPS] Violence Toward Women,01,10744,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+CRM_J,403,[CAPS] Violence Toward Women,01,10744,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Stohr
 CRM_J,403,[CAPS] Violence Toward Women,02,10831,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 CRM_J,420,[M] Criminal Procedure,01,10251,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Brody
 CRM_J,450,[M] Senior Seminar: Ethical Issues in Criminal Justice,01,10813,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -247,6 +249,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,10302,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,10303,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Hager
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,10444,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Hager
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,10529,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Ericsson
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,15,12244,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Hughes
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,17,11020,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Staggers
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,18,12376,3,ARRGT,ARR ARR,Dec 18--Jan 09,G Maierhofer
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,19,12379,3,ARRGT,ARR ARR,Dec 18--Jan 09,A May
@@ -255,10 +258,10 @@ ENGLISH,419,The Twentieth Century Novel,01,11131,3,ARRGT,ARR ARR,Aug 23--Dec 10,
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Gregory
 ENGR,489,Professional Practice Coop/Internship II,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Brabb
 ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,10239,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
-FIN,223,[QUAN] Personal Finance,01,10843,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-FIN,223,[QUAN] Personal Finance,02,10854,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-FIN,325,Introduction to Financial Management,01,10322,3,ARRGT,ARR ARR,Aug 23--Oct 10,M Reyes
-FIN,325,Introduction to Financial Management,02,10651,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
+FIN,223,[QUAN] Personal Finance,01,10843,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Collins
+FIN,223,[QUAN] Personal Finance,02,10854,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Collins
+FIN,325,Introduction to Financial Management,01,10322,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Fairhurst
+FIN,325,Introduction to Financial Management,02,10651,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Fairhurst
 FIN,345,Real Estate,01,10306,3,ARRGT,ARR ARR,Aug 23--Oct 10,F Benjamin
 FIN,346,Washington Real Estate Regulations,01,10462,1,ARRGT,ARR ARR,Aug 23--Oct 10,F Benjamin
 FIN,527,Investment Analysis,01,17661,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
@@ -288,7 +291,7 @@ H_D,306,Child Development,01,10264,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Ashford
 H_D,307,Adolescence and Emerging Adulthood,01,10486,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,310,[M] Research Methods,01,10263,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,341,Guidance in Early Childhood Programs,01,10265,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Lawrence
-H_D,342,Curriculum for Early Childhood Programs,01,10266,4,ARRGT,ARR ARR,Aug 23--Dec 10,S Grant
+H_D,342,Curriculum for Early Childhood Programs,01,10266,4,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
 H_D,350,[DIVR] Family Diversity,01,10268,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Bice
 H_D,385,Perspectives in Human Services,01,10751,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Smith
 H_D,403,[CAPS] Families in Poverty,01,10269,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Garcia
@@ -307,15 +310,15 @@ HBM,101,Professional and Career Development for the Business World,01,10207,1,AR
 HBM,101,Professional and Career Development for the Business World,02,10666,1,ARRGT,ARR ARR,Aug 23--Oct 10,""
 HBM,101,Professional and Career Development for the Business World,03,11171,1,ARRGT,ARR ARR,Aug 23--Oct 10,""
 HBM,235,"[SSCI] Travel, Society, and Business",01,10554,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-HBM,280,Hospitality Systems,01,10327,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+HBM,280,Hospitality Systems,01,10327,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Philander
 HBM,301,Introduction to Event Planning,01,10500,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
 HBM,301,Introduction to Event Planning,02,11132,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
 HBM,358,Foodservice Systems and Control,01,10556,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,J Harbour
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,H Andlid
-HBM,401,Career Management,01,10498,1,ARRGT,ARR ARR,Aug 23--Oct 10,""
+HBM,401,Career Management,01,10498,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,470,Living Management Operations Analysis,01,17286,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Swanger
-HBM,491,Operational Analysis,01,10494,3,ARRGT,ARR ARR,Oct 18--Dec 12,H Stouder
+HBM,491,Operational Analysis,01,10494,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Chen
 HBM,494,[M] Service Operations Management,02,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,B Marlowe
 HBM,494,[M] Service Operations Management,03,17583,3,ARRGT,ARR ARR,Oct 04--Dec 17,B Marlowe
 HBM,495,[CAPS] Case Studies and Research,01,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,O Larina
@@ -335,16 +338,16 @@ HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,17642,3
 HISTORY,308,"[DIVR] North American Indian History, Precontact to Present",01,10203,3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
 HISTORY,388,US and Vietnam,01,10963,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Bauman
 HISTORY,390,U.S. Military History,01,17235,3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
-HISTORY,422,History of the Pacific Northwest,01,17588,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+HISTORY,422,History of the Pacific Northwest,01,17588,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Stack
 HISTORY,444,[CAPS] The Renaissance,01,11113,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Traver
 HISTORY,466,"History of the Cold War, 1944-present",01,17701,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Chastain
 HONORS,280,Contextual Understanding in the Arts and Humanities,02,15480,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Lampman
 HUMANITY,103,[HUM] Mythology,01,10474,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
 HUMANITY,103,[HUM] Mythology,02,10715,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
-I_BUS,380,International Business,01,10329,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-I_BUS,380,International Business,02,10652,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-I_BUS,453,[M] International Management,01,10330,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-I_BUS,453,[M] International Management,02,10736,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+I_BUS,380,International Business,01,10329,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Downes
+I_BUS,380,International Business,02,10652,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Downes
+I_BUS,453,[M] International Management,01,10330,3,ARRGT,ARR ARR,Oct 18--Dec 12,D Nelson
+I_BUS,453,[M] International Management,02,10736,3,ARRGT,ARR ARR,Oct 18--Dec 12,D Nelson
 I_BUS,470,International Trade and Finance,01,10288,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 I_BUS,580,International Business Management,01,10919,3,ARRGT,ARR ARR,Aug 23--Oct 10,B Marlowe
 I_BUS,580,International Business Management,02,10920,3,ARRGT,ARR ARR,Aug 23--Oct 10,B Marlowe
@@ -428,10 +431,10 @@ MGMT,593,Managerial Leadership and Productivity,22,17635,3,ARRGT,ARR ARR,Oct 18-
 MGMT,593,Managerial Leadership and Productivity,23,17636,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,24,17637,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,25,17638,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MGTOP,215,Business Statistics,01,10347,4,ARRGT,ARR ARR,Aug 23--Oct 10,""
-MGTOP,215,Business Statistics,01 Lab,10350,0,ARRGT,ARR ARR,Aug 23--Oct 10,""
-MGTOP,340,Operations Management,01,10353,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MGTOP,340,Operations Management,02,10661,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+MGTOP,215,Business Statistics,01,10347,4,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
+MGTOP,215,Business Statistics,01 Lab,10350,0,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
+MGTOP,340,Operations Management,01,10353,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
+MGTOP,340,Operations Management,02,10661,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
 MIS,250,Managing Information Technology,01,10354,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MIS,250,Managing Information Technology,02,10555,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MIS,325,Enterprise Business Development,01,10356,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
@@ -444,10 +447,10 @@ MIS,572,Database Management Systems,04,"",3,ARRGT,ARR ARR,Oct 04--Nov 07,""
 MIS,572,Database Management Systems,05,"",3,ARRGT,ARR ARR,Oct 04--Nov 07,J Taylor
 MIS,572,Database Management Systems,06,"",3,ARRGT,ARR ARR,Oct 04--Nov 07,J Taylor
 MIT,530,Elementary School Social Studies Methods,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-MKTG,360,Marketing,01,10357,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MKTG,360,Marketing,02,10659,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MKTG,360,Marketing,03,10660,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MKTG,477,Integrated Marketing Communications,01,10740,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+MKTG,360,Marketing,01,10357,3,ARRGT,ARR ARR,Oct 18--Dec 12,T Kokta
+MKTG,360,Marketing,02,10659,3,ARRGT,ARR ARR,Oct 18--Dec 12,T Kokta
+MKTG,360,Marketing,03,10660,3,ARRGT,ARR ARR,Oct 18--Dec 12,T Kokta
+MKTG,477,Integrated Marketing Communications,01,10740,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Marvel
 MKTG,561,New Product Marketing,01,17676,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MKTG,561,New Product Marketing,02,17677,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MKTG,561,New Product Marketing,03,17678,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta

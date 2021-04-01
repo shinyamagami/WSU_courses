@@ -30,12 +30,12 @@ B_A,211,"Ethics, Teams, and Innovation",02,13753,3,"M,W14.55-16.10",WEB ARR,Aug 
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,13221,3,"TU,TH16.20-17.35",WEB ARR,Aug 23--Dec 10,Y He
 B_LAW,210,Law and the Legal Environment of Business,01,12386,3,"M,W16.20-17.35",WEB ARR,Aug 23--Dec 10,""
 BIOLOGY,101,[BSCI] Biology of Humans,01,12581,3,F13.30-14.20,WEB ARR,Aug 23--Dec 10,W Cushwa
-BIOLOGY,102,[BSCI] General Biology,01,12641,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,""
+BIOLOGY,102,[BSCI] General Biology,01,12641,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,K Turner
 BIOLOGY,102,[BSCI] General Biology,01 Lab,12642,0,TU7.45-10.25,VSCI 101,Aug 23--Dec 10,""
 BIOLOGY,102,[BSCI] General Biology,02 Lab,12643,0,TU13.30-16.10,VSCI 101,Aug 23--Dec 10,""
 BIOLOGY,102,[BSCI] General Biology,03 Lab,12644,0,TU17.45-20.25,VSCI 101,Aug 23--Dec 10,""
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,12645,4,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02,17645,4,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,""
+BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,12645,4,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,K Turner
+BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02,17645,4,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,K Turner
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01 Lab,12646,0,TU7.45-10.25,VSCI 109,Aug 23--Dec 10,""
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02 Lab,12647,0,TU12.05-14.45,VSCI 109,Aug 23--Dec 10,""
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,03 Lab,12648,0,TU14.55-17.35,VSCI 109,Aug 23--Dec 10,""
@@ -102,8 +102,7 @@ COMSOC,301,Foundations of Persuasion,01,12814,3,"TU,TH12.05-13.20",WEB ARR,Aug 2
 COMSTRAT,310,Digital Content Promotion,04,17296,3,"M,W12.05-13.20",WEB ARR,Aug 23--Dec 10,J Curtis
 COMSTRAT,312,Principles of Public Relations,01,12967,3,"M,W14.55-16.10",WEB ARR,Aug 23--Dec 10,E Candello
 COMSTRAT,380,Advertising Principles and Practices,01,12804,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,J Simmons
-COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,13795,3,"M,W10.35-11.50",WEB ARR,Aug 23--Dec 10,E Candello
-COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,"",3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,N Iyer
+COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,13795,3,"M,W10.35-11.50",WEB ARR,Aug 23--Dec 10,N Iyer
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,N Iyer
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,12527,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,L Collins-Levy
 CRM_J,201,Introduction to Criminological Theory,01,13344,3,"TU,TH14.55-16.10",WEB ARR,Aug 23--Dec 10,J Mcelvain
@@ -183,8 +182,6 @@ ECE,349,Principles of Solid State Devices,01,12991,3,"W,F14.55-16.10",WEB ARR,Au
 ECE,411,Energy Systems,01,12770,3,"TU,TH12.05-12.55",GUC VAN,Aug 23--Dec 10,J Campos Do Prado
 ECE,411,Energy Systems,01 Lab,12771,0,TU13.30-16,VECS 327,Aug 23--Dec 10,J Campos Do Prado
 ECE,411,Energy Systems,02 Lab,12772,0,TH9.10-11.40,VECS 327,Aug 23--Dec 10,J Campos Do Prado
-ECE,414,Introduction to Digital Signal Processing,01,12877,3,"M,W9.10-10",GUC VAN,Aug 23--Dec 10,P Sekhar
-ECE,414,Introduction to Digital Signal Processing,01 Lab,12879,0,TU8-10.30,VECS 325,Aug 23--Dec 10,P Sekhar
 ECE,421,Introduction to Solar Cells,01,"",3,"W,F13.30-14.20",GUC VAN,Aug 23--Dec 10,J Lynch
 ECE,421,Introduction to Solar Cells,01 Lab,12774,0,TH14.55-17.25,VECS 220,Aug 23--Dec 10,J Lynch
 ECE,421,Introduction to Solar Cells,02 Lab,12775,0,F9.10-11.40,VECS 220,Aug 23--Dec 10,J Lynch
@@ -195,6 +192,7 @@ ECE,425,RF Devices and Circuits,02 Lab,12837,0,W13.30-16,VECS 320,Aug 23--Dec 10
 ECE,451,Capstone Design I,01,12778,2,"W,F16.20-17.10",WEB ARR,Aug 23--Dec 10,F Zhao
 ECE,461,Power Systems Analysis and Design I,01,12762,3,"TU,TH16.20-17.35",GUC VAN,Aug 23--Dec 10,J Campos Do Prado
 ECE,483,Topics in Electrical Engineering,01,13395,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,J Lynch
+ECE,483,Topics in Electrical Engineering,02,17807,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,P Sekhar
 ECE,525,Experimental Methods for Electrical Engineering,01,12880,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,P Sekhar
 ECE,533,Advanced Antenna Design,01,12963,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,T Karacolak
 ECE,700,"Master's Research, Thesis, and/or Examination",01,12890,V,ARRGT,"",Aug 23--Dec 10,(multiple)
@@ -215,7 +213,7 @@ ED_AD,600,Special Projects or Independent Study,01,12908,3,ARRGT,ARR ARR,Aug 23-
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,12514,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,12631,1,W16.30-17.30,VC VAN,Aug 23--Dec 10,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,12898,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-ED_PSYCH,401,"Classroom Assessment, Elementary",01,12577,V,W14.10-17,WEB ARR,Aug 23--Dec 10,""
+ED_PSYCH,401,"Classroom Assessment, Elementary",01,12577,V,W14.10-17,WEB ARR,Aug 23--Dec 10,C Dudley
 ED_PSYCH,508,Educational Statistics,01,13118,3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,B Austin
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,12876,3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,A Rud
 ED_RES,563,Principles of Research,01,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,S Calderone
@@ -363,6 +361,7 @@ MATH,172,Calculus II,01 Lab,12717,0,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 MATH,172,Calculus II,02 Lab,12718,0,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
 MATH,201,Mathematics for Business and Economics,01,12550,3,"M,W10.35-11.50",WEB ARR,Aug 23--Dec 10,""
 MATH,202,[QUAN] Calculus for Business and Economics,01,12551,3,"W,F10.35-11.50",WEB ARR,Aug 23--Dec 10,""
+MATH,216,Discrete Structures,02,13768,3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
 MATH,220,Introductory Linear Algebra,01,12698,2,"TU,TH10.35-11.25",WEB ARR,Aug 23--Dec 10,""
 MATH,220,Introductory Linear Algebra,02,12699,2,"TU,TH14.55-15.45",WEB ARR,Aug 23--Dec 10,""
 MATH,251,Fundamentals of Elementary Mathematics I,01,12795,3,TU17.45-19.25,WEB ARR,Aug 23--Dec 10,""
@@ -372,10 +371,18 @@ MATH,273,Calculus III,02,12701,2,"TU,TH13.30-14.20",WEB ARR,Aug 23--Dec 10,""
 MATH,300,Mathematical Computing,01,13058,3,"M,W9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 MATH,315,Differential Equations,01,12831,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 MATH,330,Methods of Teaching Secondary School Mathematics,01,12945,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,""
+MATH,401,[M] Introduction to Analysis I,01,13059,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,B Krishnamoorthy
 MATH,405,Introduction to Financial Mathematics,01,"",3,"M,W,F15.10-16",WEB ARR,Aug 23--Dec 10,""
+MATH,420,Linear Algebra,01,12866,3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
+MATH,431,Intersections of Culture and Mathematics,01,13733,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,""
+MATH,448,Numerical Analysis,01,17798,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
+MATH,453,Graph Theory,01,13060,3,"M,W,F14.10-15","",Aug 23--Dec 10,""
 MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,501,Real Analysis,01,12867,3,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,""
+MATH,524,Algebraic Topology,01,13070,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,""
 MATH,533,Teaching College Mathematics,01,12914,1,M15.10-16,WEB ARR,Aug 23--Dec 10,""
+MATH,548,Numerical Analysis,01,17799,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
+MATH,553,Graph Theory,01,13061,3,"M,W,F14.10-15","",Aug 23--Dec 10,""
 MATH,592,Seminar in Analysis,01,12843,1,W13.30-14.20,WEB ARR,Aug 23--Dec 10,""
 MATH,600,Special Projects or Independent Study,01,12810,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,702,"Master's Special Problems, Directed Study, and/or Examination",01,12809,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -423,6 +430,14 @@ MGTOP,215,Business Statistics,01,12407,4,"M,W12.05-13.20",WEB ARR,Aug 23--Dec 10
 MGTOP,215,Business Statistics,01 Lab,12408,0,F12.05-13.55,WEB ARR,Aug 23--Dec 10,""
 MGTOP,340,Operations Management,01,12425,3,W18-20.15,WEB ARR,Aug 23--Dec 10,""
 MGTOP,340,Operations Management,02,12419,3,TU16.20-17.35,WEB ARR,Aug 23--Dec 10,R Howell
+MIL_SCI,101,The United States Army,01,12733,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MIL_SCI,201,Introduction to Leadership,01,12734,2,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MIL_SCI,301,Applied Leadership and Management,01,12735,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MIL_SCI,401,Advanced Military Leadership,01,12736,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MIL_SCI,499,Special Problems,01,12737,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MIL_SCI,499,Special Problems,02,13316,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MIL_SCI,499,Special Problems,03,13317,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MIL_SCI,499,Special Problems,04,13318,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MIS,250,Managing Information Technology,01,13149,3,"M,W9.10-10.25",WEB ARR,Aug 23--Dec 10,A Smith
 MIS,322,[M] Enterprise Business Process Analysis,01,12393,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,G Rose
 MIS,325,Enterprise Business Development,01,12420,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,A Smith
@@ -469,6 +484,7 @@ NURS,477,Health Care Ethics,01,12438,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,477,Health Care Ethics,02,12456,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,495,[CAPS] Advanced Practicum,01,12439,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
 NURS,495,[CAPS] Advanced Practicum,02,12469,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
+NURS,495,[CAPS] Advanced Practicum,03,17808,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",01,12473,3,W9.10-12,WEB ARR,Aug 25--Aug 25,""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,WEB ARR,"",""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,WEB ARR,"",""
@@ -484,6 +500,12 @@ NURS,504,Evidence-Based Practice,"","","",M11.10-14,WEB ARR,"",""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,WEB ARR,"",""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,WEB ARR,"",""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,WEB ARR,"",""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,01,12466,2,TU16.10-18,WEB ARR,Aug 24--Aug 24,""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,WEB ARR,"",""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,WEB ARR,"",""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,WEB ARR,"",""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,WEB ARR,"",""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,01 Lab,12467,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,01,12471,3,TU8.10-11,WEB ARR,Aug 24--Aug 24,""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,WEB ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,WEB ARR,"",""
@@ -662,6 +684,8 @@ SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,12680,4,"W,F
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,12681,0,TH7.45-10.25,WEB ARR,Aug 23--Dec 10,""
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",02 Lab,12682,0,TH10.35-13.15,WEB ARR,Aug 23--Dec 10,""
 SOE,230,[PSCI] Introductory Oceanography,01,12818,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,S Bollens
+SOE,315,Water and the Earth,02,17811,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,""
+SOE,315,Water and the Earth,02 Lab,17812,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,335,[M] Environmental Policy and Law,01,17504,3,"TU,TH16.20-17.35",WEB ARR,Aug 23--Dec 10,R Swenson
 SOE,444,Environmental Assessment,01,12684,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,D Thomas
 SOE,476,Biology and Ecology of Pacific Salmon,01,13151,3,"TU,TH16.25-17.40",WEB ARR,Aug 23--Dec 10,J Mcintyre
@@ -699,7 +723,7 @@ STAT,443,Applied Probability,01,"",3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 STAT,523,Statistical Methods for Engineers and Scientists,01,12743,3,"W,F10.35-11.50",WEB ARR,Aug 23--Dec 10,""
 TCH_LRN,305,Fundamentals of Instruction,01,12617,2,"M,F10.10-11",WEB ARR,Aug 23--Dec 10,J Masterson
 TCH_LRN,307,Survey of Children's Literature,01,12823,3,W8.10-11,WEB ARR,Aug 23--Dec 10,D Day-Wiff
-TCH_LRN,310,[M] Classroom Management,01,12618,2,M9.10-11,WEB ARR,Aug 23--Dec 10,""
+TCH_LRN,310,[M] Classroom Management,01,12618,2,M9.10-11,WEB ARR,Aug 23--Dec 10,C Dudley
 TCH_LRN,322,[M] Reading and Writing in Grades 4 - 8,01,13088,3,W17.10-19.55,WEB ARR,Aug 23--Dec 10,D Duncan
 TCH_LRN,330,Diversity in Education,01,12896,3,M11.10-14,WEB ARR,Aug 23--Dec 10,S Rakha
 TCH_LRN,333,Introduction to English as a Second Language (ESL),01,12619,3,W11.10-14,WEB ARR,Aug 23--Dec 10,G Ernst-Slavit
