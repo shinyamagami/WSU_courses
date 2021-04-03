@@ -486,6 +486,7 @@ MECH,579,Advanced Topics in Design and Manufacturing,01,12190,3,"M,W10.35-11.50"
 MECH,700,"Master's Research, Thesis, and/or Examination",01,12124,V,ARRGT,ARR ARR,Jan 19--Apr 30,(multiple)
 MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,12537,10,ARRGT,ARR ARR,Mar 22--Jun 25,J Bowman
 MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,"",Mar 22--Jun 25,J Haney
 MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,"",Mar 22--Jun 25,L Sood
 MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Mar 22--Jun 25,A Kumar
@@ -533,9 +534,10 @@ MED_CLIN,573,Clinical Rotation - Anesthesiology,02,"",V,ARRGT,ARR ARR,Mar 22--Ju
 MED_CLIN,573,Clinical Rotation - Anesthesiology,03,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,A Kumar
 MED_CLIN,574,Science - Clinical Bioethics,01,"",V,ARRGT,"",Mar 22--Jun 25,C Heine
 MED_CLIN,575,Clinical Rotation - Geriatrics,01,"",V,ARRGT,"",Mar 22--Jun 25,L Sood
-MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,"",Mar 22--Jun 25,L Sood
-MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,"",Mar 22--Jun 25,L Sood
-MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,03,"",V,ARRGT,"",Mar 22--Jun 25,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,03,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,04,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,L Sood
 MED_CLIN,577,Surgery - Subspecialties,01,"",V,ARRGT,"",Mar 22--Jun 25,A Kumar
 MED_CLIN,577,Surgery - Subspecialties,02,"",V,ARRGT,"",Mar 22--Jun 25,A Kumar
 MED_CLIN,577,Surgery - Subspecialties,03,"",V,ARRGT,"",Mar 22--Jun 25,A Kumar
@@ -554,9 +556,9 @@ MED_CLIN,589,Clinical Rotation - Transition to Residency,02,"",V,ARRGT,ARR ARR,M
 MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,"",Mar 22--Jun 25,D Dewitt
 MED_CLIN,597,Virtual - Virtual Clerkship,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
-MED_CLIN,599,Special Projects,01,"",V,ARRGT,"",Mar 22--Jun 25,D Dewitt
-MED_CLIN,599,Special Projects,02,"",V,ARRGT,"",Mar 22--Jun 25,D Dewitt
-MED_CLIN,599,Special Projects,03,"",V,ARRGT,"",Mar 22--Jun 25,D Dewitt
+MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
+MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
+MED_CLIN,599,Special Projects,03,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,599,Special Projects,04,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,599,Special Projects,05,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,M Layton

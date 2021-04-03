@@ -15,8 +15,7 @@ BIOLOGY,102,[BSCI] General Biology,01 Lab,08628,0,TU9.10-12,"",Aug 23--Dec 10,Y 
 BIOLOGY,102,[BSCI] General Biology,02 Lab,08748,0,TU13.30-16.20,"",Aug 23--Dec 10,Y Liu
 BIOLOGY,102,[BSCI] General Biology,03 Lab,09219,0,TU17.45-20.35,"",Aug 23--Dec 10,Y Liu
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,08719,4,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,L Nelson
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01 Lab,08732,0,W14.10-17,"",Aug 23--Dec 10,E Sweet
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02 Lab,08733,0,TH9.10-12,"",Aug 23--Dec 10,E Sweet
+BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02 Lab,08733,0,TH9.10-12,WEB ARR,Aug 23--Dec 10,E Sweet
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,03 Lab,08749,0,TH13.30-16.20,"",Aug 23--Dec 10,E Sweet
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,04 Lab,08906,0,TH17.45-20.35,"",Aug 23--Dec 10,E Sweet
 BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,08679,3,"M,W7.45-9",GUC TRI,Aug 23--Dec 10,K Mcateer
@@ -25,9 +24,8 @@ BIOLOGY,301,General Genetics,"","","",M11.10-12,GUC TRI,"",""
 BIOLOGY,301,General Genetics,03,09583,4,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,E Sweet
 BIOLOGY,301,General Genetics,"","","",W11.10-12,GUC TRI,"",""
 BIOLOGY,352,Cells,01,09272,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,M Klotz
-BIOLOGY,354,Human Anatomy for Health Occupations,01,08641,4,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,K Bergstrom
+BIOLOGY,354,Human Anatomy for Health Occupations,01,08641,4,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,K Bergstrom
 BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,08642,0,TU13.30-16.20,"",Aug 23--Dec 10,K Bergstrom
-BIOLOGY,354,Human Anatomy for Health Occupations,02 Lab,08643,0,W14.10-17,"",Aug 23--Dec 10,K Bergstrom
 BIOLOGY,354,Human Anatomy for Health Occupations,03 Lab,08700,0,TH9.10-12,"",Aug 23--Dec 10,K Bergstrom
 BIOLOGY,354,Human Anatomy for Health Occupations,04 Lab,17209,0,TH13.30-16.20,"",Aug 23--Dec 10,K Bergstrom
 BIOLOGY,372,[M] General Ecology,01,08593,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,L Nelson
@@ -198,13 +196,11 @@ ENGLISH,101,[WRTG] College Composition,01,08649,3,"M,W,F9.10-10",GUC TRI,Aug 23-
 ENGLISH,101,[WRTG] College Composition,02,08650,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,R Mays
 ENGLISH,101,[WRTG] College Composition,03,08651,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,G Escalera
 ENGLISH,101,[WRTG] College Composition,04,08652,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,V Cozza
-ENGLISH,102,Writing Tutorial,01,09400,1,TU10.35-11.25,GUC TRI,Aug 23--Dec 10,R Mays
+ENGLISH,102,Writing Tutorial,01,09400,1,ARRGT,ARR ARR,Aug 23--Dec 10,R Mays
 ENGLISH,102,Writing Tutorial,02,09401,1,W11.10-12,GUC TRI,Aug 23--Dec 10,R Mays
-ENGLISH,102,Writing Tutorial,03,09402,1,W13.10-14,GUC TRI,Aug 23--Dec 10,R Mays
 ENGLISH,102,Writing Tutorial,04,09403,1,M10.10-11,GUC TRI,Aug 23--Dec 10,R Mays
 ENGLISH,102,Writing Tutorial,05,09409,1,TH12.05-12.55,GUC TRI,Aug 23--Dec 10,R Mays
 ENGLISH,102,Writing Tutorial,06,09410,1,TH15-15.50,GUC TRI,Aug 23--Dec 10,R Mays
-ENGLISH,102,Writing Tutorial,07,09404,1,F11.10-12,GUC TRI,Aug 23--Dec 10,R Mays
 ENGLISH,108,[HUM] Introduction to Literature,01,08580,3,"M,W,F9.10-10",GUC TRI,Aug 23--Dec 10,R Mays
 ENGLISH,210,[HUM] Readings in American Literature,01,08723,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,G Escalera
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,V Cozza
@@ -649,7 +645,7 @@ PSYCH,311,[QUAN] Statistics in Psychology,"","","",W12.10-13,GUC TRI,"",""
 PSYCH,312,[M] Research Methods in Psychology,01,08623,4,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,J Peters
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,08624,0,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,J Peters
 PSYCH,324,Psychology of Gender,02,17177,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,S Bauman
-PSYCH,350,Social Psychology,02,09230,3,TU14.55-16.10,GUC TRI,Aug 23--Dec 10,S Tragesser
+PSYCH,350,Social Psychology,02,09230,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,S Tragesser
 PSYCH,361,Developmental Psychology,01,08565,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,P Strand
 PSYCH,372,[BSCI] Biological Basis of Behavior,01,08568,3,"M,W,F14.10-15",GUC TRI,Aug 23--Dec 10,A Matthews
 PSYCH,403,Multicultural Psychology,01,09580,3,"M,W,F9.10-10",GUC TRI,Aug 23--Dec 10,S Bauman
@@ -663,7 +659,7 @@ SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01,08673,4,M
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01 Lab,09305,0,W17.45-20.35,GUC TRI,Aug 23--Dec 10,G Schramm
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,02 Lab,17219,0,F16.15-19.05,GUC TRI,Aug 23--Dec 10,G Schramm
 SOC,101,[SSCI] Introduction to Sociology,01,08690,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,""
-SOC,350,Social Psychology,01,09255,3,TU14.55-16.10,GUC TRI,Aug 23--Dec 10,S Tragesser
+SOC,350,Social Psychology,01,09255,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,S Tragesser
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01,08682,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,J Rosso
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,08683,0,TU13.30-16.20,GUC TRI,Aug 23--Dec 10,J Rosso
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02 Lab,08684,0,W15.10-18,GUC TRI,Aug 23--Dec 10,J Rosso
@@ -748,4 +744,4 @@ VIT_ENOL,435,Chemistry and Biochemistry of Fruit and Wine,01,09250,3,"M,W,F9.10-
 VIT_ENOL,465,Wine Microbiology and Processing,01,08428,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,C Edwards
 VIT_ENOL,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,G Ganjyal
 WOMEN_ST,324,Psychology of Gender,02,17178,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,S Bauman
-WRIT,302,Advanced Writing Collaborative,01,09437,1,M12.10-13,GUC TRI,Aug 23--Dec 10,R Mays
+WRIT,302,Advanced Writing Collaborative,01,09437,1,ARRGT,ARR ARR,Aug 23--Dec 10,R Mays

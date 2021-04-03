@@ -11,10 +11,10 @@ AGRI,700,"Master's Research, Thesis, and/or Examination",01,02992,V,ARRGT,ARR AR
 AGRI,702,"Master's Special Problems, Directed Study, and/or Examination",01,02993,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 AGTM,201,Metal Fabrication,01,03665,3,"M,W,F12.10-13",ELB 2,May 10--Jun 18,J Baser
 AGTM,201,Metal Fabrication,01 Lab,03667,0,"M,TU,W,TH,F13.10-16",ELB 59,May 10--Jun 18,J Baser
-AGTM,202,Welding,01,07668,1,"M,W,F12.10-13",ELB 2,May 10--Jun 18,J Baser
-AGTM,202,Welding,01 Lab,07670,0,"M,TU,W,TH,F13.10-16",ELB 59,May 10--Jun 18,J Baser
-AGTM,203,Machining,01,07672,1,"M,W,F12.10-13",ELB 2,Jun 21--Jul 30,J Baser
-AGTM,203,Machining,01 Lab,07674,0,"M,TU,W,TH,F13.10-16",ELB 59,Jun 21--Jul 30,J Baser
+AGTM,202,Welding,01,07668,1,"M,W,F12.10-13",ELB 2,May 10--May 21,J Baser
+AGTM,202,Welding,01 Lab,07670,0,"M,TU,W,TH,F13.10-16",ELB 59,May 10--May 21,J Baser
+AGTM,203,Machining,01,07672,1,"M,W,F12.10-13",ELB 2,May 24--Jun 04,J Baser
+AGTM,203,Machining,01 Lab,07674,0,"M,TU,W,TH,F13.10-16",ELB 59,May 24--Jun 04,J Baser
 AGTM,204,Metal Fabrication,01,07676,1,"M,W,F12.10-13",ELB 2,Jun 07--Jun 18,J Baser
 AGTM,204,Metal Fabrication,01 Lab,07678,0,"M,TU,W,TH,F13.10-16",ELB 59,Jun 07--Jun 18,J Baser
 AGTM,481,Independent Research,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,T Wheeler
@@ -75,8 +75,8 @@ CAS,497,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,K Jennings
 CE,211,Statics,01,07417,3,"M,TU,W,TH,F13.30-15.30",WEB ARR,May 10--Jun 04,S Amarasiri
 CE,215,Mechanics of Materials,01,07418,3,"M,TU,W,TH,F10.30-11.30",WEB ARR,Jun 07--Jul 30,J Cheng
 CE,302,Introduction to Surveying,01,07420,2,"M,TU,W,TH,F7.30-8.30",SPRK G0045,May 10--May 28,K Olsen
-CE,302,Introduction to Surveying,01 Lab,07421,0,"M,TU,W,TH,F8.40-11.10",SPRK G0045,May 10--May 28,K Olsen
-CE,302,Introduction to Surveying,02 Lab,07422,0,"M,TU,W,TH,F11.30-14",SPRK G0045,May 10--May 28,K Olsen
+CE,302,Introduction to Surveying,01 Lab,07421,0,"M,TU,W,TH,F8.40-11.10",SLOA 235,May 10--May 28,K Olsen
+CE,302,Introduction to Surveying,02 Lab,07422,0,"M,TU,W,TH,F11.30-14",SLOA 235,May 10--May 28,K Olsen
 CE,414,Structural Design Loads and Load Paths,01,07423,3,"M,TU,W,TH,F9-11",WEB ARR,May 10--Jun 04,A Manawadu
 CE,463,Engineering Administration,01,07419,3,"M,TU,W,TH,F14.10-16.40",WEB ARR,May 10--May 28,R Petersen
 CE,600,Special Projects or Independent Study,01,03588,V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -93,7 +93,7 @@ CHE,495,Chemical Engineering Internship,01,"",2,ARRGT,ARR ARR,May 10--Jul 30,""
 CHE,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CHE,700,"Master's Research, Thesis, and/or Examination",01,03022,V,ARRGT,ARR,May 10--Jul 30,(multiple)
 CHE,702,"Master's Special Problems, Directed Study, and/or Examination",01,03023,V,ARRGT,ARR,May 10--Jul 30,(multiple)
-CHE,800,"Doctoral Research, Dissertation, and/or Examination",01,03024,V,ARRGT,ARR,May 10--Jul 30,(multiple)
+CHE,800,"Doctoral Research, Dissertation, and/or Examination",01,03024,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CHEM,101,[PSCI] Introduction to Chemistry,01,03954,4,"M,TU,W,TH,F10-11",WEB ARR,May 10--Jun 27,""
 CHEM,101,[PSCI] Introduction to Chemistry,01 Lab,03955,0,"TU,TH12-12.50",WEB ARR,May 10--Jun 27,""
 CHEM,101,[PSCI] Introduction to Chemistry,02 Lab,03956,0,"TU,TH12-12.50",WEB ARR,May 10--Jun 27,""
@@ -260,10 +260,10 @@ ENGLISH,702,"Master's Special Problems, Directed Study, and/or Examination",01,0
 ENGLISH,800,"Doctoral Research, Dissertation, and/or Examination",01,03084,V,ARRGT,ARR ARR,May 10--Jul 30,""
 ENGR,201,Metal Fabrication,01,03666,3,"M,W,F12.10-13",ELB 2,May 10--Jun 18,J Baser
 ENGR,201,Metal Fabrication,01 Lab,03668,0,"M,TU,W,TH,F13.10-16",ELB 59,May 10--Jun 18,J Baser
-ENGR,202,Welding,01,07669,1,"M,W,F12.10-13",ELB 2,May 10--Jun 18,J Baser
-ENGR,202,Welding,01 Lab,07671,0,"M,TU,W,TH,F13.10-16",ELB 59,May 10--Jun 18,J Baser
-ENGR,203,Machining,01,07673,1,"M,W,F12.10-13",ELB 2,Jun 21--Jul 30,J Baser
-ENGR,203,Machining,01 Lab,07675,0,"M,TU,W,TH,F13.10-16",ELB 59,Jun 21--Jul 30,J Baser
+ENGR,202,Welding,01,07669,1,"M,W,F12.10-13",ELB 2,May 10--May 21,J Baser
+ENGR,202,Welding,01 Lab,07671,0,"M,TU,W,TH,F13.10-16",ELB 59,May 10--May 21,J Baser
+ENGR,203,Machining,01,07673,1,"M,W,F12.10-13",ELB 2,May 24--Jun 04,J Baser
+ENGR,203,Machining,01 Lab,07675,0,"M,TU,W,TH,F13.10-16",ELB 59,May 24--Jun 04,J Baser
 ENGR,204,Metal Fabrication,01,07677,1,"M,W,F12.10-13",ELB 2,Jun 07--Jun 18,J Baser
 ENGR,204,Metal Fabrication,01 Lab,07679,0,"M,TU,W,TH,F13.10-16",ELB 59,Jun 07--Jun 18,J Baser
 ENGR,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
@@ -296,7 +296,7 @@ ENTRP,496,[M] Special Topics,02,"",1,"M,W13.30-14.45","",Jun 28--Jul 30,A Brown
 FIN,223,[QUAN] Personal Finance,01,03848,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,""
 FIN,223,[QUAN] Personal Finance,02,03939,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,Jun 21--Jul 30,""
 FIN,325,Introduction to Financial Management,01,03740,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,""
-FIN,325,Introduction to Financial Management,02,"",3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,""
+FIN,325,Introduction to Financial Management,02,03885,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,""
 FIN,425,[M] Intermediate Financial Management,01,08421,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,A Wang
 FIN,427,[M] Investment Analysis,01,03557,3,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,G Abotula
 FIN,481,[M] International Finance,01,08422,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,Jun 21--Jul 30,F Chen
@@ -504,12 +504,13 @@ MKTG,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
 MKTG,600,Special Projects or Independent Study,01,03607,V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
 MKTG,702,"Master's Special Problems, Directed Study, and/or Examination",01,03608,V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
 MKTG,800,"Doctoral Research, Dissertation, and/or Examination",01,03609,V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
-MSE,201,Materials Science,01,03882,3,"M,TU,W,TH,F15-16.15",WEB ARR,May 10--Jun 18,""
+MSE,201,Materials Science,01,03882,3,"M,TU,W,TH,F15-16.15",WEB ARR,May 10--Jun 18,I Sargin
 MSE,302,Electronic Materials,01,07841,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,""
 MSE,413,Mechanics of Solids,01,07935,3,"M,TU,W,TH,F10.45-12",WEB ARR,Jun 21--Jul 30,""
 MSE,425,[M] Senior Thesis I,01,"",3,ARRGT,ARR ARR,May 10--Jul 30,""
 MSE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 MSE,600,Special Projects or Independent Study,01,03211,V,ARRGT,ARR ARR,May 10--Jul 30,""
+MSE,700,"Master's Research, Thesis, and/or Examination",01,03212,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MSE,702,"Master's Special Problems, Directed Study, and/or Examination",01,03213,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MUS,120,[ARTS] Class Guitar,01,03745,3,"M,TU,W,TH,F18-19.15",WEB ARR,May 10--Jun 18,G Condon
 MUS,151,Music Fundamentals I,01,07906,3,"M,TU,W,TH,F10-11",WEB ARR,Jun 21--Jul 30,D Pham
@@ -590,14 +591,16 @@ PSYCH,311,[QUAN] Statistics in Psychology,01,07433,4,"M,TU,W,TH,F13.30-14.45",WE
 PSYCH,333,Abnormal Psychology,01,03892,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,""
 PSYCH,350,Social Psychology,01,03893,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,A Lambros
 SDC,100,[ARTS] World of Design and Construction,01,03895,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,""
-SDC,120,Foundational Drawing,01,03832,3,"M,TU,W,TH,F14-16",WEB ARR,May 10--Jun 18,""
-SDC,140,Foundation Studio I,01,03896,3,"M,TU,W,TH,F14-16",WEB ARR,Jun 21--Jul 30,""
+SDC,120,Foundational Drawing,01,03832,3,"M,TU,W,TH,F14-16",WEB ARR,May 10--Jun 18,C Vielle
+SDC,140,Foundation Studio I,01,03896,3,"M,TU,W,TH,F14-16",WEB ARR,Jun 21--Jul 30,M Cowan
 SDC,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 SDC,498,Special Topics in Design and Construction,01,03833,3,"M,TU,W,TH8-9.30",WEB ARR,Jun 21--Jul 30,""
 SHS,201,American Sign Language I,01,07828,4,"M,TU,W,TH,F13-15.30",WEB ARR,May 10--Jun 04,M Ratsch
 SHS,202,American Sign Language II,02,08381,4,"M,TU,W,TH,F13-15.30",WEB ARR,Jun 07--Jul 02,M Ratsch
 SOC,350,Social Psychology,01,03894,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,A Lambros
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A King
+SOE,700,"Master's Research, Thesis, and/or Examination",01,03614,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,03616,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 SOIL_SCI,480,Practicum in Organic Agriculture,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,B Jaeckel
 SOIL_SCI,498,Professional Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Reganold
 SOIL_SCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Reganold

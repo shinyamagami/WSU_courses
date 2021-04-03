@@ -233,7 +233,7 @@ ANTH,101,[DIVR] Introduction to Anthropology,03,02957,3,"TU,TH12.05-13.20",TODD 
 ANTH,101,[DIVR] Introduction to Anthropology,04,02958,3,"TU,TH13.30-14.45",WLSH 13,Aug 23--Dec 10,""
 ANTH,101,[DIVR] Introduction to Anthropology,06,02960,3,"M,W,F9.10-10",WLSH 13,Aug 23--Dec 10,""
 ANTH,101,[DIVR] Introduction to Anthropology,07,02961,3,"M,W,F10.10-11",WLSH 13,Aug 23--Dec 10,""
-ANTH,101,[DIVR] Introduction to Anthropology,08,02962,3,"M,W,F11.10-12",TODD 430,Aug 23--Dec 10,""
+ANTH,101,[DIVR] Introduction to Anthropology,08,02962,3,"M,W,F11.10-12",TODD 430,Aug 23--Dec 10,R Horowitz
 ANTH,101,[DIVR] Introduction to Anthropology,09,02963,3,"M,W,F12.10-13",WEBS 17,Aug 23--Dec 10,""
 ANTH,101,[DIVR] Introduction to Anthropology,10,02964,3,"M,W,F13.10-14",WLSH 13,Aug 23--Dec 10,J Blong
 ANTH,135,[SSCI] Myth Busting in Archaeology,01,17423,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,R Horowitz
@@ -1242,6 +1242,7 @@ CRM_J,365,Juvenile Justice and Corrections,01,04716,3,"M,W,F11.10-12",GUC TBS,Au
 CRM_J,370,Policing and Society,01,05861,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Marsh
 CRM_J,380,Criminal Courts in America,02,06489,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hemmens
 CRM_J,385,Institutional Corrections,01,04719,3,"M,W,F12.10-13",TODD 230,Aug 23--Dec 10,""
+CRM_J,400,[M] Special Topics in Criminal Justice and Criminology,01,05651,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
 CRM_J,403,[CAPS] Violence Toward Women,01,04720,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,T Kennon
 CRM_J,405,[M] Comparative Criminal Justice Systems,01,07729,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,A Deighton
 CRM_J,420,[M] Criminal Procedure,01,06240,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,J Snyder
@@ -1327,6 +1328,9 @@ CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",18,04346,V,AR
 CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",19,04347,V,ARRGT,"",Aug 23--Dec 10,Z Zhang
 CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",20,05783,V,ARRGT,"",Aug 23--Dec 10,""
 CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",21,07084,V,ARRGT,"",Aug 23--Dec 10,R Mcgee
+CSSTE,530,Readings in Cultural Studies and Social Thought in Education,01,05777,1,F13.10-15,CLEV 221,Aug 23--Dec 10,J Lupinacci
+CSSTE,535,Multicultural Education in a Global Society,01,"",3,W13.10-16,CLEV 221,Aug 23--Dec 10,""
+CSSTE,544,Discourse Analysis,01,06322,3,TU13.10-16,CLEV 221,Aug 23--Dec 10,J Lupinacci
 CSSTE,800,"Doctoral Research, Dissertation, and/or Examination",01,06469,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CST_M,102,Introduction to the Built Environment,01,03930,2,"M,W10.10-11",GTZN 21,Aug 23--Dec 10,""
 CST_M,201,Materials I,01,03053,3,"TU,TH17.45-19",SPRK 227,Aug 23--Dec 10,""
@@ -1744,7 +1748,7 @@ ED_PSYCH,521,Topics in Educational Psychology,01,07908,V,TU12.10-15,VC PUL,Aug 2
 ED_PSYCH,570,Introduction to Program Evaluation,01,04024,3,TH12.10-15,CLEV 234,Aug 23--Dec 10,M Poppen
 ED_PSYCH,572,Introduction to Systematic Literature Reviews and Meta-Analyses,01,04025,3,TU16.10-19,VC PUL,Aug 23--Dec 10,O Adesope
 ED_PSYCH,574,Seminar in Educational Psychology,01,04026,1,F10.10-12,CLEV 311,Aug 23--Dec 10,R Danielson
-ED_PSYCH,578,Advanced Item Response Theory,01,17412,3,TH16.10-19,CLEV 63,Aug 23--Dec 10,S Dai
+ED_PSYCH,578,Advanced Item Response Theory,01,17412,3,W16.10-19,CLEV 63,Aug 23--Dec 10,S Dai
 ED_PSYCH,597,Educational Psychology Internship,01,04027,3,W9.10-12,GUC TBS,Aug 23--Dec 10,K Carbonneau
 ED_PSYCH,600,Special Projects or Independent Study,01,04028,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ED_PSYCH,700,"Master's Research, Thesis, and/or Examination",01,04029,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -1792,13 +1796,13 @@ ENGLISH,101,[WRTG] College Composition,30,03423,3,"M,W,F9.10-10",GUC TBS,Aug 23-
 ENGLISH,101,[WRTG] College Composition,31,03424,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,J Flores
 ENGLISH,101,[WRTG] College Composition,32,03425,3,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,A Heile
 ENGLISH,101,[WRTG] College Composition,33,03426,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
-ENGLISH,101,[WRTG] College Composition,34,03427,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,H Ramos
+ENGLISH,101,[WRTG] College Composition,34,03427,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,101,[WRTG] College Composition,36,03428,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,101,[WRTG] College Composition,37,03429,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,C Criss
 ENGLISH,101,[WRTG] College Composition,38,03430,3,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,C Criss
 ENGLISH,101,[WRTG] College Composition,39,03431,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,101,[WRTG] College Composition,40,"",3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,E Salazar
-ENGLISH,101,[WRTG] College Composition,41,03433,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,L Carman
+ENGLISH,101,[WRTG] College Composition,41,03433,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,101,[WRTG] College Composition,42,"",3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,C Harty
 ENGLISH,101,[WRTG] College Composition,44,03435,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,101,[WRTG] College Composition,47,03436,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,""
@@ -1831,7 +1835,7 @@ ENGLISH,201,[WRTG] Writing and Research,05,03454,3,"TU,TH12.05-13.20",GUC TBS,Au
 ENGLISH,205,[HUM] Introduction to Shakespeare,01,03462,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,M Delahoyde
 ENGLISH,210,[HUM] Readings in American Literature,01,"",3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,211,[HUM] Sex Matters: Introduction to Queer Culture and Literature,01,04037,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
-ENGLISH,212,[ARTS] Introduction to Comics and Graphic Novels,01,"",3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,C Harty
+ENGLISH,212,[ARTS] Introduction to Comics and Graphic Novels,01,08004,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,M Ellingburg
 ENGLISH,219,[HUM] Introduction to the Environmental Humanities,01,17736,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,K Manis
 ENGLISH,220,[HUM] Introduction to Multicultural Literature,01,07245,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,L Guerrero
 ENGLISH,251,[ARTS] Introduction to Creative Writing: Exploring the Genres,01,03463,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,C Criss
@@ -1911,13 +1915,13 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,31,06301,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,32,07513,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Merck
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,33,08299,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Hughes
 ENGLISH,403,[WRTG] [M] Technical and Professional Writing ESL,01,07335,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Siler
-ENGLISH,419,The Twentieth Century Novel,01,05988,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ENGLISH,419,The Twentieth Century Novel,01,05988,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Edwards
 ENGLISH,443,Phonology,01,05484,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,M Thomas
 ENGLISH,451,[M] Advanced Creative Writing: Fiction,01,05486,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,L Levy
 ENGLISH,452,[M] Advanced Creative Writing: Poetry,01,06864,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,L Russo
 ENGLISH,456,[M] Language Acquisition,01,05487,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,N Bell
 ENGLISH,460,[M] The Scope of Rhetoric,01,17467,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,M Edwards
-ENGLISH,492,"[M] Advanced Topics in Literature, Criticism, and Theory",01,08006,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,M Edwards
+ENGLISH,492,"[M] Advanced Topics in Literature, Criticism, and Theory",01,08006,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,494,[CAPS] [M] Advanced Topics in Literature,01,06354,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,D Campbell
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ENGLISH,498,Internship,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -2312,6 +2316,7 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,34,07750,3,"M,W9.10-10",GUC 
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,"","","",F12.10-13,GUC TBS,"",""
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,35,07754,3,"M,W9.10-10",GUC TBS,Aug 23--Dec 10,L Hatter
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,"","","",F13.10-14,GUC TBS,"",""
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,36,07790,3,"TU,TH13.30-14.45",VC PUL,Aug 23--Dec 10,""
 HISTORY,111,[HUM] American History Since 1877,01,03743,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,M Sutton
 HISTORY,120,[DIVR] World History I,01,03744,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,N Overtoom
 HISTORY,120,[DIVR] World History I,03,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Herzog
@@ -2333,9 +2338,11 @@ HISTORY,309,[SSCI] Place-based Digital History,01,15483,3,"M,W,F15.10-16",GUC TB
 HISTORY,369,[ARTS] Queer Identities in Contemporary Cultures,01,07795,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,L Heidenreich
 HISTORY,380,Introduction to Social Studies Methods,01,15481,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,R Mccoy
 HISTORY,387,World War II in Asia and the Pacific,01,07143,3,"TU,TH12.10-13.25",GUC TBS,Aug 23--Dec 10,N Kawamura
+HISTORY,390,U.S. Military History,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
 HISTORY,395,Topics in History,01,15482,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,N Overtoom
 HISTORY,395,Topics in History,02,15484,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,R Sun
 HISTORY,409,[CAPS] American Environmental History,01,06712,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,J Sanders
+HISTORY,430,[M] History of Mexico,01,17801,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
 HISTORY,436,[CAPS] Imperialism in the Modern World,01,06717,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,S Herzog
 HISTORY,441,"The Later Middle Ages, 1050-1500",01,15479,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,T Jordan
 HISTORY,447,"[HUM] Europe in the French Revolutionary and Napoleonic Era, 1789 to 1815",01,07141,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,S Kale
@@ -2343,6 +2350,7 @@ HISTORY,469,[M] Seminar in History,01,03752,3,TU15.10-18,GUC TBS,Aug 23--Dec 10,
 HISTORY,478,[M] The Two Koreas in the Modern World,01,07138,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,W Brecher
 HISTORY,480,Methods of Teaching Social Studies,01,03753,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,T Jordan
 HISTORY,509,Field Course: Foundations in US History,01,03762,3,M14.10-17,WLSH 333,Aug 23--Dec 10,L Hatter
+HISTORY,530,[M] History of Mexico,01,17816,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
 HISTORY,547,"[HUM] Europe in the French Revolutionary and Napoleonic Era, 1789 to 1815",01,07142,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,S Kale
 HISTORY,580,Historiography,01,03764,3,TU15.10-18,WLSH 333,Aug 23--Dec 10,R Sun
 HISTORY,597,Seminar in History,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -2433,6 +2441,7 @@ HORT,518,[M] Post-harvest Biology and Technology,05,04531,3,"TU,TH10.35-11.25",V
 HORT,518,[M] Post-harvest Biology and Technology,01 Lab,04533,0,TU14.55-17.45,VPBS 39,Aug 23--Dec 10,R Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,02 Lab,04534,0,TU14.55-17.45,ARR ARR,Aug 23--Dec 10,R Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,03 Lab,07234,0,F9.10-12,VPBS 39,Aug 23--Dec 10,R Sharpe
+HORT,522,Data Analysis in Systems Biology,01,17815,3,"TU,TH9.10-10.25",VPBS 39,Aug 23--Dec 10,S Ficklin
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,01,06868,3,"M,W,F9.10-10",VC PUL,Aug 23--Dec 10,""
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,02,06870,3,"M,W,F9.10-10",VC ARR,Aug 23--Dec 10,""
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,03,06871,3,"M,W,F9.10-10",VC ARR,Aug 23--Dec 10,""
@@ -2972,7 +2981,7 @@ MBIOS,564,Topics in Biomedical Experimentation,01,07702,V,"TU,TH9.10-10.25",GUC 
 MBIOS,578,Bioinformatics,01,03100,3,"TU,TH16.20-17.10",GUC TBS,Aug 23--Dec 10,J Wyrick
 MBIOS,578,Bioinformatics,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MBIOS,578,Bioinformatics,01 Lab,03104,0,"TU,TH17.45-19",GUC TBS,Aug 23--Dec 10,J Wyrick
-MBIOS,579,Molecular Biosciences Seminar,01,04943,1,"TU,TH12.10-13",GUC TBS,Aug 23--Dec 10,J Wyrick
+MBIOS,579,Molecular Biosciences Seminar,01,04943,1,"TU,TH12.10-13",GUC TBS,Aug 23--Dec 10,T Hassold
 MBIOS,583,Professional Skills Seminar,01,04944,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Hubbard
 MBIOS,593,Research Proposal,01,04946,2,ARRGT,"",Aug 23--Dec 10,(multiple)
 MBIOS,700,"Master's Research, Thesis, and/or Examination",01,04947,V,ARRGT,"",Aug 23--Dec 10,(multiple)
@@ -3025,10 +3034,10 @@ ME,401,Mechatronics,02 Lab,03642,0,M15.10-18,EME 152,Aug 23--Dec 10,""
 ME,401,Mechatronics,03 Lab,03643,0,TH10.35-13.25,EME 152,Aug 23--Dec 10,""
 ME,401,Mechatronics,04 Lab,05941,0,F11.10-14,EME 152,Aug 23--Dec 10,""
 ME,405,Thermal Systems Design,01,05667,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,""
-ME,406,[M] Experimental Design,01,"",3,M8.10-9,GUC TBS,Aug 23--Dec 10,""
-ME,406,[M] Experimental Design,02,"",3,M8.10-9,GUC TBS,Aug 23--Dec 10,""
-ME,406,[M] Experimental Design,01 Lab,"",0,"TU,TH7.45-10.25",ETRL 1,Aug 23--Dec 10,""
-ME,406,[M] Experimental Design,02 Lab,"",0,"TU,TH13.30-16.20",ETRL 1,Aug 23--Dec 10,""
+ME,406,[M] Experimental Design,01,03644,3,M8.10-9,GUC TBS,Aug 23--Dec 10,""
+ME,406,[M] Experimental Design,02,05758,3,M8.10-9,GUC TBS,Aug 23--Dec 10,""
+ME,406,[M] Experimental Design,01 Lab,03645,0,"TU,TH7.45-10.25",ETRL 1,Aug 23--Dec 10,""
+ME,406,[M] Experimental Design,02 Lab,03646,0,"TU,TH13.30-16.20",ETRL 1,Aug 23--Dec 10,""
 ME,413,Mechanics of Solids,01,04484,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
 ME,415,[M] Engineering Design,01,06482,3,"M,W,F14.10-15",EME 154,Aug 23--Dec 10,""
 ME,416,[CAPS] Mechanical Systems Design,01,03648,3,M16.10-17,GUC TBS,Aug 23--Dec 10,""
@@ -3902,6 +3911,7 @@ SOE,501,Graduate Skills Seminar,01,04428,1,F10.10-11,TROY G0007,Aug 23--Dec 10,C
 SOE,536,"Climate Change Impacts on Physical, Natural, and Human Systems",01,17730,3,"TU,TH14.55-16.10",VC ARR,Aug 23--Dec 10,D Singh
 SOE,541,Orogenic Systems,01,17202,3,"TU,TH14.55-16.10",WEBS 1141,Aug 23--Dec 10,S Long
 SOE,576,Biology and Ecology of Pacific Salmon,01,07457,3,"TU,TH16.25-17.40",VC PUL,Aug 23--Dec 10,J Mcintyre
+SOE,597,Advanced Topics in Geology,01,04622,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Boroughs
 SOE,598,Seminar,01,03065,1,TH16.20-17.10,GUC TBS,Aug 23--Dec 10,J Vervoort
 SOE,600,Special Projects or Independent Study,01,04430,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,700,"Master's Research, Thesis, and/or Examination",01,04431,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -4025,7 +4035,7 @@ SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,04136,3,ARRGT
 SPEC_ED,522,Topics in Special Education,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,522,Topics in Special Education,03,08138,V,W16.10-17,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,590,Practicum in Special Education,01,04139,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,595,Universal Design,01,06436,3,W17.45-20.30,CLEV 63,Aug 23--Dec 10,D Mcmahon
+SPEC_ED,595,Universal Design,01,06436,3,TH17.45-20.30,VC PUL,Aug 23--Dec 10,D Mcmahon
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SPEC_ED,700,"Master's Research, Thesis, and/or Examination",01,08117,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,08118,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -4138,6 +4148,7 @@ TCH_LRN,401,Practicum in Bilingual/ESL Education,01 Lab,05635,0,ARRGT,ARR ARR,Se
 TCH_LRN,402,Instructional Practicum I,01,05537,V,M11.10-12,GUC TBS,Aug 23--Dec 10,L White
 TCH_LRN,405,Instructional Practicum II,01,05538,V,F11.10-12,GUC TBS,Aug 23--Dec 10,L White
 TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,01,05634,3,M16.10-19,EDAD 308,Aug 23--Dec 10,""
+TCH_LRN,410,Theoretical Foundations of Bilingual/ESL Education,01,"",3,TU17.45-20.30,VC PUL,Aug 23--Dec 10,E Johnson
 TCH_LRN,413,Introduction to ESL for K-8 Teachers,01,"",3,"M,W10.30-12.20",EDAD 212,Sep 27--Dec 10,""
 TCH_LRN,413,Introduction to ESL for K-8 Teachers,02,"",3,"M,W8.10-10",EDAD 212,Sep 27--Dec 10,""
 TCH_LRN,415,Student Teaching,01,05542,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
@@ -4163,10 +4174,13 @@ TCH_LRN,483,Integrating Health and Fitness into K-8 Curriculum,02,05555,3,W8.10-
 TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,01,"",3,F9.10-11,GUC TBS,Aug 23--Dec 10,L White
 TCH_LRN,499,Special Problems,01,05557,V,ARRGT,ARR ARR,Aug 23--Dec 10,T Akmal
 TCH_LRN,499,Special Problems,02,06685,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,01,05539,3,TU17.45-20.30,VC PUL,Aug 23--Dec 10,E Johnson
+TCH_LRN,511,Theoretical Foundations of Education Research,01,06401,3,TU13.10-16,CLEV 63,Aug 23--Dec 10,J Egbert
 TCH_LRN,517,Coding for Teachers,01,07953,3,W13.10-16,EDAD 216,Aug 23--Dec 10,""
 TCH_LRN,519,Instructional Media Production I,01,06923,3,M13.10-16,ARR ARR,Aug 23--Dec 10,J Egbert
 TCH_LRN,521,Topics in Education,01,05657,3,TH16.10-19,VC PUL,Aug 23--Dec 10,K Lesseig
 TCH_LRN,522,Topics in Education,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,T Akmal
+TCH_LRN,544,Teaching Children's and Young Adult Literature,02,07473,3,W17.15-20,VC PUL,Aug 23--Dec 10,S Newcomer
 TCH_LRN,580,Multicultural Education in a Global Society,01,"",3,W13.10-16,CLEV 221,Aug 23--Dec 10,""
 TCH_LRN,581,Learning and Development in Mathematics and Science,01,05564,3,W17.45-20.30,VC PUL,Aug 23--Dec 10,A Roth-Mcduffie
 TCH_LRN,585,Focused Reading and Conference in Math/Science Education,01,17810,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Cavagnetto
@@ -4203,7 +4217,7 @@ UNIV,104,First-Year Success Seminar,24,17493,2,"M,W15.10-16",GUC TBS,Aug 23--Dec
 UNIV,104,First-Year Success Seminar,25,17495,2,TH14.50-17.20,GUC TBS,Aug 23--Dec 10,C Skinner
 UNIV,104,First-Year Success Seminar,26,17496,2,"M,W15.10-16",GUC TBS,Aug 23--Dec 10,R Pruneda
 UNIV,104,First-Year Success Seminar,27,17497,2,"TU,TH14.10-15",GUC TBS,Aug 23--Dec 10,M Jeffries
-UNIV,104,First-Year Success Seminar,28,"",2,"M,W15.10-16",GUC TBS,Aug 23--Dec 10,R Acuña-Luna
+UNIV,104,First-Year Success Seminar,28,"",2,"M,W15.10-16",GUC TBS,Aug 23--Dec 10,R Acuna-Luna
 UNIV,110,Developing Academic Strategies for Reading and Writing,01,"",4,"TU,W,TH,F9.10-10",GUC TBS,Aug 23--Dec 10,""
 UNIV,111,Developing Academic Strategies for Listening and Discussion,01,"",4,"M,TU,W,TH4.10-5",GUC TBS,Aug 23--Dec 10,""
 UNIV,111,Developing Academic Strategies for Listening and Discussion,02,"",4,"M,TU,W,TH16.10-17",GUC TBS,Aug 23--Dec 10,""

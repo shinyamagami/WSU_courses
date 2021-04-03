@@ -63,32 +63,36 @@ module WSUInPerson
 
       @campuses.each do |campus|
 
-        # time = '20213'
-        time = '20212'
-        # time = '20211'
-        # time = '20203'
 
-        doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/' +time))
+        semesters = ["20211", "20212", "20213"]
+        # semester = '20213'
+        # semester = '20212'
+        # semester = '20211'
+        # semester = '20203'
+        semesters.each do |semester|
 
-        subjects = doc.css('.prefixList').css('a')
-    
-        subject_urls = []
-        prefixes = []
+          doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/' + semester))
 
-        subjects.each do |subject|
-          subject_urls << subject.attribute('href').value
-          prefixes << subject.text.strip
+          subjects = doc.css('.prefixList').css('a')
+      
+          subject_urls = []
+          prefixes = []
+
+          subjects.each do |subject|
+            subject_urls << subject.attribute('href').value
+            prefixes << subject.text.strip
+          end
+          
+          scrape_course_pages(subject_urls, prefixes, campus, semester)
         end
-        
-        scrape_course_pages(subject_urls, prefixes, campus, time)
       end
     end
   
   
-    def scrape_course_pages(subject_urls, prefixes, campus, time)
+    def scrape_course_pages(subject_urls, prefixes, campus, semester)
 
       csv = ExportCSV::ExportCSV.new
-      csv.create(campus, time)
+      csv.create(campus, semester)
       column_names = ["Prefix", "Course Number", "Course Title", "Section", "Class Number", "Credit", "Days & Times",
         "Bldg & Room", "Dates", "Instructor"]
       csv.name_column(column_names)
