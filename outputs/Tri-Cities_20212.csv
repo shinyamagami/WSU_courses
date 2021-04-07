@@ -51,6 +51,7 @@ E_E,495,Internship in Electrical Industry,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(
 E_E,600,Special Projects or Independent Study,01,01012,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 E_E,700,"Master's Research, Thesis, and/or Examination",01,01013,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,01014,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+ED_AD,521,Topics in Education,01,"",3,ARRGT,ARR ARR,May 10--Jul 30,S Calderone
 ED_AD,522,Topics in Education,01,"",3,TU17.45-20.30,WEB ARR,May 10--Jul 30,K Rodela
 ED_AD,561,Introduction to College Student Development,01,"",3,TH17.10-20.30,WEB ARR,May 10--Jul 30,K Huggins
 ED_AD,561,Introduction to College Student Development,"","","",TU17.10-20.30,"","",""
@@ -63,7 +64,7 @@ ED_AD,588,The Law and Education,01,04284,3,"M,W17.10-20.30",WEB ARR,May 10--Jun 
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,01073,V,ARRGT,ARR ARR,May 10--Jul 30,S Calderone
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,01366,V,ARRGT,ARR ARR,May 10--Jul 30,A Roth-Mcduffie
 ED_PSYCH,401,"Classroom Assessment, Elementary",01,04150,V,"M,W14.30-17.50",WEB ARR,Jun 21--Jul 30,Y Ardasheva
-ED_PSYCH,505,Research Methods I,01,08503,3,"M,TU,W,TH,F12.30-13.20",WEB ARR,Jun 21--Jul 30,E Mcmain
+ED_PSYCH,505,Research Methods I,01,08503,3,"M,TU,W,TH,F12.30-13.20",WEB ARR,Jun 21--Jul 30,""
 ED_PSYCH,508,Educational Statistics,01,01093,3,"M,TU,W,TH,F12.30-13.20",WEB ARR,May 10--Jun 18,R Wong
 ED_PSYCH,508,Educational Statistics,02,"",3,TH17.10-20.30,WEB ARR,May 10--Jul 30,S Dai
 ENGLISH,101,[WRTG] College Composition,01,04302,3,"M,W9.15-10.50",WEB ARR,May 10--Jul 30,G Escalera
@@ -125,8 +126,8 @@ NURS,405,Nursing Leadership,02,01033,2,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,406,Nursing Management of the Healthcare Environment,01,01034,3,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,01,01038,2,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,02,01039,2,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,465,Application of Population Health Principles,01,01410,3,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,465,Application of Population Health Principles,02,01411,3,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,465,Application of Population Health Principles,01,01410,3,ARRGT,ARR ARR,May 10--Jul 30,B Sarkinen
+NURS,465,Application of Population Health Principles,02,01411,3,ARRGT,ARR ARR,May 10--Jul 30,B Sarkinen
 NURS,477,Health Care Ethics,01,01040,V,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,477,Health Care Ethics,02,01041,V,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,495,[CAPS] Advanced Practicum,01,01042,3,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -199,7 +200,6 @@ SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,01099,V,ARRGT,A
 SOIL_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Dhingra
 SPEC_ED,440,Methods in Intensive Educational Supports,01,04250,3,"M,W11-14.20",WEB ARR,Jun 21--Jul 30,Y Hsiao
 SPEC_ED,540,Methods in Intensive Educational Supports,01,07877,3,"M,W11-14.20",WEB ARR,Jun 21--Jul 30,Y Hsiao
-TCH_LRN,321,Early Literacy,01,04221,3,"TU,TH17-20.20",WEB ARR,May 10--Jun 18,J Johnson
 TCH_LRN,330,Diversity in Education,01,04182,3,"M,W17-20.20",WEB ARR,May 10--Jun 18,E Johnson
 TCH_LRN,411,Bilingual Methods and Materials Across Content Areas,01,04202,3,"M,W9-12.20",WEB ARR,Jun 21--Jul 30,A Johnson
 TCH_LRN,463,Teaching Concepts of Probability and Statistics,01,04231,3,"M,W13.30-16.40",WEB ARR,Jun 21--Jul 30,M Haberlach
