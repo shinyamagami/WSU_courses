@@ -33,17 +33,17 @@ ANTH,350,"[DIVR] Speech, Thought, and Culture",01,10244,3,ARRGT,ARR ARR,Aug 23--
 ANTH,390,[M] History of Anthropological Thought,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
 ANTH,404,[CAPS] The Self in Culture,01,10245,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mageo
 ANTH,418,Human Issues in International Development,01,10246,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Quinlan
-B_A,100,Introduction to Business,01,10958,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-B_A,100,Introduction to Business,02,11019,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-B_A,100,Introduction to Business,03,11179,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+B_A,100,Introduction to Business,01,10958,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Cooney
+B_A,100,Introduction to Business,02,11019,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Cooney
+B_A,100,Introduction to Business,03,11179,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Cooney
 B_A,102,Exploring Careers in Business,01,11031,1,ARRGT,ARR ARR,Aug 23--Oct 10,S Billington
 B_A,102,Exploring Careers in Business,02,11169,1,ARRGT,ARR ARR,Aug 23--Oct 10,S Billington
-B_A,211,"Ethics, Teams, and Innovation",01,11033,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-B_A,211,"Ethics, Teams, and Innovation",02,11180,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+B_A,211,"Ethics, Teams, and Innovation",01,11033,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Yaws-Gonzalez
+B_A,211,"Ethics, Teams, and Innovation",02,11180,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Yaws-Gonzalez
 B_A,211,"Ethics, Teams, and Innovation",04,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,""
 B_A,211,"Ethics, Teams, and Innovation",05,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,""
-B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,11032,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,11143,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,11032,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,11143,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
 B_A,500,Data Analysis for Managers,01,10535,2,ARRGT,ARR ARR,Aug 23--Sep 26,T Kokta
 B_A,500,Data Analysis for Managers,07,17220,2,ARRGT,ARR ARR,Oct 04--Nov 07,T Kokta
 B_A,502,Foundations in Operations Management,01,10541,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
@@ -53,7 +53,7 @@ B_A,503,Foundations in Business Law,02,10547,2,ARRGT,ARR ARR,Oct 04--Nov 07,""
 B_A,503,Foundations in Business Law,03,10548,2,ARRGT,ARR ARR,Oct 04--Nov 07,S Bergstedt
 B_A,504,Foundations in Finance,01,10559,2,ARRGT,ARR ARR,Nov 08--Dec 12,""
 B_A,504,Foundations in Finance,02,10560,2,ARRGT,ARR ARR,Nov 08--Dec 12,""
-B_A,579,MBA Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,V Kolde
+B_A,579,MBA Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,""
 B_A,579,MBA Capstone,04,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,05,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
@@ -179,7 +179,7 @@ E_E,432,RF Engineering for Telecommunications,01,"",4,"M,W,F10.10-11",WEB ARR,Au
 E_E,432,RF Engineering for Telecommunications,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,B Belzer
 E_E,464,Digital Signal Processing I,01,"",3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,M Torabi Konjin
 E_E,489,Introduction to Control Systems,01,"",3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,A Saberi
-E_E,491,Performance of Power Systems,01,10956,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,M Venkatasubramanian
+E_E,491,Performance of Power Systems,01,10956,3,"TU,TH9.10-10.25","",Aug 23--Dec 10,M Venkatasubramanian
 E_E,492,Renewable Energy Sources,01,"",3,"M,W,F14.10-15","",Aug 23--Dec 10,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,03,17719,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
@@ -189,23 +189,23 @@ E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Kejariwal
 E_E,526,High Voltage Overhead Transmission Lines,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,R Olsen
 E_E,536,Power Systems Economics and Electricity Markets,01,10676,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Srivastava
 E_E,701,Master's Independent Capstone Project and /or Examination,01,10726,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-E_M,422,Leading People and Organizations,01,"",3,TU17.15-19.45,WEB ARR,Aug 23--Dec 10,K Bachman
-E_M,422,Leading People and Organizations,02,"",3,W17.15-19.45,WEB ARR,Aug 23--Dec 10,K Bachman
+E_M,422,Leading People and Organizations,01,"",3,TU17.15-19.45,"",Aug 23--Dec 10,K Bachman
+E_M,422,Leading People and Organizations,02,"",3,W17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,430,Applications of Constraints Management,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,""
-E_M,464,Project Management,01,"",3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
+E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,"",Aug 23--Dec 10,""
+E_M,464,Project Management,01,"",3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
-E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
+E_M,485,Design of Experiments,01,"",3,M18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,WEB ARR,Aug 23--Dec 10,K Bachman
-E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,WEB ARR,Aug 23--Dec 10,K Bachman
+E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,"",Aug 23--Dec 10,K Bachman
+E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,530,Applications of Constraints Management,01,10412,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,""
-E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
-E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,WEB ARR,Aug 23--Dec 10,A Squires
+E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,"",Aug 23--Dec 10,""
+E_M,564,Project Management,01,10282,3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
+E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,"",Aug 23--Dec 10,A Squires
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,11112,3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,585,Design of Experiments,01,10476,3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
+E_M,585,Design of Experiments,01,10476,3,M18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10684,V,F17.15-19.45,"",Aug 23--Dec 10,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,10284,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,101,[SSCI] Fundamentals of Microeconomics,02,10982,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
@@ -292,6 +292,7 @@ H_D,307,Adolescence and Emerging Adulthood,01,10486,3,ARRGT,ARR ARR,Aug 23--Dec 
 H_D,310,[M] Research Methods,01,10263,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,341,Guidance in Early Childhood Programs,01,10265,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Lawrence
 H_D,342,Curriculum for Early Childhood Programs,01,10266,4,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
+H_D,342,Curriculum for Early Childhood Programs,01 Lab,10267,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Grant
 H_D,350,[DIVR] Family Diversity,01,10268,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Bice
 H_D,385,Perspectives in Human Services,01,10751,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Smith
 H_D,403,[CAPS] Families in Poverty,01,10269,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Garcia
@@ -306,14 +307,14 @@ H_D,497,Professional Preparation Seminar,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Hewa
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,505,Developing Effective Leadership: Tidal Leadership,01,10505,2,ARRGT,ARR ARR,Aug 23--Dec 10,J Hewa
-HBM,101,Professional and Career Development for the Business World,01,10207,1,ARRGT,ARR ARR,Aug 23--Oct 10,""
-HBM,101,Professional and Career Development for the Business World,02,10666,1,ARRGT,ARR ARR,Aug 23--Oct 10,""
-HBM,101,Professional and Career Development for the Business World,03,11171,1,ARRGT,ARR ARR,Aug 23--Oct 10,""
+HBM,101,Professional and Career Development for the Business World,01,10207,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
+HBM,101,Professional and Career Development for the Business World,02,10666,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
+HBM,101,Professional and Career Development for the Business World,03,11171,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,235,"[SSCI] Travel, Society, and Business",01,10554,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
 HBM,280,Hospitality Systems,01,10327,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Philander
-HBM,301,Introduction to Event Planning,01,10500,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-HBM,301,Introduction to Event Planning,02,11132,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-HBM,358,Foodservice Systems and Control,01,10556,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
+HBM,301,Introduction to Event Planning,01,10500,3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
+HBM,301,Introduction to Event Planning,02,11132,3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
+HBM,358,Foodservice Systems and Control,01,10556,3,ARRGT,ARR ARR,Aug 23--Oct 10,S Seo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,J Harbour
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,H Andlid
 HBM,401,Career Management,01,10498,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
@@ -379,24 +380,24 @@ MBIOS,578,Bioinformatics,01,10231,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MBIOS,583,Professional Skills Seminar,01,10236,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Hubbard
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,10863,V,ARRGT,"",Aug 23--Dec 10,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,10238,V,ARRGT,ARR ARR,Aug 23--Dec 10,N Mccabe
-ME,303,Fluid Mechanics,01,"",3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,B Asgharian Dastenaie
-ME,304,Heat Transfer,01,17596,3,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,B Asgharian Dastenaie
-ME,313,Engineering Analysis,01,"",3,"M,W13-13.50",WEB ARR,Aug 23--Dec 10,S Chien
+ME,303,Fluid Mechanics,01,"",3,"M,W,F9.10-10","",Aug 23--Dec 10,B Asgharian Dastenaie
+ME,304,Heat Transfer,01,17596,3,"M,W,F11.10-12","",Aug 23--Dec 10,B Asgharian Dastenaie
+ME,313,Engineering Analysis,01,"",3,"M,W13-13.50","",Aug 23--Dec 10,S Chien
 ME,313,Engineering Analysis,01 Lab,10436,0,W13-16,"",Aug 23--Dec 10,S Chien
-ME,316,Mechanical Component Analysis and Design,01,"",3,"M,W,F14.10-15",WEB ARR,Aug 23--Dec 10,M Pitts
-ME,415,[M] Engineering Design,01,"",3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,M Pitts
+ME,316,Mechanical Component Analysis and Design,01,"",3,"M,W,F14.10-15","",Aug 23--Dec 10,M Pitts
+ME,415,[M] Engineering Design,01,"",3,"M,W,F12.10-13","",Aug 23--Dec 10,M Pitts
 ME,436,Combustion Engines,01,"",3,"M,W,F15.10-16",WEB ARR,Aug 23--Dec 10,""
 ME,461,Introduction to Nuclear Engineering,01,"",3,"TU,TH16.15-17.30","",Aug 23--Dec 10,R Stout
 ME,483,Topics in Mechanical Engineering,01,17597,3,"W,F16.15-17.30",WEB ARR,Aug 23--Dec 10,G Taub
-MGMT,301,Principles of Management and Organization,01,10336,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-MGMT,301,Principles of Management and Organization,02,10653,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-MGMT,401,Leading People and Organizations,01,10339,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MGMT,401,Leading People and Organizations,02,10655,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MGMT,450,Personnel and Human Resources Management,01,10340,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MGMT,485,[M] Negotiation Skills,01,17226,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-MGMT,485,[M] Negotiation Skills,02,17288,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-MGMT,491,[CAPS] Strategic Management,01,10346,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
-MGMT,491,[CAPS] Strategic Management,02,10504,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
+MGMT,301,Principles of Management and Organization,01,10336,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
+MGMT,301,Principles of Management and Organization,02,10653,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
+MGMT,401,Leading People and Organizations,01,10339,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Gingras
+MGMT,401,Leading People and Organizations,02,10655,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Gingras
+MGMT,450,Personnel and Human Resources Management,01,10340,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Kuhn
+MGMT,485,[M] Negotiation Skills,01,17226,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppard
+MGMT,485,[M] Negotiation Skills,02,17288,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppard
+MGMT,491,[CAPS] Strategic Management,01,10346,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
+MGMT,491,[CAPS] Strategic Management,02,10504,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
 MGMT,588,Management of Innovation,01,"",3,ARRGT,ARR ARR,Aug 23--Sep 26,V Kolde
 MGMT,588,Management of Innovation,02,"",3,ARRGT,ARR ARR,Aug 23--Sep 26,V Kolde
 MGMT,588,Management of Innovation,03,"",3,ARRGT,ARR ARR,Aug 23--Sep 26,V Kolde
@@ -437,11 +438,11 @@ MGTOP,215,Business Statistics,01,10347,4,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,215,Business Statistics,01 Lab,10350,0,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,340,Operations Management,01,10353,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
 MGTOP,340,Operations Management,02,10661,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
-MIS,250,Managing Information Technology,01,10354,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MIS,250,Managing Information Technology,02,10555,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MIS,325,Enterprise Business Development,01,10356,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MIS,325,Enterprise Business Development,02,11012,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
-MIS,372,[M] Data Management,01,17230,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
+MIS,250,Managing Information Technology,01,10354,3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
+MIS,250,Managing Information Technology,02,10555,3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
+MIS,325,Enterprise Business Development,01,10356,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
+MIS,325,Enterprise Business Development,02,11012,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
+MIS,372,[M] Data Management,01,17230,3,ARRGT,ARR ARR,Aug 23--Oct 10,M Carter
 MIS,572,Database Management Systems,01,"",3,ARRGT,ARR ARR,Oct 04--Nov 07,J Taylor
 MIS,572,Database Management Systems,02,"",3,ARRGT,ARR ARR,Oct 04--Nov 07,J Taylor
 MIS,572,Database Management Systems,03,"",3,ARRGT,ARR ARR,Oct 04--Nov 07,J Taylor
@@ -518,6 +519,8 @@ PSYCH,499,Special Problems,01,10502,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,499,Special Problems,02,10517,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,499,Special Problems,03,10992,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SHS,201,American Sign Language I,01,10381,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
+SHS,201,American Sign Language I,02,10841,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsch
+SHS,202,American Sign Language II,01,10842,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,10406,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOC,101,[SSCI] Introduction to Sociology,02,11026,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 SOC,102,[SSCI] Social Problems,01,10413,3,ARRGT,ARR ARR,Aug 23--Dec 10,""

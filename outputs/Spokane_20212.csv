@@ -27,8 +27,11 @@ NEP,499,Special Problems,02,07544,V,ARRGT,ARR ARR,May 10--Jul 30,H Haverkamp
 NEP,499,Special Problems,03,07545,V,ARRGT,ARR ARR,May 10--Jul 30,J Larsen
 NEP,499,Special Problems,04,07546,V,ARRGT,ARR ARR,May 10--Jul 30,L Miller
 NEP,499,Special Problems,05,07547,V,ARRGT,ARR ARR,May 10--Jul 30,M Perrigue
+NEP,540,Clinical Supervised Practice,01,06420,11,"M,TU9.10-16",ARR ARR,May 10--May 11,S Niehuser
+NEP,540,Clinical Supervised Practice,"","","",TH13.10-15,ARR ARR,"",""
 NEP,540,Clinical Supervised Practice,02,06422,11,"M,TU9.10-16",ARR ARR,May 10--May 11,S Niehuser
 NEP,540,Clinical Supervised Practice,"","","",TH13.10-15,ARR ARR,"",""
+NEP,540,Clinical Supervised Practice,01 Lab,06421,0,ARRGT,ARR ARR,May 10--Jul 30,S Niehuser
 NEP,540,Clinical Supervised Practice,02 Lab,06423,0,ARRGT,ARR ARR,May 10--Jul 30,S Niehuser
 NEP,600,Special Projects or Independent Study,01,06470,V,ARRGT,ARR ARR,May 10--Jul 30,O Amram
 NEP,600,Special Projects or Independent Study,02,07548,V,ARRGT,ARR ARR,May 10--Jul 30,F Carbonero
@@ -164,7 +167,7 @@ NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,VC ARR,"",
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,02,06358,3,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,553,Organizational Systems and Leadership II,02,06358,3,TH11-14,WEB ARR,May 20--May 20,""
 NURS,553,Organizational Systems and Leadership II,01 Lab,06359,0,ARRGT,ARR ARR,May 10--Jul 30,C Warburton
 NURS,557,DNP Project I,01,06363,3,TH14.10-17,VC ARR,May 20--May 20,J Purath
 NURS,557,DNP Project I,"","","",TH14.10-17,VC ARR,"",""
@@ -212,7 +215,7 @@ NURS,589,Psychometrics in Health Care Research,"","","",F10.10-13,VC ARR,"",""
 NURS,589,Psychometrics in Health Care Research,"","","",F10.10-13,VC ARR,"",""
 NURS,589,Psychometrics in Health Care Research,"","","",F10.10-13,VC ARR,"",""
 NURS,589,Psychometrics in Health Care Research,"","","",F10.10-13,VC ARR,"",""
-NURS,591,Introduction to Mixed Methods and Evaluation,01,06323,3,TH8.10-11,VC ARR,May 20--May 20,""
+NURS,591,Introduction to Mixed Methods and Evaluation,01,06323,3,TH8.10-11,VC ARR,May 20--May 20,S James
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,VC ARR,"",""
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,VC ARR,"",""
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,VC ARR,"",""
@@ -261,4 +264,5 @@ SHS,590,Special Topics in Speech and Hearing Sciences,"","","",SA8-18,ARR ARR,""
 SHS,590,Special Topics in Speech and Hearing Sciences,02,06318,V,F16-20,ARR ARR,Jun 04--Jun 05,R Keifer
 SHS,590,Special Topics in Speech and Hearing Sciences,"","","",SA8-18,ARR ARR,"",""
 SHS,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Jun 01--Jul 30,C Dechert
+SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,07951,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 TCH_LRN,528,Literacy within the Disciplines,01,"",3,"M,TU,W,TH12-14.30",WEB ARR,Jul 05--Jul 30,P Provinsal
