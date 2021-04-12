@@ -342,14 +342,11 @@ I_BUS,380,International Business,04,02961,3,ARRGT,ARR ARR,Jun 28--Aug 15,M Cicek
 I_BUS,470,International Trade and Finance,01,02604,3,ARRGT,ARR ARR,May 10--Jul 30,C Dollin
 IPM,452,Pesticides and the Environment,01,"",3,ARRGT,ARR ARR,May 10--Jul 30,A Felsot
 IPM,552,Pesticides and the Environment,01,02665,3,ARRGT,ARR ARR,May 10--Jul 30,A Felsot
-MATH,103,Algebra Methods and Introduction to Functions,01,02535,3,ARRGT,ARR ARR,May 10--Jul 30,J Eld
 MATH,103,Algebra Methods and Introduction to Functions,02,02591,3,ARRGT,ARR ARR,May 10--Jul 30,E Sablan
 MATH,105,[QUAN] Exploring Mathematics,01,02536,3,ARRGT,ARR ARR,May 10--Jul 30,S Lapin
 MATH,106,College Algebra,01,02921,3,ARRGT,ARR ARR,May 10--Jun 18,R Learn
 MATH,108,Trigonometry,01,02922,2,ARRGT,ARR ARR,Jun 21--Jul 30,S Selmi
-MATH,110,Mathematics Acceleration,01,07431,1,ARRGT,ARR ARR,Jun 28--Jul 30,E Pena
 MATH,201,Mathematics for Business and Economics,01,02579,3,ARRGT,ARR ARR,May 10--Jul 30,D Zhang
-MATH,201,Mathematics for Business and Economics,02,02631,3,ARRGT,ARR ARR,May 10--Jul 30,D Malone Buoy
 MATH,202,[QUAN] Calculus for Business and Economics,01,02537,3,ARRGT,ARR ARR,May 10--Jul 30,E Remaley
 MATH,202,[QUAN] Calculus for Business and Economics,02,02588,3,ARRGT,ARR ARR,May 10--Jul 30,M Gaddis
 MBIOS,101,[BSCI] Introductory Microbiology,01,07891,4,ARRGT,ARR ARR,May 10--Jul 02,C Helmick
@@ -536,10 +533,12 @@ SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 SPEC_ED,800,"Doctoral Research, Dissertation, and/or Examination",01,02556,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 STAT,212,[QUAN] Introduction to Statistical Methods,01,02580,4,ARRGT,ARR ARR,May 10--Jul 30,M Lesperance
+STAT,212,[QUAN] Introduction to Statistical Methods,02,02589,4,ARRGT,ARR ARR,May 10--Jul 30,A Fisher
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,02581,0,ARRGT,ARR ARR,May 10--Jul 30,M Lesperance
+STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,02590,0,ARRGT,ARR ARR,May 10--Jul 30,A Fisher
 STAT,360,Probability and Statistics,01,02688,3,ARRGT,ARR ARR,May 10--Jul 30,O Dykhovychnyi
-STAT,370,Introductory Statistics for Engineers,01,08399,3,ARRGT,ARR ARR,May 10--Jul 30,D Das
-STAT,412,Statistical Methods in Research I,01,02687,3,ARRGT,ARR ARR,May 10--Jul 30,R Stancil
+STAT,370,Introductory Statistics for Engineers,01,08399,3,ARRGT,ARR ARR,May 10--Jul 30,S Nesaei
+STAT,412,Statistical Methods in Research I,01,02687,3,ARRGT,ARR ARR,May 10--Jul 30,M Hasan
 TCH_LRN,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 TCH_LRN,590,Internship,01,02560,V,ARRGT,ARR ARR,May 10--Jul 30,""
 UNIV,100,College Majors and Career Exploration,01,07432,1,ARRGT,ARR ARR,Jun 28--Jul 30,C Miller
