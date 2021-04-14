@@ -92,6 +92,7 @@ BIOLOGY,354,Human Anatomy for Health Occupations,01,17706,4,ARRGT,ARR ARR,Aug 23
 BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,17711,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Biggs
 BIOLOGY,393,[M] Professional Communications in Biology,01,10453,2,ARRGT,ARR ARR,Aug 23--Dec 10,N Ankrah
 BIOLOGY,401,[CAPS] Plants and People,01,11115,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Thomas
+CAS,311,[SSCI] [M] Special Topics in Social Sciences: Cross-disciplinary Studies,01,17923,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Whelchel
 CAS,400,End-of-Program Evaluation Portfolio,01,10326,1,ARRGT,ARR ARR,Aug 23--Dec 10,A Rocha
 CAS,497,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,508,Concrete Durability,01,10819,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Shi
@@ -175,6 +176,7 @@ E_E,311,Electronics,01,"",3,"M,W10.30-11.45","",Aug 23--Dec 10,M Kejariwal
 E_E,321,Electrical Circuits II,01,"",3,"TU,TH10.30-11.45","",Aug 23--Dec 10,J Guerrero Sedeno
 E_E,331,Electromagnetic Fields and Waves,01,"",3,"TU,TH9-10.15","",Aug 23--Dec 10,J Guerrero Sedeno
 E_E,415,Design Project Management,01,"",3,"W,F12.10-13","",Aug 23--Dec 10,M Kejariwal
+E_E,415,Design Project Management,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,M Kejariwal
 E_E,432,RF Engineering for Telecommunications,01,"",4,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,B Belzer
 E_E,432,RF Engineering for Telecommunications,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,B Belzer
 E_E,464,Digital Signal Processing I,01,"",3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,M Torabi Konjin
@@ -189,22 +191,20 @@ E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Kejariwal
 E_E,526,High Voltage Overhead Transmission Lines,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,R Olsen
 E_E,536,Power Systems Economics and Electricity Markets,01,10676,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Srivastava
 E_E,701,Master's Independent Capstone Project and /or Examination,01,10726,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-E_M,422,Leading People and Organizations,01,"",3,TU17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,422,Leading People and Organizations,02,"",3,W17.15-19.45,"",Aug 23--Dec 10,K Bachman
-E_M,430,Applications of Constraints Management,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,"",Aug 23--Dec 10,""
-E_M,464,Project Management,01,"",3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
+E_M,430,Applications of Constraints Management,01,"",3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
+E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,485,Design of Experiments,01,"",3,M18.15-20.45,"",Aug 23--Dec 10,D Paulus
-E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,"",Aug 23--Dec 10,R Crick
 E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,"",Aug 23--Dec 10,K Bachman
-E_M,530,Applications of Constraints Management,01,10412,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,"",Aug 23--Dec 10,""
+E_M,530,Applications of Constraints Management,01,10412,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Magpili
+E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,564,Project Management,01,10282,3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
 E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,"",Aug 23--Dec 10,A Squires
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,11112,3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
-E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,W17.15-19.45,"",Aug 23--Dec 10,W Gray
 E_M,585,Design of Experiments,01,10476,3,M18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10684,V,F17.15-19.45,"",Aug 23--Dec 10,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,10284,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -234,7 +234,7 @@ ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,10292,3,ARRGT,ARR ARR,A
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,11193,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ENGLISH,302,[M] Introduction to English Studies,01,10994,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Robertson
 ENGLISH,308,[M] Introduction to Literary Criticism,01,10979,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Hegglund
-ENGLISH,361,Everyday Rhetorics,01,10980,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ENGLISH,361,Everyday Rhetorics,01,10980,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Richards
 ENGLISH,362,[DIVR] Rhetorics of Racism,01,10978,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Eddy
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,10293,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Hager
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,10294,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Ericsson
@@ -249,6 +249,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,10302,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,10303,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Hager
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,10444,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Hager
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,10529,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Ericsson
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,14,10969,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Merck
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,15,12244,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Hughes
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,17,11020,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Staggers
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,18,12376,3,ARRGT,ARR ARR,Dec 18--Jan 09,G Maierhofer
@@ -497,7 +498,9 @@ PSYCH,230,Human Sexuality,01,10364,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,01,10366,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,311,[QUAN] Statistics in Psychology,01,10367,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,312,[M] Research Methods in Psychology,01,10368,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
+PSYCH,312,[M] Research Methods in Psychology,02,17943,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,10369,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+PSYCH,312,[M] Research Methods in Psychology,02 Lab,17944,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,321,Personality,01,10370,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,324,Psychology of Gender,01,10371,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,328,[M] Self Control,01,10373,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -567,6 +570,7 @@ SPEC_ED,509,Early Childhood Special Education,01,10395,3,ARRGT,ARR ARR,Aug 23--D
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,10397,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,12310,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
 STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,Aug 23--Dec 10,""

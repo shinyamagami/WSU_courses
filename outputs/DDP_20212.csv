@@ -88,8 +88,8 @@ B_A,514,Business Analytics: Transforming Data into Decisions,04,"",3,ARRGT,ARR A
 B_A,514,Business Analytics: Transforming Data into Decisions,05,"",3,ARRGT,ARR ARR,Jul 19--Aug 22,S Fotopoulos
 B_A,514,Business Analytics: Transforming Data into Decisions,06,"",3,ARRGT,ARR ARR,Jul 19--Aug 22,S Fotopoulos
 B_A,514,Business Analytics: Transforming Data into Decisions,07,"",3,ARRGT,ARR ARR,Jul 19--Aug 22,S Fotopoulos
-B_A,579,MBA Capstone,01,"",3,ARRGT,ARR ARR,May 10--Aug 22,V Kolde
-B_A,579,MBA Capstone,02,"",3,ARRGT,ARR ARR,May 10--Aug 22,V Kolde
+B_A,579,MBA Capstone,01,"",3,ARRGT,ARR ARR,May 10--Aug 22,""
+B_A,579,MBA Capstone,02,"",3,ARRGT,ARR ARR,May 10--Aug 22,""
 B_A,579,MBA Capstone,03,"",3,ARRGT,ARR ARR,May 10--Aug 22,M Jordan
 B_A,579,MBA Capstone,04,"",3,ARRGT,ARR ARR,May 10--Aug 22,M Jordan
 B_A,579,MBA Capstone,05,06767,2,ARRGT,ARR ARR,May 10--Aug 22,""
@@ -106,14 +106,14 @@ B_A,599,Strategic Planning for Personal and Program Success,04,06983,1,ARRGT,ARR
 B_A,599,Strategic Planning for Personal and Program Success,05,06984,1,ARRGT,ARR ARR,May 10--Jun 13,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,06,06985,1,ARRGT,ARR ARR,May 10--Jun 13,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,07,06986,1,ARRGT,ARR ARR,May 10--Jun 13,""
-B_A,599,Strategic Planning for Personal and Program Success,12,06991,1,ARRGT,ARR ARR,Jun 14--Jul 18,D Mundell
-B_A,599,Strategic Planning for Personal and Program Success,13,06992,1,ARRGT,ARR ARR,Jun 14--Jul 18,D Mundell
+B_A,599,Strategic Planning for Personal and Program Success,12,06991,1,ARRGT,ARR ARR,Jun 14--Jul 18,""
+B_A,599,Strategic Planning for Personal and Program Success,13,06992,1,ARRGT,ARR ARR,Jun 14--Jul 18,""
 B_A,599,Strategic Planning for Personal and Program Success,17,06996,1,ARRGT,ARR ARR,Jul 19--Aug 22,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,18,06997,1,ARRGT,ARR ARR,Jul 19--Aug 22,D Mundell
-B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",01,07498,1,ARRGT,ARR ARR,May 10--Jun 27,J Rose
-B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",02,07499,1,ARRGT,ARR ARR,May 10--Jun 27,J Rose
-B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",06,07503,1,ARRGT,ARR ARR,Jun 28--Aug 15,G Mader
-B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",07,07504,1,ARRGT,ARR ARR,Jun 28--Aug 15,G Mader
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",01,07498,1,ARRGT,ARR ARR,May 10--Jun 27,""
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",02,07499,1,ARRGT,ARR ARR,May 10--Jun 27,""
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",06,07503,1,ARRGT,ARR ARR,Jun 28--Aug 15,""
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",07,07504,1,ARRGT,ARR ARR,Jun 28--Aug 15,""
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",11,"",1,ARRGT,ARR ARR,Jul 19--Aug 22,R Moser
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",12,"",1,ARRGT,ARR ARR,Jul 19--Aug 22,R Moser
 B_A,702,"Master's Special Problems, Directed Study, and/or Examination",01,06760,2,ARRGT,ARR ARR,May 10--Jun 27,M Jordan
@@ -175,6 +175,7 @@ COM,564,Research Methods for Professionals,01,02564,3,ARRGT,ARR ARR,May 10--Jul 
 COMHLTH,570,Health Communication and Behavior Change,01,02907,3,ARRGT,ARR ARR,May 10--Jul 30,Y Lee
 COMJOUR,333,[M] Reporting Across Platforms,01,02823,3,ARRGT,ARR ARR,Jun 21--Jul 30,W Raney
 COMJOUR,333,[M] Reporting Across Platforms,02,02837,3,ARRGT,ARR ARR,Jun 21--Jul 30,T Simmons
+COMJOUR,333,[M] Reporting Across Platforms,03,08529,3,ARRGT,ARR ARR,Jun 21--Jul 30,W Raney
 COMSOC,321,[DIVR] Intercultural Communication,01,02957,3,ARRGT,ARR ARR,May 10--Jun 18,S Pande
 COMSOC,421,[CAPS] Intercultural Communication and Globalization,01,02675,3,ARRGT,ARR ARR,May 10--Jul 30,B Irom
 COMSTRAT,310,Digital Content Promotion,01,02909,3,ARRGT,ARR ARR,May 10--Jul 30,M Galey
@@ -473,7 +474,9 @@ PSYCH,309,Diversity in Organizations,01,02680,3,ARRGT,ARR ARR,May 10--Jul 30,A B
 PSYCH,310,"Work, Stress, and Health",01,02926,3,ARRGT,ARR ARR,May 10--Jul 30,E Bettac
 PSYCH,311,[QUAN] Statistics in Psychology,01,02543,4,ARRGT,ARR ARR,May 10--Jul 30,J Li
 PSYCH,312,[M] Research Methods in Psychology,01,02544,4,ARRGT,ARR ARR,May 10--Jul 30,C Pham
+PSYCH,312,[M] Research Methods in Psychology,02,"",4,ARRGT,ARR ARR,May 10--Jul 30,C Lane
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,02545,0,ARRGT,ARR ARR,May 10--Jul 30,C Pham
+PSYCH,312,[M] Research Methods in Psychology,02 Lab,"",0,ARRGT,ARR ARR,May 10--Jul 30,C Lane
 PSYCH,320,Health Psychology,01,02614,3,ARRGT,ARR ARR,May 10--Jul 30,S Boland
 PSYCH,324,Psychology of Gender,01,02546,3,ARRGT,ARR ARR,May 10--Jul 30,K Schofield
 PSYCH,328,[M] Self Control,01,02548,3,ARRGT,ARR ARR,May 10--Jul 30,M White

@@ -93,8 +93,8 @@ AMDT,220,Historic Costumes and Textiles,01,04784,3,"TU,TH9.10-10.25",JSNH C0001,
 AMDT,230,Creating Visual Advertising in Fashion,01,06343,3,"TU,TH12.10-13.25",JSNH 22,Aug 23--Dec 10,C Silva
 AMDT,268,Communicating Creative Concepts in Fashion,02,05672,3,"TU,TH16.20-19.10",JSNH C0020,Aug 23--Dec 10,C Silva
 AMDT,308,Visual Merchandising and Promotion,01,06964,3,"M,W11.10-12",JSNH C0001,Aug 23--Dec 10,X Lou
-AMDT,308,Visual Merchandising and Promotion,01 Lab,06965,0,TH12-13.50,JSNH C0020,Aug 23--Dec 10,X Lou
-AMDT,308,Visual Merchandising and Promotion,02 Lab,07562,0,F12.10-14,JSNH C0020,Aug 23--Dec 10,X Lou
+AMDT,308,Visual Merchandising and Promotion,01 Lab,06965,0,W14.10-15.50,JSNH C0020,Aug 23--Dec 10,X Lou
+AMDT,308,Visual Merchandising and Promotion,02 Lab,07562,0,F9.10-10.50,JSNH C0020,Aug 23--Dec 10,X Lou
 AMDT,310,Advanced Apparel Assembly,01,04785,4,M12.10-13,JSNH C0112,Aug 23--Dec 10,M Shaheen
 AMDT,310,Advanced Apparel Assembly,01 Lab,04786,0,"W,F13.10-15.20",JSNH C0112,Aug 23--Dec 10,M Shaheen
 AMDT,314,Fashion Forecasting,01,04787,3,"TU,TH10.35-11.50",JSNH C0001,Aug 23--Dec 10,J Son
@@ -140,7 +140,6 @@ AMDT,499,Special Problems,07,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 AMDT,509,Technical Apparel Design,01,07556,3,"W,F9.10-11.40",JSNH C0113,Aug 23--Dec 10,A Ghalachyan
 AMDT,517,"Theory and Methods of Culture, Gender and Dress",01,07429,3,TH14.10-16.40,JSNH C0003,Aug 23--Dec 10,J Son
 AMDT,519,Research Methods,01,04813,3,F14.15-16.45,"",Aug 23--Dec 10,A Ghalachyan
-AMDT,550,Social Networking and Omni-channel Retailing,01,07566,3,TH14.55-17.25,"",Aug 23--Dec 10,J Son
 AMDT,596,Advanced Instructional Practicum,01,"",3,ARRGT,"",Aug 23--Dec 10,C Hwang
 AMDT,598,Topics in Apparel and Textiles,01,"",V,ARRGT,"",Aug 23--Dec 10,T Chi
 AMDT,598,Topics in Apparel and Textiles,02,"",V,ARRGT,"",Aug 23--Dec 10,C Hwang
@@ -203,6 +202,7 @@ ANIM_SCI,399,Practicum,07,07130,V,M17.10-18,GUC TBS,Aug 23--Dec 10,M Maquivar
 ANIM_SCI,399,Practicum,08,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,N Irlbeck
 ANIM_SCI,440,[M] Physiology of Domestic Animals,01,04857,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,N Law
 ANIM_SCI,454,Artificial Insemination and Pregnancy Detection,01,"",2,"TU,TH7.45-9.45",ARR ARR,Aug 23--Dec 10,J Swain
+ANIM_SCI,454,Artificial Insemination and Pregnancy Detection,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,J Swain
 ANIM_SCI,464,[CAPS] [M] Companion Animal Management,01,04860,3,"TU,TH13.30-14.20",GUC TBS,Aug 23--Dec 10,N Irlbeck
 ANIM_SCI,464,[CAPS] [M] Companion Animal Management,01 Lab,04861,0,TU14.55-17.45,GUC TBS,Aug 23--Dec 10,N Irlbeck
 ANIM_SCI,472,[CAPS] [M] Dairy Cattle Management,01,04862,3,"M,W,F7.30-8.20",VC PUL,Aug 23--Dec 10,M Marcondes
@@ -309,6 +309,7 @@ ARCH,451,Computer-aided Design I,01,17564,3,W10.10-11.50,CARP 301,Aug 23--Dec 10
 ARCH,451,Computer-aided Design I,01 Lab,17563,0,F10.10-11.50,CARP 301,Aug 23--Dec 10,""
 ARCH,463,Architectural Structures III,01,07081,3,"M,W,F8.10-9",FULM 201,Aug 23--Dec 10,""
 ARCH,491,Seminar in Architectural Communications,01,05677,V,"TU,TH10.35-11.50",CARP 412,Aug 23--Dec 10,""
+ARCH,499,Special Problems,01,04738,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ARCH,511,Graduate Design Studio I,01,04740,6,"TU,TH13.30-18",CARP 401,Aug 23--Dec 10,""
 ARCH,511,Graduate Design Studio I,02,07882,6,"M,W,F13.10-17",CARP 301,Aug 23--Dec 10,""
 ARCH,530,Philosophies and Theories of the Built Environment,01,06003,3,TU18.30-21,DAGG 1,Aug 23--Dec 10,""
@@ -639,7 +640,7 @@ CE,436,Design of Timber Structures,01,05296,3,"TU,TH12.05-13.20",GUC TBS,Aug 23-
 CE,450,Design and Simulation of Water Resource Systems,01,05297,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,N Engdahl
 CE,463,Engineering Administration,01,02988,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,R Petersen
 CE,465,[CAPS] [M] Integrated Civil Engineering Design,01,"",4,M13.10-14,GUC TBS,Aug 23--Dec 10,S Amarasiri
-CE,465,[CAPS] [M] Integrated Civil Engineering Design,01 Lab,"",0,"M,W14.10-17",GUC TBS,Aug 23--Dec 10,S Amarasiri
+CE,465,[CAPS] [M] Integrated Civil Engineering Design,01 Lab,"",0,"M,W,F14.10-16",GUC TBS,Aug 23--Dec 10,S Amarasiri
 CE,475,Groundwater,01,06130,3,"M,W11.10-12",GUC TBS,Aug 23--Dec 10,T Ginn
 CE,475,Groundwater,01 Lab,06131,0,TH9.10-12,WEBS 1126,Aug 23--Dec 10,T Ginn
 CE,480,[M] Ethics and Professionalism,01,02989,1,TU10.35-11.25,GUC TBS,Aug 23--Dec 10,B Jobson
@@ -984,8 +985,8 @@ COM,102,[COMM] Public Speaking in the Digital Age,14,04971,3,W11.10-12,GUC TBS,A
 COM,102,[COMM] Public Speaking in the Digital Age,15,04972,3,F11.10-12,GUC TBS,Aug 23--Dec 10,""
 COM,102,[COMM] Public Speaking in the Digital Age,16,04973,3,M11.10-12,GUC TBS,Aug 23--Dec 10,""
 COM,102,[COMM] Public Speaking in the Digital Age,17,04974,3,W11.10-12,GUC TBS,Aug 23--Dec 10,""
-COM,102,[COMM] Public Speaking in the Digital Age,18,04975,3,W13.10-14,SPRK G0045,Aug 23--Dec 10,""
-COM,102,[COMM] Public Speaking in the Digital Age,19,04976,3,W13.10-14,SPRK G0045,Aug 23--Dec 10,""
+COM,102,[COMM] Public Speaking in the Digital Age,18,04975,3,W13.10-14,GUC TBS,Aug 23--Dec 10,""
+COM,102,[COMM] Public Speaking in the Digital Age,19,"",3,M12.10-13,GUC TBS,Aug 23--Dec 10,""
 COM,102,[COMM] Public Speaking in the Digital Age,20,04977,3,W12.10-13,GUC TBS,Aug 23--Dec 10,""
 COM,102,[COMM] Public Speaking in the Digital Age,21,04978,3,F12.10-13,GUC TBS,Aug 23--Dec 10,""
 COM,102,[COMM] Public Speaking in the Digital Age,22,04979,3,M12.10-13,GUC TBS,Aug 23--Dec 10,""
@@ -1009,7 +1010,7 @@ COM,105,[HUM] Communication in Global Contexts,04,17433,3,"M,W,F9.10-10",GUC TBS
 COM,105,[HUM] Communication in Global Contexts,05,17434,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,C Curtis
 COM,105,[HUM] Communication in Global Contexts,06,17435,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,C Curtis
 COM,138,Introduction to Communication,03,06621,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Simmons
-COM,199,Murrow Student Ambassador Training,01,"",1,W9.10-10,GUC TBS,Aug 23--Dec 10,M Johnson
+COM,199,Murrow Student Ambassador Training,01,"",1,W9.10-10,VC PUL,Aug 23--Dec 10,M Johnson
 COM,210,[COMM] Multimedia Content Creation,01,04986,3,M12.10-13,WEB ARR,Aug 23--Dec 10,""
 COM,210,[COMM] Multimedia Content Creation,02,04987,3,M13.10-14,WEB ARR,Aug 23--Dec 10,B Pingel
 COM,210,[COMM] Multimedia Content Creation,03,04988,3,M14.10-15,WEB ARR,Aug 23--Dec 10,B Pingel
@@ -1112,7 +1113,7 @@ COMSOC,321,[DIVR] Intercultural Communication,01,17438,3,"M,W,F12.10-13",GUC TBS
 COMSOC,321,[DIVR] Intercultural Communication,02,08230,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Pande
 COMSOC,324,[M] Reasoning and Writing,01,05955,3,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,L Tsui
 COMSOC,326,Organizing for Social Change,01,06409,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,T Gillig
-COMSOC,421,[CAPS] Intercultural Communication and Globalization,01,17439,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,G Bedoyan
+COMSOC,421,[CAPS] Intercultural Communication and Globalization,01,17439,3,"M,W,F13.10-14",SPRK G0045,Aug 23--Dec 10,G Bedoyan
 COMSOC,421,[CAPS] Intercultural Communication and Globalization,02,07545,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Bedoyan
 COMSTRAT,310,Digital Content Promotion,01,04062,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,R Cooney
 COMSTRAT,310,Digital Content Promotion,02,04063,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,C Hawkins-Jedlicka
@@ -1167,25 +1168,25 @@ CPT_S,121,Program Design and Development C/C++,07 Lab,05173,0,W14.10-17,EME 52,A
 CPT_S,121,Program Design and Development C/C++,08 Lab,05174,0,W17.10-20,EME 120,Aug 23--Dec 10,A O'fallon
 CPT_S,121,Program Design and Development C/C++,09 Lab,05175,0,TH7.45-10.35,EME 52,Aug 23--Dec 10,A O'fallon
 CPT_S,121,Program Design and Development C/C++,10 Lab,05176,0,TH10.35-13.25,EME 52,Aug 23--Dec 10,A O'fallon
-CPT_S,121,Program Design and Development C/C++,11 Lab,05177,0,TH13.30-16.20,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,121,Program Design and Development C/C++,12 Lab,05178,0,TH16.20-19.10,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,121,Program Design and Development C/C++,13 Lab,05938,0,F8.10-11,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,121,Program Design and Development C/C++,14 Lab,05939,0,F11.10-14,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,121,Program Design and Development C/C++,15 Lab,06252,0,F14.10-17,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,121,Program Design and Development C/C++,16 Lab,06166,0,F17.10-20,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,121,Program Design and Development C/C++,17 Lab,06167,0,W8.10-11,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,121,Program Design and Development C/C++,18 Lab,06645,0,W14.10-17,WEB ARR,Aug 23--Dec 10,A O'fallon
+CPT_S,121,Program Design and Development C/C++,11 Lab,05177,0,TH13.30-16.20,EME 52,Aug 23--Dec 10,A O'fallon
+CPT_S,121,Program Design and Development C/C++,12 Lab,05178,0,TH16.20-19.10,EME 52,Aug 23--Dec 10,A O'fallon
+CPT_S,121,Program Design and Development C/C++,13 Lab,05938,0,F8.10-11,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,121,Program Design and Development C/C++,14 Lab,05939,0,F11.10-14,EME 52,Aug 23--Dec 10,A O'fallon
+CPT_S,121,Program Design and Development C/C++,15 Lab,06252,0,F14.10-17,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,121,Program Design and Development C/C++,16 Lab,06166,0,F17.10-20,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,121,Program Design and Development C/C++,17 Lab,06167,0,W8.10-11,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,121,Program Design and Development C/C++,18 Lab,06645,0,W14.10-17,EME 120,Aug 23--Dec 10,A O'fallon
 CPT_S,122,Data Structures C/C++,01,05179,4,"M,W,F10.10-11",TDAD 276,Aug 23--Dec 10,A O'fallon
 CPT_S,122,Data Structures C/C++,01 Lab,05180,0,TU7.45-10.35,EME 120,Aug 23--Dec 10,A O'fallon
-CPT_S,122,Data Structures C/C++,02 Lab,05181,0,TU10.35-13.25,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,122,Data Structures C/C++,03 Lab,05182,0,TU13.30-16.20,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,122,Data Structures C/C++,04 Lab,05183,0,TU16.20-19.10,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,122,Data Structures C/C++,05 Lab,05184,0,W11.10-14,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,122,Data Structures C/C++,06 Lab,05185,0,TH7.45-10.35,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,122,Data Structures C/C++,07 Lab,05186,0,TH10.35-13.25,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,122,Data Structures C/C++,08 Lab,05187,0,TH13.30-16.20,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,122,Data Structures C/C++,09 Lab,06622,0,TH16.20-19.10,WEB ARR,Aug 23--Dec 10,A O'fallon
-CPT_S,122,Data Structures C/C++,10 Lab,07091,0,F11.10-14,WEB ARR,Aug 23--Dec 10,A O'fallon
+CPT_S,122,Data Structures C/C++,02 Lab,05181,0,TU10.35-13.25,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,122,Data Structures C/C++,03 Lab,05182,0,TU13.30-16.20,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,122,Data Structures C/C++,04 Lab,05183,0,TU16.20-19.10,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,122,Data Structures C/C++,05 Lab,05184,0,W11.10-14,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,122,Data Structures C/C++,06 Lab,05185,0,TH7.45-10.35,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,122,Data Structures C/C++,07 Lab,05186,0,TH10.35-13.25,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,122,Data Structures C/C++,08 Lab,05187,0,TH13.30-16.20,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,122,Data Structures C/C++,09 Lab,06622,0,TH16.20-19.10,EME 120,Aug 23--Dec 10,A O'fallon
+CPT_S,122,Data Structures C/C++,10 Lab,07091,0,F11.10-14,EME 120,Aug 23--Dec 10,A O'fallon
 CPT_S,131,Program Design and Development Java,02,08119,4,"M,W,F8.10-9",VC PUL,Aug 23--Dec 10,S Badri
 CPT_S,131,Program Design and Development Java,02 Lab,08120,0,W15.10-18,WEB ARR,Aug 23--Dec 10,S Badri
 CPT_S,215,Data Analytics Systems and Algorithms,02,08121,3,"TU,TH7.45-9",VC PUL,Aug 23--Dec 10,S Badri
@@ -1206,7 +1207,7 @@ CPT_S,415,Big Data,02,06414,3,"TU,TH7.45-9",ETRL 101,Aug 23--Dec 10,J Yu
 CPT_S,421,Software Design Project I,01,07153,3,TU14.55-16.10,GUC TBS,Aug 23--Dec 10,A Jillepalli
 CPT_S,421,Software Design Project I,01 Lab,07154,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Jillepalli
 CPT_S,422,[M] Software Engineering Principles II,01,03089,3,"TU,TH16.20-17.35",GUC TBS,Aug 23--Dec 10,H Cai
-CPT_S,423,[CAPS] Software Design Project II,01,05197,3,TH13.30-14.45,GUC TBS,Aug 23--Dec 10,C Hundhausen
+CPT_S,423,[CAPS] Software Design Project II,01,05197,3,TH14.55-16.10,GUC TBS,Aug 23--Dec 10,C Hundhausen
 CPT_S,423,[CAPS] Software Design Project II,01 Lab,05198,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Hundhausen
 CPT_S,427,Computer Security,01,05830,3,"M,W,F12.10-13",ETRL 101,Aug 23--Dec 10,A Jillepalli
 CPT_S,430,Numerical Analysis,02,08200,3,"TU,TH10.35-11.50",VC PUL,Aug 23--Dec 10,""
@@ -1435,7 +1436,7 @@ E_E,324,[M] Fundamentals of Digital Systems,01 Lab,03813,0,TU7.45-10.35,EME 56,A
 E_E,324,[M] Fundamentals of Digital Systems,02 Lab,03814,0,TH7.45-10.35,EME 56,Aug 23--Dec 10,C Cole
 E_E,331,Electromagnetic Fields and Waves,01,03816,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,P Pedrow
 E_E,341,Signals and Systems,01,03817,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,B Belzer
-E_E,352,[M] Electrical Engineering Laboratory I,01,03818,3,TU10.35-11.25,GUC TBS,Aug 23--Dec 10,A Abu Hajar
+E_E,352,[M] Electrical Engineering Laboratory I,01,03818,3,F15.10-16,GUC TBS,Aug 23--Dec 10,A Abu Hajar
 E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,03819,0,"TU,TH12.05-14.55",EME 34,Aug 23--Dec 10,A Abu Hajar
 E_E,352,[M] Electrical Engineering Laboratory I,02 Lab,03820,0,"TU,TH15.05-17.55",EME 34,Aug 23--Dec 10,A Abu Hajar
 E_E,361,Electrical Power Systems,01,03824,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,S Lotfifard
@@ -1467,18 +1468,16 @@ E_E,600,Special Projects or Independent Study,01,03843,V,ARRGT,"",Aug 23--Dec 10
 E_E,700,"Master's Research, Thesis, and/or Examination",01,03844,V,ARRGT,"",Aug 23--Dec 10,(multiple)
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,03845,V,ARRGT,"",Aug 23--Dec 10,(multiple)
 E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,03846,V,ARRGT,"",Aug 23--Dec 10,(multiple)
-E_M,422,Leading People and Organizations,01,"",3,TU17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,422,Leading People and Organizations,02,"",3,W17.15-19.45,"",Aug 23--Dec 10,K Bachman
-E_M,430,Applications of Constraints Management,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,"",Aug 23--Dec 10,""
-E_M,464,Project Management,01,06196,3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
+E_M,430,Applications of Constraints Management,01,"",3,TH18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
+E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,485,Design of Experiments,01,"",3,M18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,03887,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_M,522,Leading People and Organizations,01,05630,3,TU17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,522,Leading People and Organizations,02,07109,3,W17.15-19.45,"",Aug 23--Dec 10,K Bachman
-E_M,530,Applications of Constraints Management,01,03886,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,560,Integrated Supply Chain Management,01,06393,3,TU18.15-20.45,"",Aug 23--Dec 10,""
+E_M,530,Applications of Constraints Management,01,03886,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Magpili
+E_M,560,Integrated Supply Chain Management,01,06393,3,TU18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,564,Project Management,01,05631,3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
 E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,07954,3,TH17.15-19.45,"",Aug 23--Dec 10,A Squires
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,07956,3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
@@ -1733,7 +1732,7 @@ ED_ABRD,991,Educ Abroad,02,07685,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_ABRD,992,Educ Abroad,01,07676,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_ABRD,992,Educ Abroad,02,07677,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_AD,509,Leading School Improvement,01,07417,3,W17.45-20.35,VC PUL,Aug 23--Dec 10,J Butler
-ED_AD,590,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Walls
+ED_AD,590,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Mcbride
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,05568,1,W16.30-17.30,VC PUL,Aug 23--Dec 10,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,06471,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ED_PSYCH,401,"Classroom Assessment, Elementary",01,"",3,"TU,TH12-13.15",CLEV 242,Aug 23--Dec 10,E Mcmain
@@ -1820,7 +1819,7 @@ ENGLISH,102,Writing Tutorial,02,07347,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Walter
 ENGLISH,102,Writing Tutorial,03,07348,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Walter
 ENGLISH,102,Writing Tutorial,04,07342,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Walter
 ENGLISH,104,Introductory Composition for Multilingual Writers,01,03439,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,M Thomas
-ENGLISH,105,[WRTG] College Composition for Multilingual Writers,02,03441,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,N Idris
+ENGLISH,105,[WRTG] College Composition for Multilingual Writers,02,"",3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,105,[WRTG] College Composition for Multilingual Writers,05,03442,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,M Thomas
 ENGLISH,106,[COMM] Communicating in Academic Contexts,01,07978,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,M Thomas
 ENGLISH,107,Writing Tutorial for Multilingual Writers,01,03443,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Walter
@@ -1859,7 +1858,7 @@ ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,04,03478,3,"TU,TH13.30-14.
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,06,03479,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,E Coleman
 ENGLISH,302,[M] Introduction to English Studies,01,05450,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,L Hunter
 ENGLISH,302,[M] Introduction to English Studies,02,05451,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,E Salazar
-ENGLISH,306,Shakespeare,01,"",3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
+ENGLISH,306,Shakespeare,01,05658,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,C Zavala
 ENGLISH,308,[M] Introduction to Literary Criticism,01,07318,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Hegglund
 ENGLISH,309,Women Writers,01,06274,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,310,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,07324,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,H Ramos
@@ -1975,7 +1974,7 @@ ENTOM,103,[BSCI] Discover Insects: Laboratory for Non-Science Majors,08,05700,1,
 ENTOM,103,[BSCI] Discover Insects: Laboratory for Non-Science Majors,09,05701,1,F9.10-12,VPBS 31,Aug 23--Dec 10,L Lavine
 ENTOM,103,[BSCI] Discover Insects: Laboratory for Non-Science Majors,10,07596,1,TH15.10-18,VPBS 35,Aug 23--Dec 10,L Lavine
 ENTOM,343,[M] General Entomology,01,03975,3,"TU,TH10.35-11.50",TODD 130,Aug 23--Dec 10,R Clark
-ENTOM,361,Honey Bee Biology,01,05270,3,"M,W,F9.10-10",FSHN 354E,Aug 23--Dec 10,N Naeger
+ENTOM,361,Honey Bee Biology,01,05270,3,"M,W,F9.10-10",FSHN 354,Aug 23--Dec 10,N Naeger
 ENTOM,361,Honey Bee Biology,02,05780,3,"M,W,F9.10-10",VC ARR,Aug 23--Dec 10,N Naeger
 ENTOM,361,Honey Bee Biology,03,06293,3,"M,W,F9.10-10",VC ARR,Aug 23--Dec 10,N Naeger
 ENTOM,361,Honey Bee Biology,04,06294,3,"M,W,F9.10-10",VC ARR,Aug 23--Dec 10,N Naeger
@@ -2255,7 +2254,7 @@ HBM,350,Beverage Management,01,04446,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10
 HBM,350,Beverage Management,02,17429,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,J Harbour
 HBM,358,Foodservice Systems and Control,01,04447,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,J Harbour
 HBM,358,Foodservice Systems and Control,03,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,S Seo
-HBM,375,Introduction to Senior Living Management,01,06357,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Swanger
+HBM,375,Introduction to Senior Living Management,01,06357,3,TU16.30-19,GUC TBS,Aug 23--Oct 10,N Swanger
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,04448,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,D Jha
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,J Rose
 HBM,384,Managed Services,01,06382,3,W15.10-18,AMS PUL,Oct 18--Dec 12,M Beattie
@@ -2346,7 +2345,6 @@ HISTORY,387,World War II in Asia and the Pacific,01,07143,3,"TU,TH12.10-13.25",G
 HISTORY,390,U.S. Military History,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
 HISTORY,395,Topics in History,01,15482,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,N Overtoom
 HISTORY,395,Topics in History,02,15484,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,R Sun
-HISTORY,409,[CAPS] American Environmental History,01,06712,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,J Sanders
 HISTORY,430,[M] History of Mexico,01,17801,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
 HISTORY,436,[CAPS] Imperialism in the Modern World,01,06717,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Herzog
 HISTORY,441,"The Later Middle Ages, 1050-1500",01,15479,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,T Jordan
@@ -2360,6 +2358,7 @@ HISTORY,498,History Internship,02,"",V,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10
 HISTORY,509,Field Course: Foundations in US History,01,03762,3,M14.10-17,WLSH 333,Aug 23--Dec 10,L Hatter
 HISTORY,530,[M] History of Mexico,01,17816,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
 HISTORY,547,"[HUM] Europe in the French Revolutionary and Napoleonic Era, 1789 to 1815",01,07142,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,S Kale
+HISTORY,578,Field Course in Asian History,01,"",3,"M,W,F10.10-11",ARR ARR,Aug 23--Dec 10,W Brecher
 HISTORY,580,Historiography,01,03764,3,TU15.10-18,WLSH 333,Aug 23--Dec 10,R Sun
 HISTORY,597,Seminar in History,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 HISTORY,598,History Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -2609,9 +2608,9 @@ KIN_ACTV,124,Beginning Tennis,01,05239,1,"M,W13-14.30",ARR ARR,Aug 23--Oct 08,T 
 KIN_ACTV,125,Intermediate Tennis,01,06039,1,"TU,TH13.30-15",ARR ARR,Aug 23--Oct 08,T Huynh
 KIN_ACTV,126,Modern Dance,01,05709,1,"M,W13.10-14",SGYM 115,Aug 23--Dec 10,""
 KIN_ACTV,127,Water Aerobics,01,08183,1,"M,W14.10-15",SGYM 77,Aug 23--Dec 10,""
-KIN_ACTV,128,Beginning Swimming,01,05233,1,"TU,TH8.10-9",SGYM 77,Aug 23--Dec 10,""
+KIN_ACTV,128,Beginning Swimming,01,05233,1,"TU,TH8.10-9",SGYM 77,Aug 23--Dec 10,D Mathews
 KIN_ACTV,128,Beginning Swimming,02,05234,1,"TU,TH9.10-10",SGYM 77,Aug 23--Dec 10,""
-KIN_ACTV,129,Conditioning Swimming,01,05235,1,"TU,TH10.10-11",PEB 12A,Aug 23--Dec 10,""
+KIN_ACTV,129,Conditioning Swimming,01,05235,1,"TU,TH10.10-11",PEB 12A,Aug 23--Dec 10,D Mathews
 KIN_ACTV,129,Conditioning Swimming,02,08166,1,"TU,TH11.10-12",PEB 12A,Aug 23--Dec 10,""
 KIN_ACTV,130,Beginning Volleyball,01,08070,1,"M,W10.10-11",ARR ARR,Aug 23--Dec 10,""
 KIN_ACTV,130,Beginning Volleyball,02,08071,1,"TU,TH10.10-11",ARR ARR,Aug 23--Dec 10,""
@@ -2861,7 +2860,7 @@ MATH,303,[M] Geometry for the Middle School Teacher,01,01409,3,"M,W14.10-15.10",
 MATH,315,Differential Equations,01,01410,3,"M,W,F10.10-11",TODD 125,Aug 23--Dec 10,""
 MATH,315,Differential Equations,02,01411,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
 MATH,315,Differential Equations,03,01412,3,"M,W,F12.10-13",SPRK G0010,Aug 23--Dec 10,""
-MATH,330,Methods of Teaching Secondary School Mathematics,01,01486,3,"M,W,F15.10-16",VC PUL,Aug 23--Dec 10,K Lesseig
+MATH,330,Methods of Teaching Secondary School Mathematics,01,01486,3,"TU,TH13.30-14.45",VC PUL,Aug 23--Dec 10,K Lesseig
 MATH,364,Principles of Optimization,01,01413,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
 MATH,401,[M] Introduction to Analysis I,01,01414,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
 MATH,401,[M] Introduction to Analysis I,02,01504,3,"TU,TH12.10-13.25",VC PUL,Aug 23--Dec 10,""
@@ -3050,8 +3049,9 @@ ME,406,[M] Experimental Design,01,03644,3,M8.10-9,GUC TBS,Aug 23--Dec 10,""
 ME,406,[M] Experimental Design,02,05758,3,M8.10-9,GUC TBS,Aug 23--Dec 10,""
 ME,406,[M] Experimental Design,01 Lab,03645,0,"TU,TH7.45-10.25",ETRL 1,Aug 23--Dec 10,""
 ME,406,[M] Experimental Design,02 Lab,03646,0,"TU,TH13.30-16.20",ETRL 1,Aug 23--Dec 10,""
-ME,413,Mechanics of Solids,01,04484,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
+ME,413,Mechanics of Solids,01,04484,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
 ME,415,[M] Engineering Design,01,06482,3,"M,W,F14.10-15",EME 154,Aug 23--Dec 10,""
+ME,415,[M] Engineering Design,02,05927,3,"M,W,F13.10-14",EME 154,Aug 23--Dec 10,""
 ME,416,[CAPS] Mechanical Systems Design,01,03648,3,M16.10-17,GUC TBS,Aug 23--Dec 10,""
 ME,416,[CAPS] Mechanical Systems Design,01 Lab,03650,0,"TU,TH7.45-10.25",GUC TBS,Aug 23--Dec 10,""
 ME,416,[CAPS] Mechanical Systems Design,02 Lab,03649,0,"TU,TH13.30-16.20",GUC TBS,Aug 23--Dec 10,""
@@ -3085,7 +3085,7 @@ MGMT,455,Recruiting and Hiring Human Capital,01,07175,3,"M,W,F9.10-10",GUC TBS,A
 MGMT,456,[M] Evaluating and Rewarding Employees,01,06285,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,R Moser
 MGMT,483,[M] Management of Innovation and Change,01,05948,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,L Cooper
 MGMT,485,[M] Negotiation Skills,02,17414,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,L Sheppard
-MGMT,487,Business Ethics and Corporate Responsibility,01,03004,3,"M,W,F10.35-11.25",GUC TBS,Aug 23--Dec 10,""
+MGMT,487,Business Ethics and Corporate Responsibility,01,03004,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
 MGMT,491,[CAPS] Strategic Management,01,04010,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,""
 MGMT,491,[CAPS] Strategic Management,02,04011,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,A Lahiri
 MGMT,491,[CAPS] Strategic Management,03,04012,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,A Lahiri
@@ -3191,11 +3191,11 @@ MSE,201,Materials Engineering Fundamentals,01,06329,3,"M,W,F11.10-12",CARP 102,A
 MSE,241,Engineering Computations,01,17804,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,""
 MSE,302,Electronic Materials,01,04475,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,""
 MSE,316,Thermodynamics and Kinetics of Materials,01,04476,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
-MSE,320,[M] Materials Structure - Properties Lab,01,04477,3,M11.10-12,GUC TBS,Aug 23--Dec 10,""
+MSE,320,[M] Materials Structure - Properties Lab,01,04477,3,M13.10-14,GUC TBS,Aug 23--Dec 10,""
 MSE,320,[M] Materials Structure - Properties Lab,02 Lab,06087,0,"TU,TH13.30-16.20",ETRL 150,Aug 23--Dec 10,""
 MSE,332,Polymeric Materials,01,04479,3,"M,W,F10.10-11",SLOA 175,Aug 23--Dec 10,""
 MSE,406,Biomaterials,01,04480,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,S Bose
-MSE,413,Mechanics of Solids,01,04483,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
+MSE,413,Mechanics of Solids,01,04483,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
 MSE,425,[M] Senior Thesis I,01,04485,3,"W,F15.10-18",GUC TBS,Aug 23--Dec 10,""
 MSE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Brabb
 MSE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -3354,6 +3354,7 @@ MUS,456,Seminar in Advanced Composition,01,04236,4,ARRGT,ARR ARR,Aug 23--Dec 10,
 MUS,458,Advanced Jazz Improvisation,01,07568,2,"TU,TH13.10-14",KIMB 348,Aug 23--Dec 10,J Svendsen
 MUS,459,Seminar in Advanced Jazz Composition,01,04237,V,ARRGT,ARR ARR,Aug 23--Dec 10,G Yasinitsky
 MUS,470,Marketing and Promotion for the Performing Arts,01,08264,2,"TU,TH13.10-14",KIMB 245,Aug 23--Dec 10,H Young
+MUS,470,Marketing and Promotion for the Performing Arts,01 Lab,17938,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MUS,480,Instrumental Music Education,01,17365,3,"TU,TH9.35-10.50",KIMB B0048,Aug 23--Dec 10,M King
 MUS,482,Instrumental Conducting,01,04239,1,"M,W,F11.10-12",KIMB B0048,Aug 23--Dec 10,D Pham
 MUS,491,Voice Pedagogy,01,04240,2,"M,W,F11.10-12",KIMB 245,Aug 23--Dec 10,A Agulay
@@ -3535,6 +3536,7 @@ PHYSICS,443,Optics,01,01639,3,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,""
 PHYSICS,450,Introduction to Quantum Mechanics,01,01640,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,""
 PHYSICS,466,Biological Physics,01,01641,3,"M,W,F16.10-17",GUC TBS,Aug 23--Dec 10,""
 PHYSICS,490,[M] Undergraduate Thesis,01,01643,1,M13.10-14,GUC TBS,Aug 23--Dec 10,""
+PHYSICS,499,Special Problems,01,01644,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHYSICS,501,Graduate Seminar,01,01575,1,TU16.10-17,GUC TBS,Aug 23--Dec 10,""
 PHYSICS,521,Classical Mechanics I,01,01645,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
 PHYSICS,542,Electrodynamics,01,01646,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
@@ -3546,7 +3548,7 @@ PHYSICS,566,Biological Physics,01,01642,3,"M,W,F16.10-17",GUC TBS,Aug 23--Dec 10
 PHYSICS,571,Methods of Theoretical Physics,01,01648,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
 PHYSICS,581,Advanced Topics in Physics,02,01665,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,""
 PHYSICS,590,Seminar,01,01649,1,TH16.10-17,WEBS 17,Aug 23--Dec 10,""
-PHYSICS,600,Special Projects or Independent Study,01,01651,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+PHYSICS,600,Special Projects or Independent Study,01,01651,V,ARRGT,ARR ARR,Aug 23--Dec 10,B Collins
 PHYSICS,700,"Master's Research, Thesis, and/or Examination",01,01654,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PHYSICS,702,"Master's Special Problems, Directed Study and/or Examination",01,01652,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PHYSICS,800,"Doctoral Research, Dissertation, and/or Examination",01,01653,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -3710,22 +3712,22 @@ PSYCH,464,Behavior Disorders of Children and Adolescents,01,01775,3,"M,W,F14.10-
 PSYCH,470,Motivation,01,01776,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,E Canning
 PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,01957,3,"TU,TH14.55-16.10",VC PUL,Aug 23--Dec 10,M Morgan
 PSYCH,505,Teaching Introductory Psychology,01,01821,V,W8.10-9,GUC TBS,Aug 23--Dec 10,S Swindell
-PSYCH,506,Current Research in Psychology,01,17575,1,M16.10-17,VC PUL,Aug 23--Dec 10,""
-PSYCH,508,Special Topics in Psychology,01,17577,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+PSYCH,506,Current Research in Psychology,01,17575,1,M16.10-17,VC PUL,Aug 23--Dec 10,R Magnan
+PSYCH,508,Special Topics in Psychology,01,17577,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Schmitter-Edgecombe
 PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,01822,3,"TU,TH12.05-13.20",VC PUL,Aug 23--Dec 10,C Cuttler
-PSYCH,514,Psychometrics,01,01823,3,"TU,TH14.55-16.10",VC PUL,Aug 23--Dec 10,""
-PSYCH,517,Clinical Skills,01,01927,1,TU10.35-11.50,GUC TBS,Aug 23--Dec 10,""
-PSYCH,523,Health Psychology,01,17574,3,M13.10-16,VC PUL,Aug 23--Dec 10,""
-PSYCH,535,Personality Assessment and Diagnosis,01,01825,3,TH13.30-16.10,GUC TBS,Aug 23--Dec 10,""
-PSYCH,537,Psychology Clinic Assessment Practicum,01,01928,3,M14.10-17,GUC TBS,Aug 23--Dec 10,""
-PSYCH,542,Evidence-Based Therapy for Children and Adolescents,01,17571,3,W13.10-16,GUC TBS,Aug 23--Dec 10,""
+PSYCH,514,Psychometrics,01,01823,3,"TU,TH14.55-16.10",VC PUL,Aug 23--Dec 10,G Burns
+PSYCH,517,Clinical Skills,01,01927,1,TU10.35-11.50,GUC TBS,Aug 23--Dec 10,M Kirchhoff
+PSYCH,523,Health Psychology,01,17574,3,M13.10-16,VC PUL,Aug 23--Dec 10,R Magnan
+PSYCH,535,Personality Assessment and Diagnosis,01,01825,3,TH13.30-16.10,GUC TBS,Aug 23--Dec 10,M Kirchhoff
+PSYCH,537,Psychology Clinic Assessment Practicum,01,01928,3,M14.10-17,GUC TBS,Aug 23--Dec 10,T Barry
+PSYCH,542,Evidence-Based Therapy for Children and Adolescents,01,17571,3,W13.10-16,GUC TBS,Aug 23--Dec 10,M Gartstein
 PSYCH,545,Psychology Clinic Assessment and Psychotherapy Practicum,01,01929,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Scott
 PSYCH,545,Psychology Clinic Assessment and Psychotherapy Practicum,02,01930,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Barry
-PSYCH,546,Counseling and Psychological Services Practicum,01,01826,3,TU16.30-18,GUC TBS,Aug 23--Dec 10,""
+PSYCH,546,Counseling and Psychological Services Practicum,01,01826,3,TU16.30-18,ARR ARR,Aug 23--Dec 10,M Kirchhoff
 PSYCH,547,Clinical Health and Primary Care Psychology Practicum,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,548,Clinical Externship,01,01827,V,ARRGT,ARR ARR,Aug 23--Dec 10,W Scott
 PSYCH,552,Diversity Issues in Psychology,01,17573,3,M11.10-14,GUC TBS,Aug 23--Dec 10,""
-PSYCH,592,Cognition and Affective Basis of Behavior,01,01932,3,"TU,TH13.30-14.45",VC PUL,Aug 23--Dec 10,""
+PSYCH,592,Cognition and Affective Basis of Behavior,01,01932,3,"TU,TH13.30-14.45",VC PUL,Aug 23--Dec 10,L Fournier
 SCIENCE,210,Your Future in Life Sciences,01,08017,2,"W,F9.10-10",GUC TBS,Aug 23--Dec 10,P Verrell
 SDC,100,[ARTS] World of Design and Construction,01,04951,3,"TU,TH12.05-13.20",SPRK G0045,Aug 23--Dec 10,""
 SDC,100,[ARTS] World of Design and Construction,02,"",3,"TU,TH12.05-13.20",SPRK G0045,Aug 23--Dec 10,""
@@ -4207,7 +4209,7 @@ UNIV,100,College Majors and Career Exploration,03,06703,1,"TU,TH8.10-9",GUC TBS,
 UNIV,100,College Majors and Career Exploration,04,"",1,"M,W12.10-13",GUC TBS,Aug 23--Oct 22,A Morgan
 UNIV,100,College Majors and Career Exploration,05,06720,1,"M,W11.10-12",GUC TBS,Aug 23--Oct 22,A Morgan
 UNIV,104,First-Year Success Seminar,02,03946,2,"M,W9.10-10",GUC TBS,Aug 23--Dec 10,S Solomon
-UNIV,104,First-Year Success Seminar,04,"",2,"M,W11.10-12",GUC TBS,Aug 23--Dec 10,S Solomon
+UNIV,104,First-Year Success Seminar,04,03947,2,"M,W11.10-12",GUC TBS,Aug 23--Dec 10,S Solomon
 UNIV,104,First-Year Success Seminar,06,03949,2,"TU,TH9.10-10",GUC TBS,Aug 23--Dec 10,M Akinnuoye
 UNIV,104,First-Year Success Seminar,07,03950,2,"TU,TH9.10-10",GUC TBS,Aug 23--Dec 10,S Solomon
 UNIV,104,First-Year Success Seminar,08,03951,2,"TU,TH10.35-11.25",GUC TBS,Aug 23--Dec 10,S Solomon
@@ -4218,8 +4220,8 @@ UNIV,104,First-Year Success Seminar,13,03956,2,"TU,TH14.55-15.45",GUC TBS,Aug 23
 UNIV,104,First-Year Success Seminar,15,"",2,"M,W15.10-17",GUC TBS,Oct 18--Dec 10,C Williams
 UNIV,104,First-Year Success Seminar,20,"",2,TH15.30-17,GUC TBS,Aug 23--Dec 10,S Mooney
 UNIV,104,First-Year Success Seminar,21,"",2,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,J Galvan
-UNIV,104,First-Year Success Seminar,22,"",2,"TU,TH14.55-15.45",GUC TBS,Aug 23--Dec 10,""
-UNIV,104,First-Year Success Seminar,23,08272,2,ARRGT,ARR ARR,Aug 23--Dec 10,O Martinez
+UNIV,104,First-Year Success Seminar,22,"",2,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,""
+UNIV,104,First-Year Success Seminar,23,08272,2,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,O Martinez
 UNIV,104,First-Year Success Seminar,24,17493,2,"M,W15.10-16",GUC TBS,Aug 23--Dec 10,P Panday Shukla
 UNIV,104,First-Year Success Seminar,25,17495,2,TH14.50-17.20,GUC TBS,Aug 23--Dec 10,C Skinner
 UNIV,104,First-Year Success Seminar,26,17496,2,"M,W15.10-16",GUC TBS,Aug 23--Dec 10,R Pruneda
@@ -4526,6 +4528,7 @@ VIT_ENOL,113,Introduction to Vines and Wines,01,03880,3,"TU,TH13.30-14.45",VC PU
 VIT_ENOL,313,Viticulture,01,04516,3,"TU,TH14.55-16.10",VC PUL,Aug 23--Dec 10,B Bondada
 VIT_ENOL,313,Viticulture,02,06202,3,"TU,TH14.55-16.10",VC ARR,Aug 23--Dec 10,B Bondada
 VIT_ENOL,399,Professional Work Experience,01,04523,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Snider
+VIT_ENOL,435,Chemistry and Biochemistry of Fruit and Wine,01,06869,3,"M,W,F9.10-10",VC PUL,Aug 23--Dec 10,""
 VIT_ENOL,465,Wine Microbiology and Processing,01,04352,3,"M,W,F12.10-13",VC PUL,Aug 23--Dec 10,C Edwards
 VIT_ENOL,466,Wine Microbiology and Processing Laboratory,01,17528,1,F14.10-17,FSHN 140,Aug 23--Dec 10,C Edwards
 VIT_ENOL,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,G Ganjyal
@@ -4554,6 +4557,7 @@ WRIT,205,Sentence and Paragraph Construction Across the Disciplines,01,07420,1,M
 WRIT,205,Sentence and Paragraph Construction Across the Disciplines,02,08047,1,TU10.10-11,CUE 414,Aug 23--Dec 10,M Thongs
 WRIT,205,Sentence and Paragraph Construction Across the Disciplines,03,08048,1,W10.10-11,CUE 414,Aug 23--Dec 10,M Thongs
 WRIT,302,Advanced Writing Collaborative,01,07343,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Walter
+WRIT,309,"Plagiarism Labyrinth: The Complex Relationship between Culture, Language, and Academic Integrity",01,07421,1,W12.10-13,GUC TBS,Aug 23--Dec 10,P Duran
 WRIT,311,Composing and Evaluation Strategies for Writing Professional Documents,01,06091,1,W16.10-17,WEB ARR,Aug 23--Dec 10,C Nicolaou
 WRIT,405,Writing Tutorial for Syntactic Structures in Professional and Academic Contexts,01,06968,1,TU11.10-12,CUE 414,Aug 23--Dec 10,M Thongs
 WRIT,431,Writing Center Theory and Practice,01,"",1,TU8.10-9,CUE 303,Aug 23--Dec 10,B Walter

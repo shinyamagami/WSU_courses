@@ -1,12 +1,15 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
+ACCTG,230,Introduction to Financial Accounting,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,N Pearson
 AFS,201,Systems Skills for Agricultural and Food Systems,01,14722,3,"M,W,F12.10-13","",Aug 23--Dec 10,H Henning
 AFS,336,"[SSCI] Agriculture, Environment, and Community",01,14877,3,"TU,TH9.10-10.25","",Aug 23--Dec 10,J Goldberger
+ANTH,320,[DIVR] Native Peoples of North America,01,14427,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
 B_A,211,"Ethics, Teams, and Innovation",02,"",3,"M,W13.30-14.45","",Aug 23--Dec 10,R Saylors
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,17658,3,"TU,TH16.20-17.35","",Aug 23--Dec 10,Y He
 COM,101,[SSCI] Media and Society,01,14417,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,14367,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Tsui
 COM,105,[HUM] Communication in Global Contexts,01,14384,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Curtis
 COM,138,Introduction to Communication,01,14363,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Simmons
+COM,199,Murrow Student Ambassador Training,01,"",1,W9.10-10,VC EVE,Aug 23--Dec 10,M Johnson
 COM,210,[COMM] Multimedia Content Creation,01,14371,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 COM,300,[M] Writing in Communication,04,15009,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Cuen Paxson
 COM,309,Quantitative Research Methods,01,14385,3,"M,W10.30-11.45",GUC EVE,Aug 23--Dec 10,C Wilder
@@ -21,6 +24,7 @@ COMSTRAT,312,Principles of Public Relations,01,14351,3,ARRGT,ARR ARR,Aug 23--Dec
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,03,15438,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Atwood
 COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,01,17889,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Barnes
 COMSTRAT,476,Consumer Insights and Branding,01,14353,3,"M,W9.10-10.25",GUC EVE,Aug 23--Dec 10,C Wilder
+COMSTRAT,476,Consumer Insights and Branding,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,M Kistler
 COMSTRAT,485,[M] Public Relations Management and Campaigns,03,15328,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Schweigert
 CPT_S,233,Advanced Data Structures Java,01,14406,3,"M,W,F13.10-14","",Aug 23--Dec 10,""
@@ -43,12 +47,12 @@ CROP_SCI,403,Advanced Cropping Systems,01,14379,3,"TU,TH13.30-14.45","",Aug 23--
 DATA,115,Introduction to Data Analytics,01,14759,3,"TU,TH10.35-11.50","",Aug 23--Dec 10,D Deford
 E_E,302,Professional Skills in Computing and Engineering,01,14421,3,"TU,TH13.30-14.45","",Aug 23--Dec 10,J Thompson
 E_E,311,Electronics,01,14328,3,"M,W12.35-13.50","",Aug 23--Dec 10,J Murray
-E_E,321,Electrical Circuits II,01,14332,3,"M,W,F14.10-15","",Aug 23--Dec 10,S Xie
+E_E,321,Electrical Circuits II,01,14332,3,"M,W14.15-15.30","",Aug 23--Dec 10,S Xie
 E_E,324,[M] Fundamentals of Digital Systems,01,14334,4,"M,W11.10-12.25","",Aug 23--Dec 10,J Murray
 E_E,324,[M] Fundamentals of Digital Systems,01 Lab,14335,0,F11.10-14,"",Aug 23--Dec 10,J Murray
 E_E,331,Electromagnetic Fields and Waves,01,14329,3,"M,W10.10-11.25","",Aug 23--Dec 10,S Xie
 E_E,352,[M] Electrical Engineering Laboratory I,01,14330,3,M9.10-10,"",Aug 23--Dec 10,S Xie
-E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,14331,0,"TU,TH9.10-12","",Aug 23--Dec 10,S Xie
+E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,14331,0,"TU,TH10.10-13","",Aug 23--Dec 10,S Xie
 E_E,415,Design Project Management,01,14336,3,TU10.35-11.50,"",Aug 23--Dec 10,J Murray
 E_E,415,Design Project Management,01 Lab,14337,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Murray
 E_E,432,RF Engineering for Telecommunications,01,14742,4,"M,W,F10.10-11","",Aug 23--Dec 10,B Belzer
@@ -76,6 +80,7 @@ HBM,494,[M] Service Operations Management,02,14392,3,TH13.30-16,"",Aug 23--Oct 1
 HBM,495,[CAPS] Case Studies and Research,01,14376,3,"TU,TH10.35-11.50","",Aug 23--Dec 10,D Gursoy
 HORT,310,Pomology,01,14380,3,"TU,TH13.30-14.45","",Aug 23--Dec 10,L Devetter
 HORT,320,Olericulture,01,14873,3,"TU,TH9-10.25","",Aug 23--Dec 10,M Kumar
+I_BUS,380,International Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,M Downes
 MATH,216,Discrete Structures,01,14405,3,"M,W,F9.10-10","",Aug 23--Dec 10,""
 ME,303,Fluid Mechanics,01,14340,3,"M,W,F10.10-11","",Aug 23--Dec 10,Y Hu
 ME,306,Thermal and Fluids Laboratory,01,14345,2,TU9.10-10,"",Aug 23--Dec 10,Y Hu
@@ -90,8 +95,12 @@ ME,415,[M] Engineering Design,01,14339,3,"M,W,F13.10-14","",Aug 23--Dec 10,X Bi
 ME,461,Introduction to Nuclear Engineering,01,14348,3,"TU,TH16.20-17.35","",Aug 23--Dec 10,R Stout
 ME,466,Fundamentals of Engineering Examination Review,01,14415,1,TU15.10-16,"",Aug 23--Dec 10,""
 ME,483,Topics in Mechanical Engineering,01,15250,V,"W,F16.15-17.30","",Aug 23--Dec 10,G Taub
+MGMT,301,Principles of Management and Organization,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
 MGMT,401,Leading People and Organizations,02,17660,3,"M,W10.35-11.50","",Aug 23--Dec 10,T Tripp
 MGTOP,340,Operations Management,02,17659,3,W18-20.15,"",Aug 23--Dec 10,""
+MIS,325,Enterprise Business Development,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
+MIS,372,[M] Data Management,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,M Carter
+MKTG,360,Marketing,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,T Kokta
 SOIL_SCI,101,Organic Gardening and Farming,01,14689,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,201,[BSCI] Soil: A Living System,01,14382,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Lahue
 SOIL_SCI,368,Introduction to Geographic Information Systems,01,14690,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman

@@ -81,7 +81,7 @@ HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,R Sharpe
 HUMANITY,410,Love in the Arts,01,07866,3,"M,TU,W,TH9.15-10.50",WEB ARR,May 10--Jun 18,R Mays
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,01358,V,ARRGT,ARR ARR,May 10--Jul 30,B Clowers
 KINES,536,Methods of Health and Physical Education,01,04298,2,"M,W9.30-11.45",WEB ARR,Jun 21--Jul 30,P Sinclair
-MATH,171,[QUAN] Calculus I,01,06019,4,"M,W,F11-14.20",WEB ARR,May 10--Jun 18,""
+MATH,171,[QUAN] Calculus I,01,06019,4,"M,W,F11-14.20",WEB ARR,May 10--Jun 18,S Selmi
 MATH,171,[QUAN] Calculus I,01 Lab,06020,0,"TU,TH11-14.20",WEB ARR,May 10--Jun 18,S Selmi
 MATH,172,Calculus II,01,06016,4,"M,W,F9.15-10.50",WEB ARR,May 10--Jul 02,R Learn
 MATH,172,Calculus II,01 Lab,06017,0,"TU,TH10.10-12.40",WEB ARR,May 10--Jul 02,R Learn
@@ -98,7 +98,7 @@ MATH,540,Applied Mathematics I: PDEs,01,08477,3,"M,TU,W,TH12-13.15",WEB ARR,Jun 
 ME,116,Engineering Computer-aided Design and Visualization,01,04137,2,"M,W,F14-18.30",WEB ARR,May 10--Jun 18,C Yang
 ME,212,Dynamics,01,04230,3,"TU,TH9.15-10.50",WEB ARR,May 10--Jul 30,J Iannelli
 ME,216,Integrated CAD Design,01,04138,2,"M,W,F14-18.30",WEB ARR,Jun 21--Jul 30,C Yang
-ME,220,Materials Laboratory,01,04504,1,TH10-16.40,WEB ARR,May 10--Jun 18,Y Zhang
+ME,220,Materials Laboratory,02,08568,1,TH10-16.40,WEB ARR,Jun 21--Jul 30,Y Zhang
 ME,303,Fluid Mechanics,01,04237,3,"M,W,F14.45-17",WEB ARR,May 10--Jun 18,Y Zhang
 ME,401,Mechatronics,01,06021,3,"TU,TH11-12.35",WEB ARR,Jun 07--Jul 30,C Mo
 ME,401,Mechatronics,01 Lab,06022,0,"TU,TH12.50-15.20",WEB ARR,Jun 07--Jul 30,C Mo
@@ -106,6 +106,25 @@ ME,495,Internship in Mechanical Industry,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(m
 ME,700,"Master's Research, Thesis, and/or Examination",01,01023,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,702,"Master's Special Problems, Directed Study, and/or Examination",01,01024,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,800,"Doctoral Research, Dissertation, and/or Examination",01,01025,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+MED_CLIN,521,Longitudinal Integrated Clerkship I,01,"",8,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
+MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,534,Pediatrics - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,577,Surgery - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MGMT,301,Principles of Management and Organization,01,07873,3,"TU,TH11-14.20",WEB ARR,May 10--Jun 18,J Bravo
 MIT,501,Learning and Development in School and Community Contexts,01,07427,3,"TU,TH,F17-20.20",WEB ARR,May 10--Jun 18,E Johnson
 MIT,502,Assessment for Teaching and Learning,01,07878,3,"M,W14.30-17.50",WEB ARR,Jun 21--Jul 30,J Firestone
@@ -115,21 +134,21 @@ MIT,530,Elementary School Social Studies Methods,01,04297,3,"TU,TH17-20.20",WEB 
 MIT,531,Literacy Development I,01,04287,3,"TU,TH14.30-17.50",WEB ARR,Jun 21--Jul 30,S Newcomer
 MIT,551,Literacy within the Disciplines,01,07428,3,ARRGT,ARR ARR,Jul 05--Jul 30,P Provinsal
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,01092,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
-NURS,360,Contemporary Nursing,01,01026,3,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,360,Contemporary Nursing,02,01027,3,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,360,Contemporary Nursing,01,01026,3,ARRGT,ARR ARR,May 10--Jul 30,A Brittain
+NURS,360,Contemporary Nursing,02,01027,3,ARRGT,ARR ARR,May 10--Jul 30,A Brittain
 NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,01,01028,2,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,365,Nursing Concepts: Assessment and Application of Physiological Concepts to Nursing Practice I,02,01029,2,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,400,[M] Nursing Research and Evidence-Based Practice,01,01030,3,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,400,[M] Nursing Research and Evidence-Based Practice,02,01031,3,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,405,Nursing Leadership,01,01032,2,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,405,Nursing Leadership,02,01033,2,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,406,Nursing Management of the Healthcare Environment,01,01034,3,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,400,[M] Nursing Research and Evidence-Based Practice,01,01030,3,ARRGT,ARR ARR,May 10--Jul 30,L Eddy
+NURS,400,[M] Nursing Research and Evidence-Based Practice,02,01031,3,ARRGT,ARR ARR,May 10--Jul 30,L Eddy
+NURS,405,Nursing Leadership,01,01032,2,ARRGT,ARR ARR,May 10--Jul 30,C Van Son
+NURS,405,Nursing Leadership,02,01033,2,ARRGT,ARR ARR,May 10--Jul 30,C Van Son
+NURS,406,Nursing Management of the Healthcare Environment,01,01034,3,ARRGT,ARR ARR,May 10--Jul 30,C Van Son
 NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,01,01038,2,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,02,01039,2,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,465,Application of Population Health Principles,01,01410,3,ARRGT,ARR ARR,May 10--Jul 30,B Sarkinen
 NURS,465,Application of Population Health Principles,02,01411,3,ARRGT,ARR ARR,May 10--Jul 30,B Sarkinen
-NURS,477,Health Care Ethics,01,01040,V,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,477,Health Care Ethics,02,01041,V,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,477,Health Care Ethics,01,01040,V,ARRGT,ARR ARR,May 10--Jul 30,S Girard
+NURS,477,Health Care Ethics,02,01041,V,ARRGT,ARR ARR,May 10--Jul 30,S Girard
 NURS,495,[CAPS] Advanced Practicum,01,01042,3,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,495,[CAPS] Advanced Practicum,02,01043,3,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -144,48 +163,48 @@ NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
-NURS,547,Therapeutic Modalities in Practice,01,01079,3,TH11.10-14,WEB ARR,May 20--May 20,""
+NURS,547,Therapeutic Modalities in Practice,01,01079,3,TH11.10-14,WEB ARR,May 20--May 20,C Chacon
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
-NURS,547,Therapeutic Modalities in Practice,02,01080,3,TH11.10-14,WEB ARR,May 20--May 20,""
+NURS,547,Therapeutic Modalities in Practice,02,01080,3,TH11.10-14,WEB ARR,May 20--May 20,C Chacon
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01,01064,3,TH11.10-14,WEB ARR,May 20--May 20,""
+NURS,553,Organizational Systems and Leadership II,01,01064,3,TH11.10-14,WEB ARR,May 20--May 20,W Williams-Gilbert
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
-NURS,553,Organizational Systems and Leadership II,02,01065,3,TH11.10-14,WEB ARR,May 20--May 20,""
+NURS,553,Organizational Systems and Leadership II,02,01065,3,TH11.10-14,WEB ARR,May 20--May 20,W Williams-Gilbert
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01 Lab,01069,0,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,553,Organizational Systems and Leadership II,02 Lab,01068,0,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,557,DNP Project I,01,01075,3,TH14.10-17,WEB ARR,May 20--May 20,""
+NURS,553,Organizational Systems and Leadership II,01 Lab,01069,0,ARRGT,ARR ARR,May 10--Jul 30,W Williams-Gilbert
+NURS,553,Organizational Systems and Leadership II,02 Lab,01068,0,ARRGT,ARR ARR,May 10--Jul 30,W Williams-Gilbert
+NURS,557,DNP Project I,01,01075,3,TH14.10-17,WEB ARR,May 20--May 20,A Hunter
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
-NURS,557,DNP Project I,02,01076,3,TH14.10-17,WEB ARR,May 20--May 20,""
+NURS,557,DNP Project I,02,01076,3,TH14.10-17,WEB ARR,May 20--May 20,A Hunter
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
-NURS,557,DNP Project I,01 Lab,01077,0,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,557,DNP Project I,02 Lab,01078,0,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,583,DNP Population Health Practicum,01,01071,V,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,583,DNP Population Health Practicum,02,01072,V,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,557,DNP Project I,01 Lab,01077,0,ARRGT,ARR ARR,May 10--Jul 30,A Hamel
+NURS,557,DNP Project I,02 Lab,01078,0,ARRGT,ARR ARR,May 10--Jul 30,A Hamel
+NURS,583,DNP Population Health Practicum,01,01071,V,ARRGT,ARR ARR,May 10--Jul 30,D Smart
+NURS,583,DNP Population Health Practicum,02,01072,V,ARRGT,ARR ARR,May 10--Jul 30,D Smart
 NURS,591,Introduction to Mixed Methods and Evaluation,01,01058,3,TH8.10-11,WEB ARR,May 20--May 20,S James
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR,"",""
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR,"",""
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR,"",""
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR,"",""
-NURS,598,Advanced Topics in Nursing,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,598,Advanced Topics in Nursing,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,D Smart
 PHIL,365,[HUM] Biomedical Ethics,01,04219,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,W Kabasenche
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,01062,4,"M,W,F15.20-16.25",WEB ARR,May 10--Jul 30,C Capan
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01 Lab,01063,0,"TU,TH14.30-16.05",WEB ARR,May 10--Jul 30,C Capan

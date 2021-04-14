@@ -18,7 +18,7 @@ BIOLOGY,372,[M] General Ecology,01,07581,4,"M,W11-13.30",WEB ARR,Jun 07--Jul 30,
 BIOLOGY,372,[M] General Ecology,01 Lab,07582,0,"M,W13.45-16.15",WEB ARR,Jun 07--Jul 30,K Turner
 BIOLOGY,408,[CAPS] [M] Contemporary Genetics,01,05494,3,"TU,TH11-13",WEB ARR,Jun 21--Jul 30,D Wilmington
 BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
-CHEM,106,Principles of Chemistry II,01,07313,4,"M,W12.50-15.20",WEB ARR,Jun 07--Jul 30,""
+CHEM,106,Principles of Chemistry II,01,07313,4,"M,W12.50-15.20",WEB ARR,Jun 07--Jul 30,E Valente
 CHEM,106,Principles of Chemistry II,01 Lab,07314,0,TU12.50-17.50,WEB ARR,Jun 07--Jul 30,""
 CHEM,345,Organic Chemistry I,01,07315,4,"TU,TH,F11-12.35",WEB ARR,May 10--Jul 02,A Otoikhian
 CHEM,345,Organic Chemistry I,01 Lab,07316,0,TH13.30-18.30,WEB ARR,May 10--Jul 02,""
@@ -30,7 +30,7 @@ COM,471,[CAPS] Stereotypes in Communication,01,05475,3,ARRGT,ARR ARR,Jun 21--Jul
 COM,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,N Iyer
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,N Iyer
 CRM_J,420,[M] Criminal Procedure,01,08415,3,"M,W11-14.20",WEB ARR,May 10--Jun 18,C Long
-CRM_J,490,Criminal Justice Internship,01,08377,V,ARRGT,ARR ARR,May 10--Jul 30,L Collins-Levy
+CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,L Collins-Levy
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,05509,3,"TU,TH11-14.20",WEB ARR,Jun 21--Jul 30,W Luers
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,05510,3,"M,W14.30-17.50",WEB ARR,May 10--Jun 18,B Grell
 DTC,209,Introduction to Data Visualization,01,08519,3,"M,W11-14.20",WEB ARR,May 10--Jun 18,R Snyder
@@ -84,6 +84,25 @@ MATH,315,Differential Equations,01,05522,3,"M,TU,W,TH9.15-10.50",WEB ARR,Jun 21-
 MATH,440,Applied Mathematics I: PDEs,01,08460,3,"M,TU,W,TH12-13.15",WEB ARR,Jun 21--Jul 30,S Lapin
 MATH,448,Numerical Analysis,01,08459,3,"M,TU,W,TH,F10.10-11.25",WEB ARR,May 10--Jun 18,S Lapin
 MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,08484,V,ARRGT,ARR ARR,May 10--Jul 30,C Cooper
+MED_CLIN,521,Longitudinal Integrated Clerkship I,01,"",8,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
+MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,534,Pediatrics - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,577,Surgery - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,""
 MGMT,301,Principles of Management and Organization,01,05467,3,"M,W18-21.20",WEB ARR,Jun 21--Jul 30,R Howell
 MGMT,401,Leading People and Organizations,01,05469,3,"M,W18-21.20",WEB ARR,Jun 21--Jul 30,N Pionk
 MGMT,485,[M] Negotiation Skills,01,05464,3,"M,W18-21.20",WEB ARR,May 10--Jun 18,N Pionk
@@ -126,7 +145,7 @@ NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
-NURS,547,Therapeutic Modalities in Practice,01,05551,3,TH11.10-14,WEB ARR,May 20--May 20,""
+NURS,547,Therapeutic Modalities in Practice,01,05551,3,TH11.10-14,WEB ARR,May 20--May 20,C Chacon
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
