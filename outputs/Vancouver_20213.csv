@@ -10,7 +10,7 @@ ACCTG,433,[M] Accounting Systems and Auditing,01,12385,3,"TU,TH9.10-10.25",WEB A
 ACCTG,438,[M] Advanced Cost Accounting and Management,01,12421,3,"TU,TH17.45-19",GUC VAN,Aug 23--Dec 10,L Xu
 ANTH,101,[DIVR] Introduction to Anthropology,01,12500,3,"M,W9.10-10",WEB ARR,Aug 23--Dec 10,N Hess
 ANTH,130,[SSCI] Great Discoveries in Archaeology,01,13255,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-ANTH,203,[DIVR] Global Cultural Diversity,01,12501,3,W11-11.30,GUC VAN,Aug 23--Dec 10,K Dhawan
+ANTH,203,[DIVR] Global Cultural Diversity,01,12501,3,W11-11.30,WEB ARR,Aug 23--Dec 10,K Dhawan
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,12503,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,E Hagen
 ANTH,305,[SSCI] Anthropology of Epidemic Disease and Bioterrorism,01,12893,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Hewlett
 ANTH,307,[DIVR] Contemporary Cultures and Peoples of Africa,01,12816,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Hewlett
@@ -29,6 +29,7 @@ B_A,211,"Ethics, Teams, and Innovation",01,13222,3,"M,W13.30-14.45",VC VAN,Aug 2
 B_A,211,"Ethics, Teams, and Innovation",02,13753,3,"M,W14.55-16.10",WEB ARR,Aug 23--Dec 10,B Warnick
 B_A,211,"Ethics, Teams, and Innovation",03,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,N Yaws-Gonzalez
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,13221,3,"TU,TH16.20-17.35",VC VAN,Aug 23--Dec 10,Y He
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
 B_LAW,210,Law and the Legal Environment of Business,01,12386,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,""
 BIOLOGY,101,[BSCI] Biology of Humans,01,12581,3,F13.30-14.20,WEB ARR,Aug 23--Dec 10,W Cushwa
 BIOLOGY,102,[BSCI] General Biology,01,12641,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,K Turner
@@ -43,19 +44,23 @@ BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,03 Lab,12648,0,TU14.
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,04 Lab,12649,0,TU17.45-20.25,VSCI 109,Aug 23--Dec 10,""
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,05 Lab,12650,0,W7.45-10.25,VSCI 109,Aug 23--Dec 10,""
 BIOLOGY,111,[BSCI] Laboratory Experiments in Biology and Genetics,01,12694,1,M9.10-11.50,VSCI 101,Aug 23--Dec 10,G Gakhar
+BIOLOGY,220,Medical Terminology,01,13558,2,ARRGT,ARR ARR,Aug 23--Dec 10,G Gakhar
 BIOLOGY,221,Exploring Health Careers,01,12931,1,TH13.30-14.20,WEB ARR,Aug 23--Dec 10,D Wilmington
 BIOLOGY,301,General Genetics,01,12939,4,W7.45-9,GUC VAN,Aug 23--Dec 10,W Cushwa
 BIOLOGY,301,General Genetics,02,12940,4,W9.10-10.25,GUC VAN,Aug 23--Dec 10,W Cushwa
-BIOLOGY,330,Principles of Conservation,01,13020,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,D Thomas
+BIOLOGY,330,Principles of Conservation,01,13020,3,TU10.35-11.50,WEB ARR,Aug 23--Dec 10,D Thomas
+BIOLOGY,330,Principles of Conservation,"","","",TH10.35-11.50,GUC VAN,"",""
 BIOLOGY,354,Human Anatomy for Health Occupations,01,12638,4,"M,W,F10.35-11.25",WEB ARR,Aug 23--Dec 10,""
 BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,12639,0,TU13.30-16.10,VCLS 150,Aug 23--Dec 10,""
 BIOLOGY,354,Human Anatomy for Health Occupations,02 Lab,12640,0,W7.45-10.25,VCLS 150,Aug 23--Dec 10,""
 BIOLOGY,354,Human Anatomy for Health Occupations,03 Lab,12838,0,W13.30-16.10,VCLS 150,Aug 23--Dec 10,""
 BIOLOGY,393,[M] Professional Communications in Biology,01,12653,2,W12.05-12.55,GUC VAN,Aug 23--Dec 10,D Wilmington
-BIOLOGY,401,[CAPS] Plants and People,01,13250,3,"TU,TH16.20-17.35",GUC VAN,Aug 23--Dec 10,D Thomas
+BIOLOGY,401,[CAPS] Plants and People,01,13250,3,TU16.20-17.35,WEB ARR,Aug 23--Dec 10,D Thomas
+BIOLOGY,401,[CAPS] Plants and People,"","","",TH16.20-17.35,GUC VAN,"",""
 BIOLOGY,403,Evolutionary Biology,01,12918,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,S Porter
 BIOLOGY,408,[CAPS] [M] Contemporary Genetics,01,12563,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,D Wilmington
-BIOLOGY,438,[M] Animal Behavior,01,13022,3,"M,W9.10-10",GUC VAN,Aug 23--Dec 10,""
+BIOLOGY,438,[M] Animal Behavior,01,13022,3,M9.10-10,GUC VAN,Aug 23--Dec 10,""
+BIOLOGY,438,[M] Animal Behavior,"","","",W9.10-10.10,WEB ARR,"",""
 BIOLOGY,438,[M] Animal Behavior,01 Lab,13025,0,M10.35-13.15,VSCI 114,Aug 23--Dec 10,""
 BIOLOGY,438,[M] Animal Behavior,02 Lab,13026,0,M13.30-16.10,VSCI 114,Aug 23--Dec 10,""
 BIOLOGY,469,[M] Ecosystem Ecology and Global Change,01,13063,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,R Evans
@@ -218,6 +223,7 @@ ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,12898,V,AR
 ED_PSYCH,401,"Classroom Assessment, Elementary",01,12577,V,W14.10-17,GUC VAN,Aug 23--Dec 10,C Dudley
 ED_PSYCH,505,Research Methods I,01,12978,3,M17.45-20.30,WEB ARR,Aug 23--Dec 10,H Liao
 ED_PSYCH,508,Educational Statistics,01,13118,3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,B Austin
+ED_PSYCH,572,Introduction to Systematic Literature Reviews and Meta-Analyses,01,13671,3,TU16.10-19,WEB ARR,Aug 23--Dec 10,O Adesope
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,12876,3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,A Rud
 ED_RES,563,Principles of Research,01,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,S Calderone
 ED_RES,564,Qualitative Research,01,13119,3,TU16.10-19,WEB ARR,Aug 23--Dec 10,A Roth-Mcduffie
@@ -310,7 +316,7 @@ H_D,406,Work and Family,01,12692,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,S Rei
 H_D,418,[CAPS] Early Experiences and Lifespan Health,01,17649,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,S Waters
 H_D,445,Early Childhood Professional Preparation Seminar,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
 H_D,479,Planning and Evaluation in Human Development,01,13227,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,A Salazar
-H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 H_D,495,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,497,Professional Preparation Seminar,02,"",3,TH14.55-16.10,GUC VAN,Aug 23--Dec 10,S Rolerkite
 H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Rolerkite
@@ -587,11 +593,6 @@ NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU14-18,
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU14-18,WEB ARR,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU14-18,ARR ARR,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU14-18,WEB ARR,"",""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,03 Lab,13171,0,W9.10-13,ARR ARR,Sep 01--Sep 01,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",W9.10-13,WEB ARR,"",""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",W9.10-13,WEB ARR,"",""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",W9.10-13,ARR ARR,"",""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",W9.10-13,WEB ARR,"",""
 NURS,563,Advanced Pharmacology,01,12457,3,TU13.10-16,WEB ARR,Aug 24--Aug 24,""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
@@ -689,6 +690,7 @@ SOC,340,[DIVR] Social Inequality,01,12886,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--D
 SOC,351,[DIVR] The Family,01,12609,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,K Leupp
 SOC,361,[DIVR] Criminology,01,12611,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,C Mosher
 SOC,362,Juvenile Delinquency,01,12921,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Mosher
+SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Whitley
 SOC,497,[CAPS] [M] Capstone Research Practicum,01,17494,3,"TU,TH10.35-11.50",VC VAN,Aug 23--Dec 10,A Maclean
 SOC,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,12680,4,"W,F12.05-13.20",GUC VAN,Aug 23--Dec 10,M Berger
@@ -698,7 +700,8 @@ SOE,230,[PSCI] Introductory Oceanography,01,12818,3,"TU,TH9.10-10.25",GUC VAN,Au
 SOE,315,Water and the Earth,02,17811,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,""
 SOE,315,Water and the Earth,02 Lab,17812,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,335,[M] Environmental Policy and Law,01,17504,3,"TU,TH16.20-17.35",VC VAN,Aug 23--Dec 10,R Swenson
-SOE,444,Environmental Assessment,01,12684,3,"TU,TH13.30-14.45",VC VAN,Aug 23--Dec 10,D Thomas
+SOE,444,Environmental Assessment,01,12684,3,TU13.30-14.45,WEB ARR,Aug 23--Dec 10,D Thomas
+SOE,444,Environmental Assessment,"","","",TH13.30-14.45,VC VAN,"",""
 SOE,476,Biology and Ecology of Pacific Salmon,01,13151,3,"TU,TH16.25-17.40",WEB ARR,Aug 23--Dec 10,J Mcintyre
 SOE,491,Senior Seminar,01,12686,1,M15.10-17,GUC VAN,Aug 23--Dec 10,""
 SOE,492,Special Topics,01,13411,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,G Rollwagen-Bollens
@@ -706,7 +709,8 @@ SOE,492,Special Topics,02,13426,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,A Ki
 SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,501,Graduate Skills Seminar,01,12687,1,M14.10-15,GUC VAN,Aug 23--Dec 10,C Schultz
 SOE,536,"Climate Change Impacts on Physical, Natural, and Human Systems",01,17697,3,"TU,TH14.55-16.10",VC VAN,Aug 23--Dec 10,D Singh
-SOE,544,Environmental Assessment,01,12685,3,"TU,TH13.30-14.45",VC VAN,Aug 23--Dec 10,D Thomas
+SOE,544,Environmental Assessment,01,12685,3,TU13.30-14.45,WEB ARR,Aug 23--Dec 10,D Thomas
+SOE,544,Environmental Assessment,"","","",TH13.30-14.45,VC VAN,"",""
 SOE,562,Watershed Biogeochemistry,01,17646,3,"TU,TH10.35-11.50",VC VAN,Aug 23--Dec 10,J Harrison
 SOE,576,Biology and Ecology of Pacific Salmon,01,13152,3,"TU,TH16.25-17.40",WEB ARR,Aug 23--Dec 10,J Mcintyre
 SOE,598,Seminar,01,13057,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -729,6 +733,8 @@ SPEC_ED,401,Teaching Students with Disabilities,01,12613,3,ARRGT,ARR ARR,Aug 23-
 SPEC_ED,404,Professional Skills in Special Education,01,12614,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,409,Early Childhood Special Education,01,12615,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,12616,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,595,Universal Design,01,13160,3,TH17.45-20.30,WEB ARR,Aug 23--Dec 10,D Mcmahon
+SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,13161,1,W16.10-17,WEB ARR,Aug 23--Dec 10,""
 STAT,212,[QUAN] Introduction to Statistical Methods,01,12738,4,"W,F9.10-10.25",GUC VAN,Aug 23--Dec 10,""
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,12739,0,"TU,TH9.10-10",GUC VAN,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,01,12740,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,""

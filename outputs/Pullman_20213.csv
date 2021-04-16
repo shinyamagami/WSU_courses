@@ -112,7 +112,7 @@ AMDT,488,Internship Preparation,01,04793,1,TU12.10-13,JSNH C0001,Aug 23--Dec 10,
 AMDT,490,Cooperative Education Internship,01,04794,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Hiscock
 AMDT,495,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,T Chi
 AMDT,495,Instructional Practicum,02,04796,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Shaheen
-AMDT,495,Instructional Practicum,03,04797,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+AMDT,495,Instructional Practicum,03,04797,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Frattali
 AMDT,495,Instructional Practicum,04,04798,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 AMDT,495,Instructional Practicum,05,04799,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Son
 AMDT,495,Instructional Practicum,06,04800,V,ARRGT,ARR ARR,Aug 23--Dec 10,X Lou
@@ -208,6 +208,7 @@ ANIM_SCI,464,[CAPS] [M] Companion Animal Management,01 Lab,04861,0,TU14.55-17.45
 ANIM_SCI,472,[CAPS] [M] Dairy Cattle Management,01,04862,3,"M,W,F7.30-8.20",VC PUL,Aug 23--Dec 10,M Marcondes
 ANIM_SCI,488,[M] Perspectives in Biotechnology,01,04864,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,Z Jiang
 ANIM_SCI,499,Special Problems,01,04867,V,ARRGT,"",Aug 23--Dec 10,(multiple)
+ANIM_SCI,500,Seminar in Animal Sciences,01,04868,1,M12.10-13,GUC TBS,Aug 23--Dec 10,""
 ANIM_SCI,504,Special Topics,01,05717,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Du
 ANIM_SCI,588,[M] Perspectives in Biotechnology,01,04865,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,Z Jiang
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",01,04869,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Du
@@ -495,6 +496,7 @@ BIOLOGY,120,[BSCI] Introductory Botany,05 Lab,05366,0,TU14.55-17.45,EAST G0099,A
 BIOLOGY,120,[BSCI] Introductory Botany,06 Lab,06342,0,TH9.10-12,EAST G0099,Aug 23--Dec 10,A Mccubbin
 BIOLOGY,140,[BSCI] Introduction to Nutritional Science,02,05368,3,"TU,TH13.30-14.45",TODD 116,Aug 23--Dec 10,N Ankrah
 BIOLOGY,210,Your Future in Life Sciences,01,07747,2,"W,F9.10-10",GUC TBS,Aug 23--Dec 10,P Verrell
+BIOLOGY,220,Medical Terminology,01,05685,2,ARRGT,ARR ARR,Aug 23--Dec 10,G Gakhar
 BIOLOGY,221,Exploring Health Careers,01,05702,1,M12.10-13,GUC TBS,Aug 23--Dec 10,D Allison
 BIOLOGY,251,Introductory Human Physiology,01,05369,4,"TU,TH12.05-13.20",FLMA 226,Aug 23--Dec 10,E Johnson
 BIOLOGY,251,Introductory Human Physiology,01 Lab,05370,0,M19.10-22,HLD 201,Aug 23--Dec 10,E Johnson
@@ -756,7 +758,7 @@ CHEM,101,[PSCI] Introduction to Chemistry,23 Lab,01049,0,TH16.10-17,WEB ARR,Aug 
 CHEM,101,[PSCI] Introduction to Chemistry,"","","",TH17.10-20,FULM 310,"",""
 CHEM,101,[PSCI] Introduction to Chemistry,25 Lab,01051,0,W8.10-9,WEB ARR,Aug 23--Dec 10,""
 CHEM,101,[PSCI] Introduction to Chemistry,"","","","W,TH9.10-12",FULM 307,"",""
-CHEM,102,Chemistry Related to Life Sciences,01,01183,4,"M,W,F14.10-15",WEB ARR,Aug 23--Dec 10,""
+CHEM,102,Chemistry Related to Life Sciences,01,01183,4,"M,W,F14.10-15",WEB ARR,Aug 23--Dec 10,D Storfer
 CHEM,102,Chemistry Related to Life Sciences,01 Lab,01184,0,TU8.10-9,WEB ARR,Aug 23--Dec 10,""
 CHEM,102,Chemistry Related to Life Sciences,"","","",TU9.10-11,FLMA 429,"",""
 CHEM,102,Chemistry Related to Life Sciences,02 Lab,01186,0,TU11.10-12,WEB ARR,Aug 23--Dec 10,""
@@ -884,7 +886,7 @@ CHEM,333,Physical Chemistry Laboratory for Chemists,01,01114,1,TH13.30-16.20,FUL
 CHEM,333,Physical Chemistry Laboratory for Chemists,02,01115,1,TU13.30-16.20,FULM 218,Aug 23--Dec 10,L Scudiero
 CHEM,334,[M] Physical Chemistry Laboratory,01,01116,2,"TU,TH8.10-11",FULM 218,Aug 23--Dec 10,L Scudiero
 CHEM,338,Physical Chemistry for Chemical Biology,01,01219,3,"M,W,F9.10-10",ARR ARR,Aug 23--Dec 10,""
-CHEM,345,Organic Chemistry I,01,01117,4,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,""
+CHEM,345,Organic Chemistry I,01,01117,4,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,C Berkman
 CHEM,345,Organic Chemistry I,02,01118,4,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,""
 CHEM,345,Organic Chemistry I,01 Lab,01119,0,M14.10-14.40,FULM 426,Aug 23--Dec 10,""
 CHEM,345,Organic Chemistry I,"","","",M14.40-17,FULM 426,"",""
@@ -1005,7 +1007,7 @@ COM,102,[COMM] Public Speaking in the Digital Age,49,"",3,ARRGT,ARR ARR,Aug 23--
 COM,102,[COMM] Public Speaking in the Digital Age,50,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 COM,102,[COMM] Public Speaking in the Digital Age,51,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Tsui
 COM,102,[COMM] Public Speaking in the Digital Age,53,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-COM,105,[HUM] Communication in Global Contexts,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Curtis
+COM,105,[HUM] Communication in Global Contexts,02,06619,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Curtis
 COM,105,[HUM] Communication in Global Contexts,04,17433,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,G Bedoyan
 COM,105,[HUM] Communication in Global Contexts,05,17434,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,C Curtis
 COM,105,[HUM] Communication in Global Contexts,06,17435,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,C Curtis
@@ -1045,7 +1047,7 @@ COM,415,Media Law,01,05268,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Hindman
 COM,415,Media Law,02,05269,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,J Foley
 COM,420,New Communication Technologies,01,04998,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Henrichsen
 COM,440,Media Ethics,01,04999,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,B Irom
-COM,464,Gender and the Media,01,05638,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Gillig
+COM,464,Gender and the Media,01,05638,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Kang
 COM,471,[CAPS] Stereotypes in Communication,01,05002,3,"TU,TH10.35-11.50",BRYN 305,Aug 23--Dec 10,A Vishnevskaya
 COM,471,[CAPS] Stereotypes in Communication,02,17892,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,S Pande
 COM,475,Communication Seminar,01,06061,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Loveless
@@ -1517,7 +1519,7 @@ ECONS,327,International Trade and Finance,01,03170,3,"M,W,F13.10-14",TDAD 276,Au
 ECONS,330,Natural Resource Economics,01,03172,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,A Prera
 ECONS,335,[QUAN] Business Finance Economics,01,06465,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,350,Introduction to Farm and Ranch Management,01,03173,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,""
-ECONS,351,Introduction to Food and Agricultural Markets,01,03174,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,""
+ECONS,351,Introduction to Food and Agricultural Markets,01,03174,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,E Jessup
 ECONS,352,Business Management Economics,01,06316,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,425,Industrial Organization,01,07031,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,426,Transportation Economics and Supply Chain Analysis,01,06272,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,E Jessup
@@ -2113,6 +2115,7 @@ FINE_ART,582,Graduate Photography,01,05445,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Deha
 FINE_ART,700,"Master's Research, Thesis, and/or Examination",01,05447,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 FOR_LANG,100,Studies in Foreign Languages I,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Lopez-Lopez
 FOR_LANG,101,[HUM] Introduction to the World of Languages,09,07916,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+FOR_LANG,495,Cooperative Education Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,L Heustis
 FRENCH,101,First Semester,01,07196,4,"M,TU,W,TH9.10-10",GUC TBS,Aug 23--Dec 10,""
 FRENCH,101,First Semester,02,04277,4,"M,TU,W,TH12.10-13",GUC TBS,Aug 23--Dec 10,M Black
 FRENCH,102,Second Semester,01,04278,4,"M,TU,W,TH12.10-13",GUC TBS,Aug 23--Dec 10,S Davis
@@ -2188,7 +2191,7 @@ H_D,205,[COMM] Developing Effective Communication and Life Skills,02,03596,4,"TU
 H_D,205,[COMM] Developing Effective Communication and Life Skills,03,03597,4,"TU,TH9.10-10.25",SPRK G0045,Aug 23--Dec 10,A Whitehall
 H_D,205,[COMM] Developing Effective Communication and Life Skills,04,17469,4,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,A Whitehall
 H_D,205,[COMM] Developing Effective Communication and Life Skills,06,06597,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Strey
-H_D,205,[COMM] Developing Effective Communication and Life Skills,07,06897,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,""
+H_D,205,[COMM] Developing Effective Communication and Life Skills,07,06897,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,J Hewa
 H_D,205,[COMM] Developing Effective Communication and Life Skills,08,"",4,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,M Patton
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,03598,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Collins
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,03599,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Patton
@@ -2200,7 +2203,7 @@ H_D,205,[COMM] Developing Effective Communication and Life Skills,08 Lab,"",0,AR
 H_D,220,Human Development Theories,01,05936,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,R Cooper
 H_D,220,Human Development Theories,03,06315,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,D Rock
 H_D,300,Child Maltreatment,01,03601,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,D Rock
-H_D,302,Parent-Child Relationships,01,03042,3,"TU,TH10.25-11.40",GUC TBS,Aug 23--Dec 10,M Cleveland
+H_D,302,Parent-Child Relationships,01,03042,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,M Cleveland
 H_D,302,Parent-Child Relationships,02,03850,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,A Lawrence
 H_D,306,Child Development,01,05937,3,"M,W,F12.10-13",TODD 120,Aug 23--Dec 10,S Perone
 H_D,307,Adolescence and Emerging Adulthood,01,06879,3,"M,W,F13.10-14",CLEV 30,Aug 23--Dec 10,J Duckworth
@@ -2208,6 +2211,7 @@ H_D,308,Adult Development,01,07428,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,R
 H_D,310,[M] Research Methods,01,03602,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,P Pendry
 H_D,320,[M] Resource Management,01,03603,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,N Deringer
 H_D,341,Guidance in Early Childhood Programs,01,03604,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,A Lawrence
+H_D,342,Curriculum for Early Childhood Programs,02,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
 H_D,350,[DIVR] Family Diversity,01,03606,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,R Cooper
 H_D,350,[DIVR] Family Diversity,03,07290,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,R Cooper
 H_D,360,Death and Dying,03,07291,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,R Weaver
@@ -2346,7 +2350,7 @@ HISTORY,390,U.S. Military History,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
 HISTORY,395,Topics in History,01,15482,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,N Overtoom
 HISTORY,395,Topics in History,02,15484,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,R Sun
 HISTORY,430,[M] History of Mexico,01,17801,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
-HISTORY,436,[CAPS] Imperialism in the Modern World,01,06717,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Herzog
+HISTORY,436,[CAPS] Imperialism in the Modern World,02,17958,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,S Herzog
 HISTORY,441,"The Later Middle Ages, 1050-1500",01,15479,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,T Jordan
 HISTORY,447,"[HUM] Europe in the French Revolutionary and Napoleonic Era, 1789 to 1815",01,07141,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,S Kale
 HISTORY,469,[M] Seminar in History,01,03752,3,TU15.10-18,GUC TBS,Aug 23--Dec 10,N Kawamura
@@ -2775,8 +2779,8 @@ MATH,106,College Algebra,09,"",3,"M,TU,W,TH,F9.10-10",GUC TBS,Aug 23--Oct 22,""
 MATH,106,College Algebra,10,"",3,"M,TU,W,TH,F11.10-12",GUC TBS,Aug 23--Oct 22,""
 MATH,108,Trigonometry,01,01370,2,"TU,TH13.30-14.20",WEGN G0050,Aug 23--Dec 10,""
 MATH,108,Trigonometry,02,01371,2,"TU,TH9.10-10",SPRK G0010,Aug 23--Dec 10,""
-MATH,108,Trigonometry,03,"",2,"M,TU,W,TH,F9.10-10",GUC TBS,Oct 18--Dec 10,""
-MATH,108,Trigonometry,04,"",2,"M,TU,W,TH,F11.10-12",GUC TBS,Oct 18--Dec 10,""
+MATH,108,Trigonometry,03,"",2,"M,TU,W,TH,F9.10-10",GUC TBS,Oct 25--Dec 10,""
+MATH,108,Trigonometry,04,"",2,"M,TU,W,TH,F11.10-12",GUC TBS,Oct 25--Dec 10,""
 MATH,108,Trigonometry,05,01491,2,"TU,TH12.05-12.55",WEBS 17,Aug 23--Dec 10,""
 MATH,140,[QUAN] Calculus for Life Scientists,01,01374,4,"M,W,F14.10-15",ABEL 201,Aug 23--Dec 10,""
 MATH,140,[QUAN] Calculus for Life Scientists,01 Lab,01375,0,W7.45-9,GUC TBS,Aug 23--Dec 10,""
@@ -2961,6 +2965,7 @@ MBIOS,304,Microbiology and Molecular Biology Laboratory,02 Lab,03047,0,"TU,TH14.
 MBIOS,304,Microbiology and Molecular Biology Laboratory,03 Lab,03048,0,"W,F14.10-17",EAST G0098,Aug 23--Dec 10,M Rolfsmeier
 MBIOS,304,Microbiology and Molecular Biology Laboratory,04 Lab,08268,0,"W,F9-11.50",EAST G0098,Aug 23--Dec 10,M Rolfsmeier
 MBIOS,305,General Microbiology,01,04924,3,"TU,TH12.05-13.20",SPRK 227,Aug 23--Dec 10,M Ederer
+MBIOS,305,General Microbiology,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Helmick
 MBIOS,320,[BSCI] DNA and Society,01,04926,3,ARRGT,"",Aug 23--Dec 10,R Brosemer
 MBIOS,401,Cell Biology,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,E Shelden
 MBIOS,404,Molecular Biology,01,04929,3,"M,W,F9.10-10",FSHN T0101,Aug 23--Dec 10,C Haseltine
@@ -3050,7 +3055,6 @@ ME,406,[M] Experimental Design,02,05758,3,M8.10-9,GUC TBS,Aug 23--Dec 10,""
 ME,406,[M] Experimental Design,01 Lab,03645,0,"TU,TH7.45-10.25",ETRL 1,Aug 23--Dec 10,""
 ME,406,[M] Experimental Design,02 Lab,03646,0,"TU,TH13.30-16.20",ETRL 1,Aug 23--Dec 10,""
 ME,413,Mechanics of Solids,01,04484,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
-ME,415,[M] Engineering Design,01,06482,3,"M,W,F14.10-15",EME 154,Aug 23--Dec 10,""
 ME,415,[M] Engineering Design,02,05927,3,"M,W,F13.10-14",EME 154,Aug 23--Dec 10,""
 ME,416,[CAPS] Mechanical Systems Design,01,03648,3,M16.10-17,GUC TBS,Aug 23--Dec 10,""
 ME,416,[CAPS] Mechanical Systems Design,01 Lab,03650,0,"TU,TH7.45-10.25",GUC TBS,Aug 23--Dec 10,""
@@ -3822,13 +3826,13 @@ SOE,100,"An Introduction to Our Environment: Geology, Ecology, and Environmental
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02,04576,4,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,03,04577,4,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,05,04579,4,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,J Menard
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,04580,0,TU9.10-12,WEBS 134,Aug 23--Dec 10,J Menard
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,"",0,TU9.10-12,WEBS 134,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02 Lab,04581,0,TU9.10-12,WEBS 138,Aug 23--Dec 10,J Menard
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,03 Lab,04582,0,TU12.10-15,WEBS 134,Aug 23--Dec 10,J Menard
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,03 Lab,"",0,TU12.10-15,WEBS 134,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,04 Lab,04583,0,TU12.10-15,WEBS 138,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,05 Lab,04584,0,TU12.10-15,WEBS 146,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,06 Lab,04585,0,TU15.10-18,WEBS 134,Aug 23--Dec 10,J Menard
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,07 Lab,04586,0,TU15.10-18,WEBS 138,Aug 23--Dec 10,J Menard
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,07 Lab,"",0,TU15.10-18,WEBS 138,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,08 Lab,04587,0,TU15.10-18,WEBS 146,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,09 Lab,04588,0,TU18.10-21,WEBS 138,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,10 Lab,04589,0,TU18.10-21,WEBS 134,Aug 23--Dec 10,J Menard
@@ -3839,16 +3843,16 @@ SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,15 Lab,04594,0,W
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,16 Lab,04595,0,W12.10-15,WEBS 138,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,17 Lab,04596,0,W12.10-15,WEBS 146,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,18 Lab,04597,0,W15.10-18,WEBS 134,Aug 23--Dec 10,J Menard
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,19 Lab,04598,0,W15.10-18,WEBS 138,Aug 23--Dec 10,J Menard
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,19 Lab,"",0,W15.10-18,WEBS 138,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,20 Lab,04599,0,W15.10-18,WEBS 146,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,22 Lab,04601,0,W18.10-21,WEBS 134,Aug 23--Dec 10,J Menard
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,23 Lab,04602,0,W18.10-21,WEBS 138,Aug 23--Dec 10,J Menard
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,23 Lab,"",0,W18.10-21,WEBS 138,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,24 Lab,04603,0,TH9.10-12,WEBS 134,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,25 Lab,04604,0,TH12.10-15,WEBS 134,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,26 Lab,04605,0,TH12.10-15,WEBS 138,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,29 Lab,04608,0,TH15.10-18,WEBS 134,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,30 Lab,04609,0,TH15.10-18,WEBS 138,Aug 23--Dec 10,J Menard
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,31 Lab,04610,0,TH15.10-18,WEBS 146,Aug 23--Dec 10,J Menard
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,31 Lab,"",0,TH15.10-18,WEBS 146,Aug 23--Dec 10,J Menard
 SOE,102,Geology for Science Majors,01,05668,4,"TU,TH15.10-16.25",GUC TBS,Aug 23--Dec 10,K Wilkie
 SOE,102,Geology for Science Majors,01 Lab,05669,0,TU12.10-15,WEBS 147,Aug 23--Dec 10,K Wilkie
 SOE,102,Geology for Science Majors,02 Lab,05670,0,W15.10-18,WEBS 147,Aug 23--Dec 10,K Wilkie
