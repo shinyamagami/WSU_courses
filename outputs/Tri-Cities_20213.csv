@@ -2,7 +2,7 @@ Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg 
 ACCTG,230,Introduction to Financial Accounting,01,08567,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,K Jones
 ACCTG,231,Introduction to Managerial Accounting,01,08517,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,K Jones
 ACCTG,338,Cost Accounting,01,08518,3,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,K Jones
-ANTH,101,[DIVR] Introduction to Anthropology,01,08586,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,M Mansperger
+ANTH,101,[DIVR] Introduction to Anthropology,01,08586,3,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,M Mansperger
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,08783,4,"M,W,F14.10-15",GUC TRI,Aug 23--Dec 10,M Mansperger
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,08784,0,"M,W9.10-10.25",GUC TRI,Aug 23--Dec 10,M Mansperger
 ANTH,336,Old World Civilizations,01,15490,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,M Mansperger
@@ -101,8 +101,8 @@ CHEM,345,Organic Chemistry I,03 Lab,08770,0,F11.10-14,"",Aug 23--Dec 10,N Devari
 CHEM,345,Organic Chemistry I,04 Lab,09394,0,W18.10-21,"",Aug 23--Dec 10,N Devarie Baez
 CHEM,345,Organic Chemistry I,05 Lab,17210,0,TU13.30-16.20,"",Aug 23--Dec 10,N Devarie Baez
 CHEM,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
-COM,102,[COMM] Public Speaking in the Digital Age,01,08676,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,""
-COM,102,[COMM] Public Speaking in the Digital Age,02,08881,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,""
+COM,102,[COMM] Public Speaking in the Digital Age,01,08676,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,S Bisch
+COM,102,[COMM] Public Speaking in the Digital Age,02,08881,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,S Bisch
 CPT_S,121,Program Design and Development C/C++,01,08493,4,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,L Delatorre
 CPT_S,121,Program Design and Development C/C++,01 Lab,08494,0,F16.10-19,GUC TRI,Aug 23--Dec 10,L Delatorre
 CPT_S,223,Advanced Data Structures C/C++,01,08495,3,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,N Tenney
@@ -171,8 +171,8 @@ E_E,600,Special Projects or Independent Study,01,08534,V,ARRGT,ARR ARR,Aug 23--D
 E_E,700,"Master's Research, Thesis, and/or Examination",01,08535,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,08536,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,08537,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-ECONS,101,[SSCI] Fundamentals of Microeconomics,01,08579,3,"TU,TH9.10-10.25",GUC TRI,Aug 23--Dec 10,J Timmons
-ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,08718,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,J Timmons
+ECONS,101,[SSCI] Fundamentals of Microeconomics,01,08579,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,J Timmons
+ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,08718,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,J Timmons
 ED_AD,501,Philosophy of Education,01,08781,3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,S Finley
 ED_AD,501,Philosophy of Education,02,09385,3,TU17.45-20.30,GUC TRI,Aug 23--Dec 10,S Calderone
 ED_AD,512,Leadership Studies for Social Justice,01,08437,3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,K Rodela
@@ -233,7 +233,7 @@ FINE_ART,201,[ARTS] World Art History I,01,08791,3,"M,W,F13.10-14",GUC TRI,Aug 2
 FINE_ART,320,Beginning Painting,01,09449,3,"TU,TH13.30-16.20",GUC TRI,Aug 23--Dec 10,D Regul
 FINE_ART,331,"Art, Science, and Technology",01,08660,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,P Christenson
 FINE_ART,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-FOR_LANG,110,[DIVR] Introduction to Global Film,01,09256,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,F Arellano Serratos
+FOR_LANG,110,[DIVR] Introduction to Global Film,01,09256,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,F Arellano Serratos
 FS,401,Topics in Food Science,01,"",V,TU13.30-14.20,GUC TRI,Aug 23--Dec 10,T Henick-Kling
 FS,465,Wine Microbiology and Processing,01,08427,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,C Edwards
 FS,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,G Ganjyal
@@ -254,7 +254,7 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,08662,3,"M,W,F13.10-14",G
 HISTORY,110,[HUM] American History to 1877,01,08865,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,T Hanshew
 HISTORY,110,[HUM] American History to 1877,02,09439,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,R Franklin
 HISTORY,120,[DIVR] World History I,01,08663,3,"M,W17.45-19",GUC TRI,Aug 23--Dec 10,J Kennedy
-HISTORY,300,[M] Writing about History,01,08441,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,T Hanshew
+HISTORY,300,[M] Writing about History,01,08441,3,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,T Hanshew
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,08726,3,"M,W,F14.10-15",GUC TRI,Aug 23--Dec 10,R Franklin
 HISTORY,308,"[DIVR] North American Indian History, Precontact to Present",02,15498,3,"TU,TH17.45-19",GUC TRI,Aug 23--Dec 10,D Arnold
 HISTORY,314,"[DIVR] American Roots: Immigration, Migration, and Ethnic Identity",01,08837,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,R Bauman
@@ -314,6 +314,8 @@ MBIOS,301,General Genetics,01,08583,4,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,E S
 MBIOS,301,General Genetics,"","","",M11.10-12,GUC TRI,"",""
 MBIOS,301,General Genetics,03,09584,4,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,E Sweet
 MBIOS,301,General Genetics,"","","",W11.10-12,GUC TRI,"",""
+MBIOS,305,General Microbiology,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Helmick
+MBIOS,401,Cell Biology,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,E Shelden
 MBIOS,480,Methods of Teaching Secondary Science I,01,17794,3,TH17.15-20,GUC TRI,Aug 23--Dec 10,J Firestone
 ME,116,Engineering Computer-aided Design and Visualization,01,08571,2,"W,F8.10-11",GUC TRI,Aug 23--Dec 10,C Yang
 ME,220,Materials Laboratory,01,08538,1,M13.10-16,GUC TRI,Aug 23--Dec 10,Y Zhang
@@ -661,8 +663,8 @@ PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,08562,3,"M,W,F11.10
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,17213,1,TH13.30-16.20,GUC TRI,Aug 23--Dec 10,C Capan
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,17216,1,TH9.10-12,GUC TRI,Aug 23--Dec 10,C Capan
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,03,17217,1,TH17.45-20.35,GUC TRI,Aug 23--Dec 10,C Capan
-POL_S,101,[SSCI] American National Government,01,08621,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,""
-PSYCH,105,[SSCI] Introductory Psychology,01,09229,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,S Tragesser
+POL_S,101,[SSCI] American National Government,01,08621,3,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,""
+PSYCH,105,[SSCI] Introductory Psychology,01,09229,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,S Tragesser
 PSYCH,201,Degrees and Careers in Psychology,02,17176,1,M13.10-14,GUC TRI,Aug 23--Dec 10,S Bauman
 PSYCH,210,Psychology as a Science,01,08722,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,A Matthews
 PSYCH,311,[QUAN] Statistics in Psychology,01,08622,4,"M,W,F9.10-10",GUC TRI,Aug 23--Dec 10,J Peters
@@ -670,8 +672,8 @@ PSYCH,311,[QUAN] Statistics in Psychology,"","","",W12.10-13,GUC TRI,"",""
 PSYCH,312,[M] Research Methods in Psychology,01,08623,4,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,J Peters
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,08624,0,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,J Peters
 PSYCH,324,Psychology of Gender,02,17177,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,S Bauman
-PSYCH,350,Social Psychology,02,09230,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,S Tragesser
-PSYCH,361,Developmental Psychology,01,08565,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,P Strand
+PSYCH,350,Social Psychology,02,09230,3,"TU,TH14.55-16.10",WEB ARR,Aug 23--Dec 10,S Tragesser
+PSYCH,361,Developmental Psychology,01,08565,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,P Strand
 PSYCH,372,[BSCI] Biological Basis of Behavior,01,08568,3,"M,W,F14.10-15",GUC TRI,Aug 23--Dec 10,A Matthews
 PSYCH,403,Multicultural Psychology,01,09580,3,"M,W,F9.10-10",GUC TRI,Aug 23--Dec 10,S Bauman
 PSYCH,405,Instructional Practicum Training,01,09535,1,ARRGT,ARR ARR,Aug 23--Dec 10,J Peters
@@ -683,8 +685,8 @@ PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01,08673,4,M17.45-20.35,WEB ARR,Aug 23--Dec 10,G Schramm
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01 Lab,09305,0,W17.45-20.35,GUC TRI,Aug 23--Dec 10,G Schramm
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,02 Lab,17219,0,F16.15-19.05,GUC TRI,Aug 23--Dec 10,G Schramm
-SOC,101,[SSCI] Introduction to Sociology,01,08690,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,""
-SOC,350,Social Psychology,01,09255,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,S Tragesser
+SOC,101,[SSCI] Introduction to Sociology,01,08690,3,"TU,TH16.15-17.30",WEB ARR,Aug 23--Dec 10,J Farman
+SOC,350,Social Psychology,01,09255,3,"TU,TH14.55-16.10",WEB ARR,Aug 23--Dec 10,S Tragesser
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01,08682,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,J Rosso
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,08683,0,TU13.30-16.20,GUC TRI,Aug 23--Dec 10,J Rosso
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02 Lab,08684,0,W15.10-18,GUC TRI,Aug 23--Dec 10,J Rosso
@@ -706,6 +708,9 @@ SOE,600,Special Projects or Independent Study,01,08776,V,ARRGT,ARR ARR,Aug 23--D
 SOE,700,"Master's Research, Thesis, and/or Examination",01,08590,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOE,702,"Master's Special Problems, Directed Study, and/or Examination",01,08591,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,08592,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+SOIL_SCI,201,[BSCI] Soil: A Living System,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,G Lahue
+SOIL_SCI,368,Introduction to Geographic Information Systems,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
+SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
 SOIL_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Dhingra
 SOIL_SCI,513,Environmental Soil Physics,01,17806,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,M Flury
 SOIL_SCI,541,Soil-Plant-Microbial Interactions,01,09477,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,T Sullivan
@@ -767,7 +772,7 @@ TCH_LRN,590,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 TCH_LRN,600,Special Projects or Independent Study,01,08470,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,08471,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,08472,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-UNIV,104,First-Year Success Seminar,02,17181,2,"M,W15.10-16",GUC TRI,Aug 23--Dec 10,A Plemons
+UNIV,104,First-Year Success Seminar,02,17181,2,"M,W15.10-16",WEB ARR,Aug 23--Dec 10,A Plemons
 UNIV,300,Accessing Information for Research,01,08606,1,F10.10-11,GUC TRI,Aug 23--Dec 10,H Gover
 VIT_ENOL,113,Introduction to Vines and Wines,01,08460,3,"TU,TH12.05-13.20",VC TRI,Aug 23--Dec 10,J Harbertson
 VIT_ENOL,313,Viticulture,01,08444,3,"TU,TH14.55-16.10",VC TRI,Aug 23--Dec 10,B Bondada

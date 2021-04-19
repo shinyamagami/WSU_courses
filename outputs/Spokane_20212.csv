@@ -17,6 +17,12 @@ MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 2
 MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,534,Pediatrics - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,553,Pediatrics - Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,553,Pediatrics - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,553,Pediatrics - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,553,Pediatrics - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
@@ -29,6 +35,17 @@ MED_CLIN,577,Surgery - Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kum
 MED_CLIN,577,Surgery - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,577,Surgery - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,577,Surgery - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,579,Science - Medical Informatics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,589,Clinical Rotation - Transition to Residency,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,599,Special Projects,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,599,Special Projects,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,599,Special Projects,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,599,Special Projects,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_FMS,509,Special Topics in Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,R Larson
 MIT,501,Learning and Development in School and Community Contexts,01,08334,3,"M,TU,W,TH9-11.20",VC SPK,Jun 07--Jul 02,A Segadelli
 MIT,502,Assessment for Teaching and Learning,01,06691,3,"M,TU,W,TH12-14.20",VC SPK,Jun 07--Jul 02,J Walls
@@ -276,13 +293,12 @@ SHS,545,Autism Spectrum Disorder,02,06317,2,TU8-12.30,VC ARR,May 10--May 29,""
 SHS,545,Autism Spectrum Disorder,"","","",TU13.30-17,VC ARR,"",""
 SHS,568,Off-campus Practicum Clinical Setting,01,06314,V,ARRGT,ARR ARR,May 10--Jul 07,K Simpson
 SHS,570,Advanced Internship in Speech-Language Pathology,01,06313,V,ARRGT,ARR ARR,May 10--Aug 13,K Simpson
-SHS,575,Advanced Clinical Practice,01,07948,V,ARRGT,ARR ARR,May 10--Jul 07,C Dechert
+SHS,575,Advanced Clinical Practice,01,07948,V,ARRGT,ARR ARR,May 10--Jul 07,""
 SHS,575,Advanced Clinical Practice,02,"",V,ARRGT,ARR ARR,Jun 21--Jul 02,A Meredith
 SHS,575,Advanced Clinical Practice,03,"",V,ARRGT,ARR ARR,Jun 26--Jul 04,R Jackson
 SHS,590,Special Topics in Speech and Hearing Sciences,01,06316,V,F16-20,ARR ARR,Jun 11--Jun 12,""
 SHS,590,Special Topics in Speech and Hearing Sciences,"","","",SA8-18,ARR ARR,"",""
 SHS,590,Special Topics in Speech and Hearing Sciences,02,06318,V,F16-20,ARR ARR,Jun 04--Jun 05,R Keifer
 SHS,590,Special Topics in Speech and Hearing Sciences,"","","",SA8-18,ARR ARR,"",""
-SHS,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Jun 01--Jul 30,C Dechert
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,07951,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 TCH_LRN,528,Literacy within the Disciplines,01,"",3,"M,TU,W,TH12-14.30",WEB ARR,Jul 05--Jul 30,P Provinsal

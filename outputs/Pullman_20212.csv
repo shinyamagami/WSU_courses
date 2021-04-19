@@ -27,8 +27,8 @@ AMDT,498,Special Topics,01,03528,V,ARRGT,ARR ARR,May 10--Jul 30,S Hiscock
 AMDT,700,"Master's Research, Thesis, and/or Examination",01,03422,V,ARRGT,ARR ARR,May 10--Jul 30,C Hwang
 AMDT,700,"Master's Research, Thesis, and/or Examination",02,03586,V,ARRGT,ARR ARR,May 10--Jul 30,H Liu
 AMDT,700,"Master's Research, Thesis, and/or Examination",03,03587,V,ARRGT,ARR ARR,May 10--Jul 30,T Chi
-AMDT,700,"Master's Research, Thesis, and/or Examination",04,03590,V,ARRGT,ARR ARR,May 10--Jul 30,C Hwang
-AMDT,702,"Master's Special Problems, Directed Study and/or Examination",01,03426,V,ARRGT,ARR ARR,May 10--Jul 30,C Hwang
+AMDT,700,"Master's Research, Thesis, and/or Examination",04,03590,V,ARRGT,ARR ARR,May 10--Jul 30,J Son
+AMDT,702,"Master's Special Problems, Directed Study and/or Examination",01,03426,V,ARRGT,ARR ARR,May 10--Jul 30,H Liu
 AMER_ST,216,Introduction to American Cultural Studies,01,07337,3,"M,TU,W,TH,F10-11.25",WEB ARR,Jun 21--Jul 30,T Carrasco
 AMER_ST,800,"Doctoral Research, Dissertation, and/or Examination",01,03000,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ANTH,101,[DIVR] Introduction to Anthropology,01,03671,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,""
@@ -117,7 +117,7 @@ CHEM,106,Principles of Chemistry II,01,03964,4,"M,TU,W,TH,F10.30-11.35",WEB ARR,
 CHEM,106,Principles of Chemistry II,01 Lab,03965,0,"TU,TH13-13.50",WEB ARR,Jun 28--Aug 15,""
 CHEM,106,Principles of Chemistry II,02 Lab,03966,0,"TU,TH13-13.50",WEB ARR,Jun 28--Aug 15,""
 CHEM,106,Principles of Chemistry II,03 Lab,03967,0,"TU,TH13-13.50",WEB ARR,Jun 28--Aug 15,""
-CHEM,345,Organic Chemistry I,01,03968,4,"M,TU,W,TH,F10.30-11.35",WEB ARR,May 10--Jun 27,""
+CHEM,345,Organic Chemistry I,01,03968,4,"M,TU,W,TH,F10.30-11.35",WEB ARR,May 10--Jun 27,A Burt
 CHEM,345,Organic Chemistry I,01 Lab,03969,0,"W,TH12-14.45",WEB ARR,May 10--Jun 27,""
 CHEM,345,Organic Chemistry I,02 Lab,03970,0,"W,TH12-14.45",WEB ARR,May 10--Jun 27,""
 CHEM,345,Organic Chemistry I,03 Lab,03971,0,"W,TH12-14.45",WEB ARR,May 10--Jun 27,""
@@ -237,7 +237,7 @@ ED_PSYCH,700,"Master's Research, Thesis, and/or Examination",01,03077,V,ARRGT,AR
 ED_PSYCH,702,"Master's Special Problems, Directed Study, and/or Examination",01,03078,V,ARRGT,ARR ARR,May 10--Jul 30,""
 ED_PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,03079,V,ARRGT,ARR ARR,May 10--Jul 30,""
 ENGLISH,100,Introductory College Composition,01,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,S Sales
-ENGLISH,101,[WRTG] College Composition,01,03695,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,E Forsythe
+ENGLISH,101,[WRTG] College Composition,01,03695,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,M Thomas
 ENGLISH,101,[WRTG] College Composition,02,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,N Koenis
 ENGLISH,101,[WRTG] College Composition,03,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,W Richards
 ENGLISH,101,[WRTG] College Composition,04,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,R Murphy
@@ -456,22 +456,22 @@ MBIOS,701,Master's Independent Capstone Project and /or Examination,01,03595,V,A
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,03119,V,ARRGT,ARR ARR,May 10--Jul 30,""
 MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,03120,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,116,Engineering Computer-aided Design and Visualization,01,03762,2,"M,TU,W,TH,F8-11",WEB ARR,May 10--Jun 18,D Torick
-ME,212,Dynamics,01,07789,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,""
+ME,212,Dynamics,01,07789,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,N Biswas
 ME,216,Integrated CAD Design,01,03763,2,"M,TU,W,TH,F7.30-10.30",WEB ARR,Jun 21--Jul 30,N Biswas
 ME,220,Materials Laboratory,01,07790,1,"M,W15-17",WEB ARR,Jul 12--Jul 30,""
 ME,301,Fundamentals of Thermodynamics,01,04006,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,A Morshed
 ME,303,Fluid Mechanics,01,04074,3,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,Y Hu
-ME,304,Heat Transfer,01,04075,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,""
+ME,304,Heat Transfer,01,04075,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,P Dutta
 ME,306,Thermal and Fluids Laboratory,01,07937,2,"M,TU,W,TH,F15-16",WEB ARR,Jun 21--Jul 09,""
 ME,306,Thermal and Fluids Laboratory,01 Lab,07938,0,ARRGT,ARR ARR,Jun 21--Jul 09,""
 ME,312,Manufacturing Engineering,01,07932,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,Jul 05--Jul 30,X Bi
 ME,312,Manufacturing Engineering,01 Lab,07933,0,ARRGT,ARR ARR,Jul 05--Jul 30,X Bi
-ME,313,Engineering Analysis,01,03935,3,"M,TU,W,TH,F8-9",WEB ARR,May 10--Jun 18,""
-ME,313,Engineering Analysis,01 Lab,03936,0,"TU,TH9-12",WEB ARR,May 10--Jun 18,""
+ME,313,Engineering Analysis,01,03935,3,"M,TU,W,TH,F8-9",WEB ARR,May 10--Jun 18,S Kovacevic
+ME,313,Engineering Analysis,01 Lab,03936,0,"TU,TH9-12",WEB ARR,May 10--Jun 18,S Kovacevic
 ME,316,Mechanical Component Analysis and Design,01,04007,3,"M,TU,W,TH,F7.45-9",WEB ARR,Jun 21--Jul 30,""
-ME,348,Dynamics Systems,01,04008,3,"M,TU,W,TH,F10.45-12",WEB ARR,Jun 21--Jul 30,""
+ME,348,Dynamics Systems,01,04008,3,"M,TU,W,TH,F10.45-12",WEB ARR,Jun 21--Jul 30,Y Hu
 ME,405,Thermal Systems Design,01,04103,3,"M,TU,W,TH,F9.15-10.30",WEB ARR,Jun 21--Jul 30,A Morshed
-ME,406,[M] Experimental Design,01,07662,3,"M,TU,W,TH,F8-10",WEB ARR,May 10--May 28,""
+ME,406,[M] Experimental Design,01,07662,3,"M,TU,W,TH,F8-10",WEB ARR,May 10--May 28,J Ding
 ME,406,[M] Experimental Design,01 Lab,07663,0,ARRGT,ARR ARR,May 10--May 28,""
 ME,413,Mechanics of Solids,01,07936,3,"M,TU,W,TH,F10.45-12",WEB ARR,Jun 21--Jul 30,""
 ME,415,[M] Engineering Design,01,07794,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,Jun 21--Jul 30,""
@@ -512,7 +512,7 @@ MKTG,600,Special Projects or Independent Study,01,03607,V,ARRGT,ARR ARR,May 10--
 MKTG,702,"Master's Special Problems, Directed Study, and/or Examination",01,03608,V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
 MKTG,800,"Doctoral Research, Dissertation, and/or Examination",01,03609,V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
 MSE,201,Materials Science,01,03882,3,"M,TU,W,TH,F15-16.15",WEB ARR,May 10--Jun 18,I Sargin
-MSE,302,Electronic Materials,01,07841,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,""
+MSE,302,Electronic Materials,01,07841,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,S Li
 MSE,413,Mechanics of Solids,01,07935,3,"M,TU,W,TH,F10.45-12",WEB ARR,Jun 21--Jul 30,""
 MSE,425,[M] Senior Thesis I,01,"",3,ARRGT,ARR ARR,May 10--Jul 30,""
 MSE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
