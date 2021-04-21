@@ -32,9 +32,9 @@ AMDT,702,"Master's Special Problems, Directed Study and/or Examination",01,03426
 AMER_ST,216,Introduction to American Cultural Studies,01,07337,3,"M,TU,W,TH,F10-11.25",WEB ARR,Jun 21--Jul 30,T Carrasco
 AMER_ST,800,"Doctoral Research, Dissertation, and/or Examination",01,03000,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ANTH,101,[DIVR] Introduction to Anthropology,01,03671,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,""
-ANTH,101,[DIVR] Introduction to Anthropology,03,03856,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,Jun 21--Jul 30,""
-ANTH,201,[HUM] Art and Society,01,03855,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,""
-ANTH,201,[HUM] Art and Society,02,07023,3,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,""
+ANTH,101,[DIVR] Introduction to Anthropology,03,03856,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,Jun 21--Jul 30,J Rumberger
+ANTH,201,[HUM] Art and Society,01,03855,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,P Moonkham
+ANTH,201,[HUM] Art and Society,02,07023,3,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,E Deelen
 ANTH,300,Field Methods,01,"",V,ARRGT,ARR ARR,May 10--Jun 18,K Lokensgard
 ANTH,300,Field Methods,02,"",V,ARRGT,ARR ARR,Jun 21--Jul 30,K Lokensgard
 ANTH,300,Field Methods,03,"",V,ARRGT,ARR ARR,Jun 21--Jul 30,""
@@ -43,7 +43,7 @@ ANTH,399,Archaeological Field School,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Tush
 ANTH,495,Research Practicum,01,"",V,ARRGT,ARR ARR,Jun 21--Jul 30,K Lokensgard
 ANTH,495,Research Practicum,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,K Lokensgard
 ANTH,498,Anthropology Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Duff
-ANTH,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
+ANTH,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,R Horowitz
 ANTH,500,Field Methods,01,03003,V,ARRGT,ARR ARR,May 10--Jul 30,""
 ANTH,599,Archaeological Field School,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Tushingham
 ANTH,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -445,6 +445,7 @@ MATH,440,Applied Mathematics I: PDEs,02,08513,3,"M,TU,W,TH12-13.15",WEB ARR,Jun 
 MATH,448,Numerical Analysis,02,08515,3,"M,TU,W,TH,F10.10-11.25",WEB ARR,May 10--Jun 18,S Lapin
 MATH,497,Instructional Practicum,01,08573,V,ARRGT,ARR ARR,May 10--Jul 30,D Reiss
 MATH,540,Applied Mathematics I: PDEs,02,08514,3,"M,TU,W,TH12-13.15",WEB ARR,Jun 21--Jul 30,S Lapin
+MATH,548,Numerical Analysis,02,08577,3,"M,TU,W,TH,F10.10-11.25",VC PUL,May 10--Jun 18,S Lapin
 MATH,702,"Master's Special Problems, Directed Study, and/or Examination",01,03113,V,ARRGT,ARR ARR,May 10--Jul 30,""
 MATH,800,"Doctoral Research, Dissertation, and/or Examination",01,03114,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01,07786,3,M13.30-16.30,WEB ARR,Jun 07--Jul 30,M Ederer
@@ -480,6 +481,7 @@ ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul
 ME,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 ME,600,Special Projects or Independent Study,01,03206,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,700,"Master's Research, Thesis, and/or Examination",01,03207,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+ME,701,Master's Independent Capstone Project and /or Examination,01,08575,V,ARRGT,ARR ARR,May 10--Jul 30,""
 ME,702,"Master's Special Problems, Directed Study, and/or Examination",01,03208,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,800,"Doctoral Research, Dissertation, and/or Examination",01,03209,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MGMT,491,[CAPS] Strategic Management,01,03787,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,H Yu
@@ -545,7 +547,6 @@ PHYSICS,101,[PSCI] General Physics,04 Lab,08526,0,"TU,TH10-10.30",WEB ARR,Jun 07
 PHYSICS,102,[PSCI] General Physics,01,07816,4,"M,TU,W,TH,F10.30-11.20",WEB ARR,Jun 07--Jul 30,S Mossman
 PHYSICS,102,[PSCI] General Physics,01 Lab,07817,0,"TU,TH9.30-10",WEB ARR,Jun 07--Jul 30,""
 PHYSICS,102,[PSCI] General Physics,02 Lab,07818,0,"TU,TH12.30-13",WEB ARR,Jun 07--Jul 30,""
-PHYSICS,150,[PSCI] Physics and Your World,01,08467,3,"M,TU,W,TH,F9-11",WEBS 741,May 10--Jun 18,A Rasmussen
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,07819,4,"M,TU,W,TH,F10.30-11.20",WEBS 16,Jun 01--Jul 30,N Cerruti
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01 Lab,07820,0,"TU,TH13-13.30",WEB ARR,Jun 07--Jul 30,""
 PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,01,07823,4,"M,TU,W,TH,F9-9.50",WEBS 16,Jun 01--Jul 30,N Cerruti
@@ -621,10 +622,10 @@ SOIL_SCI,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,May 10-
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",01,03157,V,ARRGT,ARR ARR,May 10--Jul 30,D Brown
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",02,03295,V,ARRGT,ARR ARR,May 10--Jul 30,L Carpenter-Boggs
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",03,03296,V,ARRGT,ARR ARR,May 10--Jul 30,D Collins
-SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",04,03297,V,ARRGT,ARR ARR,May 10--Jul 30,""
+SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",04,03297,V,ARRGT,ARR ARR,May 10--Jul 30,D Griffin
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",05,03298,V,ARRGT,ARR ARR,May 10--Jul 30,M Flury
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",06,03299,V,ARRGT,ARR ARR,May 10--Jul 30,J Goldberger
-SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",07,03300,V,ARRGT,ARR ARR,May 10--Jul 30,J Harsh
+SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",07,03300,V,ARRGT,ARR ARR,May 10--Jul 30,G Lahue
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",08,03301,V,ARRGT,ARR ARR,May 10--Jul 30,D Huggins
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",09,03302,V,ARRGT,ARR ARR,May 10--Jul 30,M Neff
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",11,03304,V,ARRGT,ARR ARR,May 10--Jul 30,J Reganold
@@ -669,13 +670,13 @@ STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,0360
 STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,03660,V,ARRGT,ARR ARR,May 10--Jul 30,""
 TCH_LRN,307,Survey of Children's Literature,01,08496,3,"M,TU,W,TH,F9-12",WEB ARR,May 10--May 28,J Kelley
 TCH_LRN,317,Initial Practicum Experience,01,03736,2,ARRGT,ARR ARR,May 10--Jun 18,L White
-TCH_LRN,463,Teaching Concepts of Probability and Statistics,01,04072,3,"M,W13.30-16.20",WEB ARR,Jun 21--Jul 30,M Haberlach
+TCH_LRN,463,Teaching Concepts of Probability and Statistics,01,04072,3,"M,W13.30-16.40",WEB ARR,Jun 21--Jul 30,M Haberlach
 TCH_LRN,483,Integrating Health and Fitness into K-8 Curriculum,01,07835,3,"M,W,F8-10.05",WEB ARR,May 10--Jun 04,P Morgan
 TCH_LRN,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 TCH_LRN,521,Topics in Education,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 TCH_LRN,522,Topics in Education,01,07858,V,"M,TU,W,TH,F9-12",WEB ARR,May 10--May 28,J Egbert
 TCH_LRN,528,Literacy within the Disciplines,01,"",3,"M,TU,W,TH12-14.30",WEB ARR,Jul 05--Jul 30,P Provinsal
-TCH_LRN,563,Teaching Concepts of Probability and Statistics,01,04073,3,"M,W13.30-16.20",WEB ARR,Jun 21--Jul 30,M Haberlach
+TCH_LRN,563,Teaching Concepts of Probability and Statistics,01,04073,3,"M,W13.30-16.40",WEB ARR,Jun 21--Jul 30,M Haberlach
 TCH_LRN,590,Internship,01,03230,V,ARRGT,ARR ARR,May 10--Jul 30,""
 TCH_LRN,591,Research Internship in Math/Science Education,01,03171,V,ARRGT,"",May 10--Jul 30,(multiple)
 TCH_LRN,600,Special Projects or Independent Study,01,"",V,ARRGT,"",May 10--Jul 30,""
@@ -683,10 +684,12 @@ TCH_LRN,700,"Master's Research, Thesis, and/or Examination",01,03173,V,ARRGT,ARR
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,03174,V,ARRGT,ARR,May 10--Jul 30,""
 TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,03175,V,ARRGT,ARR,May 10--Jul 30,""
 UNIV,100,College Majors and Career Exploration,01,"",1,"M,TU,W,TH9.10-10","",Jun 28--Jul 30,A Morgan
-UNIV,110,Developing Academic Strategies for Reading and Writing,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,""
-UNIV,111,Developing Academic Strategies for Listening and Discussion,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,""
+UNIV,110,Developing Academic Strategies for Reading and Writing,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,J Bilek
+UNIV,111,Developing Academic Strategies for Listening and Discussion,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,L Reed
 UNIV,301,Career Exploration and Professional Development,01,"",1,ARRGT,ARR ARR,May 10--Jul 30,""
 UNIV,398,Internship,01,08501,V,ARRGT,ARR ARR,May 10--Jul 30,J Hopkins
+VET_CLIN,700,"Master's Research, Thesis, and/or Examination",01,03182,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+VET_CLIN,800,"Doctoral Research, Dissertation, and/or Examination",01,03184,V,ARRGT,"",May 10--Jul 30,(multiple)
 VET_MED,597,Special Topics,01,"",V,ARRGT,ARR ARR,May 10--Jun 14,S Martinez
 VET_MED,597,Special Topics,02,"",V,ARRGT,ARR ARR,Jun 14--Jul 19,S Martinez
 VET_MED,597,Special Topics,03,"",V,ARRGT,ARR ARR,Jul 19--Aug 23,S Martinez

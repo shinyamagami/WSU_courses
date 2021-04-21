@@ -22,15 +22,15 @@ ANTH,530,Theory in Archaeology,01,17565,3,M13.10-15.40,VC VAN,Aug 23--Dec 10,C G
 ANTH,800,"Doctoral Research, Dissertation, and/or Examination",01,12506,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ASTRONOM,135,[PSCI] Astronomy,01,12524,4,"M,W17.45-19",GUC VAN,Aug 23--Dec 10,J Vazquez-Bello
 ASTRONOM,135,[PSCI] Astronomy,01 Lab,12525,0,M19.15-21.05,VSCI 101,Aug 23--Dec 10,""
-B_A,100,Introduction to Business,01,13067,3,"TU,TH14.55-16.10",GUC VAN,Aug 23--Dec 10,J Sandstrom
+B_A,100,Introduction to Business,01,13067,3,"TU,TH14.55-16.10",WEB ARR,Aug 23--Dec 10,J Sandstrom
 B_A,102,Exploring Careers in Business,01,13220,1,"W,F9.10-10.25",GUC VAN,Aug 23--Sep 24,R Worthy
 B_A,102,Exploring Careers in Business,02,15492,1,"W,F9.10-10.25",GUC VAN,Sep 27--Oct 29,R Worthy
 B_A,211,"Ethics, Teams, and Innovation",01,13222,3,"M,W13.30-14.45",VC VAN,Aug 23--Dec 10,R Saylors
 B_A,211,"Ethics, Teams, and Innovation",02,13753,3,"M,W14.55-16.10",WEB ARR,Aug 23--Dec 10,B Warnick
 B_A,211,"Ethics, Teams, and Innovation",03,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,N Yaws-Gonzalez
-B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,13221,3,"TU,TH16.20-17.35",VC VAN,Aug 23--Dec 10,Y He
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,13221,3,"TU,TH16.20-17.35",WEB ARR,Aug 23--Dec 10,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
-B_LAW,210,Law and the Legal Environment of Business,01,12386,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,""
+B_LAW,210,Law and the Legal Environment of Business,01,12386,3,"M,W16.20-17.35",WEB ARR,Aug 23--Dec 10,""
 BIOLOGY,101,[BSCI] Biology of Humans,01,12581,3,F13.30-14.20,WEB ARR,Aug 23--Dec 10,W Cushwa
 BIOLOGY,102,[BSCI] General Biology,01,12641,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,K Turner
 BIOLOGY,102,[BSCI] General Biology,01 Lab,12642,0,F7.45-10.25,VSCI 101,Aug 23--Dec 10,""
@@ -60,7 +60,7 @@ BIOLOGY,401,[CAPS] Plants and People,"","","",TH16.20-17.35,GUC VAN,"",""
 BIOLOGY,403,Evolutionary Biology,01,12918,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,S Porter
 BIOLOGY,408,[CAPS] [M] Contemporary Genetics,01,12563,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,D Wilmington
 BIOLOGY,438,[M] Animal Behavior,01,13022,3,M9.10-10,GUC VAN,Aug 23--Dec 10,""
-BIOLOGY,438,[M] Animal Behavior,"","","",W9.10-10.10,WEB ARR,"",""
+BIOLOGY,438,[M] Animal Behavior,"","","",W9.10-10,WEB ARR,"",""
 BIOLOGY,438,[M] Animal Behavior,01 Lab,13025,0,M10.35-13.15,VSCI 114,Aug 23--Dec 10,""
 BIOLOGY,438,[M] Animal Behavior,02 Lab,13026,0,M13.30-16.10,VSCI 114,Aug 23--Dec 10,""
 BIOLOGY,469,[M] Ecosystem Ecology and Global Change,01,13063,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,R Evans
@@ -273,7 +273,7 @@ ENTRP,492,[CAPS] Small Business Strategy and Planning,01,12395,3,M11.10-14,GUC V
 ENTRP,492,[CAPS] Small Business Strategy and Planning,02,12418,3,M18-20.45,GUC VAN,Aug 23--Dec 10,D Steck
 ENTRP,492,[CAPS] Small Business Strategy and Planning,03,17193,3,W11.10-14,GUC VAN,Aug 23--Dec 10,B Warnick
 ENTRP,499,Special Problems,01,"",1,"M,W12.05-13.20",GUC VAN,Aug 23--Sep 24,D Steck
-FIN,223,[QUAN] Personal Finance,01,12387,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,D Steck
+FIN,223,[QUAN] Personal Finance,01,12387,3,"M,W10.35-11.50",WEB ARR,Aug 23--Dec 10,D Steck
 FIN,325,Introduction to Financial Management,01,12396,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 FIN,325,Introduction to Financial Management,02,12397,3,TH18-20.45,WEB ARR,Aug 23--Dec 10,""
 FIN,330,Introduction to Financial Wellbeing,01,17205,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,""
@@ -341,6 +341,7 @@ HISTORY,275,[DIVR] Introduction to East Asian Culture,01,13007,3,"M,W10.35-11.50
 HISTORY,298,[DIVR] History of Women in American Society,01,17578,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,L Mercier
 HISTORY,300,[M] Writing about History,01,12633,3,M14.10-17,GUC VAN,Aug 23--Dec 10,D Sinclair
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,12634,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,A Whelchel
+HISTORY,308,"[DIVR] North American Indian History, Precontact to Present",01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
 HISTORY,336,History of Sexualities,01,13388,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,L Gordillo
 HISTORY,387,World War II in Asia and the Pacific,01,13010,3,"M,W14.55-16.10",GUC VAN,Aug 23--Dec 10,X Wang
 HISTORY,419,"[HUM] United States, 1945-Present",01,13011,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,L Mercier
@@ -388,7 +389,7 @@ MATH,273,Calculus III,01,12700,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,""
 MATH,273,Calculus III,02,12701,2,"TU,TH13.30-14.20",GUC VAN,Aug 23--Dec 10,""
 MATH,300,Mathematical Computing,01,13058,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,""
 MATH,315,Differential Equations,01,12831,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,""
-MATH,330,Methods of Teaching Secondary School Mathematics,01,12945,3,"TU,TH13.30-14.45",VC VAN,Aug 23--Dec 10,""
+MATH,330,Methods of Teaching Secondary School Mathematics,01,12945,3,"TU,TH13.30-14.45",VC VAN,Aug 23--Dec 10,K Lesseig
 MATH,401,[M] Introduction to Analysis I,01,13059,3,"TU,TH12.05-13.20",VC VAN,Aug 23--Dec 10,B Krishnamoorthy
 MATH,405,Introduction to Financial Mathematics,01,"",3,"M,W,F15.10-16",WEB ARR,Aug 23--Dec 10,""
 MATH,420,Linear Algebra,01,12866,3,"M,W,F9.10-10",VC VAN,Aug 23--Dec 10,""
@@ -405,9 +406,11 @@ MATH,592,Seminar in Analysis,01,12843,1,W13.30-14.20,GUC VAN,Aug 23--Dec 10,""
 MATH,600,Special Projects or Independent Study,01,12810,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,702,"Master's Special Problems, Directed Study, and/or Examination",01,12809,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 MATH,800,"Doctoral Research, Dissertation, and/or Examination",01,12517,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+MBIOS,303,Introductory Biochemistry,01,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,R Brosemer
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01,12855,3,TU10.35-11.25,GUC VAN,Aug 23--Dec 10,G Gakhar
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01 Lab,12856,0,TH13.30-16.10,VSCI 114,Aug 23--Dec 10,""
 MBIOS,305,General Microbiology,01,12635,3,"TU,TH16.20-17.35",WEB ARR,Aug 23--Dec 10,G Gakhar
+MBIOS,401,Cell Biology,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,E Shelden
 MBIOS,405,Cell Biology of Disease,01,13027,3,F13.30-14.45,VC VAN,Aug 23--Dec 10,C Cooper
 MBIOS,478,Bioinformatics,01,12835,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MBIOS,478,Bioinformatics,01 Lab,12836,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
@@ -449,10 +452,10 @@ MGMT,456,[M] Evaluating and Rewarding Employees,01,12411,3,"M,W14.55-16.10",GUC 
 MGMT,483,[M] Management of Innovation and Change,01,12423,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,R Saylors
 MGMT,485,[M] Negotiation Skills,01,12412,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,D Steck
 MGMT,485,[M] Negotiation Skills,02,12424,3,W18-20.45,GUC VAN,Aug 23--Dec 10,D Steck
-MGTOP,215,Business Statistics,01,12407,4,"M,W12.05-13.20",WEB ARR,Aug 23--Dec 10,T Blankenship
-MGTOP,215,Business Statistics,01 Lab,12408,0,F12.05-13.55,WEB ARR,Aug 23--Dec 10,""
+MGTOP,215,Business Statistics,01,12407,4,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,T Blankenship
+MGTOP,215,Business Statistics,01 Lab,12408,0,F12.05-13.55,GUC VAN,Aug 23--Dec 10,""
 MGTOP,340,Operations Management,01,12425,3,W18-20.15,VC VAN,Aug 23--Dec 10,R Howell
-MGTOP,340,Operations Management,02,12419,3,TU16.20-17.35,WEB ARR,Aug 23--Dec 10,R Howell
+MGTOP,340,Operations Management,02,12419,3,TU16.20-17.35,GUC VAN,Aug 23--Dec 10,R Howell
 MIL_SCI,101,The United States Army,01,12733,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MIL_SCI,201,Introduction to Leadership,01,12734,2,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MIL_SCI,301,Applied Leadership and Management,01,12735,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -701,7 +704,7 @@ SOC,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR 
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,12680,4,"W,F12.05-13.20",GUC VAN,Aug 23--Dec 10,M Berger
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,12681,0,TH7.45-10.25,VSCI 101,Aug 23--Dec 10,""
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",02 Lab,12682,0,TH10.35-13.15,VSCI 101,Aug 23--Dec 10,""
-SOE,230,[PSCI] Introductory Oceanography,01,12818,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,S Bollens
+SOE,230,[PSCI] Introductory Oceanography,01,12818,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,S Bollens
 SOE,315,Water and the Earth,02,17811,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,""
 SOE,315,Water and the Earth,02 Lab,17812,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,335,[M] Environmental Policy and Law,01,17504,3,"TU,TH16.20-17.35",VC VAN,Aug 23--Dec 10,R Swenson
@@ -789,7 +792,7 @@ UNIV,300,Accessing Information for Research,01,12726,1,ARRGT,ARR ARR,Aug 23--Dec
 UNIV,301,Career Exploration and Professional Development,01,13331,1,TU16.20-17.35,GUC VAN,Aug 23--Oct 29,C Johnston
 UNIV,304,Transfer Student Seminar,01,13788,2,F9.10-10.50,GUC VAN,Aug 23--Dec 10,A Gintz
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,E Scott
-UNIV,398,Internship,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+UNIV,398,Internship,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Hopkins
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,12922,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,""
 WOMEN_ST,298,[DIVR] History of Women in American Society,01,17579,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,L Mercier
 WOMEN_ST,324,Psychology of Gender,01,12941,3,M10.35-11.50,GUC VAN,Aug 23--Dec 10,K Saville

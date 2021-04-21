@@ -1,14 +1,18 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 ACCTG,230,Introduction to Financial Accounting,01,08567,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,K Jones
 ACCTG,231,Introduction to Managerial Accounting,01,08517,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,K Jones
+ACCTG,335,Taxation of Business Entities and Individuals,01,"",3,"TU,TH19.15-20.30",WEB ARR,Aug 23--Dec 10,""
 ACCTG,338,Cost Accounting,01,08518,3,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,K Jones
 ANTH,101,[DIVR] Introduction to Anthropology,01,08586,3,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,M Mansperger
+ANTH,203,[DIVR] Global Cultural Diversity,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,08783,4,"M,W,F14.10-15",GUC TRI,Aug 23--Dec 10,M Mansperger
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,08784,0,"M,W9.10-10.25",GUC TRI,Aug 23--Dec 10,M Mansperger
 ANTH,336,Old World Civilizations,01,15490,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,M Mansperger
+ANTH,390,[M] History of Anthropological Thought,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
 ANTH,498,Anthropology Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Mansperger
 B_A,100,Introduction to Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,C Cooney
 B_A,211,"Ethics, Teams, and Innovation",01,09589,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,J Bravo
+B_A,211,"Ethics, Teams, and Innovation",03,"",3,"M,W14.55-16.10",WEB ARR,Aug 23--Dec 10,B Warnick
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,17197,3,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,S Koopman
 B_LAW,210,Law and the Legal Environment of Business,01,08520,3,"M,W19.15-20.30",GUC TRI,Aug 23--Dec 10,B Spooner
 BIOLOGY,102,[BSCI] General Biology,01,08627,4,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,Y Liu
@@ -144,6 +148,7 @@ DTC,206,[DIVR] Digital Inclusion,01,09429,3,"M,W,F14.10-15",GUC TRI,Aug 23--Dec 
 DTC,355,[M] Multimedia Authoring,02,09222,3,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,T De Vries
 DTC,355,[M] Multimedia Authoring,03,17937,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,T De Vries
 DTC,375,"[M] Language, Texts and Technology",01,08829,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,A Plemons
+DTC,475,[DIVR] Digital Diversity,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 DTC,497,[CAPS] Senior Seminar,01,09543,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,R Gregory
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Plemons
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Plemons
@@ -360,6 +365,7 @@ MIT,575,Internship and Seminar,01,08768,10,M16.15-19,GUC TRI,Aug 23--Dec 10,J Mo
 MIT,575,Internship and Seminar,01 Lab,08769,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Morrison
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,09573,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 MKTG,360,Marketing,01,08558,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,R Hammond
+MKTG,360,Marketing,02,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MKTG,368,Marketing Research,01,09441,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,J Giese
 MKTG,477,Integrated Marketing Communications,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MKTG,495,[M] Marketing Management,01,09442,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,J Giese
@@ -645,6 +651,7 @@ NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC TRI,"",""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC TRI,"",""
 NURS,583,DNP Population Health Practicum,01,08409,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,583,DNP Population Health Practicum,02,08410,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+NURS,599,Independent Study,01,08361,V,ARRGT,ARR ARR,Aug 23--Dec 10,P Stover
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,08314,V,TH8.10-11,VC TRI,Aug 26--Aug 26,""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC TRI,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC TRI,"",""
@@ -695,6 +702,7 @@ SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,04 Lab,08701,0,W
 SOE,210,[PSCI] Earth's History and Evolution,02,09585,4,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,S Reidel
 SOE,210,[PSCI] Earth's History and Evolution,02 Lab,09586,0,TU12.05-14.55,"",Aug 23--Dec 10,S Reidel
 SOE,335,[M] Environmental Policy and Law,01,09254,3,"TU,TH16.20-17.35",VC TRI,Aug 23--Dec 10,R Swenson
+SOE,390,Living on the Edge: Global Climate Change and Earth History,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,411,[M] Limnology and Aquatic Ecosystem Management,01,09415,3,"TU,TH12.10-13",VC TRI,Aug 23--Dec 10,S Roley
 SOE,411,[M] Limnology and Aquatic Ecosystem Management,01 Lab,09423,0,F13.10-16,GUC TRI,Aug 23--Dec 10,S Roley
 SOE,460,Biotechnology and the Environment,01,09419,3,"M,W16.15-17.30",VC TRI,Aug 23--Dec 10,A Felsot
@@ -711,6 +719,7 @@ SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,08592,V,ARRGT,A
 SOIL_SCI,201,[BSCI] Soil: A Living System,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,G Lahue
 SOIL_SCI,368,Introduction to Geographic Information Systems,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
 SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
+SOIL_SCI,443,[M] Soil Management for Sustainable and Organic Farming Systems,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Dhingra
 SOIL_SCI,513,Environmental Soil Physics,01,17806,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,M Flury
 SOIL_SCI,541,Soil-Plant-Microbial Interactions,01,09477,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,T Sullivan
@@ -724,9 +733,11 @@ SPEC_ED,404,Professional Skills in Special Education,02,08968,3,ARRGT,ARR ARR,Au
 SPEC_ED,409,Early Childhood Special Education,01,08779,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,420,Teaching in Inclusive Classrooms,01,08458,V,M13.10-16,GUC TRI,Aug 23--Dec 10,Y Hsiao
 SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,08780,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,490,Practicum in Special Education,01,08626,V,ARRGT,ARR ARR,Aug 23--Dec 10,Y Hsiao
 SPEC_ED,501,Teaching Students with Disabilities,01,08455,3,W17.15-20,GUC TRI,Aug 23--Dec 10,Y Hsiao
 SPEC_ED,504,Professional Skills in Special Education,01,08457,3,M17.15-20,GUC TRI,Aug 23--Dec 10,S Petersen
 SPEC_ED,520,Teaching in Inclusive Classrooms,01,08459,V,M13.10-16,GUC TRI,Aug 23--Dec 10,Y Hsiao
+SPEC_ED,590,Practicum in Special Education,01,08934,V,ARRGT,ARR ARR,Aug 23--Dec 10,Y Hsiao
 STAT,212,[QUAN] Introduction to Statistical Methods,01,08728,4,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,02,17930,4,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,08729,0,M15.10-17,GUC TRI,Aug 23--Dec 10,R Learn
@@ -737,7 +748,7 @@ STAT,370,Introductory Statistics for Engineers,02,17931,3,"TU,TH16.20-17.35",WEB
 STAT,412,Statistical Methods in Research I,01,08585,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,R Learn
 STAT,412,Statistical Methods in Research I,03,17932,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,R Learn
 TCH_LRN,301,Learning and Development,01,08461,3,W13.10-15.55,GUC TRI,Aug 23--Dec 10,M Moscatelli
-TCH_LRN,310,[M] Classroom Management,01,08462,2,TH13.30-15.10,GUC TRI,Aug 23--Dec 10,J Mancinelli
+TCH_LRN,310,[M] Classroom Management,01,08462,2,TH13.30-15.10,GUC TRI,Aug 23--Dec 10,""
 TCH_LRN,321,Early Literacy,01,08463,3,TU13.30-16.15,GUC TRI,Aug 23--Dec 10,M Belgard
 TCH_LRN,333,Introduction to English as a Second Language (ESL),01,08464,3,M9.10-11.55,GUC TRI,Aug 23--Dec 10,Y Ardasheva
 TCH_LRN,333,Introduction to English as a Second Language (ESL),02,08740,3,W17.15-20,GUC TRI,Aug 23--Dec 10,E Johnson
@@ -752,16 +763,16 @@ TCH_LRN,405,Instructional Practicum II,01,08704,V,ARRGT,ARR ARR,Aug 23--Dec 10,J
 TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,01,08466,3,TU17.15-20,GUC TRI,Aug 23--Dec 10,A Johnson
 TCH_LRN,410,Theoretical Foundations of Bilingual/ESL Education,01,"",3,TU17.45-20.30,VC TRI,Aug 23--Dec 10,E Johnson
 TCH_LRN,414,Methods and Materials for Bilingual/ESL Education,01,08614,3,TH17.15-20,VC TRI,Aug 23--Dec 10,Y Ardasheva
-TCH_LRN,415,Student Teaching,01,08467,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Moscatelli
+TCH_LRN,415,Student Teaching,01,08467,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Mancinelli
 TCH_LRN,415,Student Teaching,03,09447,V,M16.15-19,GUC TRI,Aug 23--Dec 10,J Morrison
-TCH_LRN,415,Student Teaching,01 Lab,08468,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Moscatelli
+TCH_LRN,415,Student Teaching,01 Lab,08468,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Mancinelli
 TCH_LRN,415,Student Teaching,03 Lab,09448,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Morrison
 TCH_LRN,430,Methods of Teaching Secondary Science I,01,09802,3,TH17.15-20,GUC TRI,Aug 23--Dec 10,J Firestone
 TCH_LRN,433,Middle Level Mathematics Methods,01,08782,3,M16.45-19.30,WEB ARR,Aug 23--Dec 10,T Heikila
 TCH_LRN,434,Conceptualization of Proportional Thinking,01,08469,3,TH16.15-19,WEB ARR,Aug 23--Dec 10,K Lesseig
-TCH_LRN,483,Integrating Health and Fitness into K-8 Curriculum,01,08616,3,W16.15-19,GUC TRI,Aug 23--Dec 10,""
-TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,01,08617,3,M16.10-17.40,GUC TRI,Aug 23--Dec 10,""
-TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,02,08852,3,M16.10-17.40,GUC TRI,Aug 23--Dec 10,J Mancinelli
+TCH_LRN,483,Integrating Health and Fitness into K-8 Curriculum,01,08616,3,TU14.10-16.55,GUC TRI,Aug 23--Dec 10,""
+TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,01,08617,3,M16.10-17.40,GUC TRI,Aug 23--Dec 10,M Moscatelli
+TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,02,08852,3,M16.10-17.40,GUC TRI,Aug 23--Dec 10,""
 TCH_LRN,497,Topics in In-Service Education,02,09387,V,F17-19,GUC TRI,Aug 23--Dec 10,A Johnson
 TCH_LRN,499,Special Problems,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,01,08430,3,TU17.45-20.30,VC TRI,Aug 23--Dec 10,E Johnson
