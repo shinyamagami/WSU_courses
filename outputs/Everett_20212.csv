@@ -6,9 +6,9 @@ CPT_S,121,Program Design and Development C/C++,01,08395,4,"M,TU,W,TH,F10.55-11.4
 CPT_S,121,Program Design and Development C/C++,01 Lab,08396,0,"TU,TH12-14.40",WEB ARR,Jun 07--Jul 30,B Zeng
 CPT_S,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 E_E,261,Electrical Circuits I,01,08406,3,"M,TU,W,TH13.30-14.45",WEB ARR,Jun 28--Aug 15,J Murray
-E_E,262,Electrical Circuits Laboratory I,01,08407,1,"TU,TH15-17.50","",Jun 28--Aug 15,J Murray
+E_E,262,Electrical Circuits Laboratory I,01,08407,1,"TU,TH15-17.50",WEB ARR,Jun 28--Aug 15,""
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
-HBM,101,Professional and Career Development for the Business World,01,07042,1,W13-14.15,"",Jun 21--Jul 30,A Mcleod
+HBM,101,Professional and Career Development for the Business World,01,07042,1,W13-14.15,EVRT 200D,Jun 21--Jul 30,A Mcleod
 MATH,440,Applied Mathematics I: PDEs,01,07044,3,"M,TU,W,TH12-13.15",WEB ARR,Jun 21--Jul 30,S Lapin
 MATH,448,Numerical Analysis,01,07032,3,"M,TU,W,TH,F10.10-11.25",WEB ARR,May 10--Jun 18,S Lapin
 MATH,540,Applied Mathematics I: PDEs,01,08488,3,"M,TU,W,TH12-13.15","",Jun 21--Jul 30,S Lapin
@@ -21,12 +21,46 @@ MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 2
 MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,534,Pediatrics - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,535,Psychiatry - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
+MED_CLIN,536,Obstetrics and Gynecology - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,537,Emergency Medicine - Emergency Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
+MED_CLIN,538,Core - Rural Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,539,Core - Underserved Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Kaczmark
+MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
+MED_CLIN,543,Clinical Rotation - Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
+MED_CLIN,544,Internal Medicine - Nephrology,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,545,Internal Medicine - Critical Care,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,546,Surgery - Vascular Surgery,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,547,Internal Medicine - Cardiology,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,551,Clinical Rotation - Pathology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,560,Family Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,561,Internal Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,562,Obstetrics and Gynecology - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,563,Pediatrics - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,564,Psychiatry - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
+MED_CLIN,565,Surgery - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,566,Internal Medicine - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,567,Obstetrics and Gynecology - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,568,Pediatrics - Hospital Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,570,Away Rotation - North America,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,570,Away Rotation - North America,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,570,Away Rotation - North America,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,570,Away Rotation - North America,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
+MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,574,Science - Clinical Bioethics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
+MED_CLIN,575,Clinical Rotation - Geriatrics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
@@ -39,7 +73,18 @@ MED_CLIN,577,Surgery - Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kum
 MED_CLIN,577,Surgery - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,577,Surgery - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,577,Surgery - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,578,Surgery - General Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,579,Science - Medical Informatics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,580,Clinical Rotation - Neurology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
 MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,589,Clinical Rotation - Transition to Residency,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
