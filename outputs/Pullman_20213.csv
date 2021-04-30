@@ -78,7 +78,7 @@ AIS,331,[SSCI] Archaeology of the Americas,01,07818,3,ARRGT,ARR ARR,Aug 23--Dec 
 AIS,401,Tribal Nation Building Leadership - Research I,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,K Lokensgard
 AMDT,105,"Introductory College Seminar in Apparel, Merchandising, Design, and Textiles",02,08262,1,W9.10-10,JSNH C0001,Aug 23--Dec 10,S Hiscock
 AMDT,108,"Introduction to Apparel, Merchandising, Design and Textiles",01,04778,3,"M,W,F14.10-15",JSNH C0107,Aug 23--Dec 10,C Silva
-AMDT,210,[PSCI] Textiles,01,04779,4,"TU,TH13.25-14.40",JSNH C0001,Aug 23--Dec 10,A Frattali
+AMDT,210,[PSCI] Textiles,01,04779,4,"TU,TH13.30-14.45",JSNH C0001,Aug 23--Dec 10,A Frattali
 AMDT,210,[PSCI] Textiles,01 Lab,04780,0,M9.10-12,ARR ARR,Aug 23--Dec 10,A Frattali
 AMDT,210,[PSCI] Textiles,02 Lab,04781,0,M16.10-19,ARR ARR,Aug 23--Dec 10,A Frattali
 AMDT,210,[PSCI] Textiles,04 Lab,07922,0,TU16.10-19,ARR ARR,Aug 23--Dec 10,A Frattali
@@ -90,7 +90,7 @@ AMDT,210,[PSCI] Textiles,10 Lab,17782,0,F11.10-14,ARR ARR,Aug 23--Dec 10,A Fratt
 AMDT,211,Apparel Assembly,01,"",3,"TU,TH14.10-16.40",JSNH C0112,Aug 23--Dec 10,M Shaheen
 AMDT,211,Apparel Assembly,02,"",3,"W,F9.10-11.40",JSNH C0112,Aug 23--Dec 10,C Silva
 AMDT,220,Historic Costumes and Textiles,01,04784,3,"TU,TH9.10-10.25",JSNH C0001,Aug 23--Dec 10,M Shaheen
-AMDT,230,Creating Visual Advertising in Fashion,01,06343,3,"TU,TH12.10-13.25",JSNH 22,Aug 23--Dec 10,C Silva
+AMDT,230,Creating Visual Advertising in Fashion,01,06343,3,"TU,TH12.05-13.20",JSNH 22,Aug 23--Dec 10,C Silva
 AMDT,268,Communicating Creative Concepts in Fashion,02,05672,3,"TU,TH16.20-19.10",JSNH C0020,Aug 23--Dec 10,C Silva
 AMDT,308,Visual Merchandising and Promotion,01,06964,3,"M,W11.10-12",JSNH C0001,Aug 23--Dec 10,X Lou
 AMDT,308,Visual Merchandising and Promotion,01 Lab,06965,0,W14.10-15.50,JSNH C0020,Aug 23--Dec 10,X Lou
@@ -175,7 +175,7 @@ ANIM_SCI,101,Introductory Animal Science,04 Lab,04834,0,TH12.05-14.45,GUC TBS,Au
 ANIM_SCI,101,Introductory Animal Science,05 Lab,04835,0,TH14.55-17.35,GUC TBS,Aug 23--Dec 10,M Maquivar
 ANIM_SCI,166,Young Horse Handling,01,04836,1,TU12.05-14.55,ARR ARR,Aug 23--Dec 10,A Reitmeier
 ANIM_SCI,166,Young Horse Handling,02,04837,1,TH12.05-14.55,ARR ARR,Aug 23--Dec 10,A Reitmeier
-ANIM_SCI,172,Dairy Cattle Management Laboratory,01,04838,1,TU12.05-14.55,GUC TBS,Aug 23--Dec 10,J Swain
+ANIM_SCI,172,Dairy Cattle Management Laboratory,01,04838,1,TU12.05-14.55,ARR ARR,Aug 23--Dec 10,J Swain
 ANIM_SCI,172,Dairy Cattle Management Laboratory,02,04839,1,TH12.05-14.45,ARR ARR,Aug 23--Dec 10,J Swain
 ANIM_SCI,174,Beef Cow Calf Management Laboratory,01,04840,1,TU12.05-14.45,ARR ARR,Aug 23--Dec 10,B Mccann
 ANIM_SCI,180,Animal Sciences Orientation,01,04841,1,M15.10-16,GUC TBS,Aug 23--Dec 10,K Johnson
@@ -194,7 +194,7 @@ ANIM_SCI,330,Animal Genetics,02,17424,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,H
 ANIM_SCI,380,Careers in Animal Science,01,04851,1,M15.10-16,GUC TBS,Aug 23--Dec 10,H Neibergs
 ANIM_SCI,399,Practicum,01,04852,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ANIM_SCI,399,Practicum,02,04853,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Johnson
-ANIM_SCI,399,Practicum,03,04854,V,M17.10-18.30,VC PUL,Aug 23--Dec 10,(multiple)
+ANIM_SCI,399,Practicum,03,04854,V,M17.10-18.30,GUC TBS,Aug 23--Dec 10,A Adams-Progar
 ANIM_SCI,399,Practicum,"","","",TH17.10-18.30,VC PUL,"",""
 ANIM_SCI,399,Practicum,04,04855,V,ARRGT,ARR ARR,Aug 23--Dec 10,D Llewellyn
 ANIM_SCI,399,Practicum,05,04856,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Reitmeier
@@ -210,22 +210,21 @@ ANIM_SCI,488,[M] Perspectives in Biotechnology,01,04864,3,"TU,TH12.05-13.20",GUC
 ANIM_SCI,499,Special Problems,01,04867,V,ARRGT,"",Aug 23--Dec 10,(multiple)
 ANIM_SCI,500,Seminar in Animal Sciences,01,04868,1,M12.10-13,GUC TBS,Aug 23--Dec 10,""
 ANIM_SCI,504,Special Topics,01,05717,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Du
+ANIM_SCI,504,Special Topics,03,17988,V,ARRGT,ARR ARR,Aug 23--Dec 10,D Llewellyn
 ANIM_SCI,588,[M] Perspectives in Biotechnology,01,04865,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,Z Jiang
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",01,04869,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Du
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",02,04870,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Johnson
-ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",04,04872,V,ARRGT,ARR ARR,Aug 23--Dec 10,H Neibergs
+ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",04,04872,V,ARRGT,ARR ARR,Aug 23--Dec 10,N Law
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",05,04873,V,ARRGT,ARR ARR,Aug 23--Dec 10,Z Jiang
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",06,04874,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Adams-Progar
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",08,04876,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Phelps
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",10,05761,V,ARRGT,ARR ARR,Aug 23--Dec 10,D Llewellyn
-ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",12,06115,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Maquivar
-ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,04878,V,ARRGT,"",Aug 23--Dec 10,M Du
-ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",02,04879,V,ARRGT,"",Aug 23--Dec 10,K Johnson
-ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",03,04880,V,ARRGT,"",Aug 23--Dec 10,J Pru
-ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",04,04881,V,ARRGT,"",Aug 23--Dec 10,H Neibergs
-ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",05,04882,V,ARRGT,"",Aug 23--Dec 10,Z Jiang
-ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",06,04883,V,ARRGT,"",Aug 23--Dec 10,A Adams-Progar
-ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",07,04884,V,ARRGT,"",Aug 23--Dec 10,J Harrison
+ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,04878,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Du
+ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",03,04880,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Pru
+ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",04,04881,V,ARRGT,ARR ARR,Aug 23--Dec 10,H Neibergs
+ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",05,04882,V,ARRGT,ARR ARR,Aug 23--Dec 10,Z Jiang
+ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",06,04883,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Adams-Progar
+ANIM_SCI,800,"Doctoral Research, Dissertation, and/or Examination",07,04884,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Phelps
 ANTH,101,[DIVR] Introduction to Anthropology,01,02955,3,"TU,TH9.10-10.25",TODD 430,Aug 23--Dec 10,N Grow
 ANTH,101,[DIVR] Introduction to Anthropology,02,02956,3,"TU,TH10.35-11.50",WEBS 17,Aug 23--Dec 10,N Grow
 ANTH,101,[DIVR] Introduction to Anthropology,03,02957,3,"TU,TH12.05-13.20",TODD 430,Aug 23--Dec 10,""
@@ -268,7 +267,7 @@ ANTH,390,[M] History of Anthropological Thought,02,"",3,ARRGT,ARR ARR,Aug 23--De
 ANTH,404,[CAPS] The Self in Culture,01,05258,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mageo
 ANTH,418,Human Issues in International Development,01,05259,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Quinlan
 ANTH,465,Human Evolution,01,17455,3,"TU,TH12.05-13.20",VC PUL,Aug 23--Dec 10,L Premo
-ANTH,473,[CAPS] [M] Evolution and Society,01,07467,3,"TU,TH14.50-16.05",GUC TBS,Aug 23--Dec 10,M Dybdahl
+ANTH,473,[CAPS] [M] Evolution and Society,01,07467,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,M Dybdahl
 ANTH,490,[CAPS] [M] Integrative Themes in Anthropology,01,"",3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,L Premo
 ANTH,495,Research Practicum,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ANTH,495,Research Practicum,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -321,15 +320,15 @@ ARCH,580,Architecture Practicum,01,05963,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ASIA,111,Asian Film,01,17289,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,X Liu
 ASIA,131,Masterpieces of Asian Literature,01,07243,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,W Cao
 ASIA,275,[DIVR] Introduction to East Asian Culture,01,05981,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,W Brecher
-ASIA,387,World War II in Asia and the Pacific,01,07144,3,"TU,TH12.10-13.25",GUC TBS,Aug 23--Dec 10,N Kawamura
+ASIA,387,World War II in Asia and the Pacific,01,07144,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,N Kawamura
 ASIA,478,[M] The Two Koreas in the Modern World,01,07139,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,W Brecher
 ASTRONOM,135,[PSCI] Astronomy,01,01015,4,"M,W,F9.10-10",WEBS 16,Aug 23--Dec 10,M Allen
 ASTRONOM,135,[PSCI] Astronomy,01 Lab,01016,0,TU9.10-12,WEBS 249,Aug 23--Dec 10,""
 ASTRONOM,135,[PSCI] Astronomy,02 Lab,01017,0,TU12.10-15,WEBS 249,Aug 23--Dec 10,""
 ASTRONOM,135,[PSCI] Astronomy,03 Lab,01018,0,W12.10-15,WEBS 249,Aug 23--Dec 10,""
 ASTRONOM,135,[PSCI] Astronomy,04 Lab,01019,0,W18.10-21,WEBS 249,Aug 23--Dec 10,""
-ASTRONOM,138,[PSCI] Planets and Planetary Systems,01,01022,3,"TU,TH13.30-14.45",WEBS 16,Aug 23--Dec 10,""
-ASTRONOM,345,Principles of Astronomy,01,01023,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,""
+ASTRONOM,138,[PSCI] Planets and Planetary Systems,01,01022,3,"TU,TH13.30-14.45",WEBS 16,Aug 23--Dec 10,M Allen
+ASTRONOM,345,Principles of Astronomy,01,01023,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,G Worthey
 ATH_T,267,Techniques in Athletic Injuries,01,05081,3,"M,W,F9.10-10",SGYM 214A,Aug 23--Dec 10,K Pietz
 ATH_T,267,Techniques in Athletic Injuries,02,07200,3,"M,W9.10-10",SGYM 214A,Aug 23--Dec 10,K Pietz
 ATH_T,267,Techniques in Athletic Injuries,"","","",F10.10-11,ARR ARR,"",""
@@ -386,7 +385,7 @@ B_A,204,Spreadsheets,02,07989,1,"M,W,F11.10-12",TODD 330,Aug 23--Sep 24,""
 B_A,204,Spreadsheets,03,07991,1,"M,W,F13.10-14",TODD 330,Aug 23--Sep 24,""
 B_A,204,Spreadsheets,04,07992,1,"TU,TH9.10-10.25",TODD 330,Aug 23--Sep 24,""
 B_A,204,Spreadsheets,05,07993,1,"TU,TH10.35-11.50",TODD 330,Aug 23--Sep 24,""
-B_A,204,Spreadsheets,06,07994,1,"TU,TH13.25-14.40",TODD 330,Aug 23--Sep 24,""
+B_A,204,Spreadsheets,06,07994,1,"TU,TH13.30-14.45",TODD 330,Aug 23--Sep 24,""
 B_A,205,Data Visualization,01,07995,1,"M,W,F10.10-11",TODD 330,Sep 27--Oct 29,""
 B_A,205,Data Visualization,02,07996,1,"M,W,F11.10-12",TODD 330,Sep 27--Oct 29,""
 B_A,205,Data Visualization,03,07997,1,"M,W,F13.10-14",TODD 330,Sep 27--Oct 29,""
@@ -399,7 +398,7 @@ B_A,206,Decision Analysis,03,08011,1,"M,W,F13.10-14",TODD 330,Nov 01--Dec 10,""
 B_A,206,Decision Analysis,04,08012,1,"TU,TH9.10-10.25",TODD 330,Nov 01--Dec 10,""
 B_A,206,Decision Analysis,05,08013,1,"TU,TH10.35-11.50",TODD 330,Nov 01--Dec 10,""
 B_A,206,Decision Analysis,06,08014,1,"TU,TH13.30-14.45",TODD 330,Nov 01--Dec 10,""
-B_A,596,Doctoral Topics,01,06078,3,TH9.30-12.20,GUC TBS,Aug 23--Dec 10,D Compeau
+B_A,596,Doctoral Topics,01,06078,3,TH9.10-12,GUC TBS,Aug 23--Dec 10,D Compeau
 B_LAW,210,Law and the Legal Environment of Business,01,04643,3,"M,W,F11.10-12",TODD 216,Aug 23--Dec 10,J Griffeath
 B_LAW,210,Law and the Legal Environment of Business,02,04644,3,"M,W,F15.10-16",TODD 133,Aug 23--Dec 10,J Griffeath
 B_LAW,210,Law and the Legal Environment of Business,03,04645,3,"M,W,F14.10-15",CUE 202,Aug 23--Dec 10,J Griffeath
@@ -570,8 +569,8 @@ BIOLOGY,438,[M] Animal Behavior,01,05400,3,"W,F10.10-11",GUC TBS,Aug 23--Dec 10,
 BIOLOGY,438,[M] Animal Behavior,01 Lab,05401,0,TH13.30-16.20,GUC TBS,Aug 23--Dec 10,P Verrell
 BIOLOGY,438,[M] Animal Behavior,02 Lab,05402,0,F12.10-15,GUC TBS,Aug 23--Dec 10,P Verrell
 BIOLOGY,469,[M] Ecosystem Ecology and Global Change,01,07179,3,"TU,TH10.35-11.50",VC PUL,Aug 23--Dec 10,R Evans
-BIOLOGY,473,[CAPS] [M] Evolution and Society,01,07466,3,"TU,TH14.50-16.05",GUC TBS,Aug 23--Dec 10,M Dybdahl
-BIOLOGY,483,[CAPS] [M] Organisms and Global Change,01,17466,3,"M,W15.30-16.45",GUC TBS,Aug 23--Dec 10,D Monk
+BIOLOGY,473,[CAPS] [M] Evolution and Society,01,07466,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,M Dybdahl
+BIOLOGY,483,[CAPS] [M] Organisms and Global Change,01,17466,3,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,D Monk
 BIOLOGY,490,[M] Professional Seminar in Physical Therapy,01,"",2,TU17.45-19.45,ARR ARR,Aug 23--Dec 10,L Waelti
 BIOLOGY,490,[M] Professional Seminar in Physical Therapy,01 Lab,05404,0,ARRGT,ARR ARR,Aug 23--Dec 10,L Waelti
 BIOLOGY,491,Clinical Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -658,6 +657,7 @@ CE,515,Environmental Measurements,01 Lab,02986,0,"TU,TH14.25-17.15",GUC TBS,Aug 
 CE,518,Hazardous Contaminant Pathway Analysis,01,05292,V,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,A Hohner
 CE,525,Soil and Site Improvement,01,05294,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,I Akin
 CE,530,Advanced Design of Steel Structures,01,05304,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,A Phillips
+CE,534,Prestressed Concrete and Bridge Design,01,07526,3,"M,W9.10-10.25","",Aug 23--Dec 10,C Motter
 CE,541,Physicochemical Water and Wastewater Treatment,01,05965,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,I Chowdhury
 CE,541,Physicochemical Water and Wastewater Treatment,02,07592,3,"TU,TH16.20-17.35",VC PUL,Aug 23--Dec 10,M Hossain
 CE,543,Advanced Topics in Environmental Engineering Practice,01,06395,V,ARRGT,ARR ARR,Aug 23--Dec 10,T Ginn
@@ -680,11 +680,11 @@ CES,101,[DIVR] Race and Racism in the United States,02,04456,3,"TU,TH9.10-10.25"
 CES,101,[DIVR] Race and Racism in the United States,03,07188,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,M Cook
 CES,201,Foundations of Comparative Ethnic Studies,01,04459,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,C Lugo-Lugo
 CES,211,Asian Pacific American History,01,17281,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,J Streamas
-CES,220,[HUM] Introduction to Multicultural Literature,01,07189,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,L Guerrero
 CES,271,[HUM] Native Music of North America,01,04176,3,"M,W,F14.10-15",KIMB 346,Aug 23--Dec 10,M Parkhurst
 CES,271,[HUM] Native Music of North America,02,05691,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Parkhurst
 CES,301,[M] Race and Global Inequality,01,06709,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,R Ong
 CES,325,[DIVR] Traveling Cultures: Tourism in Global Perspective,01,05881,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,R Ong
+CES,332,[DIVR] [M] Topics in African American Literature,01,03003,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,A Oforlea
 CES,338,Cinematic Images of Blackness,01,17282,3,TU14.10-17,GUC TBS,Aug 23--Dec 10,D Leonard
 CES,358,[M] US Latino/as in Film,01,17283,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,S Ginsburg
 CES,358,[M] US Latino/as in Film,01 Lab,17860,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Ginsburg
@@ -703,7 +703,6 @@ CHE,432,[M] Chemical Engineering Lab I,02 Lab,02975,0,"TU,TH14.25-17.15",ETRL 4,
 CHE,441,Process Control,01,03130,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,S Saunders
 CHE,450,Chemical Process Analysis and Design I,01,03131,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,""
 CHE,461,Introduction to Nuclear Engineering,01,03653,3,"TU,TH16.20-17.35",SPRK G0045,Aug 23--Dec 10,R Stout
-CHE,463,Introduction to Upstream/Midstream Technology,01,08141,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,""
 CHE,475,Introduction to Biochemical Engineering,01,04642,3,"M,W,F10.10-11",VC PUL,Aug 23--Dec 10,B Ahring
 CHE,476,Biomedical Engineering Principles,01,06448,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,B Vanwie
 CHE,481,Special Topics in Chemical Engineering,01,08143,V,"TU,TH10.35-11.50",WEGN G070C,Aug 23--Dec 10,H Beyenal
@@ -1275,7 +1274,7 @@ CRM_J,490,Criminal Justice Internship,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Keo
 CRM_J,490,Criminal Justice Internship,03,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Keopanapay
 CRM_J,499,Special Problems,03,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CRM_J,499,Special Problems,04,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-CRM_J,513,Multicultural Issues in Criminal Justice,01,17826,3,TU14.10-17,GUC TBS,Aug 23--Dec 10,H Mellinger
+CRM_J,513,Multicultural Issues in Criminal Justice,01,17826,3,TU13.30-16.20,GUC TBS,Aug 23--Dec 10,H Mellinger
 CRM_J,514,Professional Development in Criminal Justice and Criminology,01,05875,1,M12.10-13,GUC TBS,Aug 23--Dec 10,D Willits
 CRM_J,520,Criminal Justice Research Methods,01,04723,3,M14.10-17,GUC TBS,Aug 23--Dec 10,M Neuilly
 CRM_J,524,Advanced Topics in Quantitative Methods,01,17890,3,W14.10-17,GUC TBS,Aug 23--Dec 10,D Willits
@@ -1416,8 +1415,8 @@ DTC,335,3D Digital Animation,01 Lab,03581,0,"TU,TH10.10-11",AVER 101,Aug 23--Dec
 DTC,335,3D Digital Animation,02 Lab,07833,0,"TU,TH14.30-15.20",AVER 101,Aug 23--Dec 10,J Riddle
 DTC,336,Multimedia Design,01,05575,3,"TU,TH13.30-14.45",SPRK 210,Aug 23--Dec 10,""
 DTC,336,Multimedia Design,02,07393,3,"TU,TH14.55-16.10",SPRK 210,Aug 23--Dec 10,""
-DTC,354,Digital Storytelling,01,05576,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,J Sanders
-DTC,354,Digital Storytelling,02,05578,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,C Mcgill
+DTC,354,[ARTS] [M] [M[ Digital Storytelling,01,05576,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,J Sanders
+DTC,354,[ARTS] [M] [M[ Digital Storytelling,02,05578,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,C Mcgill
 DTC,355,[M] Multimedia Authoring,01,05580,3,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,T De Vries
 DTC,355,[M] Multimedia Authoring,03,07394,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,T De Vries
 DTC,356,[M] Information Structures,01,05582,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,""
@@ -1483,23 +1482,23 @@ E_E,700,"Master's Research, Thesis, and/or Examination",01,03844,V,ARRGT,"",Aug 
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,03845,V,ARRGT,"",Aug 23--Dec 10,(multiple)
 E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,03846,V,ARRGT,"",Aug 23--Dec 10,(multiple)
 E_M,430,Applications of Constraints Management,01,"",3,TH18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
-E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,"",Aug 23--Dec 10,L Magpili
-E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
-E_M,485,Design of Experiments,01,"",3,M18.15-20.45,"",Aug 23--Dec 10,D Paulus
+E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
+E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
+E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,03887,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_M,522,Leading People and Organizations,01,05630,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_M,522,Leading People and Organizations,02,07109,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_M,530,Applications of Constraints Management,01,03886,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Magpili
-E_M,560,Integrated Supply Chain Management,01,06393,3,TU18.15-20.45,"",Aug 23--Dec 10,L Magpili
-E_M,564,Project Management,01,05631,3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
-E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,07954,3,TH17.15-19.45,"",Aug 23--Dec 10,A Squires
-E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,07956,3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
+E_M,560,Integrated Supply Chain Management,01,06393,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
+E_M,564,Project Management,01,05631,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
+E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,07954,3,TH17.15-19.45,WEB ARR,Aug 23--Dec 10,A Squires
+E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,07956,3,W18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,575,Managing Innovation: Strategy and Performance,01,06384,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,585,Design of Experiments,01,05980,3,M18.15-20.45,"",Aug 23--Dec 10,D Paulus
+E_M,585,Design of Experiments,01,05980,3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_MIC,586,Special Projects in Electron Microscopy,01,04640,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Knoblauch
 E_MIC,587,Special Topics in Electron Microscopy,01,04641,1,W16.10-17,GUC TBS,Aug 23--Dec 10,M Knoblauch
-ECONS,101,[SSCI] Fundamentals of Microeconomics,01,03153,3,"M,W,F13.10-14",JSNH C0107,Aug 23--Dec 10,""
-ECONS,101,[SSCI] Fundamentals of Microeconomics,02,03154,3,"TU,TH14.55-16.10",JSNH C0107,Aug 23--Dec 10,""
+ECONS,101,[SSCI] Fundamentals of Microeconomics,01,03153,3,"M,W,F13.10-14",JSNH C0107,Aug 23--Dec 10,K Odongo
+ECONS,101,[SSCI] Fundamentals of Microeconomics,02,03154,3,"TU,TH14.55-16.10",JSNH C0107,Aug 23--Dec 10,A Salimgarieva
 ECONS,101,[SSCI] Fundamentals of Microeconomics,04,03156,3,"TU,TH9.10-10.25",TODD 116,Aug 23--Dec 10,A Prera
 ECONS,101,[SSCI] Fundamentals of Microeconomics,05,05648,3,"TU,TH13.30-14.45",CUE 203,Aug 23--Dec 10,B Cowan
 ECONS,101,[SSCI] Fundamentals of Microeconomics,06,06587,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -1520,13 +1519,13 @@ ECONS,311,[M] Introductory Econometrics,01,03164,3,"TU,TH9.10-10",GUC TBS,Aug 23
 ECONS,311,[M] Introductory Econometrics,"","","",TH13.30-14.45,HULB 5,"",""
 ECONS,311,[M] Introductory Econometrics,02,03165,3,"TU,TH9.10-10",GUC TBS,Aug 23--Dec 10,""
 ECONS,311,[M] Introductory Econometrics,"","","",TH14.55-16.10,HULB 5,"",""
-ECONS,320,Money and Banking,01,03166,3,"TU,TH10.35-11.50",JSNH C0107,Aug 23--Dec 10,""
+ECONS,320,Money and Banking,01,03166,3,"TU,TH10.35-11.50",JSNH C0107,Aug 23--Dec 10,M Mahoney
 ECONS,321,Economics of Sports in America,01,06593,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,322,Public Economics,01,03167,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,R Batina
-ECONS,323,Labor Economics,01,03168,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,""
+ECONS,323,Labor Economics,01,03168,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,J Sen
 ECONS,324,[M] The Economics of Health Care,01,03169,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,B Mandal
 ECONS,326,Aspects of Sustainable Development,01,07470,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-ECONS,327,International Trade and Finance,01,03170,3,"M,W,F13.10-14",TDAD 276,Aug 23--Dec 10,""
+ECONS,327,International Trade and Finance,01,03170,3,"M,W,F13.10-14",TDAD 276,Aug 23--Dec 10,W King
 ECONS,330,Natural Resource Economics,01,03172,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,J Yoder
 ECONS,335,[QUAN] Business Finance Economics,01,06465,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,350,Introduction to Farm and Ranch Management,01,03173,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,M Brady
@@ -1539,7 +1538,7 @@ ECONS,430,Managing the Global Environment,01,03176,3,"M,W,F12.10-13",GUC TBS,Aug
 ECONS,431,Economic Analysis of Environmental and Natural Resource Policies,01,03177,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,G Galinato
 ECONS,431,Economic Analysis of Environmental and Natural Resource Policies,"","","","M,W13.10-14",GUC TBS,"",""
 ECONS,451,Advanced Food Economics and Marketing,01,07983,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-ECONS,452,[M] Advanced Business Management Economics,01,03178,3,"TU,TH16.20-17.35",GUC TBS,Aug 23--Dec 10,""
+ECONS,452,[M] Advanced Business Management Economics,01,03178,3,"TU,TH16.20-17.35",GUC TBS,Aug 23--Dec 10,K Garcia
 ECONS,483,Special Topics: Study Abroad,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Liao-Cance
 ECONS,490,[CAPS] [M] Economics Capstone,01,03179,3,"M,W16.10-17.25",GUC TBS,Aug 23--Dec 10,T Nadreau
 ECONS,490,[CAPS] [M] Economics Capstone,"","","","M,W16.10-17.25",HULB 5,"",""
@@ -1610,7 +1609,7 @@ ECONS,512,Econometrics II,01,03250,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,W
 ECONS,526,Mathematical Economics with Applications,01,03253,3,"M,W14.10-15.25",GUC TBS,Aug 23--Dec 10,""
 ECONS,527,Microeconomic Analysis,01,03254,3,"M,W10.45-12",GUC TBS,Aug 23--Dec 10,G Galinato
 ECONS,528,Master's Macroeconomics Analysis,01,06464,3,"M,W9.10-10.25",GUC TBS,Aug 23--Dec 10,J Bai
-ECONS,571,International Trade,01,17196,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,J Luckstead
+ECONS,571,International Trade,01,17196,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,J Luckstead
 ECONS,582,Environmental Economics,01,03256,3,"M,W9.10-10.25",GUC TBS,Aug 23--Dec 10,A Espinola-Arredondo
 ECONS,594,Theory of Industrial Organization,01,03257,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,F Munoz-Garcia
 ECONS,598,PhD Research Seminar,01,17195,1,W15.10-16,GUC TBS,Aug 23--Dec 10,""
@@ -1745,9 +1744,10 @@ ED_ABRD,992,Educ Abroad,01,07676,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_ABRD,992,Educ Abroad,02,07677,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_AD,509,Leading School Improvement,01,07417,3,W17.45-20.35,VC PUL,Aug 23--Dec 10,J Butler
 ED_AD,590,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Mcbride
+ED_AD,590,Internship,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Rada
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,05568,1,W16.30-17.30,VC PUL,Aug 23--Dec 10,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,06471,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-ED_PSYCH,401,"Classroom Assessment, Elementary",01,"",3,"TU,TH12-13.15",CLEV 242,Aug 23--Dec 10,E Mcmain
+ED_PSYCH,401,"Classroom Assessment, Elementary",01,"",3,"TU,TH12.05-13.20",CLEV 242,Aug 23--Dec 10,E Mcmain
 ED_PSYCH,401,"Classroom Assessment, Elementary",02,"",3,"TU,TH14.15-15.30",CLEV 255,Aug 23--Dec 10,K Tippett
 ED_PSYCH,468,"Classroom Assessment, Secondary",01,04019,3,"TU,TH10.10-11.25",CLEV 234,Sep 27--Dec 10,D Van Orman
 ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,04021,3,W12.10-15,VC PUL,Aug 23--Dec 10,R Danielson
@@ -1777,7 +1777,7 @@ ENGLISH,100,Introductory College Composition,04,06608,3,"M,W,F11.10-12",GUC TBS,
 ENGLISH,100,Introductory College Composition,05,06664,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,D Martin
 ENGLISH,100,Introductory College Composition,06,07045,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,A Heile
 ENGLISH,100,Introductory College Composition,07,"",3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
-ENGLISH,100,Introductory College Composition,08,"",3,"TU,TH14.50-16.05",GUC TBS,Aug 23--Dec 10,""
+ENGLISH,100,Introductory College Composition,08,"",3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,100,Introductory College Composition,09,08022,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
 ENGLISH,101,[WRTG] College Composition,01,03398,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,L Powers
 ENGLISH,101,[WRTG] College Composition,02,"",3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,L Powers
@@ -1849,7 +1849,6 @@ ENGLISH,210,[HUM] Readings in American Literature,01,07314,3,"TU,TH12.05-13.20",
 ENGLISH,211,[HUM] Sex Matters: Introduction to Queer Culture and Literature,01,04037,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,L Wilson
 ENGLISH,212,[ARTS] Introduction to Comics and Graphic Novels,01,08004,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,C Harty
 ENGLISH,219,[HUM] Introduction to the Environmental Humanities,01,17736,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,K Manis
-ENGLISH,220,[HUM] Introduction to Multicultural Literature,01,07245,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,L Guerrero
 ENGLISH,251,[ARTS] Introduction to Creative Writing: Exploring the Genres,01,03463,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,C Criss
 ENGLISH,251,[ARTS] Introduction to Creative Writing: Exploring the Genres,03,05976,3,"TU,TH13.30-14.45",VC PUL,Aug 23--Dec 10,J Flathers
 ENGLISH,298,Writing and Research Honors,01,03464,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,L Kuhlman
@@ -1881,15 +1880,15 @@ ENGLISH,325,Young Adult Literature,01,05453,3,"TU,TH13.30-14.45",GUC TBS,Aug 23-
 ENGLISH,326,Applied Grammar for Teachers,01,07321,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,K Watts
 ENGLISH,332,[M] Topics in Literature,01,08031,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,L Hunter
 ENGLISH,337,Experimental Animation,01,17336,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,S Anderson
-ENGLISH,337,Experimental Animation,01 Lab,17959,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ENGLISH,337,Experimental Animation,01 Lab,17959,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Anderson
 ENGLISH,343,Introduction to Screenwriting,01,08032,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,L Levy
-ENGLISH,351,Creative Writing: Prose,01,08005,3,"TU,TH12-13.15",GUC TBS,Aug 23--Dec 10,P Chilson
+ENGLISH,351,Creative Writing: Prose,01,08005,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,P Chilson
 ENGLISH,353,Creative Writing: Nonfiction,01,05454,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,L Westerfield
-ENGLISH,354,Digital Storytelling,01,05577,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,J Sanders
-ENGLISH,354,Digital Storytelling,02,05579,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,C Mcgill
+ENGLISH,354,[ARTS] [M] [M[ Digital Storytelling,01,05577,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,J Sanders
+ENGLISH,354,[ARTS] [M] [M[ Digital Storytelling,02,05579,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,C Mcgill
 ENGLISH,357,Editing and Publishing,01,05455,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,L Westerfield
 ENGLISH,358,"Workshop Topics in Writing, Teaching, Literature",01,"",1,"M,TU,W18-21",GUC TBS,Aug 23--Dec 10,""
-ENGLISH,359,Topics in Creative Writing,01,17733,3,"TU,TH13.25-14.40",GUC TBS,Aug 23--Dec 10,L Russo
+ENGLISH,359,Topics in Creative Writing,01,17733,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,L Russo
 ENGLISH,360,Principles of Rhetoric,01,05457,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,R Eddy
 ENGLISH,362,[DIVR] Rhetorics of Racism,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,R Eddy
 ENGLISH,365,[WRTG] Proposal Writing,01,17741,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,J Staggers
@@ -1909,8 +1908,8 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,"",3,"M,W,F10.10-11
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,05470,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,S Gowdy-Burke
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,"",3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,P Cady
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,14,05472,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,G Maierhofer
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,15,05473,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,""
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,16,05474,3,"TU,TH14.50-16.05",GUC TBS,Aug 23--Dec 10,R Sanchez
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,15,05473,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,P Cady
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,16,05474,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,R Sanchez
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,17,05475,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Ericsson
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,18,05476,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Ericsson
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,19,05477,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Gowdy-Burke
@@ -2042,7 +2041,7 @@ ENTRP,489,Entrepreneurial Management,01,03695,3,"M,W,F12.10-13",GUC TBS,Aug 23--
 ENTRP,490,[M] Entrepreneurial Marketing,01,05652,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,C Cooney
 ENTRP,492,[CAPS] Small Business Strategy and Planning,01,07158,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,G Mader
 ENTRP,492,[CAPS] Small Business Strategy and Planning,02,08189,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,G Mader
-FIN,223,[QUAN] Personal Finance,01,04110,3,"TU,TH12.10-13.25",GUC TBS,Aug 23--Dec 10,A Sorensen
+FIN,223,[QUAN] Personal Finance,01,04110,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,A Sorensen
 FIN,223,[QUAN] Personal Finance,02,06016,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,A Sorensen
 FIN,223,[QUAN] Personal Finance,03,06740,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,A Sorensen
 FIN,223,[QUAN] Personal Finance,04,06741,3,"TU,TH16.20-17.35",GUC TBS,Aug 23--Dec 10,A Sorensen
@@ -2064,7 +2063,7 @@ FIN,427,[M] Investment Analysis,01,04117,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10
 FIN,427,[M] Investment Analysis,02,04118,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,M Reyes
 FIN,427,[M] Investment Analysis,03,17470,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,G Jiang
 FIN,437,[M] Cougar Investment Fund I,01,"",3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,M Reyes
-FIN,456,Risk Management,01,04119,3,"TU,TH12.10-13.25",GUC TBS,Aug 23--Dec 10,M Mcnamara
+FIN,456,Risk Management,01,04119,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,M Mcnamara
 FIN,481,[M] International Finance,01,04120,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,S Liu
 FIN,481,[M] International Finance,02,17471,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,S Liu
 FINE_ART,101,[ARTS] Introduction to Art,01,05414,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,H Meredith
@@ -2079,14 +2078,17 @@ FINE_ART,110,[ARTS] Drawing,01,06799,3,"M,W,F10.10-11.50",FNA 7024,Aug 23--Dec 1
 FINE_ART,110,[ARTS] Drawing,02,06800,3,"TU,TH13.30-16",FNA 7024,Aug 23--Dec 10,T Brown
 FINE_ART,110,[ARTS] Drawing,03,06801,3,"M,W,F13.10-14.50",FNA 7024,Aug 23--Dec 10,S Stensberg
 FINE_ART,110,[ARTS] Drawing,04,06802,3,"TU,TH9.10-11.40",FNA 7024,Aug 23--Dec 10,T Brown
-FINE_ART,110,[ARTS] Drawing,05,06803,3,"M,W,F8.10-9.50",FNA 7024,Aug 23--Dec 10,""
+FINE_ART,110,[ARTS] Drawing,05,06803,3,"M,W,F8.10-9.50",FNA 7024,Aug 23--Dec 10,S Park
 FINE_ART,110,[ARTS] Drawing,06,06804,3,"TU,TH9.10-11.40",FNA 7066,Aug 23--Dec 10,A Hunnicutt
-FINE_ART,110,[ARTS] Drawing,07,07095,3,"M,W9.10-11.40",FNA 7066,Aug 23--Dec 10,S Park
+FINE_ART,110,[ARTS] Drawing,07,07095,3,"M,W9.10-11.40",FNA 7066,Aug 23--Dec 10,""
+FINE_ART,110,[ARTS] Drawing,08,18003,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Holloman
 FINE_ART,201,[ARTS] World Art History I,01,05417,3,"M,W,F12.10-13",FNA 5062,Aug 23--Dec 10,H Meredith
 FINE_ART,303,[ARTS] Modern Art-19th Century,01,05418,3,"TU,TH12.05-13.20",FNA 5062,Aug 23--Dec 10,M Kinkel
 FINE_ART,320,Beginning Painting,01,06806,3,"TU,TH9.10-11.40",FNA 7016,Aug 23--Dec 10,S Barnett
 FINE_ART,321,Intermediate Painting,01,06823,3,"TU,TH13.25-15.55",FNA 7016,Aug 23--Dec 10,M Holloman
 FINE_ART,332,Introduction to Digital Media - Print and Web,01,06807,3,"TU,TH13.25-15.55",FNA 7086,Aug 23--Dec 10,D Janssen
+FINE_ART,337,Experimental Animation,01,18002,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,S Anderson
+FINE_ART,337,Experimental Animation,01 Lab,18005,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Anderson
 FINE_ART,340,[ARTS] Ceramics,01,06809,3,"M,W9.10-11.40",FNA 4073,Aug 23--Dec 10,A Stuart
 FINE_ART,340,[ARTS] Ceramics,02,06810,3,"TU,TH9.10-11.40",FNA 4073,Aug 23--Dec 10,I Palmer
 FINE_ART,351,Intermediate Sculpture,01,06817,3,"TU,TH9.10-11.40",FNA 4013,Aug 23--Dec 10,S Meisel
@@ -2189,17 +2191,17 @@ GERMAN,361,[COMM] German for the Professions,01,06765,3,"M,W,F14.10-15",GUC TBS,
 GERMAN,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 GLANHLTH,563,Deconstruction of Research,01,06373,3,"TU,TH10.35-11.50",VC PUL,Aug 23--Dec 10,""
 GLANHLTH,564,Topics in Biomedical Experimentation,01,07701,V,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,E Offerdahl
-H_D,101,[SSCI] Human Development Across the Lifespan,01,03585,3,"M,W,F9.10-10",TODD 133,Aug 23--Dec 10,D Handy
-H_D,101,[SSCI] Human Development Across the Lifespan,02,03586,3,"TU,TH10.35-11.50",FNA 5062,Aug 23--Dec 10,A Anderson
+H_D,101,[SSCI] Human Development Across the Lifespan,01,03585,3,"M,W,F9.10-10",TODD 133,Aug 23--Dec 10,""
+H_D,101,[SSCI] Human Development Across the Lifespan,02,03586,3,"TU,TH10.35-11.50",FNA 5062,Aug 23--Dec 10,C Ojeme
 H_D,101,[SSCI] Human Development Across the Lifespan,04,03587,3,"TU,TH12.05-13.20",TDAD 276,Aug 23--Dec 10,R Cooper
 H_D,101,[SSCI] Human Development Across the Lifespan,05,03588,3,"M,W,F12.10-13",TODD 125,Aug 23--Dec 10,J Duckworth
 H_D,101,[SSCI] Human Development Across the Lifespan,06,03589,3,"M,W,F13.10-14",TODD 125,Aug 23--Dec 10,A Anderson
-H_D,101,[SSCI] Human Development Across the Lifespan,07,03590,3,"TU,TH9.10-10.25",TODD 133,Aug 23--Dec 10,C Ojeme
+H_D,101,[SSCI] Human Development Across the Lifespan,07,03590,3,"TU,TH9.10-10.25",TODD 133,Aug 23--Dec 10,""
 H_D,101,[SSCI] Human Development Across the Lifespan,08,03591,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,C Ojeme
-H_D,200,Introduction to the Field of Human Development,01,05935,2,"M,W11.10-12",TODD 120,Aug 23--Dec 10,S Perone
+H_D,200,Introduction to the Field of Human Development,01,05935,2,"M,W11.10-12",TODD 120,Aug 23--Dec 10,R Cooper
 H_D,204,[SSCI] Family Interactions,01,03592,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,S Rusca
 H_D,204,[SSCI] Family Interactions,02,03593,3,"TU,TH12.05-13.20",TODD 120,Aug 23--Dec 10,K Rodgers
-H_D,204,[SSCI] Family Interactions,03,03594,3,"M,W,F11.10-12",TODD 125,Aug 23--Dec 10,S Rusca
+H_D,204,[SSCI] Family Interactions,03,03594,3,"M,W,F11.10-12",TODD 125,Aug 23--Dec 10,C Ojeme
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01,03595,4,"TU,TH13.30-14.45",SPRK G0045,Aug 23--Dec 10,K Collins
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02,03596,4,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,M Patton
 H_D,205,[COMM] Developing Effective Communication and Life Skills,03,03597,4,"TU,TH9.10-10.25",SPRK G0045,Aug 23--Dec 10,A Whitehall
@@ -2214,24 +2216,24 @@ H_D,205,[COMM] Developing Effective Communication and Life Skills,04 Lab,17492,0
 H_D,205,[COMM] Developing Effective Communication and Life Skills,06 Lab,06598,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,07 Lab,06763,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Hewa
 H_D,205,[COMM] Developing Effective Communication and Life Skills,08 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,M Patton
-H_D,220,Human Development Theories,01,05936,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,R Cooper
-H_D,220,Human Development Theories,03,06315,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,D Rock
-H_D,300,Child Maltreatment,01,03601,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,D Rock
+H_D,220,Human Development Theories,01,05936,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,""
+H_D,220,Human Development Theories,03,06315,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
+H_D,300,Child Maltreatment,01,03601,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,""
 H_D,302,Parent-Child Relationships,01,03042,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,M Cleveland
-H_D,302,Parent-Child Relationships,02,03850,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,A Lawrence
+H_D,302,Parent-Child Relationships,02,03850,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
 H_D,306,Child Development,01,05937,3,"M,W,F12.10-13",TODD 120,Aug 23--Dec 10,S Perone
 H_D,307,Adolescence and Emerging Adulthood,01,06879,3,"M,W,F13.10-14",CLEV 30,Aug 23--Dec 10,J Duckworth
 H_D,308,Adult Development,01,07428,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,R Weaver
 H_D,310,[M] Research Methods,01,03602,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,P Pendry
 H_D,320,[M] Resource Management,01,03603,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,N Deringer
-H_D,341,Guidance in Early Childhood Programs,01,03604,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,A Lawrence
+H_D,341,Guidance in Early Childhood Programs,01,03604,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,S Rusca
 H_D,342,Curriculum for Early Childhood Programs,02,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
 H_D,342,Curriculum for Early Childhood Programs,02 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,S Grant
-H_D,350,[DIVR] Family Diversity,01,03606,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,R Cooper
+H_D,350,[DIVR] Family Diversity,01,03606,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,""
 H_D,350,[DIVR] Family Diversity,03,07290,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,R Cooper
 H_D,360,Death and Dying,03,07291,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,R Weaver
 H_D,385,Perspectives in Human Services,01,06905,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Smith
-H_D,403,[CAPS] Families in Poverty,01,03607,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,R Weaver
+H_D,403,[CAPS] Families in Poverty,01,03607,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
 H_D,403,[CAPS] Families in Poverty,04,07921,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,D Handy
 H_D,406,Work and Family,01,06112,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Grant
 H_D,407,Student Teaching for Family and Consumer Sciences,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,D Handy
@@ -2277,7 +2279,7 @@ HBM,358,Foodservice Systems and Control,03,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,S S
 HBM,375,Introduction to Senior Living Management,01,06357,3,TU16.30-19,GUC TBS,Aug 23--Oct 10,N Swanger
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,04448,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,D Jha
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,J Rose
-HBM,384,Managed Services,01,06382,3,W15.10-18,AMS PUL,Oct 18--Dec 12,M Beattie
+HBM,384,Managed Services,01,06382,3,W15.10-18,VC PUL,Oct 18--Dec 12,M Beattie
 HBM,401,Career Management,01,04445,1,"M,W,F14.10-15",VC PUL,Aug 23--Sep 24,B Marlowe
 HBM,490,Food and Beverage Operational Analysis,01,06410,3,"TU,TH10.35-11.50",VC PUL,Aug 23--Dec 10,R Harrington
 HBM,491,Operational Analysis,01,04449,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,C Chi
@@ -2300,7 +2302,7 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,03024,3,"M,W,F10.10-11",G
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,03025,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Whalen
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,05,03026,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,E Smelyansky
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,06,03027,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,K Faunce
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,07,03028,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,K Whalen
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,07,03028,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,J Dodson
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,08,03029,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,J Dodson
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,09,03030,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,J Dodson
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,10,03031,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,R Ellis Dodson
@@ -2314,7 +2316,6 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,17,03038,3,"TU,TH10.35-11.50
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,18,03039,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,R Ellis Dodson
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,19,06023,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,K Phoenix
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,20,06024,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,B Miller
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,21,06025,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,L Musgrave
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,22,06128,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,R Ellis Dodson
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,23,06236,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,K Phoenix
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,24,06237,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,B Miller
@@ -2342,6 +2343,11 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,"","","",F13.10-14,GUC TBS,"
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,36,07790,3,"M,W9.10-10",GUC TBS,Aug 23--Dec 10,L Hatter
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,"","","",F14.10-15,GUC TBS,"",""
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,37,07791,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,""
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,38,18009,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,J Dodson
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,39,18010,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,K Whalen
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,40,18011,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,E Smelyansky
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,41,18017,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,E Smelyansky
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,42,18018,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,B Miller
 HISTORY,111,[HUM] American History Since 1877,01,03743,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,M Sutton
 HISTORY,120,[DIVR] World History I,01,03744,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,N Overtoom
 HISTORY,120,[DIVR] World History I,03,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Herzog
@@ -2350,19 +2356,19 @@ HISTORY,150,[DIVR] Peoples of the United States,01,15477,3,"TU,TH12.05-13.20",GU
 HISTORY,201,Asian Pacific American History,01,17335,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,J Streamas
 HISTORY,275,[DIVR] Introduction to East Asian Culture,01,05719,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,W Brecher
 HISTORY,300,[M] Writing about History,01,07447,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,S Herzog
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,03746,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,E Smelyansky
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,02,03747,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,J Dodson
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,03,03748,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,J Dodson
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,04,03749,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,E Smelyansky
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,05,03750,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,E Smelyansky
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,05743,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,B Miller
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,03746,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,02,03747,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,E Smelyansky
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,03,03748,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,04,03749,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,05,03750,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,""
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,05743,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,L Musgrave
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,07,05744,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,L Musgrave
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,08,05745,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,L Musgrave
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,08,05745,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,L Musgrave
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,09,06105,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,L Musgrave
 HISTORY,309,[SSCI] Place-based Digital History,01,15483,3,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,J Sanders
 HISTORY,369,[ARTS] Queer Identities in Contemporary Cultures,01,07795,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,L Heidenreich
 HISTORY,380,Introduction to Social Studies Methods,01,15481,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,R Mccoy
-HISTORY,387,World War II in Asia and the Pacific,01,07143,3,"TU,TH12.10-13.25",GUC TBS,Aug 23--Dec 10,N Kawamura
+HISTORY,387,World War II in Asia and the Pacific,01,07143,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,N Kawamura
 HISTORY,390,U.S. Military History,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
 HISTORY,395,Topics in History,01,15482,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,N Overtoom
 HISTORY,395,Topics in History,02,15484,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,R Sun
@@ -2472,6 +2478,10 @@ HORT,518,[M] Post-harvest Biology and Technology,01 Lab,04533,0,TU14.55-17.45,VP
 HORT,518,[M] Post-harvest Biology and Technology,02 Lab,04534,0,TU14.55-17.45,ARR ARR,Aug 23--Dec 10,R Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,03 Lab,07234,0,F9.10-12,VPBS 39,Aug 23--Dec 10,R Sharpe
 HORT,522,Data Analysis in Systems Biology,01,17815,3,"TU,TH9.10-10.25",VPBS 39,Aug 23--Dec 10,S Ficklin
+HORT,522,Data Analysis in Systems Biology,02,18004,3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,S Ficklin
+HORT,522,Data Analysis in Systems Biology,03,18006,3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,S Ficklin
+HORT,522,Data Analysis in Systems Biology,04,18007,3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,S Ficklin
+HORT,522,Data Analysis in Systems Biology,05,18008,3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,S Ficklin
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,01,06868,3,"M,W,F9.10-10",VC PUL,Aug 23--Dec 10,""
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,02,06870,3,"M,W,F9.10-10",VC ARR,Aug 23--Dec 10,""
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,03,06871,3,"M,W,F9.10-10",VC ARR,Aug 23--Dec 10,""
@@ -2532,7 +2542,7 @@ I_BUS,380,International Business,02,05885,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 
 I_BUS,415,[M] Law of International Trade,01,07229,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,J Smith-Hill
 I_BUS,435,International Tourism,01,06313,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,D Gursoy
 I_BUS,453,[M] International Management,01,07115,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,M Cicek
-I_BUS,470,International Trade and Finance,01,03171,3,"M,W,F13.10-14",TDAD 276,Aug 23--Dec 10,""
+I_BUS,470,International Trade and Finance,01,03171,3,"M,W,F13.10-14",TDAD 276,Aug 23--Dec 10,W King
 I_BUS,480,Advanced International Business and Leadership,01,17593,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,""
 I_BUS,482,[M] International Marketing,01,03497,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
 I_BUS,498,International Business Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Joireman
@@ -2585,12 +2595,12 @@ JAPANESE,308,Intermediate Grammar and Writing,01,05882,3,"TU,TH13.30-14.45",GUC 
 JAPANESE,499,Special Problems,01,"",V,ARRGT,"",Aug 23--Dec 10,(multiple)
 KIN_ACTV,100,Special Topics,01,05240,1,ARRGT,ARR ARR,Aug 23--Dec 10,A Eaton
 KIN_ACTV,101,Beginning Conditioning,01,05214,1,ARRGT,ARR ARR,Aug 23--Dec 10,T Barbour
-KIN_ACTV,101,Beginning Conditioning,03,05215,1,"TU,TH14.10-15",PEB 144,Aug 23--Dec 10,M Loncar
+KIN_ACTV,101,Beginning Conditioning,03,05215,1,"TU,TH14.10-15",PEB 144,Aug 23--Dec 10,E Washburn
 KIN_ACTV,102,Beginning Racquetball,01,06918,1,"M,W14.10-15",ARR ARR,Aug 23--Dec 10,A Makhani
 KIN_ACTV,102,Beginning Racquetball,02,08124,1,"M,W13.10-14",ARR ARR,Aug 23--Dec 10,A Makhani
-KIN_ACTV,103,Intermediate Racquetball,01,08069,1,"TU,TH13.10-14","",Aug 23--Dec 10,A Makhani
-KIN_ACTV,106,Self Defense,01,05216,1,"M,W12.10-13",PEB 145,Aug 23--Dec 10,M Loncar
-KIN_ACTV,106,Self Defense,02,05217,1,"TU,TH12.10-13",PEB 145,Aug 23--Dec 10,M Loncar
+KIN_ACTV,103,Intermediate Racquetball,01,08069,1,"TU,TH13.10-14",ARR ARR,Aug 23--Dec 10,A Makhani
+KIN_ACTV,106,Self Defense,01,05216,1,"M,W12.10-13",PEB 145,Aug 23--Dec 10,M Molitor
+KIN_ACTV,106,Self Defense,02,05217,1,"TU,TH12.10-13",PEB 145,Aug 23--Dec 10,M Molitor
 KIN_ACTV,107,Judo,01,05218,1,"M,W11-11.50",PEB 145,Aug 23--Dec 10,M Molitor
 KIN_ACTV,107,Judo,02,05219,1,"TU,TH11.10-12",PEB 145,Aug 23--Dec 10,M Molitor
 KIN_ACTV,108,Karate,01,05220,1,"TU,TH14.10-15",PEB 145,Aug 23--Dec 10,R Hunter
@@ -2605,16 +2615,16 @@ KIN_ACTV,112,Beginning Weight Training,01,05221,1,"M,W9.10-10",PEB 30,Aug 23--De
 KIN_ACTV,112,Beginning Weight Training,02,05222,1,ARRGT,ARR ARR,Aug 23--Dec 10,T Barbour
 KIN_ACTV,112,Beginning Weight Training,03,05223,1,"M,W10.10-11",PEB 30,Aug 23--Dec 10,D Cruz
 KIN_ACTV,112,Beginning Weight Training,04,05224,1,"M,W11.10-12",PEB 30,Aug 23--Dec 10,C Donahoo
-KIN_ACTV,112,Beginning Weight Training,05,05225,1,"M,W14.10-15",PEB 30,Aug 23--Dec 10,M Loncar
+KIN_ACTV,112,Beginning Weight Training,05,05225,1,"M,W14.10-15",PEB 30,Aug 23--Dec 10,E Washburn
 KIN_ACTV,112,Beginning Weight Training,06,05226,1,"M,W15.10-16",PEB 30,Aug 23--Dec 10,M Loncar
-KIN_ACTV,112,Beginning Weight Training,07,17964,1,"M,W13.10-14",PEB 30,Aug 23--Dec 10,M Loncar
+KIN_ACTV,112,Beginning Weight Training,07,17964,1,"M,W13.10-14",PEB 30,Aug 23--Dec 10,E Washburn
 KIN_ACTV,112,Beginning Weight Training,08,05227,1,"TU,TH9.10-10",PEB 30,Aug 23--Dec 10,D Cruz
 KIN_ACTV,112,Beginning Weight Training,09,05228,1,"TU,TH10.10-11",PEB 30,Aug 23--Dec 10,D Cruz
 KIN_ACTV,112,Beginning Weight Training,10,05229,1,"TU,TH14.10-15",PEB 30,Aug 23--Dec 10,M Loncar
 KIN_ACTV,112,Beginning Weight Training,11,05230,1,"TU,TH15.10-16",PEB 30,Aug 23--Dec 10,M Loncar
-KIN_ACTV,112,Beginning Weight Training,12,17965,1,"TU,TH12.10-13",PEB 30,Aug 23--Dec 10,M Loncar
-KIN_ACTV,112,Beginning Weight Training,13,17966,1,"TU,TH13.10-14",PEB 30,Aug 23--Dec 10,M Loncar
-KIN_ACTV,113,Intermediate Weight Training,01,06351,1,F13-15,ARR ARR,Aug 23--Dec 10,M Loncar
+KIN_ACTV,112,Beginning Weight Training,12,17965,1,"TU,TH12.10-13",PEB 30,Aug 23--Dec 10,E Washburn
+KIN_ACTV,112,Beginning Weight Training,13,17966,1,"TU,TH13.10-14",PEB 30,Aug 23--Dec 10,E Washburn
+KIN_ACTV,113,Intermediate Weight Training,01,06351,1,F13-15,ARR ARR,Aug 23--Dec 10,E Washburn
 KIN_ACTV,114,Beginning Tumbling,01,05231,1,"TU,TH10.10-11",PEB 144,Aug 23--Dec 10,M Loncar
 KIN_ACTV,115,Jogging,01,06350,1,"M,W14-15",ARR ARR,Aug 23--Dec 10,P Richards
 KIN_ACTV,118,Yoga,01,06347,1,"TU,TH7.45-9",SGYM 115,Aug 23--Dec 10,M Loncar
@@ -2630,7 +2640,7 @@ KIN_ACTV,122,Beginning Jazz Dance,01,08161,1,"M,W9.10-10",ARR ARR,Aug 23--Dec 10
 KIN_ACTV,123,Intermediate Jazz Dance,01,08162,1,"TU,TH9.10-10",ARR ARR,Aug 23--Dec 10,E Lupoi
 KIN_ACTV,124,Beginning Tennis,01,05239,1,"M,W13-14.30",ARR ARR,Aug 23--Oct 08,T Huynh
 KIN_ACTV,125,Intermediate Tennis,01,06039,1,"TU,TH13.30-15",ARR ARR,Aug 23--Oct 08,T Huynh
-KIN_ACTV,126,Modern Dance,01,05709,1,"M,W13.10-14",SGYM 115,Aug 23--Dec 10,E Lupoi
+KIN_ACTV,126,Modern Dance,01,05709,1,"TU,TH15.10-16",SGYM 115,Aug 23--Dec 10,E Lupoi
 KIN_ACTV,127,Water Aerobics,01,08183,1,"M,W14.10-15",SGYM 77,Aug 23--Dec 10,M Loncar
 KIN_ACTV,128,Beginning Swimming,01,05233,1,"TU,TH8.10-9",SGYM 77,Aug 23--Dec 10,D Mathews
 KIN_ACTV,128,Beginning Swimming,02,05234,1,"TU,TH9.10-10",SGYM 77,Aug 23--Dec 10,D Mathews
@@ -2640,7 +2650,7 @@ KIN_ACTV,130,Beginning Volleyball,01,08070,1,"M,W10.10-11",ARR ARR,Aug 23--Dec 1
 KIN_ACTV,130,Beginning Volleyball,02,08071,1,"TU,TH10.10-11",ARR ARR,Aug 23--Dec 10,M Loncar
 KIN_ACTV,132,Beginning Soccer,01,08074,1,"TU,TH9-10.30",ARR ARR,Aug 23--Oct 08,A Nathenson
 KIN_ACTV,133,Intermediate Soccer,01,08075,1,"TU,TH10.40-12.10",ARR ARR,Aug 23--Oct 08,A Nathenson
-KIN_ACTV,134,Ultimate Frisbee,01,08163,1,"TU,TH11.10-12.40",ARR ARR,Aug 23--Oct 08,M Loncar
+KIN_ACTV,134,Ultimate Frisbee,01,08163,1,"TU,TH11.10-12.40",ARR ARR,Aug 23--Oct 08,B Campbell
 KIN_ACTV,135,Beginning Fencing,01,05710,1,"M,W10.10-11",ARR ARR,Aug 23--Dec 10,A Satterlee
 KIN_ACTV,136,Intermediate Fencing,01,08077,1,"M,W9.10-10",ARR ARR,Aug 23--Dec 10,A Satterlee
 KIN_ACTV,137,Beginning Bowling,01,05236,1,M15.10-17,ZEPP ARR,Aug 23--Dec 10,M Loncar
@@ -2759,16 +2769,16 @@ MATH,100,Basic Mathematics,02,01339,2,"M,W9.10-10",THOM 1,Aug 23--Dec 10,""
 MATH,100,Basic Mathematics,03,01340,2,"M,W10.10-11",THOM 1,Aug 23--Dec 10,""
 MATH,100,Basic Mathematics,04,01341,2,"M,W11.10-12",THOM 1,Aug 23--Dec 10,""
 MATH,100,Basic Mathematics,05,01342,2,"TU,TH8.10-9",THOM 1,Aug 23--Dec 10,""
-MATH,100,Basic Mathematics,06,01343,2,"TU,TH9.10-10",THOM 1,Aug 23--Dec 10,""
-MATH,100,Basic Mathematics,07,01344,2,"TU,TH10.10-11",THOM 1,Aug 23--Dec 10,""
+MATH,100,Basic Mathematics,06,01343,2,"TU,TH9.10-10",THOM 1,Aug 23--Dec 10,J Eld
+MATH,100,Basic Mathematics,07,01344,2,"TU,TH10.10-11",THOM 1,Aug 23--Dec 10,J Eld
 MATH,100,Basic Mathematics,08,01345,2,"TU,TH11.10-12",THOM 1,Aug 23--Dec 10,""
 MATH,100,Basic Mathematics,09,01452,2,"M,W12.10-13",THOM 1,Aug 23--Dec 10,""
 MATH,100,Basic Mathematics,10,01453,2,"M,W13.10-14",THOM 1,Aug 23--Dec 10,""
 MATH,100,Basic Mathematics,12,01454,2,"TU,TH13.10-14",THOM 1,Aug 23--Dec 10,""
-MATH,103,Algebra Methods and Introduction to Functions,01,01346,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,""
-MATH,103,Algebra Methods and Introduction to Functions,02,01347,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
+MATH,103,Algebra Methods and Introduction to Functions,01,01346,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,C Pacioni
+MATH,103,Algebra Methods and Introduction to Functions,02,01347,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,C Pacioni
 MATH,103,Algebra Methods and Introduction to Functions,03,01348,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
-MATH,103,Algebra Methods and Introduction to Functions,04,01349,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
+MATH,103,Algebra Methods and Introduction to Functions,04,01349,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,C Pacioni
 MATH,103,Algebra Methods and Introduction to Functions,05,01350,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,""
 MATH,103,Algebra Methods and Introduction to Functions,06,01351,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
 MATH,103,Algebra Methods and Introduction to Functions,07,01352,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
@@ -2828,8 +2838,8 @@ MATH,171,[QUAN] Calculus I,07 Lab,01325,0,TU13.30-14.45,GUC TBS,Aug 23--Dec 10,"
 MATH,171,[QUAN] Calculus I,"","","",TH13.30-14.45,GUC TBS,"",""
 MATH,171,[QUAN] Calculus I,08 Lab,01326,0,W19.10-20.25,NEIL 101W,Aug 23--Dec 10,""
 MATH,171,[QUAN] Calculus I,"","","",F19.10-20.25,GUC TBS,"",""
-MATH,171,[QUAN] Calculus I,09 Lab,01507,0,W17.40-18.55,GUC TBS,Aug 23--Dec 10,""
-MATH,171,[QUAN] Calculus I,"","","",F17.40-18.55,NEIL 101W,"",""
+MATH,171,[QUAN] Calculus I,09 Lab,01507,0,W17.45-19,GUC TBS,Aug 23--Dec 10,""
+MATH,171,[QUAN] Calculus I,"","","",F17.45-19,NEIL 101W,"",""
 MATH,171,[QUAN] Calculus I,10 Lab,01327,0,TU12.05-13.20,NEIL 101W,Aug 23--Dec 10,""
 MATH,171,[QUAN] Calculus I,"","","",TH12.05-13.20,GUC TBS,"",""
 MATH,172,Calculus II,01,01378,4,"M,W,F9.10-10",TDAD 276,Aug 23--Dec 10,""
@@ -2846,8 +2856,8 @@ MATH,172,Calculus II,06 Lab,01482,0,TU13.30-14.45,GUC TBS,Aug 23--Dec 10,""
 MATH,172,Calculus II,"","","",TH13.30-14.45,NEIL 101W,"",""
 MATH,172,Calculus II,07 Lab,01385,0,TU10.35-11.50,GUC TBS,Aug 23--Dec 10,""
 MATH,172,Calculus II,"","","",TH10.35-11.50,NEIL 101W,"",""
-MATH,172,Calculus II,08 Lab,01386,0,TU12-13.15,GUC TBS,Aug 23--Dec 10,""
-MATH,172,Calculus II,"","","",TH12-13.15,NEIL 101W,"",""
+MATH,172,Calculus II,08 Lab,01386,0,TU12.05-13.20,GUC TBS,Aug 23--Dec 10,""
+MATH,172,Calculus II,"","","",TH12.05-13.20,NEIL 101W,"",""
 MATH,182,Honors Calculus II,01,01387,4,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
 MATH,182,Honors Calculus II,01 Lab,01388,0,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,""
 MATH,201,Mathematics for Business and Economics,01,01332,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
@@ -2900,7 +2910,7 @@ MATH,497,Instructional Practicum,01,01424,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,500,Proseminar,01,01428,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,501,Real Analysis,01,01429,3,"M,W,F11.10-12",VC PUL,Aug 23--Dec 10,""
 MATH,504,Measure and Integration,01,17510,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
-MATH,505,Abstract Algebra,01,17511,3,"TU,TH12-13.15",GUC TBS,Aug 23--Dec 10,""
+MATH,505,Abstract Algebra,01,17511,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,""
 MATH,524,Algebraic Topology,01,17512,3,"TU,TH13.25-14.40",VC PUL,Aug 23--Dec 10,""
 MATH,531,Intersections of Culture and Mathematics,01,01419,3,"TU,TH12.05-13.20",VC PUL,Aug 23--Dec 10,""
 MATH,533,Teaching College Mathematics,01,01430,1,M10.10-11,GUC TBS,Aug 23--Dec 10,""
@@ -2915,10 +2925,12 @@ MATH,564,Convex and Nonlinear Optimization,01,17514,3,"M,W,F9.10-10",GUC TBS,Aug
 MATH,570,Continuum Mechanics,01,01515,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,""
 MATH,575,Asset Pricing in Financial Engineering,01,17515,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,""
 MATH,579,Mathematical Modeling in the Biological and Health Sciences,01,01500,3,W12.10-14.40,VC PUL,Aug 23--Dec 10,E Schwartz
+MATH,581,Topics in Mathematics,03,01433,V,M17.10-18,"",Aug 23--Dec 10,L Schreyer
 MATH,588,Topics in Computational Math,01,17516,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,591,Seminar in Mathematical Biology,01,01466,1,TU16.10-17,VC PUL,Aug 23--Dec 10,""
 MATH,592,Seminar in Analysis,01,01468,1,W16.10-17,GUC TBS,Aug 23--Dec 10,""
 MATH,593,"Seminar in Combinatorics, Linear Algebra, and Number Theory",01,01465,1,M16.10-17,GUC TBS,Aug 23--Dec 10,""
+MATH,594,Mathematics Education Seminar,01,01467,1,TU16.10-17,ARR ARR,Aug 23--Dec 10,""
 MATH,597,Mathematics Instruction Seminar,01,01434,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,597,Mathematics Instruction Seminar,02,01435,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,597,Mathematics Instruction Seminar,03,01436,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -3043,7 +3055,7 @@ ME,220,Materials Laboratory,05,03630,1,M15.10-16,TODD 216,Aug 23--Dec 10,""
 ME,220,Materials Laboratory,"","","",TU12.05-14.55,ETRL 106,"",""
 ME,220,Materials Laboratory,06,03631,1,M15.10-16,TODD 216,Aug 23--Dec 10,""
 ME,220,Materials Laboratory,"","","",TH12.05-14.55,ETRL 106,"",""
-ME,241,Engineering Computations,01,17802,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,""
+ME,241,Engineering Computations,02,17803,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
 ME,301,Fundamentals of Thermodynamics,01,03633,3,"M,W,F14.10-15",GTZN 21,Aug 23--Dec 10,""
 ME,303,Fluid Mechanics,01,03634,3,"M,W,F12.10-13",TODD 133,Aug 23--Dec 10,""
 ME,304,Heat Transfer,01,05708,3,"M,W,F12.10-13",SLOA 175,Aug 23--Dec 10,""
@@ -3092,7 +3104,6 @@ ME,516,Conduction and Radiation Heat Transfer,01,06328,3,"M,W,F10.10-11",GUC TBS
 ME,530,Elasticity,01,03657,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,""
 ME,534,Mechanics of Composite Materials,01,03658,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
 ME,556,Numerical Modeling in Fluid Mechanics,01,03659,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
-ME,579,Advanced Topics in Mechanical Engineering,01,06453,V,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,""
 ME,598,Seminar,01,03660,1,TH11.10-12,ETRL 101,Aug 23--Dec 10,""
 ME,600,Special Projects or Independent Study,01,03661,V,ARRGT,"",Aug 23--Dec 10,""
 ME,700,"Master's Research, Thesis, and/or Examination",01,03662,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -3130,9 +3141,9 @@ MGTOP,215,Business Statistics,03 Lab,03779,0,TH15-16.50,TODD 330,Aug 23--Dec 10,
 MGTOP,215,Business Statistics,04 Lab,03780,0,TU15-16.50,TODD 330,Aug 23--Dec 10,""
 MGTOP,215,Business Statistics,05 Lab,03781,0,W17-18.50,TODD 330,Aug 23--Dec 10,""
 MGTOP,215,Business Statistics,06 Lab,03782,0,TH19-20.50,TODD 330,Aug 23--Dec 10,""
-MGTOP,215,Business Statistics,07 Lab,03783,0,W15.10-17,WEB ARR,Aug 23--Dec 10,T Almutairi
+MGTOP,215,Business Statistics,07 Lab,03783,0,W15.10-17,TODD 330,Aug 23--Dec 10,T Almutairi
 MGTOP,215,Business Statistics,08 Lab,03784,0,TH17.10-19,TODD 330,Aug 23--Dec 10,T Almutairi
-MGTOP,215,Business Statistics,09 Lab,03785,0,W19-20.50,WEB ARR,Aug 23--Dec 10,T Almutairi
+MGTOP,215,Business Statistics,09 Lab,03785,0,W19-20.50,TODD 330,Aug 23--Dec 10,T Almutairi
 MGTOP,340,Operations Management,01,03786,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,X Wang
 MGTOP,340,Operations Management,02,03787,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,X Wang
 MGTOP,340,Operations Management,03,03788,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,Y Xiao
@@ -3155,8 +3166,8 @@ MIS,250,Managing Information Technology,01,04047,3,"TU,TH13.30-14.45",FLMA 226,A
 MIS,250,Managing Information Technology,02,04048,3,"TU,TH10.35-11.50",TODD 116,Aug 23--Dec 10,V Compeau
 MIS,250,Managing Information Technology,03,07806,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,""
 MIS,250,Managing Information Technology,04,07801,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,V Compeau
-MIS,322,[M] Enterprise Business Process Analysis,01,17420,3,"TU,TH14.50-16.05",TODD 203,Aug 23--Dec 10,V Compeau
-MIS,322,[M] Enterprise Business Process Analysis,02,17422,3,"TU,TH12-13.15",TODD 203,Aug 23--Dec 10,V Compeau
+MIS,322,[M] Enterprise Business Process Analysis,01,17420,3,"TU,TH14.55-16.10",TODD 203,Aug 23--Dec 10,V Compeau
+MIS,322,[M] Enterprise Business Process Analysis,02,17422,3,"TU,TH12.05-13.20",TODD 203,Aug 23--Dec 10,V Compeau
 MIS,325,Enterprise Business Development,01,04049,3,"M,W,F11.10-12",TODD 203,Aug 23--Dec 10,M Featherman
 MIS,325,Enterprise Business Development,03,07807,3,"M,W,F10.10-11",TODD 203,Aug 23--Dec 10,""
 MIS,372,[M] Data Management,01,04050,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,M Carter
@@ -3206,15 +3217,15 @@ MKTG,600,Special Projects or Independent Study,01,04507,V,ARRGT,ARR ARR,Aug 23--
 MKTG,702,"Master's Special Problems, Directed Study, and/or Examination",01,04508,V,ARRGT,ARR ARR,Aug 23--Dec 10,E Howlett
 MKTG,800,"Doctoral Research, Dissertation, and/or Examination",01,04509,V,ARRGT,ARR ARR,Aug 23--Dec 10,E Howlett
 MPS,515,Seminar in Molecular Plant Sciences,01,03052,1,W12.10-14,BRYN 305,Aug 23--Dec 10,A Smertenko
-MPS,570,Advanced Topics in Molecular Plant Sciences,01,03393,1,TH16.10-17,GUC TBS,Aug 23--Dec 10,L Bartley
+MPS,570,Advanced Topics in Molecular Plant Sciences,01,03393,1,TH16.20-17.10,GUC TBS,Aug 23--Dec 10,L Bartley
 MPS,574,Protein Biotechnology,01,17643,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,J Peters
 MPS,587,Advanced Topics in Plant Biochemistry,01,17644,1,"TU,TH10.35-11.50",GUC TBS,Sep 27--Oct 29,""
 MPS,800,"Doctoral Research, Dissertation and/or Examination",01,03394,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 MSE,201,Materials Engineering Fundamentals,01,06329,3,"M,W,F11.10-12",CARP 102,Aug 23--Dec 10,""
-MSE,241,Engineering Computations,01,17804,3,"M,W,F8.10-9",GUC TBS,Aug 23--Dec 10,""
+MSE,241,Engineering Computations,02,17805,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
 MSE,302,Electronic Materials,01,04475,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,""
 MSE,316,Thermodynamics and Kinetics of Materials,01,04476,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
-MSE,320,[M] Materials Structure - Properties Lab,01,04477,3,M13.10-14,GUC TBS,Aug 23--Dec 10,""
+MSE,320,[M] Materials Structure - Properties Lab,01,04477,3,M16.10-17,GUC TBS,Aug 23--Dec 10,""
 MSE,320,[M] Materials Structure - Properties Lab,02 Lab,06087,0,"TU,TH13.30-16.20",ETRL 150,Aug 23--Dec 10,""
 MSE,332,Polymeric Materials,01,04479,3,"M,W,F10.10-11",SLOA 175,Aug 23--Dec 10,""
 MSE,406,Biomaterials,01,04480,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,S Bose
@@ -3351,18 +3362,18 @@ MUS,428,[ARTS] Opera Workshop,01,07459,1,"M,W15.10-17",KIMB 115,Aug 23--Dec 10,J
 MUS,431,[ARTS] Concert Choir,01,04216,1,"M,TU,W,TH14.10-15",KIMB B0042,Aug 23--Dec 10,D Luethi
 MUS,432,[ARTS] University Singers,01,08182,1,"M,W,F13.10-14",KIMB 115,Aug 23--Dec 10,D Luethi
 MUS,434,[ARTS] Symphony Orchestra,01,04219,1,"TU,TH15.10-17",KIMB B0048,Aug 23--Dec 10,D Pham
-MUS,435,Chamber Ensembles,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
-MUS,435,Chamber Ensembles,02,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,C Wilson
-MUS,435,Chamber Ensembles,03,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,B Edwards
-MUS,435,Chamber Ensembles,04,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,D Turnbull
-MUS,435,Chamber Ensembles,05,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,H Young
-MUS,435,Chamber Ensembles,07,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,A Agulay
-MUS,435,Chamber Ensembles,08,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
-MUS,435,Chamber Ensembles,09,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Miller
-MUS,435,Chamber Ensembles,10,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Scott
-MUS,435,Chamber Ensembles,11,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,Y Roh
-MUS,435,Chamber Ensembles,12,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,D Luethi
-MUS,435,Chamber Ensembles,13,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,R Boden
+MUS,435,Chamber Ensembles,01,04221,1,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
+MUS,435,Chamber Ensembles,02,07280,1,ARRGT,ARR ARR,Aug 23--Dec 10,C Wilson
+MUS,435,Chamber Ensembles,03,07281,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Edwards
+MUS,435,Chamber Ensembles,04,07282,1,ARRGT,ARR ARR,Aug 23--Dec 10,D Turnbull
+MUS,435,Chamber Ensembles,05,07283,1,ARRGT,ARR ARR,Aug 23--Dec 10,H Young
+MUS,435,Chamber Ensembles,07,07285,1,ARRGT,ARR ARR,Aug 23--Dec 10,A Agulay
+MUS,435,Chamber Ensembles,08,07286,1,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
+MUS,435,Chamber Ensembles,09,07287,1,ARRGT,ARR ARR,Aug 23--Dec 10,S Miller
+MUS,435,Chamber Ensembles,10,07288,1,ARRGT,ARR ARR,Aug 23--Dec 10,S Scott
+MUS,435,Chamber Ensembles,11,07289,1,ARRGT,ARR ARR,Aug 23--Dec 10,Y Roh
+MUS,435,Chamber Ensembles,12,07622,1,ARRGT,ARR ARR,Aug 23--Dec 10,D Luethi
+MUS,435,Chamber Ensembles,13,08100,1,ARRGT,ARR ARR,Aug 23--Dec 10,R Boden
 MUS,436,[ARTS] Symphonic Band,01,04223,1,"M,W,F14.10-15",KIMB B0048,Aug 23--Dec 10,T Bennefield
 MUS,437,[ARTS] Symphonic Wind Ensemble,01,04224,1,"M,W15.10-17",KIMB B0048,Aug 23--Dec 10,D Pham
 MUS,438,[ARTS] Jazz-Lab Band,01,04226,1,"M,TU,W,TH12.10-13",KIMB B0048,Aug 23--Dec 10,G Yasinitsky
@@ -3417,17 +3428,17 @@ MUS,522,Graduate Recital,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,K Mccarthy
 MUS,528,[ARTS] Opera Workshop,01,07460,1,"M,W15.10-17",KIMB 115,Aug 23--Dec 10,J Wieck
 MUS,531,[ARTS] Concert Choir,01,04217,1,"M,TU,W,TH14.10-15",KIMB B0042,Aug 23--Dec 10,D Luethi
 MUS,534,[ARTS] Symphony Orchestra,01,04220,1,"TU,TH15.10-17",KIMB B0048,Aug 23--Dec 10,D Pham
-MUS,535,Chamber Ensembles,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
-MUS,535,Chamber Ensembles,02,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,C Wilson
-MUS,535,Chamber Ensembles,03,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,B Edwards
-MUS,535,Chamber Ensembles,04,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,D Turnbull
-MUS,535,Chamber Ensembles,05,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,H Young
-MUS,535,Chamber Ensembles,07,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,A Agulay
-MUS,535,Chamber Ensembles,08,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
-MUS,535,Chamber Ensembles,09,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Miller
-MUS,535,Chamber Ensembles,10,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Scott
-MUS,535,Chamber Ensembles,11,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,Y Roh
-MUS,535,Chamber Ensembles,12,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,D Luethi
+MUS,535,Chamber Ensembles,01,04222,1,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
+MUS,535,Chamber Ensembles,02,07306,1,ARRGT,ARR ARR,Aug 23--Dec 10,C Wilson
+MUS,535,Chamber Ensembles,03,07307,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Edwards
+MUS,535,Chamber Ensembles,04,07308,1,ARRGT,ARR ARR,Aug 23--Dec 10,D Turnbull
+MUS,535,Chamber Ensembles,05,07435,1,ARRGT,ARR ARR,Aug 23--Dec 10,H Young
+MUS,535,Chamber Ensembles,07,07437,1,ARRGT,ARR ARR,Aug 23--Dec 10,A Agulay
+MUS,535,Chamber Ensembles,08,07438,1,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
+MUS,535,Chamber Ensembles,09,07439,1,ARRGT,ARR ARR,Aug 23--Dec 10,S Miller
+MUS,535,Chamber Ensembles,10,07440,1,ARRGT,ARR ARR,Aug 23--Dec 10,S Scott
+MUS,535,Chamber Ensembles,11,07441,1,ARRGT,ARR ARR,Aug 23--Dec 10,Y Roh
+MUS,535,Chamber Ensembles,12,07623,1,ARRGT,ARR ARR,Aug 23--Dec 10,D Luethi
 MUS,537,[ARTS] Symphonic Wind Ensemble,01,04225,1,"M,W15.10-17",KIMB B0048,Aug 23--Dec 10,D Pham
 MUS,538,[ARTS] Jazz-Lab Band,01,04227,1,"M,TU,W,TH12.10-13",KIMB B0048,Aug 23--Dec 10,G Yasinitsky
 MUS,538,[ARTS] Jazz-Lab Band,02,04229,1,"M,W,F13.10-14",KIMB B0048,Aug 23--Dec 10,G Yasinitsky
@@ -3443,7 +3454,12 @@ MUS,580,Instrumental Music Education,01,17404,3,"TU,TH9.35-10.50",KIMB B0048,Aug
 MUS,591,Voice Pedagogy,01,04241,2,"M,W,F11.10-12",KIMB 245,Aug 23--Dec 10,A Agulay
 MUS,600,Special Projects or Independent Study,01,04270,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Agulay
 MUS,700,"Master's Research, Thesis, and/or Examination",01,04272,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Scott
-MUS,702,"Master's Special Problems, Directed Study, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+MUS,702,"Master's Special Problems, Directed Study, and/or Examination",01,04273,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Miller
+MUS,702,"Master's Special Problems, Directed Study, and/or Examination",02,17997,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Blasco
+MUS,702,"Master's Special Problems, Directed Study, and/or Examination",03,17998,V,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
+MUS,702,"Master's Special Problems, Directed Study, and/or Examination",04,17999,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Wieck
+MUS,702,"Master's Special Problems, Directed Study, and/or Examination",05,18000,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Mccarthy
+MUS,702,"Master's Special Problems, Directed Study, and/or Examination",06,18001,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
 NEUROSCI,105,[BSCI] Meet Your Brain,01,07416,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,S Gizerian
 NEUROSCI,301,Foundations of Neuroscience I,01,03391,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,R Mclaughlin
 NEUROSCI,305,"Neurons, Genes, and Behavior",01,03392,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,K Delevich
@@ -3489,9 +3505,9 @@ PHIL,499,Special Problems,01,"",V,ARRGT,"",Aug 23--Dec 10,(multiple)
 PHIL,501,Advanced Formal Logic,01,01565,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,M Goldsby
 PHIL,564,Topics in Biomedical Experimentation,01,01569,V,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,E Offerdahl
 PHIL,600,Special Projects or Independent Study,01,"",V,ARRGT,"",Aug 23--Dec 10,(multiple)
-PHYSICS,101,[PSCI] General Physics,01,01576,3,"M,W,F11.10-12",WEBS 16,Aug 23--Dec 10,""
-PHYSICS,101,[PSCI] General Physics,02,01577,3,"M,W,F14.10-15",WEBS 16,Aug 23--Dec 10,""
-PHYSICS,102,General Physics,01,01592,3,"M,W,F15.10-16",WEBS 16,Aug 23--Dec 10,""
+PHYSICS,101,[PSCI] General Physics,01,01576,3,"M,W,F11.10-12",WEBS 16,Aug 23--Dec 10,A Rasmussen
+PHYSICS,101,[PSCI] General Physics,02,01577,3,"M,W,F14.10-15",WEBS 16,Aug 23--Dec 10,B Collins
+PHYSICS,102,General Physics,01,01592,3,"M,W,F15.10-16",WEBS 16,Aug 23--Dec 10,M Allen
 PHYSICS,111,[PSCI] General Physics Lab,01,15493,1,TU9.10-12,WEBS 232,Aug 23--Dec 10,""
 PHYSICS,111,[PSCI] General Physics Lab,02,15494,1,TU9.10-12,WEBS 222,Aug 23--Dec 10,""
 PHYSICS,111,[PSCI] General Physics Lab,03,15495,1,TU12.10-15,WEBS 232,Aug 23--Dec 10,""
@@ -3515,12 +3531,12 @@ PHYSICS,112,General Physics Lab II,04,17603,1,W12.10-15,WEBS 241,Aug 23--Dec 10,
 PHYSICS,112,General Physics Lab II,06,17605,1,W18.10-21,WEBS 241,Aug 23--Dec 10,""
 PHYSICS,112,General Physics Lab II,07,17606,1,TH12.10-15,WEBS 241,Aug 23--Dec 10,""
 PHYSICS,112,General Physics Lab II,08,17607,1,TH9.10-12,WEBS 241,Aug 23--Dec 10,""
-PHYSICS,150,[PSCI] Physics and Your World,01,01677,3,"TU,TH11.10-13",WEBS 741,Aug 23--Dec 10,""
-PHYSICS,188,First-Year Seminar I,01,01598,1,TU16.20-17.10,GUC TBS,Aug 23--Dec 10,""
-PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,01599,3,"M,W,F12.10-13",WEBS 16,Aug 23--Dec 10,""
-PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,02,01600,3,"TU,TH14.55-16.10",WEBS 16,Aug 23--Dec 10,""
-PHYSICS,202,Physics for Scientists and Engineers II,01,01625,3,"M,W,F16.10-17",WEBS 16,Aug 23--Dec 10,""
-PHYSICS,206,Physics for Scientists and Engineers II - Honors,01,01632,5,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
+PHYSICS,150,[PSCI] Physics and Your World,01,01677,3,"TU,TH11.10-13",WEBS 741,Aug 23--Dec 10,A Rasmussen
+PHYSICS,188,First-Year Seminar I,01,01598,1,TU16.20-17.10,GUC TBS,Aug 23--Dec 10,M Allen
+PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,01599,3,"M,W,F12.10-13",WEBS 16,Aug 23--Dec 10,N Cerruti
+PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,02,01600,3,"TU,TH14.55-16.10",WEBS 16,Aug 23--Dec 10,M Mccluskey
+PHYSICS,202,Physics for Scientists and Engineers II,01,01625,3,"M,W,F16.10-17",WEBS 16,Aug 23--Dec 10,J Mcmahon
+PHYSICS,206,Physics for Scientists and Engineers II - Honors,01,01632,5,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,Y Gu
 PHYSICS,206,Physics for Scientists and Engineers II - Honors,01 Lab,01633,0,TU18.10-21,WEBS 441,Aug 23--Dec 10,""
 PHYSICS,206,Physics for Scientists and Engineers II - Honors,"","","",TH17.45-19.35,GUC TBS,"",""
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,17156,1,TU9.10-12,WEBS 432,Aug 23--Dec 10,""
@@ -3550,26 +3566,25 @@ PHYSICS,212,Physics Lab for Scientists and Engineers II,05,17614,1,W12.10-15,WEB
 PHYSICS,212,Physics Lab for Scientists and Engineers II,06,17615,1,W18.10-21,WEBS 441,Aug 23--Dec 10,""
 PHYSICS,212,Physics Lab for Scientists and Engineers II,07,17616,1,TH9.10-12,WEBS 441,Aug 23--Dec 10,""
 PHYSICS,212,Physics Lab for Scientists and Engineers II,08,17617,1,TH12.10-15,WEBS 441,Aug 23--Dec 10,""
-PHYSICS,303,Modern Physics I,01,01634,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,320,Mechanics,01,01635,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,322,[PSCI] Sound Waves and Music,01,01680,4,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,""
+PHYSICS,303,Modern Physics I,01,01634,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,A Rasmussen
+PHYSICS,320,Mechanics,01,01635,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,F Gittes
+PHYSICS,322,[PSCI] Sound Waves and Music,01,01680,4,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,G Worthey
 PHYSICS,322,[PSCI] Sound Waves and Music,01 Lab,01681,0,M16.10-19,WEBS 249,Aug 23--Dec 10,""
-PHYSICS,341,Electricity and Magnetism I,01,01636,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
+PHYSICS,341,Electricity and Magnetism I,01,01636,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,N Cerruti
 PHYSICS,443,Optics,01,01639,3,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,450,Introduction to Quantum Mechanics,01,01640,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,466,Biological Physics,01,01641,3,"M,W,F16.10-17",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,490,[M] Undergraduate Thesis,01,01643,1,M13.10-14,GUC TBS,Aug 23--Dec 10,""
+PHYSICS,450,Introduction to Quantum Mechanics,01,01640,3,"M,W,F14.10-15",GUC TBS,Aug 23--Dec 10,P Engels
+PHYSICS,466,Biological Physics,01,01641,3,"M,W,F16.10-17",GUC TBS,Aug 23--Dec 10,F Gittes
+PHYSICS,490,[M] Undergraduate Thesis,01,01643,1,M13.10-14,GUC TBS,Aug 23--Dec 10,S Tomsovic
 PHYSICS,499,Special Problems,01,01644,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHYSICS,501,Graduate Seminar,01,01575,1,TU16.10-17,GUC TBS,Aug 23--Dec 10,""
-PHYSICS,521,Classical Mechanics I,01,01645,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,542,Electrodynamics,01,01646,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,545,Nonlinear Optics,01,17468,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,550,Quantum Theory I,01,01647,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,561,Atomic and Molecular Physics,01,01678,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,563,Physics of the Solid State,01,01668,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,566,Biological Physics,01,01642,3,"M,W,F16.10-17",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,571,Methods of Theoretical Physics,01,01648,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,""
-PHYSICS,581,Advanced Topics in Physics,02,01665,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,""
+PHYSICS,521,Classical Mechanics I,01,01645,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,M Forbes
+PHYSICS,542,Electrodynamics,01,01646,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,P Marston
+PHYSICS,545,Nonlinear Optics,01,17468,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,M Kuzyk
+PHYSICS,550,Quantum Theory I,01,01647,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,S Tomsovic
+PHYSICS,563,Physics of the Solid State,01,01668,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,G Collins
+PHYSICS,566,Biological Physics,01,01642,3,"M,W,F16.10-17",GUC TBS,Aug 23--Dec 10,F Gittes
+PHYSICS,571,Methods of Theoretical Physics,01,01648,3,"M,W,F9.10-10",GUC TBS,Aug 23--Dec 10,N Cerruti
+PHYSICS,581,Advanced Topics in Physics,02,01665,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,M Forbes
 PHYSICS,590,Seminar,01,01649,1,TH16.10-17,WEBS 17,Aug 23--Dec 10,""
 PHYSICS,600,Special Projects or Independent Study,01,01651,V,ARRGT,ARR ARR,Aug 23--Dec 10,B Collins
 PHYSICS,700,"Master's Research, Thesis, and/or Examination",01,01654,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -3581,7 +3596,6 @@ PL_P,403,Advanced Cropping Systems,03,"",3,"TU,TH13.30-14.45",VC ARR,Aug 23--Dec
 PL_P,403,Advanced Cropping Systems,04,"",3,"TU,TH13.30-14.45",VC ARR,Aug 23--Dec 10,C Neely
 PL_P,429,General Plant Pathology,01,03707,3,"M,W8.10-9",JSNH 343,Aug 23--Dec 10,H Pappu
 PL_P,429,General Plant Pathology,01 Lab,03708,0,W15.10-17,JSNH 343,Aug 23--Dec 10,H Pappu
-PL_P,429,General Plant Pathology,02 Lab,"",0,W13.10-15,JSNH 343,Aug 23--Dec 10,H Pappu
 PL_P,499,Special Problems,01,"",V,ARRGT,"",Aug 23--Dec 10,""
 PL_P,503,Advanced Cropping Systems,01,04296,3,"TU,TH13.30-14.45",JSNH 204,Aug 23--Dec 10,C Neely
 PL_P,503,Advanced Cropping Systems,02,04298,3,"TU,TH13.30-14.45",VC ARR,Aug 23--Dec 10,C Neely
@@ -3683,7 +3697,7 @@ POL_S,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--De
 POL_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,01703,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 POL_S,800,"Doctoral Research, Dissertation, and/or Examination",01,01704,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PREV_SCI,510,Multilevel Modeling II: Advanced Multilevel Models for Longitudinal Data,01,15488,3,"TU,TH15.10-16.30",VC PUL,Aug 23--Dec 10,M Cleveland
-PREV_SCI,511,Introduction to Prevention Science,01,05629,3,M14.10-17,VC PUL,Aug 23--Dec 10,E Weybright
+PREV_SCI,511,Introduction to Prevention Science,01,05629,3,M14.10-17,VC PUL,Aug 23--Dec 10,S Perone
 PREV_SCI,513,Research Methods in Prevention Science,01,05599,3,TU15.10-18,VC PUL,Aug 23--Dec 10,S Waters
 PREV_SCI,535,Effective Prevention Strategies I,01,07471,3,M17.10-20,VC PUL,Aug 23--Dec 10,J Lanigan
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,03583,V,ARRGT,"",Aug 23--Dec 10,(multiple)
@@ -3742,6 +3756,7 @@ PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,01822,3,"T
 PSYCH,514,Psychometrics,01,01823,3,"TU,TH14.55-16.10",VC PUL,Aug 23--Dec 10,G Burns
 PSYCH,517,Clinical Skills,01,01927,1,TU10.35-11.50,GUC TBS,Aug 23--Dec 10,M Kirchhoff
 PSYCH,523,Health Psychology,01,17574,3,M13.10-16,VC PUL,Aug 23--Dec 10,R Magnan
+PSYCH,533,Adult Psychopathology,01,01824,3,W13.10-16,GUC TBS,Aug 23--Dec 10,D Marcus
 PSYCH,535,Personality Assessment and Diagnosis,01,01825,3,TH13.30-16.10,GUC TBS,Aug 23--Dec 10,M Kirchhoff
 PSYCH,537,Psychology Clinic Assessment Practicum,01,01928,3,M14.10-17,GUC TBS,Aug 23--Dec 10,T Barry
 PSYCH,542,Evidence-Based Therapy for Children and Adolescents,01,17571,3,W13.10-16,GUC TBS,Aug 23--Dec 10,M Gartstein
@@ -3826,16 +3841,16 @@ SOC,245,Sociology of Sport,01,04757,3,"TU,TH10.35-11.50",TODD 216,Aug 23--Dec 10
 SOC,245,Sociology of Sport,03,06475,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,""
 SOC,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,04039,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,H Ramos
 SOC,305,Degree and Careers,01,07961,1,W15.10-16,GUC TBS,Aug 23--Dec 10,S Whitley
-SOC,310,Development of Social Theory,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOC,310,Development of Social Theory,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Horne
 SOC,317,[M] Research Methods in Sociology,01,04761,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,D Bugden
 SOC,320,Introduction to Social Research,01,04762,3,"M,W,F15.10-16",GUC TBS,Aug 23--Dec 10,""
 SOC,321,Quantitative Techniques in Sociology I,02,07825,4,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,M Amorim
 SOC,321,Quantitative Techniques in Sociology I,"","","",F15.10-16,GUC TBS,"",""
-SOC,321,Quantitative Techniques in Sociology I,03,07826,4,"TU,TH13.25-14.40",GUC TBS,Aug 23--Dec 10,M Amorim
+SOC,321,Quantitative Techniques in Sociology I,03,07826,4,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,M Amorim
 SOC,321,Quantitative Techniques in Sociology I,"","","",F11.10-12,GUC TBS,"",""
-SOC,321,Quantitative Techniques in Sociology I,04,07827,4,"TU,TH13.25-14.40",GUC TBS,Aug 23--Dec 10,M Amorim
+SOC,321,Quantitative Techniques in Sociology I,04,07827,4,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,M Amorim
 SOC,321,Quantitative Techniques in Sociology I,"","","",F12.10-13,GUC TBS,"",""
-SOC,321,Quantitative Techniques in Sociology I,05,07828,4,"TU,TH13.25-14.40",GUC TBS,Aug 23--Dec 10,M Amorim
+SOC,321,Quantitative Techniques in Sociology I,05,07828,4,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,M Amorim
 SOC,321,Quantitative Techniques in Sociology I,"","","",F10.10-11,GUC TBS,"",""
 SOC,332,[SSCI] Sustainability and Society,01,04763,3,"M,W,F12.10-13",GUC TBS,Aug 23--Dec 10,D Bugden
 SOC,334,Medical Sociology,01,07161,3,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,J Denney
@@ -3844,7 +3859,7 @@ SOC,341,Inclusive Workplace Leadership,01,06750,3,TU16.05-18.35,VC PUL,Aug 23--D
 SOC,350,Social Psychology,01,03796,3,"M,W,F14.10-15",CUE 203,Aug 23--Dec 10,""
 SOC,351,[DIVR] The Family,01,04765,3,"TU,TH10.35-11.50",GUC TBS,Aug 23--Dec 10,J Sherman
 SOC,360,Social Deviance,02,17557,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
-SOC,361,[DIVR] Criminology,01,06403,3,"TU,TH13.25-14.40",GUC TBS,Aug 23--Dec 10,J Schwartz
+SOC,361,[DIVR] Criminology,01,06403,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,J Schwartz
 SOC,362,Juvenile Delinquency,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOC,367,Juvenile Justice and Corrections,01,04717,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,A Kraft-Duley
 SOC,368,Drugs and Society,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
@@ -3854,7 +3869,7 @@ SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Wh
 SOC,497,[CAPS] [M] Capstone Research Practicum,01,07080,3,"TU,TH10.35-11.50",VC PUL,Aug 23--Dec 10,A Maclean
 SOC,498,Research Assistantship,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOC,499,Special Problems,01,"",V,ARRGT,"",Aug 23--Dec 10,(multiple)
-SOC,523,Qualitative Methods Practicum,01,17566,3,TH14.50-17.20,GUC TBS,Aug 23--Dec 10,J Sherman
+SOC,523,Qualitative Methods Practicum,01,17566,3,TH14.55-17.25,GUC TBS,Aug 23--Dec 10,J Sherman
 SOC,542,"Social Stratification: Class, Race and Gender Inequalities",01,06379,3,W14.50-17.20,VC PUL,Aug 23--Dec 10,A Maclean
 SOC,591,The Sociology Profession,01,04772,1,M15.10-16,GUC TBS,Aug 23--Dec 10,J Kmec
 SOC,593,Special Topics in Sociology,01,05958,V,TU14.55-17.45,VC PUL,Aug 23--Dec 10,J Schwartz
@@ -3957,7 +3972,7 @@ SOE,475,Groundwater,01 Lab,06052,0,TH9.10-12,WEBS 1126,Aug 23--Dec 10,T Ginn
 SOE,476,Biology and Ecology of Pacific Salmon,01,07456,3,"TU,TH16.25-17.40",VC PUL,Aug 23--Dec 10,J Mcintyre
 SOE,492,Special Topics,01,04425,V,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,A King
 SOE,492,Special Topics,02,07000,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Swanson
-SOE,492,Special Topics,03,17751,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Swanson
+SOE,492,Special Topics,03,17751,V,F13-15,VC PUL,Aug 23--Dec 10,M Swanson
 SOE,492,Special Topics,04,17895,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Steiner
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A King
 SOE,495,Undergraduate Internship,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
@@ -4064,9 +4079,11 @@ SPANISH,208,Spanish for Heritage Speakers,01,"",4,"M,W,F11.10-12",GUC TBS,Aug 23
 SPANISH,305,Intermediate Conversation II,01,05144,1,M16.10-17,GUC TBS,Aug 23--Dec 10,M Previto
 SPANISH,305,Intermediate Conversation II,02,05908,1,TU16.20-17.35,GUC TBS,Aug 23--Dec 10,M Previto
 SPANISH,306,Intermediate Reading and Translation,01,05145,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
+SPANISH,306,Intermediate Reading and Translation,02,07529,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
 SPANISH,307,Intermediate Speaking and Listening,01,05146,3,"M,W,F11.10-12",GUC TBS,Aug 23--Dec 10,J Perez Guerrero
 SPANISH,308,Intermediate Grammar and Writing,01,07221,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,C Shull
-SPANISH,311,[ARTS] Latin American Film,01,05911,3,"TU,TH13.25-14.40",GUC TBS,Aug 23--Dec 10,V Navarro-Daniels
+SPANISH,311,[ARTS] Latin American Film,01,05911,3,"TU,TH13.30-14.45",GUC TBS,Aug 23--Dec 10,V Navarro-Daniels
+SPANISH,321,[DIVR] Latin American Cultures,02,18025,3,"TU,TH17.45-19",WEB ARR,Aug 23--Dec 10,""
 SPANISH,362,Spanish for Health Professions,01,05996,3,"M,W,F10.10-11",GUC TBS,Aug 23--Dec 10,S Lopez-Lopez
 SPANISH,407,Advanced Speaking and Listening,01,05149,3,"M,W,F13.10-14",GUC TBS,Aug 23--Dec 10,S Lopez-Lopez
 SPANISH,450,[CAPS] [M] Seminar in Spanish Studies - Themes,01,05150,3,"TU,TH9.10-10.25",GUC TBS,Aug 23--Dec 10,S Ginsburg
@@ -4146,7 +4163,7 @@ STAT,212,[QUAN] Introduction to Statistical Methods,16 Lab,01988,0,TH16.10-18,NE
 STAT,212,[QUAN] Introduction to Statistical Methods,17 Lab,01989,0,M10.10-12,NEIL 120,Aug 23--Dec 10,""
 STAT,212,[QUAN] Introduction to Statistical Methods,18 Lab,01990,0,F10.10-12,NEIL 120,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,01,01962,3,"M,W,F11.10-12",TODD 130,Aug 23--Dec 10,""
-STAT,360,Probability and Statistics,02,01963,3,"TU,TH14.50-16.05",GUC TBS,Aug 23--Dec 10,""
+STAT,360,Probability and Statistics,02,01963,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,03,02012,3,"TU,TH10.35-11.50",VC PUL,Aug 23--Dec 10,""
 STAT,370,Introductory Statistics for Engineers,01,01964,3,"TU,TH9.10-10.25",TODD 216,Aug 23--Dec 10,""
 STAT,370,Introductory Statistics for Engineers,02,01999,3,"M,W,F9.10-10",BRYN 305,Aug 23--Dec 10,""
@@ -4210,8 +4227,8 @@ TCH_LRN,415,Student Teaching,01,05542,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,415,Student Teaching,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,415,Student Teaching,01 Lab,05543,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,415,Student Teaching,02 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
-TCH_LRN,417,Coding for Teachers,01,07952,3,W13.10-16,EDAD 216,Aug 23--Dec 10,""
-TCH_LRN,419,Instructional Media Production,01,06064,3,M13.10-16,EDAD 216,Aug 23--Dec 10,""
+TCH_LRN,417,Coding for Teachers,01,07952,3,W13.10-16,EDAD 216,Aug 23--Dec 10,J Egbert
+TCH_LRN,419,Instructional Media Production,01,06064,3,M13.10-16,EDAD 216,Aug 23--Dec 10,J Egbert
 TCH_LRN,433,Middle Level Mathematics Methods,01,17749,3,"M,W16.10-18",EDAD 112,Sep 27--Dec 10,""
 TCH_LRN,445,Elementary Methods of Educational Technology,01,"",2,TU12.10-14,EDAD 216,Aug 23--Dec 10,S Skavdahl
 TCH_LRN,445,Elementary Methods of Educational Technology,02,"",2,TH14.10-16,EDAD 216,Aug 23--Dec 10,S Skavdahl
@@ -4230,8 +4247,8 @@ TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,01,"",3,F9.10-11,G
 TCH_LRN,499,Special Problems,01,05557,V,ARRGT,ARR ARR,Aug 23--Dec 10,T Akmal
 TCH_LRN,499,Special Problems,02,06685,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,01,05539,3,TU17.45-20.30,VC PUL,Aug 23--Dec 10,E Johnson
-TCH_LRN,511,Theoretical Foundations of Education Research,01,06401,3,TU13.10-16,CLEV 63,Aug 23--Dec 10,J Egbert
-TCH_LRN,517,Coding for Teachers,01,07953,3,W13.10-16,EDAD 216,Aug 23--Dec 10,""
+TCH_LRN,511,Theoretical Foundations of Education Research,01,06401,3,TU13.10-16,CLEV 63,Aug 23--Dec 10,""
+TCH_LRN,517,Coding for Teachers,01,07953,3,W13.10-16,EDAD 216,Aug 23--Dec 10,J Egbert
 TCH_LRN,519,Instructional Media Production I,01,06923,3,M13.10-16,ARR ARR,Aug 23--Dec 10,J Egbert
 TCH_LRN,521,Topics in Education,01,05657,3,TH16.10-19,VC PUL,Aug 23--Dec 10,K Lesseig
 TCH_LRN,522,Topics in Education,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,T Akmal
@@ -4266,7 +4283,7 @@ UNIV,104,First-Year Success Seminar,21,"",2,"TU,TH14.55-16.10",GUC TBS,Aug 23--D
 UNIV,104,First-Year Success Seminar,22,"",2,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,L Meyers
 UNIV,104,First-Year Success Seminar,23,08272,2,"TU,TH12.05-13.20",GUC TBS,Aug 23--Dec 10,O Martinez
 UNIV,104,First-Year Success Seminar,24,17493,2,"M,W15.10-16",GUC TBS,Aug 23--Dec 10,P Panday Shukla
-UNIV,104,First-Year Success Seminar,25,17495,2,TH14.50-17.20,GUC TBS,Aug 23--Dec 10,C Skinner
+UNIV,104,First-Year Success Seminar,25,17495,2,TH14.55-16.35,GUC TBS,Aug 23--Dec 10,C Skinner
 UNIV,104,First-Year Success Seminar,26,17496,2,"M,W15.10-16",GUC TBS,Aug 23--Dec 10,R Pruneda
 UNIV,104,First-Year Success Seminar,27,17497,2,"TU,TH14.10-15",GUC TBS,Aug 23--Dec 10,M Jeffries
 UNIV,104,First-Year Success Seminar,28,"",2,"M,W15.10-16",GUC TBS,Aug 23--Dec 10,R Acuna-Luna
@@ -4288,10 +4305,9 @@ UNIV,250,Success in College and Beyond,09,"",1,"TU,TH13.30-14.20",GUC TBS,Aug 23
 UNIV,250,Success in College and Beyond,10,"",1,"TU,TH9.10-10",GUC TBS,Aug 23--Oct 22,""
 UNIV,250,Success in College and Beyond,11,"",1,"M,W10.10-11",GUC TBS,Aug 23--Oct 22,""
 UNIV,250,Success in College and Beyond,12,07646,1,"TU,TH15.10-16",GUC TBS,Oct 18--Dec 10,A Petersen
-UNIV,295,Introduction to Models of Leadership,01,06260,2,TU12.10-13.25,GUC TBS,Aug 23--Dec 10,S Mckay
+UNIV,295,Introduction to Models of Leadership,01,06260,2,TU12.05-13.20,GUC TBS,Aug 23--Dec 10,S Mckay
 UNIV,295,Introduction to Models of Leadership,03,"",2,"M,W10.10-11",GUC TBS,Aug 23--Dec 10,C Ross
 UNIV,301,Career Exploration and Professional Development,01,03961,1,TU10.35-11.50,GUC TBS,Aug 23--Dec 10,M Kiel
-UNIV,301,Career Exploration and Professional Development,02,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,C Ben-Yisrael
 UNIV,301,Career Exploration and Professional Development,04,"",1,"M,W11.10-12",ARR ARR,Oct 18--Dec 10,M Kiel
 UNIV,304,Transfer Student Seminar,01,07312,2,"M,W15.10-16",ARR ARR,Aug 23--Dec 10,H Reyes
 UNIV,304,Transfer Student Seminar,02,07418,2,"M,W14.10-15",WEB ARR,Aug 23--Dec 10,H Reyes
@@ -4311,6 +4327,7 @@ UNIV,497,Peer Leadership,19,"",V,"W,F15.10-16",GUC TBS,Aug 23--Dec 10,A Bretthau
 UNIV,497,Peer Leadership,21,07571,V,ARRGT,ARR ARR,Aug 23--Oct 22,B Dueben
 UNIV,497,Peer Leadership,22,07572,V,ARRGT,ARR ARR,Aug 23--Oct 22,L Beat
 UNIV,497,Peer Leadership,23,"",V,ARRGT,ARR ARR,Aug 23--Oct 22,C Ben-Yisrael
+UNIV,497,Peer Leadership,24,"",V,"TU,TH16.20-17.35",GUC TBS,Oct 18--Dec 10,""
 VET_CLIN,499,Special Problems,01,03565,V,ARRGT,ARR ARR,Aug 23--Dec 10,C Ragle
 VET_CLIN,565,Oncology Journal Seminar,01,03566,1,ARRGT,ARR ARR,Aug 23--Dec 10,J Fidel
 VET_CLIN,570,Special Topics,01,03567,1,ARRGT,ARR ARR,Aug 23--Dec 10,C Ragle
@@ -4505,8 +4522,7 @@ VET_MED,635,Preventive Medicine at Canine Center,02,07507,V,ARRGT,"",Aug 23--Dec
 VET_MED,636,Equine Medicine Elective,01,05043,V,ARRGT,"",Aug 23--Dec 10,J Gold
 VET_MED,637,Equine Surgery Elective,01,05044,V,ARRGT,"",Aug 23--Dec 10,K Farnsworth
 VET_MED,638,Equine Advanced Lab,01,05045,V,ARRGT,"",Aug 23--Dec 10,(multiple)
-VET_MED,650,Anesthesia Case Management,01,05046,V,TU12.05-12.55,GUC TBS,Aug 23--Dec 10,M Suarez
-VET_MED,650,Anesthesia Case Management,"","","",F12.05-12.55,GUC TBS,"",""
+VET_MED,650,Anesthesia Case Management,01,05046,V,"TU,F12.05-12.55",GUC TBS,Aug 23--Dec 10,M Suarez
 VET_MED,651,Pharmacy and Therapeutics,01,05047,1,ARRGT,"",Aug 23--Dec 10,J Meyer
 VET_MED,652,Technical and Diagnostic Radiology,01,05048,V,ARRGT,"",Aug 23--Dec 10,(multiple)
 VET_MED,653,Imaging Services Elective,01,05049,V,ARRGT,"",Aug 23--Dec 10,G Roberts
@@ -4571,6 +4587,7 @@ VIT_ENOL,113,Introduction to Vines and Wines,01,03880,3,"TU,TH13.30-14.45",VC PU
 VIT_ENOL,313,Viticulture,01,04516,3,"TU,TH14.55-16.10",VC PUL,Aug 23--Dec 10,B Bondada
 VIT_ENOL,313,Viticulture,02,06202,3,"TU,TH14.55-16.10",VC ARR,Aug 23--Dec 10,B Bondada
 VIT_ENOL,399,Professional Work Experience,01,04523,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Snider
+VIT_ENOL,409,Seminar in Viticulture and Enology,01,04525,1,W15.10-16,VC PUL,Aug 23--Dec 10,B Bondada
 VIT_ENOL,435,Chemistry and Biochemistry of Fruit and Wine,01,06869,3,"M,W,F9.10-10",VC PUL,Aug 23--Dec 10,""
 VIT_ENOL,465,Wine Microbiology and Processing,01,04352,3,"M,W,F12.10-13",VC PUL,Aug 23--Dec 10,C Edwards
 VIT_ENOL,466,Wine Microbiology and Processing Laboratory,01,17528,1,F14.10-17,FSHN 140,Aug 23--Dec 10,C Edwards

@@ -98,6 +98,8 @@ CAS,497,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,508,Concrete Durability,01,10819,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Shi
 CE,572,Advanced Pavement Design and Analysis,01,17796,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Wen
 CES,271,[HUM] Native Music of North America,01,10460,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Parkhurst
+CHEM,101,[PSCI] Introduction to Chemistry,01,11145,4,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
+CHEM,101,[PSCI] Introduction to Chemistry,01 Lab,11146,0,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
 CHEM,103,Concepts in Chemistry,01,10960,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 CHEM,103,Concepts in Chemistry,01 Lab,11135,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 COM,101,[SSCI] Media and Society,01,10679,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Taflinger
@@ -186,26 +188,25 @@ E_E,491,Performance of Power Systems,01,10956,3,"TU,TH9.10-10.25","",Aug 23--Dec
 E_E,492,Renewable Energy Sources,01,"",3,"M,W,F14.10-15","",Aug 23--Dec 10,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,03,17719,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
-E_E,492,Renewable Energy Sources,03 Lab,17734,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
 E_E,493,Protection of Power Systems I,01,10423,3,"TU,TH16.20-17.35","",Aug 23--Dec 10,S Lotfifard
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Kejariwal
 E_E,526,High Voltage Overhead Transmission Lines,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,R Olsen
 E_E,536,Power Systems Economics and Electricity Markets,01,10676,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Srivastava
 E_E,701,Master's Independent Capstone Project and /or Examination,01,10726,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_M,430,Applications of Constraints Management,01,"",3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
-E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,"",Aug 23--Dec 10,L Magpili
+E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
-E_M,485,Design of Experiments,01,"",3,M18.15-20.45,"",Aug 23--Dec 10,D Paulus
+E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,"",Aug 23--Dec 10,R Crick
 E_M,522,Leading People and Organizations,01,10278,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_M,522,Leading People and Organizations,02,10885,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_M,530,Applications of Constraints Management,01,10412,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Magpili
-E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,"",Aug 23--Dec 10,L Magpili
-E_M,564,Project Management,01,10282,3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
-E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,"",Aug 23--Dec 10,A Squires
+E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
+E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
+E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,WEB ARR,Aug 23--Dec 10,A Squires
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,11112,3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,W17.15-19.45,"",Aug 23--Dec 10,W Gray
-E_M,585,Design of Experiments,01,10476,3,M18.15-20.45,"",Aug 23--Dec 10,D Paulus
+E_M,585,Design of Experiments,01,10476,3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10684,V,F17.15-19.45,"",Aug 23--Dec 10,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,10284,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,101,[SSCI] Fundamentals of Microeconomics,02,10982,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
@@ -222,7 +223,7 @@ ECONS,335,[QUAN] Business Finance Economics,01,10672,3,ARRGT,ARR ARR,Aug 23--Dec
 ECONS,352,Business Management Economics,01,10668,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,425,Industrial Organization,01,10845,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,451,Advanced Food Economics and Marketing,01,10957,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-ECONS,490,[CAPS] [M] Economics Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ECONS,490,[CAPS] [M] Economics Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T Nadreau
 ECONS,497,Economics Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,E Jessup
 ECONS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Gibson
 ECONS,505,Economics for Agricultural Decision Making,01,10289,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Gallardo
@@ -275,6 +276,7 @@ FIN,527,Investment Analysis,07,17667,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FIN,527,Investment Analysis,08,17668,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FINE_ART,101,[ARTS] Introduction to Art,01,10321,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Doty
 FINE_ART,103,[ARTS] 3D Art and Design,01,11136,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Palmer
+FINE_ART,110,[ARTS] Drawing,01,18020,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Holloman
 FOR_LANG,101,[HUM] Introduction to the World of Languages,01,10325,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 FOR_LANG,110,[DIVR] Introduction to Global Film,01,10897,3,ARRGT,ARR ARR,Dec 18--Jan 09,V Navarro-Daniels
 H_D,101,[SSCI] Human Development Across the Lifespan,01,10483,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Seeley
@@ -284,14 +286,14 @@ H_D,205,[COMM] Developing Effective Communication and Life Skills,01,10255,4,ARR
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02,10256,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,10257,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,10258,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Strey
-H_D,220,Human Development Theories,01,10484,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+H_D,220,Human Development Theories,01,10484,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Hernandez
 H_D,300,Child Maltreatment,01,10259,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Bice
 H_D,301,Family Stress and Coping,01,10260,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Ewest
 H_D,302,Parent-Child Relationships,01,10261,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Ashford
 H_D,306,Child Development,01,10264,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Ashford
 H_D,307,Adolescence and Emerging Adulthood,01,10486,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,310,[M] Research Methods,01,10263,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
-H_D,341,Guidance in Early Childhood Programs,01,10265,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Lawrence
+H_D,341,Guidance in Early Childhood Programs,01,10265,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,342,Curriculum for Early Childhood Programs,01,10266,4,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
 H_D,342,Curriculum for Early Childhood Programs,01 Lab,10267,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Grant
 H_D,350,[DIVR] Family Diversity,01,10268,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Bice
@@ -383,9 +385,9 @@ MBIOS,578,Bioinformatics,01 Lab,10233,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MBIOS,583,Professional Skills Seminar,01,10236,1,ARRGT,ARR ARR,Aug 23--Dec 10,B Hubbard
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,10863,V,ARRGT,"",Aug 23--Dec 10,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,10238,V,ARRGT,ARR ARR,Aug 23--Dec 10,N Mccabe
-ME,303,Fluid Mechanics,01,"",3,"M,W,F8.30-9.20",WEB ARR,Aug 23--Dec 10,B Asgharian Dastenaie
+ME,303,Fluid Mechanics,01,"",3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,B Asgharian Dastenaie
 ME,304,Heat Transfer,01,17596,3,"M,W,F10.10-11","",Aug 23--Dec 10,B Asgharian Dastenaie
-ME,313,Engineering Analysis,01,"",3,"M,W13-13.50","",Aug 23--Dec 10,S Chien
+ME,313,Engineering Analysis,01,"",3,"M,F14.10-15","",Aug 23--Dec 10,S Chien
 ME,313,Engineering Analysis,01 Lab,10436,0,W13-16,"",Aug 23--Dec 10,S Chien
 ME,316,Mechanical Component Analysis and Design,01,"",3,"M,W,F14.10-15","",Aug 23--Dec 10,M Pitts
 ME,415,[M] Engineering Design,01,"",3,"M,W,F12.10-13","",Aug 23--Dec 10,M Pitts
@@ -530,7 +532,7 @@ SOC,101,[SSCI] Introduction to Sociology,01,10406,3,ARRGT,ARR ARR,Aug 23--Dec 10
 SOC,101,[SSCI] Introduction to Sociology,02,11026,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 SOC,102,[SSCI] Social Problems,01,10413,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10943,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SOC,310,Development of Social Theory,01,10809,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOC,310,Development of Social Theory,01,10809,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Horne
 SOC,317,[M] Research Methods in Sociology,01,11025,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,351,[DIVR] The Family,02,17973,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 SOC,352,Youth and Society,01,10761,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
@@ -543,6 +545,8 @@ SOC,418,Human Issues in International Development,01,10248,3,ARRGT,ARR ARR,Aug 2
 SOC,430,Society and Technology,02,17560,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Rotolo
 SOC,493,Internship,01,10409,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Whitley
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01,17985,4,ARRGT,ARR ARR,Aug 23--Dec 10,B Walker
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,17986,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Walker
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,10208,4,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,10209,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
 SOE,210,[PSCI] Earth's History and Evolution,01,10387,4,ARRGT,ARR ARR,Aug 23--Dec 10,""

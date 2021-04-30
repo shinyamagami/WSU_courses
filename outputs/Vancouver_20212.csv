@@ -1,4 +1,5 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
+ACCTG,498,Accounting Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,C Latham
 ANTH,101,[DIVR] Introduction to Anthropology,01,05482,3,M11-14.20,WEB ARR,May 10--Jun 18,N Hess
 ANTH,201,[HUM] Art and Society,01,07886,3,W11-11.30,WEB ARR,Jun 21--Jul 30,K Dhawan
 ANTH,309,[SSCI] Cultural Ecology,01,05483,3,ARRGT,ARR ARR,May 10--Jun 18,B Hewlett
@@ -27,15 +28,14 @@ COM,300,[M] Writing in Communication,02,08498,3,ARRGT,ARR ARR,Jun 07--Jul 16,E C
 COM,471,[CAPS] Stereotypes in Communication,01,05475,3,ARRGT,ARR ARR,Jun 21--Jul 30,N Iyer
 COM,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,N Iyer
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,N Iyer
-CRM_J,420,[M] Criminal Procedure,01,08415,3,"M,W11-14.20",WEB ARR,May 10--Jun 18,C Long
 CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,L Collins-Levy
 CS,700,"Master's Research, Thesis, and/or Examination",01,05846,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,05509,3,"TU,TH11-14.20",WEB ARR,Jun 21--Jul 30,W Luers
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,05510,3,"M,W14.30-17.50",WEB ARR,May 10--Jun 18,B Grell
-DTC,209,Introduction to Data Visualization,01,08519,3,"M,W11-14.20",WEB ARR,May 10--Jun 18,R Snyder
+DTC,209,Introduction to Data Visualization,01,08519,3,"M,W11-14.20",WEB ARR,May 10--Jun 18,""
 DTC,336,Multimedia Design,01,05513,3,"TU,TH14.30-17.50",WEB ARR,May 10--Jun 18,B Grell
 DTC,354,Digital Storytelling,01,05514,3,"TU,TH14.30-17.50",WEB ARR,Jun 21--Jul 30,W Luers
-DTC,475,[DIVR] Digital Diversity,01,08494,3,F9-14,WEB ARR,May 10--Jun 18,R Snyder
+DTC,475,[DIVR] Digital Diversity,01,08494,3,F9-14,WEB ARR,May 10--Jun 18,S Anderson
 ECE,700,"Master's Research, Thesis, and/or Examination",01,05831,V,ARRGT,ARR ARR,May 10--Jul 30,F Zhao
 ED_AD,522,Topics in Education,01,"",3,TU17.45-20.30,WEB ARR,May 10--Jul 30,K Rodela
 ED_AD,561,Introduction to College Student Development,01,"",3,TU17.10-20.30,WEB ARR,May 10--Jul 30,K Huggins
@@ -50,12 +50,15 @@ ENGLISH,340,Science Fiction Film,01,05487,3,"TU,TH11-14.20",WEB ARR,May 10--Jun 
 ENGLISH,340,Science Fiction Film,01 Lab,05488,0,ARRGT,ARR ARR,May 10--Jun 18,C Siegel
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,05486,3,"M,W14.30-16.05",WEB ARR,May 10--Jun 18,W Olson
 ENGLISH,494,[CAPS] [M] Advanced Topics in Literature,01,07869,3,"TU,TH11-14.20",WEB ARR,Jun 21--Jul 30,C Ratzlaff
+ENGLISH,498,Internship,01,05841,V,ARRGT,ARR ARR,May 10--Jul 30,J Phelps
+FIN,498,Finance Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,Y He
 FINE_ART,307,[ARTS] [M] The Arts of Renaissance Europe,01,06731,3,"TU,TH11-14.20",WEB ARR,Jun 21--Jul 30,N Thrush
 FOR_LANG,101,[HUM] Introduction to the World of Languages,01,05476,3,ARRGT,ARR ARR,May 10--Jun 18,J Grenier-Winther
 FOR_LANG,130,[HUM] Global Literature in Translation,01,05477,3,TU18-20.55,WEB ARR,Jun 21--Jul 30,C Gulam
 H_D,101,[SSCI] Human Development Across the Lifespan,01,05501,3,"TU,TH11-13",WEB ARR,Jun 21--Jul 30,S Reisz
 H_D,403,[CAPS] Families in Poverty,01,05500,3,TU11-12.30,WEB ARR,May 10--Jun 18,Y Sano
 H_D,406,Work and Family,01,05834,3,W12-13.30,WEB ARR,May 10--Jun 18,A Jackson
+H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,Y Sano
 H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Rolerkite
 H_D,600,Special Projects or Independent Study,01,06730,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,05479,3,ARRGT,ARR ARR,Jun 21--Jul 30,J Losavio
@@ -63,23 +66,23 @@ HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,05480,3
 HUMANITY,130,[HUM] Global Literature in Translation,01,05478,3,TU18-20.55,WEB ARR,Jun 21--Jul 30,C Gulam
 I_BUS,380,International Business,01,05463,3,"M,W18-21.20",WEB ARR,May 10--Jun 18,J Simmons
 KINES,536,Methods of Health and Physical Education,01,05445,2,"TU,TH16.30-18.45",WEB ARR,May 10--Jun 18,M Byrne
-MATH,103,Algebra Methods and Introduction to Functions,01,05517,3,"M,TU,W,TH9.15-10.50",WEB ARR,Jun 21--Jul 30,""
+MATH,103,Algebra Methods and Introduction to Functions,01,05517,3,"M,TU,W,TH9.15-10.50",WEB ARR,Jun 21--Jul 30,P Krouss
 MATH,106,College Algebra,01,05518,3,"M,TU,W,TH12.45-14.20",WEB ARR,May 10--Jun 18,J Valenciano Ibarra
 MATH,108,Trigonometry,01,05519,2,"M,TU,W,TH11-12.05",WEB ARR,May 10--Jun 18,O Rumyantseva
-MATH,108,Trigonometry,02,05520,2,"M,TU,W,TH11-12.05",WEB ARR,Jun 21--Jul 30,""
+MATH,108,Trigonometry,02,05520,2,"M,TU,W,TH11-12.05",WEB ARR,Jun 21--Jul 30,L Sotomayor
 MATH,110,Mathematics Acceleration,01,05787,1,ARRGT,ARR ARR,May 10--Jul 30,G Salos
-MATH,140,[QUAN] Calculus for Life Scientists,01,07328,4,"M,W,F12.45-14.20",WEB ARR,Jun 07--Jul 30,""
+MATH,115,Math 105 Tutorial,01,"",2,ARRGT,ARR ARR,May 10--Jul 30,G Salos
+MATH,140,[QUAN] Calculus for Life Scientists,01,07328,4,"M,W,F12.45-14.20",WEB ARR,Jun 07--Jul 30,O Rumyantseva
 MATH,140,[QUAN] Calculus for Life Scientists,01 Lab,07329,0,"TU,TH12.50-15.20",WEB ARR,Jun 07--Jul 30,""
-MATH,171,[QUAN] Calculus I,01,07532,4,"M,W,F9.15-10.50",WEB ARR,Jun 07--Jul 30,""
+MATH,171,[QUAN] Calculus I,01,07532,4,"M,W,F9.15-10.50",WEB ARR,Jun 07--Jul 30,G Salos
 MATH,171,[QUAN] Calculus I,01 Lab,07533,0,"TU,TH10.10-12.40",WEB ARR,Jun 07--Jul 30,""
-MATH,172,Calculus II,01,07534,4,"M,W,F9.15-10.50",WEB ARR,Jun 07--Jul 30,""
+MATH,172,Calculus II,01,07534,4,"M,W,F9.15-10.50",WEB ARR,Jun 07--Jul 30,D Hill
 MATH,172,Calculus II,01 Lab,07535,0,"TU,TH10.10-12.40",WEB ARR,Jun 07--Jul 30,""
 MATH,201,Mathematics for Business and Economics,01,06734,3,"M,TU,W,TH9.15-10.50",WEB ARR,May 10--Jun 18,J Sung
 MATH,202,[QUAN] Calculus for Business and Economics,01,05525,3,"M,TU,W,TH9.15-10.50",WEB ARR,Jun 21--Jul 30,""
 MATH,220,Introductory Linear Algebra,01,05524,2,"M,TU,W,TH12.45-13.50",WEB ARR,May 10--Jun 18,S Black
-MATH,273,Calculus III,01,05523,2,"M,TU,W,TH11-12.05",WEB ARR,May 10--Jun 18,S Black
 MATH,303,[M] Geometry for the Middle School Teacher,01,05516,3,"TU,TH16.15-19.35",WEB ARR,May 10--Jun 18,C Chappelle
-MATH,315,Differential Equations,01,05522,3,"M,TU,W,TH9.15-10.50",WEB ARR,Jun 21--Jul 30,""
+MATH,315,Differential Equations,01,05522,3,"M,TU,W,TH9.15-10.50",WEB ARR,Jun 21--Jul 30,S Black
 MATH,440,Applied Mathematics I: PDEs,01,08460,3,"M,TU,W,TH12-13.15",WEB ARR,Jun 21--Jul 30,S Lapin
 MATH,448,Numerical Analysis,01,08459,3,"M,TU,W,TH,F10.10-11.25",WEB ARR,May 10--Jun 18,S Lapin
 MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,08484,V,ARRGT,ARR ARR,May 10--Jul 30,C Cooper
@@ -96,6 +99,7 @@ MED_CLIN,536,Obstetrics and Gynecology - Subinternship,01,"",4,ARRGT,ARR ARR,Jun
 MED_CLIN,537,Emergency Medicine - Emergency Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
 MED_CLIN,538,Core - Rural Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
 MED_CLIN,539,Core - Underserved Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Kaczmark
 MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
 MED_CLIN,543,Clinical Rotation - Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
@@ -108,8 +112,12 @@ MED_CLIN,551,Clinical Rotation - Pathology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,
 MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,553,Pediatrics - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,554,Virtual - Telemedicine: Principles of Practice,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,555,Clinical Rotation - Telemedicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,556,Virtual - Basic Medical Spanish,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,F Williams
 MED_CLIN,560,Family Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
 MED_CLIN,561,Internal Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,562,Obstetrics and Gynecology - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
@@ -157,6 +165,7 @@ MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Jun 28--Aug
 MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,589,Clinical Rotation - Transition to Residency,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,597,Virtual - Virtual Clerkship,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
@@ -164,6 +173,8 @@ MED_CLIN,599,Special Projects,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
+MED_CLIN,627,Psychiatry - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
 MGMT,301,Principles of Management and Organization,01,05467,3,"M,W18-21.20",WEB ARR,Jun 21--Jul 30,R Howell
 MGMT,401,Leading People and Organizations,01,05469,3,"M,W18-21.20",WEB ARR,Jun 21--Jul 30,N Pionk
 MGMT,485,[M] Negotiation Skills,01,05464,3,"M,W18-21.20",WEB ARR,May 10--Jun 18,N Pionk
@@ -212,12 +223,12 @@ NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,WEB ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01,05553,3,TH11.10-14,WEB ARR,May 20--May 20,""
+NURS,553,Organizational Systems and Leadership II,01,05553,3,TH11.10-14,WEB ARR,May 20--May 20,C Warburton
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,WEB ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01 Lab,05569,0,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,553,Organizational Systems and Leadership II,01 Lab,05569,0,ARRGT,ARR ARR,May 10--Jul 30,C Warburton
 NURS,557,DNP Project I,01,05555,3,TH14.10-17,WEB ARR,May 20--May 20,A Hunter
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,WEB ARR,"",""
@@ -255,10 +266,8 @@ PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,05574,V,ARRGT
 SOC,101,[SSCI] Introduction to Sociology,01,05470,3,"M,W10.10-12.40",WEB ARR,May 10--Jul 02,A Inlow
 SOE,700,"Master's Research, Thesis, and/or Examination",01,05840,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,05836,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
-SPANISH,101,First Semester,01,05503,4,"TU,TH7.30-10.50",WEB ARR,May 10--Jun 18,M Lee-Lopez
-SPANISH,101,First Semester,"","","",TU11-11.50,WEB ARR,"",""
-SPANISH,102,Second Semester,01,05504,4,"TU,TH7.30-10.50",WEB ARR,Jun 21--Jul 30,C Gulam
-SPANISH,102,Second Semester,"","","",TU11-11.50,WEB ARR,"",""
+SPANISH,101,First Semester,01,05503,4,"TU,TH7.45-10.45",WEB ARR,May 10--Jun 18,M Lee-Lopez
+SPANISH,102,Second Semester,01,05504,4,"TU,TH7.45-10.45",WEB ARR,Jun 21--Jul 30,C Gulam
 SPANISH,105,Elementary Conversation,01,05647,1,TH11-11.50,WEB ARR,May 10--Jun 18,M Mcmichael
 SPANISH,105,Elementary Conversation,02,05648,1,TH11-11.50,WEB ARR,Jun 21--Jul 30,M Mcmichael
 SPANISH,111,[ARTS] Latin American Film,01,07576,3,TU14.30-17.50,WEB ARR,May 10--Jun 18,M Lee-Lopez

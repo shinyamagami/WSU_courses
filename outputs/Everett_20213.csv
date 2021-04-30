@@ -75,6 +75,7 @@ HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,A Se
 HBM,358,Foodservice Systems and Control,02,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,S Seo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,14375,3,"TU,TH10.35-11.50","",Aug 23--Dec 10,J Sandstrom
 HBM,384,Managed Services,01,14378,3,W15.10-18,"",Oct 18--Dec 12,M Beattie
+HBM,401,Career Management,01,14357,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,470,Living Management Operations Analysis,01,17650,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Swanger
 HBM,491,Operational Analysis,01,14324,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Chen
 HBM,494,[M] Service Operations Management,02,14392,3,TH13.30-16,"",Aug 23--Oct 10,S Seo
@@ -95,13 +96,16 @@ ME,405,Thermal Systems Design,01,14341,3,"M,W,F10.10-11","",Aug 23--Dec 10,G Tau
 ME,415,[M] Engineering Design,01,14339,3,"M,W,F13.10-14","",Aug 23--Dec 10,X Bi
 ME,461,Introduction to Nuclear Engineering,01,14348,3,"TU,TH16.20-17.35","",Aug 23--Dec 10,R Stout
 ME,466,Fundamentals of Engineering Examination Review,01,14415,1,TU15.10-16,"",Aug 23--Dec 10,""
+ME,481,Control Systems,01,17994,3,"M,W,F11.10-12","",Aug 23--Dec 10,M Luo
 ME,483,Topics in Mechanical Engineering,01,15250,V,"W,F16.15-17.30","",Aug 23--Dec 10,G Taub
+ME,581,Control Systems,01,18024,3,"M,W,F11.10-12","",Aug 23--Dec 10,M Luo
 MGMT,301,Principles of Management and Organization,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
 MGMT,401,Leading People and Organizations,02,17660,3,"M,W10.35-11.50","",Aug 23--Dec 10,T Tripp
 MGTOP,340,Operations Management,02,17659,3,W18-20.15,"",Aug 23--Dec 10,""
 MIS,325,Enterprise Business Development,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
 MIS,372,[M] Data Management,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,M Carter
 MKTG,360,Marketing,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,T Kokta
+SHS,201,American Sign Language I,01,14472,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
 SOIL_SCI,101,Organic Gardening and Farming,01,14689,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,201,[BSCI] Soil: A Living System,01,14382,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Lahue
 SOIL_SCI,368,Introduction to Geographic Information Systems,01,14690,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
@@ -113,6 +117,6 @@ STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,17922,0,M12.10-14,"",
 STAT,360,Probability and Statistics,01,14395,3,"TU,TH10.35-11.50","",Aug 23--Dec 10,H Li
 STAT,370,Introductory Statistics for Engineers,01,14416,3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
 STAT,419,Introduction to Multivariate Statistics,01,14911,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-STAT,435,[M] Statistical Modeling for Data Analytics,02,14992,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,14993,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,435,[M] Statistical Modeling for Data Analytics,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 STAT,443,Applied Probability,01,"",3,"TU,TH9.10-10.25","",Aug 23--Dec 10,""

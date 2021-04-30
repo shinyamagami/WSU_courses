@@ -116,6 +116,7 @@ MED_CLIN,536,Obstetrics and Gynecology - Subinternship,01,"",4,ARRGT,ARR ARR,Jun
 MED_CLIN,537,Emergency Medicine - Emergency Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
 MED_CLIN,538,Core - Rural Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
 MED_CLIN,539,Core - Underserved Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Kaczmark
 MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
 MED_CLIN,543,Clinical Rotation - Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
@@ -131,6 +132,9 @@ MED_CLIN,553,Pediatrics - Subspecialties,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C 
 MED_CLIN,553,Pediatrics - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,554,Virtual - Telemedicine: Principles of Practice,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,555,Clinical Rotation - Telemedicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,556,Virtual - Basic Medical Spanish,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,F Williams
 MED_CLIN,560,Family Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
 MED_CLIN,561,Internal Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,562,Obstetrics and Gynecology - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
@@ -178,6 +182,7 @@ MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Jun 28--Aug
 MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,589,Clinical Rotation - Transition to Residency,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,597,Virtual - Virtual Clerkship,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
@@ -185,6 +190,8 @@ MED_CLIN,599,Special Projects,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
+MED_CLIN,627,Psychiatry - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
 MGMT,301,Principles of Management and Organization,01,07873,3,"TU,TH11-14.20",WEB ARR,May 10--Jun 18,J Bravo
 MIT,501,Learning and Development in School and Community Contexts,01,07427,3,"TU,TH,F17-20.20",WEB ARR,May 10--Jun 18,E Johnson
 MIT,502,Assessment for Teaching and Learning,01,07878,3,"M,W14.30-17.50",WEB ARR,Jun 21--Jul 30,J Firestone
@@ -286,7 +293,7 @@ TCH_LRN,497,Topics in In-Service Education,02,08462,3,"TU,TH9-12.20",WEB ARR,Jun
 TCH_LRN,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,E Johnson
 TCH_LRN,528,Literacy within the Disciplines,01,07429,3,"M,TU,W,TH12-14.30",WEB ARR,Jul 05--Jul 30,P Provinsal
 TCH_LRN,563,Teaching Concepts of Probability and Statistics,01,04299,3,"M,W13.30-16.40",WEB ARR,Jun 21--Jul 30,M Haberlach
-TCH_LRN,591,Research Internship in Math/Science Education,01,01116,V,ARRGT,ARR ARR,May 10--Jul 30,J Firestone
+TCH_LRN,591,Research Internship in Math/Science Education,01,01116,V,ARRGT,ARR ARR,May 10--Jul 30,J Morrison
 TCH_LRN,600,Special Projects or Independent Study,01,01107,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,01086,V,ARRGT,ARR ARR,May 10--Jul 30,J Morrison
 VIT_ENOL,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Snider
