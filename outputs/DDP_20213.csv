@@ -304,7 +304,7 @@ H_D,406,Work and Family,01,10271,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Grant
 H_D,408,Advanced Adolescent Development,01,10968,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Seeley
 H_D,410,[M] Public Policy Issues in Human Development,01,10272,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Garcia
 H_D,445,Early Childhood Professional Preparation Seminar,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
-H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Lanigan
 H_D,497,Professional Preparation Seminar,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Hewa
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -333,7 +333,7 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,10204,3,ARRGT,ARR ARR,Aug
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10855,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Weller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,12247,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Harrington
 HISTORY,110,[HUM] American History to 1877,01,10827,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
-HISTORY,120,[DIVR] World History I,01,10869,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Herzog
+HISTORY,120,[DIVR] World History I,01,10869,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HISTORY,120,[DIVR] World History I,02,10828,3,ARRGT,ARR ARR,Dec 18--Jan 09,S Herzog
 HISTORY,300,[M] Writing about History,01,10811,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Thigpen
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,10205,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -403,6 +403,7 @@ MGMT,485,[M] Negotiation Skills,01,17226,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppa
 MGMT,485,[M] Negotiation Skills,02,17288,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppard
 MGMT,491,[CAPS] Strategic Management,01,10346,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
 MGMT,491,[CAPS] Strategic Management,02,10504,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
+MGMT,491,[CAPS] Strategic Management,03,10862,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
 MGMT,588,Management of Innovation,01,"",3,ARRGT,ARR ARR,Aug 23--Sep 26,V Kolde
 MGMT,588,Management of Innovation,02,"",3,ARRGT,ARR ARR,Aug 23--Sep 26,V Kolde
 MGMT,588,Management of Innovation,03,"",3,ARRGT,ARR ARR,Aug 23--Sep 26,V Kolde
@@ -480,6 +481,7 @@ MUS,363,[DIVR] Women in Music,02,10852,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
 MUS,553,Seminar in Music Theory,01,10404,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Blasco
 MUS,560,Introduction to Graduate Studies in Music,01,10405,2,ARRGT,ARR ARR,Aug 23--Dec 10,K Mccarthy
 MUS,566,Seminar in Music History,01,10731,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
+MUS,597,Performance Studies for Distance Learners,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,D Luethi
 PHIL,530,Bioethics,01,10360,2,ARRGT,ARR ARR,Aug 23--Dec 10,W Kabasenche
 PHIL,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 POL_S,101,[SSCI] American National Government,01,10361,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -560,7 +562,7 @@ SOIL_SCI,101,Organic Gardening and Farming,01,10382,3,ARRGT,ARR ARR,Aug 23--Dec 
 SOIL_SCI,201,[BSCI] Soil: A Living System,01,10383,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Lahue
 SOIL_SCI,368,Introduction to Geographic Information Systems,01,10384,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
 SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,10385,0,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
-SOIL_SCI,443,[M] Soil Management for Sustainable and Organic Farming Systems,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
+SOIL_SCI,443,[M] Soil Management for Sustainable and Organic Farming Systems,01,10683,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,479,Organic Farm and Garden Field Management,01,10386,2,ARRGT,ARR ARR,Aug 23--Dec 10,B Jaeckel
 SPANISH,101,First Semester,01,10216,4,ARRGT,"",Aug 23--Dec 10,M Previto
 SPANISH,306,Intermediate Reading and Translation,01,17327,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
@@ -577,12 +579,14 @@ SPEC_ED,509,Early Childhood Special Education,01,10395,3,ARRGT,ARR ARR,Aug 23--D
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,10397,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,12310,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+STAT,212,[QUAN] Introduction to Statistical Methods,01,10421,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,10454,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
-STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
+STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Li
+STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
+STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
 TCH_LRN,415,Student Teaching,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,415,Student Teaching,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,499,Special Problems,01,10734,V,ARRGT,ARR ARR,Aug 23--Dec 10,""

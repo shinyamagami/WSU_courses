@@ -1,7 +1,6 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 ACCTG,230,Introduction to Financial Accounting,01,02742,3,ARRGT,ARR ARR,Jun 28--Aug 15,N Pearson
 ACCTG,230,Introduction to Financial Accounting,02,02757,3,ARRGT,ARR ARR,Jun 28--Aug 15,N Pearson
-ACCTG,231,Introduction to Managerial Accounting,01,02708,3,ARRGT,ARR ARR,May 10--Jun 27,N Pearson
 ACCTG,231,Introduction to Managerial Accounting,02,02728,3,ARRGT,ARR ARR,May 10--Jun 27,N Pearson
 ACCTG,231,Introduction to Managerial Accounting,03,02903,3,ARRGT,ARR ARR,May 10--Jun 27,N Pearson
 ACCTG,330,Intermediate Accounting I,01,02747,3,ARRGT,ARR ARR,Jun 28--Aug 15,J Porter
@@ -54,6 +53,7 @@ AMDT,210,[PSCI] Textiles,01 Lab,07881,0,ARRGT,ARR ARR,May 10--Jun 18,H Liu
 AMDT,210,[PSCI] Textiles,02 Lab,07882,0,ARRGT,ARR ARR,May 10--Jun 18,H Liu
 AMDT,490,Cooperative Education Internship,01,02492,V,ARRGT,ARR ARR,May 10--Jul 30,S Hiscock
 ANIM_SCI,205,[BSCI] Companion Animal Nutrition,01,02882,3,ARRGT,ARR ARR,May 10--Jun 18,N Irlbeck
+ANIM_SCI,315,"Captive Exotic Animal Nutrition, Husbandry and Management",01,08594,3,ARRGT,ARR ARR,May 31--Jul 09,N Irlbeck
 ANIM_SCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 31--Jul 09,N Irlbeck
 ANTH,203,[DIVR] Global Cultural Diversity,01,02656,3,ARRGT,ARR ARR,May 10--Jul 30,M Quinlan
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,02886,3,ARRGT,ARR ARR,May 10--Jun 18,C Smith
@@ -142,7 +142,6 @@ BIOLOGY,418,Parasitology,01,07295,4,ARRGT,ARR ARR,May 10--Jul 30,N Ankrah
 BIOLOGY,418,Parasitology,01 Lab,07311,0,ARRGT,ARR ARR,May 10--Jul 30,N Ankrah
 CAS,400,End-of-Program Evaluation Portfolio,01,"",1,ARRGT,ARR ARR,May 10--Jul 30,A Rocha
 CAS,410,[CAPS] Interdisciplinary Approaches to the University,01,07570,3,ARRGT,ARR ARR,May 10--Jun 18,D Leonard
-CAS,497,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,K Jennings
 CES,101,[DIVR] Introduction to Comparative Ethnic Studies,01,02877,3,ARRGT,ARR ARR,May 10--Jun 18,A Romero
 CES,209,[HUM] Hip Hop Around the Globe,01,02863,3,ARRGT,ARR ARR,May 10--Jun 18,D Leonard
 CES,271,[HUM] Native Music of North America,01,07608,3,ARRGT,ARR ARR,May 10--Jun 04,M Parkhurst
@@ -205,6 +204,7 @@ CRM_J,380,Criminal Courts in America,01,02799,3,ARRGT,ARR ARR,Jun 21--Jul 30,L R
 CRM_J,403,[CAPS] Violence Toward Women,01,02881,3,ARRGT,ARR ARR,May 10--Jun 18,S Kim
 CRM_J,405,[M] Comparative Criminal Justice Systems,01,02819,3,ARRGT,ARR ARR,Jun 21--Jul 30,A Brown
 CRM_J,450,[M] Senior Seminar: Ethical Issues in Criminal Justice,01,02818,3,ARRGT,ARR ARR,May 10--Jun 18,C Dalton
+CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Keopanapay
 DATA,115,Introduction to Data Analytics,02,07319,3,ARRGT,ARR ARR,May 10--Jun 18,S Chakraborty
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,02683,3,ARRGT,ARR ARR,May 10--Jun 18,J Riddle
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,02836,3,ARRGT,ARR ARR,Jun 21--Jul 30,E Fournier
@@ -248,9 +248,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,02519,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,02520,3,ARRGT,ARR ARR,May 10--Jul 30,R Mays
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,02521,3,ARRGT,ARR ARR,May 10--Jul 30,K Ericsson
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,04,02522,3,ARRGT,ARR ARR,May 10--Jul 30,J Mccarthy
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,"",3,ARRGT,ARR ARR,May 10--Jul 30,""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,06,02567,3,ARRGT,ARR ARR,May 10--Jul 30,M Ceballos
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,07,"",3,ARRGT,ARR ARR,May 10--Jul 30,""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,08,02586,3,ARRGT,ARR ARR,May 10--Jul 30,J Hughes
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,09,02606,3,ARRGT,ARR ARR,May 10--Jul 30,L Powers
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,02627,3,ARRGT,ARR ARR,May 10--Jul 30,A Hillen
@@ -268,7 +266,6 @@ ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,0
 FIN,223,[QUAN] Personal Finance,01,02653,3,ARRGT,ARR ARR,May 10--Jul 30,C Strong
 FIN,325,Introduction to Financial Management,01,02717,3,ARRGT,ARR ARR,May 10--Jun 27,Y Ma
 FIN,325,Introduction to Financial Management,02,02725,3,ARRGT,ARR ARR,May 10--Jun 27,Y Ma
-FIN,325,Introduction to Financial Management,03,02740,3,ARRGT,ARR ARR,May 10--Jun 27,""
 FIN,345,Real Estate,01,02767,3,ARRGT,ARR ARR,May 10--Jun 27,F Benjamin
 FINE_ART,101,[ARTS] Introduction to Art,02,07610,3,ARRGT,ARR ARR,May 10--Jun 04,H Meredith
 FINE_ART,103,[ARTS] 3D Art and Design,01,07633,3,ARRGT,ARR ARR,May 10--Jun 04,I Palmer
@@ -307,7 +304,6 @@ H_D,498,Field Placement,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Whitehall
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Hewa
 HBM,101,Professional and Career Development for the Business World,01,02710,1,ARRGT,ARR ARR,May 10--Jun 27,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,02765,1,ARRGT,ARR ARR,May 10--Jun 27,A Alonzo
-HBM,101,Professional and Career Development for the Business World,03,02967,1,ARRGT,ARR ARR,May 10--Jun 27,A Alonzo
 HBM,358,Foodservice Systems and Control,01,08485,3,ARRGT,ARR ARR,May 10--Jun 27,S Seo
 HBM,375,Introduction to Senior Living Management,01,07297,3,ARRGT,ARR ARR,May 10--Jun 27,N Swanger
 HBM,491,Operational Analysis,01,02716,3,ARRGT,ARR ARR,May 10--Jun 27,H Stouder
@@ -372,7 +368,6 @@ MGMT,487,Business Ethics and Corporate Responsibility,01,02713,3,ARRGT,ARR ARR,M
 MGMT,487,Business Ethics and Corporate Responsibility,02,02726,3,ARRGT,ARR ARR,May 10--Jun 27,J Bates
 MGMT,487,Business Ethics and Corporate Responsibility,03,02733,3,ARRGT,ARR ARR,May 10--Jun 27,J Bates
 MGMT,491,[CAPS] Strategic Management,01,02714,3,ARRGT,ARR ARR,May 10--Jun 27,G Raina
-MGMT,491,[CAPS] Strategic Management,02,02720,3,ARRGT,ARR ARR,May 10--Jun 27,G Raina
 MGMT,491,[CAPS] Strategic Management,03,02724,3,ARRGT,ARR ARR,May 10--Jun 27,G Raina
 MGMT,590,Strategy Formulation and Organizational Design,01,06873,3,ARRGT,ARR ARR,Jun 28--Aug 15,D Miller
 MGMT,590,Strategy Formulation and Organizational Design,02,06874,3,ARRGT,ARR ARR,Jun 28--Aug 15,D Miller
@@ -394,6 +389,9 @@ MGMT,590,Strategy Formulation and Organizational Design,17,07521,3,ARRGT,ARR ARR
 MGMT,590,Strategy Formulation and Organizational Design,18,07522,3,ARRGT,ARR ARR,Jun 28--Aug 15,D Miller
 MGMT,590,Strategy Formulation and Organizational Design,19,07523,3,ARRGT,ARR ARR,Jun 28--Aug 15,D Miller
 MGMT,590,Strategy Formulation and Organizational Design,20,07524,3,ARRGT,ARR ARR,Jun 28--Aug 15,D Miller
+MGMT,590,Strategy Formulation and Organizational Design,21,07525,3,ARRGT,ARR ARR,Jun 28--Aug 15,""
+MGMT,590,Strategy Formulation and Organizational Design,22,07526,3,ARRGT,ARR ARR,Jun 28--Aug 15,""
+MGMT,590,Strategy Formulation and Organizational Design,23,07527,3,ARRGT,ARR ARR,Jun 28--Aug 15,""
 MGTOP,215,Business Statistics,01,02718,4,ARRGT,ARR ARR,May 10--Jun 27,S Ahn
 MGTOP,215,Business Statistics,02,02730,4,ARRGT,ARR ARR,May 10--Jun 27,S Ahn
 MGTOP,215,Business Statistics,01 Lab,02719,0,ARRGT,ARR ARR,May 10--Jun 27,S Ahn
@@ -546,7 +544,6 @@ UNIV,301,Career Exploration and Professional Development,01,02569,1,ARRGT,ARR AR
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Hopkins
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,02872,3,ARRGT,ARR ARR,May 10--Jun 18,L Gordillo
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",02,02807,3,ARRGT,ARR ARR,Jun 21--Jul 30,H Ramos
-WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",03,02781,3,ARRGT,ARR ARR,Jul 31--Aug 22,P Abustan
 WOMEN_ST,230,Human Sexuality,01,02542,3,ARRGT,ARR ARR,May 10--Jul 30,S Paup
 WOMEN_ST,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,02678,3,ARRGT,ARR ARR,May 10--Jul 30,M Cervantes
 WOMEN_ST,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,02868,3,ARRGT,ARR ARR,May 10--Jun 18,L Wilson

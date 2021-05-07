@@ -46,8 +46,8 @@ BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,05 Lab,12650,0,W7.45
 BIOLOGY,111,[BSCI] Laboratory Experiments in Biology and Genetics,01,12694,1,M9.10-11.50,VSCI 101,Aug 23--Dec 10,G Gakhar
 BIOLOGY,220,Medical Terminology,01,13558,2,ARRGT,ARR ARR,Aug 23--Dec 10,G Gakhar
 BIOLOGY,221,Exploring Health Careers,01,12931,1,TH13.30-14.20,WEB ARR,Aug 23--Dec 10,D Wilmington
-BIOLOGY,301,General Genetics,01,12939,4,W7.45-9,VUB 202,Aug 23--Dec 10,W Cushwa
-BIOLOGY,301,General Genetics,02,12940,4,W9.10-10.25,VUB 202,Aug 23--Dec 10,W Cushwa
+BIOLOGY,301,General Genetics,01,12939,4,F7.45-9,VUB 100,Aug 23--Dec 10,W Cushwa
+BIOLOGY,301,General Genetics,02,12940,4,F9.10-10.25,VUB 100,Aug 23--Dec 10,W Cushwa
 BIOLOGY,330,Principles of Conservation,01,13020,3,TU10.35-11.50,WEB ARR,Aug 23--Dec 10,D Thomas
 BIOLOGY,330,Principles of Conservation,"","","",TH10.35-11.50,GUC VAN,"",""
 BIOLOGY,354,Human Anatomy for Health Occupations,01,12638,4,"M,W,F10.35-11.25",WEB ARR,Aug 23--Dec 10,""
@@ -81,7 +81,7 @@ BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,12561,V,ARRGT,ARR
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,12562,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CAS,311,[SSCI] [M] Special Topics in Social Sciences: Cross-disciplinary Studies,01,17918,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Whelchel
 CES,101,[DIVR] Race and Racism in the United States,01,13062,3,"M,W9.10-10",GUC VAN,Aug 23--Dec 10,""
-CES,373,[M] Native American Literature,01,17430,3,W17.45-20.30,GUC VAN,Aug 23--Dec 10,J Ankney
+CES,373,[M] Native American Literature,01,17430,3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,J Ankney
 CHEM,105,[PSCI] Principles of Chemistry I,01,12660,4,"M,W,F10.35-11.25",WEB ARR,Aug 23--Dec 10,A Otoikhian
 CHEM,105,[PSCI] Principles of Chemistry I,02,12661,4,"M,W,F13.30-14.20",WEB ARR,Aug 23--Dec 10,A Otoikhian
 CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,12662,0,W14.55-17.35,VCLS 50,Aug 23--Dec 10,""
@@ -220,7 +220,7 @@ ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,WEB ARR,A
 ED_AD,581,Politics in Education,01,12554,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,587,Seminar in School Administration,01,12555,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,588,The Law and Education,01,13230,3,TH17.45-20.30,GUC VAN,Aug 23--Dec 10,K Murdock
-ED_AD,589,Leadership Development Seminar,01,12579,3,W17.45-20.30,GUC VAN,Aug 23--Dec 10,""
+ED_AD,589,Leadership Development Seminar,01,12579,3,W17.45-20.30,GUC VAN,Aug 23--Dec 10,K Rodela
 ED_AD,590,Internship,01,12580,3,W17.45-20.30,GUC VAN,Aug 23--Dec 10,J Lapidus
 ED_AD,590,Internship,02,12861,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,600,Special Projects or Independent Study,01,12908,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
@@ -248,8 +248,8 @@ ENGLISH,102,Writing Tutorial,02,13072,1,W13.30-14.20,GUC VAN,Sep 06--Dec 10,""
 ENGLISH,102,Writing Tutorial,03,13073,1,TH12.05-12.55,GUC VAN,Sep 06--Dec 10,""
 ENGLISH,102,Writing Tutorial,04,13074,1,TH14.55-15.45,GUC VAN,Sep 06--Dec 10,""
 ENGLISH,102,Writing Tutorial,05,13075,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
-ENGLISH,150,[ARTS] Introduction of Film as Narrative,01,13193,4,"M,W14.55-16.10",GUC VAN,Aug 23--Dec 10,R Tanvir
-ENGLISH,150,[ARTS] Introduction of Film as Narrative,01 Lab,13194,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ENGLISH,150,[ARTS] Introduction to Film as Narrative,01,13193,4,"M,W14.55-16.10",GUC VAN,Aug 23--Dec 10,R Tanvir
+ENGLISH,150,[ARTS] Introduction to Film as Narrative,01 Lab,13194,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ENGLISH,210,[HUM] Readings in American Literature,01,17457,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,C Ratzlaff
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,12532,3,TU13.30-14.45,GUC VAN,Aug 23--Dec 10,W Olson
 ENGLISH,302,[M] Introduction to English Studies,01,12533,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,K Robertson
@@ -257,7 +257,7 @@ ENGLISH,302,[M] Introduction to English Studies,02,13174,3,ARRGT,ARR ARR,Aug 23-
 ENGLISH,306,Shakespeare,01,13002,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,D Hellegers
 ENGLISH,323,Approaches to the Teaching of English,01,12534,3,"TU,TH16.20-17.35",GUC VAN,Aug 23--Dec 10,J Stevens
 ENGLISH,325,Young Adult Literature,01,12535,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,S Massart
-ENGLISH,341,[M] Native American Literature,01,17431,3,W17.45-20.30,GUC VAN,Aug 23--Dec 10,J Ankney
+ENGLISH,341,[M] Native American Literature,01,17431,3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,J Ankney
 ENGLISH,365,[WRTG] Proposal Writing,01,17758,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,J Staggers
 ENGLISH,370,"The Making of English: Literature, Language and Culture Before 1600",01,12536,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,M Hanly
 ENGLISH,372,[HUM] 19th Century Literature of the British Empire and the Americas,01,12537,3,"TU,TH14.55-16.10",WEB ARR,Aug 23--Dec 10,L Orr
@@ -267,7 +267,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,12583,3,"M,W13.30-1
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,04,12584,3,TU9.10-10.25,VMMC 115,Aug 23--Dec 10,M Lobnitz
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,"","","",TH9.10-10.25,WEB ARR,"",""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,12585,3,"TU,TH13.30-14.45",VMMC 115,Aug 23--Dec 10,""
-ENGLISH,451,[M] Advanced Creative Writing: Fiction,01,12859,3,TU17.45-20.30,GUC VAN,Aug 23--Dec 10,J Ankney
+ENGLISH,451,[M] Advanced Creative Writing: Fiction,01,12859,3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,J Ankney
 ENGLISH,488,Victorian Literature,01,17456,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,C Ratzlaff
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Phelps
 ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -325,8 +325,8 @@ H_D,445,Early Childhood Professional Preparation Seminar,01,"",3,ARRGT,ARR ARR,A
 H_D,479,Planning and Evaluation in Human Development,01,13227,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,A Salazar
 H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 H_D,495,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-H_D,497,Professional Preparation Seminar,02,"",3,TH14.55-16.10,GUC VAN,Aug 23--Dec 10,S Rolerkite
-H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Rolerkite
+H_D,497,Professional Preparation Seminar,02,"",3,TH14.55-16.10,GUC VAN,Aug 23--Dec 10,""
+H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,600,Special Projects or Independent Study,01,12844,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HBM,101,Professional and Career Development for the Business World,01,13140,1,"W,F9.10-10.25",GUC VAN,Sep 27--Oct 29,K Knight
@@ -390,13 +390,13 @@ MATH,202,[QUAN] Calculus for Business and Economics,01,12551,3,"W,F10.35-11.50",
 MATH,216,Discrete Structures,02,13768,3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
 MATH,220,Introductory Linear Algebra,01,12698,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,""
 MATH,220,Introductory Linear Algebra,02,12699,2,"TU,TH14.55-15.45",GUC VAN,Aug 23--Dec 10,""
-MATH,251,Fundamentals of Elementary Mathematics I,01,12795,3,TU17.45-19.25,GUC VAN,Aug 23--Dec 10,K Debower
+MATH,251,Fundamentals of Elementary Mathematics I,01,12795,3,TU17.45-19.25,VUB 226,Aug 23--Dec 10,K Debower
 MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,12796,0,TH17.45-19.25,WEB ARR,Aug 23--Dec 10,""
 MATH,273,Calculus III,01,12700,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,""
 MATH,273,Calculus III,02,12701,2,"TU,TH13.30-14.20",GUC VAN,Aug 23--Dec 10,""
 MATH,300,Mathematical Computing,01,13058,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,""
 MATH,315,Differential Equations,01,12831,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,""
-MATH,330,Methods of Teaching Secondary School Mathematics,01,12945,3,"TU,TH13.30-14.45",VC VAN,Aug 23--Dec 10,K Lesseig
+MATH,330,Methods of Teaching Secondary School Mathematics,01,12945,3,"TU,TH14.55-16.10",VC VAN,Aug 23--Dec 10,K Lesseig
 MATH,401,[M] Introduction to Analysis I,01,13059,3,"TU,TH12.05-13.20",VC VAN,Aug 23--Dec 10,B Krishnamoorthy
 MATH,405,Introduction to Financial Mathematics,01,"",3,"M,W,F15.10-16",WEB ARR,Aug 23--Dec 10,""
 MATH,420,Linear Algebra,01,12866,3,"M,W,F9.10-10",VC VAN,Aug 23--Dec 10,""
@@ -425,6 +425,7 @@ MBIOS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MBIOS,505,Cell Biology of Disease,01,13028,3,F13.30-14.45,VC VAN,Aug 23--Dec 10,C Cooper
 MBIOS,578,Bioinformatics,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MBIOS,578,Bioinformatics,01 Lab,12871,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
+MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,12839,V,ARRGT,ARR ARR,Aug 23--Dec 10,C Cooper
 MECH,103,Engineering Graphics,01,12873,2,TU14.55-15.45,VSCI 255,Aug 23--Dec 10,""
 MECH,103,Engineering Graphics,02,12915,2,TH14.55-15.45,VSCI 255,Aug 23--Dec 10,""
 MECH,103,Engineering Graphics,01 Lab,12874,0,TU16.20-18.50,VSCI 255,Aug 23--Dec 10,""
@@ -696,6 +697,7 @@ PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,K Schmalin
 PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,17482,3,"TU,TH14.55-16.10",VC VAN,Aug 23--Dec 10,M Morgan
 PSYCH,506,Current Research in Psychology,01,17744,1,W16.10-17,VC VAN,Aug 23--Dec 10,R Magnan
+PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,13045,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,C Cuttler
 PSYCH,523,Health Psychology,01,13392,3,M13.10-16,VC VAN,Aug 23--Dec 10,R Magnan
 PSYCH,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -737,11 +739,11 @@ SOIL_SCI,368,Introduction to Geographic Information Systems,02 Lab,17717,0,ARRGT
 SOIL_SCI,513,Environmental Soil Physics,01,12900,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,M Flury
 SPANISH,101,First Semester,01,12719,4,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,C Gulam
 SPANISH,101,First Semester,02,12720,4,"M,W,F12.05-12.55",GUC VAN,Aug 23--Dec 10,M Lee-Lopez
-SPANISH,105,Elementary Conversation,01,12721,1,TU14.55-15.45,WEB ARR,Aug 23--Dec 10,""
+SPANISH,105,Elementary Conversation,01,12721,1,TU14.55-15.45,WEB ARR,Aug 23--Dec 10,M Mcmichael
 SPANISH,203,Third Semester,01,12722,4,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,C Gulam
 SPANISH,203,Third Semester,01 Lab,12723,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Gulam
-SPANISH,205,Intermediate Conversation I,01,12724,1,TU12.05-12.55,WEB ARR,Aug 23--Dec 10,""
-SPANISH,305,Intermediate Conversation II,01,12865,1,TU12.05-12.55,WEB ARR,Aug 23--Dec 10,""
+SPANISH,205,Intermediate Conversation I,01,12724,1,TU12.05-12.55,WEB ARR,Aug 23--Dec 10,M Mcmichael
+SPANISH,305,Intermediate Conversation II,01,12865,1,TU12.05-12.55,WEB ARR,Aug 23--Dec 10,M Mcmichael
 SPANISH,308,Intermediate Grammar and Writing,01,12725,3,"M,W13.30-14.20",GUC VAN,Aug 23--Dec 10,M Lee-Lopez
 SPANISH,321,[DIVR] Latin American Cultures,01,17311,3,"TU,TH17.45-19",WEB ARR,Aug 23--Dec 10,C Gulam
 SPANISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,C Gulam
@@ -757,13 +759,15 @@ STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,12739,0,"TU,TH9.10-10
 STAT,360,Probability and Statistics,01,12740,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,02,12741,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,03,12894,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,""
-STAT,412,Statistical Methods in Research I,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,412,Statistical Methods in Research I,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,02,"",3,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,""
 STAT,423,Statistical Methods for Engineers and Scientists,01,12742,3,"W,F10.35-11.50",VC VAN,Aug 23--Dec 10,""
 STAT,435,[M] Statistical Modeling for Data Analytics,02,"",3,"M,W11.10-12",WEB ARR,Aug 23--Dec 10,""
 STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,"",0,F11.10-13,WEB ARR,Aug 23--Dec 10,""
 STAT,443,Applied Probability,01,"",3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 STAT,523,Statistical Methods for Engineers and Scientists,01,12743,3,"W,F10.35-11.50",VC VAN,Aug 23--Dec 10,""
+STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,18038,V,ARRGT,ARR ARR,Aug 23--Dec 10,L New
+STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,13188,V,ARRGT,ARR ARR,Aug 23--Dec 10,B Krishnamoorthy
 TCH_LRN,305,Fundamentals of Instruction,01,12617,2,"M,F10.10-11",GUC VAN,Aug 23--Dec 10,J Masterson
 TCH_LRN,307,Survey of Children's Literature,01,12823,3,W8.10-11,GUC VAN,Aug 23--Dec 10,D Day-Wiff
 TCH_LRN,310,[M] Classroom Management,01,12618,2,M9.10-11,GUC VAN,Aug 23--Dec 10,C Dudley

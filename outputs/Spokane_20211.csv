@@ -117,11 +117,14 @@ MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,02,"",V,ARRGT,ARR ARR,Ma
 MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,03,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,H Andersen
 MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,C Heine
 MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,J Haney
+MED_CLIN,586,Surgery - Neurological Surgery,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,A Kumar
 MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,J Haney
 MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,L Sood
 MED_CLIN,589,Clinical Rotation - Transition to Residency,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,A Kumar
 MED_CLIN,589,Clinical Rotation - Transition to Residency,02,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
+MED_CLIN,594,Surgery - Urology,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,A Kumar
+MED_CLIN,595,Surgery - Surgery Critical Care,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,A Kumar
 MED_CLIN,597,Virtual - Virtual Clerkship,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
@@ -129,8 +132,12 @@ MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,599,Special Projects,03,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,599,Special Projects,04,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
 MED_CLIN,599,Special Projects,05,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,D Dewitt
+MED_CLIN,602,Internal Medicine - Pulmonology,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,L Sood
+MED_CLIN,610,Pediatrics - Medical Genetics and Genomics,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,C Anderson
 MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,M Layton
 MED_CLIN,627,Psychiatry - Inpatient,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,M Layton
+MED_CLIN,629,Obstetrics and Gynecology - Gynecologic Oncology,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,H Andersen
+MED_CLIN,631,Obstetrics and Gynecology - Urogynecology,01,"",V,ARRGT,ARR ARR,Mar 22--Jun 25,H Andersen
 MED_ETH,530,The Practice of Clinical Ethics,01,16062,3,ARRGT,ARR ARR,Jan 19--Apr 30,T May
 MED_ETH,530,The Practice of Clinical Ethics,02,"",3,ARRGT,ARR ARR,Jan 19--Apr 30,T May
 MED_ETH,540,"Seminar in Clinical Ethics: Methods, Process, Skills & Traits",01,16082,3,ARRGT,ARR ARR,Jan 19--Apr 30,T May
@@ -858,7 +865,7 @@ SHS,472,Audiometry,01,13145,3,"TU,TH12.10-13.25",WEB ARR,Jan 11--Apr 30,B Perego
 SHS,473,[M] Language and Literacy,01,13146,3,"W,TH10.30-11.45",WEB ARR,Jan 11--Apr 30,D Algeo
 SHS,478,Language Impairment,01,13147,3,"M,W13.10-14.25",WEB ARR,Jan 11--Apr 30,G Lynch
 SHS,480,[CAPS] Senior Seminar,01,13148,3,"TU,TH13.10-14.25",WEB ARR,Jan 11--Apr 30,A Meredith
-SHS,490,Special Topics in Speech and Hearing Sciences,01,13170,V,"TU,TH15.10-16.25",WEB ARR,Jan 11--Apr 30,D Semb
+SHS,490,Special Topics in Speech and Hearing Sciences,01,13170,V,"TU,TH15.10-16.25",WEB ARR,Jan 11--Apr 30,(multiple)
 SHS,490,Special Topics in Speech and Hearing Sciences,03,"",V,ARRGT,ARR ARR,Jan 11--Apr 30,""
 SHS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 19--Apr 30,G Chermak
 SHS,501,Research Methods,01,14765,3,"M,W16.10-17.25",WEB ARR,Jan 11--Apr 30,M Vandam

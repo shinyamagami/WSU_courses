@@ -40,7 +40,6 @@ CPT_S,700,"Master's Research, Thesis, and/or Examination",01,01008,V,ARRGT,ARR A
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,01009,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,01010,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CROP_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Dhingra
-DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,07862,3,"M,TU,W,TH11-12.35",WEB ARR,May 10--Jun 18,P Mudd
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,04301,3,"M,TU,W,TH12.45-14.20",WEB ARR,Jun 21--Jul 30,P Mudd
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Plemons
 E_E,221,Numerical Computing for Engineers,01,04240,2,"M,W12.20-14.35",WEB ARR,Jun 21--Jul 30,D Lowry
@@ -72,14 +71,13 @@ FINE_ART,363,Special Topics - Digital Media,01,07863,V,"M,TU,W,TH11-12.35",WEB A
 HBM,101,Professional and Career Development for the Business World,01,07872,1,"TU,TH7.30-8.20",WEB ARR,May 10--Jun 18,B Marlowe
 HISTORY,111,[HUM] American History Since 1877,01,07865,3,"M,TU,W,TH12.45-14.20",WEB ARR,Jun 21--Jul 30,T Hanshew
 HISTORY,387,World War II in Asia and the Pacific,01,04405,3,"M,W14.30-17.50",WEB ARR,Jun 21--Jul 30,B Farley
-HISTORY,455,The Great War 1914 - 1920,01,04255,3,"M,W14.30-17.50",WEB ARR,May 10--Jun 18,B Farley
 HORT,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Snider
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Dhingra
 HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,R Sharpe
 HUMANITY,410,Love in the Arts,01,07866,3,"M,TU,W,TH9.15-10.50",WEB ARR,May 10--Jun 18,R Mays
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,01358,V,ARRGT,ARR ARR,May 10--Jul 30,B Clowers
 KINES,536,Methods of Health and Physical Education,01,04298,2,"M,W9.30-11.45",WEB ARR,Jun 21--Jul 30,P Sinclair
-MATH,171,[QUAN] Calculus I,01,06019,4,"M,W,F11-14.20",WEB ARR,May 10--Jun 18,S Selmi
+MATH,171,[QUAN] Calculus I,01,06019,4,"M,W,F9.55-12.10",WEB ARR,May 10--Jun 18,S Selmi
 MATH,171,[QUAN] Calculus I,01 Lab,06020,0,"TU,TH11-14.20",WEB ARR,May 10--Jun 18,S Selmi
 MATH,172,Calculus II,01,06016,4,"M,W,F9.15-10.50",WEB ARR,May 10--Jul 02,R Learn
 MATH,172,Calculus II,01 Lab,06017,0,"TU,TH10.10-12.40",WEB ARR,May 10--Jul 02,R Learn
@@ -100,7 +98,9 @@ ME,220,Materials Laboratory,02,08568,1,TH10-16.40,WEB ARR,Jun 21--Jul 30,Y Zhang
 ME,303,Fluid Mechanics,01,04237,3,"M,W,F14.45-17",WEB ARR,May 10--Jun 18,Y Zhang
 ME,401,Mechatronics,01,06021,3,"TU,TH11-12.35",WEB ARR,Jun 07--Jul 30,C Mo
 ME,401,Mechatronics,01 Lab,06022,0,"TU,TH12.50-15.20",WEB ARR,Jun 07--Jul 30,C Mo
+ME,481,Control Systems,01,08592,3,"TU,TH16.15-17.50",WEB ARR,May 10--Jul 30,J Iannelli
 ME,495,Internship in Mechanical Industry,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+ME,581,Control Systems,01,08593,3,"TU,TH16.15-17.50",WEB ARR,May 10--Jul 30,J Iannelli
 ME,700,"Master's Research, Thesis, and/or Examination",01,01023,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,702,"Master's Special Problems, Directed Study, and/or Examination",01,01024,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,800,"Doctoral Research, Dissertation, and/or Examination",01,01025,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
@@ -218,7 +218,7 @@ NURS,477,Health Care Ethics,01,01040,V,ARRGT,ARR ARR,May 10--Jul 30,S Girard
 NURS,477,Health Care Ethics,02,01041,V,ARRGT,ARR ARR,May 10--Jul 30,S Girard
 NURS,495,[CAPS] Advanced Practicum,01,01042,3,ARRGT,ARR ARR,May 10--Jul 30,T Ewing
 NURS,495,[CAPS] Advanced Practicum,02,01043,3,ARRGT,ARR ARR,May 10--Jul 30,T Ewing
-NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,V Denson
 NURS,499,Special Problems,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 NURS,540,NP Clinical Practicum,01,01051,V,TH13.10-14,WEB ARR,May 20--May 20,B Briggs
 NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
@@ -273,8 +273,6 @@ NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR,"",""
 NURS,598,Advanced Topics in Nursing,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,D Smart
 PHIL,365,[HUM] Biomedical Ethics,01,04219,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,W Kabasenche
-PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,01062,4,"M,W,F15.20-16.25",WEB ARR,May 10--Jul 30,C Capan
-PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01 Lab,01063,0,"TU,TH14.30-16.05",WEB ARR,May 10--Jul 30,C Capan
 PSYCH,321,Personality,01,04222,3,"TU,W12-13.35",WEB ARR,May 10--Jun 18,S Tragesser
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
@@ -283,6 +281,7 @@ SOE,700,"Master's Research, Thesis, and/or Examination",01,01097,V,ARRGT,ARR ARR
 SOE,702,"Master's Special Problems, Directed Study, and/or Examination",01,01098,V,ARRGT,ARR ARR,May 10--Jul 30,A Felsot
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,01099,V,ARRGT,ARR ARR,May 10--Jul 30,A Felsot
 SOIL_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Dhingra
+SOIL_SCI,502,Advanced Topics in Soils,01,08595,V,"M,TU,W,TH10.30-11.45",WEB ARR,May 10--Jun 18,M Islam
 SPEC_ED,440,Methods in Intensive Educational Supports,01,04250,3,"M,W11-14.20",WEB ARR,Jun 21--Jul 30,Y Hsiao
 SPEC_ED,540,Methods in Intensive Educational Supports,01,07877,3,"M,W11-14.20",WEB ARR,Jun 21--Jul 30,Y Hsiao
 TCH_LRN,330,Diversity in Education,01,04182,3,"M,W17-20.20",WEB ARR,May 10--Jun 18,E Johnson
