@@ -56,7 +56,7 @@ FOR_LANG,130,[HUM] Global Literature in Translation,01,05477,3,TU18-20.55,WEB AR
 H_D,101,[SSCI] Human Development Across the Lifespan,01,05501,3,"TU,TH11-13",WEB ARR,Jun 21--Jul 30,S Reisz
 H_D,403,[CAPS] Families in Poverty,01,05500,3,TU11-12.30,WEB ARR,May 10--Jun 18,Y Sano
 H_D,406,Work and Family,01,05834,3,W12-13.30,WEB ARR,May 10--Jun 18,A Jackson
-H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,Y Sano
+H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Rolerkite
 H_D,600,Special Projects or Independent Study,01,06730,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,05479,3,ARRGT,ARR ARR,Jun 21--Jul 30,J Losavio
@@ -101,11 +101,11 @@ MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,ARR
 MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Kaczmark
 MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
 MED_CLIN,543,Clinical Rotation - Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
-MED_CLIN,544,Internal Medicine - Nephrology,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,544,Internal Medicine - Nephrology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,545,Internal Medicine - Critical Care,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
-MED_CLIN,546,Surgery - Vascular Surgery,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
-MED_CLIN,547,Internal Medicine - Cardiology,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
-MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,546,Surgery - Vascular Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,547,Internal Medicine - Cardiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,551,Clinical Rotation - Pathology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
@@ -239,10 +239,10 @@ NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR,"",""
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR,"",""
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,WEB ARR,"",""
-NURS,597,Advanced Topics in Nursing,01,05580,V,ARRGT,ARR ARR,May 10--Jul 30,A Mason
+NURS,597,Advanced Topics in Nursing,01,05580,V,ARRGT,ARR ARR,May 10--Jul 30,D Smart
 NURS,598,Advanced Topics in Nursing,01,08390,3,ARRGT,ARR ARR,May 10--Jul 30,D Smart
 NURS,599,Independent Study,01,05561,V,ARRGT,ARR ARR,May 10--Jul 30,P Stover
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,07885,V,ARRGT,ARR ARR,May 10--Jul 30,A Mason
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,07885,V,ARRGT,ARR ARR,May 10--Jul 30,D Smart
 PHYSICS,102,General Physics,01,07323,4,"M,W,F9.15-10.50",WEB ARR,Jun 07--Jul 30,G Newman
 PHYSICS,102,General Physics,01 Lab,07324,0,"TU,TH9.15-11.45",WEB ARR,Jun 07--Jul 30,""
 PHYSICS,202,Physics for Scientists and Engineers II,01,07325,4,"M,W,F12.45-14.20",WEB ARR,Jun 07--Jul 30,G Newman

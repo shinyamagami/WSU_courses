@@ -26,11 +26,11 @@ MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,ARR
 MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Kaczmark
 MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
 MED_CLIN,543,Clinical Rotation - Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
-MED_CLIN,544,Internal Medicine - Nephrology,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,544,Internal Medicine - Nephrology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,545,Internal Medicine - Critical Care,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
-MED_CLIN,546,Surgery - Vascular Surgery,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
-MED_CLIN,547,Internal Medicine - Cardiology,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
-MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,546,Surgery - Vascular Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,547,Internal Medicine - Cardiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,551,Clinical Rotation - Pathology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
@@ -100,16 +100,16 @@ MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layt
 MED_CLIN,627,Psychiatry - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
 MED_FMS,509,Special Topics in Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,R Larson
 MED_FMS,509,Special Topics in Medicine,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowen
-MED_FMS,509,Special Topics in Medicine,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,T Chauvin
+MED_FMS,509,Special Topics in Medicine,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,""
 MED_FMS,509,Special Topics in Medicine,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Marcin
-MIT,501,Learning and Development in School and Community Contexts,01,08334,3,"M,TU,W,TH9-11.20",VC SPK,Jun 07--Jul 02,A Segadelli
-MIT,502,Assessment for Teaching and Learning,01,06691,3,"M,TU,W,TH12-14.20",VC SPK,Jun 07--Jul 02,J Walls
+MIT,501,Learning and Development in School and Community Contexts,01,08334,3,"M,TU,W,TH9-11.20",WEB ARR,Jun 07--Jul 02,A Segadelli
+MIT,502,Assessment for Teaching and Learning,01,06691,3,"M,TU,W,TH12-14.20",WEB ARR,Jun 07--Jul 02,J Walls
 MIT,506,Integrating Technology into Classroom Teaching,01,08120,V,"M,W,F8-10.05",WEB ARR,May 10--Jun 04,D Mcmahon
-MIT,507,Teacher Inquiry and Praxis,01,06429,3,"TU,TH9-12",VC ARR,May 10--Jun 18,J Lupinacci
-MIT,508,Curriculum and Instruction Methods,01,08068,3,"M,TU,W,TH9-11.20",VC SPK,Jul 05--Jul 30,A Gilmore
+MIT,507,Teacher Inquiry and Praxis,01,06429,3,"TU,TH9-12",WEB ARR,May 10--Jun 18,J Lupinacci
+MIT,508,Curriculum and Instruction Methods,01,08068,3,"M,TU,W,TH9-11.20",WEB ARR,Jul 05--Jul 30,A Gilmore
 MIT,531,Literacy Development I,01,06447,3,"M,TU,W,TH12-14.20",WEB ARR,Jul 05--Jul 30,K Smith
 MIT,535,Integrating Fine Arts into K-8 Curriculum,01,08121,2,"M,W,F15-17.05",WEB ARR,May 10--Jun 04,K Emerson
-MIT,551,Literacy within the Disciplines,01,06430,3,"M,TU,W,TH12-14.20",VC SPK,Jul 05--Jul 30,P Provinsal
+MIT,551,Literacy within the Disciplines,01,06430,3,"M,TU,W,TH12-14.20",WEB ARR,Jul 05--Jul 30,P Provinsal
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,06431,V,ARRGT,ARR ARR,May 10--Jun 18,J Lupinacci
 NEP,490,Exercise and Nutrition Internship,01,06419,V,ARRGT,ARR ARR,May 10--Jul 30,J Larsen
 NEP,499,Special Problems,01,06465,V,ARRGT,ARR ARR,May 10--Jul 30,G Duncan
@@ -153,8 +153,8 @@ NURS,400,[M] Nursing Research and Evidence-Based Practice,01,06370,3,ARRGT,ARR A
 NURS,400,[M] Nursing Research and Evidence-Based Practice,02,06371,3,ARRGT,ARR ARR,May 10--Jul 30,L Eddy
 NURS,405,Nursing Leadership,01,06372,2,ARRGT,ARR ARR,May 10--Jul 30,C Van Son
 NURS,405,Nursing Leadership,02,06373,2,ARRGT,ARR ARR,May 10--Jul 30,C Van Son
-NURS,406,Nursing Management of the Healthcare Environment,01,06374,3,ARRGT,ARR ARR,May 10--Jul 30,""
-NURS,406,Nursing Management of the Healthcare Environment,02,06375,3,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,406,Nursing Management of the Healthcare Environment,01,06374,3,ARRGT,ARR ARR,May 10--Jul 30,C Van Son
+NURS,406,Nursing Management of the Healthcare Environment,02,06375,3,ARRGT,ARR ARR,May 10--Jul 30,C Van Son
 NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,01,06378,2,ARRGT,ARR ARR,May 10--Jul 30,M Neeway
 NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,02,06379,2,ARRGT,ARR ARR,May 10--Jul 30,M Neeway
 NURS,465,Application of Population Health Principles,01,06460,3,ARRGT,ARR ARR,May 10--Jul 30,B Sarkinen

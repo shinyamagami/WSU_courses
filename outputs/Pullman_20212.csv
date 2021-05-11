@@ -82,7 +82,6 @@ BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,03016,V,ARR
 BSYSE,700,"Master's Research, Thesis, and/or Examination",01,03017,V,ARRGT,ARR,May 10--Jul 30,(multiple)
 BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,03019,V,ARRGT,ARR,May 10--Jul 30,(multiple)
 CAS,400,End-of-Program Evaluation Portfolio,01,"",1,ARRGT,ARR ARR,May 10--Jul 30,A Rocha
-CAS,497,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,K Jennings
 CE,211,Statics,01,07417,3,"M,TU,W,TH,F13.30-15.30",WEB ARR,May 10--Jun 04,S Amarasiri
 CE,215,Mechanics of Materials,01,07418,3,"M,TU,W,TH,F10.30-11.30",WEB ARR,Jun 07--Jul 30,J Cheng
 CE,302,Introduction to Surveying,01,07420,2,"M,TU,W,TH,F7.30-8.30",SPRK G0045,May 10--May 28,K Olsen
@@ -90,6 +89,7 @@ CE,302,Introduction to Surveying,01 Lab,07421,0,"M,TU,W,TH,F8.40-11.10",SLOA 235
 CE,302,Introduction to Surveying,02 Lab,07422,0,"M,TU,W,TH,F11.30-14",SLOA 235,May 10--May 28,K Olsen
 CE,414,Structural Design Loads and Load Paths,01,07423,3,"M,TU,W,TH,F9-11",WEB ARR,May 10--Jun 04,A Manawadu
 CE,463,Engineering Administration,01,07419,3,"M,TU,W,TH,F14.10-16.40",WEB ARR,May 10--May 28,R Petersen
+CE,543,Advanced Topics in Environmental Engineering Practice,01,"",V,ARRGT,ARR ARR,May 10--Jun 27,T Ginn
 CE,600,Special Projects or Independent Study,01,03588,V,ARRGT,ARR ARR,May 10--Jul 30,""
 CE,700,"Master's Research, Thesis and/or Examination",01,03199,V,ARRGT,"",May 10--Jul 30,(multiple)
 CE,702,"Master's Special Problems, Directed Study, and/or Examination",01,03200,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
@@ -111,11 +111,9 @@ CHEM,101,[PSCI] Introduction to Chemistry,03 Lab,03957,0,"TU,TH12-12.50",WEB ARR
 CHEM,102,Chemistry Related to Life Sciences,01,03958,4,"M,TU,W,TH,F10-10.50",WEB ARR,Jun 28--Aug 15,D Storfer
 CHEM,102,Chemistry Related to Life Sciences,01 Lab,03959,0,"TU,TH12-12.50",WEB ARR,Jun 28--Aug 15,""
 CHEM,102,Chemistry Related to Life Sciences,02 Lab,03960,0,"TU,TH12-12.50",WEB ARR,Jun 28--Aug 15,""
-CHEM,102,Chemistry Related to Life Sciences,03 Lab,03982,0,"TU,TH12-12.50",WEB ARR,Jun 28--Aug 15,""
 CHEM,105,[PSCI] Principles of Chemistry I,01,03961,4,"M,TU,W,TH,F10.30-11.35",WEB ARR,May 10--Jun 27,P Buckley
 CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,03962,0,"TU,TH12-12.50",WEB ARR,May 10--Jun 27,""
 CHEM,105,[PSCI] Principles of Chemistry I,02 Lab,03963,0,"TU,TH12-12.50",WEB ARR,May 10--Jun 27,""
-CHEM,105,[PSCI] Principles of Chemistry I,03 Lab,03978,0,"TU,TH12-12.50",WEB ARR,May 10--Jun 27,""
 CHEM,106,Principles of Chemistry II,01,03964,4,"M,TU,W,TH,F10.30-11.35",WEB ARR,Jun 28--Aug 15,K Nishida
 CHEM,106,Principles of Chemistry II,01 Lab,03965,0,"TU,TH13-13.50",WEB ARR,Jun 28--Aug 15,""
 CHEM,106,Principles of Chemistry II,02 Lab,03966,0,"TU,TH13-13.50",WEB ARR,Jun 28--Aug 15,""
@@ -124,11 +122,11 @@ CHEM,345,Organic Chemistry I,01,03968,4,"M,TU,W,TH,F10.30-11.35",WEB ARR,May 10-
 CHEM,345,Organic Chemistry I,01 Lab,03969,0,"W,TH12-14.45",WEB ARR,May 10--Jun 27,""
 CHEM,345,Organic Chemistry I,02 Lab,03970,0,"W,TH12-14.45",WEB ARR,May 10--Jun 27,""
 CHEM,345,Organic Chemistry I,03 Lab,03971,0,"W,TH12-14.45",WEB ARR,May 10--Jun 27,""
-CHEM,345,Organic Chemistry I,04 Lab,03972,0,"W,TH12-14.45",WEB ARR,May 10--Jun 27,""
 CHEM,348,Organic Chemistry II and Problem Solving,01,03973,4,"M,TU,W,TH,F10.30-11.35",WEB ARR,Jun 28--Aug 15,N Holloran
 CHEM,348,Organic Chemistry II and Problem Solving,01 Lab,03974,0,"TU,W13-15",WEB ARR,Jun 28--Aug 15,""
 CHEM,348,Organic Chemistry II and Problem Solving,02 Lab,03975,0,"TU,W13-15",WEB ARR,Jun 28--Aug 15,""
 CHEM,348,Organic Chemistry II and Problem Solving,03 Lab,03985,0,"TU,W13-15",WEB ARR,Jun 28--Aug 15,""
+CHEM,700,"Master's Research, Thesis, and/or Examination",01,03027,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CHEM,702,"Master's Special Problems, Directed Study, and/or Examination",01,03028,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CHEM,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 COM,495,Communication Professional Internship,01,"",V,ARRGT,ARR,May 10--Jul 30,A Schweigert
@@ -248,10 +246,8 @@ ENGLISH,101,[WRTG] College Composition,03,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--
 ENGLISH,101,[WRTG] College Composition,04,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,R Murphy
 ENGLISH,102,Writing Tutorial,01,03850,1,ARRGT,ARR ARR,May 10--Jun 18,B Walter
 ENGLISH,102,Writing Tutorial,06,"",1,"M,TU,W,TH9.10-10","",Jun 28--Jul 30,""
-ENGLISH,105,[WRTG] College Composition for Multilingual Writers,01,03780,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,N Idris
 ENGLISH,107,Writing Tutorial for Multilingual Writers,01,03696,1,ARRGT,ARR ARR,May 10--Jun 18,B Walter
 ENGLISH,216,Introduction to American Cultural Studies,01,07658,3,"M,TU,W,TH,F10-11.25",WEB ARR,Jun 21--Jul 30,T Carrasco
-ENGLISH,251,[ARTS] Introduction to Creative Writing: Exploring the Genres,01,03940,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,C Criss
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,03699,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,L Levy
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,03700,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,P Chilson
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,03871,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,E Nawabi
@@ -277,7 +273,7 @@ ENGR,204,Metal Fabrication,01 Lab,07679,0,"M,TU,W,TH,F13.10-16",ELB 59,Jun 07--J
 ENGR,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 ENGR,489,Professional Practice Coop/Internship II,01,"",1,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 ENTOM,101,[BSCI] Insects and People: A Perspective,01,03704,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,J Gutierrez Illan
-ENTOM,103,[BSCI] Discover Insects: Laboratory for Non-Science Majors,01,03781,1,"TU,W12-15",WEB ARR,May 10--Jun 18,L Lavine
+ENTOM,103,[BSCI] Discover Insects: Laboratory for Non-Science Majors,01,03781,1,"TU,W12-15",WEB ARR,May 10--Jun 18,A Hayes
 ENTOM,490,Special Topics in Entomology,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 ENTOM,590,Special Topics in Entomology,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 ENTOM,700,"Master's Research, Thesis, and/or Examination",01,03196,V,ARRGT,ARR ARR,May 10--Jul 30,E Beers
@@ -340,7 +336,6 @@ HISTORY,216,Introduction to American Cultural Studies,01,07659,3,"M,TU,W,TH,F10-
 HISTORY,387,World War II in Asia and the Pacific,02,04091,3,"M,W14.30-17.50",WEB ARR,Jun 21--Jul 30,B Farley
 HISTORY,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,May 10--Jul 30,B Farley
 HONORS,280,Contextual Understanding in the Arts and Humanities,02,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,C Zavala
-HONORS,370,Case Study: Global Issues in Social Sciences,03,03551,3,"M,TU,W,TH,F10-11.15",WEB ARR,May 10--Jun 18,K Andersen
 HORT,399,Professional Work Experience,01,03098,V,ARRGT,ARR ARR,May 10--Jul 30,A Snider
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -391,6 +386,7 @@ I_BUS,482,[M] International Marketing,01,07927,3,"M,TU,W,TH,F13.30-14.45",WEB AR
 I_BUS,496,Special Topics,07,"",3,W10.30-12,WEB ARR,May 10--Jul 02,J Joireman
 I_D,490,Cooperative Education Internship,01,03576,V,ARRGT,ARR ARR,May 10--Jul 30,R Krikac
 I_D,598,Topics in Interior Design,01,03980,V,ARRGT,ARR ARR,Jun 28--Aug 15,""
+I_D,702,"Master's Special Problems, Directed Study and/or Examination",01,08596,V,ARRGT,ARR ARR,Jun 21--Jul 30,A Pulay
 ISE,300,INTRN'L EXCH,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 KIN_ACTV,112,Beginning Weight Training,01,08402,1,ARRGT,ARR ARR,May 10--Jun 18,C Donahoo
 KIN_ACTV,118,Yoga,01,08403,1,"M,TU,W,TH14-15.15",WEB ARR,May 10--Jun 18,S Pennestri
@@ -415,7 +411,7 @@ KINES,536,Methods of Health and Physical Education,01,07779,2,"M,W,F8-10.05",WEB
 LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,03577,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 LND_ARCH,490,Cooperative Education Internship,01,03983,4,ARRGT,ARR ARR,May 10--Jul 30,J Kaytes
 LND_ARCH,499,Special Problems,01,08516,V,ARRGT,ARR ARR,May 10--Jul 30,J Kaytes
-MATH,103,Algebra Methods and Introduction to Functions,01,03716,3,"M,TU,W,TH,F10.30-11.45",SPRK 335,May 10--Jun 18,J Eld
+MATH,103,Algebra Methods and Introduction to Functions,01,03716,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,J Eld
 MATH,106,College Algebra,01,03718,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,I Bassa Hewayalage
 MATH,106,College Algebra,02,03875,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,T Alsmadi
 MATH,108,Trigonometry,01,07780,2,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 04,J Dickson
@@ -447,6 +443,7 @@ MATH,540,Applied Mathematics I: PDEs,02,08514,3,"M,TU,W,TH12-13.15",WEB ARR,Jun 
 MATH,548,Numerical Analysis,02,08577,3,"M,TU,W,TH,F10.10-11.25",VC PUL,May 10--Jun 18,S Lapin
 MATH,702,"Master's Special Problems, Directed Study, and/or Examination",01,03113,V,ARRGT,ARR ARR,May 10--Jul 30,""
 MATH,800,"Doctoral Research, Dissertation, and/or Examination",01,03114,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+MATSE,800,"Doctoral Research, Dissertation, and/or Examination",01,03110,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01,07786,3,M13.30-16.30,WEB ARR,Jun 07--Jul 30,M Ederer
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01 Lab,07787,0,"TU,W,TH,F13.30-16.30",WEB ARR,Jun 07--Jul 30,M Ederer
 MBIOS,495,Internship Training,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -459,7 +456,7 @@ MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,03120,V,ARRGT
 ME,116,Engineering Computer-aided Design and Visualization,01,03762,2,"M,TU,W,TH,F8-11",WEB ARR,May 10--Jun 18,D Torick
 ME,212,Dynamics,01,07789,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,N Biswas
 ME,216,Integrated CAD Design,01,03763,2,"M,TU,W,TH,F7.30-10.30",WEB ARR,Jun 21--Jul 30,N Biswas
-ME,220,Materials Laboratory,01,07790,1,"M,W15-17",WEB ARR,Jul 12--Jul 30,""
+ME,220,Materials Laboratory,01,07790,1,"M,W15-17",WEB ARR,Jul 12--Jul 30,J Ding
 ME,301,Fundamentals of Thermodynamics,01,04006,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,A Morshed
 ME,303,Fluid Mechanics,01,04074,3,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,Y Hu
 ME,304,Heat Transfer,01,04075,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,P Dutta
@@ -473,7 +470,7 @@ ME,316,Mechanical Component Analysis and Design,01,04007,3,"M,TU,W,TH,F10.45-12"
 ME,348,Dynamics Systems,01,04008,3,"M,TU,W,TH,F10.45-12",WEB ARR,Jun 21--Jul 30,Y Hu
 ME,405,Thermal Systems Design,01,04103,3,"M,TU,W,TH,F9.15-10.30",WEB ARR,Jun 21--Jul 30,A Morshed
 ME,406,[M] Experimental Design,01,07662,3,"M,TU,W,TH,F8-10",WEB ARR,May 10--May 28,J Ding
-ME,406,[M] Experimental Design,01 Lab,07663,0,ARRGT,ARR ARR,May 10--May 28,""
+ME,406,[M] Experimental Design,01 Lab,07663,0,ARRGT,ARR ARR,May 10--May 28,J Ding
 ME,461,Introduction to Nuclear Engineering,01,04101,3,"M,TU,W,TH,F16.30-17.45",WEB ARR,Jun 21--Jul 30,D Koch
 ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 ME,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -542,14 +539,14 @@ PHYSICS,101,[PSCI] General Physics,02 Lab,07814,0,"TU,TH15-15.30",WEB ARR,Jun 07
 PHYSICS,101,[PSCI] General Physics,03 Lab,07815,0,"TU,TH12-12.30",WEB ARR,Jun 07--Jul 30,""
 PHYSICS,101,[PSCI] General Physics,04 Lab,08526,0,"TU,TH10-10.30",WEB ARR,Jun 07--Jul 30,""
 PHYSICS,101,[PSCI] General Physics,05 Lab,08585,0,"TU,TH12-12.30",WEB ARR,Jun 07--Jul 30,""
-PHYSICS,102,[PSCI] General Physics,01,07816,4,"M,TU,W,TH,F10.30-11.20",WEB ARR,Jun 07--Jul 30,S Mossman
-PHYSICS,102,[PSCI] General Physics,01 Lab,07817,0,"TU,TH9.30-10",WEB ARR,Jun 07--Jul 30,""
-PHYSICS,102,[PSCI] General Physics,02 Lab,07818,0,"TU,TH12.30-13",WEB ARR,Jun 07--Jul 30,""
+PHYSICS,102,General Physics,01,07816,4,"M,TU,W,TH,F10.30-11.20",WEB ARR,Jun 07--Jul 30,S Mossman
+PHYSICS,102,General Physics,01 Lab,07817,0,"TU,TH9.30-10",WEB ARR,Jun 07--Jul 30,""
+PHYSICS,102,General Physics,02 Lab,07818,0,"TU,TH12.30-13",WEB ARR,Jun 07--Jul 30,""
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,07819,4,"M,TU,W,TH,F10.30-11.20",WEBS 16,Jun 01--Jul 30,N Cerruti
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01 Lab,07820,0,"TU,TH13-13.30",WEB ARR,Jun 07--Jul 30,""
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,02 Lab,07821,0,"TU,TH9-9.30",WEB ARR,Jun 01--Jul 30,""
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,01,07823,4,"M,TU,W,TH,F9-9.50",WEBS 16,Jun 01--Jul 30,N Cerruti
-PHYSICS,202,[PSCI] Physics for Scientists and Engineers II,01 Lab,07824,0,"TU,TH13.30-14",WEB ARR,Jun 07--Jul 30,""
+PHYSICS,202,Physics for Scientists and Engineers II,01,07823,4,"M,TU,W,TH,F9-9.50",WEBS 16,Jun 01--Jul 30,N Cerruti
+PHYSICS,202,Physics for Scientists and Engineers II,01 Lab,07824,0,"TU,TH13.30-14",WEB ARR,Jun 07--Jul 30,""
 PHYSICS,700,"Master's Research, Thesis, and/or Examination",01,03139,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 PHYSICS,702,"Master's Special Problems, Directed Study and/or Examination",01,03140,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 PHYSICS,800,"Doctoral Research, Dissertation, and/or Examination",01,03141,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
@@ -609,6 +606,8 @@ SDC,140,Foundation Studio I,01,03896,3,"M,TU,W,TH,F10.30-12.30",WEB ARR,Jun 21--
 SDC,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 SHS,202,American Sign Language II,02,08381,4,"M,TU,W,TH,F13-15.30",WEB ARR,Jun 07--Jul 02,M Ratsch
 SOC,350,Social Psychology,01,03894,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,A Lambros
+SOC,700,"Master's Research, Thesis, and/or Examination",01,03151,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+SOC,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR,May 10--Jul 30,(multiple)
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A King
 SOE,700,"Master's Research, Thesis, and/or Examination",01,03614,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,03616,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
@@ -652,14 +651,9 @@ SPEC_ED,700,"Master's Research, Thesis, and/or Examination",01,04105,V,ARRGT,ARR
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,04106,V,ARRGT,ARR ARR,May 10--Jul 30,""
 SPEC_ED,800,"Doctoral Research, Dissertation, and/or Examination",01,03162,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 SPMGT,101,[DIVR] Sport and Popular Culture: Trends and Issues,01,03767,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,T Crawford
-SPMGT,276,Introduction of Sport Management,01,03733,3,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,Y Rhee
-SPMGT,290,Sport Programs,01,07536,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,C Lebens
-SPMGT,290,Sport Programs,01 Lab,08571,0,ARRGT,ARR ARR,May 10--Jun 18,C Lebens
-SPMGT,367,[M] Sport in American Society,01,03836,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,H Evans
-SPMGT,374,Sport Finance,01,03828,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,T Crawford
-SPMGT,377,Legal Aspects of Sport,01,04076,3,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,C Lebens
 SPMGT,394,Practicum in Sport Management,01,03163,V,ARRGT,ARR ARR,May 10--Jul 30,T Crawford
 SPMGT,491,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Licen
+SPMGT,491,Internship,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 STAT,360,Probability and Statistics,01,03735,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,X Wen
 STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,03602,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,03660,V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -682,7 +676,6 @@ TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,03175,V,ARR
 UNIV,100,College Majors and Career Exploration,01,"",1,"M,TU,W,TH9.10-10","",Jun 28--Jul 30,A Morgan
 UNIV,110,Developing Academic Strategies for Reading and Writing,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,J Bilek
 UNIV,111,Developing Academic Strategies for Listening and Discussion,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,L Reed
-UNIV,301,Career Exploration and Professional Development,01,"",1,ARRGT,ARR ARR,May 10--Jul 30,""
 UNIV,398,Internship,01,08501,V,ARRGT,ARR ARR,May 10--Jul 30,J Hopkins
 VET_CLIN,700,"Master's Research, Thesis, and/or Examination",01,03182,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 VET_CLIN,800,"Doctoral Research, Dissertation, and/or Examination",01,03184,V,ARRGT,"",May 10--Jul 30,(multiple)

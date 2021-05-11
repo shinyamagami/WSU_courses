@@ -8,6 +8,7 @@ ACCTG,338,Cost Accounting,01,10738,3,ARRGT,ARR ARR,Oct 18--Dec 12,B Barnes
 ACCTG,338,Cost Accounting,02,10747,3,ARRGT,ARR ARR,Oct 18--Dec 12,B Barnes
 ACCTG,439,[M] Auditing,01,10739,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Harris
 ACCTG,439,[M] Auditing,02,10748,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Harris
+ACCTG,439,[M] Auditing,03,10749,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Harris
 ACCTG,550,Introduction to Financial and Managerial Accounting,01,10530,3,ARRGT,ARR ARR,Nov 08--Dec 12,B Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,02,10531,3,ARRGT,ARR ARR,Nov 08--Dec 12,""
 ACCTG,550,Introduction to Financial and Managerial Accounting,03,10532,3,ARRGT,ARR ARR,Nov 08--Dec 12,B Wong-On-Wing
@@ -24,7 +25,7 @@ ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,17503,0,ARRGT,ARR
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,10249,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",02,10935,3,ARRGT,ARR ARR,Dec 18--Jan 09,C Smith
 ANTH,302,[SSCI] Childhood and Culture,01,10241,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-ANTH,316,[DIVR] Gender in Cross Cultural Perspective,01,10242,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ANTH,316,[DIVR] Gender in Cross Cultural Perspective,01,10242,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Weber
 ANTH,316,[DIVR] Gender in Cross Cultural Perspective,02,12295,3,ARRGT,ARR ARR,Dec 18--Jan 09,C Anderson
 ANTH,320,[DIVR] Native Peoples of North America,01,10487,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
 ANTH,331,[SSCI] Archaeology of the Americas,01,10952,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
@@ -186,8 +187,9 @@ E_E,464,Digital Signal Processing I,01,"",3,"TU,TH12.05-13.20",WEB ARR,Aug 23--D
 E_E,489,Introduction to Control Systems,01,"",3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,A Saberi
 E_E,491,Performance of Power Systems,01,10956,3,"TU,TH9.10-10.25","",Aug 23--Dec 10,M Venkatasubramanian
 E_E,492,Renewable Energy Sources,01,"",3,"M,W,F14.10-15","",Aug 23--Dec 10,J Guerrero Sedeno
-E_E,492,Renewable Energy Sources,03,17719,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
+E_E,492,Renewable Energy Sources,02,17719,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
+E_E,492,Renewable Energy Sources,02 Lab,17734,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
 E_E,493,Protection of Power Systems I,01,10423,3,"TU,TH16.20-17.35","",Aug 23--Dec 10,S Lotfifard
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Kejariwal
 E_E,526,High Voltage Overhead Transmission Lines,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,R Olsen
@@ -198,9 +200,9 @@ E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,Aug 23-
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,"",Aug 23--Dec 10,R Crick
-E_M,522,Leading People and Organizations,01,10278,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,522,Leading People and Organizations,02,10885,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,530,Applications of Constraints Management,01,10412,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Magpili
+E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,WEB ARR,Aug 23--Dec 10,K Bachman
+E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,WEB ARR,Aug 23--Dec 10,K Bachman
+E_M,530,Applications of Constraints Management,01,10412,3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
 E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
 E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,WEB ARR,Aug 23--Dec 10,A Squires
@@ -587,8 +589,8 @@ STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 
 STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Li
 STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
 STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
-TCH_LRN,415,Student Teaching,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
-TCH_LRN,415,Student Teaching,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
+TCH_LRN,415,Student Teaching,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
+TCH_LRN,415,Student Teaching,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
 TCH_LRN,499,Special Problems,01,10734,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 TCH_LRN,590,Internship,01,10416,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,10463,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -600,7 +602,7 @@ UNIV,497,Peer Leadership,01,10214,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Newlon
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,10844,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 WOMEN_ST,230,Human Sexuality,01,10365,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 WOMEN_ST,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10967,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,01,10243,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,01,10243,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Weber
 WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,02,12298,3,ARRGT,ARR ARR,Dec 18--Jan 09,C Anderson
 WOMEN_ST,324,Psychology of Gender,01,10372,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 WOMEN_ST,351,[DIVR] The Family,02,17974,3,ARRGT,ARR ARR,Dec 18--Jan 09,""

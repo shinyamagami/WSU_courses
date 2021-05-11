@@ -1,5 +1,4 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
-ACCTG,230,Introduction to Financial Accounting,01,04256,3,"TU,TH11-14.20",WEB ARR,May 10--Jun 18,K Jones
 AIS,320,[DIVR] Native Peoples of North America,01,04501,3,"M,TU,W,TH12.45-14.20",WEB ARR,May 10--Jun 18,M Mansperger
 ANTH,305,[SSCI] Anthropology of Epidemic Disease and Bioterrorism,01,07861,3,"M,TU,W,TH11-12.35",WEB ARR,Jun 21--Jul 30,M Mansperger
 ANTH,320,[DIVR] Native Peoples of North America,01,04252,3,"M,TU,W,TH12.45-14.20",WEB ARR,May 10--Jun 18,M Mansperger
@@ -95,7 +94,6 @@ ME,116,Engineering Computer-aided Design and Visualization,01,04137,2,"M,W,F14-1
 ME,212,Dynamics,01,04230,3,"TU,TH9.15-10.50",WEB ARR,May 10--Jul 30,J Iannelli
 ME,216,Integrated CAD Design,01,04138,2,"M,W,F14-18.30",WEB ARR,Jun 21--Jul 30,C Yang
 ME,220,Materials Laboratory,02,08568,1,TH10-16.40,WEB ARR,Jun 21--Jul 30,Y Zhang
-ME,303,Fluid Mechanics,01,04237,3,"M,W,F14.45-17",WEB ARR,May 10--Jun 18,Y Zhang
 ME,401,Mechatronics,01,06021,3,"TU,TH11-12.35",WEB ARR,Jun 07--Jul 30,C Mo
 ME,401,Mechatronics,01 Lab,06022,0,"TU,TH12.50-15.20",WEB ARR,Jun 07--Jul 30,C Mo
 ME,481,Control Systems,01,08592,3,"TU,TH16.15-17.50",WEB ARR,May 10--Jul 30,J Iannelli
@@ -120,11 +118,11 @@ MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,ARR
 MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Kaczmark
 MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
 MED_CLIN,543,Clinical Rotation - Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
-MED_CLIN,544,Internal Medicine - Nephrology,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,544,Internal Medicine - Nephrology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,545,Internal Medicine - Critical Care,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
-MED_CLIN,546,Surgery - Vascular Surgery,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
-MED_CLIN,547,Internal Medicine - Cardiology,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
-MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,546,Surgery - Vascular Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,547,Internal Medicine - Cardiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,551,Clinical Rotation - Pathology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson

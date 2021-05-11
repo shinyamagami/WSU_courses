@@ -24,6 +24,13 @@ ED_RES,565,Quantitative Research,01,16516,3,TU17.45-20.30,VC SPK,Aug 23--Dec 10,
 ED_RES,571,Doctoral Dissertation Preparation,02,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,K Huggins
 H_D,600,Special Projects or Independent Study,01,17191,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MBIOS,578,Bioinformatics,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
+MED_FMS,501,Foundations of Medical Science I,01,16719,14,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
+MED_FMS,501,Foundations of Medical Science I,01 Lab,16720,0,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
+MED_FMS,511,Foundations of Medical Science IV,01,16715,13,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
+MED_FMS,511,Foundations of Medical Science IV,01 Lab,16716,0,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
+MED_LMH,511,Leadership and Management in Healthcare: Microsystem to Macrosystem,01,16717,1,ARRGT,ARR ARR,Aug 23--Nov 24,C Heine
+MED_LMH,531,Personal Leadership Development I,01,16861,1,ARRGT,ARR ARR,Aug 23--Nov 24,J Haney
 NEP,320,Strength Training and Conditioning; Theory and Application,01,16561,3,"M,W8.10-9",ARR ARR,Aug 23--Dec 10,J Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,01 Lab,16569,0,TU9.10-12,SHER 328,Aug 23--Dec 10,J Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,02 Lab,16570,0,TU13.10-16,SHER 328,Aug 23--Dec 10,J Larsen
@@ -675,12 +682,14 @@ PHARMACY,595,HIV - Advanced Therapeutics,01,15580,2,W15.10-17,GUC SPK,Aug 23--De
 PHARMACY,595,HIV - Advanced Therapeutics,50,15578,2,W15.10-17,ARR ARR,Aug 23--Dec 10,R Crutchley
 PHARMACY,599,Special Projects,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARMACY,599,Special Projects,50,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Kim
-PHARMSCI,520,Foundations of Molecular Regulation and Cellular Regulation,01,15594,4,"M,W10.10-11.50",VC SPK,Aug 23--Dec 10,S Daoud
-PHARMSCI,520,Foundations of Molecular Regulation and Cellular Regulation,50,15605,4,"M,W10.10-11.50",ARR ARR,Aug 23--Dec 10,S Daoud
+PHARMSCI,520,Foundations of Molecular Regulation and Cellular Regulation,01,15594,4,"W,F10.10-11.50",VC SPK,Aug 23--Dec 10,S Daoud
+PHARMSCI,520,Foundations of Molecular Regulation and Cellular Regulation,50,15605,4,"W,F10.10-11.50",ARR ARR,Aug 23--Dec 10,S Daoud
 PHARMSCI,560,Molecular and Cellular Methods in Biomedical Sciences,01,15595,3,W13.10-15.40,VC SPK,Aug 23--Dec 10,S Wang
 PHARMSCI,560,Molecular and Cellular Methods in Biomedical Sciences,50,15602,3,W13.10-15.40,ARR ARR,Aug 23--Dec 10,S Wang
 PHARMSCI,566,Fundamentals of Toxicology,01,15606,3,M13.10-15.40,VC SPK,Aug 23--Dec 10,A Ahmed
 PHARMSCI,566,Fundamentals of Toxicology,50,15607,3,M13.10-15.40,ARR ARR,Aug 23--Dec 10,A Ahmed
+PHARMSCI,573,Principles of Pharmacokinetics and Toxicokinetics,01,"",3,M9.10-11.40,VC SPK,Aug 23--Dec 10,""
+PHARMSCI,573,Principles of Pharmacokinetics and Toxicokinetics,50,"",3,M9.10-11.40,ARR ARR,Aug 23--Dec 10,M Paine
 PHARMSCI,577,Responsible Conduct in Biomedical Research,01,15589,3,TU15.10-17.40,VC SPK,Aug 23--Dec 10,A Lazarus
 PHARMSCI,577,Responsible Conduct in Biomedical Research,50,15600,3,TU15.10-17.40,ARR ARR,Aug 23--Dec 10,A Lazarus
 PHARMSCI,597,College of Pharmacy Graduate Seminar,01,15590,1,F12.10-13,GUC SPK,Aug 23--Dec 10,A Lazarus
@@ -696,7 +705,7 @@ PSYCH,506,Current Research in Psychology,01,17580,1,W16.10-17,VC SPK,Aug 23--Dec
 PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,17987,3,"TU,TH12.05-13.20",VC SPK,Aug 23--Dec 10,C Cuttler
 PSYCH,523,Health Psychology,01,16384,3,M13.10-14,VC SPK,Aug 23--Dec 10,R Magnan
 PSYCH,592,Cognition and Affective Basis of Behavior,01,"",3,W9.10-12,VC SPK,Aug 23--Dec 10,L Fournier
-PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,H Van Dongen
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,K Honn
 SHS,201,American Sign Language I,02,15626,4,"TU,TH12.10-13",VC SPK,Aug 23--Dec 10,M Ratsch
 SHS,201,American Sign Language I,"","","","TU,TH12.10-13","","",""
@@ -744,4 +753,6 @@ SHS,588,Advanced Speech and Sound Disorders,02,15652,2,TH10.10-11.50,GUC SPK,Aug
 SHS,600,Special Projects or Independent Study,01,15666,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SHS,700,"Master's Research, Thesis, and/or Examination",01,15667,V,ARRGT,"",Aug 23--Dec 10,A Meredith
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,15653,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+TCH_LRN,415,Student Teaching,01,16389,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
+TCH_LRN,415,Student Teaching,01 Lab,16390,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
 TCH_LRN,581,Learning and Development in Mathematics and Science,01,17894,3,W17.45-20.30,VC SPK,Aug 23--Dec 10,A Roth-Mcduffie
