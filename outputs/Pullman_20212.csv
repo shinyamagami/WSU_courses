@@ -24,6 +24,7 @@ AGTM,495,Internship in Agricultural Technology and Management,02,"",V,ARRGT,ARR 
 AGTM,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,T Wheeler
 AGTM,499,Special Problems,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Baser
 AMDT,498,Special Topics,01,03528,V,ARRGT,ARR ARR,May 10--Jul 30,S Hiscock
+AMDT,498,Special Topics,01,08604,V,ARRGT,ARR ARR,May 10--Jul 30,S Hiscock
 AMDT,700,"Master's Research, Thesis, and/or Examination",01,03422,V,ARRGT,ARR ARR,May 10--Jul 30,C Hwang
 AMDT,700,"Master's Research, Thesis, and/or Examination",02,03586,V,ARRGT,ARR ARR,May 10--Jul 30,H Liu
 AMDT,700,"Master's Research, Thesis, and/or Examination",03,03587,V,ARRGT,ARR ARR,May 10--Jul 30,T Chi
@@ -33,6 +34,7 @@ AMDT,702,"Master's Special Problems, Directed Study and/or Examination",02,08590
 AMER_ST,216,Introduction to American Cultural Studies,01,07337,3,"M,TU,W,TH,F10-11.25",WEB ARR,Jun 21--Jul 30,T Carrasco
 AMER_ST,800,"Doctoral Research, Dissertation, and/or Examination",01,03000,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ANIM_SCI,399,Practicum,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,G Murdoch
+ANIM_SCI,504,Special Topics,01,08600,V,ARRGT,ARR ARR,May 10--Jul 30,M Maquivar
 ANTH,101,[DIVR] Introduction to Anthropology,01,03671,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,D Weber
 ANTH,101,[DIVR] Introduction to Anthropology,03,03856,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,Jun 21--Jul 30,J Rumberger
 ANTH,201,[HUM] Art and Society,01,03855,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,P Moonkham
@@ -55,8 +57,8 @@ ARCH,510,Summer Graduate Design Studio,01,07722,6,"M,TU,W,TH8-13",WEB ARR,Jun 07
 ARCH,510,Summer Graduate Design Studio,02,07723,6,"M,TU,W,TH9-14",WEB ARR,May 17--Jul 02,A Rahmani
 ARCH,580,Architecture Practicum,01,07640,V,ARRGT,ARR ARR,May 10--Jul 30,O Al-Hassawi
 ARCH,580,Architecture Practicum,02,07716,V,ARRGT,ARR ARR,Jul 31--Aug 22,O Al-Hassawi
-ATH_T,575,Pharmacology in Athletic Training,01,07537,3,"M,TU,W,TH,F10.45-12.15",WEB ARR,May 17--Jun 18,K Pietz
-ATH_T,595,Leadership and Communication in Athletic Training,01,07538,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 17--Jun 18,K Hildenbrand
+ATH_T,575,Pharmacology in Athletic Training,01,07537,3,"M,TU,W,TH,F10.45-12.15",SGYM 214A,May 17--Jun 18,K Pietz
+ATH_T,595,Leadership and Communication in Athletic Training,01,07538,3,"M,TU,W,TH,F9-10.15",SGYM 214A,May 17--Jun 18,K Hildenbrand
 B_A,102,Exploring Careers in Business,01,04088,1,"TU,TH9.10-10",WEB ARR,May 10--Jun 18,M Chapman
 B_A,204,Spreadsheets,01,08478,1,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--May 21,B Amer
 B_A,205,Data Visualization,02,08479,1,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 24--Jun 05,B Amer
@@ -64,10 +66,10 @@ B_A,206,Decision Analysis,01,08480,1,"M,TU,W,TH,F10.30-11.45",WEB ARR,Jun 07--Ju
 BIO_ENG,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 BIO_ENG,495,Internship in Bioengineering,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,A Vasavada
 BIO_ENG,499,Special Problems in Bioengineering,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,03672,4,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,L Carloye
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01 Lab,03673,0,"TU,TH9-12",WEB ARR,May 10--Jun 18,L Carloye
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02 Lab,03674,0,"TU,TH13.30-16.30",WEB ARR,May 10--Jun 18,""
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,03 Lab,03675,0,"TU,TH18-21",WEB ARR,May 10--Jun 18,L Carloye
+BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,03672,4,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,H Mcisaac
+BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01 Lab,03673,0,"TU,TH9-12",WEB ARR,May 10--Jun 18,H Mcisaac
+BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02 Lab,03674,0,"TU,TH13.30-16.30",WEB ARR,May 10--Jun 18,H Mcisaac
+BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,03 Lab,03675,0,"TU,TH18-21",WEB ARR,May 10--Jun 18,H Mcisaac
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01,07735,4,"M,TU,W,TH,F10.30-11.20",WEB ARR,May 10--Jul 02,J Hinz
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01 Lab,07736,0,"M,W12.30-15.30",WEB ARR,May 10--Jul 02,J Hinz
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,02 Lab,07737,0,"TU,TH12.30-15.30",WEB ARR,May 10--Jul 02,J Hinz
@@ -89,6 +91,7 @@ CE,302,Introduction to Surveying,01 Lab,07421,0,"M,TU,W,TH,F8.40-11.10",SLOA 235
 CE,302,Introduction to Surveying,02 Lab,07422,0,"M,TU,W,TH,F11.30-14",SLOA 235,May 10--May 28,K Olsen
 CE,414,Structural Design Loads and Load Paths,01,07423,3,"M,TU,W,TH,F9-11",WEB ARR,May 10--Jun 04,A Manawadu
 CE,463,Engineering Administration,01,07419,3,"M,TU,W,TH,F14.10-16.40",WEB ARR,May 10--May 28,R Petersen
+CE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 CE,543,Advanced Topics in Environmental Engineering Practice,01,"",V,ARRGT,ARR ARR,May 10--Jun 27,T Ginn
 CE,600,Special Projects or Independent Study,01,03588,V,ARRGT,ARR ARR,May 10--Jul 30,""
 CE,700,"Master's Research, Thesis and/or Examination",01,03199,V,ARRGT,"",May 10--Jul 30,(multiple)
@@ -203,7 +206,6 @@ CST_M,370,Estimating I,01,"",3,"M,TU,W,TH9-11.45",WEB ARR,May 10--Jun 18,J Pesch
 CST_M,370,Estimating I,01 Lab,03752,0,ARRGT,ARR ARR,May 10--Jun 18,J Peschel
 CST_M,462,Planning and Scheduling,01,"",3,"M,TU,W,TH9-11.45",WEB ARR,Jun 21--Jul 30,R Cherf
 CST_M,462,Planning and Scheduling,01 Lab,"",0,ARRGT,ARR ARR,Jun 21--Jul 30,R Cherf
-DATA,115,Introduction to Data Analytics,01,07575,3,"M,TU,W,TH,F11-12.25",WEB ARR,May 10--Jun 18,S Chakraborty
 DTC,335,3D Digital Animation,01,03688,3,"M,TU,W,TH,F10.10-11",SPRK 210,May 10--Jun 18,J Riddle
 DTC,335,3D Digital Animation,01 Lab,03689,0,"M,TU,W,TH,F11.10-12",SPRK 210,May 10--Jun 18,J Riddle
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,R Gregory
@@ -256,7 +258,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,03702,3,"M,TU,W,TH,
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,06,03703,3,"M,TU,W,TH,F12-13.15",WEB ARR,May 10--Jun 18,C Harty
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,07,03872,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,D Martin
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,08,03873,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,Jun 21--Jul 30,A Heile
-ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,L Mccormick
 ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ENGLISH,590,Research in English Studies,01,"",1,ARRGT,ARR ARR,May 10--Jul 30,""
 ENGLISH,700,"Master's Research, Thesis, and/or Examination",01,03082,V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -336,6 +338,7 @@ HISTORY,216,Introduction to American Cultural Studies,01,07659,3,"M,TU,W,TH,F10-
 HISTORY,387,World War II in Asia and the Pacific,02,04091,3,"M,W14.30-17.50",WEB ARR,Jun 21--Jul 30,B Farley
 HISTORY,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,May 10--Jul 30,B Farley
 HONORS,280,Contextual Understanding in the Arts and Humanities,02,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,C Zavala
+HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 HORT,399,Professional Work Experience,01,03098,V,ARRGT,ARR ARR,May 10--Jul 30,A Snider
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -389,7 +392,7 @@ I_D,598,Topics in Interior Design,01,03980,V,ARRGT,ARR ARR,Jun 28--Aug 15,""
 I_D,702,"Master's Special Problems, Directed Study and/or Examination",01,08596,V,ARRGT,ARR ARR,Jun 21--Jul 30,A Pulay
 ISE,300,INTRN'L EXCH,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 KIN_ACTV,112,Beginning Weight Training,01,08402,1,ARRGT,ARR ARR,May 10--Jun 18,C Donahoo
-KIN_ACTV,118,Yoga,01,08403,1,"M,TU,W,TH14-15.15",WEB ARR,May 10--Jun 18,S Pennestri
+KIN_ACTV,118,Yoga,01,08403,1,"M,TU,W,TH14-15.15",WEB ARR,May 10--Jun 18,""
 KINES,201,[HUM] Exploring Meaning in Sport and Movement,01,03835,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,S Lewis
 KINES,262,Human Anatomy,01,03707,4,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,S Landis
 KINES,262,Human Anatomy,01 Lab,03708,0,"TU,TH10.30-12.30",WEB ARR,May 10--Jun 18,S Landis
@@ -516,7 +519,6 @@ MSE,600,Special Projects or Independent Study,01,03211,V,ARRGT,ARR ARR,May 10--J
 MSE,700,"Master's Research, Thesis, and/or Examination",01,03212,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MSE,702,"Master's Special Problems, Directed Study, and/or Examination",01,03213,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MUS,120,[ARTS] Class Guitar,01,03745,3,"M,TU,W,TH,F18-19.15",WEB ARR,May 10--Jun 18,G Condon
-MUS,151,Music Fundamentals I,01,07906,3,ARRGT,ARR ARR,Jun 21--Jul 30,D Pham
 MUS,164,Introduction to Music Technology,01,07410,1,ARRGT,ARR ARR,May 10--Jun 04,S Blasco
 MUS,202,Piano,01,07380,2,ARRGT,ARR ARR,May 10--Jun 18,Y Roh
 MUS,213,Contrabass,01,07405,2,ARRGT,ARR ARR,May 10--Jun 18,F Snider
@@ -676,7 +678,6 @@ TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,03175,V,ARR
 UNIV,100,College Majors and Career Exploration,01,"",1,"M,TU,W,TH9.10-10","",Jun 28--Jul 30,A Morgan
 UNIV,110,Developing Academic Strategies for Reading and Writing,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,J Bilek
 UNIV,111,Developing Academic Strategies for Listening and Discussion,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,L Reed
-UNIV,398,Internship,01,08501,V,ARRGT,ARR ARR,May 10--Jul 30,J Hopkins
 VET_CLIN,700,"Master's Research, Thesis, and/or Examination",01,03182,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 VET_CLIN,800,"Doctoral Research, Dissertation, and/or Examination",01,03184,V,ARRGT,"",May 10--Jul 30,(multiple)
 VET_MED,597,Special Topics,01,"",V,ARRGT,ARR ARR,May 10--Jun 14,S Martinez

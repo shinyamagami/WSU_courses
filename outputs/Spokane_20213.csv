@@ -8,8 +8,8 @@ ED_AD,509,Leading School Improvement,01,17298,3,W17.45-20.30,VC SPK,Aug 23--Dec 
 ED_AD,512,Leadership Studies for Social Justice,01,"",3,TU17.45-20.30,VC SPK,Aug 23--Dec 10,K Rodela
 ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,J Walls
 ED_AD,581,Politics in Education,01,16497,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-ED_AD,587,Seminar in School Administration,01,16498,V,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
-ED_AD,590,Internship,01,16506,V,ARRGT,"",Aug 23--Dec 10,G Hill
+ED_AD,587,Seminar in School Administration,01,16498,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
+ED_AD,590,Internship,01,16506,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,590,Internship,02,16507,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_AD,600,Special Projects or Independent Study,01,16504,V,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,16503,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Kruse
@@ -24,6 +24,7 @@ ED_RES,565,Quantitative Research,01,16516,3,TU17.45-20.30,VC SPK,Aug 23--Dec 10,
 ED_RES,571,Doctoral Dissertation Preparation,02,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,K Huggins
 H_D,600,Special Projects or Independent Study,01,17191,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MBIOS,503,Advanced Molecular Biology I,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Her
 MBIOS,578,Bioinformatics,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MED_FMS,501,Foundations of Medical Science I,01,16719,14,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
 MED_FMS,501,Foundations of Medical Science I,01 Lab,16720,0,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
@@ -557,23 +558,19 @@ NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
 NURS,800,"Doctoral Research, Dissertation, and/or Examination",01,15713,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARDSCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARDSCI,499,Special Problems,50,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PHARDSCI,502,Integrated Pharmacology I,01,15609,4,"TU,TH15.10-17",GUC SPK,Aug 23--Dec 10,D Jackson
+PHARDSCI,502,Integrated Pharmacology I,01,15609,4,"TU,TH15.10-17",SHSB 110Z,Aug 23--Dec 10,D Jackson
 PHARDSCI,502,Integrated Pharmacology I,50,15615,4,TU13.10-15,ARR ARR,Aug 23--Dec 10,D Brand
 PHARDSCI,502,Integrated Pharmacology I,"","","",TH15.10-17,ARR ARR,"",""
-PHARDSCI,504,Pharmacy Calculations,01,15610,1,TH13.10-15,GUC SPK,Aug 23--Dec 10,C Remsberg
+PHARDSCI,504,Pharmacy Calculations,01,15610,1,TU13.10-15,GUC SPK,Aug 23--Dec 10,C Remsberg
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,GUC SPK,"",""
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,GUC SPK,"",""
-PHARDSCI,504,Pharmacy Calculations,50,15618,1,TH13.10-15,ARR ARR,Aug 23--Dec 10,N Giruzzi
+PHARDSCI,504,Pharmacy Calculations,50,15618,1,TU13.10-15,ARR ARR,Aug 23--Dec 10,N Giruzzi
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,"",""
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,"",""
-PHARDSCI,508,Pharmaceutics I,01,15611,3,TH10.10-11.35,GUC SPK,Aug 23--Dec 10,C Remsberg
-PHARDSCI,508,Pharmaceutics I,"","","",F9.45-11,GUC SPK,"",""
-PHARDSCI,508,Pharmaceutics I,50,15617,3,TH10.10-11.35,ARR ARR,Aug 23--Dec 10,D Brand
-PHARDSCI,508,Pharmaceutics I,"","","",F9.45-11,ARR ARR,"",""
-PHARDSCI,528,Pharmacokinetics,01,15612,3,W8.45-10,GUC SPK,Aug 23--Dec 10,S Natesan
-PHARDSCI,528,Pharmacokinetics,"","","",F8.20-9.35,GUC SPK,"",""
-PHARDSCI,528,Pharmacokinetics,50,15616,3,W8.45-10,ARR ARR,Aug 23--Dec 10,D Bowers
-PHARDSCI,528,Pharmacokinetics,"","","",F8.20-9.35,ARR ARR,"",""
+PHARDSCI,508,Pharmaceutics I,01,15611,3,"TU,F9.45-11.10",GUC SPK,Aug 23--Dec 10,C Remsberg
+PHARDSCI,508,Pharmaceutics I,50,15617,3,"TU,F9.45-11.10",ARR ARR,Aug 23--Dec 10,D Brand
+PHARDSCI,528,Pharmacokinetics,01,15612,3,"TU,F8.10-9.35",GUC SPK,Aug 23--Dec 10,S Natesan
+PHARDSCI,528,Pharmacokinetics,50,15616,3,"TU,F8.10-9.35",ARR ARR,Aug 23--Dec 10,D Bowers
 PHARDSCI,532,Integrated Pharmacology III,01,15613,4,"TU,TH10.10-12",GUC SPK,Aug 30--Dec 10,S Marsh
 PHARDSCI,532,Integrated Pharmacology III,50,15619,4,"TU,TH10.10-12",ARR ARR,Aug 30--Dec 10,R Crutchley
 PHARDSCI,598,Honors Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -612,12 +609,12 @@ PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,SPBS 301,"",""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,02,15510,1,TU13.10-14,GUC SPK,Aug 31--Dec 10,K Mckeirnan
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W10.10-12,SPBS 304,"",""
-PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10-12,SPBS 301,"",""
-PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,SPBS 301,"",""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10-12,"","",""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,"","",""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,03,15511,1,TU13.10-14,GUC SPK,Aug 31--Dec 10,K Mckeirnan
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W13.10-15,SPBS 304,"",""
-PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10.10-12,SPBS 301,"",""
-PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,SPBS 301,"",""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M10.10-12,"","",""
+PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,"","",""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,50,15546,1,TU13.10-14,ARR ARR,Aug 31--Dec 10,C Buchman
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",W8.10-10,ARR ARR,"",""
 PHARMACY,531,Applied Patient Care II: Clinical Assessment and Documentation,"","","",M9-12,ARR ARR,"",""
@@ -661,8 +658,8 @@ PHARMACY,573,Family Medicine and Pharmacy,50,"",2,TU13.10-15,ARR ARR,Aug 23--Dec
 PHARMACY,577,"Diseases, Complications, and Drug Therapy in Obstetrics",01,15523,2,ARRGT,ARR ARR,Aug 23--Dec 10,A Blum
 PHARMACY,578,Leadership and Professional Development,01,15680,2,TU15.10-17,GUC SPK,Aug 30--Dec 10,J Robinson
 PHARMACY,578,Leadership and Professional Development,50,15681,2,TU15.10-17,ARR ARR,Aug 30--Dec 10,A Stewart
-PHARMACY,581,Acute Care Advanced Practice Experience,01,15524,5,ARRGT,"",Aug 23--Dec 10,J White
-PHARMACY,581,Acute Care Advanced Practice Experience,50,15564,5,ARRGT,"",Aug 23--Dec 10,J White
+PHARMACY,581,Acute Care Advanced Practice Experience,01,15524,5,ARRGT,ARR ARR,Aug 23--Dec 10,J White
+PHARMACY,581,Acute Care Advanced Practice Experience,50,15564,5,ARRGT,ARR ARR,Aug 23--Dec 10,J White
 PHARMACY,582,Ambulatory Care Advanced Practice Experience,01,15525,5,ARRGT,ARR ARR,Aug 23--Dec 10,J White
 PHARMACY,582,Ambulatory Care Advanced Practice Experience,50,15565,5,ARRGT,ARR ARR,Aug 23--Dec 10,J White
 PHARMACY,583,Community Advanced Practice Experience,01,15526,5,ARRGT,ARR ARR,Aug 23--Dec 10,J White
@@ -751,7 +748,7 @@ SHS,580,Special Topics in Speech and Hearing Sciences,02,15672,2,"TU,TH8.10-9","
 SHS,588,Advanced Speech and Sound Disorders,01,15651,2,M10.10-11.50,GUC SPK,Aug 23--Dec 10,G Lynch
 SHS,588,Advanced Speech and Sound Disorders,02,15652,2,TH10.10-11.50,GUC SPK,Aug 23--Dec 10,G Lynch
 SHS,600,Special Projects or Independent Study,01,15666,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SHS,700,"Master's Research, Thesis, and/or Examination",01,15667,V,ARRGT,"",Aug 23--Dec 10,A Meredith
+SHS,700,"Master's Research, Thesis, and/or Examination",01,15667,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,15653,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 TCH_LRN,415,Student Teaching,01,16389,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
 TCH_LRN,415,Student Teaching,01 Lab,16390,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli

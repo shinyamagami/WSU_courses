@@ -71,7 +71,7 @@ module WSUInPerson
         # semester = '20203'
         semesters.each do |semester|
 
-          doc = Nokogiri::HTML(open('http://schedules.wsu.edu/List/'+ campus+ '/' + semester))
+          doc = Nokogiri::HTML(URI.open('http://schedules.wsu.edu/List/'+ campus+ '/' + semester))
 
           subjects = doc.css('.prefixList').css('a')
       
@@ -119,7 +119,7 @@ module WSUInPerson
           name_on = 0
           sec_on = 0
 
-          doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{subject_url}"))
+          doc = Nokogiri::HTML(URI.open("http://schedules.wsu.edu#{subject_url}"))
           #section_links = doc.css('.class_schedule').css('.section').css('a')
 
 

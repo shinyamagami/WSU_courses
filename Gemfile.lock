@@ -10,7 +10,7 @@ GEM
     csv (3.1.9)
     diff-lcs (1.4.4)
     mini_portile2 (2.5.1)
-    nokogiri (1.11.3)
+    nokogiri (1.11.4)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     parallel (1.20.1)
@@ -60,7 +60,7 @@ DEPENDENCIES
   rubocop
 
 RUBY VERSION
-   ruby 2.7.1p83
+   ruby 2.7.3p183
 
 BUNDLED WITH
-   2.1.4
+   2.2.15
