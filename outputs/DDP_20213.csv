@@ -62,7 +62,7 @@ B_A,579,MBA Capstone,06,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,""
 B_A,579,MBA Capstone,07,10629,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,08,10630,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,09,10631,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
-B_A,579,MBA Capstone,12,10634,2,ARRGT,ARR ARR,Aug 23--Dec 12,""
+B_A,579,MBA Capstone,12,10634,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,13,10635,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,14,10636,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,599,Strategic Planning for Personal and Program Success,01,10995,1,ARRGT,ARR ARR,Aug 23--Sep 26,D Mundell
@@ -141,7 +141,7 @@ COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,0
 COMSTRAT,475,Strategic Communication Seminar in Public Relations,02,17648,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Waananen Jones
 COMSTRAT,476,Consumer Insights and Branding,01,10833,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Kistler
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,10810,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hawkins-Jedlicka
-COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Schweigert
+COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Stout
 COMSTRAT,561,Persuasion for Professional Communicators,01,10428,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Richardson
 COMSTRAT,562,Creative Media Strategies and Techniques,01,10316,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hawkins-Jedlicka
 COMSTRAT,563,Professional Digital Content Promotion,01,10317,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Cooney
@@ -154,18 +154,20 @@ CPT_S,215,Data Analytics Systems and Algorithms,01,10696,3,ARRGT,ARR ARR,Aug 23-
 CPT_S,315,Introduction to Data Mining,01,10215,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Jillepalli
 CPT_S,415,Big Data,01,10722,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Badri
 CPT_S,484,Software Requirements,01,10820,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
+CPT_S,515,Advanced Algorithms,01,10506,3,ARRGT,ARR ARR,Aug 23--Dec 10,Z Dang
+CPT_S,581,Software Maintenance,01,10750,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Arnaoudova
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,02,10898,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Reddy
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,04,10830,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 CRM_J,201,Introduction to Criminological Theory,01,10705,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Magana
 CRM_J,320,Criminal Law,01,10815,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hemmens
-CRM_J,321,Quantitative Methods for Criminal Justice,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-CRM_J,365,Juvenile Justice and Corrections,01,11100,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+CRM_J,321,Quantitative Methods for Criminal Justice,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,B Solensten
+CRM_J,365,Juvenile Justice and Corrections,01,11100,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Runyan
 CRM_J,370,Policing and Society,01,10899,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Marsh
 CRM_J,380,Criminal Courts in America,01,10814,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hemmens
 CRM_J,403,[CAPS] Violence Toward Women,01,10744,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Stohr
 CRM_J,403,[CAPS] Violence Toward Women,02,10831,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 CRM_J,420,[M] Criminal Procedure,01,10251,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Brody
-CRM_J,450,[M] Senior Seminar: Ethical Issues in Criminal Justice,01,10813,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+CRM_J,450,[M] Senior Seminar: Ethical Issues in Criminal Justice,01,10813,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Snyder
 CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Keopanapay
 CRM_J,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 DATA,115,Introduction to Data Analytics,01,10695,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Deford
@@ -212,7 +214,7 @@ E_M,585,Design of Experiments,01,10476,3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D P
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10684,V,F17.15-19.45,"",Aug 23--Dec 10,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,10284,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,101,[SSCI] Fundamentals of Microeconomics,02,10982,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
-ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,10285,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,10285,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Garcia
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,02,10838,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 ECONS,301,Intermediate Microeconomic Theory with Calculus,01,10671,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ECONS,305,Intermediate Microeconomics without Calculus,01,10481,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -280,7 +282,6 @@ FINE_ART,101,[ARTS] Introduction to Art,01,10321,3,ARRGT,ARR ARR,Aug 23--Dec 10,
 FINE_ART,103,[ARTS] 3D Art and Design,01,11136,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Palmer
 FINE_ART,110,[ARTS] Drawing,01,18020,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Holloman
 FOR_LANG,101,[HUM] Introduction to the World of Languages,01,10325,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-FOR_LANG,110,[DIVR] Introduction to Global Film,01,10897,3,ARRGT,ARR ARR,Dec 18--Jan 09,V Navarro-Daniels
 H_D,101,[SSCI] Human Development Across the Lifespan,01,10483,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Seeley
 H_D,200,Introduction to the Field of Human Development,01,10485,2,ARRGT,ARR ARR,Aug 23--Dec 10,W Ewest
 H_D,204,[SSCI] Family Interactions,01,10254,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Garcia
@@ -323,7 +324,6 @@ HBM,358,Foodservice Systems and Control,01,10556,3,ARRGT,ARR ARR,Aug 23--Oct 10,
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,J Harbour
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,H Andlid
 HBM,401,Career Management,01,10498,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
-HBM,470,Living Management Operations Analysis,01,17286,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Swanger
 HBM,491,Operational Analysis,01,10494,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Chen
 HBM,494,[M] Service Operations Management,02,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,B Marlowe
 HBM,494,[M] Service Operations Management,03,17583,3,ARRGT,ARR ARR,Oct 04--Dec 17,B Marlowe
@@ -336,7 +336,6 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,10204,3,ARRGT,ARR ARR,Aug
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10855,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Weller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,12247,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Harrington
 HISTORY,110,[HUM] American History to 1877,01,10827,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
-HISTORY,120,[DIVR] World History I,01,10869,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HISTORY,120,[DIVR] World History I,02,10828,3,ARRGT,ARR ARR,Dec 18--Jan 09,S Herzog
 HISTORY,300,[M] Writing about History,01,10811,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Thigpen
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,10205,3,ARRGT,ARR ARR,Aug 23--Dec 10,""

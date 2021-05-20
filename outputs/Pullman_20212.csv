@@ -24,7 +24,6 @@ AGTM,495,Internship in Agricultural Technology and Management,02,"",V,ARRGT,ARR 
 AGTM,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,T Wheeler
 AGTM,499,Special Problems,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Baser
 AMDT,498,Special Topics,01,03528,V,ARRGT,ARR ARR,May 10--Jul 30,S Hiscock
-AMDT,498,Special Topics,01,08604,V,ARRGT,ARR ARR,May 10--Jul 30,S Hiscock
 AMDT,700,"Master's Research, Thesis, and/or Examination",01,03422,V,ARRGT,ARR ARR,May 10--Jul 30,C Hwang
 AMDT,700,"Master's Research, Thesis, and/or Examination",02,03586,V,ARRGT,ARR ARR,May 10--Jul 30,H Liu
 AMDT,700,"Master's Research, Thesis, and/or Examination",03,03587,V,ARRGT,ARR ARR,May 10--Jul 30,T Chi
@@ -390,6 +389,7 @@ I_BUS,496,Special Topics,07,"",3,W10.30-12,WEB ARR,May 10--Jul 02,J Joireman
 I_D,490,Cooperative Education Internship,01,03576,V,ARRGT,ARR ARR,May 10--Jul 30,R Krikac
 I_D,598,Topics in Interior Design,01,03980,V,ARRGT,ARR ARR,Jun 28--Aug 15,""
 I_D,702,"Master's Special Problems, Directed Study and/or Examination",01,08596,V,ARRGT,ARR ARR,Jun 21--Jul 30,A Pulay
+INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,03176,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ISE,300,INTRN'L EXCH,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 KIN_ACTV,112,Beginning Weight Training,01,08402,1,ARRGT,ARR ARR,May 10--Jun 18,C Donahoo
 KIN_ACTV,118,Yoga,01,08403,1,"M,TU,W,TH14-15.15",WEB ARR,May 10--Jun 18,""
@@ -451,7 +451,7 @@ MBIOS,304,Microbiology and Molecular Biology Laboratory,01,07786,3,M13.30-16.30,
 MBIOS,304,Microbiology and Molecular Biology Laboratory,01 Lab,07787,0,"TU,W,TH,F13.30-16.30",WEB ARR,Jun 07--Jul 30,M Ederer
 MBIOS,495,Internship Training,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 MBIOS,498,Directed Research,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
-MBIOS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
+MBIOS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Maclean
 MBIOS,700,"Master's Research, Thesis, and/or Examination",01,03118,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,03595,V,ARRGT,ARR ARR,May 10--Jul 30,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,03119,V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -511,6 +511,7 @@ MKTG,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
 MKTG,600,Special Projects or Independent Study,01,03607,V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
 MKTG,702,"Master's Special Problems, Directed Study, and/or Examination",01,03608,V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
 MKTG,800,"Doctoral Research, Dissertation, and/or Examination",01,03609,V,ARRGT,ARR ARR,May 10--Jul 30,J Joireman
+MPS,800,"Doctoral Research, Dissertation and/or Examination",01,03128,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 MSE,201,Materials Science,01,03882,3,"M,TU,W,TH,F15-16.15",WEB ARR,May 10--Jun 18,I Sargin
 MSE,302,Electronic Materials,01,07841,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,S Li
 MSE,425,[M] Senior Thesis I,01,"",3,ARRGT,ARR ARR,May 10--Jul 30,J Ding
@@ -521,6 +522,7 @@ MSE,702,"Master's Special Problems, Directed Study, and/or Examination",01,03213
 MUS,120,[ARTS] Class Guitar,01,03745,3,"M,TU,W,TH,F18-19.15",WEB ARR,May 10--Jun 18,G Condon
 MUS,164,Introduction to Music Technology,01,07410,1,ARRGT,ARR ARR,May 10--Jun 04,S Blasco
 MUS,202,Piano,01,07380,2,ARRGT,ARR ARR,May 10--Jun 18,Y Roh
+MUS,202,Piano,02,07801,2,ARRGT,ARR ARR,Jun 21--Jul 30,J Svendsen
 MUS,213,Contrabass,01,07405,2,ARRGT,ARR ARR,May 10--Jun 18,F Snider
 MUS,220,Guitar,01,07846,2,ARRGT,ARR ARR,May 10--Jun 18,G Condon
 MUS,256,Seminar in Composition,01,"",2,ARRGT,ARR ARR,May 10--Jun 18,S Blasco
@@ -549,6 +551,7 @@ PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01 Lab,07820,0,"TU,TH1
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,02 Lab,07821,0,"TU,TH9-9.30",WEB ARR,Jun 01--Jul 30,""
 PHYSICS,202,Physics for Scientists and Engineers II,01,07823,4,"M,TU,W,TH,F9-9.50",WEBS 16,Jun 01--Jul 30,N Cerruti
 PHYSICS,202,Physics for Scientists and Engineers II,01 Lab,07824,0,"TU,TH13.30-14",WEB ARR,Jun 07--Jul 30,""
+PHYSICS,202,Physics for Scientists and Engineers II,02 Lab,07825,0,"TU,TH13.30-14",WEB ARR,Jun 07--Jul 30,""
 PHYSICS,700,"Master's Research, Thesis, and/or Examination",01,03139,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 PHYSICS,702,"Master's Special Problems, Directed Study and/or Examination",01,03140,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 PHYSICS,800,"Doctoral Research, Dissertation, and/or Examination",01,03141,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
