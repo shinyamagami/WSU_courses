@@ -1,7 +1,7 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 ACCTG,230,Introduction to Financial Accounting,01,08567,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,K Jones
 ACCTG,231,Introduction to Managerial Accounting,01,08517,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,K Jones
-ACCTG,335,Taxation of Business Entities and Individuals,01,"",3,"TU,TH19.15-20.30",WEB ARR,Aug 23--Dec 10,""
+ACCTG,335,Taxation of Business Entities and Individuals,01,"",3,"TU,TH19.15-20.30",WEB ARR,Aug 23--Dec 10,E Grant
 ACCTG,338,Cost Accounting,01,08518,3,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,K Jones
 ANTH,101,[DIVR] Introduction to Anthropology,01,08586,3,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,M Mansperger
 ANTH,203,[DIVR] Global Cultural Diversity,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -82,12 +82,12 @@ CE,700,"Master's Research, Thesis and/or Examination",01,08490,V,ARRGT,ARR ARR,A
 CE,702,"Master's Special Problems, Directed Study, and/or Examination",01,08491,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,800,"Doctoral Research, Dissertation, and/or Examination",01,08492,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CHE,461,Introduction to Nuclear Engineering,01,08546,3,"TU,TH16.20-17.35",VC TRI,Aug 23--Dec 10,R Stout
-CHE,510,Transport Processes,01,08420,3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,H Beyenal
+CHE,510,Transport Processes,01,08420,3,"M,W,F9.10-10",VC TRI,Aug 23--Dec 10,H Beyenal
 CHE,560,Biochemical Engineering,01,09769,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Zhang
-CHE,581,Advanced Topics in Chemical Engineering,01,09770,V,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,A Kostyukova
-CHE,598,Research Seminar,01,08422,1,M16.10-17,WEB ARR,Aug 23--Dec 10,J Petersen
-CHE,700,"Master's Research, Thesis, and/or Examination",01,08423,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-CHE,702,"Master's Special Problems, Directed Study, and/or Examination",01,08424,V,ARRGT,ARR ARR,Aug 23--Dec 10,X Zhang
+CHE,581,Advanced Topics in Chemical Engineering,01,09770,V,"TU,TH12.05-13.20",VC TRI,Aug 23--Dec 10,A Kostyukova
+CHE,598,Research Seminar,01,08422,1,M16.10-17,VC TRI,Aug 23--Dec 10,J Petersen
+CHE,700,"Master's Research, Thesis, and/or Examination",01,08423,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+CHE,702,"Master's Special Problems, Directed Study, and/or Examination",01,08424,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 CHE,800,"Doctoral Research, Dissertation, and/or Examination",01,08425,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CHEM,101,[PSCI] Introduction to Chemistry,01,08634,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,E Silva Lopez
 CHEM,101,[PSCI] Introduction to Chemistry,02,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
@@ -116,15 +116,15 @@ CPT_S,224,Programming Tools,01,08496,2,"TU,TH16.20-17.10",GUC TRI,Aug 23--Dec 10
 CPT_S,260,Introduction to Computer Architecture,01,08497,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,R Lewis
 CPT_S,302,Professional Skills in Computing and Engineering,01,08498,3,"M,W17.45-19",GUC TRI,Aug 23--Dec 10,E Hirt
 CPT_S,317,Automata and Formal Languages,01,08500,3,"M,W,F14.10-15",GUC TRI,Aug 23--Dec 10,J Miller
-CPT_S,411,Introduction to Parallel Computing,01,08860,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,A Kalyanaraman
-CPT_S,415,Big Data,02,09765,3,"M,W,F16.10-17",WEB ARR,Aug 23--Dec 10,J Yu
+CPT_S,411,Introduction to Parallel Computing,01,08860,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,A Sukumaran Rajam
+CPT_S,415,Big Data,02,09765,3,"TU,TH7.45-9",WEB ARR,Aug 23--Dec 10,J Yu
 CPT_S,421,Software Design Project I,01,09435,3,TU16.20-17.10,GUC TRI,Aug 23--Dec 10,A Austin
 CPT_S,421,Software Design Project I,01 Lab,09436,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Austin
 CPT_S,422,[M] Software Engineering Principles II,01,08501,3,"M,W,F15.10-16",GUC TRI,Aug 23--Dec 10,L Delatorre
 CPT_S,427,Computer Security,01,08715,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,A Jillepalli
 CPT_S,434,Neural Network Design and Application,01,09433,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,J Miller
 CPT_S,440,Artificial Intelligence,01,08502,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,L Holder
-CPT_S,442,Computer Graphics,01,08819,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,R Lewis
+CPT_S,442,Computer Graphics,01,08819,3,"TU,TH12.05-13.20",VC TRI,Aug 23--Dec 10,R Lewis
 CPT_S,453,Graph Theory,01,08909,3,"M,W,F14.10-15",WEB ARR,Aug 23--Dec 10,M Hudelson
 CPT_S,455,Introduction to Computer Networks,01,08821,3,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,R Swannack
 CPT_S,460,Operating Systems and Computer Architecture,01,08504,3,"M,W17.45-19",GUC TRI,Aug 23--Dec 10,L Delatorre
@@ -135,7 +135,7 @@ CPT_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,527,Computer Security,01,08716,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,A Jillepalli
 CPT_S,534,Neural Network Design and Application,01,09434,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,J Miller
 CPT_S,540,Artificial Intelligence,01,08503,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,L Holder
-CPT_S,542,Computer Graphics,01,08820,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,R Lewis
+CPT_S,542,Computer Graphics,01,08820,3,"TU,TH12.05-13.20",VC TRI,Aug 23--Dec 10,R Lewis
 CPT_S,553,Graph Theory,01,08910,3,"M,W,F14.10-15",WEB ARR,Aug 23--Dec 10,M Hudelson
 CPT_S,600,Special Projects or Independent Study,01,08510,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,08511,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -182,7 +182,7 @@ E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,08537,V,ARRGT,A
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,08579,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,J Timmons
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,08718,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,J Timmons
 ED_AD,501,Philosophy of Education,01,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,S Finley
-ED_AD,507,Social Foundations of Education,02,09427,3,"TU,TH17.45-20.30",GUC TRI,Aug 23--Dec 10,S Calderone
+ED_AD,507,Social Foundations of Education,02,09427,3,TH17.45-20.30,ARR ARR,Aug 23--Dec 10,S Calderone
 ED_AD,512,Leadership Studies for Social Justice,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,K Rodela
 ED_AD,516,Instructional and Curricular Leadership,01,08692,V,M17.45-20.30,WEB ARR,Aug 23--Dec 10,K Cowin
 ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,J Walls
@@ -246,6 +246,7 @@ FINE_ART,201,[ARTS] World Art History I,01,08791,3,"M,W,F13.10-14",GUC TRI,Aug 2
 FINE_ART,320,Beginning Painting,01,09449,3,"TU,TH13.30-16.20",GUC TRI,Aug 23--Dec 10,D Regul
 FINE_ART,331,"Art, Science, and Technology",01,08660,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,P Christenson
 FINE_ART,332,Introduction to Digital Media - Print and Web,01,09443,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,P Christenson
+FINE_ART,381,Beginning Photography,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 FINE_ART,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 FOR_LANG,110,[DIVR] Introduction to Global Film,01,09256,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,F Arellano Serratos
 FS,401,Topics in Food Science,01,"",V,TU13.30-14.20,GUC TRI,Aug 23--Dec 10,T Henick-Kling
@@ -353,7 +354,7 @@ ME,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ME,501,Continuum Mechanics,01,09262,3,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,J Iannelli
 ME,507,Additive Manufacturing,01,17975,3,"M,W17.45-19",GUC TRI,Aug 23--Dec 10,C Yang
 ME,532,Finite Elements,01,08857,3,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,Y Zhang
-ME,579,Advanced Topics in Mechanical Engineering,01,08815,V,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,""
+ME,579,Advanced Topics in Mechanical Engineering,01,08815,3,"TU,TH16.20-17.35",VC TRI,Aug 23--Dec 10,""
 ME,600,Special Projects or Independent Study,01,09390,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ME,700,"Master's Research, Thesis, and/or Examination",01,08548,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ME,702,"Master's Special Problems, Directed Study, and/or Examination",01,08549,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -812,3 +813,4 @@ VIT_ENOL,465,Wine Microbiology and Processing,01,08428,3,"M,W,F12.10-13",WEB ARR
 VIT_ENOL,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,G Ganjyal
 WOMEN_ST,324,Psychology of Gender,02,17178,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,S Bauman
 WRIT,302,Advanced Writing Collaborative,01,09437,1,ARRGT,ARR ARR,Aug 23--Dec 10,R Mays
+WRIT,302,Advanced Writing Collaborative,03,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,T Holland

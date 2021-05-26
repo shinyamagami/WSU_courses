@@ -94,10 +94,10 @@ CE,463,Engineering Administration,01,07419,3,"M,TU,W,TH,F14.10-16.40",WEB ARR,Ma
 CE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,S Brabb
 CE,543,Advanced Topics in Environmental Engineering Practice,01,"",V,ARRGT,ARR ARR,May 10--Jun 27,T Ginn
 CE,600,Special Projects or Independent Study,01,03588,V,ARRGT,ARR ARR,May 10--Jul 30,""
-CE,700,"Master's Research, Thesis and/or Examination",01,03199,V,ARRGT,"",May 10--Jul 30,(multiple)
+CE,700,"Master's Research, Thesis and/or Examination",01,03199,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CE,702,"Master's Special Problems, Directed Study, and/or Examination",01,03200,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
-CE,800,"Doctoral Research, Dissertation, and/or Examination",01,03201,V,ARRGT,"",May 10--Jul 30,(multiple)
-CES,101,[DIVR] Introduction to Comparative Ethnic Studies,01,"",3,"M,TU,W,TH,F13.30-14.30","",Jun 28--Jul 30,S Martin
+CE,800,"Doctoral Research, Dissertation, and/or Examination",01,03201,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+CES,101,[DIVR] Introduction to Comparative Ethnic Studies,01,07701,3,"M,TU,W,TH,F13.30-15","",Jun 28--Jul 30,S Martin
 CES,216,Introduction to American Cultural Studies,01,08438,3,"M,TU,W,TH,F10-11.25",WEB ARR,Jun 21--Jul 30,T Carrasco
 CHE,201,Chemical Process Principles and Calculations,01,03859,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,Jun 21--Jul 30,S Ha
 CHE,461,Introduction to Nuclear Engineering,01,04102,3,"M,TU,W,TH,F16.30-17.45",WEB ARR,Jun 21--Jul 30,D Koch
@@ -105,7 +105,7 @@ CHE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Ju
 CHE,495,Chemical Engineering Internship,01,"",2,ARRGT,ARR ARR,May 10--Jul 30,""
 CHE,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CHE,700,"Master's Research, Thesis, and/or Examination",01,03022,V,ARRGT,ARR,May 10--Jul 30,(multiple)
-CHE,702,"Master's Special Problems, Directed Study, and/or Examination",01,03023,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+CHE,702,"Master's Special Problems, Directed Study, and/or Examination",01,03023,V,ARRGT,ARR ARR,May 10--Jul 30,J Petersen
 CHE,800,"Doctoral Research, Dissertation, and/or Examination",01,03024,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 CHEM,101,[PSCI] Introduction to Chemistry,01,03954,4,"M,TU,W,TH,F10-11",WEB ARR,May 10--Jun 27,D Pope
 CHEM,101,[PSCI] Introduction to Chemistry,01 Lab,03955,0,"TU,TH12-12.50",WEB ARR,May 10--Jun 27,D Pope
@@ -218,7 +218,7 @@ E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,03064
 E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,03065,V,ARRGT,ARR,May 10--Jul 30,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,03690,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,A Murray
 ECONS,101,[SSCI] Fundamentals of Microeconomics,02,03868,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,K Garcia
-ECONS,101,[SSCI] Fundamentals of Microeconomics,03,"",3,"M,TU,W,TH,F13.30-15","",Jun 28--Jul 30,A Uddin
+ECONS,101,[SSCI] Fundamentals of Microeconomics,03,08449,3,"M,TU,W,TH,F13.30-15","",Jun 28--Jul 30,A Uddin
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,03691,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,M Mahoney
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,02,03869,3,"M,TU,W,TH,F12-13.15",WEB ARR,Jun 21--Jul 30,A G C
 ECONS,305,Intermediate Microeconomics without Calculus,01,03692,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,M Kondaridze
@@ -240,13 +240,13 @@ ED_PSYCH,600,Special Projects or Independent Study,01,03076,V,ARRGT,ARR ARR,May 
 ED_PSYCH,700,"Master's Research, Thesis, and/or Examination",01,03077,V,ARRGT,ARR ARR,May 10--Jul 30,""
 ED_PSYCH,702,"Master's Special Problems, Directed Study, and/or Examination",01,03078,V,ARRGT,ARR ARR,May 10--Jul 30,""
 ED_PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,03079,V,ARRGT,ARR ARR,May 10--Jul 30,""
-ENGLISH,100,Introductory College Composition,01,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,R Sanchez
+ENGLISH,100,Introductory College Composition,01,03949,3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,R Sanchez
 ENGLISH,101,[WRTG] College Composition,01,03695,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,M Thomas
-ENGLISH,101,[WRTG] College Composition,02,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,N Koenis
-ENGLISH,101,[WRTG] College Composition,03,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,W Richards
-ENGLISH,101,[WRTG] College Composition,04,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,R Murphy
+ENGLISH,101,[WRTG] College Composition,02,03944,3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,N Koenis
+ENGLISH,101,[WRTG] College Composition,03,03945,3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,W Richards
+ENGLISH,101,[WRTG] College Composition,04,03946,3,"M,TU,W,TH,F13.30-15","",Jun 28--Jul 30,R Murphy
 ENGLISH,102,Writing Tutorial,01,03850,1,ARRGT,ARR ARR,May 10--Jun 18,B Walter
-ENGLISH,102,Writing Tutorial,06,"",1,"M,TU,W,TH9.10-10","",Jun 28--Jul 30,""
+ENGLISH,102,Writing Tutorial,06,08495,1,"M,TU,W,TH9.10-10","",Jun 28--Jul 30,""
 ENGLISH,107,Writing Tutorial for Multilingual Writers,01,03696,1,ARRGT,ARR ARR,May 10--Jun 18,B Walter
 ENGLISH,216,Introduction to American Cultural Studies,01,07658,3,"M,TU,W,TH,F10-11.25",WEB ARR,Jun 21--Jul 30,T Carrasco
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,03699,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,L Levy
@@ -336,7 +336,7 @@ HISTORY,111,[HUM] American History Since 1877,01,08512,3,"M,TU,W,TH12.45-14.20",
 HISTORY,216,Introduction to American Cultural Studies,01,07659,3,"M,TU,W,TH,F10-11.25",WEB ARR,Jun 21--Jul 30,T Carrasco
 HISTORY,387,World War II in Asia and the Pacific,02,04091,3,"M,W14.30-17.50",WEB ARR,Jun 21--Jul 30,B Farley
 HISTORY,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,May 10--Jul 30,B Farley
-HONORS,280,Contextual Understanding in the Arts and Humanities,02,"",3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,C Zavala
+HONORS,280,Contextual Understanding in the Arts and Humanities,02,03943,3,"M,TU,W,TH,F10.30-12","",Jun 28--Jul 30,C Zavala
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 HORT,399,Professional Work Experience,01,03098,V,ARRGT,ARR ARR,May 10--Jul 30,A Snider
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
@@ -418,7 +418,7 @@ MATH,103,Algebra Methods and Introduction to Functions,01,03716,3,"M,TU,W,TH,F10
 MATH,106,College Algebra,01,03718,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 18,I Bassa Hewayalage
 MATH,106,College Algebra,02,03875,3,"M,TU,W,TH,F9-10.15",WEB ARR,Jun 21--Jul 30,T Alsmadi
 MATH,108,Trigonometry,01,07780,2,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 04,J Dickson
-MATH,108,Trigonometry,02,03876,2,"M,TU,W,TH13.30-14.35",WEB ARR,Jun 21--Jul 30,B Nelson
+MATH,108,Trigonometry,02,03876,2,"M,TU,W,TH13.30-14.35",WEB ARR,Jun 21--Jul 30,A Tower
 MATH,171,[QUAN] Calculus I,01,03999,4,"M,TU,W,TH,F9.30-10.45",WEB ARR,May 10--Jun 18,D Baral
 MATH,171,[QUAN] Calculus I,02,04085,4,"M,TU,W,TH,F9.30-10.45",WEB ARR,Jun 21--Jul 30,N Parks
 MATH,171,[QUAN] Calculus I,01 Lab,04000,0,"W,F12-14.40",WEB ARR,May 10--Jun 18,D Baral
@@ -430,7 +430,7 @@ MATH,202,[QUAN] Calculus for Business and Economics,01,03720,3,"M,TU,W,TH,F10.30
 MATH,202,[QUAN] Calculus for Business and Economics,02,03877,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,Jun 21--Jul 30,J Widen
 MATH,216,Discrete Structures,01,03906,3,"M,TU,W,TH,F13.30-14.45",WEB ARR,Jun 21--Jul 30,M Morgan
 MATH,220,Introductory Linear Algebra,01,07782,2,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 04,R Perrier
-MATH,220,Introductory Linear Algebra,02,03878,2,"M,TU,W,TH12-13.05",WEB ARR,Jun 21--Jul 30,A Tower
+MATH,220,Introductory Linear Algebra,02,03878,2,"M,TU,W,TH12-13.05",WEB ARR,Jun 21--Jul 30,B Nelson
 MATH,273,Calculus III,01,07783,2,"M,TU,W,TH,F13.30-14.45",WEB ARR,May 10--Jun 04,B Hellwig
 MATH,273,Calculus III,02,03905,2,"M,TU,W,TH9-10.05",WEB ARR,Jun 21--Jul 30,A Sijuwade
 MATH,300,Mathematical Computing,01,03879,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,Jun 21--Jul 30,J Shim
@@ -490,7 +490,7 @@ MGTOP,215,Business Statistics,01,03741,4,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Ju
 MGTOP,215,Business Statistics,01 Lab,03742,0,"TU,TH15-17.30",WEB ARR,May 10--Jun 18,S Shahsavand
 MGTOP,340,Operations Management,01,03743,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 10--Jun 18,T Almutairi
 MIS,250,Managing Information Technology,01,03725,3,"M,TU,W,TH,F10.30-11.45",WEB ARR,May 10--Jun 18,Z Mahid
-MIS,498,Management Information Systems Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
+MIS,498,Management Information Systems Internship,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,R Crossler
 MIS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
 MIT,501,Learning and Development in School and Community Contexts,01,07795,3,"M,TU,W,TH9-11.20",WEB ARR,Jun 07--Jul 02,A Rud
 MIT,502,Assessment for Teaching and Learning,01,07727,3,"M,TU,W,TH12-14.20",WEB ARR,Jun 07--Jul 02,R Mincks
@@ -678,7 +678,7 @@ TCH_LRN,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,May 10--
 TCH_LRN,700,"Master's Research, Thesis, and/or Examination",01,03173,V,ARRGT,ARR ARR,May 10--Jul 30,""
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,03174,V,ARRGT,ARR,May 10--Jul 30,""
 TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,03175,V,ARRGT,ARR,May 10--Jul 30,""
-UNIV,100,College Majors and Career Exploration,01,"",1,"M,TU,W,TH9.10-10","",Jun 28--Jul 30,A Morgan
+UNIV,100,College Majors and Career Exploration,01,08424,1,"M,TU,W,TH9.10-10","",Jun 28--Jul 30,A Morgan
 UNIV,110,Developing Academic Strategies for Reading and Writing,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,J Bilek
 UNIV,111,Developing Academic Strategies for Listening and Discussion,01,"",4,"M,TU,W,TH16.10-17",WEB ARR,May 10--Jul 30,L Reed
 VET_CLIN,700,"Master's Research, Thesis, and/or Examination",01,03182,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)

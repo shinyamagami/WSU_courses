@@ -15,15 +15,15 @@ ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 10--Jul
 MED_CLIN,521,Longitudinal Integrated Clerkship I,01,07048,8,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
 MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
-MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
 MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,534,Pediatrics - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,535,Psychiatry - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
 MED_CLIN,536,Obstetrics and Gynecology - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
 MED_CLIN,537,Emergency Medicine - Emergency Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
-MED_CLIN,538,Core - Rural Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
-MED_CLIN,539,Core - Underserved Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,538,Core - Rural Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
+MED_CLIN,539,Core - Underserved Medicine,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
 MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Kaczmark
 MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
@@ -43,7 +43,7 @@ MED_CLIN,553,Pediatrics - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C 
 MED_CLIN,554,Virtual - Telemedicine: Principles of Practice,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,555,Clinical Rotation - Telemedicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,556,Virtual - Basic Medical Spanish,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,F Williams
-MED_CLIN,560,Family Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,560,Family Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
 MED_CLIN,561,Internal Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,562,Obstetrics and Gynecology - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
 MED_CLIN,563,Pediatrics - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
@@ -86,11 +86,16 @@ MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,05,"",V,ARRGT,ARR ARR,Ju
 MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
 MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
-MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Haney
+MED_CLIN,586,Surgery - Neurological Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
 MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,589,Clinical Rotation - Transition to Residency,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
-MED_CLIN,591,Surgery - Otolaryngology (Head and Neck Surgery),01,08627,V,ARRGT,ARR ARR,Jun 28--Aug 20,""
+MED_CLIN,591,Surgery - Otolaryngology (Head and Neck Surgery),01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,592,Surgery - Plastic Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,594,Surgery - Urology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,595,Surgery - Surgery Critical Care,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,596,Surgery - Pediatric Surgical Specialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,597,Virtual - Virtual Clerkship,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
@@ -99,5 +104,7 @@ MED_CLIN,599,Special Projects,03,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
+MED_CLIN,602,Internal Medicine - Pulmonology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,621,Pediatrics - Emergency Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
 MED_CLIN,627,Psychiatry - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
