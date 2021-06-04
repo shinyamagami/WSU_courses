@@ -6,7 +6,7 @@ ANTH,320,[DIVR] Native Peoples of North America,01,14427,3,ARRGT,ARR ARR,Aug 23-
 B_A,211,"Ethics, Teams, and Innovation",02,"",3,"M,W13.30-14.45",EVRT 340,Aug 23--Dec 10,R Saylors
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,17658,3,"TU,TH16.20-17.35","",Aug 23--Dec 10,Y He
 COM,101,[SSCI] Media and Society,01,14417,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Taflinger
-COM,102,[COMM] Public Speaking in the Digital Age,01,14367,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Tsui
+COM,102,[COMM] Public Speaking in the Digital Age,01,14367,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Haider
 COM,105,[HUM] Communication in Global Contexts,01,14384,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Curtis
 COM,138,Introduction to Communication,01,14363,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Simmons
 COM,199,Murrow Student Ambassador Training,01,"",1,W9.10-10,VC EVE,Aug 23--Dec 10,M Johnson
@@ -27,6 +27,8 @@ COMSTRAT,476,Consumer Insights and Branding,01,14353,3,"M,W9.10-10.25",EVRT 254,
 COMSTRAT,476,Consumer Insights and Branding,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,M Kistler
 COMSTRAT,485,[M] Public Relations Management and Campaigns,03,15328,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Gillig
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Stout
+CPT_S,131,Program Design and Development Java,02,15066,4,"M,W,F8.10-9",EVRT 261,Aug 23--Dec 10,S Badri
+CPT_S,131,Program Design and Development Java,02 Lab,15067,0,W15.10-18,EVRT 261,Aug 23--Dec 10,S Badri
 CPT_S,215,Data Analytics Systems and Algorithms,01,14666,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Badri
 CPT_S,233,Advanced Data Structures Java,01,14406,3,"M,W,F13.10-14",EVRT 101,Aug 23--Dec 10,D Tao
 CPT_S,302,Professional Skills in Computing and Engineering,01,14413,3,"TU,TH13.30-14.45",EVRT 102,Aug 23--Dec 10,J Thompson
@@ -40,10 +42,12 @@ CPT_S,421,Software Design Project I,01,14876,3,"TU,TH14.55-16.10",EVRT 257,Aug 2
 CPT_S,421,Software Design Project I,01 Lab,14748,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
 CPT_S,422,[M] Software Engineering Principles II,01,14409,3,"TU,TH13.30-14.45",EVRT 257,Aug 23--Dec 10,B Zeng
 CPT_S,427,Computer Security,01,14410,3,"M,W,F12.10-13",EVRT 452,Aug 23--Dec 10,A Jillepalli
+CPT_S,430,Numerical Analysis,01,18270,3,"TU,TH10.35-11.50","",Aug 23--Dec 10,V Manoranjan
 CPT_S,440,Artificial Intelligence,01,14411,3,"TU,TH9.10-10.25",EVRT 101,Aug 23--Dec 10,L Holder
 CPT_S,453,Graph Theory,01,14749,3,"M,W,F14.10-15",EVRT 452,Aug 23--Dec 10,M Hudelson
 CPT_S,484,Software Requirements,01,14741,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
 CPT_S,489,Web Development,01,14969,3,"M,W,F15.10-16",EVRT 457,Aug 23--Dec 10,C Hundhausen
+CPT_S,581,Software Maintenance,01,14723,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Arnaoudova
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,14651,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Reddy
 CROP_SCI,102,Introduction to Cultivated Plants,01,17753,3,"M,W,F11.10-12","",Aug 23--Dec 10,C Kawula
 CROP_SCI,403,Advanced Cropping Systems,01,14379,3,"TU,TH13.30-14.45","",Aug 23--Dec 10,C Neely
@@ -72,7 +76,7 @@ ECONS,326,Aspects of Sustainable Development,01,14885,3,ARRGT,ARR ARR,Aug 23--De
 ECONS,352,Business Management Economics,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T Randriamaro
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,14859,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Gowdy-Burke
 FIN,325,Introduction to Financial Management,01,14325,3,M15.10-18,EVRT 255,Aug 23--Oct 10,M Chen
-FIN,350,Risk and Insurance,01,"",3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,M Mcnamara
+FIN,350,Risk and Insurance,01,18029,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,M Mcnamara
 FS,201,[BSCI] Science on Your Plate,01,17752,3,"M,W,F13.10-14",EVRT 255,Aug 23--Dec 10,M Michael
 HBM,101,Professional and Career Development for the Business World,01,"",1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,14352,1,"M,W,F11.10-12",EVRT 255,Oct 18--Dec 12,A Mcleod
@@ -90,6 +94,7 @@ HORT,310,Pomology,01,14380,3,"TU,TH13.30-14.45",EVRT 358,Aug 23--Dec 10,L Devett
 HORT,320,Olericulture,01,14873,3,"TU,TH9-10.25","",Aug 23--Dec 10,M Kumar
 I_BUS,380,International Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,M Downes
 MATH,216,Discrete Structures,01,14405,3,"M,W,F9.10-10",EVRT 340,Aug 23--Dec 10,""
+MATH,405,Introduction to Financial Mathematics,01,14779,3,"M,W,F15.10-16","",Aug 23--Dec 10,""
 ME,303,Fluid Mechanics,01,14340,3,"M,W,F10.10-11",EVRT 358,Aug 23--Dec 10,Y Hu
 ME,306,Thermal and Fluids Laboratory,01,14345,2,TU9.10-10,EVRT 256,Aug 23--Dec 10,Y Hu
 ME,306,Thermal and Fluids Laboratory,01 Lab,14346,0,TU10.10-13,EVRT 256,Aug 23--Dec 10,""

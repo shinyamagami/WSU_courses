@@ -1,12 +1,12 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 BIOMED,550,Biochemistry for the Health Sciences,01,16608,3,"M,W8.10-9.25",ARR ARR,Aug 23--Dec 10,T Chauvin
-CRM_J,524,Advanced Topics in Quantitative Methods,01,17960,3,W14.10-17,VC SPK,Aug 23--Dec 10,D Willits
+CRM_J,524,Advanced Topics in Quantitative Methods,01,17960,3,W14.10-17,SAC 45,Aug 23--Dec 10,D Willits
 CRM_J,800,"Doctoral Research, Dissertation, and/or Examination",01,17542,V,ARRGT,ARR ARR,Aug 23--Dec 10,F Lutze
 E_A,300,Educ Abroad,01,"",V,ARRGT,"",Aug 23--Dec 10,""
 ED_AD,501,Philosophy of Education,01,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,S Finley
-ED_AD,507,Social Foundations of Education,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Lupinacci
-ED_AD,509,Leading School Improvement,01,17298,3,W17.45-20.30,VC SPK,Aug 23--Dec 10,""
-ED_AD,512,Leadership Studies for Social Justice,01,"",3,TU17.45-20.30,VC SPK,Aug 23--Dec 10,K Rodela
+ED_AD,507,Social Foundations of Education,01,16492,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Lupinacci
+ED_AD,509,Leading School Improvement,01,17298,3,W17.45-20.30,SCRS 250,Aug 23--Dec 10,""
+ED_AD,512,Leadership Studies for Social Justice,01,"",3,TU17.45-20.30,SCRS 250,Aug 23--Dec 10,K Rodela
 ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,J Walls
 ED_AD,581,Politics in Education,01,16497,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_AD,587,Seminar in School Administration,01,16498,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
@@ -15,13 +15,13 @@ ED_AD,590,Internship,02,16507,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_AD,600,Special Projects or Independent Study,01,16504,V,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,16503,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Kruse
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,16499,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Lupinacci
-ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,16512,1,W16.30-17.30,VC SPK,Aug 23--Dec 10,A Cavagnetto
-ED_PSYCH,505,Research Methods I,01,16509,3,M17.45-20.30,VC SPK,Aug 23--Dec 10,H Liao
-ED_PSYCH,508,Educational Statistics,01,16511,3,TU17.45-20.30,VC SPK,Aug 23--Dec 10,B Austin
-ED_RES,562,"Epistemology, Inquiry, and Representation",01,"",3,TU17.45-20.30,VC SPK,Aug 23--Dec 10,A Rud
-ED_RES,563,Principles of Research,01,"",3,W17.45-20.30,VC SPK,Aug 23--Dec 10,S Calderone
-ED_RES,564,Qualitative Research,01,16515,3,TU16.10-19,VC SPK,Aug 23--Dec 10,A Roth-Mcduffie
-ED_RES,565,Quantitative Research,01,16516,3,TU17.45-20.30,VC SPK,Aug 23--Dec 10,S Dai
+ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,16512,1,W16.30-17.30,SCRS 250,Aug 23--Dec 10,A Cavagnetto
+ED_PSYCH,505,Research Methods I,01,16509,3,M17.45-20.30,SAC 41,Aug 23--Dec 10,H Liao
+ED_PSYCH,508,Educational Statistics,01,16511,3,TU17.45-20.30,SAC 41,Aug 23--Dec 10,B Austin
+ED_RES,562,"Epistemology, Inquiry, and Representation",01,"",3,TU17.45-20.30,SAC 341,Aug 23--Dec 10,A Rud
+ED_RES,563,Principles of Research,01,"",3,W17.45-20.30,SAC 341,Aug 23--Dec 10,S Calderone
+ED_RES,564,Qualitative Research,01,16515,3,TU16.10-19,SAC 205,Aug 23--Dec 10,A Roth-Mcduffie
+ED_RES,565,Quantitative Research,01,16516,3,TU17.45-20.30,SAC 343,Aug 23--Dec 10,S Dai
 ED_RES,571,Doctoral Dissertation Preparation,02,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,K Huggins
 H_D,600,Special Projects or Independent Study,01,17191,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -103,8 +103,8 @@ NEP,700,"Master's Research, Thesis, and/or Examination",01,16605,V,ARRGT,ARR ARR
 NEP,701,Master's Independent Capstone Project and /or Examination,01,16606,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Davis
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",01,16607,V,ARRGT,ARR ARR,Aug 23--Dec 10,O Amram
 NEUROSCI,531,Neuroscience Laboratory Rotation,01,16485,1,ARRGT,"",Aug 23--Dec 10,""
-NEUROSCI,590,Seminar,01,16478,1,F12.10-13.30,VC SPK,Aug 23--Dec 10,S Wayman
-NEUROSCI,592,Research Writing and Seminar,01,16994,2,F15.30-17.30,VC SPK,Aug 23--Dec 10,M Chandra
+NEUROSCI,590,Seminar,01,16478,1,F12.10-13.30,SAC 249,Aug 23--Dec 10,S Wayman
+NEUROSCI,592,Research Writing and Seminar,01,16994,2,F15.30-17.30,SAC 249,Aug 23--Dec 10,M Chandra
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,16479,V,ARRGT,"",Aug 23--Dec 10,(multiple)
 NURS,308,Professional Development I: Professional Roles and Responsibilities,01,15902,3,W10.30-13.30,VC ARR,Aug 23--Dec 10,""
 NURS,308,Professional Development I: Professional Roles and Responsibilities,02,15853,3,W10.30-13.30,VC ARR,Aug 23--Dec 10,""
@@ -434,7 +434,6 @@ NURS,558,DNP Project II,"","","",W14.10-17,VC ARR,"",""
 NURS,558,DNP Project II,"","","",W14.10-17,VC ARR,"",""
 NURS,558,DNP Project II,"","","",W14.10-17,VC ARR,"",""
 NURS,558,DNP Project II,03 Lab,15868,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,01,15875,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,02,15876,3,TU11.10-13,VC ARR,Aug 24--Aug 24,D Eti
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC ARR,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC ARR,"",""
@@ -595,8 +594,8 @@ PHARMACY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARMACY,499,Special Problems,02,15573,1,F8.10-9,"",Aug 23--Dec 10,J Robinson
 PHARMACY,499,Special Problems,50,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARMACY,499,Special Problems,51,15574,1,TU14.10-15,"",Aug 23--Dec 10,D Brand
-PHARMACY,506,Student Success and Professional Development I,01,15584,1,F11.20-12.10,SHSB 110Z,Aug 23--Dec 10,J Robinson
-PHARMACY,506,Student Success and Professional Development I,50,15585,1,F11.20-12.10,ARR ARR,Aug 23--Dec 10,D Brand
+PHARMACY,506,Student Success and Professional Development I,01,15584,1,F14.10-15,WEB ARR,Aug 23--Dec 10,J Robinson
+PHARMACY,506,Student Success and Professional Development I,50,15585,1,F14.10-15,ARR ARR,Aug 23--Dec 10,D Brand
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,01,15504,1,F13.10-14,WEB ARR,Aug 23--Dec 10,L Marcath
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,50,15537,1,F13.10-14,ARR ARR,Aug 23--Dec 10,A Stewart
 PHARMACY,509,Professional Communications Lab,01,"",1,TU11.20-12.10,SHSB 110Z,Aug 23--Dec 10,M Willson
@@ -638,30 +637,30 @@ PHARMACY,533,Introductory Pharmacy Practice Experience II,01,15513,3,TH13.10-15,
 PHARMACY,533,Introductory Pharmacy Practice Experience II,50,15543,3,TH13.10-15,ARR ARR,Aug 31--Dec 10,A Kim
 PHARMACY,534,Pharmacotherapy II,01,15514,4,"TU,TH8.10-10",SPBS 101,Aug 31--Dec 10,J Neumiller
 PHARMACY,534,Pharmacotherapy II,50,15544,4,"TU,TH8.10-10",ARR ARR,Aug 31--Dec 10,A Kim
-PHARMACY,536,Student Success and Professional Development II,01,15675,1,TU14.10-15,SPBS 101,Aug 31--Dec 10,J Robinson
-PHARMACY,536,Student Success and Professional Development II,50,15676,1,TU14.10-15,ARR ARR,Aug 31--Dec 10,D Brand
+PHARMACY,536,Student Success and Professional Development II,01,15675,1,F9.10-10,WEB ARR,Aug 31--Dec 10,J Robinson
+PHARMACY,536,Student Success and Professional Development II,50,15676,1,F9.10-10,ARR ARR,Aug 31--Dec 10,D Brand
 PHARMACY,545,Pharmacy Management,01,15515,3,TH15.10-17,WEB ARR,Aug 31--Dec 10,J Akers
 PHARMACY,545,Pharmacy Management,50,15545,3,TH15.10-17,WEB ARR,Aug 31--Dec 10,A Stewart
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01,15516,2,W13.10-14,SPBS 101,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","",M9-10,SPBS 101,"",""
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","",M9-10,SPBS 101,"",""
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50,15551,2,W13.10-14,ARR ARR,Aug 23--Dec 10,C Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50,15551,2,TH8.10-10,ARR ARR,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","",M9-10,ARR ARR,"",""
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","",M9-10,ARR ARR,"",""
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01 Lab,15517,0,TH8.10-10,SPBS 304,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,02 Lab,15518,0,TH10.10-12,SPBS 304,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,03 Lab,15519,0,TH13.10-15,SPBS 304,Aug 23--Dec 10,C Buchman
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,04 Lab,15520,0,TH15.10-17,SPBS 304,Aug 23--Dec 10,C Buchman
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50 Lab,15552,0,TH8.10-10,ARR ARR,Aug 23--Dec 10,C Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50 Lab,15552,0,TH10.10-12,ARR ARR,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,51 Lab,15562,0,TH10.10-12,ARR ARR,Aug 23--Dec 10,C Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,52 Lab,16891,0,TH13.10-15,ARR ARR,Aug 23--Dec 10,""
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,01,15521,3,W14.10-15,SPBS 101,Aug 23--Dec 10,J Miller
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","",M10.10-11,SPBS 101,"",""
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,50,15553,3,W14.10-15,ARR ARR,Aug 23--Dec 10,D Bowers
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","",M10.10-11,ARR ARR,"",""
 PHARMACY,554,Pharmacotherapy IV,01,15522,4,"W,F10.10-12",SPBS 101,Aug 23--Dec 10,C Newsome
 PHARMACY,554,Pharmacotherapy IV,50,15549,4,"W,F10.10-12",ARR ARR,Aug 23--Dec 10,D Bowers
-PHARMACY,556,Student Success and Professional Development III,01,15677,1,F9.10-10,SPBS 101,Aug 23--Dec 10,J Robinson
-PHARMACY,556,Student Success and Professional Development III,50,15678,1,F9.10-10,ARR ARR,Aug 23--Dec 10,D Brand
+PHARMACY,556,Student Success and Professional Development III,01,15677,1,TH15.10-16,WEB ARR,Aug 23--Dec 10,J Robinson
+PHARMACY,556,Student Success and Professional Development III,50,15678,1,TH15.10-16,ARR ARR,Aug 23--Dec 10,D Brand
 PHARMACY,563,Introductory Pharmacy Practice Experience V,01,15557,2,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PHARMACY,566,Therapeutics of Special Populations,01,15541,3,W8.10-10,SPBS 101,Aug 23--Dec 10,B Gates
 PHARMACY,566,Therapeutics of Special Populations,"","","",F8.10-9,SPBS 101,"",""
@@ -709,21 +708,21 @@ PHARMSCI,577,Responsible Conduct in Biomedical Research,50,15600,3,TU15.10-17.40
 PHARMSCI,597,College of Pharmacy Graduate Seminar,01,15590,1,F12.10-13,SPBS 101,Aug 23--Dec 10,A Lazarus
 PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,15592,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PREV_SCI,510,Multilevel Modeling II: Advanced Multilevel Models for Longitudinal Data,01,17963,3,"TU,TH15.10-16.30",VC SPK,Aug 23--Dec 10,M Cleveland
-PREV_SCI,511,Introduction to Prevention Science,01,15501,3,M14.10-17,GUC TBS,Aug 23--Dec 10,S Perone
-PREV_SCI,513,Research Methods in Prevention Science,01,15485,3,TU15.10-18,VC SPK,Aug 23--Dec 10,S Waters
-PREV_SCI,535,Effective Prevention Strategies I,01,17576,3,M17.10-20,VC SPK,Aug 23--Dec 10,J Lanigan
+PREV_SCI,511,Introduction to Prevention Science,01,15501,3,M14.10-17,SAC 45,Aug 23--Dec 10,S Perone
+PREV_SCI,513,Research Methods in Prevention Science,01,15485,3,TU15.10-18,SAC 45,Aug 23--Dec 10,S Waters
+PREV_SCI,535,Effective Prevention Strategies I,01,17576,3,M17.10-20,SAC 45,Aug 23--Dec 10,J Lanigan
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,16752,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,16686,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,16376,3,"TU,TH14.55-16.10",VC SPK,Aug 23--Dec 10,M Morgan
-PSYCH,506,Current Research in Psychology,01,17580,1,W16.10-17,VC SPK,Aug 23--Dec 10,R Magnan
-PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,17987,3,"TU,TH12.05-13.20",VC SPK,Aug 23--Dec 10,C Cuttler
-PSYCH,523,Health Psychology,01,16384,3,M13.10-14,VC SPK,Aug 23--Dec 10,R Magnan
-PSYCH,592,Cognition and Affective Basis of Behavior,01,"",3,W9.10-12,VC SPK,Aug 23--Dec 10,L Fournier
+PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,16376,3,"TU,TH14.55-16.10",SNRS 201,Aug 23--Dec 10,M Morgan
+PSYCH,506,Current Research in Psychology,01,17580,1,W16.10-17,SNRS 201,Aug 23--Dec 10,R Magnan
+PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,17987,3,"TU,TH12.05-13.20",SNRS 201,Aug 23--Dec 10,C Cuttler
+PSYCH,523,Health Psychology,01,16384,3,M13.10-14,SNRS 201,Aug 23--Dec 10,R Magnan
+PSYCH,592,Cognition and Affective Basis of Behavior,01,"",3,W9.10-12,SNRS 201,Aug 23--Dec 10,L Fournier
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,H Van Dongen
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,K Honn
-SHS,201,American Sign Language I,01,"",4,"TU,TH11.10-12",SNRS 205,Aug 23--Dec 10,M Ratsch
+SHS,201,American Sign Language I,01,"",4,"TU,TH11.10-12",SAC 45,Aug 23--Dec 10,M Ratsch
 SHS,201,American Sign Language I,"","","","M,W11.10-12",WEB ARR,"",""
-SHS,201,American Sign Language I,02,15626,4,"TU,TH12.10-13",SNRS 205,Aug 23--Dec 10,M Ratsch
+SHS,201,American Sign Language I,02,15626,4,"TU,TH12.10-13",SAC 45,Aug 23--Dec 10,M Ratsch
 SHS,201,American Sign Language I,"","","","M,W12.10-13",WEB ARR,"",""
 SHS,201,American Sign Language I,03,15658,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
 SHS,205,Introduction to Speech-Language Pathology and Audiology,02,15627,3,"TU,TH16.20-17.35",SNRS 105,Aug 23--Dec 10,""
@@ -768,4 +767,4 @@ SHS,700,"Master's Research, Thesis, and/or Examination",01,15667,V,ARRGT,ARR ARR
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,15653,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 TCH_LRN,415,Student Teaching,01,16389,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
 TCH_LRN,415,Student Teaching,01 Lab,16390,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
-TCH_LRN,581,Learning and Development in Mathematics and Science,01,17894,3,W17.45-20.30,VC SPK,Aug 23--Dec 10,A Roth-Mcduffie
+TCH_LRN,581,Learning and Development in Mathematics and Science,01,17894,3,W17.45-20.30,SAC 343,Aug 23--Dec 10,A Roth-Mcduffie

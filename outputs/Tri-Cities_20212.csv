@@ -55,7 +55,7 @@ ED_AD,588,The Law and Education,01,04284,3,"M,W17.10-20.30",WEB ARR,May 10--Jun 
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,01073,V,ARRGT,ARR ARR,May 10--Jul 30,S Calderone
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,01366,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ED_PSYCH,401,"Classroom Assessment, Elementary",01,04150,V,"M,W14.30-17.50",WEB ARR,Jun 21--Jul 30,Y Ardasheva
-ED_PSYCH,505,Research Methods I,01,08503,3,"M,TU,W,TH,F12.30-13.20",WEB ARR,Jun 21--Jul 30,""
+ED_PSYCH,505,Research Methods I,01,08503,3,"M,TU,W,TH,F12.30-13.20",WEB ARR,Jun 21--Jul 30,D Van Orman
 ED_PSYCH,508,Educational Statistics,01,01093,3,"M,TU,W,TH,F12.30-13.20",WEB ARR,May 10--Jun 18,R Wong
 ENGLISH,101,[WRTG] College Composition,01,04302,3,"M,W9.15-10.50",WEB ARR,May 10--Jul 30,G Escalera
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,05965,3,"M,TU,W9.15-10.50",WEB ARR,May 31--Jul 23,V Cozza
@@ -96,7 +96,7 @@ ME,581,Control Systems,01,08593,3,"TU,TH16.15-17.50",WEB ARR,May 10--Jul 30,J Ia
 ME,700,"Master's Research, Thesis, and/or Examination",01,01023,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,702,"Master's Special Problems, Directed Study, and/or Examination",01,01024,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
 ME,800,"Doctoral Research, Dissertation, and/or Examination",01,01025,V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
-MED_CLIN,521,Longitudinal Integrated Clerkship I,01,01119,8,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
+MED_CLIN,521,Longitudinal Integrated Clerkship I,01,01119,8,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowen
 MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
@@ -144,7 +144,7 @@ MED_CLIN,570,Away Rotation - North America,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,
 MED_CLIN,570,Away Rotation - North America,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
-MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,S Siddiqui
 MED_CLIN,574,Science - Clinical Bioethics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
 MED_CLIN,575,Clinical Rotation - Geriatrics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
@@ -168,18 +168,20 @@ MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,03,"",V,ARRGT,ARR ARR,Ju
 MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
 MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
 MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
-MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Litvack
 MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
-MED_CLIN,586,Surgery - Neurological Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,586,Surgery - Neurological Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Litvack
 MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
 MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,589,Clinical Rotation - Transition to Residency,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
-MED_CLIN,591,Surgery - Otolaryngology (Head and Neck Surgery),01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,591,Surgery - Otolaryngology (Head and Neck Surgery),01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Litvack
 MED_CLIN,592,Surgery - Plastic Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
-MED_CLIN,594,Surgery - Urology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,594,Surgery - Urology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Litvack
 MED_CLIN,595,Surgery - Surgery Critical Care,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,595,Surgery - Surgery Critical Care,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,596,Surgery - Pediatric Surgical Specialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
+MED_CLIN,596,Surgery - Pediatric Surgical Specialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,597,Virtual - Virtual Clerkship,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
@@ -189,8 +191,15 @@ MED_CLIN,599,Special Projects,04,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,602,Internal Medicine - Pulmonology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
+MED_CLIN,610,Pediatrics - Medical Genetics and Genomics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,621,Pediatrics - Emergency Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
 MED_CLIN,627,Psychiatry - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
+MED_CLIN,629,Obstetrics and Gynecology - Gynecologic Oncology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,631,Obstetrics and Gynecology - Urogynecology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
+MED_CLIN,636,Clinical Rotation - Sports Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
+MED_CLIN,636,Clinical Rotation - Sports Medicine,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
+MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,"",4,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MGMT,301,Principles of Management and Organization,01,07873,3,"TU,TH11-14.20",WEB ARR,May 10--Jun 18,J Bravo
 MIT,501,Learning and Development in School and Community Contexts,01,07427,3,"TU,TH,F17-20.20",WEB ARR,May 10--Jun 18,E Johnson
 MIT,502,Assessment for Teaching and Learning,01,07878,3,"M,W14.30-17.50",WEB ARR,Jun 21--Jul 30,J Firestone
@@ -217,8 +226,8 @@ NURS,477,Health Care Ethics,01,01040,V,ARRGT,ARR ARR,May 10--Jul 30,S Girard
 NURS,477,Health Care Ethics,02,01041,V,ARRGT,ARR ARR,May 10--Jul 30,S Girard
 NURS,495,[CAPS] Advanced Practicum,01,01042,3,ARRGT,ARR ARR,May 10--Jul 30,T Ewing
 NURS,495,[CAPS] Advanced Practicum,02,01043,3,ARRGT,ARR ARR,May 10--Jul 30,T Ewing
-NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,V Denson
-NURS,499,Special Problems,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,""
+NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 10--Jul 30,(multiple)
+NURS,499,Special Problems,02,"",V,ARRGT,ARR ARR,May 10--Jul 30,B Briggs
 NURS,540,NP Clinical Practicum,01,01051,V,TH13.10-14,WEB ARR,May 20--May 20,B Briggs
 NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",TH13.10-14,WEB ARR,"",""
