@@ -105,6 +105,7 @@ MED_CLIN,545,Internal Medicine - Critical Care,01,"",4,ARRGT,ARR ARR,Jun 28--Aug
 MED_CLIN,546,Surgery - Vascular Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
 MED_CLIN,547,Internal Medicine - Cardiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,B Chia
+MED_CLIN,548,Surgery - Orthopaedic Surgery,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,B Chia
 MED_CLIN,551,Clinical Rotation - Pathology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
@@ -133,6 +134,7 @@ MED_CLIN,570,Away Rotation - North America,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,
 MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
 MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,S Siddiqui
+MED_CLIN,573,Clinical Rotation - Anesthesiology,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,S Siddiqui
 MED_CLIN,574,Science - Clinical Bioethics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Heine
 MED_CLIN,575,Clinical Rotation - Geriatrics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
@@ -159,6 +161,7 @@ MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,06,"",V,ARRGT,ARR ARR,Ju
 MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Litvack
 MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
 MED_CLIN,586,Surgery - Neurological Surgery,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Litvack
+MED_CLIN,586,Surgery - Neurological Surgery,02,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Litvack
 MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
 MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,589,Clinical Rotation - Transition to Residency,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,A Kumar
@@ -180,9 +183,11 @@ MED_CLIN,599,Special Projects,05,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,599,Special Projects,06,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,D Dewitt
 MED_CLIN,602,Internal Medicine - Pulmonology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,L Sood
 MED_CLIN,610,Pediatrics - Medical Genetics and Genomics,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
+MED_CLIN,611,Pediatrics - Cardiology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,621,Pediatrics - Emergency Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,C Anderson
 MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
 MED_CLIN,627,Psychiatry - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,M Layton
+MED_CLIN,628,Obstetrics and Gynecology - Maternal-Fetal Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
 MED_CLIN,629,Obstetrics and Gynecology - Gynecologic Oncology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
 MED_CLIN,631,Obstetrics and Gynecology - Urogynecology,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,H Andersen
 MED_CLIN,636,Clinical Rotation - Sports Medicine,01,"",V,ARRGT,ARR ARR,Jun 28--Aug 20,J Bowman
@@ -287,10 +292,10 @@ SPANISH,111,[ARTS] Latin American Film,01,07576,3,TU14.30-17.50,WEB ARR,May 10--
 SPEC_ED,420,Teaching in Inclusive Classrooms,01,05456,2,"TU,TH8.30-10.50",WEB ARR,Jun 21--Jul 30,S Van Horn
 SPEC_ED,520,Teaching in Inclusive Classrooms,02,06311,3,"TU,TH14.30-17.50",WEB ARR,Jun 21--Jul 30,M Dunn
 STAT,360,Probability and Statistics,01,05526,3,"M,TU,W,TH14.30-16.05",WEB ARR,Jun 21--Jul 30,F Ferracina
-TCH_LRN,301,Learning and Development,01,05452,3,"TU,TH11-14.20",WEB ARR,Jun 21--Jul 30,""
+TCH_LRN,301,Learning and Development,01,05452,3,"TU,TH11-14.20",WEB ARR,Jun 21--Jul 30,M Stevens
 TCH_LRN,301,Learning and Development,02,08608,3,"TU,TH11-14.20",WEB ARR,Jun 21--Jul 30,""
-TCH_LRN,385,Teaching Elementary Social Studies,01,05453,3,"TU,TH14.30-17.50",WEB ARR,Jun 21--Jul 30,""
-TCH_LRN,385,Teaching Elementary Social Studies,02,08609,3,"TU,TH14.30-17.50",WEB ARR,Jun 21--Jul 30,""
+TCH_LRN,385,Teaching Elementary Social Studies,01,05453,3,"TU,TH14.30-17.50",WEB ARR,Jun 21--Jul 30,S Rakha
+TCH_LRN,385,Teaching Elementary Social Studies,02,08609,3,"TU,TH14.30-17.50",WEB ARR,Jun 21--Jul 30,C Dudley
 TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,01,05454,3,"TU,TH8.30-11.50",WEB ARR,May 10--Jun 18,D Day-Wiff
 TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,01,05455,3,"M,W12.30-15.50",WEB ARR,May 10--Jun 18,J Morales
 TCH_LRN,463,Teaching Concepts of Probability and Statistics,01,05451,3,"M,W13.30-16.40",WEB ARR,Jun 21--Jul 30,M Haberlach

@@ -19,18 +19,18 @@ AIS,320,[DIVR] Native Peoples of North America,01,11104,3,ARRGT,ARR ARR,Aug 23--
 AIS,331,[SSCI] Archaeology of the Americas,01,11105,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
 AIS,331,[SSCI] Archaeology of the Americas,02,12373,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Mcnassar
 AIS,401,Tribal Nation Building Leadership - Research I,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,K Lokensgard
-ANTH,203,[DIVR] Global Cultural Diversity,01,10951,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ANTH,203,[DIVR] Global Cultural Diversity,01,10951,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Thiel
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,17502,4,ARRGT,ARR ARR,Aug 23--Dec 10,V Black
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,17503,0,ARRGT,ARR ARR,Aug 23--Dec 10,V Black
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,10249,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Gaffney
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",02,10935,3,ARRGT,ARR ARR,Dec 18--Jan 09,C Smith
-ANTH,302,[SSCI] Childhood and Culture,01,10241,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ANTH,302,[SSCI] Childhood and Culture,01,10241,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Heckelsmiller
 ANTH,316,[DIVR] Gender in Cross Cultural Perspective,01,10242,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Weber
 ANTH,316,[DIVR] Gender in Cross Cultural Perspective,02,12295,3,ARRGT,ARR ARR,Dec 18--Jan 09,C Anderson
 ANTH,320,[DIVR] Native Peoples of North America,01,10487,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
 ANTH,331,[SSCI] Archaeology of the Americas,01,10952,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
 ANTH,331,[SSCI] Archaeology of the Americas,02,11023,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Mcnassar
-ANTH,350,"[DIVR] Speech, Thought, and Culture",01,10244,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ANTH,350,"[DIVR] Speech, Thought, and Culture",01,10244,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Anderson
 ANTH,390,[M] History of Anthropological Thought,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
 ANTH,404,[CAPS] The Self in Culture,01,10245,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mageo
 ANTH,418,Human Issues in International Development,01,10246,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Quinlan
@@ -46,6 +46,7 @@ B_A,211,"Ethics, Teams, and Innovation",04,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,""
 B_A,211,"Ethics, Teams, and Innovation",05,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,""
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,11032,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,11143,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",03,11170,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
 B_A,500,Data Analysis for Managers,01,10535,2,ARRGT,ARR ARR,Aug 23--Sep 26,T Kokta
 B_A,500,Data Analysis for Managers,07,17220,2,ARRGT,ARR ARR,Oct 04--Nov 07,T Kokta
 B_A,502,Foundations in Operations Management,01,10541,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
@@ -202,8 +203,8 @@ E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,Aug 23-
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,"",Aug 23--Dec 10,R Crick
-E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,WEB ARR,Aug 23--Dec 10,K Bachman
-E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,WEB ARR,Aug 23--Dec 10,K Bachman
+E_M,522,Leading People and Organizations,01,10278,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+E_M,522,Leading People and Organizations,02,10885,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_M,530,Applications of Constraints Management,01,10412,3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
 E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
@@ -231,6 +232,7 @@ ECONS,490,[CAPS] [M] Economics Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T N
 ECONS,497,Economics Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,E Jessup
 ECONS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Gibson
 ECONS,505,Economics for Agricultural Decision Making,01,10289,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Gallardo
+ED_AD,507,Social Foundations of Education,01,10419,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Lupinacci
 ENGLISH,101,[WRTG] College Composition,01,10290,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
 ENGLISH,102,Writing Tutorial,01,10948,1,ARRGT,ARR ARR,Aug 23--Dec 10,T Holland
 ENGLISH,112,[HUM] Language in the Real World,01,10741,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Siler
@@ -239,6 +241,7 @@ ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,10292,3,ARRGT,ARR ARR,A
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ENGLISH,302,[M] Introduction to English Studies,01,10994,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Robertson
 ENGLISH,308,[M] Introduction to Literary Criticism,01,10979,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Hegglund
+ENGLISH,309,Women Writers,01,18391,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Campbell
 ENGLISH,361,Everyday Rhetorics,01,10980,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Richards
 ENGLISH,362,[DIVR] Rhetorics of Racism,01,10978,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Eddy
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,10293,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Hager
@@ -395,7 +398,7 @@ ME,313,Engineering Analysis,01 Lab,10436,0,W13-16,"",Aug 23--Dec 10,S Chien
 ME,316,Mechanical Component Analysis and Design,01,"",3,"M,W,F14.10-15","",Aug 23--Dec 10,M Pitts
 ME,415,[M] Engineering Design,01,"",3,"M,W,F12.10-13","",Aug 23--Dec 10,M Pitts
 ME,461,Introduction to Nuclear Engineering,01,"",3,"TU,TH16.15-17.30",WEB ARR,Aug 23--Dec 10,R Stout
-ME,481,Control Systems,01,17967,3,"M,W,F11.10-12","",Aug 23--Dec 10,N Perez Arancibia
+ME,481,Control Systems,01,17967,3,"M,W,F11.10-12","",Aug 23--Dec 10,M Luo
 ME,483,Topics in Mechanical Engineering,01,17597,3,"W,F16.15-17.30",WEB ARR,Aug 23--Dec 10,G Taub
 MGMT,301,Principles of Management and Organization,01,10336,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
 MGMT,301,Principles of Management and Organization,02,10653,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
@@ -444,7 +447,9 @@ MGMT,593,Managerial Leadership and Productivity,23,17636,3,ARRGT,ARR ARR,Oct 18-
 MGMT,593,Managerial Leadership and Productivity,24,17637,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,25,17638,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MGTOP,215,Business Statistics,01,10347,4,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
+MGTOP,215,Business Statistics,02,10745,4,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,215,Business Statistics,01 Lab,10350,0,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
+MGTOP,215,Business Statistics,02 Lab,10746,0,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,340,Operations Management,01,10353,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
 MGTOP,340,Operations Management,02,10661,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
 MIS,250,Managing Information Technology,01,10354,3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
@@ -488,17 +493,17 @@ MUS,566,Seminar in Music History,01,10731,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegar
 MUS,597,Performance Studies for Distance Learners,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,D Luethi
 PHIL,530,Bioethics,01,10360,2,ARRGT,ARR ARR,Aug 23--Dec 10,W Kabasenche
 PHIL,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-POL_S,101,[SSCI] American National Government,01,10361,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-POL_S,103,[SSCI] International Politics,01,10434,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+POL_S,101,[SSCI] American National Government,01,10361,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Huseby
+POL_S,103,[SSCI] International Politics,01,10434,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Yakub
 POL_S,201,Political Research Methods,01,11124,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Ritter
-POL_S,305,Gender and Politics,01,10362,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-POL_S,316,American Public Policy,01,10553,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-POL_S,340,Introduction to Public Administration,01,10468,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+POL_S,305,Gender and Politics,01,10362,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Huseby
+POL_S,316,American Public Policy,01,10553,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Cooper
+POL_S,340,Introduction to Public Administration,01,10468,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Steffen
 POL_S,400,Political Science Issues,01,11144,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Clayton
-POL_S,402,Civil Liberties,01,10807,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+POL_S,402,Civil Liberties,01,10807,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Fleming
 POL_S,418,Human Issues in International Development,01,10247,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Quinlan
-POL_S,428,[CAPS] Issues in Political Psychology,01,11125,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-POL_S,472,[CAPS] [M] European Politics,01,11126,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+POL_S,428,[CAPS] Issues in Political Psychology,01,11125,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Topal
+POL_S,472,[CAPS] [M] European Politics,01,11126,3,ARRGT,ARR ARR,Aug 23--Dec 10,F Jabbouri
 POL_S,497,Political Science Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Elgar
 POL_S,498,Public Policy Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Elgar
 PSYCH,105,[SSCI] Introductory Psychology,01,10363,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -507,6 +512,7 @@ PSYCH,210,Psychology as a Science,01,10478,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,230,Human Sexuality,01,10364,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,01,10366,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,311,[QUAN] Statistics in Psychology,01,10367,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
+PSYCH,311,[QUAN] Statistics in Psychology,02,18415,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,312,[M] Research Methods in Psychology,01,10368,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,312,[M] Research Methods in Psychology,02,17943,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,10369,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -536,16 +542,16 @@ SHS,201,American Sign Language I,02,10841,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsc
 SHS,202,American Sign Language II,01,10842,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,10406,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOC,101,[SSCI] Introduction to Sociology,02,11026,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
-SOC,102,[SSCI] Social Problems,01,10413,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10943,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOC,102,[SSCI] Social Problems,01,10413,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Stanley
+SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10943,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Aust
 SOC,310,Development of Social Theory,01,10809,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Horne
 SOC,317,[M] Research Methods in Sociology,01,11025,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,351,[DIVR] The Family,02,17973,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 SOC,352,Youth and Society,01,10761,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,360,Social Deviance,01,17558,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
-SOC,362,Juvenile Delinquency,01,10491,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Burke
+SOC,362,Juvenile Delinquency,01,10491,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,368,Drugs and Society,01,10762,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
-SOC,372,The Sociology of Film,01,10492,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOC,372,The Sociology of Film,01,10492,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Montanez
 SOC,375,Aspects of Sustainable Development,01,10966,3,ARRGT,ARR ARR,Aug 23--Dec 10,Y Zhang
 SOC,418,Human Issues in International Development,01,10248,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Quinlan
 SOC,430,Society and Technology,02,17560,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Rotolo
@@ -603,7 +609,8 @@ UNIV,491,Global Leadership Integrative Capstone,01,10213,1,W11.10-12,"",Aug 23--
 UNIV,497,Peer Leadership,01,10214,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Newlon
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,10844,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 WOMEN_ST,230,Human Sexuality,01,10365,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-WOMEN_ST,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10967,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+WOMEN_ST,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10967,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Aust
+WOMEN_ST,309,Women Writers,01,18392,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Campbell
 WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,01,10243,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Weber
 WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,02,12298,3,ARRGT,ARR ARR,Dec 18--Jan 09,C Anderson
 WOMEN_ST,324,Psychology of Gender,01,10372,3,ARRGT,ARR ARR,Aug 23--Dec 10,""

@@ -18,7 +18,7 @@ AERO,311,Leading People and Effective Communication I,01,18318,3,TU7-9.30,ARR AR
 AERO,313,Leadership Laboratory III,01,18337,2,TU16.10-19.20,ARR ARR,Aug 23--Dec 10,""
 AERO,411,"National Security, Leadership, and Commissioning Preparation I",01,18338,3,TU7-9.30,ARR ARR,Aug 23--Dec 10,""
 AERO,413,Leadership Laboratory IV,01,18339,2,TU16.10-19.20,ARR ARR,Aug 23--Dec 10,""
-ANTH,101,[DIVR] Introduction to Anthropology,01,12500,3,"M,W9.10-10",WEB ARR,Aug 23--Dec 10,""
+ANTH,101,[DIVR] Introduction to Anthropology,01,12500,3,"M,W9.10-10",WEB ARR,Aug 23--Dec 10,N Hess
 ANTH,130,[SSCI] Great Discoveries in Archaeology,01,13255,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Brown
 ANTH,203,[DIVR] Global Cultural Diversity,01,12501,3,W11-11.30,WEB ARR,Aug 23--Dec 10,K Dhawan
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,12503,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,E Hagen
@@ -44,7 +44,7 @@ B_A,211,"Ethics, Teams, and Innovation",02,13753,3,"M,W14.55-16.10",WEB ARR,Aug 
 B_A,211,"Ethics, Teams, and Innovation",03,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,N Yaws-Gonzalez
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,13221,3,"TU,TH16.20-17.35",WEB ARR,Aug 23--Dec 10,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
-B_LAW,210,Law and the Legal Environment of Business,01,12386,3,"M,W16.20-17.35",WEB ARR,Aug 23--Dec 10,""
+B_LAW,210,Law and the Legal Environment of Business,01,12386,3,"M,W16.20-17.35",WEB ARR,Aug 23--Dec 10,J Richardson
 BIOLOGY,101,[BSCI] Biology of Humans,01,12581,3,F13.30-14.20,WEB ARR,Aug 23--Dec 10,W Cushwa
 BIOLOGY,102,[BSCI] General Biology,01,12641,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,K Turner
 BIOLOGY,102,[BSCI] General Biology,01 Lab,12642,0,F7.45-10.25,VSCI 101,Aug 23--Dec 10,""
@@ -69,8 +69,6 @@ BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,12639,0,TU13.30-16.10,VC
 BIOLOGY,354,Human Anatomy for Health Occupations,02 Lab,12640,0,W7.45-10.25,VCLS 150,Aug 23--Dec 10,""
 BIOLOGY,354,Human Anatomy for Health Occupations,03 Lab,12838,0,W13.30-16.10,VCLS 150,Aug 23--Dec 10,""
 BIOLOGY,393,[M] Professional Communications in Biology,01,12653,2,W12.05-12.55,GUC VAN,Aug 23--Dec 10,D Wilmington
-BIOLOGY,401,[CAPS] Plants and People,01,13250,3,TU16.20-17.35,WEB ARR,Aug 23--Dec 10,D Thomas
-BIOLOGY,401,[CAPS] Plants and People,"","","",TH16.20-17.35,GUC VAN,"",""
 BIOLOGY,403,Evolutionary Biology,01,12918,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,S Porter
 BIOLOGY,408,[CAPS] [M] Contemporary Genetics,01,12563,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,D Wilmington
 BIOLOGY,438,[M] Animal Behavior,01,13022,3,M9.10-10,GUC VAN,Aug 23--Dec 10,""
@@ -230,6 +228,7 @@ ED_AD,501,Philosophy of Education,01,"",3,W17.45-20.30,VC VAN,Aug 23--Dec 10,S F
 ED_AD,507,Social Foundations of Education,01,13120,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_AD,509,Leading School Improvement,01,12980,3,M17.45-20.30,GUC VAN,Aug 23--Dec 10,N Mccann
 ED_AD,512,Leadership Studies for Social Justice,01,"",3,TU17.45-20.30,VC VAN,Aug 23--Dec 10,K Rodela
+ED_AD,521,Topics in Education,01,14165,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,J Walls
 ED_AD,581,Politics in Education,01,12554,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,587,Seminar in School Administration,01,12555,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
@@ -241,7 +240,7 @@ ED_AD,600,Special Projects or Independent Study,01,12908,3,ARRGT,ARR ARR,Aug 23-
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,12514,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,12631,1,W16.30-17.30,WEB ARR,Aug 23--Dec 10,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,12898,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-ED_PSYCH,401,"Classroom Assessment, Elementary",01,12577,V,W14.10-17,GUC VAN,Aug 23--Dec 10,C Dudley
+ED_PSYCH,401,"Classroom Assessment, Elementary",01,12577,V,W14.10-17,GUC VAN,Aug 23--Dec 10,""
 ED_PSYCH,505,Research Methods I,01,12978,3,M17.45-20.30,WEB ARR,Aug 23--Dec 10,H Liao
 ED_PSYCH,508,Educational Statistics,01,13118,3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,B Austin
 ED_PSYCH,572,Introduction to Systematic Literature Reviews and Meta-Analyses,01,13671,3,TU16.10-19,WEB ARR,Aug 23--Dec 10,O Adesope
@@ -296,6 +295,7 @@ ENTRP,499,Special Problems,01,"",1,"M,W12.05-13.20",GUC VAN,Aug 23--Sep 24,D Ste
 FIN,223,[QUAN] Personal Finance,01,12387,3,"M,W10.35-11.50",WEB ARR,Aug 23--Dec 10,D Steck
 FIN,325,Introduction to Financial Management,01,12396,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,A Wang
 FIN,325,Introduction to Financial Management,02,12397,3,TH18-20.45,WEB ARR,Aug 23--Dec 10,C Zhang
+FIN,325,Introduction to Financial Management,03,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,D Fairhurst
 FIN,330,Introduction to Financial Wellbeing,01,17205,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,A Wang
 FIN,345,Real Estate,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,F Benjamin
 FIN,346,Washington Real Estate Regulations,01,"",1,ARRGT,ARR ARR,Aug 23--Oct 10,F Benjamin
@@ -335,6 +335,7 @@ H_D,342,Curriculum for Early Childhood Programs,01 Lab,"",0,ARRGT,ARR ARR,Aug 23
 H_D,350,[DIVR] Family Diversity,01,12691,3,TU12.05-13.20,GUC VAN,Aug 23--Dec 10,T Burkhard
 H_D,360,Death and Dying,01,13225,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,C Bolkan
 H_D,385,Perspectives in Human Services,01,12541,3,TU9.10-10.25,GUC VAN,Aug 23--Dec 10,E Soliday
+H_D,385,Perspectives in Human Services,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Smith
 H_D,403,[CAPS] Families in Poverty,01,12846,3,TU10.35-11.50,GUC VAN,Aug 23--Dec 10,T Burkhard
 H_D,406,Work and Family,01,12692,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,S Reisz
 H_D,418,[CAPS] Early Experiences and Lifespan Health,01,17649,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,S Waters
@@ -381,23 +382,24 @@ I_BUS,435,International Tourism,01,13019,3,"TU,TH14.55-16.10",VC VAN,Aug 23--Dec
 INTERDIS,501,Research Communication,01,18073,2,W16.15-17.45,VC VAN,Aug 23--Dec 10,A Coffin
 MATH,100,Basic Mathematics,01,12801,2,"M,W10.35-11.25",GUC VAN,Aug 23--Dec 10,""
 MATH,100,Basic Mathematics,02,12802,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,""
-MATH,100,Basic Mathematics,03,12983,2,"TU,TH16.20-17.10",GUC VAN,Aug 23--Dec 10,""
-MATH,103,Algebra Methods and Introduction to Functions,01,12545,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,""
-MATH,103,Algebra Methods and Introduction to Functions,02,12546,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,""
-MATH,103,Algebra Methods and Introduction to Functions,03,12891,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,""
-MATH,103,Algebra Methods and Introduction to Functions,04,12984,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,""
+MATH,100,Basic Mathematics,03,12983,2,"TU,TH16.20-17.10",GUC VAN,Aug 23--Dec 10,K Debower
+MATH,103,Algebra Methods and Introduction to Functions,01,12545,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,P Krouss
+MATH,103,Algebra Methods and Introduction to Functions,02,12546,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,P Krouss
+MATH,103,Algebra Methods and Introduction to Functions,03,12891,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,P Krouss
+MATH,103,Algebra Methods and Introduction to Functions,04,12984,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,P Krouss
 MATH,106,College Algebra,01,12547,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,""
 MATH,106,College Algebra,02,12548,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,""
 MATH,106,College Algebra,03,12549,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,""
 MATH,108,Trigonometry,01,12695,2,"TU,TH12.05-12.55",GUC VAN,Aug 23--Dec 10,""
 MATH,108,Trigonometry,02,12696,2,"M,W12.05-12.55",GUC VAN,Aug 23--Dec 10,""
 MATH,110,Mathematics Acceleration,01,12697,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MATH,110,Mathematics Acceleration,02,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,K Debower
 MATH,115,Math 105 Tutorial,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,G Salos
 MATH,116,Math 106 Tutorial,01,13206,2,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,140,[QUAN] Calculus for Life Scientists,01,12711,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
 MATH,140,[QUAN] Calculus for Life Scientists,01 Lab,12712,0,"M,W16.20-17.35",WEB ARR,Aug 23--Dec 10,""
 MATH,140,[QUAN] Calculus for Life Scientists,02 Lab,12806,0,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
-MATH,171,[QUAN] Calculus I,01,12713,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
+MATH,171,[QUAN] Calculus I,01,12713,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,G Salos
 MATH,171,[QUAN] Calculus I,01 Lab,12714,0,"M,W13.30-14.45",WEB ARR,Aug 23--Dec 10,""
 MATH,171,[QUAN] Calculus I,02 Lab,12715,0,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 MATH,171,[QUAN] Calculus I,03 Lab,12832,0,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
@@ -418,13 +420,13 @@ MATH,315,Differential Equations,01,12831,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec
 MATH,330,Methods of Teaching Secondary School Mathematics,01,12945,3,"TU,TH14.55-16.10",VC VAN,Aug 23--Dec 10,K Lesseig
 MATH,401,[M] Introduction to Analysis I,01,13059,3,"TU,TH12.05-13.20",VC VAN,Aug 23--Dec 10,B Krishnamoorthy
 MATH,405,Introduction to Financial Mathematics,01,"",3,"M,W,F15.10-16",WEB ARR,Aug 23--Dec 10,""
-MATH,420,Linear Algebra,01,12866,3,"M,W,F9.10-10",VC VAN,Aug 23--Dec 10,""
+MATH,420,Linear Algebra,01,12866,3,"M,W,F9.10-10",VC VAN,Aug 23--Dec 10,A Dimitrov
 MATH,431,Intersections of Culture and Mathematics,01,13733,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,""
 MATH,448,Numerical Analysis,01,17798,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
 MATH,453,Graph Theory,01,13060,3,"M,W,F14.10-15",WEB ARR,Aug 23--Dec 10,""
-MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 MATH,501,Real Analysis,01,12867,3,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,""
-MATH,524,Algebraic Topology,01,13070,3,"TU,TH13.30-14.45",VC VAN,Aug 23--Dec 10,""
+MATH,524,Algebraic Topology,01,13070,3,"TU,TH13.30-14.45",VC VAN,Aug 23--Dec 10,B Krishnamoorthy
 MATH,533,Teaching College Mathematics,01,12914,1,M15.10-16,VC VAN,Aug 23--Dec 10,""
 MATH,548,Numerical Analysis,01,17799,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
 MATH,553,Graph Theory,01,13061,3,"M,W,F14.10-15",WEB ARR,Aug 23--Dec 10,""
@@ -528,60 +530,60 @@ NEUROSCI,403,[M] Cellular Neurobiology,01,12815,3,"M,W,F12.05-12.55",GUC VAN,Aug
 NEUROSCI,495,Directed Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NEUROSCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,12572,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-NURS,360,Contemporary Nursing,01,12432,3,ARRGT,ARR ARR,Aug 23--Oct 15,""
-NURS,360,Contemporary Nursing,02,12450,3,ARRGT,ARR ARR,Aug 23--Oct 15,""
-NURS,400,[M] Nursing Research and Evidence-Based Practice,01,12436,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
-NURS,400,[M] Nursing Research and Evidence-Based Practice,02,12453,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
-NURS,405,Nursing Leadership,01,12434,3,ARRGT,ARR ARR,Aug 23--Oct 15,""
-NURS,405,Nursing Leadership,02,12452,3,ARRGT,ARR ARR,Aug 23--Oct 15,""
-NURS,440,[M] Population Health Theory,01,12435,3,ARRGT,ARR ARR,Aug 23--Oct 15,""
-NURS,440,[M] Population Health Theory,02,12455,3,ARRGT,ARR ARR,Aug 23--Oct 15,""
-NURS,465,Application of Population Health Principles,01,12446,3,ARRGT,ARR ARR,Aug 23--Nov 12,""
-NURS,465,Application of Population Health Principles,02,12468,3,ARRGT,ARR ARR,Aug 23--Nov 12,""
-NURS,465,Application of Population Health Principles,03,14045,3,ARRGT,ARR ARR,Aug 23--Nov 12,""
-NURS,471,Foundations of Occupational and Environmental Health Practice,01,12497,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
-NURS,471,Foundations of Occupational and Environmental Health Practice,02,12498,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
-NURS,477,Health Care Ethics,01,12438,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,477,Health Care Ethics,02,12456,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,495,[CAPS] Advanced Practicum,01,12439,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
+NURS,360,Contemporary Nursing,01,12432,3,ARRGT,ARR ARR,Aug 23--Oct 15,A Brittain
+NURS,360,Contemporary Nursing,02,12450,3,ARRGT,ARR ARR,Aug 23--Oct 15,A Brittain
+NURS,400,[M] Nursing Research and Evidence-Based Practice,01,12436,3,ARRGT,ARR ARR,Oct 18--Dec 17,C Richards
+NURS,400,[M] Nursing Research and Evidence-Based Practice,02,12453,3,ARRGT,ARR ARR,Oct 18--Dec 17,C Richards
+NURS,405,Nursing Leadership,01,12434,3,ARRGT,ARR ARR,Aug 23--Oct 15,V Denson
+NURS,405,Nursing Leadership,02,12452,3,ARRGT,ARR ARR,Aug 23--Oct 15,V Denson
+NURS,440,[M] Population Health Theory,01,12435,3,ARRGT,ARR ARR,Aug 23--Oct 15,S Edwards
+NURS,440,[M] Population Health Theory,02,12455,3,ARRGT,ARR ARR,Aug 23--Oct 15,S Edwards
+NURS,465,Application of Population Health Principles,01,12446,3,ARRGT,ARR ARR,Aug 23--Nov 12,A Brittain
+NURS,465,Application of Population Health Principles,02,12468,3,ARRGT,ARR ARR,Aug 23--Nov 12,V Denson
+NURS,465,Application of Population Health Principles,03,14045,3,ARRGT,ARR ARR,Aug 23--Nov 12,J Caley
+NURS,471,Foundations of Occupational and Environmental Health Practice,01,12497,3,ARRGT,ARR ARR,Oct 18--Dec 17,D Smart
+NURS,471,Foundations of Occupational and Environmental Health Practice,02,12498,3,ARRGT,ARR ARR,Oct 18--Dec 17,D Smart
+NURS,477,Health Care Ethics,01,12438,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Edwards
+NURS,477,Health Care Ethics,02,12456,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Edwards
+NURS,495,[CAPS] Advanced Practicum,01,12439,3,ARRGT,ARR ARR,Oct 18--Dec 17,J Caley
 NURS,495,[CAPS] Advanced Practicum,02,12469,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",01,12473,3,W9.10-12,WEB ARR,Aug 25--Aug 25,""
+NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",01,12473,3,W9.10-12,WEB ARR,Aug 25--Aug 25,P Stover
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,WEB ARR,"",""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,WEB ARR,"",""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,WEB ARR,"",""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,WEB ARR,"",""
-NURS,503,Scientific Inquiry in Nursing,01,12448,2,M17.10-19,WEB ARR,Aug 23--Aug 23,""
+NURS,503,Scientific Inquiry in Nursing,01,12448,2,M17.10-19,WEB ARR,Aug 23--Aug 23,C Nguyen-Truong
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,WEB ARR,"",""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,WEB ARR,"",""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,WEB ARR,"",""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,WEB ARR,"",""
-NURS,504,Evidence-Based Practice,01,12441,3,M11.10-14,WEB ARR,Aug 23--Aug 23,""
+NURS,504,Evidence-Based Practice,01,12441,3,M11.10-14,WEB ARR,Aug 23--Aug 23,C Van Son
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,WEB ARR,"",""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,WEB ARR,"",""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,WEB ARR,"",""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,WEB ARR,"",""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,01,12466,2,TU16.10-18,WEB ARR,Aug 24--Aug 24,""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,01,12466,2,TU16.10-18,WEB ARR,Aug 24--Aug 24,S Fincham
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,WEB ARR,"",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,WEB ARR,"",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,WEB ARR,"",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,WEB ARR,"",""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,01 Lab,12467,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+NURS,508,Diagnostics and Procedures for Primary Care Practice,01 Lab,12467,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Fincham
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,01,12471,3,TU8.10-11,WEB ARR,Aug 24--Aug 24,""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,WEB ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,WEB ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,WEB ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,WEB ARR,"",""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,01,12474,3,W9.10-12,WEB ARR,Aug 25--Aug 25,""
+NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,01,12474,3,W9.10-12,WEB ARR,Aug 25--Aug 25,L Kaplan
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,WEB ARR,"",""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,WEB ARR,"",""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,WEB ARR,"",""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,WEB ARR,"",""
-NURS,516,Primary Care Practicum II,01,12477,2,W12.10-14,WEB ARR,Aug 25--Aug 25,""
+NURS,516,Primary Care Practicum II,01,12477,2,W12.10-14,WEB ARR,Aug 25--Aug 25,B Briggs
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,WEB ARR,"",""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,WEB ARR,"",""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,WEB ARR,"",""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,WEB ARR,"",""
-NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",01,13097,3,M14.10-17,WEB ARR,Aug 23--Aug 23,""
+NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation",01,13097,3,M14.10-17,WEB ARR,Aug 23--Aug 23,K Shishani
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,WEB ARR,"",""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,WEB ARR,"",""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,WEB ARR,"",""
@@ -591,12 +593,12 @@ NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Inte
 NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,WEB ARR,"",""
 NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,WEB ARR,"",""
 NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,WEB ARR,"",""
-NURS,540,NP Clinical Practicum,01,12442,V,W17.10-19,WEB ARR,Aug 25--Aug 25,""
+NURS,540,NP Clinical Practicum,01,12442,V,W17.10-19,WEB ARR,Aug 25--Aug 25,B Briggs
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,WEB ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,WEB ARR,"",""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,01,12464,3,TU8.10-11,WEB ARR,Aug 24--Aug 24,""
+NURS,544,Therapeutic Modalities I: Introduction to Therapies,01,12464,3,TU8.10-11,WEB ARR,Aug 24--Aug 24,C Chacon
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,WEB ARR,"",""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,WEB ARR,"",""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,WEB ARR,"",""
@@ -607,13 +609,13 @@ NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,WEB ARR,"",
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,WEB ARR,"",""
 NURS,553,Organizational Systems and Leadership II,01 Lab,12488,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,555,PMHNP Practicum I,01,12479,3,W12.10-14,WEB ARR,Aug 25--Aug 25,""
+NURS,555,PMHNP Practicum I,01,12479,3,W12.10-14,WEB ARR,Aug 25--Aug 25,C Chacon
 NURS,555,PMHNP Practicum I,"","","",W12.10-14,WEB ARR,"",""
 NURS,555,PMHNP Practicum I,"","","",W12.10-14,WEB ARR,"",""
 NURS,555,PMHNP Practicum I,"","","",W12.10-14,WEB ARR,"",""
 NURS,555,PMHNP Practicum I,"","","",W12.10-14,WEB ARR,"",""
 NURS,555,PMHNP Practicum I,01 Lab,12490,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,558,DNP Project II,01,12443,3,W14.10-17,WEB ARR,Aug 25--Aug 25,""
+NURS,558,DNP Project II,01,12443,3,W14.10-17,WEB ARR,Aug 25--Aug 25,A Hunter
 NURS,558,DNP Project II,"","","",W14.10-17,WEB ARR,"",""
 NURS,558,DNP Project II,"","","",W14.10-17,WEB ARR,"",""
 NURS,558,DNP Project II,"","","",W14.10-17,WEB ARR,"",""
@@ -634,17 +636,17 @@ NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU14-18,
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU14-18,WEB ARR,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU14-18,ARR ARR,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU14-18,WEB ARR,"",""
-NURS,563,Advanced Pharmacology,01,12457,3,TU13.10-16,WEB ARR,Aug 24--Aug 24,""
+NURS,563,Advanced Pharmacology,01,12457,3,TU13.10-16,WEB ARR,Aug 24--Aug 24,T Klein
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
-NURS,564,Family Health and Health Promotion of Populations,01,12445,3,M8.10-11,WEB ARR,Aug 23--Aug 23,""
+NURS,564,Family Health and Health Promotion of Populations,01,12445,3,M8.10-11,WEB ARR,Aug 23--Aug 23,N Wood
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
 NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
-NURS,565,Information Management for Clinical Practice,01,12449,3,TH14.10-17,WEB ARR,Aug 26--Aug 26,""
+NURS,565,Information Management for Clinical Practice,01,12449,3,TH14.10-17,WEB ARR,Aug 26--Aug 26,A Brittain
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
@@ -654,13 +656,13 @@ NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,WEB ARR,"",
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,WEB ARR,"",""
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,WEB ARR,"",""
 NURS,566,Community Analysis and Grant Development,"","","",M11.10-13,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,01,12987,3,TH11.10-14,WEB ARR,Aug 26--Aug 26,""
+NURS,576,Organizational Systems and Leadership I,01,12987,3,TH11.10-14,WEB ARR,Aug 26--Aug 26,C Warburton
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,01 Lab,12988,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,581,Advanced Pathophysiology,01,12481,3,M14.10-17,WEB ARR,Aug 23--Aug 23,""
+NURS,576,Organizational Systems and Leadership I,01 Lab,12988,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Chacon
+NURS,581,Advanced Pathophysiology,01,12481,3,M14.10-17,WEB ARR,Aug 23--Aug 23,F Brown
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
@@ -669,7 +671,7 @@ NURS,583,DNP Population Health Practicum,01,12470,V,ARRGT,ARR ARR,Aug 23--Dec 10
 NURS,599,Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Purath
 NURS,599,Independent Study,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Mason
 NURS,599,Independent Study,03,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,P Stover
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,17427,V,TH8.10-11,WEB ARR,Aug 26--Aug 26,""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,17427,V,TH8.10-11,WEB ARR,Aug 26--Aug 26,(multiple)
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
@@ -719,7 +721,7 @@ PSYCH,412,[CAPS] [M] Psychological Testing and Assessment,01,13756,3,"M,W13.30-1
 PSYCH,464,Behavior Disorders of Children and Adolescents,01,17480,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,J Fales
 PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,K Schmaling
 PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,17482,3,"TU,TH14.55-16.10",VC VAN,Aug 23--Dec 10,M Morgan
+PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,17482,3,"TU,TH14.55-16.10",WEB ARR,Aug 23--Dec 10,M Morgan
 PSYCH,506,Current Research in Psychology,01,17744,1,W16.10-17,VC VAN,Aug 23--Dec 10,R Magnan
 PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,13045,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,C Cuttler
 PSYCH,523,Health Psychology,01,13392,3,M13.10-16,VC VAN,Aug 23--Dec 10,R Magnan
@@ -759,9 +761,8 @@ SOE,576,Biology and Ecology of Pacific Salmon,01,13152,3,"TU,TH16.25-17.40",WEB 
 SOE,598,Seminar,01,13057,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,700,"Master's Research, Thesis, and/or Examination",01,12567,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,12568,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-SOIL_SCI,368,Introduction to Geographic Information Systems,02,17716,3,"TU,TH17.45-20",VUB 100,Aug 23--Dec 10,""
-SOIL_SCI,368,Introduction to Geographic Information Systems,02 Lab,17717,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOIL_SCI,513,Environmental Soil Physics,01,12900,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,M Flury
+SOIL_SCI,541,Soil-Plant-Microbial Interactions,01,18389,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,T Sullivan
 SPANISH,101,First Semester,01,12719,4,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,C Gulam
 SPANISH,101,First Semester,02,12720,4,"M,W,F12.05-12.55",GUC VAN,Aug 23--Dec 10,M Lee-Lopez
 SPANISH,105,Elementary Conversation,01,12721,1,TU14.55-15.45,WEB ARR,Aug 23--Dec 10,M Mcmichael
@@ -777,13 +778,14 @@ SPEC_ED,401,Teaching Students with Disabilities,01,12613,3,ARRGT,ARR ARR,Aug 23-
 SPEC_ED,404,Professional Skills in Special Education,01,12614,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,409,Early Childhood Special Education,01,12615,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,12616,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,490,Practicum in Special Education,01,12825,2,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,595,Universal Design,01,13160,3,TH17.45-20.30,WEB ARR,Aug 23--Dec 10,D Mcmahon
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,13161,1,W16.10-17,WEB ARR,Aug 23--Dec 10,""
-STAT,212,[QUAN] Introduction to Statistical Methods,01,12738,4,"W,F9.10-10.25",GUC VAN,Aug 23--Dec 10,""
+STAT,212,[QUAN] Introduction to Statistical Methods,01,12738,4,"W,F9.10-10.25",GUC VAN,Aug 23--Dec 10,F Mcgrade
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,12739,0,"TU,TH9.10-10",VUB 202,Aug 23--Dec 10,""
-STAT,360,Probability and Statistics,01,12740,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,""
-STAT,360,Probability and Statistics,02,12741,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,""
-STAT,360,Probability and Statistics,03,12894,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,""
+STAT,360,Probability and Statistics,01,12740,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,L Sotomayor
+STAT,360,Probability and Statistics,02,12741,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,L Sotomayor
+STAT,360,Probability and Statistics,03,12894,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,L Sotomayor
 STAT,412,Statistical Methods in Research I,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,02,"",3,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,""
 STAT,423,Statistical Methods for Engineers and Scientists,01,12742,3,"W,F10.35-11.50",VC VAN,Aug 23--Dec 10,""
@@ -798,7 +800,7 @@ STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,13188,V,ARRGT,
 TCH_LRN,305,Fundamentals of Instruction,01,12617,2,"M,F10.10-11",GUC VAN,Aug 23--Dec 10,""
 TCH_LRN,305,Fundamentals of Instruction,02,18076,2,TU17.30-19.10,GUC VAN,Aug 23--Dec 10,""
 TCH_LRN,307,Survey of Children's Literature,01,12823,3,W8.10-11,GUC VAN,Aug 23--Dec 10,D Day-Wiff
-TCH_LRN,310,[M] Classroom Management,01,12618,2,M9.10-11,GUC VAN,Aug 23--Dec 10,C Dudley
+TCH_LRN,310,[M] Classroom Management,01,12618,2,M9.10-11,GUC VAN,Aug 23--Dec 10,""
 TCH_LRN,322,[M] Reading and Writing in Grades 4 - 8,01,13088,3,W17.10-19.55,GUC VAN,Aug 23--Dec 10,D Duncan
 TCH_LRN,330,Diversity in Education,01,12896,3,M11.10-14,GUC VAN,Aug 23--Dec 10,S Rakha
 TCH_LRN,333,Introduction to English as a Second Language (ESL),01,12619,3,W11.10-14,GUC VAN,Aug 23--Dec 10,G Ernst-Slavit
