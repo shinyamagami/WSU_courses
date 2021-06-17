@@ -197,6 +197,7 @@ ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,09774,1,W1
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,08870,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ED_PSYCH,401,"Classroom Assessment, Elementary",01,08742,V,W10.10-12.55,GUC TRI,Aug 23--Dec 10,J Firestone
 ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,18066,3,W12.10-15,WEB ARR,Aug 23--Dec 10,R Danielson
+ED_PSYCH,505,Research Methods I,01,09417,3,M17.45-20.30,WEB ARR,Aug 23--Dec 10,H Liao
 ED_PSYCH,508,Educational Statistics,01,09416,3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,H Liao
 ED_PSYCH,521,Topics in Educational Psychology,01,09764,3,TU12.10-15,WEB ARR,Aug 23--Dec 10,K Carbonneau
 ED_PSYCH,521,Topics in Educational Psychology,02,18065,3,M17.45-20.30,WEB ARR,Aug 23--Dec 10,R Danielson
@@ -234,7 +235,9 @@ ENGR,120,Innovation in Design,01 Lab,08482,0,M10.10-13,GUC TRI,Aug 23--Dec 10,S 
 ENGR,120,Innovation in Design,02 Lab,08822,0,M15.10-18,GUC TRI,Aug 23--Dec 10,S Hudson
 ENTOM,343,[M] General Entomology,01,08677,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,A Felsot
 ENTOM,460,Biotechnology and the Environment,01,09420,3,"M,W16.15-17.30",VC TRI,Aug 23--Dec 10,A Felsot
+ENTOM,490,Special Topics in Entomology,01,"",1,M14.10-15,VC TRI,Aug 23--Dec 10,A Felsot
 ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
+ENTOM,590,Special Topics in Entomology,01,18421,1,M14.10-15,VC TRI,Aug 23--Dec 10,A Felsot
 ENTRP,489,Entrepreneurial Management,02,17198,3,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,P Carlisle
 FIN,325,Introduction to Financial Management,01,08514,3,"TU,TH17.45-19",GUC TRI,Aug 23--Dec 10,S Koopman
 FIN,325,Introduction to Financial Management,03,17199,3,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,K Jones
@@ -381,48 +384,48 @@ MKTG,477,Integrated Marketing Communications,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 1
 MKTG,495,[M] Marketing Management,01,09442,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,J Giese
 MSE,201,Materials Engineering Fundamentals,01,08559,3,"M,W,F12.10-13",VC TRI,Aug 23--Dec 10,A Porter
 MSE,507,Additive Manufacturing,01,17976,3,"M,W17.45-19",GUC TRI,Aug 23--Dec 10,C Yang
-NURS,308,Professional Development I: Professional Roles and Responsibilities,01,08316,3,W10.30-13.30,VC TRI,Aug 23--Dec 10,""
-NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,08317,3,TH13.10-16,VC TRI,Aug 23--Dec 10,""
-NURS,311,Pathophysiology and Pharmacology in Nursing,01,08318,4,W8.10-10,VC TRI,Aug 23--Dec 10,""
-NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.30-13.30,VC TRI,"",""
+NURS,308,Professional Development I: Professional Roles and Responsibilities,01,08316,3,W10.30-13.30,VC TRI,Aug 23--Dec 10,S Hurst
+NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,08317,3,TH13.10-16,VC TRI,Aug 23--Dec 10,K Anders
+NURS,311,Pathophysiology and Pharmacology in Nursing,01,08318,4,W8.10-10,VC TRI,Aug 23--Dec 10,L Kifer
+NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,VC TRI,"",""
 NURS,315,Nursing Practice: Health and Illness,01,08319,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Neeway
 NURS,315,Nursing Practice: Health and Illness,02,08370,4,ARRGT,ARR ARR,Aug 23--Dec 10,A Hamel
 NURS,315,Nursing Practice: Health and Illness,03,08417,4,ARRGT,ARR ARR,Aug 23--Dec 10,T Mendoza
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,08320,2,TU13.10-15,VC TRI,Aug 23--Dec 10,""
-NURS,317,Health Assessment,01,08321,3,TU10.30-12.30,VC TRI,Aug 23--Dec 10,""
+NURS,317,Health Assessment,01,08321,3,TU10.30-12.30,VC TRI,Aug 23--Dec 10,L Jinishian
 NURS,317,Health Assessment,01 Lab,08322,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,317,Health Assessment,02 Lab,08419,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,322,The Human Experience of Diversity and Health,01,08323,2,F8.10-10,VC TRI,Aug 23--Dec 10,""
-NURS,323,Nursing in the Genome Era,01,08351,2,M8.10-10,VC TRI,Aug 23--Dec 10,""
-NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,01,08339,4,M10.30-12.30,VC TRI,Aug 23--Dec 10,""
+NURS,322,The Human Experience of Diversity and Health,01,08323,2,F10.30-12.30,VC TRI,Aug 23--Dec 10,S Mcfadden
+NURS,323,Nursing in the Genome Era,01,08351,2,M8.10-10,VC TRI,Aug 23--Dec 10,L Jinishian
+NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,01,08339,4,M10.30-12.30,VC TRI,Aug 23--Dec 10,T Landis
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","",F10.30-12.30,VC TRI,"",""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,01,08354,5,ARRGT,ARR ARR,Aug 23--Dec 10,L Punch
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,08371,5,ARRGT,ARR ARR,Aug 23--Dec 10,A Young
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,08418,5,ARRGT,ARR ARR,Aug 23--Dec 10,A Young
-NURS,328,Introduction to Gerontological Nursing,01,08340,2,TU8.10-10,VC TRI,Aug 23--Dec 10,""
+NURS,328,Introduction to Gerontological Nursing,01,08340,2,TU8.10-10,VC TRI,Aug 23--Dec 10,C Van Son
 NURS,360,Contemporary Nursing,01,08333,3,ARRGT,ARR ARR,Aug 23--Oct 15,A Brittain
 NURS,360,Contemporary Nursing,02,08334,3,ARRGT,ARR ARR,Aug 23--Oct 15,A Brittain
 NURS,400,[M] Nursing Research and Evidence-Based Practice,01,08337,3,ARRGT,ARR ARR,Oct 18--Dec 17,C Richards
 NURS,400,[M] Nursing Research and Evidence-Based Practice,02,08338,3,ARRGT,ARR ARR,Oct 18--Dec 17,C Richards
 NURS,405,Nursing Leadership,01,08331,3,ARRGT,ARR ARR,Aug 23--Oct 15,V Denson
 NURS,405,Nursing Leadership,02,08332,3,ARRGT,ARR ARR,Aug 23--Oct 15,V Denson
-NURS,408,Professional Development III: Leadership and Management,01,08341,3,TH9.10-12,VC TRI,Aug 23--Dec 10,""
+NURS,408,Professional Development III: Leadership and Management,01,08341,3,TH9.10-12,VC TRI,Aug 23--Dec 10,S Perkins
 NURS,409,Professional Development IV: Transition to Practice,01,08342,2,M13.10-16,VC TRI,Aug 23--Dec 10,""
 NURS,412,Family and Community as a Context of Care,01,08353,1,F11.30-13,VC TRI,Aug 23--Dec 10,""
-NURS,414,Child and Family Health: Theory,01,08343,3,F8.10-11,VC TRI,Aug 23--Dec 10,""
+NURS,414,Child and Family Health: Theory,01,08343,3,F8.10-11,VC TRI,Aug 23--Dec 10,S Perkins
 NURS,415,Children and Families as the Focus of Nursing Care,01,08344,2,ARRGT,ARR ARR,Aug 23--Dec 10,M Neeway
 NURS,415,Children and Families as the Focus of Nursing Care,02,08372,2,ARRGT,ARR ARR,Aug 23--Dec 10,L Follett
 NURS,415,Children and Families as the Focus of Nursing Care,03,09611,2,ARRGT,ARR ARR,Aug 23--Dec 10,L Follett
-NURS,416,Childbearing Health of the Family,01,08345,3,TH13.10-16,VC TRI,Aug 23--Dec 10,""
+NURS,416,Childbearing Health of the Family,01,08345,3,TH13.10-16,VC TRI,Aug 23--Dec 10,K Mitchell
 NURS,417,Nursing Care of Childbearing Families,01,08346,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Mcintosh
 NURS,417,Nursing Care of Childbearing Families,02,08373,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Mcintosh
 NURS,417,Nursing Care of Childbearing Families,03,09612,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Mcintosh
-NURS,424,Psychiatric/Mental Health Nursing Concepts,01,08347,3,M8.10-10,VC TRI,Aug 23--Dec 10,""
+NURS,424,Psychiatric/Mental Health Nursing Concepts,01,08347,3,M8.10-10,VC TRI,Aug 23--Dec 10,K Tietjen
 NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",TH10.10-12,VC TRI,"",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,01,08348,2,ARRGT,ARR ARR,Aug 23--Dec 10,M Aronow
 NURS,425,Nursing Practice: Psychiatric/Mental Health,02,08374,2,ARRGT,ARR ARR,Aug 23--Dec 10,M Aronow
 NURS,425,Nursing Practice: Psychiatric/Mental Health,03,09613,2,ARRGT,ARR ARR,Aug 23--Dec 10,J Larson
-NURS,426,[M] Community Health Nursing Theory,01,08349,2,M10.10-12,VC TRI,Aug 23--Dec 10,""
+NURS,426,[M] Community Health Nursing Theory,01,08349,2,M10.10-12,VC TRI,Aug 23--Dec 10,S Griffith
 NURS,426,[M] Community Health Nursing Theory,"","","",TH9.10-10,VC TRI,"",""
 NURS,427,Community Health Nursing Practice,01,08350,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,427,Community Health Nursing Practice,02,08375,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -430,8 +433,8 @@ NURS,427,Community Health Nursing Practice,03,09614,3,ARRGT,ARR ARR,Aug 23--Dec 
 NURS,430,[CAPS] Senior Practicum,01,08330,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,440,[M] Population Health Theory,01,08328,3,ARRGT,ARR ARR,Aug 23--Oct 15,S Edwards
 NURS,440,[M] Population Health Theory,02,08329,3,ARRGT,ARR ARR,Aug 23--Oct 15,S Edwards
-NURS,465,Application of Population Health Principles,01,08359,3,ARRGT,ARR ARR,Aug 23--Nov 12,""
-NURS,465,Application of Population Health Principles,02,08360,3,ARRGT,ARR ARR,Aug 23--Nov 12,""
+NURS,465,Application of Population Health Principles,01,08359,3,ARRGT,ARR ARR,Aug 23--Nov 12,P Eide
+NURS,465,Application of Population Health Principles,02,08360,3,ARRGT,ARR ARR,Aug 23--Nov 12,P Eide
 NURS,471,Foundations of Occupational and Environmental Health Practice,01,08404,3,ARRGT,ARR ARR,Oct 18--Dec 17,D Smart
 NURS,471,Foundations of Occupational and Environmental Health Practice,02,08405,3,ARRGT,ARR ARR,Oct 18--Dec 17,D Smart
 NURS,477,Health Care Ethics,01,08324,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Edwards
@@ -586,18 +589,18 @@ NURS,558,DNP Project II,"","","",W14.10-17,VC TRI,"",""
 NURS,558,DNP Project II,"","","",W14.10-17,VC TRI,"",""
 NURS,558,DNP Project II,01 Lab,08357,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,558,DNP Project II,02 Lab,08358,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,01,08363,3,TU11.10-13,VC TRI,Aug 24--Aug 24,""
+NURS,562,Advanced Health Assessment and Differential Diagnoses,01,08363,3,TU11.10-13,VC TRI,Aug 24--Aug 24,B Sarkinen
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC TRI,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC TRI,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC TRI,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC TRI,"",""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,02,08364,3,TU11.10-13,VC TRI,Aug 24--Aug 24,""
+NURS,562,Advanced Health Assessment and Differential Diagnoses,02,08364,3,TU11.10-13,VC TRI,Aug 24--Aug 24,B Sarkinen
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC TRI,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC TRI,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC TRI,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC TRI,"",""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,01 Lab,08368,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,562,Advanced Health Assessment and Differential Diagnoses,02 Lab,08369,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+NURS,562,Advanced Health Assessment and Differential Diagnoses,01 Lab,08368,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Sarkinen
+NURS,562,Advanced Health Assessment and Differential Diagnoses,02 Lab,08369,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Sarkinen
 NURS,563,Advanced Pharmacology,01,08365,3,TU13.10-16,VC TRI,Aug 24--Aug 24,""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,VC TRI,"",""
 NURS,563,Advanced Pharmacology,"","","",TU13.10-16,VC TRI,"",""

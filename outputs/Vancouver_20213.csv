@@ -69,6 +69,7 @@ BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,12639,0,TU13.30-16.10,VC
 BIOLOGY,354,Human Anatomy for Health Occupations,02 Lab,12640,0,W7.45-10.25,VCLS 150,Aug 23--Dec 10,""
 BIOLOGY,354,Human Anatomy for Health Occupations,03 Lab,12838,0,W13.30-16.10,VCLS 150,Aug 23--Dec 10,""
 BIOLOGY,393,[M] Professional Communications in Biology,01,12653,2,W12.05-12.55,GUC VAN,Aug 23--Dec 10,D Wilmington
+BIOLOGY,401,[CAPS] Plants and People,02,13796,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Thomas
 BIOLOGY,403,Evolutionary Biology,01,12918,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,S Porter
 BIOLOGY,408,[CAPS] [M] Contemporary Genetics,01,12563,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,D Wilmington
 BIOLOGY,438,[M] Animal Behavior,01,13022,3,M9.10-10,GUC VAN,Aug 23--Dec 10,""
@@ -109,7 +110,7 @@ CHEM,345,Organic Chemistry I,01 Lab,12656,0,M10.35-13.15,VCLS 50,Aug 23--Dec 10,
 CHEM,345,Organic Chemistry I,02 Lab,12657,0,M13.30-16.10,VCLS 50,Aug 23--Dec 10,""
 CHEM,345,Organic Chemistry I,03 Lab,12658,0,M17.45-20.25,VCLS 50,Aug 23--Dec 10,""
 CHEM,345,Organic Chemistry I,04 Lab,12659,0,TU7.45-10.25,VCLS 50,Aug 23--Dec 10,""
-CHINESE,111,Asian Film,01,12794,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,W Zheng
+CHINESE,111,Asian Film,01,12794,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,W Zheng
 COM,101,[SSCI] Media and Society,01,12727,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,L Reed
 COM,102,[COMM] Public Speaking in the Digital Age,01,12728,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,M Levan
 COM,102,[COMM] Public Speaking in the Digital Age,02,12729,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,J Simmons
@@ -252,10 +253,10 @@ ED_RES,571,Doctoral Dissertation Preparation,01,"",3,W17.45-20.30,VC VAN,Aug 23-
 ED_RES,571,Doctoral Dissertation Preparation,02,13328,3,M17.45-20.30,VC VAN,Aug 23--Dec 10,S Finley
 ENGLISH,100,Introductory College Composition,01,12530,3,M9.10-10.25,WEB ARR,Aug 23--Dec 10,M Lobnitz
 ENGLISH,100,Introductory College Composition,"","","",W9.10-10.25,GUC VAN,"",""
-ENGLISH,101,[WRTG] College Composition,02,12558,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,J Allen
-ENGLISH,101,[WRTG] College Composition,03,12559,3,W13.30-14.45,GUC VAN,Aug 23--Dec 10,C Tobey
-ENGLISH,101,[WRTG] College Composition,04,12849,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,""
-ENGLISH,101,[WRTG] College Composition,05,12907,3,TU14.55-16.10,GUC VAN,Aug 23--Dec 10,""
+ENGLISH,101,[WRTG] College Composition,02,12558,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,K Phillips
+ENGLISH,101,[WRTG] College Composition,03,12559,3,W13.30-14.45,GUC VAN,Aug 23--Dec 10,J Lorenz
+ENGLISH,101,[WRTG] College Composition,04,12849,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,J Allen
+ENGLISH,101,[WRTG] College Composition,05,12907,3,TU14.55-16.10,GUC VAN,Aug 23--Dec 10,B Sullivan
 ENGLISH,102,Writing Tutorial,01,13071,1,W12.05-12.55,GUC VAN,Sep 06--Dec 10,""
 ENGLISH,102,Writing Tutorial,02,13072,1,W13.30-14.20,GUC VAN,Sep 06--Dec 10,""
 ENGLISH,102,Writing Tutorial,03,13073,1,TH12.05-12.55,GUC VAN,Sep 06--Dec 10,""
@@ -396,7 +397,7 @@ MATH,110,Mathematics Acceleration,01,12697,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,110,Mathematics Acceleration,02,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,K Debower
 MATH,115,Math 105 Tutorial,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,G Salos
 MATH,116,Math 106 Tutorial,01,13206,2,ARRGT,ARR ARR,Aug 23--Dec 10,""
-MATH,140,[QUAN] Calculus for Life Scientists,01,12711,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
+MATH,140,[QUAN] Calculus for Life Scientists,01,12711,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,O Rumyantseva
 MATH,140,[QUAN] Calculus for Life Scientists,01 Lab,12712,0,"M,W16.20-17.35",WEB ARR,Aug 23--Dec 10,""
 MATH,140,[QUAN] Calculus for Life Scientists,02 Lab,12806,0,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 MATH,171,[QUAN] Calculus I,01,12713,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,G Salos
@@ -406,8 +407,8 @@ MATH,171,[QUAN] Calculus I,03 Lab,12832,0,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec
 MATH,172,Calculus II,01,12716,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
 MATH,172,Calculus II,01 Lab,12717,0,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 MATH,172,Calculus II,02 Lab,12718,0,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
-MATH,201,Mathematics for Business and Economics,01,12550,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,""
-MATH,202,[QUAN] Calculus for Business and Economics,01,12551,3,"W,F10.35-11.50",GUC VAN,Aug 23--Dec 10,""
+MATH,201,Mathematics for Business and Economics,01,12550,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,J Sung
+MATH,202,[QUAN] Calculus for Business and Economics,01,12551,3,"W,F10.35-11.50",GUC VAN,Aug 23--Dec 10,O Rumyantseva
 MATH,216,Discrete Structures,02,13768,3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
 MATH,220,Introductory Linear Algebra,01,12698,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,""
 MATH,220,Introductory Linear Algebra,02,12699,2,"TU,TH14.55-15.45",GUC VAN,Aug 23--Dec 10,""
@@ -416,7 +417,7 @@ MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,12796,0,TH17.45-19.25,W
 MATH,273,Calculus III,01,12700,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,""
 MATH,273,Calculus III,02,12701,2,"TU,TH13.30-14.20",GUC VAN,Aug 23--Dec 10,""
 MATH,300,Mathematical Computing,01,13058,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,""
-MATH,315,Differential Equations,01,12831,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,""
+MATH,315,Differential Equations,01,12831,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,O Rumyantseva
 MATH,330,Methods of Teaching Secondary School Mathematics,01,12945,3,"TU,TH14.55-16.10",VC VAN,Aug 23--Dec 10,K Lesseig
 MATH,401,[M] Introduction to Analysis I,01,13059,3,"TU,TH12.05-13.20",VC VAN,Aug 23--Dec 10,B Krishnamoorthy
 MATH,405,Introduction to Financial Mathematics,01,"",3,"M,W,F15.10-16",WEB ARR,Aug 23--Dec 10,""
@@ -778,7 +779,7 @@ SPEC_ED,401,Teaching Students with Disabilities,01,12613,3,ARRGT,ARR ARR,Aug 23-
 SPEC_ED,404,Professional Skills in Special Education,01,12614,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,409,Early Childhood Special Education,01,12615,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,12616,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,490,Practicum in Special Education,01,12825,2,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
+SPEC_ED,490,Practicum in Special Education,01,12825,2,ARRGT,ARR ARR,Aug 23--Dec 10,M Pursley
 SPEC_ED,595,Universal Design,01,13160,3,TH17.45-20.30,WEB ARR,Aug 23--Dec 10,D Mcmahon
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,13161,1,W16.10-17,WEB ARR,Aug 23--Dec 10,""
 STAT,212,[QUAN] Introduction to Statistical Methods,01,12738,4,"W,F9.10-10.25",GUC VAN,Aug 23--Dec 10,F Mcgrade
@@ -788,11 +789,11 @@ STAT,360,Probability and Statistics,02,12741,3,"TU,TH10.35-11.50",GUC VAN,Aug 23
 STAT,360,Probability and Statistics,03,12894,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,L Sotomayor
 STAT,412,Statistical Methods in Research I,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,02,"",3,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,""
-STAT,423,Statistical Methods for Engineers and Scientists,01,12742,3,"W,F10.35-11.50",VC VAN,Aug 23--Dec 10,""
+STAT,423,Statistical Methods for Engineers and Scientists,01,12742,3,"W,F10.35-11.50",VC VAN,Aug 23--Dec 10,F Mcgrade
 STAT,435,[M] Statistical Modeling for Data Analytics,02,"",3,"M,W11.10-12",WEB ARR,Aug 23--Dec 10,""
 STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,"",0,F11.10-13,WEB ARR,Aug 23--Dec 10,""
 STAT,443,Applied Probability,01,"",3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
-STAT,523,Statistical Methods for Engineers and Scientists,01,12743,3,"W,F10.35-11.50",VC VAN,Aug 23--Dec 10,""
+STAT,523,Statistical Methods for Engineers and Scientists,01,12743,3,"W,F10.35-11.50",VC VAN,Aug 23--Dec 10,F Mcgrade
 STAT,575,The Theory of Multivariate Analysis,01,18070,3,"TU,TH13.35-14.45",WEB ARR,Aug 23--Dec 10,F Pascual
 STAT,591,Seminar in Statistics,01,13189,1,W16.10-17,WEB ARR,Aug 23--Dec 10,Y Wang
 STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,18038,V,ARRGT,ARR ARR,Aug 23--Dec 10,L New
@@ -807,7 +808,7 @@ TCH_LRN,333,Introduction to English as a Second Language (ESL),01,12619,3,W11.10
 TCH_LRN,339,Communicating in Diverse Classrooms,01,12620,3,M11.10-14,GUC VAN,Aug 23--Dec 10,G Ernst-Slavit
 TCH_LRN,401,Practicum in Bilingual/ESL Education,01,"",3,TH16.20-19.10,WEB ARR,Aug 23--Dec 10,I Haller Gryc
 TCH_LRN,401,Practicum in Bilingual/ESL Education,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,I Haller Gryc
-TCH_LRN,402,Instructional Practicum I,01,12637,1,W14.10-15,GUC VAN,Aug 23--Dec 10,""
+TCH_LRN,402,Instructional Practicum I,01,12637,1,W14.10-15,GUC VAN,Aug 23--Dec 10,K Abegglen
 TCH_LRN,413,Introduction to ESL for K-8 Teachers,01,"",V,"M,W8.10-10",WEB ARR,Aug 23--Dec 10,""
 TCH_LRN,415,Student Teaching,01,12621,V,M17.45-20,GUC VAN,Aug 23--Dec 10,M Connolly
 TCH_LRN,415,Student Teaching,01 Lab,12622,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Connolly
