@@ -42,8 +42,8 @@ B_A,102,Exploring Careers in Business,01,11031,1,ARRGT,ARR ARR,Aug 23--Oct 10,S 
 B_A,102,Exploring Careers in Business,02,11169,1,ARRGT,ARR ARR,Aug 23--Oct 10,S Billington
 B_A,211,"Ethics, Teams, and Innovation",01,11033,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Yaws-Gonzalez
 B_A,211,"Ethics, Teams, and Innovation",02,11180,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Yaws-Gonzalez
-B_A,211,"Ethics, Teams, and Innovation",04,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,""
-B_A,211,"Ethics, Teams, and Innovation",05,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,""
+B_A,211,"Ethics, Teams, and Innovation",04,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,K Tajeddini
+B_A,211,"Ethics, Teams, and Innovation",05,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,K Tajeddini
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,11032,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,11143,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",03,11170,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
@@ -203,8 +203,8 @@ E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,Aug 23-
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,"",Aug 23--Dec 10,R Crick
-E_M,522,Leading People and Organizations,01,10278,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-E_M,522,Leading People and Organizations,02,10885,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,"",Aug 23--Dec 10,""
+E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,"",Aug 23--Dec 10,""
 E_M,530,Applications of Constraints Management,01,10412,3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
 E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
@@ -221,7 +221,7 @@ ECONS,301,Intermediate Microeconomic Theory with Calculus,01,10671,4,ARRGT,ARR A
 ECONS,305,Intermediate Microeconomics without Calculus,01,10481,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wang
 ECONS,311,[M] Introductory Econometrics,01,10834,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Nguyen
 ECONS,320,Money and Banking,01,10286,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Rahman
-ECONS,321,Economics of Sports in America,01,10941,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ECONS,321,Economics of Sports in America,01,10941,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Surve
 ECONS,326,Aspects of Sustainable Development,01,10942,3,ARRGT,ARR ARR,Aug 23--Dec 10,Y Zhang
 ECONS,327,International Trade and Finance,01,10287,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Lama
 ECONS,335,[QUAN] Business Finance Economics,01,10672,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Shakil
@@ -312,20 +312,20 @@ H_D,410,[M] Public Policy Issues in Human Development,01,10272,3,ARRGT,ARR ARR,A
 H_D,445,Early Childhood Professional Preparation Seminar,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
 H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Lanigan
 H_D,495,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Anderson
-H_D,497,Professional Preparation Seminar,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+H_D,497,Professional Preparation Seminar,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T Reiss
 H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Hewa
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,505,Developing Effective Leadership: Tidal Leadership,01,10505,2,ARRGT,ARR ARR,Aug 23--Dec 10,J Hewa
 HBM,101,Professional and Career Development for the Business World,01,10207,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,10666,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,101,Professional and Career Development for the Business World,03,11171,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
-HBM,235,"[SSCI] Travel, Society, and Business",01,10554,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
+HBM,235,"[SSCI] Travel, Society, and Business",01,10554,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Han
 HBM,280,Hospitality Systems,01,10327,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Philander
 HBM,301,Introduction to Event Planning,01,10500,3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
 HBM,301,Introduction to Event Planning,02,11132,3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
 HBM,358,Foodservice Systems and Control,01,10556,3,ARRGT,ARR ARR,Aug 23--Oct 10,S Seo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,J Harbour
-HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,H Andlid
+HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,J Rose
 HBM,401,Career Management,01,10498,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,491,Operational Analysis,01,10494,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Chen
 HBM,494,[M] Service Operations Management,02,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,B Marlowe
@@ -333,7 +333,6 @@ HBM,494,[M] Service Operations Management,03,17583,3,ARRGT,ARR ARR,Oct 04--Dec 1
 HBM,495,[CAPS] Case Studies and Research,01,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,O Larina
 HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,O Larina
 HBM,582,Hospitality Operations Analysis,01,17691,3,ARRGT,ARR ARR,Aug 23--Oct 10,C Chi
-HBM,582,Hospitality Operations Analysis,02,17692,3,ARRGT,ARR ARR,Aug 23--Oct 10,C Chi
 HISTORY,102,[HUM] Modern Europe,01,10199,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Miller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,10204,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10855,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Weller
@@ -368,13 +367,13 @@ I_BUS,580,International Business Management,06,10924,3,ARRGT,ARR ARR,Aug 23--Oct
 I_D,490,Cooperative Education Internship,01,10465,V,ARRGT,ARR ARR,Aug 23--Dec 10,R Krikac
 I_D,498,Special Topics in Interior Design,01,10466,V,ARRGT,ARR ARR,Aug 23--Dec 10,R Krikac
 KINES,496,Special Topics,01,10829,V,ARRGT,ARR ARR,Dec 18--Jan 09,C Connolly
-MATH,103,Algebra Methods and Introduction to Functions,01,10332,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-MATH,103,Algebra Methods and Introduction to Functions,02,10874,3,ARRGT,ARR ARR,Nov 29--Jan 09,E Sablan
+MATH,103,Algebra Methods and Introduction to Functions,01,10332,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Harrington
+MATH,103,Algebra Methods and Introduction to Functions,02,10874,3,ARRGT,ARR ARR,Nov 29--Jan 09,S Harrington
 MATH,106,College Algebra,01,17818,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Learn
 MATH,171,[QUAN] Calculus I,01,10983,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,171,[QUAN] Calculus I,01 Lab,10986,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-MATH,201,Mathematics for Business and Economics,01,10334,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-MATH,202,[QUAN] Calculus for Business and Economics,01,10335,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MATH,201,Mathematics for Business and Economics,01,10334,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Morgan
+MATH,202,[QUAN] Calculus for Business and Economics,01,10335,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Morgan
 MBIOS,301,General Genetics,01,10222,4,ARRGT,ARR ARR,Aug 23--Dec 10,N Mccabe
 MBIOS,303,Introductory Biochemistry,01,10224,4,ARRGT,ARR ARR,Aug 23--Dec 10,R Brosemer
 MBIOS,305,General Microbiology,01,10225,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Helmick
@@ -404,9 +403,11 @@ MGMT,301,Principles of Management and Organization,01,10336,3,ARRGT,ARR ARR,Aug 
 MGMT,301,Principles of Management and Organization,02,10653,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
 MGMT,401,Leading People and Organizations,01,10339,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Gingras
 MGMT,401,Leading People and Organizations,02,10655,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Gingras
+MGMT,401,Leading People and Organizations,03,11007,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Gingras
 MGMT,450,Personnel and Human Resources Management,01,10340,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Kuhn
 MGMT,485,[M] Negotiation Skills,01,17226,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppard
 MGMT,485,[M] Negotiation Skills,02,17288,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppard
+MGMT,485,[M] Negotiation Skills,03,18443,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppard
 MGMT,491,[CAPS] Strategic Management,01,10346,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
 MGMT,491,[CAPS] Strategic Management,02,10504,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
 MGMT,491,[CAPS] Strategic Management,03,10862,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
@@ -507,37 +508,37 @@ POL_S,428,[CAPS] Issues in Political Psychology,01,11125,3,ARRGT,ARR ARR,Aug 23-
 POL_S,472,[CAPS] [M] European Politics,01,11126,3,ARRGT,ARR ARR,Aug 23--Dec 10,F Jabbouri
 POL_S,497,Political Science Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Elgar
 POL_S,498,Public Policy Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Elgar
-PSYCH,105,[SSCI] Introductory Psychology,01,10363,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,201,Degrees and Careers in Psychology,01,10938,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,210,Psychology as a Science,01,10478,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,230,Human Sexuality,01,10364,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,01,10366,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,311,[QUAN] Statistics in Psychology,01,10367,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,311,[QUAN] Statistics in Psychology,02,18415,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,312,[M] Research Methods in Psychology,01,10368,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,312,[M] Research Methods in Psychology,02,17943,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,312,[M] Research Methods in Psychology,01 Lab,10369,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,312,[M] Research Methods in Psychology,02 Lab,17944,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,321,Personality,01,10370,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,324,Psychology of Gender,01,10371,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,328,[M] Self Control,01,10373,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,328,[M] Self Control,02,10374,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,333,Abnormal Psychology,01,10375,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,348,Forensic and Legal Psychology,01,10937,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,361,Developmental Psychology,01,10376,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,412,[CAPS] [M] Psychological Testing and Assessment,01,10482,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,440,[M] Clinical/Community Psychology,01,10479,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,470,Motivation,01,10377,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,490,Cognition and Memory,01,10378,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,491,Principles of Learning,01,10649,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,497,Instructional Practicum,01,10379,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,497,Instructional Practicum,02,10380,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,497,Instructional Practicum,03,10456,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,497,Instructional Practicum,04,10993,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,498,Research Participation,01,10457,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,499,Special Problems,01,10502,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,499,Special Problems,02,10517,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,499,Special Problems,03,10992,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+PSYCH,105,[SSCI] Introductory Psychology,01,10363,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Bridley
+PSYCH,201,Degrees and Careers in Psychology,01,10938,1,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,210,Psychology as a Science,01,10478,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Stubblefield
+PSYCH,230,Human Sexuality,01,10364,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Paup
+PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,01,10366,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Clark
+PSYCH,311,[QUAN] Statistics in Psychology,01,10367,4,ARRGT,ARR ARR,Aug 23--Dec 10,A Lau
+PSYCH,311,[QUAN] Statistics in Psychology,02,18415,4,ARRGT,ARR ARR,Aug 23--Dec 10,D Mauzay
+PSYCH,312,[M] Research Methods in Psychology,01,10368,4,ARRGT,ARR ARR,Aug 23--Dec 10,C Lane
+PSYCH,312,[M] Research Methods in Psychology,02,17943,4,ARRGT,ARR ARR,Aug 23--Dec 10,C Lane
+PSYCH,312,[M] Research Methods in Psychology,01 Lab,10369,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Lane
+PSYCH,312,[M] Research Methods in Psychology,02 Lab,17944,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Lane
+PSYCH,321,Personality,01,10370,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Byrd
+PSYCH,324,Psychology of Gender,01,10371,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mcraney
+PSYCH,328,[M] Self Control,01,10373,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,328,[M] Self Control,02,10374,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,333,Abnormal Psychology,01,10375,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Bridley
+PSYCH,348,Forensic and Legal Psychology,01,10937,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Savage
+PSYCH,361,Developmental Psychology,01,10376,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Lane
+PSYCH,412,[CAPS] [M] Psychological Testing and Assessment,01,10482,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Stubblefield
+PSYCH,440,[M] Clinical/Community Psychology,01,10479,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Bridley
+PSYCH,470,Motivation,01,10377,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Byrd
+PSYCH,490,Cognition and Memory,01,10378,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Clark
+PSYCH,491,Principles of Learning,01,10649,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Henricks
+PSYCH,497,Instructional Practicum,01,10379,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,497,Instructional Practicum,02,10380,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,497,Instructional Practicum,03,10456,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,497,Instructional Practicum,04,10993,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,498,Research Participation,01,10457,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,499,Special Problems,01,10502,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,499,Special Problems,02,10517,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,499,Special Problems,03,10992,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
 SHS,201,American Sign Language I,01,10381,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
 SHS,201,American Sign Language I,02,10841,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsch
 SHS,202,American Sign Language II,01,10842,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsch
@@ -550,7 +551,7 @@ SOC,317,[M] Research Methods in Sociology,01,11025,3,ARRGT,ARR ARR,Aug 23--Dec 1
 SOC,351,[DIVR] The Family,02,17973,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 SOC,352,Youth and Society,01,10761,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,360,Social Deviance,01,17558,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
-SOC,362,Juvenile Delinquency,01,10491,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
+SOC,362,Juvenile Delinquency,01,10491,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOC,368,Drugs and Society,01,10762,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
 SOC,372,The Sociology of Film,01,10492,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Montanez
 SOC,375,Aspects of Sustainable Development,01,10966,3,ARRGT,ARR ARR,Aug 23--Dec 10,Y Zhang
@@ -567,7 +568,6 @@ SOE,210,[PSCI] Earth's History and Evolution,01 Lab,10388,0,ARRGT,ARR ARR,Aug 23
 SOE,285,The Science and Policy of Climate Change,01,11050,3,ARRGT,"",Aug 23--Dec 10,K Whitman
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,11024,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Ostrom
 SOE,390,Living on the Edge: Global Climate Change and Earth History,01,10860,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SOE,492,Special Topics,01,17746,V,"TU,TH12.05-13.20","",Aug 23--Dec 10,A King
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A King
 SOIL_SCI,101,Organic Gardening and Farming,01,10382,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,201,[BSCI] Soil: A Living System,01,10383,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Lahue
@@ -590,16 +590,16 @@ SPEC_ED,509,Early Childhood Special Education,01,10395,3,ARRGT,ARR ARR,Aug 23--D
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,10397,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,12310,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-STAT,212,[QUAN] Introduction to Statistical Methods,01,10421,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,10454,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,212,[QUAN] Introduction to Statistical Methods,01,10421,4,ARRGT,ARR ARR,Aug 23--Dec 10,Y Tang
+STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,10454,0,ARRGT,ARR ARR,Aug 23--Dec 10,Y Tang
+STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Rao
 STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
 STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Li
-STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
-STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
-TCH_LRN,415,Student Teaching,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
-TCH_LRN,415,Student Teaching,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
+STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+TCH_LRN,415,Student Teaching,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
+TCH_LRN,415,Student Teaching,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,499,Special Problems,01,10734,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 TCH_LRN,590,Internship,01,10416,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,10463,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -609,12 +609,12 @@ UNIV,490,Global Leadership Experience,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,K New
 UNIV,491,Global Leadership Integrative Capstone,01,10213,1,W11.10-12,"",Aug 23--Dec 10,K Newlon
 UNIV,497,Peer Leadership,01,10214,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Newlon
 WOMEN_ST,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,10844,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
-WOMEN_ST,230,Human Sexuality,01,10365,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+WOMEN_ST,230,Human Sexuality,01,10365,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Paup
 WOMEN_ST,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10967,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Aust
 WOMEN_ST,309,Women Writers,01,18392,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Campbell
 WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,01,10243,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Weber
 WOMEN_ST,316,[DIVR] Gender in Cross Cultural Perspective,02,12298,3,ARRGT,ARR ARR,Dec 18--Jan 09,C Anderson
-WOMEN_ST,324,Psychology of Gender,01,10372,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+WOMEN_ST,324,Psychology of Gender,01,10372,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mcraney
 WOMEN_ST,351,[DIVR] The Family,02,17974,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 WOMEN_ST,363,[DIVR] Women in Music,01,10701,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
 WOMEN_ST,363,[DIVR] Women in Music,02,10853,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi

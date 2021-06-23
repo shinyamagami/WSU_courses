@@ -12,14 +12,13 @@ ANTH,390,[M] History of Anthropological Thought,01,"",3,ARRGT,ARR ARR,Aug 23--De
 ANTH,498,Anthropology Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Mansperger
 B_A,100,Introduction to Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,C Cooney
 B_A,211,"Ethics, Teams, and Innovation",01,09589,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,J Bravo
-B_A,211,"Ethics, Teams, and Innovation",03,"",3,"M,W14.55-16.10",WEB ARR,Aug 23--Dec 10,B Warnick
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,17197,3,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,S Koopman
 B_LAW,210,Law and the Legal Environment of Business,01,08520,3,"M,W19.15-20.30",GUC TRI,Aug 23--Dec 10,B Spooner
-BIOLOGY,102,[BSCI] General Biology,01,08627,4,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,Y Liu
+BIOLOGY,102,[BSCI] General Biology,01,08627,4,"M,W,F12.10-13",GUC TRI,Aug 23--Dec 10,Y Liu
 BIOLOGY,102,[BSCI] General Biology,01 Lab,08628,0,TU9.10-12,"",Aug 23--Dec 10,Y Liu
 BIOLOGY,102,[BSCI] General Biology,02 Lab,08748,0,TU13.30-16.20,"",Aug 23--Dec 10,Y Liu
 BIOLOGY,102,[BSCI] General Biology,03 Lab,09219,0,TU17.45-20.35,"",Aug 23--Dec 10,Y Liu
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,08719,4,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,L Nelson
+BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,08719,4,"M,W,F12.10-13",GUC TRI,Aug 23--Dec 10,L Nelson
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02 Lab,08733,0,TH9.10-12,WEB ARR,Aug 23--Dec 10,E Sweet
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,03 Lab,08749,0,TH13.30-16.20,"",Aug 23--Dec 10,E Sweet
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,04 Lab,08906,0,TH17.45-20.35,"",Aug 23--Dec 10,E Sweet
@@ -27,11 +26,11 @@ BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,08679,3,"M,W7.45-9",GU
 BIOLOGY,301,General Genetics,01,08584,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
 BIOLOGY,301,General Genetics,03,09583,4,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,E Sweet
 BIOLOGY,352,Cells,01,09272,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,M Klotz
-BIOLOGY,354,Human Anatomy for Health Occupations,01,08641,4,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,K Bergstrom
+BIOLOGY,354,Human Anatomy for Health Occupations,01,08641,4,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,K Bergstrom
 BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,08642,0,TU13.30-16.20,"",Aug 23--Dec 10,K Bergstrom
 BIOLOGY,354,Human Anatomy for Health Occupations,03 Lab,08700,0,TH9.10-12,"",Aug 23--Dec 10,K Bergstrom
 BIOLOGY,354,Human Anatomy for Health Occupations,04 Lab,17209,0,TH13.30-16.20,"",Aug 23--Dec 10,K Bergstrom
-BIOLOGY,372,[M] General Ecology,01,08593,4,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,L Nelson
+BIOLOGY,372,[M] General Ecology,01,08593,4,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,L Nelson
 BIOLOGY,372,[M] General Ecology,01 Lab,08594,0,TU13.30-16.20,"",Aug 23--Dec 10,L Nelson
 BIOLOGY,372,[M] General Ecology,02 Lab,08595,0,W8.10-11,"",Aug 23--Dec 10,L Nelson
 BIOLOGY,372,[M] General Ecology,04 Lab,09480,0,W14.10-17,"",Aug 23--Dec 10,L Nelson
@@ -50,7 +49,7 @@ BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,08576,V,ARRGT,ARR
 BIOLOGY,702,"Master's Special Problems, Directed Study and/or Examination",01,08710,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,08577,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 BSYSE,596,Biomass Thermo-Chemical Conversion,01,09271,3,M8.10-10.40,VC TRI,Aug 23--Dec 10,M Garcia-Perez
-BSYSE,598,Graduate Seminar,01,08426,1,TH16.10-17,WEB ARR,Aug 23--Dec 10,S Sablani
+BSYSE,598,Graduate Seminar,01,08426,1,TH16.10-17,VC TRI,Aug 23--Dec 10,S Sablani
 BSYSE,700,"Master's Research, Thesis, and/or Examination",01,08434,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,08436,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,211,Statics,01,08706,3,"TU,TH17.45-19",GUC TRI,Aug 23--Dec 10,M Hossain
@@ -87,23 +86,21 @@ CHE,598,Research Seminar,01,08422,1,M16.10-17,VC TRI,Aug 23--Dec 10,J Petersen
 CHE,700,"Master's Research, Thesis, and/or Examination",01,08423,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 CHE,702,"Master's Special Problems, Directed Study, and/or Examination",01,08424,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 CHE,800,"Doctoral Research, Dissertation, and/or Examination",01,08425,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-CHEM,101,[PSCI] Introduction to Chemistry,01,08634,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,E Silva Lopez
+CHEM,101,[PSCI] Introduction to Chemistry,01,08634,4,"M,W,F9.10-10",GUC TRI,Aug 23--Dec 10,E Silva Lopez
 CHEM,101,[PSCI] Introduction to Chemistry,02,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
 CHEM,101,[PSCI] Introduction to Chemistry,01 Lab,08635,0,TU9.10-12,"",Aug 23--Dec 10,E Silva Lopez
 CHEM,101,[PSCI] Introduction to Chemistry,02 Lab,08636,0,W13.10-16,"",Aug 23--Dec 10,E Silva Lopez
-CHEM,101,[PSCI] Introduction to Chemistry,04 Lab,08874,0,W17.45-20.35,"",Aug 23--Dec 10,E Silva Lopez
 CHEM,101,[PSCI] Introduction to Chemistry,06 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
-CHEM,105,[PSCI] Principles of Chemistry I,01,08644,4,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,N Devarie Baez
+CHEM,105,[PSCI] Principles of Chemistry I,01,08644,4,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,N Devarie Baez
 CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,08645,0,TU17.45-20.35,"",Aug 23--Dec 10,N Devarie Baez
 CHEM,105,[PSCI] Principles of Chemistry I,02 Lab,08646,0,TU13.30-16.20,"",Aug 23--Dec 10,N Devarie Baez
-CHEM,105,[PSCI] Principles of Chemistry I,03 Lab,08647,0,TH17.45-20.35,"",Aug 23--Dec 10,N Devarie Baez
 CHEM,105,[PSCI] Principles of Chemistry I,04 Lab,08648,0,TH13.30-16.20,"",Aug 23--Dec 10,N Devarie Baez
-CHEM,345,Organic Chemistry I,01,08638,4,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,N Devarie Baez
-CHEM,345,Organic Chemistry I,01 Lab,08639,0,TH13.30-16.20,"",Aug 23--Dec 10,N Devarie Baez
-CHEM,345,Organic Chemistry I,02 Lab,08640,0,TH17.45-20.35,"",Aug 23--Dec 10,N Devarie Baez
-CHEM,345,Organic Chemistry I,03 Lab,08770,0,F11.10-14,"",Aug 23--Dec 10,N Devarie Baez
-CHEM,345,Organic Chemistry I,04 Lab,09394,0,W18.10-21,"",Aug 23--Dec 10,N Devarie Baez
-CHEM,345,Organic Chemistry I,05 Lab,17210,0,TU13.30-16.20,"",Aug 23--Dec 10,N Devarie Baez
+CHEM,345,Organic Chemistry I,01,08638,4,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,N Devarie Baez
+CHEM,345,Organic Chemistry I,01 Lab,08639,0,TH13.30-16.20,TBSL 173,Aug 23--Dec 10,N Devarie Baez
+CHEM,345,Organic Chemistry I,02 Lab,08640,0,TH17.45-20.35,TBSL 173,Aug 23--Dec 10,N Devarie Baez
+CHEM,345,Organic Chemistry I,03 Lab,08770,0,F11.10-14,TBSL 173,Aug 23--Dec 10,N Devarie Baez
+CHEM,345,Organic Chemistry I,04 Lab,09394,0,W18.10-21,TBSL 173,Aug 23--Dec 10,N Devarie Baez
+CHEM,345,Organic Chemistry I,05 Lab,17210,0,TU13.30-16.20,TBSL 173,Aug 23--Dec 10,N Devarie Baez
 CHEM,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
 COM,102,[COMM] Public Speaking in the Digital Age,01,08676,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,S Bisch
 COM,102,[COMM] Public Speaking in the Digital Age,02,08881,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,S Bisch
@@ -140,13 +137,17 @@ CPT_S,600,Special Projects or Independent Study,01,08510,V,ARRGT,ARR ARR,Aug 23-
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,08511,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,08512,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,08513,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-CROP_SCI,102,Introduction to Cultivated Plants,01,08713,3,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,C Kawula
+CROP_SCI,102,Introduction to Cultivated Plants,01,08713,3,"M,W,F11.10-12",VC TRI,Aug 23--Dec 10,C Kawula
 CROP_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Snider
+CST_M,254,Construction Graphics,01,08505,2,M11.10-12,GUC TRI,Aug 23--Dec 10,M Mcshane
+CST_M,254,Construction Graphics,01 Lab,08506,0,TU16.20-18,GUC TRI,Aug 23--Dec 10,M Mcshane
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,08587,3,"M,W,F9.10-10",GUC TRI,Aug 23--Dec 10,P Mudd
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,08774,3,"M,W,F12.10-13",GUC TRI,Aug 23--Dec 10,P Mudd
-DTC,201,[ARTS] Tools and Methods for Digital Technology,01,08751,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,""
+DTC,201,[ARTS] Tools and Methods for Digital Technology,01,08751,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,M Brown
+DTC,335,3D Digital Animation,01,09019,3,"TU,TH13.30-14.20",GUC TRI,Aug 23--Dec 10,P Mudd
+DTC,335,3D Digital Animation,01 Lab,09457,0,"TU,TH14.30-15.20",GUC TRI,Aug 23--Dec 10,P Mudd
 DTC,336,Multimedia Design,01,08786,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,P Mudd
-DTC,354,[ARTS] [M] [M[ Digital Storytelling,01,09430,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,""
+DTC,354,[ARTS] [M] [M[ Digital Storytelling,01,09430,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,M Brown
 DTC,355,[M] Multimedia Authoring,02,09222,3,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,T De Vries
 DTC,355,[M] Multimedia Authoring,03,17937,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,T De Vries
 DTC,375,"[M] Language, Texts and Technology",01,08829,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,V Cozza
@@ -220,7 +221,7 @@ ENGLISH,108,[HUM] Introduction to Literature,01,08580,3,"M,W,F9.10-10",GUC TRI,A
 ENGLISH,210,[HUM] Readings in American Literature,01,08723,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,G Escalera
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,V Cozza
 ENGLISH,302,[M] Introduction to English Studies,01,09593,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,P Wilde
-ENGLISH,354,[ARTS] [M] [M[ Digital Storytelling,01,09431,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,""
+ENGLISH,354,[ARTS] [M] [M[ Digital Storytelling,01,09431,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,M Brown
 ENGLISH,360,Principles of Rhetoric,01,09591,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,V Cozza
 ENGLISH,370,"The Making of English: Literature, Language and Culture Before 1600",01,08851,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,M Hanly
 ENGLISH,371,17th and 18th Century Transnational Literature in English,01,09592,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,M Mays
@@ -281,17 +282,17 @@ HISTORY,498,History Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Bauman
 HISTORY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 HISTORY,568,Hitler and Nazi Germany,01,08754,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,G Sperling
 HISTORY,598,History Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Bauman
-HORT,102,Introduction to Cultivated Plants,01,08712,3,"M,W,F11.10-12",WEB ARR,Aug 23--Dec 10,C Kawula
-HORT,310,Pomology,01,08442,3,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,L Devetter
+HORT,102,Introduction to Cultivated Plants,01,08712,3,"M,W,F11.10-12",VC TRI,Aug 23--Dec 10,C Kawula
+HORT,310,Pomology,01,08442,3,"TU,TH13.30-14.45",VC TRI,Aug 23--Dec 10,L Devetter
 HORT,313,Viticulture,01,08443,3,"TU,TH14.55-16.10",VC TRI,Aug 23--Dec 10,B Bondada
 HORT,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Snider
 HORT,409,Seminar in Viticulture and Enology,01,08447,1,W15.10-16,VC TRI,Aug 23--Dec 10,B Bondada
-HORT,418,[M] Post-harvest Biology and Technology,01,08449,3,"TU,TH10.35-11.25",WEB ARR,Aug 23--Dec 10,R Sharpe
+HORT,418,[M] Post-harvest Biology and Technology,01,08449,3,"TU,TH10.35-11.25",VC TRI,Aug 23--Dec 10,R Sharpe
 HORT,418,[M] Post-harvest Biology and Technology,01 Lab,08451,0,ARRGT,ARR ARR,Aug 23--Dec 10,R Sharpe
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,01,09248,3,"M,W,F9.10-10",VC TRI,Aug 23--Dec 10,T Collins
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Snider
 HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,T Collins
-HORT,518,[M] Post-harvest Biology and Technology,01,08450,3,"TU,TH10.35-11.25",WEB ARR,Aug 23--Dec 10,R Sharpe
+HORT,518,[M] Post-harvest Biology and Technology,01,08450,3,"TU,TH10.35-11.25",VC TRI,Aug 23--Dec 10,R Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,01 Lab,08452,0,ARRGT,ARR ARR,Aug 23--Dec 10,R Sharpe
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,01,09249,3,"M,W,F9.10-10",VC TRI,Aug 23--Dec 10,T Collins
 HORT,800,"Doctoral Research, Dissertation, and/or Examination",01,09939,V,ARRGT,ARR ARR,Aug 23--Dec 10,T Collins
@@ -382,7 +383,7 @@ MKTG,360,Marketing,02,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MKTG,368,Marketing Research,01,09441,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,J Giese
 MKTG,477,Integrated Marketing Communications,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MKTG,495,[M] Marketing Management,01,09442,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,J Giese
-MSE,201,Materials Engineering Fundamentals,01,08559,3,"M,W,F12.10-13",VC TRI,Aug 23--Dec 10,A Porter
+MSE,201,Materials Engineering Fundamentals,01,08559,3,"M,W,F12.10-13",VC TRI,Aug 23--Dec 10,""
 MSE,507,Additive Manufacturing,01,17976,3,"M,W17.45-19",GUC TRI,Aug 23--Dec 10,C Yang
 NURS,308,Professional Development I: Professional Roles and Responsibilities,01,08316,3,W10.30-13.30,VC TRI,Aug 23--Dec 10,S Hurst
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,08317,3,TH13.10-16,VC TRI,Aug 23--Dec 10,K Anders
@@ -713,7 +714,8 @@ SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01,08682,4,"TU,T
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,08683,0,TU13.30-16.20,GUC TRI,Aug 23--Dec 10,J Rosso
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02 Lab,08684,0,W15.10-18,GUC TRI,Aug 23--Dec 10,J Rosso
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,03 Lab,08685,0,TH9.10-12,GUC TRI,Aug 23--Dec 10,J Rosso
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,04 Lab,08701,0,W11.10-14,GUC TRI,Aug 23--Dec 10,J Rosso
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,08894,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
 SOE,210,[PSCI] Earth's History and Evolution,02,09585,4,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,S Reidel
 SOE,210,[PSCI] Earth's History and Evolution,02 Lab,09586,0,TU12.05-14.55,"",Aug 23--Dec 10,S Reidel
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,M Ostrom
@@ -784,9 +786,7 @@ TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Langu
 TCH_LRN,410,Theoretical Foundations of Bilingual/ESL Education,01,"",3,TU17.45-20.30,VC TRI,Aug 23--Dec 10,E Johnson
 TCH_LRN,414,Methods and Materials for Bilingual/ESL Education,01,08614,3,TH17.15-20,VC TRI,Aug 23--Dec 10,Y Ardasheva
 TCH_LRN,415,Student Teaching,01,08467,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Mancinelli
-TCH_LRN,415,Student Teaching,03,09447,V,M16.15-19,GUC TRI,Aug 23--Dec 10,J Morrison
 TCH_LRN,415,Student Teaching,01 Lab,08468,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Mancinelli
-TCH_LRN,415,Student Teaching,03 Lab,09448,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Morrison
 TCH_LRN,430,Methods of Teaching Secondary Science I,01,09802,3,TH17.15-20,GUC TRI,Aug 23--Dec 10,J Firestone
 TCH_LRN,433,Middle Level Mathematics Methods,01,08782,3,M16.45-19.30,WEB ARR,Aug 23--Dec 10,T Heikila
 TCH_LRN,434,Conceptualization of Proportional Thinking,01,08469,3,TH16.15-19,WEB ARR,Aug 23--Dec 10,K Lesseig
