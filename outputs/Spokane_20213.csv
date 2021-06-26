@@ -30,6 +30,7 @@ ED_RES,563,Principles of Research,01,"",3,W17.45-20.30,SAC 341,Aug 23--Dec 10,S 
 ED_RES,564,Qualitative Research,01,16515,3,TU16.10-19,SAC 205,Aug 23--Dec 10,A Roth-Mcduffie
 ED_RES,565,Quantitative Research,01,16516,3,TU17.45-20.30,SAC 343,Aug 23--Dec 10,S Dai
 ED_RES,571,Doctoral Dissertation Preparation,02,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,K Huggins
+H_D,220,Human Development Theories,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,B Hernandez
 H_D,307,Adolescence and Emerging Adulthood,01,16140,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,600,Special Projects or Independent Study,01,17191,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -75,6 +76,30 @@ MED_CLIN,568,Pediatrics - Hospital Medicine,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24
 MED_CLIN,570,Away Rotation - North America,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,M Layton
+MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,S Siddiqui
+MED_CLIN,573,Clinical Rotation - Anesthesiology,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,S Siddiqui
+MED_CLIN,574,Science - Clinical Bioethics,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,C Heine
+MED_CLIN,575,Clinical Rotation - Geriatrics,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,577,Surgery - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,""
+MED_CLIN,577,Surgery - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,""
+MED_CLIN,578,Surgery - General Surgery,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,A Kumar
+MED_CLIN,579,Science - Medical Informatics,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,580,Clinical Rotation - Neurology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,M Layton
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,H Andersen
+MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Litvack
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
+MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
+MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_FMS,501,Foundations of Medical Science I,01,16719,14,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
 MED_FMS,501,Foundations of Medical Science I,01 Lab,16720,0,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
 MED_FMS,511,Foundations of Medical Science IV,01,16715,13,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
@@ -160,9 +185,9 @@ NURS,308,Professional Development I: Professional Roles and Responsibilities,02,
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,15716,3,TH13.10-16,VC ARR,Aug 23--Dec 10,""
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,02,15717,3,TH13.10-16,VC ARR,Aug 23--Dec 10,K Anders
 NURS,311,Pathophysiology and Pharmacology in Nursing,01,15714,4,W8.10-10,VC ARR,Aug 23--Dec 10,""
-NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.30-13.30,VC ARR,"",""
+NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,VC ARR,"",""
 NURS,311,Pathophysiology and Pharmacology in Nursing,02,15715,4,W8.10-10,VC ARR,Aug 23--Dec 10,""
-NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.30-13.30,VC ARR,"",""
+NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,VC ARR,"",""
 NURS,315,Nursing Practice: Health and Illness,01,15718,4,ARRGT,ARR ARR,Aug 23--Dec 10,R Carroll
 NURS,315,Nursing Practice: Health and Illness,02,15719,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Wiedmer
 NURS,315,Nursing Practice: Health and Illness,03,15720,4,ARRGT,ARR ARR,Aug 23--Dec 10,L Parisot
@@ -300,14 +325,14 @@ NURS,430,[CAPS] Senior Practicum,01,15839,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Brink
 NURS,430,[CAPS] Senior Practicum,02,15840,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Faubion
 NURS,440,[M] Population Health Theory,01,15841,3,ARRGT,ARR ARR,Aug 23--Oct 15,""
 NURS,440,[M] Population Health Theory,02,15842,3,ARRGT,ARR ARR,Aug 23--Oct 15,""
-NURS,465,Application of Population Health Principles,01,15844,3,ARRGT,ARR ARR,Aug 23--Nov 12,""
-NURS,465,Application of Population Health Principles,02,15845,3,ARRGT,ARR ARR,Aug 23--Nov 12,""
-NURS,471,Foundations of Occupational and Environmental Health Practice,01,15903,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
-NURS,471,Foundations of Occupational and Environmental Health Practice,02,15904,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
-NURS,477,Health Care Ethics,01,15861,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,477,Health Care Ethics,02,15692,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,495,[CAPS] Advanced Practicum,01,15847,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
-NURS,495,[CAPS] Advanced Practicum,02,15879,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
+NURS,465,Application of Population Health Principles,01,15844,3,ARRGT,ARR ARR,Aug 23--Nov 12,P Eide
+NURS,465,Application of Population Health Principles,02,15845,3,ARRGT,ARR ARR,Aug 23--Nov 12,P Eide
+NURS,471,Foundations of Occupational and Environmental Health Practice,01,15903,3,ARRGT,ARR ARR,Oct 18--Dec 17,D Smart
+NURS,471,Foundations of Occupational and Environmental Health Practice,02,15904,3,ARRGT,ARR ARR,Oct 18--Dec 17,D Smart
+NURS,477,Health Care Ethics,01,15861,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Edwards
+NURS,477,Health Care Ethics,02,15692,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Edwards
+NURS,495,[CAPS] Advanced Practicum,01,15847,3,ARRGT,ARR ARR,Oct 18--Dec 17,S Edwards
+NURS,495,[CAPS] Advanced Practicum,02,15879,3,ARRGT,ARR ARR,Oct 18--Dec 17,S Edwards
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",01,15886,3,W9.10-12,VC ARR,Aug 25--Aug 25,P Stover
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,VC ARR,"",""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,VC ARR,"",""
@@ -613,7 +638,7 @@ PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,"",""
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,"",""
 PHARDSCI,508,Pharmaceutics I,01,15611,3,"TU,F10.10-11.25",GUC SPK,Aug 23--Dec 10,C Remsberg
 PHARDSCI,508,Pharmaceutics I,50,15617,3,"TU,F10.10-11.25",ARR ARR,Aug 23--Dec 10,D Brand
-PHARDSCI,528,Pharmacokinetics,01,15612,3,"W,F8.45-10",GUC SPK,Aug 27--Dec 10,S Natesan
+PHARDSCI,528,Pharmacokinetics,01,15612,3,"W,F8.45-10",SHSB 110Z,Aug 27--Dec 10,S Natesan
 PHARDSCI,528,Pharmacokinetics,"","","",TU7.45-9,SHSB 110Z,"",""
 PHARDSCI,528,Pharmacokinetics,50,15616,3,"W,F8.45-10",ARR ARR,Aug 27--Dec 10,D Bowers
 PHARDSCI,528,Pharmacokinetics,"","","",TU7.45-9,ARR ARR,"",""
@@ -631,7 +656,7 @@ PHARMACY,506,Student Success and Professional Development I,01,15584,1,F14.10-15
 PHARMACY,506,Student Success and Professional Development I,50,15585,1,F14.10-15,ARR ARR,Aug 23--Dec 10,D Brand
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,01,15504,1,F13.10-14,WEB ARR,Aug 23--Dec 10,L Marcath
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,50,15537,1,F13.10-14,ARR ARR,Aug 23--Dec 10,A Stewart
-PHARMACY,509,Professional Communications Lab,01,"",1,TU9.10-10,GUC SPK,Aug 23--Dec 10,M Willson
+PHARMACY,509,Professional Communications Lab,01,"",1,TU9.10-10,SHSB 110Z,Aug 23--Dec 10,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",W10.10-12,SPBS 301,"",""
 PHARMACY,509,Professional Communications Lab,02,"",1,TU9.10-10,GUC SPK,Aug 23--Dec 10,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",W13.10-15,SPBS 301,"",""
@@ -683,7 +708,7 @@ PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"",
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01 Lab,15517,0,TH8.10-10,SPBS 304,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,02 Lab,15518,0,TH10.10-12,SPBS 304,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,03 Lab,15519,0,TH13.10-15,SPBS 304,Aug 23--Dec 10,C Buchman
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50 Lab,15552,0,TH10.10-12,ARR ARR,Aug 23--Dec 10,C Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50 Lab,15552,0,TH8.10-10,ARR ARR,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,51 Lab,15562,0,TH10.10-12,ARR ARR,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,52 Lab,16891,0,TH13.10-15,ARR ARR,Aug 23--Dec 10,""
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,01,15521,3,W14.10-15,SPBS 101,Aug 23--Dec 10,J Miller
@@ -770,30 +795,30 @@ SHS,479,Neuroanatomy,01,15634,3,"M,W13.10-14.25",SAC 20,Aug 23--Dec 10,H Hashemi
 SHS,482,[M] Assessment of Speech and Language,01,15635,3,"W,F14.35-15.50",SAC 20,Aug 23--Dec 10,D Algeo
 SHS,490,Special Topics in Speech and Hearing Sciences,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
 SHS,490,Special Topics in Speech and Hearing Sciences,03,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Vandam
-SHS,540,Special Topics in Speech and Hearing Sciences,01,15660,1,TU11.10-12,SAC 241,Aug 23--Dec 10,A Meredith
-SHS,540,Special Topics in Speech and Hearing Sciences,02,15669,1,W11.10-12,SAC 241,Aug 23--Dec 10,A Meredith
+SHS,540,Special Topics in Speech and Hearing Sciences,01,15660,1,TU11.10-12,GUC SPK,Aug 23--Dec 10,A Meredith
+SHS,540,Special Topics in Speech and Hearing Sciences,02,15669,1,W11.10-12,GUC SPK,Aug 23--Dec 10,A Meredith
 SHS,543,School Age and Adolescent Language,01,15654,3,W9.10-11.50,SAC 147,Aug 23--Dec 10,E Wilson-Fowler
 SHS,543,School Age and Adolescent Language,02,15655,3,TU12.10-14.50,SAC 147,Aug 23--Dec 10,E Wilson-Fowler
-SHS,550,Special Topics in Speech and Hearing Sciences,01,15624,2,F15.10-16.30,GUC SPK,Aug 23--Dec 10,""
+SHS,550,Special Topics in Speech and Hearing Sciences,01,15624,2,F15.10-16.30,SAC 147,Aug 23--Dec 10,""
 SHS,560,Special Topics in Speech and Hearing Sciences,01,15656,1,M10.10-11.30,GUC SPK,Aug 23--Dec 10,R Jackson
 SHS,560,Special Topics in Speech and Hearing Sciences,02,15657,1,TH10.10-11.30,GUC SPK,Aug 23--Dec 10,R Jackson
 SHS,562,Motor Speech Disorders,01,15642,3,"M,W8.10-9.25",SHSB 125E,Aug 23--Dec 10,N Potter
 SHS,562,Motor Speech Disorders,02,15643,3,"TU,TH8.10-9.25",SHSB 125E,Aug 23--Dec 10,N Potter
-SHS,565,Augmentative Communication,01,15644,3,"M,W12.30-13.45",SAC 241,Aug 23--Dec 10,L Williams
-SHS,565,Augmentative Communication,02,15645,3,"TU,TH12.30-13.45",SAC 241,Aug 23--Dec 10,L Williams
+SHS,565,Augmentative Communication,01,15644,3,"M,W12.30-13.45",SAC 147,Aug 23--Dec 10,L Williams
+SHS,565,Augmentative Communication,02,15645,3,"TU,TH12.30-13.45",GUC SPK,Aug 23--Dec 10,L Williams
 SHS,566,Off-Campus Practicum Public School Setting,01,15646,4,ARRGT,"",Aug 23--Dec 10,K Simpson
 SHS,568,Off-campus Practicum Clinical Setting,01,15647,4,ARRGT,"",Aug 23--Dec 10,K Simpson
 SHS,570,Advanced Internship in Speech-Language Pathology,01,15665,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Simpson
 SHS,574,Neuropathologies of Language and Cognition I,01,15648,2,"M,W14.10-15",SAC 147,Aug 23--Dec 10,J Pimentel
 SHS,574,Neuropathologies of Language and Cognition I,02,15649,2,"TU,TH9.10-10",SAC 147,Aug 23--Dec 10,J Pimentel
 SHS,575,Advanced Clinical Practice,01,15650,3,ARRGT,"",Aug 23--Dec 10,C Dechert
-SHS,576,Voice and Resonance Disorders,01,15673,2,W14.35-16.25,SAC 241,Aug 23--Dec 10,H Hashemi Hosseinabad
-SHS,576,Voice and Resonance Disorders,02,15674,2,TU14.10-16,SAC 241,Aug 23--Dec 10,H Hashemi Hosseinabad
+SHS,576,Voice and Resonance Disorders,01,15673,2,W14.35-16.25,GUC SPK,Aug 23--Dec 10,H Hashemi Hosseinabad
+SHS,576,Voice and Resonance Disorders,02,15674,2,TU14.10-16,GUC SPK,Aug 23--Dec 10,H Hashemi Hosseinabad
 SHS,577,Neurogenic Disorders of Language and Cognition II,01,17117,2,"M,W15.10-17",SAC 147,Aug 23--Dec 10,E Clark
 SHS,577,Neurogenic Disorders of Language and Cognition II,02,17118,2,TU15.10-17,SAC 147,Aug 23--Dec 10,""
 SHS,577,Neurogenic Disorders of Language and Cognition II,"","","",TH15.10-16,SAC 147,"",""
-SHS,580,Special Topics in Speech and Hearing Sciences,01,15671,2,"M,W8.10-9",SAC 241,Aug 23--Dec 10,L Williams
-SHS,580,Special Topics in Speech and Hearing Sciences,02,15672,2,"TU,TH8.10-9",SAC 241,Aug 23--Dec 10,R Jackson
+SHS,580,Special Topics in Speech and Hearing Sciences,01,15671,2,"M,W8.10-9",SAC 147,Aug 23--Dec 10,L Williams
+SHS,580,Special Topics in Speech and Hearing Sciences,02,15672,2,"TU,TH8.10-9",SAC 147,Aug 23--Dec 10,R Jackson
 SHS,588,Advanced Speech and Sound Disorders,01,15651,2,M10.10-11.50,SAC 147,Aug 23--Dec 10,G Lynch
 SHS,588,Advanced Speech and Sound Disorders,02,15652,2,TH10.10-11.50,SAC 147,Aug 23--Dec 10,G Lynch
 SHS,600,Special Projects or Independent Study,01,15666,V,ARRGT,ARR ARR,Aug 23--Dec 10,""

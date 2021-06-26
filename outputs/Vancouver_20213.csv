@@ -64,7 +64,7 @@ BIOLOGY,301,General Genetics,01,12939,4,F7.45-9,VUB 100,Aug 23--Dec 10,W Cushwa
 BIOLOGY,301,General Genetics,02,12940,4,F9.10-10.25,VUB 100,Aug 23--Dec 10,W Cushwa
 BIOLOGY,330,Principles of Conservation,01,13020,3,TU10.35-11.50,GUC VAN,Aug 23--Dec 10,D Thomas
 BIOLOGY,330,Principles of Conservation,"","","",TH10.35-11.50,GUC VAN,"",""
-BIOLOGY,354,Human Anatomy for Health Occupations,01,12638,4,"M,W,F10.35-11.25",GUC VAN,Aug 23--Dec 10,""
+BIOLOGY,354,Human Anatomy for Health Occupations,01,12638,4,"M,W,F10.35-11.25",GUC VAN,Aug 23--Dec 10,G Cox
 BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,12639,0,TU13.30-16.10,VCLS 150,Aug 23--Dec 10,""
 BIOLOGY,354,Human Anatomy for Health Occupations,02 Lab,12640,0,W7.45-10.25,VCLS 150,Aug 23--Dec 10,""
 BIOLOGY,354,Human Anatomy for Health Occupations,03 Lab,12838,0,W13.30-16.10,VCLS 150,Aug 23--Dec 10,""
@@ -126,7 +126,7 @@ COMSTRAT,312,Principles of Public Relations,01,12967,3,"M,W14.55-16.10",GUC VAN,
 COMSTRAT,380,Advertising Principles and Practices,01,12804,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,J Simmons
 COMSTRAT,380,Advertising Principles and Practices,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,13795,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,N Iyer
-COMSTRAT,476,Consumer Insights and Branding,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,M Kistler
+COMSTRAT,476,Consumer Insights and Branding,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 COMSTRAT,485,[M] Public Relations Management and Campaigns,03,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T Gillig
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,N Iyer
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,12527,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,L Collins-Levy
@@ -339,6 +339,7 @@ H_D,360,Death and Dying,01,13225,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,C B
 H_D,385,Perspectives in Human Services,01,12541,3,TU9.10-10.25,GUC VAN,Aug 23--Dec 10,E Soliday
 H_D,385,Perspectives in Human Services,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Smith
 H_D,403,[CAPS] Families in Poverty,01,12846,3,TU10.35-11.50,GUC VAN,Aug 23--Dec 10,T Burkhard
+H_D,403,[CAPS] Families in Poverty,04,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Seeley
 H_D,406,Work and Family,01,12692,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,S Reisz
 H_D,418,[CAPS] Early Experiences and Lifespan Health,01,17649,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,S Waters
 H_D,445,Early Childhood Professional Preparation Seminar,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
@@ -346,7 +347,7 @@ H_D,479,Planning and Evaluation in Human Development,01,13227,3,"M,W13.30-14.45"
 H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 H_D,495,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,497,Professional Preparation Seminar,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T Reiss
-H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Thomas
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 H_D,600,Special Projects or Independent Study,01,12844,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HBM,101,Professional and Career Development for the Business World,01,13140,1,"W,F9.10-10.25",GUC VAN,Sep 27--Oct 29,K Knight
@@ -389,34 +390,34 @@ MATH,103,Algebra Methods and Introduction to Functions,01,12545,3,"M,W9.10-10.25
 MATH,103,Algebra Methods and Introduction to Functions,02,12546,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,P Krouss
 MATH,103,Algebra Methods and Introduction to Functions,03,12891,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,P Krouss
 MATH,103,Algebra Methods and Introduction to Functions,04,12984,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,P Krouss
-MATH,106,College Algebra,01,12547,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,""
-MATH,106,College Algebra,02,12548,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,""
-MATH,106,College Algebra,03,12549,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,""
-MATH,108,Trigonometry,01,12695,2,"TU,TH12.05-12.55",GUC VAN,Aug 23--Dec 10,""
-MATH,108,Trigonometry,02,12696,2,"M,W12.05-12.55",GUC VAN,Aug 23--Dec 10,""
-MATH,110,Mathematics Acceleration,01,12697,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MATH,106,College Algebra,01,12547,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,D Hill
+MATH,106,College Algebra,02,12548,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,D Hill
+MATH,106,College Algebra,03,12549,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,D Hill
+MATH,108,Trigonometry,01,12695,2,"TU,TH12.05-12.55",GUC VAN,Aug 23--Dec 10,S Black
+MATH,108,Trigonometry,02,12696,2,"M,W12.05-12.55",GUC VAN,Aug 23--Dec 10,S Black
+MATH,110,Mathematics Acceleration,01,12697,1,ARRGT,ARR ARR,Aug 23--Dec 10,G Salos
 MATH,110,Mathematics Acceleration,02,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,K Debower
 MATH,115,Math 105 Tutorial,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,G Salos
 MATH,116,Math 106 Tutorial,01,13206,2,ARRGT,ARR ARR,Aug 23--Dec 10,""
-MATH,140,[QUAN] Calculus for Life Scientists,01,12711,4,"M,W,F9.10-10",GUC VAN,Aug 23--Dec 10,O Rumyantseva
+MATH,140,[QUAN] Calculus for Life Scientists,01,12711,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,O Rumyantseva
 MATH,140,[QUAN] Calculus for Life Scientists,01 Lab,12712,0,"M,W16.20-17.35",WEB ARR,Aug 23--Dec 10,""
 MATH,140,[QUAN] Calculus for Life Scientists,02 Lab,12806,0,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 MATH,171,[QUAN] Calculus I,01,12713,4,"M,W,F9.10-10",GUC VAN,Aug 23--Dec 10,G Salos
 MATH,171,[QUAN] Calculus I,01 Lab,12714,0,"M,W13.30-14.45",WEB ARR,Aug 23--Dec 10,""
 MATH,171,[QUAN] Calculus I,02 Lab,12715,0,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 MATH,171,[QUAN] Calculus I,03 Lab,12832,0,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
-MATH,172,Calculus II,01,12716,4,"M,W,F9.10-10",GUC VAN,Aug 23--Dec 10,""
+MATH,172,Calculus II,01,12716,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,N Strigul
 MATH,172,Calculus II,01 Lab,12717,0,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 MATH,172,Calculus II,02 Lab,12718,0,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
 MATH,201,Mathematics for Business and Economics,01,12550,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,J Sung
 MATH,202,[QUAN] Calculus for Business and Economics,01,12551,3,"W,F10.35-11.50",GUC VAN,Aug 23--Dec 10,O Rumyantseva
 MATH,216,Discrete Structures,02,13768,3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
-MATH,220,Introductory Linear Algebra,01,12698,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,""
-MATH,220,Introductory Linear Algebra,02,12699,2,"TU,TH14.55-15.45",GUC VAN,Aug 23--Dec 10,""
+MATH,220,Introductory Linear Algebra,01,12698,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,D Hill
+MATH,220,Introductory Linear Algebra,02,12699,2,"TU,TH14.55-15.45",GUC VAN,Aug 23--Dec 10,D Hill
 MATH,251,Fundamentals of Elementary Mathematics I,01,12795,3,TU17.45-19.25,VUB 226,Aug 23--Dec 10,K Debower
 MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,12796,0,TH17.45-19.25,WEB ARR,Aug 23--Dec 10,""
-MATH,273,Calculus III,01,12700,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,""
-MATH,273,Calculus III,02,12701,2,"TU,TH13.30-14.20",GUC VAN,Aug 23--Dec 10,""
+MATH,273,Calculus III,01,12700,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,S Black
+MATH,273,Calculus III,02,12701,2,"TU,TH13.30-14.20",GUC VAN,Aug 23--Dec 10,S Black
 MATH,300,Mathematical Computing,01,13058,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,""
 MATH,315,Differential Equations,01,12831,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,O Rumyantseva
 MATH,330,Methods of Teaching Secondary School Mathematics,01,12945,3,"TU,TH14.55-16.10",VC VAN,Aug 23--Dec 10,K Lesseig
@@ -505,6 +506,44 @@ MED_CLIN,552,Internal Medicine - Gastroenterology,01,"",V,ARRGT,ARR ARR,Aug 23--
 MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,C Anderson
 MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,C Anderson
 MED_CLIN,560,Family Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
+MED_CLIN,561,Internal Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,562,Obstetrics and Gynecology - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,H Andersen
+MED_CLIN,563,Pediatrics - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,C Anderson
+MED_CLIN,564,Psychiatry - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,M Layton
+MED_CLIN,564,Psychiatry - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,M Layton
+MED_CLIN,565,Surgery - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,A Kumar
+MED_CLIN,565,Surgery - Ambulatory,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,A Kumar
+MED_CLIN,566,Internal Medicine - Inpatient,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,567,Obstetrics and Gynecology - Inpatient,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,H Andersen
+MED_CLIN,567,Obstetrics and Gynecology - Inpatient,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,H Andersen
+MED_CLIN,568,Pediatrics - Hospital Medicine,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,C Anderson
+MED_CLIN,570,Away Rotation - North America,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,M Layton
+MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,S Siddiqui
+MED_CLIN,573,Clinical Rotation - Anesthesiology,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,S Siddiqui
+MED_CLIN,574,Science - Clinical Bioethics,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,C Heine
+MED_CLIN,575,Clinical Rotation - Geriatrics,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,577,Surgery - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,""
+MED_CLIN,577,Surgery - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,""
+MED_CLIN,578,Surgery - General Surgery,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,A Kumar
+MED_CLIN,579,Science - Medical Informatics,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,580,Clinical Rotation - Neurology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,M Layton
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,H Andersen
+MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Litvack
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
+MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
+MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
+MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_LMH,531,Personal Leadership Development I,01,14044,1,ARRGT,ARR ARR,Aug 23--Nov 24,J Haney
 MGMT,301,Principles of Management and Organization,01,12405,3,TU18-20.45,GUC VAN,Aug 23--Dec 10,R Howell
 MGMT,401,Leading People and Organizations,01,12404,3,"M,W10.35-11.50",VC VAN,Aug 23--Dec 10,T Tripp
@@ -575,6 +614,7 @@ NURS,477,Health Care Ethics,01,12438,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Edwards
 NURS,477,Health Care Ethics,02,12456,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Edwards
 NURS,495,[CAPS] Advanced Practicum,01,12439,3,ARRGT,ARR ARR,Oct 18--Dec 17,J Caley
 NURS,495,[CAPS] Advanced Practicum,02,12469,3,ARRGT,ARR ARR,Oct 18--Dec 17,""
+NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,V Denson
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",01,12473,3,W9.10-12,WEB ARR,Aug 25--Aug 25,P Stover
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,WEB ARR,"",""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,WEB ARR,"",""
@@ -707,13 +747,14 @@ NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
 PHYSICS,101,[PSCI] General Physics,01,17379,3,"M,W,F12.05-12.55",GUC VAN,Aug 23--Dec 10,G Newman
-PHYSICS,111,[PSCI] General Physics Lab,01,17380,1,TH7.45-10.25,VCLS 150,Aug 23--Dec 10,""
-PHYSICS,111,[PSCI] General Physics Lab,02,17381,1,TH10.35-13.15,VCLS 150,Aug 23--Dec 10,""
-PHYSICS,111,[PSCI] General Physics Lab,04,17383,1,TH17.45-20.25,VCLS 150,Aug 23--Dec 10,""
-PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,17384,3,"M,W,F8.10-9",GUC VAN,Aug 23--Dec 10,J Vazquez-Bello
-PHYSICS,202,Physics for Scientists and Engineers II,01,13157,3,"M,W,F8.10-9",GUC VAN,Aug 23--Dec 10,G Newman
-PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,17385,1,M14.55-17.35,VCLS 150,Aug 23--Dec 10,""
-PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,03,17387,1,TU7.45-10.25,VCLS 150,Aug 23--Dec 10,""
+PHYSICS,111,[PSCI] General Physics Lab,01,17380,1,TH7.45-10.25,VCLS 150,Aug 23--Dec 10,G Newman
+PHYSICS,111,[PSCI] General Physics Lab,02,17381,1,TH10.35-13.15,VCLS 150,Aug 23--Dec 10,G Newman
+PHYSICS,111,[PSCI] General Physics Lab,04,17383,1,TH17.45-20.25,VCLS 150,Aug 23--Dec 10,J Nielson
+PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,17384,3,"M,W,F8.10-9",GUC VAN,Aug 23--Dec 10,G Newman
+PHYSICS,202,Physics for Scientists and Engineers II,01,13157,3,"M,W,F8.10-9",GUC VAN,Aug 23--Dec 10,J Vazquez-Bello
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,17385,1,M14.55-17.35,VCLS 150,Aug 23--Dec 10,G Newman
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,17386,1,M17.45-20.25,VCLS 150,Aug 23--Dec 10,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,03,17387,1,TU7.45-10.25,VCLS 150,Aug 23--Dec 10,J Vazquez-Bello
 PHYSICS,212,Physics Lab for Scientists and Engineers II,01,17584,1,F10.35-13.15,VCLS 150,Aug 23--Dec 10,""
 POL_S,101,[SSCI] American National Government,01,12588,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,P Thiers
 POL_S,314,National States and Global Challenges,01,13350,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,A Lopez
@@ -727,22 +768,22 @@ POL_S,438,[M] Contemporary Political Theory,01,17388,3,"M,W,F15.10-16",VC VAN,Au
 PREV_SCI,510,Multilevel Modeling II: Advanced Multilevel Models for Longitudinal Data,01,17280,3,"TU,TH15.10-16.30",WEB ARR,Aug 23--Dec 10,M Cleveland
 PREV_SCI,511,Introduction to Prevention Science,01,13066,3,M14.10-17,WEB ARR,Aug 23--Dec 10,S Perone
 PREV_SCI,513,Research Methods in Prevention Science,01,13014,3,TU15.10-18,WEB ARR,Aug 23--Dec 10,S Waters
-PREV_SCI,535,Effective Prevention Strategies I,01,13129,3,M17.10-20,WEB ARR,Aug 23--Dec 10,J Lanigan
+PREV_SCI,535,Effective Prevention Strategies I,01,13129,3,W17.10-20,WEB ARR,Aug 23--Dec 10,J Lanigan
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,12799,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,12800,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-PSYCH,105,[SSCI] Introductory Psychology,01,12593,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,S Lakatos
-PSYCH,110,Introduction to Addiction Studies,01,12594,3,"M,W9.10-10.25",WEB ARR,Aug 23--Dec 10,B Ladd
-PSYCH,210,Psychology as a Science,01,12827,3,"W,F13.30-14.45",WEB ARR,Aug 23--Dec 10,K Schmaling
+PSYCH,105,[SSCI] Introductory Psychology,01,12593,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,S Lakatos
+PSYCH,110,Introduction to Addiction Studies,01,12594,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,B Ladd
+PSYCH,210,Psychology as a Science,01,12827,3,"W,F13.30-14.45",GUC VAN,Aug 23--Dec 10,K Schmaling
 PSYCH,311,[QUAN] Statistics in Psychology,01,12732,4,"M,W9.10-11",VUB 100,Aug 23--Dec 10,T Probst
 PSYCH,311,[QUAN] Statistics in Psychology,02,13801,4,"TU,TH9.10-11",VUB 100,Aug 23--Dec 10,K Saville
 PSYCH,312,[M] Research Methods in Psychology,01,12595,4,"W,F9.10-11.50",VCLS 130,Aug 23--Dec 10,S Lakatos
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,12596,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PSYCH,324,Psychology of Gender,01,12597,3,M10.35-11.50,GUC VAN,Aug 23--Dec 10,K Saville
-PSYCH,333,Abnormal Psychology,01,12598,3,"W,F14.55-16.10",WEB ARR,Aug 23--Dec 10,K Schmaling
+PSYCH,333,Abnormal Psychology,01,12598,3,"W,F14.55-16.10",GUC VAN,Aug 23--Dec 10,K Schmaling
 PSYCH,342,Assessment and Treatment of Dual Diagnosis,01,12599,3,"W,F16.20-17.35",GUC VAN,Aug 23--Dec 10,A Blume
 PSYCH,350,Social Psychology,01,12600,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Saville
-PSYCH,361,Developmental Psychology,01,12602,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,J Fales
-PSYCH,372,[BSCI] Biological Basis of Behavior,01,12935,3,"M,W12.05-13.20",WEB ARR,Aug 23--Dec 10,D Fortin
+PSYCH,361,Developmental Psychology,01,12602,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,J Fales
+PSYCH,372,[BSCI] Biological Basis of Behavior,01,12935,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,D Fortin
 PSYCH,384,Sensation and Perception,02,17582,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Lakatos
 PSYCH,390,[M] Alcohol Use and Abuse,01,17581,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,B Ladd
 PSYCH,401,[CAPS] [M] Historical Development of Psychology,02,17459,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,M Morgan
@@ -757,7 +798,7 @@ PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,13045,3,"T
 PSYCH,523,Health Psychology,01,13392,3,M13.10-16,VC VAN,Aug 23--Dec 10,R Magnan
 PSYCH,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-SOC,101,[SSCI] Introduction to Sociology,01,12607,3,"M,W13.30-14.45",WEB ARR,Aug 23--Dec 10,""
+SOC,101,[SSCI] Introduction to Sociology,01,12607,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,""
 SOC,320,Introduction to Social Research,01,12608,3,"M,W14.55-16.10",GUC VAN,Aug 23--Dec 10,K Leupp
 SOC,340,[DIVR] Social Inequality,01,12886,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,""
 SOC,351,[DIVR] The Family,01,12609,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,K Leupp
@@ -766,11 +807,11 @@ SOC,362,Juvenile Delinquency,01,12921,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Mosher
 SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Whitley
 SOC,497,[CAPS] [M] Capstone Research Practicum,01,17494,3,"TU,TH10.35-11.50",VC VAN,Aug 23--Dec 10,A Maclean
 SOC,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,12680,4,"W,F12.05-13.20",WEB ARR,Aug 23--Dec 10,M Berger
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,12680,4,"W,F12.05-13.20",GUC VAN,Aug 23--Dec 10,M Berger
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,12681,0,TH7.45-10.25,VSCI 101,Aug 23--Dec 10,""
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",02 Lab,12682,0,TH10.35-13.15,VSCI 101,Aug 23--Dec 10,""
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",03 Lab,12683,0,TH13.30-16.10,VSCI 101,Aug 23--Dec 10,""
-SOE,230,[PSCI] Introductory Oceanography,01,12818,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,S Bollens
+SOE,230,[PSCI] Introductory Oceanography,01,12818,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,S Bollens
 SOE,315,Water and the Earth,02,17811,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,""
 SOE,315,Water and the Earth,02 Lab,17812,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,335,[M] Environmental Policy and Law,01,17504,3,"TU,TH16.20-17.35",WEB ARR,Aug 23--Dec 10,R Swenson
@@ -791,6 +832,8 @@ SOE,576,Biology and Ecology of Pacific Salmon,01,13152,3,"TU,TH16.25-17.40",WEB 
 SOE,598,Seminar,01,13057,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,700,"Master's Research, Thesis, and/or Examination",01,12567,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,12568,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+SOIL_SCI,368,Introduction to Geographic Information Systems,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
+SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
 SOIL_SCI,513,Environmental Soil Physics,01,12900,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,M Flury
 SOIL_SCI,541,Soil-Plant-Microbial Interactions,01,18389,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,T Sullivan
 SPANISH,101,First Semester,01,12719,4,"TU,TH13.30-14.45",WEB ARR,Aug 23--Dec 10,C Gulam
@@ -811,15 +854,15 @@ SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,12616,3,ARRGT
 SPEC_ED,490,Practicum in Special Education,01,12825,2,ARRGT,ARR ARR,Aug 23--Dec 10,M Pursley
 SPEC_ED,595,Universal Design,01,13160,3,TH17.45-20.30,WEB ARR,Aug 23--Dec 10,D Mcmahon
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,13161,1,W16.10-17,WEB ARR,Aug 23--Dec 10,""
-STAT,212,[QUAN] Introduction to Statistical Methods,01,12738,4,"W,F9.10-10.25",GUC VAN,Aug 23--Dec 10,F Mcgrade
+STAT,212,[QUAN] Introduction to Statistical Methods,01,12738,4,"W,F9.10-10.25",WEB ARR,Aug 23--Dec 10,F Mcgrade
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,12739,0,"TU,TH9.10-10",VUB 202,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,01,12740,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,L Sotomayor
 STAT,360,Probability and Statistics,02,12741,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,L Sotomayor
 STAT,360,Probability and Statistics,03,12894,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,L Sotomayor
 STAT,412,Statistical Methods in Research I,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
-STAT,419,Introduction to Multivariate Statistics,02,"",3,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,""
+STAT,419,Introduction to Multivariate Statistics,02,"",3,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,D Deford
 STAT,423,Statistical Methods for Engineers and Scientists,01,12742,3,"W,F10.35-11.50",VC VAN,Aug 23--Dec 10,F Mcgrade
-STAT,435,[M] Statistical Modeling for Data Analytics,02,"",3,"M,W11.10-12",WEB ARR,Aug 23--Dec 10,""
+STAT,435,[M] Statistical Modeling for Data Analytics,02,"",3,"M,W11.10-12",WEB ARR,Aug 23--Dec 10,A Kaul
 STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,"",0,F11.10-13,WEB ARR,Aug 23--Dec 10,""
 STAT,443,Applied Probability,01,"",3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,""
 STAT,523,Statistical Methods for Engineers and Scientists,01,12743,3,"W,F10.35-11.50",VC VAN,Aug 23--Dec 10,F Mcgrade
@@ -865,6 +908,8 @@ UNIV,104,First-Year Success Seminar,12,"",2,TU12.05-13.55,GUC VAN,Aug 23--Dec 10
 UNIV,199,Introduction to Directed Research,01,17295,V,F9.10-10.50,GUC VAN,Aug 23--Dec 10,S Buechler
 UNIV,250,Success in College and Beyond,01,17294,1,F12.05-12.55,GUC VAN,Aug 23--Dec 10,""
 UNIV,300,Accessing Information for Research,01,12726,1,TU8.10-9.10,GUC VAN,Aug 24--Aug 24,S Lohmann
+UNIV,300,Accessing Information for Research,"","","",TU8.10-9.10,GUC VAN,"",""
+UNIV,300,Accessing Information for Research,"","","",TU8.10-9.10,GUC VAN,"",""
 UNIV,301,Career Exploration and Professional Development,01,13331,1,TU16.20-17.35,GUC VAN,Aug 23--Oct 29,C Johnston
 UNIV,304,Transfer Student Seminar,01,13788,2,F9.10-10.50,GUC VAN,Aug 23--Dec 10,A Gintz
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,E Scott

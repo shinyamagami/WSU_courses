@@ -64,11 +64,8 @@ module WSUInPerson
       @campuses.each do |campus|
 
 
-        semesters = ["20211", "20212", "20213"]
-        # semester = '20213'
-        # semester = '20212'
-        # semester = '20211'
-        # semester = '20203'
+        semesters = ["20212", "20213"]
+
         semesters.each do |semester|
 
           doc = Nokogiri::HTML(URI.open('http://schedules.wsu.edu/List/'+ campus+ '/' + semester))
