@@ -34,6 +34,7 @@ H_D,220,Human Development Theories,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,B Hernan
 H_D,307,Adolescence and Emerging Adulthood,01,16140,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,600,Special Projects or Independent Study,01,17191,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+HUMANITY,103,[HUM] Mythology,02,16214,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
 MBIOS,503,Advanced Molecular Biology I,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Her
 MBIOS,578,Bioinformatics,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
@@ -106,7 +107,7 @@ MED_FMS,511,Foundations of Medical Science IV,01,16715,13,ARRGT,ARR ARR,Aug 23--
 MED_FMS,511,Foundations of Medical Science IV,01 Lab,16716,0,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
 MED_LMH,511,Leadership and Management in Healthcare: Microsystem to Macrosystem,01,16717,1,ARRGT,ARR ARR,Aug 23--Nov 24,C Heine
 MED_LMH,531,Personal Leadership Development I,01,16861,1,ARRGT,ARR ARR,Aug 23--Nov 24,J Haney
-MUS,362,[DIVR] History of Jazz,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,A Miller
+MUS,362,[DIVR] History of Jazz,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NEP,320,Strength Training and Conditioning; Theory and Application,01,16561,3,"M,W8.10-9",ARR ARR,Aug 23--Dec 10,J Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,01 Lab,16569,0,TU9.10-12,SHER 328,Aug 23--Dec 10,J Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,02 Lab,16570,0,TU13.10-16,SHER 328,Aug 23--Dec 10,J Larsen
@@ -636,7 +637,7 @@ PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,SHSB 110Z,"",""
 PHARDSCI,504,Pharmacy Calculations,50,15618,1,TU13.10-15,ARR ARR,Aug 23--Dec 10,N Giruzzi
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,"",""
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,ARR ARR,"",""
-PHARDSCI,508,Pharmaceutics I,01,15611,3,"TU,F10.10-11.25",GUC SPK,Aug 23--Dec 10,C Remsberg
+PHARDSCI,508,Pharmaceutics I,01,15611,3,"TU,F10.10-11.25",SHSB 110Z,Aug 23--Dec 10,C Remsberg
 PHARDSCI,508,Pharmaceutics I,50,15617,3,"TU,F10.10-11.25",ARR ARR,Aug 23--Dec 10,D Brand
 PHARDSCI,528,Pharmacokinetics,01,15612,3,"W,F8.45-10",SHSB 110Z,Aug 27--Dec 10,S Natesan
 PHARDSCI,528,Pharmacokinetics,"","","",TU7.45-9,SHSB 110Z,"",""
@@ -658,13 +659,13 @@ PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,01,15504,1,F13.10
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,50,15537,1,F13.10-14,ARR ARR,Aug 23--Dec 10,A Stewart
 PHARMACY,509,Professional Communications Lab,01,"",1,TU9.10-10,SHSB 110Z,Aug 23--Dec 10,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",W10.10-12,SPBS 301,"",""
-PHARMACY,509,Professional Communications Lab,02,"",1,TU9.10-10,GUC SPK,Aug 23--Dec 10,M Willson
+PHARMACY,509,Professional Communications Lab,02,"",1,TU9.10-10,SHSB 110Z,Aug 23--Dec 10,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",W13.10-15,SPBS 301,"",""
-PHARMACY,509,Professional Communications Lab,03,"",1,TU9.10-10,GUC SPK,Aug 23--Dec 10,M Willson
+PHARMACY,509,Professional Communications Lab,03,"",1,TU9.10-10,SHSB 110Z,Aug 23--Dec 10,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",W15.10-17,SPBS 301,"",""
-PHARMACY,509,Professional Communications Lab,04,"",1,TU9.10-10,GUC SPK,Aug 23--Dec 10,M Willson
+PHARMACY,509,Professional Communications Lab,04,"",1,TU9.10-10,SHSB 110Z,Aug 23--Dec 10,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",TH8.10-10,SPBS 301,"",""
-PHARMACY,509,Professional Communications Lab,05,"",1,TU9.10-10,GUC SPK,Aug 23--Dec 10,M Willson
+PHARMACY,509,Professional Communications Lab,05,"",1,TU9.10-10,SHSB 110Z,Aug 23--Dec 10,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",TH10.10-12,SPBS 301,"",""
 PHARMACY,509,Professional Communications Lab,50,15538,1,TU9.10-10,ARR ARR,Aug 23--Dec 10,C Buchman
 PHARMACY,509,Professional Communications Lab,"","","",W10.10-12,ARR ARR,"",""
@@ -769,9 +770,10 @@ PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,15592,V,AR
 PREV_SCI,510,Multilevel Modeling II: Advanced Multilevel Models for Longitudinal Data,01,17963,3,"TU,TH15.10-16.30",VC SPK,Aug 23--Dec 10,M Cleveland
 PREV_SCI,511,Introduction to Prevention Science,01,15501,3,M14.10-17,SAC 45,Aug 23--Dec 10,S Perone
 PREV_SCI,513,Research Methods in Prevention Science,01,15485,3,TU15.10-18,SAC 45,Aug 23--Dec 10,S Waters
-PREV_SCI,535,Effective Prevention Strategies I,01,17576,3,M17.10-20,SAC 45,Aug 23--Dec 10,J Lanigan
+PREV_SCI,535,Effective Prevention Strategies I,01,17576,3,W17.10-20,SAC 45,Aug 23--Dec 10,J Lanigan
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,16752,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,16686,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+PSYCH,230,Human Sexuality,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Paup
 PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,16376,3,"TU,TH14.55-16.10",SNRS 201,Aug 23--Dec 10,M Morgan
 PSYCH,506,Current Research in Psychology,01,17580,1,W16.10-17,SNRS 201,Aug 23--Dec 10,R Magnan
 PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,17987,3,"TU,TH12.05-13.20",SNRS 201,Aug 23--Dec 10,C Cuttler
@@ -795,25 +797,25 @@ SHS,479,Neuroanatomy,01,15634,3,"M,W13.10-14.25",SAC 20,Aug 23--Dec 10,H Hashemi
 SHS,482,[M] Assessment of Speech and Language,01,15635,3,"W,F14.35-15.50",SAC 20,Aug 23--Dec 10,D Algeo
 SHS,490,Special Topics in Speech and Hearing Sciences,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
 SHS,490,Special Topics in Speech and Hearing Sciences,03,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Vandam
-SHS,540,Special Topics in Speech and Hearing Sciences,01,15660,1,TU11.10-12,GUC SPK,Aug 23--Dec 10,A Meredith
-SHS,540,Special Topics in Speech and Hearing Sciences,02,15669,1,W11.10-12,GUC SPK,Aug 23--Dec 10,A Meredith
+SHS,540,Special Topics in Speech and Hearing Sciences,01,15660,1,TU11.10-12,SAC 347,Aug 23--Dec 10,A Meredith
+SHS,540,Special Topics in Speech and Hearing Sciences,02,15669,1,W11.10-12,SAC 347,Aug 23--Dec 10,A Meredith
 SHS,543,School Age and Adolescent Language,01,15654,3,W9.10-11.50,SAC 147,Aug 23--Dec 10,E Wilson-Fowler
 SHS,543,School Age and Adolescent Language,02,15655,3,TU12.10-14.50,SAC 147,Aug 23--Dec 10,E Wilson-Fowler
 SHS,550,Special Topics in Speech and Hearing Sciences,01,15624,2,F15.10-16.30,SAC 147,Aug 23--Dec 10,""
-SHS,560,Special Topics in Speech and Hearing Sciences,01,15656,1,M10.10-11.30,GUC SPK,Aug 23--Dec 10,R Jackson
-SHS,560,Special Topics in Speech and Hearing Sciences,02,15657,1,TH10.10-11.30,GUC SPK,Aug 23--Dec 10,R Jackson
+SHS,560,Special Topics in Speech and Hearing Sciences,01,15656,1,M10.10-11.30,SAC 347,Aug 23--Dec 10,R Jackson
+SHS,560,Special Topics in Speech and Hearing Sciences,02,15657,1,TH10.10-11.30,SAC 347,Aug 23--Dec 10,R Jackson
 SHS,562,Motor Speech Disorders,01,15642,3,"M,W8.10-9.25",SHSB 125E,Aug 23--Dec 10,N Potter
 SHS,562,Motor Speech Disorders,02,15643,3,"TU,TH8.10-9.25",SHSB 125E,Aug 23--Dec 10,N Potter
 SHS,565,Augmentative Communication,01,15644,3,"M,W12.30-13.45",SAC 147,Aug 23--Dec 10,L Williams
-SHS,565,Augmentative Communication,02,15645,3,"TU,TH12.30-13.45",GUC SPK,Aug 23--Dec 10,L Williams
+SHS,565,Augmentative Communication,02,15645,3,"TU,TH12.30-13.45",SAC 347,Aug 23--Dec 10,L Williams
 SHS,566,Off-Campus Practicum Public School Setting,01,15646,4,ARRGT,"",Aug 23--Dec 10,K Simpson
 SHS,568,Off-campus Practicum Clinical Setting,01,15647,4,ARRGT,"",Aug 23--Dec 10,K Simpson
 SHS,570,Advanced Internship in Speech-Language Pathology,01,15665,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Simpson
 SHS,574,Neuropathologies of Language and Cognition I,01,15648,2,"M,W14.10-15",SAC 147,Aug 23--Dec 10,J Pimentel
 SHS,574,Neuropathologies of Language and Cognition I,02,15649,2,"TU,TH9.10-10",SAC 147,Aug 23--Dec 10,J Pimentel
 SHS,575,Advanced Clinical Practice,01,15650,3,ARRGT,"",Aug 23--Dec 10,C Dechert
-SHS,576,Voice and Resonance Disorders,01,15673,2,W14.35-16.25,GUC SPK,Aug 23--Dec 10,H Hashemi Hosseinabad
-SHS,576,Voice and Resonance Disorders,02,15674,2,TU14.10-16,GUC SPK,Aug 23--Dec 10,H Hashemi Hosseinabad
+SHS,576,Voice and Resonance Disorders,01,15673,2,W14.35-16.25,SAC 347,Aug 23--Dec 10,H Hashemi Hosseinabad
+SHS,576,Voice and Resonance Disorders,02,15674,2,TU14.10-16,SAC 347,Aug 23--Dec 10,H Hashemi Hosseinabad
 SHS,577,Neurogenic Disorders of Language and Cognition II,01,17117,2,"M,W15.10-17",SAC 147,Aug 23--Dec 10,E Clark
 SHS,577,Neurogenic Disorders of Language and Cognition II,02,17118,2,TU15.10-17,SAC 147,Aug 23--Dec 10,""
 SHS,577,Neurogenic Disorders of Language and Cognition II,"","","",TH15.10-16,SAC 147,"",""

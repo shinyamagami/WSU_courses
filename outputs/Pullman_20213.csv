@@ -298,37 +298,38 @@ ANTH,593,Publishing and Professional Communication,01,17491,3,W14.10-16.40,COLL 
 ANTH,600,Special Projects or Independent Study,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ANTH,700,"Master's Research, Thesis, and/or Examination",01,05266,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ANTH,800,"Doctoral Research, Dissertation, and/or Examination",01,05267,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-ARCH,201,Architectural Design I,01,02945,5,"M,W,F9.10-12",CARP 401,Aug 23--Dec 10,""
-ARCH,201,Architectural Design I,02,02946,5,"M,W8.10-12",CARP 301,Aug 23--Dec 10,""
-ARCH,201,Architectural Design I,03,07963,5,"M,W,F13.10-16",CARP 401,Aug 23--Dec 10,""
-ARCH,210,Digital Analysis and Representation,01,05986,3,"TU,TH7.45-9",WEB ARR,Aug 23--Dec 10,""
-ARCH,210,Digital Analysis and Representation,01 Lab,03923,0,TU9.10-10.50,DAGG 1,Aug 23--Dec 10,""
-ARCH,210,Digital Analysis and Representation,02 Lab,07883,0,TU11.10-12.50,DAGG 1,Aug 23--Dec 10,""
-ARCH,210,Digital Analysis and Representation,03 Lab,07884,0,TH9.10-10.50,DAGG 1,Aug 23--Dec 10,""
-ARCH,210,Digital Analysis and Representation,04 Lab,07885,0,TH11.10-12.50,DAGG 1,Aug 23--Dec 10,""
-ARCH,301,Architectural Design III,01,04731,5,"M,W,F13.10-16",CARP 420,Aug 23--Dec 10,""
-ARCH,301,Architectural Design III,02,04732,5,"M,W13.10-17",CARP 301,Aug 23--Dec 10,""
-ARCH,301,Architectural Design III,03,06304,5,"TU,TH12.05-16.10",CARP 401,Aug 23--Dec 10,""
-ARCH,301,Architectural Design III,04,07217,5,"TU,TH12.05-16.10",CARP 301,Aug 23--Dec 10,""
-ARCH,309,[M] Modern Architecture and Theory,01,04733,3,"TU,TH10.35-11.50",TODD 434,Aug 23--Dec 10,""
-ARCH,351,Architectural Structures I,01,04734,3,"TU,TH16.20-17.35",SPRK 227,Aug 23--Dec 10,""
-ARCH,401,Architectural Design V,01,04735,6,"TU,TH13.30-18",CARP 201,Aug 23--Dec 10,""
-ARCH,401,Architectural Design V,02,06774,6,"TU,TH13.30-18",CARP 301,Aug 23--Dec 10,""
-ARCH,401,Architectural Design V,03,07218,6,"TU,TH13.30-18",CARP 401,Aug 23--Dec 10,""
-ARCH,451,Computer-aided Design I,01,17564,3,W10.10-11.50,DAGG 1,Aug 23--Dec 10,""
-ARCH,451,Computer-aided Design I,01 Lab,17563,0,F10.10-11.50,DAGG 1,Aug 23--Dec 10,""
-ARCH,463,Architectural Structures III,01,07081,3,"M,W,F8.10-9",FULM 201,Aug 23--Dec 10,""
-ARCH,491,Seminar in Architectural Communications,01,05677,3,"TU,TH10.35-11.50",CARP 412,Aug 23--Dec 10,""
+ARCH,201,Architectural Design I,01,02945,5,"M,W,F9.10-12",CARP 401,Aug 23--Dec 10,O Al-Hassawi
+ARCH,201,Architectural Design I,02,02946,5,"M,W8.10-12",CARP 301,Aug 23--Dec 10,A Rahmani
+ARCH,201,Architectural Design I,03,07963,5,"M,W,F13.10-16",CARP 401,Aug 23--Dec 10,G Kessler
+ARCH,210,Digital Analysis and Representation,01,05986,3,"TU,TH7.45-9",WEB ARR,Aug 23--Dec 10,M Mansoori
+ARCH,210,Digital Analysis and Representation,01 Lab,03923,0,TU9.10-10.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+ARCH,210,Digital Analysis and Representation,02 Lab,07883,0,TU11.10-12.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+ARCH,210,Digital Analysis and Representation,03 Lab,07884,0,TH9.10-10.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+ARCH,210,Digital Analysis and Representation,04 Lab,07885,0,TH11.10-12.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+ARCH,301,Architectural Design III,01,04731,5,"M,W,F13.10-16",CARP 420,Aug 23--Dec 10,M Cowan
+ARCH,301,Architectural Design III,02,04732,5,"M,W13.10-17",CARP 301,Aug 23--Dec 10,A Rahmani
+ARCH,301,Architectural Design III,03,06304,5,"TU,TH12.05-16.10",CARP 401,Aug 23--Dec 10,T Miyasaka
+ARCH,301,Architectural Design III,04,07217,5,"TU,TH12.05-16.10",CARP 301,Aug 23--Dec 10,M Cowan
+ARCH,309,[M] Modern Architecture and Theory,01,04733,3,"TU,TH10.35-11.50",TODD 434,Aug 23--Dec 10,P Gruen
+ARCH,351,Architectural Structures I,01,04734,3,"TU,TH16.20-17.35",SPRK 227,Aug 23--Dec 10,A Ibrahim
+ARCH,401,Architectural Design V,01,04735,6,"TU,TH13.30-18",CARP 201,Aug 23--Dec 10,M Melcher
+ARCH,401,Architectural Design V,02,06774,6,"TU,TH13.30-18",CARP 301,Aug 23--Dec 10,G Kessler
+ARCH,401,Architectural Design V,03,07218,6,"TU,TH13.30-18",CARP 401,Aug 23--Dec 10,M Ghandi
+ARCH,451,Computer-aided Design I,01,17564,3,W10.10-11.50,DAGG 1,Aug 23--Dec 10,A Pulay
+ARCH,451,Computer-aided Design I,01 Lab,17563,0,F10.10-11.50,DAGG 1,Aug 23--Dec 10,A Pulay
+ARCH,463,Architectural Structures III,01,07081,3,"M,W,F8.10-9",FULM 201,Aug 23--Dec 10,A Ibrahim
+ARCH,491,Seminar in Architectural Communications,01,05677,3,"TU,TH10.35-11.50",CARP 412,Aug 23--Dec 10,G Kessler
 ARCH,499,Special Problems,01,04738,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-ARCH,511,Graduate Design Studio I,01,04740,6,"TU,TH13.30-18",DAGG 1,Aug 23--Dec 10,""
-ARCH,511,Graduate Design Studio I,02,07882,6,"M,W13.10-18",DAGG 1,Aug 23--Dec 10,""
-ARCH,530,Philosophies and Theories of the Built Environment,01,06003,3,TU18.30-21,SPRK 323,Aug 23--Dec 10,""
-ARCH,542,Issues in Architecture,01,05640,3,"TU,TH12.05-13.20",CARP 412,Aug 23--Dec 10,""
-ARCH,563,Architectural Structures III,02,"",3,"M,W,F8.10-9",FULM 201,Aug 23--Dec 10,""
-ARCH,570,Advanced Architectural Design Studio I,01,04742,6,"W,F13.10-18",DAGG 1,Aug 23--Dec 10,""
-ARCH,580,Architecture Practicum,01,05963,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ARCH,511,Graduate Design Studio I,01,04740,6,"TU,TH13.30-18",DAGG 1,Aug 23--Dec 10,J Abell
+ARCH,511,Graduate Design Studio I,02,07882,6,"M,W13.10-18",DAGG 1,Aug 23--Dec 10,O Al-Hassawi
+ARCH,530,Philosophies and Theories of the Built Environment,01,06003,3,TU18.30-21,SPRK 323,Aug 23--Dec 10,P Gruen
+ARCH,542,Issues in Architecture,01,05640,3,"TU,TH12.05-13.20",CARP 412,Aug 23--Dec 10,M Cerruti
+ARCH,563,Architectural Structures III,02,"",3,"M,W,F8.10-9",FULM 201,Aug 23--Dec 10,A Ibrahim
+ARCH,570,Advanced Architectural Design Studio I,01,04742,6,"W,F13.10-18",DAGG 1,Aug 23--Dec 10,M Ghandi
+ARCH,580,Architecture Practicum,01,05963,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Abell
 ASIA,111,Asian Film,01,17289,3,"TU,TH10.35-11.50",WLSH 6,Aug 23--Dec 10,X Liu
 ASIA,131,Masterpieces of Asian Literature,01,07243,3,"TU,TH13.30-14.45",TODD 404,Aug 23--Dec 10,W Cao
+ASIA,220,"Global Issues, Regional Realities",01,18468,3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,X Liu
 ASIA,275,[DIVR] Introduction to East Asian Culture,01,05981,3,"M,W,F13.10-14",TODD 234,Aug 23--Dec 10,W Brecher
 ASIA,387,World War II in Asia and the Pacific,01,07144,3,"TU,TH12.05-13.20",SLOA 5,Aug 23--Dec 10,N Kawamura
 ASIA,478,[M] The Two Koreas in the Modern World,01,07139,3,"M,W,F10.10-11",AVER 8,Aug 23--Dec 10,W Brecher
@@ -625,7 +626,7 @@ CE,211,Statics,01,02976,3,"M,W,F12.10-13",CARP 101,Aug 23--Dec 10,K Olsen
 CE,211,Statics,02,02977,3,"M,W,F15.10-16",SLOA 150,Aug 23--Dec 10,H Liu
 CE,211,Statics,03,02978,3,"M,W,F11.10-12",SLOA 169,Aug 23--Dec 10,K Olsen
 CE,211,Statics,04,02979,3,"M,W,F10.10-11",SLOA 150,Aug 23--Dec 10,J Cheng
-CE,215,Mechanics of Materials,01,02980,3,"M,W,F10.10-11",SLOA 9,Aug 23--Dec 10,R Petersen
+CE,215,Mechanics of Materials,01,02980,3,"M,W,F10.10-11",SLOA 9,Aug 23--Dec 10,J Cheng
 CE,215,Mechanics of Materials,02,02981,3,"M,W,F14.10-15",SLOA 150,Aug 23--Dec 10,J Cheng
 CE,302,Introduction to Surveying,01,05272,2,M15.10-16,TODD 130,Aug 23--Dec 10,K Olsen
 CE,302,Introduction to Surveying,01 Lab,05273,0,TU9.10-12,SLOA 235,Aug 23--Dec 10,K Olsen
@@ -1047,19 +1048,19 @@ COM,105,[HUM] Communication in Global Contexts,05,17434,3,"M,W,F10.10-11",TODD 2
 COM,105,[HUM] Communication in Global Contexts,06,17435,3,"M,W,F14.10-15",BRYN 305,Aug 23--Dec 10,C Curtis
 COM,138,Introduction to Communication,03,06621,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Simmons
 COM,199,Murrow Student Ambassador Training,01,"",1,W9.10-10,ADBF 1002,Aug 23--Dec 10,M Johnson
-COM,210,[COMM] Multimedia Content Creation,01,04986,3,M12.10-13,JKSN 53,Aug 23--Dec 10,""
-COM,210,[COMM] Multimedia Content Creation,02,04987,3,M13.10-14,JKSN 53,Aug 23--Dec 10,B Pingel
-COM,210,[COMM] Multimedia Content Creation,03,04988,3,M14.10-15,JKSN 53,Aug 23--Dec 10,B Pingel
-COM,210,[COMM] Multimedia Content Creation,04,04989,3,TU8.10-9,JKSN 53,Aug 23--Dec 10,""
-COM,210,[COMM] Multimedia Content Creation,05,04990,3,TU9.10-10,JKSN 53,Aug 23--Dec 10,""
-COM,210,[COMM] Multimedia Content Creation,06,04991,3,TU10.35-11.25,JKSN 53,Aug 23--Dec 10,""
-COM,210,[COMM] Multimedia Content Creation,07,04992,3,TU12.05-12.55,JKSN 53,Aug 23--Dec 10,""
-COM,210,[COMM] Multimedia Content Creation,08,04993,3,TU13.30-14.20,JKSN 53,Aug 23--Dec 10,""
-COM,210,[COMM] Multimedia Content Creation,09,04994,3,W12.10-13,JKSN 53,Aug 23--Dec 10,B Pingel
-COM,210,[COMM] Multimedia Content Creation,10,04995,3,W13.10-14,JKSN 53,Aug 23--Dec 10,B Pingel
-COM,210,[COMM] Multimedia Content Creation,12,08195,3,W14.10-15,JKSN 53,Aug 23--Dec 10,B Pingel
-COM,210,[COMM] Multimedia Content Creation,13,08196,3,TH9.10-10,JKSN 53,Aug 23--Dec 10,B Pingel
-COM,210,[COMM] Multimedia Content Creation,14,08197,3,TH10.35-11.25,JKSN 53,Aug 23--Dec 10,B Pingel
+COM,210,[COMM] Multimedia Content Creation,01,04986,3,M12.10-13,JKSN 53,Aug 23--Dec 10,A Booth
+COM,210,[COMM] Multimedia Content Creation,02,04987,3,M13.10-14,JKSN 53,Aug 23--Dec 10,A Booth
+COM,210,[COMM] Multimedia Content Creation,03,04988,3,M14.10-15,JKSN 53,Aug 23--Dec 10,B Mendonca Lins Caldas
+COM,210,[COMM] Multimedia Content Creation,04,04989,3,TU8.10-9,JKSN 53,Aug 23--Dec 10,B Mendonca Lins Caldas
+COM,210,[COMM] Multimedia Content Creation,05,04990,3,TU9.10-10,JKSN 53,Aug 23--Dec 10,E Price
+COM,210,[COMM] Multimedia Content Creation,06,04991,3,TU10.35-11.25,JKSN 53,Aug 23--Dec 10,E Price
+COM,210,[COMM] Multimedia Content Creation,07,04992,3,TU12.05-12.55,JKSN 53,Aug 23--Dec 10,L Couto Fazio Albuquerque Lira
+COM,210,[COMM] Multimedia Content Creation,08,04993,3,TU13.30-14.20,JKSN 53,Aug 23--Dec 10,L Couto Fazio Albuquerque Lira
+COM,210,[COMM] Multimedia Content Creation,09,04994,3,W12.10-13,JKSN 53,Aug 23--Dec 10,E Yel
+COM,210,[COMM] Multimedia Content Creation,10,04995,3,W13.10-14,JKSN 53,Aug 23--Dec 10,E Yel
+COM,210,[COMM] Multimedia Content Creation,12,08195,3,W14.10-15,JKSN 53,Aug 23--Dec 10,B Mendonca Lins Caldas
+COM,210,[COMM] Multimedia Content Creation,13,08196,3,TH9.10-10,JKSN 53,Aug 23--Dec 10,E Price
+COM,210,[COMM] Multimedia Content Creation,14,08197,3,TH10.35-11.25,JKSN 53,Aug 23--Dec 10,E Price
 COM,225,Sports and the Media,02,08227,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Shors
 COM,275,Communication Seminar,01,17745,V,"M,W,F11.10-12",TODD 226,Oct 18--Dec 10,E Tomson
 COM,275,Communication Seminar,02,17900,V,"M,W,F10.10-11",TODD 307,Aug 23--Dec 10,J Foley
@@ -1166,7 +1167,7 @@ COMSTRAT,382,Media Planning,02,05632,3,"TU,TH12.05-13.20",GTZN 1,Aug 23--Dec 10,
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,04069,3,"M,W,F8.10-9",SPRK 212,Aug 23--Dec 10,M Ritsch
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,02,04070,3,"M,W,F9.10-10",CUE 316,Aug 23--Dec 10,M Ritsch
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,03,04071,3,"M,W,F11.10-12",WLSH 5,Aug 23--Dec 10,R Cooney
-COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,09,08301,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,09,08301,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Cuen Paxson
 COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,01,17858,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Barnes
 COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,02,17859,3,"TU,TH10.35-11.50",SPRK 339,Aug 23--Dec 10,J Barnes
 COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,"",3,"TU,TH14.55-16.10",SPRK 333,Aug 23--Dec 10,C Newman
@@ -1281,7 +1282,7 @@ CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,04,05864
 CRM_J,201,Introduction to Criminological Theory,04,06921,3,"TU,TH10.35-11.50",FLMA 226,Aug 23--Dec 10,C Dalton
 CRM_J,205,[DIVR] Realizing Justice in a Multicultural Society,02,07713,3,"M,W,F12.10-13",TODD 216,Aug 23--Dec 10,D Makin
 CRM_J,311,Research Methods for Criminal Justice,01,02997,3,"M,W,F12.10-13",TODD 133,Aug 23--Dec 10,H Mellinger
-CRM_J,320,Criminal Law,03,07797,3,"M,W,F13.10-14",WEBS 16,Aug 23--Dec 10,J Snyder
+CRM_J,320,Criminal Law,03,07797,3,"M,W,F13.10-14",SPRK G0045,Aug 23--Dec 10,J Snyder
 CRM_J,321,Quantitative Methods for Criminal Justice,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,B Solensten
 CRM_J,321,Quantitative Methods for Criminal Justice,02,06729,3,"M,W,F10.10-11",CARP 102,Aug 23--Dec 10,D Willits
 CRM_J,330,Crime Control Policies,01,04713,3,"M,W,F13.10-14",COLL 220,Aug 23--Dec 10,C Dollar
@@ -1414,10 +1415,10 @@ CST_M,462,Planning and Scheduling,03,02949,3,"TU,TH8.10-9",CARP 220,Aug 23--Dec 
 CST_M,462,Planning and Scheduling,01 Lab,02950,0,W14.10-16,CARP 220,Aug 23--Dec 10,""
 CST_M,462,Planning and Scheduling,02 Lab,02951,0,TH16.10-18,CARP 220,Aug 23--Dec 10,""
 CST_M,462,Planning and Scheduling,03 Lab,02952,0,F14.10-16,CARP 220,Aug 23--Dec 10,T Tafazzoli
-CST_M,495,Seminar in Construction Management,01,03940,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+CST_M,495,Seminar in Construction Management,01,03940,V,ARRGT,ARR ARR,Aug 23--Dec 10,R Cherf
 CST_M,495,Seminar in Construction Management,02,03941,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-CST_M,495,Seminar in Construction Management,03,03942,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-CST_M,495,Seminar in Construction Management,04,07594,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+CST_M,495,Seminar in Construction Management,03,03942,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Peschel
+CST_M,495,Seminar in Construction Management,04,07594,V,ARRGT,ARR ARR,Aug 23--Dec 10,T Tafazzoli
 CST_M,499,Special Problems,01,03943,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 DATA,115,Introduction to Data Analytics,01,06250,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Deford
 DATA,115,Introduction to Data Analytics,02,06996,3,"TU,TH10.35-11.50",SPRK 233,Aug 23--Dec 10,D Deford
@@ -1640,6 +1641,7 @@ ECONS,506,Mathematics Primer for Economists,01,05888,3,"TU,TH13.30-14.45",HULB 2
 ECONS,509,Quantitative Methods in Economic Dynamics,01,07249,3,"M,W15.10-16.25",HULB 23,Aug 23--Dec 10,S Ortigueira
 ECONS,510,Statistics for Economists,01,03248,3,"TU,TH9.10-10.25",HULB 23,Aug 23--Dec 10,R Mittelhammer
 ECONS,512,Econometrics II,01,03250,3,"TU,TH10.35-11.50",HULB 23,Aug 23--Dec 10,W Blundell
+ECONS,523,Big Data Management and Processing for Economics,01,"",3,"TU,TH14.55-16.10",GUC TBS,Aug 23--Dec 10,A Kappes
 ECONS,526,Mathematical Economics with Applications,01,03253,3,"M,W14.10-15.25",HULB 27,Aug 23--Dec 10,""
 ECONS,527,Microeconomic Analysis,01,03254,3,"M,W10.45-12",HULB 23,Aug 23--Dec 10,G Galinato
 ECONS,528,Master's Macroeconomics Analysis,01,06464,3,"M,W9.10-10.25",HULB 27,Aug 23--Dec 10,J Bai
@@ -2171,6 +2173,7 @@ FINE_ART,582,Graduate Photography,01,05445,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Holl
 FINE_ART,700,"Master's Research, Thesis, and/or Examination",01,05447,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 FOR_LANG,100,Studies in Foreign Languages I,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Lopez-Lopez
 FOR_LANG,101,[HUM] Introduction to the World of Languages,09,07916,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Davis
+FOR_LANG,220,"Global Issues, Regional Realities",01,18467,3,"TU,TH14.55-16.10",THOM 21,Aug 23--Dec 10,X Liu
 FOR_LANG,495,Cooperative Education Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 FRENCH,101,First Semester,01,07196,4,"M,TU,W,TH9.10-10",THOM 201,Aug 23--Dec 10,M Black
 FRENCH,101,First Semester,02,04277,4,"M,TU,W,TH12.10-13",THOM 201,Aug 23--Dec 10,M Black
@@ -2599,33 +2602,33 @@ I_BUS,470,International Trade and Finance,01,03171,3,"M,W,F13.10-14",TDAD 276,Au
 I_BUS,482,[M] International Marketing,01,03497,3,"M,W,F10.10-11",FULM 125,Aug 23--Dec 10,""
 I_BUS,498,International Business Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Joireman
 I_BUS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Joireman
-I_D,197,Design Communication I,01,07411,3,"TU,TH7.45-9",WEB ARR,Aug 23--Dec 10,""
-I_D,197,Design Communication I,01 Lab,07412,0,TU9.10-10.50,DAGG 1,Aug 23--Dec 10,""
-I_D,197,Design Communication I,02 Lab,08251,0,TU11.10-12.50,DAGG 1,Aug 23--Dec 10,""
-I_D,197,Design Communication I,03 Lab,08252,0,TH9.10-10.50,DAGG 1,Aug 23--Dec 10,""
-I_D,197,Design Communication I,04 Lab,08253,0,TH11.10-12.50,DAGG 1,Aug 23--Dec 10,""
-I_D,201,Interior Design Studio II,01,17525,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-I_D,201,Interior Design Studio II,02,07533,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-I_D,201,Interior Design Studio II,01 Lab,17524,0,"M,W,F13.10-16",CARP 320,Aug 23--Dec 10,""
-I_D,201,Interior Design Studio II,02 Lab,07532,0,"M,W,F13.10-16",CARP 320,Aug 23--Dec 10,""
-I_D,205,Visual Communication,01,04099,3,M10.10-11.50,CARP 320,Aug 23--Dec 10,""
-I_D,205,Visual Communication,01 Lab,04100,0,W10.10-11.50,CARP 320,Aug 23--Dec 10,""
-I_D,312,[M] Interior Design Theory,01,18057,2,M10.10-11.50,CARP 312,Aug 23--Dec 10,""
-I_D,321,Interior Design Studio IV,01,04101,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-I_D,321,Interior Design Studio IV,02,07889,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-I_D,321,Interior Design Studio IV,01 Lab,04102,0,"W,F13.10-16.30",CARP 320,Aug 23--Dec 10,""
-I_D,321,Interior Design Studio IV,02 Lab,06775,0,"TU,TH13.30-17",CARP 320,Aug 23--Dec 10,""
-I_D,325,Interior Building Systems,01,07535,3,"TU,TH10.35-11.50",CARP 312,Aug 23--Dec 10,""
-I_D,326,Codes for Interior Designers,01,07536,3,"TU,TH9.10-10.25",CARP 312,Aug 23--Dec 10,""
-I_D,397,Design Communication III,01,06074,3,W10.10-11.50,DAGG 1,Aug 23--Dec 10,""
-I_D,397,Design Communication III,01 Lab,06075,0,F10.10-11.50,DAGG 1,Aug 23--Dec 10,""
-I_D,425,Interior Design Studio VI,01,04103,5,"TU,TH13.30-17",CARP 201,Aug 23--Dec 10,""
-I_D,490,Cooperative Education Internship,01,04104,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+I_D,197,Design Communication I,01,07411,3,"TU,TH7.45-9",WEB ARR,Aug 23--Dec 10,M Mansoori
+I_D,197,Design Communication I,01 Lab,07412,0,TU9.10-10.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+I_D,197,Design Communication I,02 Lab,08251,0,TU11.10-12.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+I_D,197,Design Communication I,03 Lab,08252,0,TH9.10-10.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+I_D,197,Design Communication I,04 Lab,08253,0,TH11.10-12.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+I_D,201,Interior Design Studio II,01,17525,4,ARRGT,ARR ARR,Aug 23--Dec 10,C Vielle
+I_D,201,Interior Design Studio II,02,07533,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Cerruti
+I_D,201,Interior Design Studio II,01 Lab,17524,0,"M,W,F13.10-16",CARP 320,Aug 23--Dec 10,C Vielle
+I_D,201,Interior Design Studio II,02 Lab,07532,0,"M,W,F13.10-16",CARP 320,Aug 23--Dec 10,M Cerruti
+I_D,205,Visual Communication,01,04099,3,M10.10-11.50,CARP 320,Aug 23--Dec 10,C Vielle
+I_D,205,Visual Communication,01 Lab,04100,0,W10.10-11.50,CARP 320,Aug 23--Dec 10,C Vielle
+I_D,312,[M] Interior Design Theory,01,18057,2,M10.10-11.50,CARP 312,Aug 23--Dec 10,V Vahdat
+I_D,321,Interior Design Studio IV,01,04101,4,ARRGT,ARR ARR,Aug 23--Dec 10,V Vahdat
+I_D,321,Interior Design Studio IV,02,07889,4,ARRGT,ARR ARR,Aug 23--Dec 10,J Theodorson
+I_D,321,Interior Design Studio IV,01 Lab,04102,0,"W,F13.10-16.30",CARP 320,Aug 23--Dec 10,V Vahdat
+I_D,321,Interior Design Studio IV,02 Lab,06775,0,"TU,TH13.30-17",CARP 320,Aug 23--Dec 10,J Theodorson
+I_D,325,Interior Building Systems,01,07535,3,"TU,TH10.35-11.50",CARP 312,Aug 23--Dec 10,J Theodorson
+I_D,326,Codes for Interior Designers,01,07536,3,"TU,TH9.10-10.25",CARP 312,Aug 23--Dec 10,A Pulay
+I_D,397,Design Communication III,01,06074,3,W10.10-11.50,DAGG 1,Aug 23--Dec 10,A Pulay
+I_D,397,Design Communication III,01 Lab,06075,0,F10.10-11.50,DAGG 1,Aug 23--Dec 10,A Pulay
+I_D,425,Interior Design Studio VI,01,04103,5,"TU,TH13.30-17",CARP 201,Aug 23--Dec 10,R Krikac
+I_D,490,Cooperative Education Internship,01,04104,V,ARRGT,ARR ARR,Aug 23--Dec 10,R Krikac
 I_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Theodorson
 I_D,499,Special Problems,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-I_D,525,Interior Design Graduate Studio I,01,04107,5,"W,F13.10-18",DAGG 1,Aug 23--Dec 10,""
+I_D,525,Interior Design Graduate Studio I,01,04107,5,"W,F13.10-18",DAGG 1,Aug 23--Dec 10,M Ghandi
 I_D,526,Interior Design Graduate Studio II,01,17809,5,ARRGT,ARR ARR,Aug 23--Dec 10,""
-I_D,530,Philosophies and Theories of the Built Environment,01,06004,3,TU18.30-21,SPRK 323,Aug 23--Dec 10,""
+I_D,530,Philosophies and Theories of the Built Environment,01,06004,3,TU18.30-21,SPRK 323,Aug 23--Dec 10,P Gruen
 I_D,598,Topics in Interior Design,01,04108,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 I_D,702,"Master's Special Problems, Directed Study and/or Examination",01,04109,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 INTERDIS,490,McNair Preparation for Graduate School,01,03564,1,"M,W8.10-9",TODD 202,Aug 23--Dec 10,""
@@ -2801,24 +2804,24 @@ KINES,700,"Master's Research, Thesis, and/or Examination",01,08136,V,ARRGT,ARR A
 KINES,702,"Master's Special Problems, Directed Study, and/or Examination",01,08137,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 LLT,586,"Seminar in Language, Literacy, and Technology",01,05684,1,TU12.10-13,CLEV 63,Aug 23--Dec 10,J Kelley
 LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,06470,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-LND_ARCH,150,[HUM] Landscapes of the Palouse,01,08055,3,"TU,TH12.05-13.20",CUE 409,Aug 23--Dec 10,""
-LND_ARCH,210,Digital Analysis and Representation,01,06940,3,"TU,TH7.45-9",WEB ARR,Aug 23--Dec 10,""
-LND_ARCH,210,Digital Analysis and Representation,01 Lab,06941,0,TU9.10-10.50,DAGG 1,Aug 23--Dec 10,""
-LND_ARCH,210,Digital Analysis and Representation,02 Lab,07886,0,TU11.10-12.50,DAGG 1,Aug 23--Dec 10,""
-LND_ARCH,210,Digital Analysis and Representation,03 Lab,07887,0,TH9.10-10.50,DAGG 1,Aug 23--Dec 10,""
-LND_ARCH,210,Digital Analysis and Representation,04 Lab,07888,0,TH11.10-12.50,DAGG 1,Aug 23--Dec 10,""
-LND_ARCH,262,Landscape Architectural Design I,01,06993,4,"M,W,F13.10-16",CARP 420,Aug 23--Dec 10,""
-LND_ARCH,262,Landscape Architectural Design I,02,07525,4,"M,W,F13.10-16",CARP 420,Aug 23--Dec 10,""
-LND_ARCH,327,Theory in Landscape Architecture,01,03924,3,"TU,TH10.35-11.50",TODD 304,Aug 23--Dec 10,""
-LND_ARCH,362,Landscape Architectural Design III,01,06776,4,"M,W13.10-16",CARP 420,Aug 23--Dec 10,""
-LND_ARCH,362,Landscape Architectural Design III,02,07890,4,"M,W13.10-16",CARP 420,Aug 23--Dec 10,""
-LND_ARCH,366,Landscape Architectural Construction II,01,03925,4,"TU,TH13.30-14.45",CARP 312,Aug 23--Dec 10,""
-LND_ARCH,366,Landscape Architectural Construction II,01 Lab,03926,0,"TU,TH14.55-17.05",CARP 312,Aug 23--Dec 10,""
-LND_ARCH,470,Landscape Architectural Design V,01,03927,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-LND_ARCH,470,Landscape Architectural Design V,02,17537,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-LND_ARCH,470,Landscape Architectural Design V,01 Lab,03928,0,"TU,TH13.30-17",CARP 201,Aug 23--Dec 10,""
-LND_ARCH,470,Landscape Architectural Design V,02 Lab,17533,0,"TU,TH13.30-17",CARP 201,Aug 23--Dec 10,""
-LND_ARCH,490,Cooperative Education Internship,01,06353,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
+LND_ARCH,150,[HUM] Landscapes of the Palouse,01,08055,3,"TU,TH12.05-13.20",CUE 409,Aug 23--Dec 10,J Kaytes
+LND_ARCH,210,Digital Analysis and Representation,01,06940,3,"TU,TH7.45-9",WEB ARR,Aug 23--Dec 10,M Mansoori
+LND_ARCH,210,Digital Analysis and Representation,01 Lab,06941,0,TU9.10-10.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+LND_ARCH,210,Digital Analysis and Representation,02 Lab,07886,0,TU11.10-12.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+LND_ARCH,210,Digital Analysis and Representation,03 Lab,07887,0,TH9.10-10.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+LND_ARCH,210,Digital Analysis and Representation,04 Lab,07888,0,TH11.10-12.50,DAGG 1,Aug 23--Dec 10,M Mansoori
+LND_ARCH,262,Landscape Architectural Design I,01,06993,4,"M,W,F13.10-16",CARP 420,Aug 23--Dec 10,S Austin
+LND_ARCH,262,Landscape Architectural Design I,02,07525,4,"M,W,F13.10-16",CARP 420,Aug 23--Dec 10,K Kraszewski
+LND_ARCH,327,Theory in Landscape Architecture,01,03924,3,"TU,TH10.35-11.50",TODD 304,Aug 23--Dec 10,S Austin
+LND_ARCH,362,Landscape Architectural Design III,01,06776,4,"M,W13.10-16",CARP 420,Aug 23--Dec 10,M Mansoori
+LND_ARCH,362,Landscape Architectural Design III,02,07890,4,"M,W13.10-16",CARP 420,Aug 23--Dec 10,M Sanchez
+LND_ARCH,366,Landscape Architectural Construction II,01,03925,4,"TU,TH13.30-14.45",CARP 312,Aug 23--Dec 10,D Drake
+LND_ARCH,366,Landscape Architectural Construction II,01 Lab,03926,0,"TU,TH14.55-17.05",CARP 312,Aug 23--Dec 10,D Drake
+LND_ARCH,470,Landscape Architectural Design V,01,03927,4,ARRGT,ARR ARR,Aug 23--Dec 10,K Kraszewski
+LND_ARCH,470,Landscape Architectural Design V,02,17537,4,ARRGT,ARR ARR,Aug 23--Dec 10,K Kraszewski
+LND_ARCH,470,Landscape Architectural Design V,01 Lab,03928,0,"TU,TH13.30-17",CARP 201,Aug 23--Dec 10,K Kraszewski
+LND_ARCH,470,Landscape Architectural Design V,02 Lab,17533,0,"TU,TH13.30-17",CARP 201,Aug 23--Dec 10,K Kraszewski
+LND_ARCH,490,Cooperative Education Internship,01,06353,4,ARRGT,ARR ARR,Aug 23--Dec 10,J Kaytes
 LND_ARCH,499,Special Problems,01,03929,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,100,Basic Mathematics,01,01338,2,"M,W8.10-9",THOM 1,Aug 23--Dec 10,B Hellwig
 MATH,100,Basic Mathematics,02,01339,2,"M,W9.10-10",THOM 1,Aug 23--Dec 10,B Hellwig
@@ -2923,7 +2926,7 @@ MATH,201,Mathematics for Business and Economics,01,01332,3,"M,W,F9.10-10",TODD 4
 MATH,201,Mathematics for Business and Economics,02,01333,3,"M,W,F13.10-14",TODD 334,Aug 23--Dec 10,A Panchenko
 MATH,201,Mathematics for Business and Economics,03,01334,3,"M,W,F14.10-15",TODD 230,Aug 23--Dec 10,D Zhang
 MATH,201,Mathematics for Business and Economics,04,01335,3,"M,W,F11.10-12",FNA 5062,Aug 23--Dec 10,J Dickson
-MATH,201,Mathematics for Business and Economics,05,01336,3,"M,W,F10.10-11",WEBS 16,Aug 23--Dec 10,D Zhang
+MATH,201,Mathematics for Business and Economics,05,01336,3,"M,W,F10.10-11",FULM 201,Aug 23--Dec 10,D Zhang
 MATH,202,[QUAN] Calculus for Business and Economics,01,01389,3,"M,W,F9.10-10",FULM 201,Aug 23--Dec 10,C Sakabe
 MATH,202,[QUAN] Calculus for Business and Economics,02,01390,3,"M,W,F14.10-15",FULM 201,Aug 23--Dec 10,E Remaley
 MATH,202,[QUAN] Calculus for Business and Economics,03,01391,3,"M,W,F13.10-14",WEGN G0050,Aug 23--Dec 10,E Remaley
@@ -3148,7 +3151,7 @@ ME,406,[M] Experimental Design,01 Lab,03645,0,"TU,TH7.45-10.25",ETRL 1,Aug 23--D
 ME,406,[M] Experimental Design,02 Lab,03646,0,"TU,TH13.30-16.20",ETRL 1,Aug 23--Dec 10,D Mclarty
 ME,413,Mechanical Behavior of Materials,01,04484,3,"M,W,F11.10-12",SPRK 333,Aug 23--Dec 10,S Beckman
 ME,415,[M] Engineering Design,01,06482,3,"M,W,F10.10-11",SLOA 169,Aug 23--Dec 10,N Biswas
-ME,415,[M] Engineering Design,02,05927,3,"M,W,F13.10-14",MURR 307,Aug 23--Dec 10,N Biswas
+ME,415,[M] Engineering Design,02,05927,3,"M,W,F13.10-14",EME 154,Aug 23--Dec 10,N Biswas
 ME,416,[CAPS] Mechanical Systems Design,01,03648,3,M13.10-14,FULM 201,Aug 23--Dec 10,C Pezeshki
 ME,416,[CAPS] Mechanical Systems Design,01 Lab,03650,0,"TU,TH7.45-10.25",SLOA 169,Aug 23--Dec 10,C Pezeshki
 ME,416,[CAPS] Mechanical Systems Design,02 Lab,03649,0,"TU,TH13.30-16.20",HLD G0003,Aug 23--Dec 10,""
@@ -3310,7 +3313,7 @@ MUS,102,Piano,01,04143,2,"M,W,F17.10-18",KIMB 452,Aug 23--Dec 10,F Menchetti
 MUS,103,Voice,01,04144,2,"M,W12.10-13",KIMB 346,Aug 23--Dec 10,K Ray
 MUS,120,[ARTS] Class Guitar,01,04145,3,"M,W,F10.10-11",KIMB 115,Aug 23--Dec 10,""
 MUS,120,[ARTS] Class Guitar,02,05689,3,"M,W,F11.10-12",KIMB 115,Aug 23--Dec 10,""
-MUS,151,Music Fundamentals I,01,06011,3,"M,W,F8.10-9",KIMB 346,Aug 23--Dec 10,J Svendsen
+MUS,151,Music Fundamentals I,01,06011,3,"M,W,F8.10-9",KIMB 346,Aug 23--Dec 10,C Rodrigues
 MUS,153,[ARTS] Musical Style in Composition,02,02954,3,"TU,TH14.55-16.10",KIMB 101,Aug 23--Dec 10,D Snider
 MUS,160,[ARTS] Survey of Music Literature,01,04146,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mccarthy
 MUS,160,[ARTS] Survey of Music Literature,02,04147,3,"M,W,F10.10-11",KIMB 346,Aug 23--Dec 10,D Snider
@@ -3331,8 +3334,8 @@ MUS,206,Trombone,01,04156,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,S Miller
 MUS,207,Euphonium,01,04157,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Dickey
 MUS,208,Tuba,01,04158,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Dickey
 MUS,209,Percussion,01,04159,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Wilson
-MUS,210,Violin,01,04160,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,D Luethi
-MUS,211,Viola,01,04161,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,D Luethi
+MUS,210,Violin,01,04160,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Rodrigues
+MUS,211,Viola,01,04161,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Rodrigues
 MUS,212,Violoncello,01,04162,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,R Boden
 MUS,213,Contrabass,01,"",2,TU11-11.50,KIMB 110,Aug 23--Dec 10,R Boden
 MUS,213,Contrabass,02,06521,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,""
@@ -3343,16 +3346,16 @@ MUS,217,Bassoon,01,04166,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,J Wilson
 MUS,218,Saxophone,02,06510,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,H Young
 MUS,220,Guitar,02,06522,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,""
 MUS,251,Materials and Structures of Music I,01,04167,3,"M,W,F8.10-9",KIMB 245,Aug 23--Dec 10,R Boden
-MUS,252,Applied Theory I,01,04168,1,"TU,TH8-8.50",KIMB 245,Aug 23--Dec 10,Y Roh
+MUS,252,Applied Theory I,01,04168,1,"TU,TH8-8.50",KIMB 245,Aug 23--Dec 10,C Rodrigues
 MUS,252,Applied Theory I,02,04169,1,"TU,TH8-8.50",KIMB 452,Aug 23--Dec 10,J Wilson
 MUS,256,Seminar in Composition,01,04171,2,F11.10-12,KIMB 346,Aug 23--Dec 10,S Blasco
 MUS,262,[ARTS] Rock Music: History and Social Analysis,01,04172,3,"M,W,F11.10-12",KIMB 110,Aug 23--Dec 10,A Miller
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,04173,3,"M,W,F10.10-11",KIMB 110,Aug 23--Dec 10,A Miller
-MUS,262,[ARTS] Rock Music: History and Social Analysis,03,04174,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Miller
-MUS,262,[ARTS] Rock Music: History and Social Analysis,04,05681,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Miller
+MUS,262,[ARTS] Rock Music: History and Social Analysis,03,04174,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Myers
+MUS,262,[ARTS] Rock Music: History and Social Analysis,04,05681,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Svendsen
 MUS,265,[HUM] Native Music of North America,01,04175,3,"M,W,F14.10-15",KIMB 346,Aug 23--Dec 10,M Parkhurst
 MUS,265,[HUM] Native Music of North America,02,05690,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Parkhurst
-MUS,266,[ARTS] Film Music,01,06424,3,"M,W,F14.10-15",KIMB 101,Aug 23--Dec 10,A Miller
+MUS,266,[ARTS] Film Music,01,06424,3,"M,W,F14.10-15",KIMB 101,Aug 23--Dec 10,D Snider
 MUS,266,[ARTS] Film Music,02,08007,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
 MUS,281,Class Piano III,01,04177,1,"M,W,F11.10-12",KIMB 452,Aug 23--Dec 10,F Menchetti
 MUS,302,Piano,01,"",V,TU11-11.50,KIMB 110,Aug 23--Dec 10,F Menchetti
@@ -3367,8 +3370,8 @@ MUS,306,Trombone,01,04181,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,S Miller
 MUS,307,Euphonium,01,04182,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Dickey
 MUS,308,Tuba,01,04183,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Dickey
 MUS,309,Percussion,01,04184,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Wilson
-MUS,310,Violin,01,04185,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,D Luethi
-MUS,311,Viola,01,04186,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,D Luethi
+MUS,310,Violin,01,04185,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Rodrigues
+MUS,311,Viola,01,04186,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Rodrigues
 MUS,312,Violoncello,01,04187,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,R Boden
 MUS,313,Contrabass,01,"",V,TU11-11.50,KIMB 110,Aug 23--Dec 10,R Boden
 MUS,313,Contrabass,02,"",V,TU11-11.50,KIMB 110,Aug 23--Dec 10,""
@@ -3395,9 +3398,9 @@ MUS,351,Materials and Structures of Music III,01,04193,3,"M,W,F9.10-10",KIMB 245
 MUS,352,Applied Theory III,01,04194,1,"TU,TH9-9.50",KIMB 245,Aug 23--Dec 10,J Wilson
 MUS,352,Applied Theory III,02,04195,1,"TU,TH9-9.50",KIMB 346,Aug 23--Dec 10,D Turnbull
 MUS,360,[HUM] [M] History of Music: 1650 - 1850,01,04196,3,"M,W,F10.10-11",KIMB 245,Aug 23--Dec 10,S Scott
-MUS,362,[DIVR] History of Jazz,01,04197,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Miller
+MUS,362,[DIVR] History of Jazz,01,04197,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MUS,362,[DIVR] History of Jazz,02,04198,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Miller
-MUS,362,[DIVR] History of Jazz,03,04199,3,"M,W,F12.10-13",KIMB 101,Aug 23--Dec 10,J Svendsen
+MUS,362,[DIVR] History of Jazz,03,04199,3,"M,W,F12.10-13",KIMB 101,Aug 23--Dec 10,H Young
 MUS,363,[DIVR] Women in Music,01,04200,3,"M,W,F15.10-16",KIMB 346,Aug 23--Dec 10,M Parkhurst
 MUS,363,[DIVR] Women in Music,02,06496,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
 MUS,364,Audio Engineering I,01,06846,3,"M,W,F14.10-15",KIMB 452,Aug 23--Dec 10,D Bjur
@@ -3413,8 +3416,8 @@ MUS,406,Trombone,01,04205,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,S Miller
 MUS,407,Euphonium,01,04206,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Dickey
 MUS,408,Tuba,01,04207,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Dickey
 MUS,409,Percussion,01,04208,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Wilson
-MUS,410,Violin,01,04209,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,D Luethi
-MUS,411,Viola,01,04210,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,D Luethi
+MUS,410,Violin,01,04209,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Rodrigues
+MUS,411,Viola,01,04210,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Rodrigues
 MUS,412,Violoncello,01,04211,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,R Boden
 MUS,413,Contrabass,01,06516,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,R Boden
 MUS,413,Contrabass,02,07461,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,""
@@ -3426,7 +3429,7 @@ MUS,418,Saxophone,01,"",V,TU11-11.50,KIMB 110,Aug 23--Dec 10,H Young
 MUS,420,Guitar,01,06513,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,""
 MUS,428,[ARTS] Opera Workshop,01,07459,1,"M,W15.10-17",KIMB 115,Aug 23--Dec 10,J Wieck
 MUS,431,[ARTS] Concert Choir,01,04216,1,"M,TU,W,TH14.10-15",KIMB B0042,Aug 23--Dec 10,D Luethi
-MUS,432,[ARTS] University Singers,01,08182,1,"M,W,F13.10-14",KIMB 115,Aug 23--Dec 10,D Luethi
+MUS,432,[ARTS] University Singers,01,08182,1,"M,W,F13.10-14",KIMB 115,Aug 23--Dec 10,M Myers
 MUS,434,[ARTS] Symphony Orchestra,01,04219,1,"TU,TH15.10-17",KIMB B0048,Aug 23--Dec 10,D Pham
 MUS,435,Chamber Ensembles,01,04221,1,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
 MUS,435,Chamber Ensembles,02,07280,1,ARRGT,ARR ARR,Aug 23--Dec 10,C Wilson
@@ -3444,10 +3447,10 @@ MUS,436,[ARTS] Symphonic Band,01,04223,1,"M,W,F14.10-15",KIMB B0048,Aug 23--Dec 
 MUS,437,[ARTS] Symphonic Wind Ensemble,01,04224,1,"M,W15.10-17",KIMB B0048,Aug 23--Dec 10,D Pham
 MUS,438,[ARTS] Jazz-Lab Band,01,04226,1,"M,TU,W,TH12.10-13",KIMB B0048,Aug 23--Dec 10,G Yasinitsky
 MUS,438,[ARTS] Jazz-Lab Band,02,04228,1,"M,W,F13.10-14",KIMB B0048,Aug 23--Dec 10,G Yasinitsky
-MUS,440,Jazz Combos,01,04230,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MUS,440,Jazz Combos,01,04230,1,ARRGT,ARR ARR,Aug 23--Dec 10,J Svendsen
 MUS,441,Accompanying,01,04232,1,"M,W,F13.10-14",KIMB 348,Aug 23--Dec 10,Y Roh
 MUS,444,Marching Band/Varsity Band,01,04234,1,TU17-19,KIMB 115,Aug 23--Dec 10,T Bennefield
-MUS,444,Marching Band/Varsity Band,02,06721,1,"TU,TH17-19.50",ARR ARR,Aug 23--Dec 10,""
+MUS,444,Marching Band/Varsity Band,02,06721,1,"TU,TH17-19.50",ARR ARR,Aug 23--Dec 10,C Wilson
 MUS,455,Seminar in Instrumentation,01,04235,2,"TU,TH13.10-14",ARR ARR,Aug 23--Dec 10,G Yasinitsky
 MUS,456,Seminar in Advanced Composition,01,04236,4,ARRGT,ARR ARR,Aug 23--Dec 10,S Blasco
 MUS,458,Advanced Jazz Improvisation,01,07568,2,"TU,TH13.10-14",KIMB 348,Aug 23--Dec 10,J Svendsen
@@ -3474,8 +3477,8 @@ MUS,506,Trombone,01,04251,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,S Miller
 MUS,507,Euphonium,01,04252,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Dickey
 MUS,508,Tuba,01,04253,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Dickey
 MUS,509,Percussion,01,04254,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Wilson
-MUS,510,Violin,01,04255,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,D Luethi
-MUS,511,Viola,01,04256,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,D Luethi
+MUS,510,Violin,01,04255,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Rodrigues
+MUS,511,Viola,01,04256,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Rodrigues
 MUS,512,Violoncello,01,04257,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,R Boden
 MUS,513,Contrabass,01,04258,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,R Boden
 MUS,513,Contrabass,02,17362,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,""
@@ -3506,7 +3509,7 @@ MUS,535,Chamber Ensembles,12,07623,1,ARRGT,ARR ARR,Aug 23--Dec 10,D Luethi
 MUS,537,[ARTS] Symphonic Wind Ensemble,01,04225,1,"M,W15.10-17",KIMB B0048,Aug 23--Dec 10,D Pham
 MUS,538,[ARTS] Jazz-Lab Band,01,04227,1,"M,TU,W,TH12.10-13",KIMB B0048,Aug 23--Dec 10,G Yasinitsky
 MUS,538,[ARTS] Jazz-Lab Band,02,04229,1,"M,W,F13.10-14",KIMB B0048,Aug 23--Dec 10,G Yasinitsky
-MUS,540,Jazz Combos,01,04231,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MUS,540,Jazz Combos,01,04231,1,ARRGT,ARR ARR,Aug 23--Dec 10,J Svendsen
 MUS,541,Accompanying,01,04233,1,"M,W,F13.10-14",KIMB 348,Aug 23--Dec 10,Y Roh
 MUS,553,Seminar in Music Theory,01,04265,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Blasco
 MUS,556,Graduate Seminar in Advanced Composition,01,04266,V,F11.10-12,KIMB 346,Aug 23--Dec 10,S Blasco
@@ -3898,13 +3901,13 @@ PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",18,01847,V,ARRGT
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",19,01848,V,ARRGT,ARR ARR,Aug 23--Dec 10,P Strand
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",21,01861,V,ARRGT,ARR ARR,Aug 23--Dec 10,P Whitney
 SCIENCE,210,Your Future in Life Sciences,01,08017,2,"W,F9.10-10",TODD 430,Aug 23--Dec 10,P Verrell
-SDC,100,[ARTS] World of Design and Construction,01,04951,3,"TU,TH12.05-13.20",SPRK G0045,Aug 23--Dec 10,""
-SDC,100,[ARTS] World of Design and Construction,02,"",3,"TU,TH12.05-13.20",SPRK G0045,Aug 23--Dec 10,""
-SDC,120,Foundational Drawing,01,04953,3,"W,F9.10-11.40",DAGG 1A,Aug 23--Dec 10,""
-SDC,120,Foundational Drawing,02,04954,3,"TU,TH9.10-11.40",DAGG 1A,Aug 23--Dec 10,""
-SDC,120,Foundational Drawing,03,04955,3,"TU,TH13.30-16",DAGG 1A,Aug 23--Dec 10,""
-SDC,120,Foundational Drawing,04,06345,3,"W,F13.10-15.40",DAGG 1A,Aug 23--Dec 10,""
-SDC,250,Global History of Design I,01,04956,3,"TU,TH13.30-14.45",GTZN 21,Aug 23--Dec 10,""
+SDC,100,[ARTS] World of Design and Construction,01,04951,3,"TU,TH12.05-13.20",SPRK G0045,Aug 23--Dec 10,G Kraszewski
+SDC,100,[ARTS] World of Design and Construction,02,"",3,"TU,TH12.05-13.20",SPRK G0045,Aug 23--Dec 10,G Kraszewski
+SDC,120,Foundational Drawing,01,04953,3,"W,F9.10-11.40",DAGG 1A,Aug 23--Dec 10,M Sanchez
+SDC,120,Foundational Drawing,02,04954,3,"TU,TH9.10-11.40",DAGG 1A,Aug 23--Dec 10,L Peck
+SDC,120,Foundational Drawing,03,04955,3,"TU,TH13.30-16",DAGG 1A,Aug 23--Dec 10,L Peck
+SDC,120,Foundational Drawing,04,06345,3,"W,F13.10-15.40",DAGG 1A,Aug 23--Dec 10,T Miyasaka
+SDC,250,Global History of Design I,01,04956,3,"TU,TH13.30-14.45",GTZN 21,Aug 23--Dec 10,C Vielle
 SDC,300,Fabrication Lab Practice,01,06060,1,TH13.30-15.20,DAGG 253,Sep 02--Sep 23,D Drake
 SDC,300,Fabrication Lab Practice,02,06079,1,F13.30-15.20,DAGG 253,Sep 03--Sep 24,D Drake
 SDC,300,Fabrication Lab Practice,03,06678,1,TH13.30-15.20,DAGG 253,Sep 30--Oct 21,D Drake
@@ -3990,8 +3993,8 @@ SOC,700,"Master's Research, Thesis, and/or Examination",01,04775,V,ARRGT,"",Aug 
 SOC,800,"Doctoral Research, Dissertation, and/or Examination",01,04777,V,ARRGT,"",Aug 23--Dec 10,(multiple)
 SOE,100,"An Introduction to Our Environment: Geology, Ecology, and Environmental Stewardship",01,06843,1,M12.10-13,SPRK 227,Aug 23--Dec 10,A King
 SOE,100,"An Introduction to Our Environment: Geology, Ecology, and Environmental Stewardship",02,07054,1,M15.10-16,SPRK 227,Aug 23--Dec 10,A King
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02,04576,4,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,J Menard
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,03,04577,4,"M,W,F13.10-14",WEB ARR,Aug 23--Dec 10,J Menard
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02,04576,4,"M,W,F10.10-11",WEBS 16,Aug 23--Dec 10,J Menard
+SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,03,04577,4,"M,W,F13.10-14",WEBS 16,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,05,04579,4,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,04580,0,TU9.10-12,WEBS 134,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02 Lab,04581,0,TU9.10-12,WEBS 138,Aug 23--Dec 10,J Menard
@@ -4020,7 +4023,7 @@ SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,26 Lab,04605,0,T
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,29 Lab,04608,0,TH15.10-18,WEBS 134,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,30 Lab,04609,0,TH15.10-18,WEBS 138,Aug 23--Dec 10,J Menard
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,31 Lab,04610,0,TH15.10-18,WEBS 146,Aug 23--Dec 10,J Menard
-SOE,102,Geology for Science Majors,01,05668,4,"TU,TH7.45-9",WEB ARR,Aug 23--Dec 10,J Menard
+SOE,102,Geology for Science Majors,01,05668,4,"TU,TH7.45-9",CUE 202,Aug 23--Dec 10,J Menard
 SOE,102,Geology for Science Majors,01 Lab,05669,0,TU12.10-15,WEBS 147,Aug 23--Dec 10,J Menard
 SOE,102,Geology for Science Majors,02 Lab,05670,0,W15.10-18,WEBS 147,Aug 23--Dec 10,J Menard
 SOE,102,Geology for Science Majors,03 Lab,06933,0,W18.10-21,WEBS 147,Aug 23--Dec 10,J Menard
@@ -4032,11 +4035,11 @@ SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",05 Lab,04410,0,
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",06 Lab,04411,0,TU12.10-14.45,FULM 206,Aug 23--Dec 10,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",07 Lab,04412,0,TH12.10-14.45,FLMA 223,Aug 23--Dec 10,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",13 Lab,04420,0,TU9.10-11.45,FLMA 223,Aug 23--Dec 10,K Whitman
-SOE,204,Field Methods for Careers in the Natural Sciences,01,04462,4,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,A Stahl
+SOE,204,Field Methods for Careers in the Natural Sciences,01,04462,4,"M,W,F12.10-13",JSNH C0105,Aug 23--Dec 10,A Stahl
 SOE,204,Field Methods for Careers in the Natural Sciences,01 Lab,04463,0,TU13.30-16.20,STEF ARR,Aug 23--Dec 10,A Stahl
 SOE,204,Field Methods for Careers in the Natural Sciences,02 Lab,04464,0,M14.10-17,STEF ARR,Aug 23--Dec 10,A Stahl
 SOE,204,Field Methods for Careers in the Natural Sciences,03 Lab,07164,0,TH13.30-16.20,STEF ARR,Aug 23--Dec 10,A Stahl
-SOE,210,[PSCI] Earth's History and Evolution,01,04612,4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,C Cooper
+SOE,210,[PSCI] Earth's History and Evolution,01,04612,4,"M,W,F9.10-10",KIMB 101,Aug 23--Dec 10,C Cooper
 SOE,210,[PSCI] Earth's History and Evolution,01 Lab,04614,0,M13.10-16,WEBS 1126,Aug 23--Dec 10,C Cooper
 SOE,210,[PSCI] Earth's History and Evolution,02 Lab,04615,0,TU14.55-17.45,WEBS 1126,Aug 23--Dec 10,C Cooper
 SOE,210,[PSCI] Earth's History and Evolution,03 Lab,06143,0,W17.10-20,WEBS 1126,Aug 23--Dec 10,C Cooper
@@ -4045,7 +4048,7 @@ SOE,230,[PSCI] Introductory Oceanography,01,04617,3,"M,W,F10.10-11",CUE 203,Aug 
 SOE,275,"Rivers: Form, Function, and Management",01,07737,3,"TU,TH13.30-14.45",WEBS B0012,Aug 23--Dec 10,A Fremier
 SOE,285,The Science and Policy of Climate Change,01,07917,3,ARRGT,"",Aug 23--Dec 10,K Whitman
 SOE,300,Natural Resource Ecology,01,04465,3,"M,W,F10.10-11",FSHN T0101,Aug 23--Dec 10,W Schlosser
-SOE,301,Forest Plants and Ecosystems,01,04466,3,"M,W13.10-14",WEB ARR,Aug 23--Dec 10,H Adams
+SOE,301,Forest Plants and Ecosystems,01,04466,3,"M,W13.10-14",TODD 230,Aug 23--Dec 10,H Adams
 SOE,301,Forest Plants and Ecosystems,01 Lab,04467,0,TU13.30-15.30,TROY G0007,Aug 23--Dec 10,H Adams
 SOE,301,Forest Plants and Ecosystems,02 Lab,04468,0,TH13.30-15.30,TROY G0007,Aug 23--Dec 10,H Adams
 SOE,301,Forest Plants and Ecosystems,03 Lab,04469,0,F14.10-16.10,TROY G0007,Aug 23--Dec 10,H Adams

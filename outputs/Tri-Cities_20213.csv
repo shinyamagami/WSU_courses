@@ -151,12 +151,12 @@ DTC,335,3D Digital Animation,01 Lab,09457,0,"M,W15.10-16",TFLO 235,Aug 23--Dec 1
 DTC,336,Multimedia Design,01,08786,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,P Mudd
 DTC,354,[ARTS] [M] [M[ Digital Storytelling,01,09430,3,"M,W11.10-12",GUC TRI,Aug 23--Dec 10,M Brown
 DTC,354,[ARTS] [M] [M[ Digital Storytelling,"","","",F11.10-12,WEB ARR,"",""
-DTC,355,[M] Multimedia Authoring,02,09222,3,"M,W,F10.10-11",VC TRI,Aug 23--Dec 10,T De Vries
-DTC,355,[M] Multimedia Authoring,03,17937,3,"M,W,F12.10-13",VC TRI,Aug 23--Dec 10,T De Vries
+DTC,355,[M] Multimedia Authoring,02,09222,3,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,T De Vries
+DTC,355,[M] Multimedia Authoring,03,17937,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,T De Vries
 DTC,375,"[M] Language, Texts and Technology",01,08829,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,V Cozza
 DTC,475,[DIVR] Digital Diversity,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 DTC,477,Advanced Multimedia Authoring,01,"",3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,T De Vries
-DTC,497,[CAPS] Senior Seminar,01,09543,3,"TU,TH12.05-13.20",VC TRI,Aug 23--Dec 10,R Gregory
+DTC,497,[CAPS] Senior Seminar,01,09543,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,R Gregory
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Plemons
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Plemons
 E_E,214,Design of Logic Circuits,01,08521,4,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,M Engels
@@ -187,10 +187,10 @@ E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,08537,V,ARRGT,A
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,08579,3,"TU,TH9.10-10.25",GUC TRI,Aug 23--Dec 10,J Timmons
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,08718,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,J Timmons
 ED_AD,501,Philosophy of Education,01,"",3,W17.45-20.30,VC TRI,Aug 23--Dec 10,S Finley
-ED_AD,507,Social Foundations of Education,02,09427,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Calderone
+ED_AD,507,Social Foundations of Education,02,09427,3,TH17.45-20.30,GUC TRI,Aug 23--Dec 10,S Calderone
 ED_AD,512,Leadership Studies for Social Justice,01,"",3,TU17.45-20.30,VC TRI,Aug 23--Dec 10,K Rodela
 ED_AD,516,Instructional and Curricular Leadership,01,08692,V,M17.45-20.30,GUC TRI,Aug 23--Dec 10,K Cowin
-ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,VC TRI,Aug 23--Dec 10,J Walls
+ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,J Walls
 ED_AD,589,Leadership Development Seminar,01,08691,3,W17.45-20.30,GUC TRI,Aug 23--Dec 10,K Cowin
 ED_AD,590,Internship,01,"",V,SA9-14,GUC TRI,Sep 18--Sep 18,K Cowin
 ED_AD,590,Internship,"","","",SA9-14,GUC TRI,"",""
@@ -205,8 +205,6 @@ ED_PSYCH,401,"Classroom Assessment, Elementary",01,08742,V,W10.10-12.55,GUC TRI,
 ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,18066,3,W12.10-15,VC TRI,Aug 23--Dec 10,R Danielson
 ED_PSYCH,505,Research Methods I,01,09417,3,M17.45-20.30,VC TRI,Aug 23--Dec 10,H Liao
 ED_PSYCH,508,Educational Statistics,01,09416,3,TU17.45-20.30,VC TRI,Aug 23--Dec 10,H Liao
-ED_PSYCH,521,Topics in Educational Psychology,01,09764,3,TU12.10-15,VC TRI,Aug 23--Dec 10,K Carbonneau
-ED_PSYCH,521,Topics in Educational Psychology,02,18065,3,M17.45-20.30,VC TRI,Aug 23--Dec 10,R Danielson
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,09746,3,TU17.45-20.30,VC TRI,Aug 23--Dec 10,A Rud
 ED_RES,563,Principles of Research,01,"",3,W17.45-20.30,VC TRI,Aug 23--Dec 10,S Calderone
 ED_RES,564,Qualitative Research,01,09776,3,TU16.10-19,VC TRI,Aug 23--Dec 10,A Roth-Mcduffie
@@ -786,9 +784,7 @@ TCH_LRN,352,Teaching Elementary Mathematics,01,08611,3,M17.45-20.30,WEB ARR,Aug 
 TCH_LRN,371,Teaching Elementary Science,01,08612,3,TH17.15-20,GUC TRI,Aug 23--Dec 10,J Firestone
 TCH_LRN,385,Teaching Elementary Social Studies,01,08613,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Lehmann
 TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,01,08465,3,TU9.10-11.55,GUC TRI,Aug 23--Dec 10,Y Cooper
-TCH_LRN,402,Instructional Practicum I,01,08686,V,F10.10-11.10,GUC TRI,Aug 23--Dec 10,""
-TCH_LRN,402,Instructional Practicum I,"","","",F10.10-12.10,GUC TRI,"",""
-TCH_LRN,402,Instructional Practicum I,02,08765,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Morrison
+TCH_LRN,402,Instructional Practicum I,01,08686,V,F10.10-12.10,GUC TRI,Aug 23--Dec 10,J Morrison
 TCH_LRN,405,Instructional Practicum II,01,08704,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Morrison
 TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,01,08466,3,TU17.15-20,GUC TRI,Aug 23--Dec 10,A Johnson
 TCH_LRN,410,Theoretical Foundations of Bilingual/ESL Education,01,"",3,TU17.45-20.30,VC TRI,Aug 23--Dec 10,E Johnson
@@ -800,7 +796,7 @@ TCH_LRN,433,Middle Level Mathematics Methods,01,08782,3,M16.45-19.30,VC TRI,Aug 
 TCH_LRN,434,Conceptualization of Proportional Thinking,01,08469,3,TH16.15-19,VC TRI,Aug 23--Dec 10,K Lesseig
 TCH_LRN,483,Integrating Health and Fitness into K-8 Curriculum,01,08616,3,TU14.10-16.55,GUC TRI,Aug 23--Dec 10,M Moscatelli
 TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,01,08617,3,M16.10-17.40,GUC TRI,Aug 23--Dec 10,M Moscatelli
-TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,02,08852,3,M16.10-17.40,GUC TRI,Aug 23--Dec 10,""
+TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,02,08852,3,M16.10-17.40,GUC TRI,Aug 23--Dec 10,J Morrison
 TCH_LRN,497,Topics in In-Service Education,02,09387,V,F17-19,GUC TRI,Aug 23--Dec 10,A Johnson
 TCH_LRN,499,Special Problems,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,01,08430,3,TU17.45-20.30,VC TRI,Aug 23--Dec 10,E Johnson

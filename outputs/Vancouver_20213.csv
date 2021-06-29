@@ -154,13 +154,13 @@ CS,415,Big Data,02,"",3,"TU,TH7.45-9",WEB ARR,Aug 23--Dec 10,J Yu
 CS,420,[CAPS] Software Design Project I,01,12749,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,X Zhao
 CS,425,Digital Forensics,01,13237,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,A Wisniewska
 CS,426,Applied Systems Security,01,12994,3,"TU,TH14.55-16.10",GUC VAN,Aug 23--Dec 10,P Bonamy
-CS,447,Computer Game Design,01,12750,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,S Wallace
+CS,447,Computer Game Design,01,12750,3,"M,W14.55-16.10",GUC VAN,Aug 23--Dec 10,S Wallace
 CS,450,Design and Analysis of Algorithms,01,12751,3,"M,W13.30-14.45",GUC VAN,Aug 23--Dec 10,M Bozorgi
 CS,453,Cloud Data Management,01,12752,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,X Zhang
 CS,454,Information Retrieval,01,13238,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,B Mccamish
 CS,483,Topics in Computer Science,01,12912,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,M Bozorgi
 CS,518,Advanced Analysis of Algorithms,01,13190,3,"M,W7.45-9",GUC VAN,Aug 23--Dec 10,M Bozorgi
-CS,547,Computer Game Design,01,13241,3,"TU,TH13.30-14.45",GUC VAN,Aug 23--Dec 10,S Wallace
+CS,547,Computer Game Design,01,13241,3,"M,W14.55-16.10",GUC VAN,Aug 23--Dec 10,S Wallace
 CS,565,File and Storage Systems,01,12995,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,X Zhang
 CS,700,"Master's Research, Thesis, and/or Examination",01,12754,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 DATA,115,Introduction to Data Analytics,02,12976,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,D Deford
@@ -390,9 +390,9 @@ MATH,103,Algebra Methods and Introduction to Functions,01,12545,3,"M,W9.10-10.25
 MATH,103,Algebra Methods and Introduction to Functions,02,12546,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,P Krouss
 MATH,103,Algebra Methods and Introduction to Functions,03,12891,3,"TU,TH9.10-10.25",GUC VAN,Aug 23--Dec 10,P Krouss
 MATH,103,Algebra Methods and Introduction to Functions,04,12984,3,"TU,TH10.35-11.50",GUC VAN,Aug 23--Dec 10,P Krouss
-MATH,106,College Algebra,01,12547,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,D Hill
-MATH,106,College Algebra,02,12548,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,D Hill
-MATH,106,College Algebra,03,12549,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,D Hill
+MATH,106,College Algebra,01,12547,3,"M,W9.10-10.25",GUC VAN,Aug 23--Dec 10,""
+MATH,106,College Algebra,02,12548,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,""
+MATH,106,College Algebra,03,12549,3,"M,W12.05-13.20",GUC VAN,Aug 23--Dec 10,""
 MATH,108,Trigonometry,01,12695,2,"TU,TH12.05-12.55",GUC VAN,Aug 23--Dec 10,S Black
 MATH,108,Trigonometry,02,12696,2,"M,W12.05-12.55",GUC VAN,Aug 23--Dec 10,S Black
 MATH,110,Mathematics Acceleration,01,12697,1,ARRGT,ARR ARR,Aug 23--Dec 10,G Salos
@@ -412,8 +412,8 @@ MATH,172,Calculus II,02 Lab,12718,0,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,""
 MATH,201,Mathematics for Business and Economics,01,12550,3,"M,W10.35-11.50",GUC VAN,Aug 23--Dec 10,J Sung
 MATH,202,[QUAN] Calculus for Business and Economics,01,12551,3,"W,F10.35-11.50",GUC VAN,Aug 23--Dec 10,O Rumyantseva
 MATH,216,Discrete Structures,02,13768,3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,""
-MATH,220,Introductory Linear Algebra,01,12698,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,D Hill
-MATH,220,Introductory Linear Algebra,02,12699,2,"TU,TH14.55-15.45",GUC VAN,Aug 23--Dec 10,D Hill
+MATH,220,Introductory Linear Algebra,01,12698,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,""
+MATH,220,Introductory Linear Algebra,02,12699,2,"TU,TH14.55-15.45",GUC VAN,Aug 23--Dec 10,""
 MATH,251,Fundamentals of Elementary Mathematics I,01,12795,3,TU17.45-19.25,VUB 226,Aug 23--Dec 10,K Debower
 MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,12796,0,TH17.45-19.25,WEB ARR,Aug 23--Dec 10,""
 MATH,273,Calculus III,01,12700,2,"TU,TH10.35-11.25",GUC VAN,Aug 23--Dec 10,S Black
@@ -461,7 +461,7 @@ MECH,211,Statics,01,12755,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,H Rad
 MECH,251,Numerical Computing for Engineers,01,12779,2,"M,W10.35-11.25",GUC VAN,Aug 23--Dec 10,X Chen
 MECH,301,Thermodynamics,01,12756,3,"M,W14.55-16.10",GUC VAN,Aug 23--Dec 10,H Tan
 MECH,303,Fluid Mechanics,01,12757,3,"TU,TH12.05-13.20",GUC VAN,Aug 23--Dec 10,S Solovitz
-MECH,304,Introduction to Electronic Circuits,01,12780,3,"M,W16.20-17.35",GUC VAN,Aug 23--Dec 10,""
+MECH,304,Introduction to Electronic Circuits,01,12780,3,"TU,TH17.45-19",GUC VAN,Aug 23--Dec 10,""
 MECH,309,[M] Introduction of Engineering Materials,01,12781,3,"M,W12.05-12.55",GUC VAN,Aug 23--Dec 10,D Kim
 MECH,309,[M] Introduction of Engineering Materials,01 Lab,12782,0,TU7.45-10.15,VSCI 255,Aug 23--Dec 10,D Kim
 MECH,309,[M] Introduction of Engineering Materials,02 Lab,12783,0,W7.45-10.15,VSCI 255,Aug 23--Dec 10,D Kim
