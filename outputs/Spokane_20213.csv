@@ -1,6 +1,5 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 ANTH,350,"[DIVR] Speech, Thought, and Culture",01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Anderson
-BIOMED,550,Biochemistry for the Health Sciences,01,16608,3,"M,W8.10-9.25",ARR ARR,Aug 23--Dec 10,T Chauvin
 CRM_J,524,Advanced Topics in Quantitative Methods,01,17960,3,W14.10-17,SAC 45,Aug 23--Dec 10,D Willits
 CRM_J,800,"Doctoral Research, Dissertation, and/or Examination",01,17542,V,ARRGT,ARR ARR,Aug 23--Dec 10,F Lutze
 E_A,300,Educ Abroad,01,"",V,ARRGT,"",Aug 23--Dec 10,""
@@ -23,8 +22,10 @@ ED_AD,600,Special Projects or Independent Study,01,16504,V,ARRGT,ARR ARR,Aug 23-
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,16503,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Kruse
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,16499,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Lupinacci
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,16512,1,W16.30-17.30,SCRS 250,Aug 23--Dec 10,A Cavagnetto
+ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,16510,3,W12.10-15,VC SPK,Aug 23--Dec 10,R Danielson
 ED_PSYCH,505,Research Methods I,01,16509,3,M17.45-20.30,SAC 41,Aug 23--Dec 10,H Liao
 ED_PSYCH,508,Educational Statistics,01,16511,3,TU17.45-20.30,SAC 41,Aug 23--Dec 10,B Austin
+ED_PSYCH,521,Topics in Educational Psychology,01,16045,3,M17.45-20.30,WEB ARR,Aug 23--Dec 10,R Danielson
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,"",3,TU17.45-20.30,SAC 341,Aug 23--Dec 10,A Rud
 ED_RES,563,Principles of Research,01,"",3,W17.45-20.30,SAC 341,Aug 23--Dec 10,S Calderone
 ED_RES,564,Qualitative Research,01,16515,3,TU16.10-19,SAC 205,Aug 23--Dec 10,A Roth-Mcduffie
@@ -34,7 +35,7 @@ H_D,220,Human Development Theories,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,B Hernan
 H_D,307,Adolescence and Emerging Adulthood,01,16140,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,600,Special Projects or Independent Study,01,17191,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-HUMANITY,103,[HUM] Mythology,02,16214,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
+HUMANITY,103,[HUM] Mythology,02,16214,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Gowdy-Burke
 MBIOS,503,Advanced Molecular Biology I,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Her
 MBIOS,578,Bioinformatics,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
@@ -47,7 +48,6 @@ MED_CLIN,537,Emergency Medicine - Emergency Medicine,01,"",4,ARRGT,ARR ARR,Aug 2
 MED_CLIN,537,Emergency Medicine - Emergency Medicine,02,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,C Heine
 MED_CLIN,538,Core - Rural Medicine,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
 MED_CLIN,539,Core - Underserved Medicine,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
-MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Kaczmark
 MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,C Heine
 MED_CLIN,543,Clinical Rotation - Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,C Heine
@@ -108,75 +108,6 @@ MED_FMS,511,Foundations of Medical Science IV,01 Lab,16716,0,ARRGT,ARR ARR,Aug 2
 MED_LMH,511,Leadership and Management in Healthcare: Microsystem to Macrosystem,01,16717,1,ARRGT,ARR ARR,Aug 23--Nov 24,C Heine
 MED_LMH,531,Personal Leadership Development I,01,16861,1,ARRGT,ARR ARR,Aug 23--Nov 24,J Haney
 MUS,362,[DIVR] History of Jazz,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NEP,320,Strength Training and Conditioning; Theory and Application,01,16561,3,"M,W8.10-9",ARR ARR,Aug 23--Dec 10,J Larsen
-NEP,320,Strength Training and Conditioning; Theory and Application,01 Lab,16569,0,TU9.10-12,SHER 328,Aug 23--Dec 10,J Larsen
-NEP,320,Strength Training and Conditioning; Theory and Application,02 Lab,16570,0,TU13.10-16,SHER 328,Aug 23--Dec 10,J Larsen
-NEP,340,Essentials of Food Preparation for Health Sciences,01,16562,3,M13.10-15,ARR ARR,Aug 23--Dec 10,J Larsen
-NEP,340,Essentials of Food Preparation for Health Sciences,01 Lab,16571,0,F9.10-12,ARR ARR,Aug 23--Dec 10,J Larsen
-NEP,362,Biomechanical Analysis,01,16563,3,"TU,TH17.10-18.25",ARR ARR,Aug 23--Dec 10,M Mcmulkin
-NEP,400,Macronutrient Metabolism,01,16567,3,"M,W11.10-12.25",ARR ARR,Aug 23--Dec 10,P Solverson
-NEP,458,Nutrition Throughout the Life Cycle,01,16578,3,"TU,TH9.10-10.25",ARR ARR,Aug 23--Dec 10,M Perrigue
-NEP,463,Exercise Physiology,01,16568,4,"M,W9.10-10.25",ARR ARR,Aug 23--Dec 10,L Miller
-NEP,463,Exercise Physiology,01 Lab,16573,0,TH9.10-12,SHER 301,Aug 23--Dec 10,L Miller
-NEP,463,Exercise Physiology,02 Lab,16574,0,TH13.10-16,SHER 301,Aug 23--Dec 10,L Miller
-NEP,477,Human Health Behavior and Behavioral Interventions,01,16582,3,"M,W9.10-10.25",ARR ARR,Aug 23--Dec 10,J Larsen
-NEP,478,Cardiopulmonary Physiology,01,16579,3,"TU,TH11.10-12",ARR ARR,Aug 23--Dec 10,H Haverkamp
-NEP,478,Cardiopulmonary Physiology,01 Lab,16580,0,F9.10-12,SHER 301,Aug 23--Dec 10,H Haverkamp
-NEP,478,Cardiopulmonary Physiology,02 Lab,16581,0,F13.10-16,SHER 301,Aug 23--Dec 10,H Haverkamp
-NEP,479,Nutrition and Exercise Practicum I,01,16566,3,TU8.10-9,ARR ARR,Aug 23--Dec 10,J Larsen
-NEP,479,Nutrition and Exercise Practicum I,01 Lab,16575,0,"M,W11.30-14.30",SHER 328,Aug 23--Dec 10,J Larsen
-NEP,479,Nutrition and Exercise Practicum I,02 Lab,16576,0,"M,W15.30-18.30",SHER 328,Aug 23--Dec 10,J Larsen
-NEP,489,NEP Internship and Professional Development Seminar,01,16577,3,"TU,TH13.10-14.25",ARR ARR,Aug 23--Dec 10,""
-NEP,490,Exercise and Nutrition Internship,01,16603,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Larsen
-NEP,499,Special Problems,01,16003,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NEP,499,Special Problems,02,17827,V,ARRGT,ARR ARR,Aug 23--Dec 10,F Carbonero
-NEP,499,Special Problems,03,17828,V,ARRGT,ARR ARR,Aug 23--Dec 10,G Duncan
-NEP,499,Special Problems,04,17829,V,ARRGT,ARR ARR,Aug 23--Dec 10,H Haverkamp
-NEP,499,Special Problems,05,17830,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Larsen
-NEP,499,Special Problems,06,17831,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Miller
-NEP,499,Special Problems,07,17832,V,ARRGT,ARR ARR,Aug 23--Dec 10,P Monsivais
-NEP,499,Special Problems,08,17833,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Perrigue
-NEP,501,Community Supervised Practice,01,16590,5,M13.10-15,ARR ARR,Aug 23--Aug 23,A Davis
-NEP,501,Community Supervised Practice,"","","",W13.10-15,ARR ARR,"",""
-NEP,501,Community Supervised Practice,"","","",TH13.10-18,ARR ARR,"",""
-NEP,501,Community Supervised Practice,"","","",F11.10-12,ARR ARR,"",""
-NEP,501,Community Supervised Practice,"","","",F11.10-12,ARR ARR,"",""
-NEP,501,Community Supervised Practice,"","","",F11.10-12,ARR ARR,"",""
-NEP,501,Community Supervised Practice,02,16591,5,M13.10-15,ARR ARR,Aug 23--Aug 23,A Davis
-NEP,501,Community Supervised Practice,"","","",W13.10-15,ARR ARR,"",""
-NEP,501,Community Supervised Practice,"","","",TH13.10-18,ARR ARR,"",""
-NEP,501,Community Supervised Practice,"","","",F11.10-12,ARR ARR,"",""
-NEP,501,Community Supervised Practice,"","","",F11.10-12,ARR ARR,"",""
-NEP,501,Community Supervised Practice,"","","",F11.10-12,ARR ARR,"",""
-NEP,501,Community Supervised Practice,01 Lab,16633,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Davis
-NEP,501,Community Supervised Practice,02 Lab,16634,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Davis
-NEP,505,Graduate Seminar,01,16596,1,W14.10-15,ARR ARR,Aug 23--Dec 10,""
-NEP,520,Research Methods in Nutrition and Exercise Physiology,01,16595,3,"TU,TH16.10-17.25",ARR ARR,Aug 23--Dec 10,P Monsivais
-NEP,537,Medical Nutrition Therapy I,01,16583,4,"M,W10.10-11.25",ARR ARR,Aug 23--Dec 10,S Niehuser
-NEP,537,Medical Nutrition Therapy I,01 Lab,16584,0,TH10.10-11.50,GUC SPK,Aug 23--Dec 10,S Niehuser
-NEP,537,Medical Nutrition Therapy I,02 Lab,16586,0,TH13.10-14.50,GUC SPK,Aug 23--Dec 10,S Niehuser
-NEP,537,Medical Nutrition Therapy I,03 Lab,16876,0,F10.10-11.50,ARR ARR,Aug 23--Dec 10,S Niehuser
-NEP,540,Clinical Supervised Practice,01,16594,11,"M,TU9.10-15",ARR ARR,Aug 23--Aug 24,S Niehuser
-NEP,540,Clinical Supervised Practice,"","","",W13.10-16,ARR ARR,"",""
-NEP,540,Clinical Supervised Practice,02,16636,11,"M,TU9.10-15",ARR ARR,Aug 23--Aug 24,S Niehuser
-NEP,540,Clinical Supervised Practice,"","","",W13.10-16,ARR ARR,"",""
-NEP,540,Clinical Supervised Practice,01 Lab,16635,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Niehuser
-NEP,540,Clinical Supervised Practice,02 Lab,16637,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Niehuser
-NEP,551,Management Practices in Food Service,01,16588,5,TU9.10-12,ARR ARR,Aug 24--Aug 24,""
-NEP,551,Management Practices in Food Service,"","","",TH9.10-12,ARR ARR,"",""
-NEP,551,Management Practices in Food Service,"","","",F9.10-10.25,ARR ARR,"",""
-NEP,551,Management Practices in Food Service,"","","",F9.10-10.25,ARR ARR,"",""
-NEP,551,Management Practices in Food Service,"","","",F9.10-10.25,ARR ARR,"",""
-NEP,551,Management Practices in Food Service,01 Lab,16631,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NEP,573,Nutrition in the Community,01,16023,2,TU13.10-15,ARR ARR,Aug 23--Dec 10,A Davis
-NEP,580,Advanced Topics in Exercise Physiology and Nutrition,01,16597,3,"TU,TH9.10-10.25",ARR ARR,Aug 23--Dec 10,F Carbonero
-NEP,582,Advanced Exercise Physiology,01,16601,3,TH14.10-16.40,ARR ARR,Aug 23--Dec 10,H Haverkamp
-NEP,582,Advanced Exercise Physiology,01 Lab,16685,0,ARRGT,ARR ARR,Aug 23--Dec 10,H Haverkamp
-NEP,586,Physical Activity Epidemiology and Public Health,01,16599,3,"TU,TH11.10-12.25",ARR ARR,Aug 23--Dec 10,G Duncan
-NEP,600,Special Projects or Independent Study,01,16604,V,ARRGT,ARR ARR,Aug 23--Dec 10,O Amram
-NEP,700,"Master's Research, Thesis, and/or Examination",01,16605,V,ARRGT,ARR ARR,Aug 23--Dec 10,O Amram
-NEP,701,Master's Independent Capstone Project and /or Examination,01,16606,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Davis
-NEP,800,"Doctoral Research, Dissertation, and/or Examination",01,16607,V,ARRGT,ARR ARR,Aug 23--Dec 10,O Amram
 NEUROSCI,531,Neuroscience Laboratory Rotation,01,16485,1,ARRGT,"",Aug 23--Dec 10,""
 NEUROSCI,590,Seminar,01,16478,1,F12.10-13.30,SAC 249,Aug 23--Dec 10,S Wayman
 NEUROSCI,592,Research Writing and Seminar,01,16994,2,F15.30-17.30,SAC 249,Aug 23--Dec 10,M Chandra
@@ -292,7 +223,7 @@ NURS,424,Psychiatric/Mental Health Nursing Concepts,01,15815,3,M8.10-10,VC ARR,A
 NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",TH10.10-12,VC ARR,"",""
 NURS,424,Psychiatric/Mental Health Nursing Concepts,02,15816,3,M8.10-10,VC ARR,Aug 23--Dec 10,""
 NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",TH10.10-12,VC ARR,"",""
-NURS,425,Nursing Practice: Psychiatric/Mental Health,01,15817,2,ARRGT,ARR ARR,Aug 23--Dec 10,H Gubitz
+NURS,425,Nursing Practice: Psychiatric/Mental Health,01,15817,2,ARRGT,ARR ARR,Aug 23--Dec 10,H Neill-Gubitz
 NURS,425,Nursing Practice: Psychiatric/Mental Health,02,15818,2,ARRGT,ARR ARR,Aug 23--Dec 10,K West
 NURS,425,Nursing Practice: Psychiatric/Mental Health,03,15819,2,ARRGT,ARR ARR,Aug 23--Dec 10,H Striker
 NURS,425,Nursing Practice: Psychiatric/Mental Health,04,15820,2,ARRGT,ARR ARR,Aug 23--Dec 10,H Striker
@@ -309,7 +240,7 @@ NURS,426,[M] Community Health Nursing Theory,01,15827,2,M10.10-12,VC ARR,Aug 23-
 NURS,426,[M] Community Health Nursing Theory,"","","",TH9.10-10,VC ARR,"",""
 NURS,426,[M] Community Health Nursing Theory,02,15828,2,M10.10-12,VC ARR,Aug 23--Dec 10,""
 NURS,426,[M] Community Health Nursing Theory,"","","",TH9.10-10,VC ARR,"",""
-NURS,427,Community Health Nursing Practice,01,15829,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Gubitz
+NURS,427,Community Health Nursing Practice,01,15829,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Neill-Gubitz
 NURS,427,Community Health Nursing Practice,02,15830,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Griffith
 NURS,427,Community Health Nursing Practice,03,15831,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Breckon
 NURS,427,Community Health Nursing Practice,04,15832,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Fitzpatrick
@@ -630,7 +561,6 @@ PHARDSCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARDSCI,499,Special Problems,50,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PHARDSCI,502,Integrated Pharmacology I,01,15609,4,"TU,TH15.10-17",SHSB 110Z,Aug 23--Dec 10,D Jackson
 PHARDSCI,502,Integrated Pharmacology I,50,15615,4,"TU,TH15.10-17",ARR ARR,Aug 23--Dec 10,D Brand
-PHARDSCI,502,Integrated Pharmacology I,"","","",TH15.10-17,ARR ARR,"",""
 PHARDSCI,504,Pharmacy Calculations,01,15610,1,TU13.10-15,SHSB 110Z,Aug 23--Dec 10,C Remsberg
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,SHSB 110Z,"",""
 PHARDSCI,504,Pharmacy Calculations,"","","",M9-11,SHSB 110Z,"",""
@@ -703,16 +633,16 @@ PHARMACY,545,Pharmacy Management,50,15545,3,TH15.10-17,WEB ARR,Aug 31--Dec 10,A 
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01,15516,2,W13.10-14,SPBS 101,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","",M9-10,SPBS 101,"",""
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","",M9-10,SPBS 101,"",""
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50,15551,2,TH8.10-10,ARR ARR,Aug 23--Dec 10,C Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50,15551,2,W13.10-14,ARR ARR,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","",M9-10,ARR ARR,"",""
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,"","","",M9-10,ARR ARR,"",""
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01 Lab,15517,0,TH8.10-10,SPBS 304,Aug 23--Dec 10,C Buchman
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,02 Lab,15518,0,TH10.10-12,SPBS 304,Aug 23--Dec 10,C Buchman
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,03 Lab,15519,0,TH13.10-15,SPBS 304,Aug 23--Dec 10,C Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01 Lab,15517,0,TH8.10-10,ARR ARR,Aug 23--Dec 10,C Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,02 Lab,15518,0,TH10.10-12,ARR ARR,Aug 23--Dec 10,C Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,03 Lab,15519,0,TH13.10-15,ARR ARR,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,50 Lab,15552,0,TH8.10-10,ARR ARR,Aug 23--Dec 10,C Buchman
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,51 Lab,15562,0,TH10.10-12,ARR ARR,Aug 23--Dec 10,C Buchman
-PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,52 Lab,16891,0,TH13.10-15,ARR ARR,Aug 23--Dec 10,""
-PHARMACY,553,Introductory Pharmacy Practice Experience IV,01,15521,3,W14.10-15,SPBS 101,Aug 23--Dec 10,J Miller
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,52 Lab,16891,0,TH13.10-15,ARR ARR,Aug 23--Dec 10,C Buchman
+PHARMACY,553,Introductory Pharmacy Practice Experience IV,01,15521,3,W14.10-15,WEB ARR,Aug 23--Dec 10,J Miller
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","",M10.10-11,SPBS 101,"",""
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,50,15553,3,W14.10-15,ARR ARR,Aug 23--Dec 10,D Bowers
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","",M10.10-11,ARR ARR,"",""
@@ -767,13 +697,14 @@ PHARMSCI,577,Responsible Conduct in Biomedical Research,01,15589,3,TU15.10-17.40
 PHARMSCI,577,Responsible Conduct in Biomedical Research,50,15600,3,TU15.10-17.40,ARR ARR,Aug 23--Dec 10,A Lazarus
 PHARMSCI,597,College of Pharmacy Graduate Seminar,01,15590,1,F12.10-13,SPBS 101,Aug 23--Dec 10,A Lazarus
 PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,15592,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-PREV_SCI,510,Multilevel Modeling II: Advanced Multilevel Models for Longitudinal Data,01,17963,3,"TU,TH15.10-16.30",VC SPK,Aug 23--Dec 10,M Cleveland
+PREV_SCI,510,Multilevel Modeling II: Advanced Multilevel Models for Longitudinal Data,01,17963,3,"TU,TH13.30-14.45",SAC 45,Aug 23--Dec 10,M Cleveland
 PREV_SCI,511,Introduction to Prevention Science,01,15501,3,M14.10-17,SAC 45,Aug 23--Dec 10,S Perone
 PREV_SCI,513,Research Methods in Prevention Science,01,15485,3,TU15.10-18,SAC 45,Aug 23--Dec 10,S Waters
 PREV_SCI,535,Effective Prevention Strategies I,01,17576,3,W17.10-20,SAC 45,Aug 23--Dec 10,J Lanigan
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,16752,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,16686,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PSYCH,230,Human Sexuality,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Paup
+PSYCH,470,Motivation,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Byrd
 PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,16376,3,"TU,TH14.55-16.10",SNRS 201,Aug 23--Dec 10,M Morgan
 PSYCH,506,Current Research in Psychology,01,17580,1,W16.10-17,SNRS 201,Aug 23--Dec 10,R Magnan
 PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,17987,3,"TU,TH12.05-13.20",SNRS 201,Aug 23--Dec 10,C Cuttler
@@ -826,6 +757,6 @@ SHS,588,Advanced Speech and Sound Disorders,02,15652,2,TH10.10-11.50,SAC 147,Aug
 SHS,600,Special Projects or Independent Study,01,15666,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SHS,700,"Master's Research, Thesis, and/or Examination",01,15667,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,15653,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-TCH_LRN,415,Student Teaching,01,16389,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
-TCH_LRN,415,Student Teaching,01 Lab,16390,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
+TCH_LRN,415,Student Teaching,01,16389,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
+TCH_LRN,415,Student Teaching,01 Lab,16390,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
 TCH_LRN,581,Learning and Development in Mathematics and Science,01,17894,3,W17.45-20.30,SAC 343,Aug 23--Dec 10,A Roth-Mcduffie
