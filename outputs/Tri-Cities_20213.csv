@@ -45,12 +45,13 @@ BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 BIOLOGY,500,Seminar,02,10173,1,M15.10-16.25,VC TRI,Aug 23--Dec 10,T Cheeke
 BIOLOGY,501,Proposal Defense Seminar,02,18486,2,ARRGT,ARR ARR,Aug 23--Dec 10,T Cheeke
 BIOLOGY,569,[M] Ecosystem Ecology and Global Change,01,09414,3,"TU,TH10.35-11.50",VC TRI,Aug 23--Dec 10,R Evans
-BIOLOGY,585,Professional Development and Training for College and University Teaching,01,"",2,F13.10-14,VC TRI,Aug 23--Dec 10,L Carloye
+BIOLOGY,585,Professional Development and Training for College and University Teaching,01,"",2,F13.10-15,VC TRI,Aug 23--Dec 10,L Carloye
 BIOLOGY,589,Advanced Topics in Biology,01,08777,1,W12.10-13,VC TRI,Aug 23--Dec 10,T Cheeke
 BIOLOGY,600,Special Projects or Independent Study,01,08767,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,08576,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 BIOLOGY,702,"Master's Special Problems, Directed Study and/or Examination",01,08710,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,08577,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+BSYSE,551,Advanced Biological Systems Engineering Topics,01,08752,3,F9.10-11.40,VC TRI,Aug 23--Dec 10,B Yang
 BSYSE,596,Biomass Thermo-Chemical Conversion,01,09271,3,M8.10-10.40,VC TRI,Aug 23--Dec 10,M Garcia-Perez
 BSYSE,598,Graduate Seminar,01,08426,1,TH16.10-17,VC TRI,Aug 23--Dec 10,S Sablani
 BSYSE,700,"Master's Research, Thesis, and/or Examination",01,08434,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -63,16 +64,16 @@ CE,317,[M] Geotechnical Engineering I,01,08477,4,"TU,TH12.05-13.20",GUC TRI,Aug 
 CE,317,[M] Geotechnical Engineering I,01 Lab,08478,0,W12.10-15,GUC TRI,Aug 23--Dec 10,M Mortuza
 CE,330,Introduction to Structural Engineering,01,08479,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,M Mortuza
 CE,341,Introduction to Environmental Engineering,01,08480,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,M Hossain
-CE,405,Decision-Making for Sustainable and Resilient Civil Infrastructure,01,09258,3,"TU,TH17.45-19",GUC TRI,Aug 23--Dec 10,M Khan
+CE,405,Decision-Making for Sustainable and Resilient Civil Infrastructure,01,09258,3,"TU,TH17.45-19",GUC TRI,Aug 23--Dec 10,""
 CE,433,Reinforced Concrete Design,01,08812,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,J Morshed
 CE,451,Open Channel Flow,01,08484,3,"TU,TH9.10-10.25",GUC TRI,Aug 23--Dec 10,Y Demissie
 CE,463,Engineering Administration,01,08486,3,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,J Morshed
 CE,475,Groundwater,01,09577,3,"M,W12.10-13",GUC TRI,Aug 23--Dec 10,M Hossain
 CE,475,Groundwater,01 Lab,09581,0,W8-10.50,GUC TRI,Aug 23--Dec 10,M Hossain
-CE,480,[M] Ethics and Professionalism,01,08487,1,W13.10-14,GUC TRI,Aug 23--Dec 10,M Khan
+CE,480,[M] Ethics and Professionalism,01,08487,1,W13.10-14,GUC TRI,Aug 23--Dec 10,""
 CE,495,Engineering Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-CE,505,Decision-Making for Sustainable and Resilient Civil Infrastructure,01,09259,3,"TU,TH17.45-19",GUC TRI,Aug 23--Dec 10,M Khan
+CE,505,Decision-Making for Sustainable and Resilient Civil Infrastructure,01,09259,3,"TU,TH17.45-19",GUC TRI,Aug 23--Dec 10,""
 CE,532,Finite Elements,01,08856,3,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,Y Zhang
 CE,541,Physicochemical Water and Wastewater Treatment,01,08757,3,"TU,TH16.20-17.35",VC TRI,Aug 23--Dec 10,M Hossain
 CE,551,Open Channel Flow,01,08485,3,"TU,TH9.10-10.25",GUC TRI,Aug 23--Dec 10,Y Demissie
@@ -117,8 +118,8 @@ CPT_S,315,Introduction to Data Mining,02,09700,3,"TU,TH13.30-14.45",GUC TRI,Aug 
 CPT_S,317,Automata and Formal Languages,01,08500,3,"M,W,F14.10-15",GUC TRI,Aug 23--Dec 10,J Miller
 CPT_S,411,Introduction to Parallel Computing,01,08860,3,"TU,TH12.05-13.20",VC TRI,Aug 23--Dec 10,A Sukumaran Rajam
 CPT_S,415,Big Data,02,09765,3,"TU,TH7.45-9",VC TRI,Aug 23--Dec 10,J Yu
-CPT_S,421,Software Design Project I,01,09435,3,TU16.20-17.10,GUC TRI,Aug 23--Dec 10,A Austin
-CPT_S,421,Software Design Project I,01 Lab,09436,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Austin
+CPT_S,421,Software Design Project I,01,09435,3,F16.10-17,GUC TRI,Aug 23--Dec 10,B Philipp
+CPT_S,421,Software Design Project I,01 Lab,09436,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Philipp
 CPT_S,422,[M] Software Engineering Principles II,01,08501,3,"M,W,F15.10-16",GUC TRI,Aug 23--Dec 10,L Delatorre
 CPT_S,427,Computer Security,01,08715,3,"M,W,F12.10-13",VC TRI,Aug 23--Dec 10,A Jillepalli
 CPT_S,434,Neural Network Design and Application,01,09433,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,J Miller
@@ -136,6 +137,7 @@ CPT_S,534,Neural Network Design and Application,01,09434,3,"TU,TH13.30-14.45",GU
 CPT_S,540,Artificial Intelligence,01,08503,3,"TU,TH9.10-10.25",VC TRI,Aug 23--Dec 10,L Holder
 CPT_S,542,Computer Graphics,01,08820,3,"TU,TH12.05-13.20",VC TRI,Aug 23--Dec 10,R Lewis
 CPT_S,553,Graph Theory,01,08910,3,"M,W,F14.10-15",VC TRI,Aug 23--Dec 10,M Hudelson
+CPT_S,595,Directed Study in Computer Science,01,08509,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Miller
 CPT_S,600,Special Projects or Independent Study,01,08510,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,08511,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,08512,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -154,7 +156,8 @@ DTC,354,[ARTS] [M] Digital Storytelling,01,09430,3,"M,W11.10-12",TFLO 235,Aug 23
 DTC,354,[ARTS] [M] Digital Storytelling,"","","",F11.10-12,WEB ARR,"",""
 DTC,355,[M] Multimedia Authoring,02,09222,3,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,T De Vries
 DTC,355,[M] Multimedia Authoring,03,17937,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,T De Vries
-DTC,375,"[M] Language, Texts and Technology",01,08829,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,V Cozza
+DTC,375,"[M] Language, Texts and Technology",01,08829,3,"M,W13.10-14",GUC TRI,Aug 23--Dec 10,V Cozza
+DTC,375,"[M] Language, Texts and Technology","","","",F13.10-14,WEB ARR,"",""
 DTC,475,[DIVR] Digital Diversity,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 DTC,477,Advanced Multimedia Authoring,01,"",3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,T De Vries
 DTC,497,[CAPS] Senior Seminar,01,09543,3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,R Gregory
@@ -171,8 +174,7 @@ E_E,352,[M] Electrical Engineering Laboratory I,01,08556,3,M12.10-13,GUC TRI,Aug
 E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,08557,0,"TU,TH13.30-16.20",TFLO 164,Aug 23--Dec 10,M Osman
 E_E,352,[M] Electrical Engineering Laboratory I,"","","","TU,TH13.30-16.20",TFLO 161,"",""
 E_E,415,Design Project Management,01,08527,3,F16.10-17,GUC TRI,Aug 23--Dec 10,B Philipp
-E_E,415,Design Project Management,01 Lab,08528,0,F13.10-16,TFLO 164,Aug 23--Dec 10,B Philipp
-E_E,415,Design Project Management,"","","",F17.10-20,GUC TRI,"",""
+E_E,415,Design Project Management,01 Lab,08528,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Philipp
 E_E,455,Introduction to Computer Networks,01,08823,3,"M,W16.15-17.30",GUC TRI,Aug 23--Dec 10,R Swannack
 E_E,464,Digital Signal Processing I,01,09426,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,S Hudson
 E_E,489,Introduction to Control Systems,01,08529,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,D Lowry
@@ -229,11 +231,13 @@ ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,"",3,ARRGT,ARR ARR,Aug 
 ENGLISH,302,[M] Introduction to English Studies,01,09593,3,TU10.35-11.50,GUC TRI,Aug 23--Dec 10,P Wilde
 ENGLISH,354,[ARTS] [M] Digital Storytelling,01,09431,3,"M,W11.10-12",TFLO 235,Aug 23--Dec 10,M Brown
 ENGLISH,354,[ARTS] [M] Digital Storytelling,"","","",F11.10-12,WEB ARR,"",""
-ENGLISH,360,Principles of Rhetoric,01,09591,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,V Cozza
+ENGLISH,360,Principles of Rhetoric,01,09591,3,"TU,TH9.10-10.25",VC TRI,Aug 23--Dec 10,R Eddy
 ENGLISH,370,"The Making of English: Literature, Language and Culture Before 1600",01,08851,3,"TU,TH12.05-13.20",VC TRI,Aug 23--Dec 10,M Hanly
 ENGLISH,371,17th and 18th Century Transnational Literature in English,01,09592,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,M Mays
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,08654,3,"M,W,F9.10-10",GUC TRI,Aug 23--Dec 10,V Cozza
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,08655,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,R Arnold
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,08654,3,"M,W9.10-10",GUC TRI,Aug 23--Dec 10,V Cozza
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,"","","",F9.10-10,WEB ARR,"",""
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,08655,3,TU13.30-14.45,GUC TRI,Aug 23--Dec 10,R Arnold
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,"","","",TH13.30-14.45,WEB ARR,"",""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,08724,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,P Weatherly
 ENGLISH,492,"[M] Advanced Topics in Literature, Criticism, and Theory",01,15491,3,"TU,TH9.10-10.25",GUC TRI,Aug 23--Dec 10,G Escalera
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,V Cozza
@@ -241,7 +245,7 @@ ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ENGR,120,Innovation in Design,01,08481,2,M14.10-15,GUC TRI,Aug 23--Dec 10,S Hudson
 ENGR,120,Innovation in Design,01 Lab,08482,0,M10.10-13,TFLO 145,Aug 23--Dec 10,S Hudson
 ENGR,120,Innovation in Design,02 Lab,08822,0,M15.10-18,TFLO 145,Aug 23--Dec 10,S Hudson
-ENTOM,343,[M] General Entomology,01,08677,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,A Felsot
+ENTOM,343,[M] General Entomology,01,08677,3,"TU,TH13.30-14.45",VC TRI,Aug 23--Dec 10,A Felsot
 ENTOM,460,Biotechnology and the Environment,01,09420,3,"M,W16.15-17.30",VC TRI,Aug 23--Dec 10,A Felsot
 ENTOM,490,Special Topics in Entomology,01,"",1,M14.10-15,VC TRI,Aug 23--Dec 10,A Felsot
 ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
@@ -299,6 +303,8 @@ HORT,418,[M] Post-harvest Biology and Technology,01 Lab,08451,0,ARRGT,ARR ARR,Au
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,01,09248,3,"M,W,F9.10-10",VC TRI,Aug 23--Dec 10,T Collins
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Snider
 HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,T Collins
+HORT,503,Advanced Topics in Horticulture,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,A Dhingra
+HORT,509,Seminar,01,"",1,TH14.55-16.05,WEB ARR,Aug 23--Dec 10,P Mccord
 HORT,518,[M] Post-harvest Biology and Technology,01,08450,3,"TU,TH10.35-11.25",VC TRI,Aug 23--Dec 10,R Sharpe
 HORT,518,[M] Post-harvest Biology and Technology,01 Lab,08452,0,ARRGT,ARR ARR,Aug 23--Dec 10,R Sharpe
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,01,09249,3,"M,W,F9.10-10",VC TRI,Aug 23--Dec 10,T Collins
@@ -309,10 +315,11 @@ HUMANITY,350,Sacred Texts and Cultures of World Religions,01,08678,3,"TU,TH14.55
 I_BUS,380,International Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 I_BUS,435,International Tourism,01,17187,3,"TU,TH14.55-16.10",VC TRI,Aug 23--Dec 10,C Chen
 I_BUS,482,[M] International Marketing,01,08826,3,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,P Carlisle
+INTERDIS,501,Research Communication,01,18523,2,W16.10-17.50,VC TRI,Aug 23--Dec 10,A Coffin
 INTERDIS,598,Interdisciplinary Seminar,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,B Clowers
 KIN_ACTV,101,Beginning Conditioning,01,08694,1,"M,W12.10-13",TFLO 136,Aug 23--Dec 10,W Patterson
-MATH,100,Basic Mathematics,01,09251,2,"M,W10.10-11",GUC TRI,Aug 23--Dec 10,K Fiedler
+MATH,100,Basic Mathematics,01,09251,2,"M,W10.10-11",TFLO 223,Aug 23--Dec 10,K Fiedler
 MATH,103,Algebra Methods and Introduction to Functions,01,08727,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,K Fiedler
 MATH,106,College Algebra,01,08668,3,"M,W,F9.10-10",GUC TRI,Aug 23--Dec 10,K Fiedler
 MATH,106,College Algebra,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,R Learn
@@ -338,6 +345,7 @@ MBIOS,301,General Genetics,01,08583,4,"M,W,F12.10-13",GUC TRI,Aug 23--Dec 10,E S
 MBIOS,301,General Genetics,"","","",M11.10-12,GUC TRI,"",""
 MBIOS,301,General Genetics,03,09584,4,"M,W,F12.10-13",GUC TRI,Aug 23--Dec 10,E Sweet
 MBIOS,301,General Genetics,"","","",W11.10-12,GUC TRI,"",""
+MBIOS,303,Introductory Biochemistry,01,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,R Brosemer
 MBIOS,305,General Microbiology,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Helmick
 MBIOS,401,Cell Biology,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,E Shelden
 MBIOS,405,Cell Biology of Disease,01,18480,3,F13.30-14.45,VC TRI,Aug 23--Dec 10,C Cooper
@@ -384,6 +392,9 @@ MIS,250,Managing Information Technology,01,08903,3,TU16.20-17.35,TCIC 219,Aug 23
 MIS,250,Managing Information Technology,"","","",TH16.20-17.35,GUC TRI,"",""
 MIT,532,Literacy Development II,01,09297,3,TH17.15-20,VC TRI,Aug 23--Dec 10,S Newcomer
 MIT,533,Elementary School Mathematics Methods,01,09214,3,M17.45-20.30,WEB ARR,Aug 23--Dec 10,M Magana
+MIT,533,Elementary School Mathematics Methods,"","","",M17.45-20.30,GUC TRI,"",""
+MIT,533,Elementary School Mathematics Methods,"","","",M17.45-20.30,GUC TRI,"",""
+MIT,533,Elementary School Mathematics Methods,"","","",M17.45-20.30,GUC TRI,"",""
 MIT,534,Elementary School Science Methods,01,09215,3,W17.15-20,GUC TRI,Aug 23--Dec 10,J Morrison
 MIT,571,Pre-internship and Seminar,01,08741,2,M16.10-17.40,GUC TRI,Aug 23--Dec 10,J Mancinelli
 MIT,571,Pre-internship and Seminar,01 Lab,08775,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Mancinelli
@@ -429,7 +440,7 @@ NURS,405,Nursing Leadership,01,08331,3,ARRGT,ARR ARR,Aug 23--Oct 15,V Denson
 NURS,405,Nursing Leadership,02,08332,3,ARRGT,ARR ARR,Aug 23--Oct 15,V Denson
 NURS,408,Professional Development III: Leadership and Management,01,08341,3,TH9.10-12,VC TRI,Aug 23--Dec 10,S Perkins
 NURS,409,Professional Development IV: Transition to Practice,01,08342,2,M13.10-16,VC TRI,Aug 23--Dec 10,""
-NURS,412,Family and Community as a Context of Care,01,08353,1,F11.30-13,VC TRI,Aug 23--Dec 10,""
+NURS,412,Family and Community as a Context of Care,01,08353,1,W9-10.30,GUC TRI,Aug 23--Dec 10,S Franco
 NURS,414,Child and Family Health: Theory,01,08343,3,F8.10-11,VC TRI,Aug 23--Dec 10,S Perkins
 NURS,415,Children and Families as the Focus of Nursing Care,01,08344,2,ARRGT,ARR ARR,Aug 23--Dec 10,M Neeway
 NURS,415,Children and Families as the Focus of Nursing Care,02,08372,2,ARRGT,ARR ARR,Aug 23--Dec 10,L Follett
@@ -703,7 +714,7 @@ PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,08562,3,"M,W,F11.10
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,17213,1,TH13.30-16.20,GUC TRI,Aug 23--Dec 10,C Capan
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,17216,1,TH9.10-12,GUC TRI,Aug 23--Dec 10,C Capan
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,03,17217,1,TH17.45-20.35,GUC TRI,Aug 23--Dec 10,C Capan
-POL_S,101,[SSCI] American National Government,01,08621,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,""
+POL_S,101,[SSCI] American National Government,01,08621,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,R Swenson
 PSYCH,105,[SSCI] Introductory Psychology,01,09229,3,"TU,TH12.05-13.20",GUC TRI,Aug 23--Dec 10,S Tragesser
 PSYCH,201,Degrees and Careers in Psychology,02,17176,1,M13.10-14,GUC TRI,Aug 23--Dec 10,S Bauman
 PSYCH,210,Psychology as a Science,01,08722,3,"M,W,F11.10-12",GUC TRI,Aug 23--Dec 10,A Matthews
@@ -711,11 +722,13 @@ PSYCH,311,[QUAN] Statistics in Psychology,01,08622,4,"M,W,F9.10-10",TCIC 101R,Au
 PSYCH,311,[QUAN] Statistics in Psychology,"","","",W12.10-13,GUC TRI,"",""
 PSYCH,312,[M] Research Methods in Psychology,01,08623,4,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,J Peters
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,08624,0,"M,W,F11.10-12",TCIC 101R,Aug 23--Dec 10,J Peters
-PSYCH,324,Psychology of Gender,02,17177,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,S Bauman
+PSYCH,324,Psychology of Gender,02,17177,3,"M,W10.10-11",GUC TRI,Aug 23--Dec 10,S Bauman
+PSYCH,324,Psychology of Gender,"","","",F10.10-11,WEB ARR,"",""
 PSYCH,350,Social Psychology,02,09230,3,"TU,TH14.55-16.10",GUC TRI,Aug 23--Dec 10,S Tragesser
 PSYCH,361,Developmental Psychology,01,08565,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,P Strand
 PSYCH,372,[BSCI] Biological Basis of Behavior,01,08568,3,"M,W,F14.10-15",GUC TRI,Aug 23--Dec 10,A Matthews
-PSYCH,403,Multicultural Psychology,01,09580,3,"M,W,F9.10-10",GUC TRI,Aug 23--Dec 10,S Bauman
+PSYCH,403,Multicultural Psychology,01,09580,3,"M,W9.10-10",GUC TRI,Aug 23--Dec 10,S Bauman
+PSYCH,403,Multicultural Psychology,"","","",F9.10-10,WEB ARR,"",""
 PSYCH,405,Instructional Practicum Training,01,09535,1,ARRGT,ARR ARR,Aug 23--Dec 10,J Peters
 PSYCH,412,[CAPS] [M] Psychological Testing and Assessment,01,09276,3,"TU,TH9.10-10.25",GUC TRI,Aug 23--Dec 10,P Strand
 PSYCH,490,Cognition and Memory,02,17180,3,"TU,TH10.35-11.50",GUC TRI,Aug 23--Dec 10,A Matthews
@@ -740,14 +753,19 @@ SOE,335,[M] Environmental Policy and Law,01,09254,3,"TU,TH16.20-17.35",VC TRI,Au
 SOE,390,Living on the Edge: Global Climate Change and Earth History,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOE,411,[M] Limnology and Aquatic Ecosystem Management,01,09415,3,"TU,TH12.10-13",VC TRI,Aug 23--Dec 10,S Roley
 SOE,411,[M] Limnology and Aquatic Ecosystem Management,01 Lab,09423,0,F13.10-16,GUC TRI,Aug 23--Dec 10,S Roley
+SOE,444,Environmental Assessment,01,18524,3,TU13.30-14.45,WEB ARR,Aug 23--Dec 10,D Thomas
+SOE,444,Environmental Assessment,"","","",TH13.30-14.45,VC TRI,"",""
 SOE,460,Biotechnology and the Environment,01,09419,3,"M,W16.15-17.30",VC TRI,Aug 23--Dec 10,A Felsot
 SOE,475,Groundwater,01,09576,3,"M,W12.10-13",GUC TRI,Aug 23--Dec 10,M Hossain
 SOE,475,Groundwater,01 Lab,09582,0,W8-10.50,GUC TRI,Aug 23--Dec 10,M Hossain
 SOE,476,Biology and Ecology of Pacific Salmon,01,09472,3,"TU,TH16.25-17.40",VC TRI,Aug 23--Dec 10,J Mcintyre
-SOE,477,[CAPS] Environmental Dispute Resolution and Conflict Management,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOE,477,[CAPS] Environmental Dispute Resolution and Conflict Management,01,18496,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOE,501,Graduate Skills Seminar,01,18457,1,F9.10-10,WEB ARR,Aug 23--Dec 10,C Keller
+SOE,544,Environmental Assessment,01,18525,3,TU13.30-14.45,WEB ARR,Aug 23--Dec 10,D Thomas
+SOE,544,Environmental Assessment,"","","",TH13.30-14.45,VC TRI,"",""
+SOE,562,Watershed Biogeochemistry,01,18526,3,"TU,TH10.35-11.50",VC TRI,Aug 23--Dec 10,J Harrison
 SOE,576,Biology and Ecology of Pacific Salmon,01,09473,3,"TU,TH16.25-17.40",VC TRI,Aug 23--Dec 10,J Mcintyre
 SOE,600,Special Projects or Independent Study,01,08776,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
 SOE,700,"Master's Research, Thesis, and/or Examination",01,08590,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -764,16 +782,16 @@ SPANISH,101,First Semester,01,08674,4,"M,W,F12.10-13",GUC TRI,Aug 23--Dec 10,F A
 SPANISH,111,[ARTS] Latin American Film,01,17192,3,"M,W,F13.10-14",GUC TRI,Aug 23--Dec 10,F Arellano Serratos
 SPANISH,306,Intermediate Reading and Translation,01,09338,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,F Arellano Serratos
 SPANISH,321,[DIVR] Latin American Cultures,01,"",3,"TU,TH17.45-19",WEB ARR,Aug 23--Dec 10,C Gulam
-SPEC_ED,301,Education of Exceptional Children,01,08778,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,301,Education of Exceptional Children,01,08778,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
 SPEC_ED,401,Teaching Students with Disabilities,01,08454,3,W17.15-20,GUC TRI,Aug 23--Dec 10,Y Hsiao
-SPEC_ED,404,Professional Skills in Special Education,01,08456,3,M17.15-20,GUC TRI,Aug 23--Dec 10,S Petersen
-SPEC_ED,404,Professional Skills in Special Education,02,08968,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,409,Early Childhood Special Education,01,08779,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,404,Professional Skills in Special Education,01,08456,3,M17.15-20,GUC TRI,Aug 23--Dec 10,""
+SPEC_ED,404,Professional Skills in Special Education,02,08968,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Whittenburg
+SPEC_ED,409,Early Childhood Special Education,01,08779,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
 SPEC_ED,420,Teaching in Inclusive Classrooms,01,08458,V,M13.10-16,GUC TRI,Aug 23--Dec 10,Y Hsiao
-SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,08780,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,08780,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
 SPEC_ED,490,Practicum in Special Education,01,08626,V,ARRGT,ARR ARR,Aug 23--Dec 10,Y Hsiao
 SPEC_ED,501,Teaching Students with Disabilities,01,08455,3,W17.15-20,GUC TRI,Aug 23--Dec 10,Y Hsiao
-SPEC_ED,504,Professional Skills in Special Education,01,08457,3,M17.15-20,GUC TRI,Aug 23--Dec 10,S Petersen
+SPEC_ED,504,Professional Skills in Special Education,01,08457,3,M17.15-20,GUC TRI,Aug 23--Dec 10,""
 SPEC_ED,520,Teaching in Inclusive Classrooms,01,08459,V,M13.10-16,GUC TRI,Aug 23--Dec 10,Y Hsiao
 SPEC_ED,590,Practicum in Special Education,01,08934,V,ARRGT,ARR ARR,Aug 23--Dec 10,Y Hsiao
 SPEC_ED,595,Universal Design,01,17409,3,TH17.45-20.30,VC TRI,Aug 23--Dec 10,D Mcmahon
@@ -783,9 +801,7 @@ STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,08729,0,M15.10-17,GUC
 STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,08730,0,W15.10-17,GUC TRI,Aug 23--Dec 10,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,04 Lab,09333,0,F15.10-17,GUC TRI,Aug 23--Dec 10,R Learn
 STAT,370,Introductory Statistics for Engineers,01,08570,3,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,R Learn
-STAT,370,Introductory Statistics for Engineers,02,17931,3,"TU,TH16.20-17.35",GUC TRI,Aug 23--Dec 10,R Learn
 STAT,412,Statistical Methods in Research I,01,08585,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,R Learn
-STAT,412,Statistical Methods in Research I,03,17932,3,"TU,TH13.30-14.45",GUC TRI,Aug 23--Dec 10,R Learn
 STAT,575,The Theory of Multivariate Analysis,01,18419,3,"TU,TH13.35-14.50",VC TRI,Aug 23--Dec 10,F Pascual
 TCH_LRN,301,Learning and Development,01,08461,3,W13.10-15.55,GUC TRI,Aug 23--Dec 10,M Moscatelli
 TCH_LRN,310,[M] Classroom Management,01,08462,2,TH13.30-15.10,GUC TRI,Aug 23--Dec 10,M Moscatelli
@@ -793,6 +809,9 @@ TCH_LRN,321,Early Literacy,01,08463,3,TU13.30-16.15,GUC TRI,Aug 23--Dec 10,S New
 TCH_LRN,333,Introduction to English as a Second Language (ESL),01,08464,3,M9.10-11.55,GUC TRI,Aug 23--Dec 10,Y Ardasheva
 TCH_LRN,333,Introduction to English as a Second Language (ESL),02,08740,3,W17.15-20,GUC TRI,Aug 23--Dec 10,E Johnson
 TCH_LRN,352,Teaching Elementary Mathematics,01,08611,3,M17.45-20.30,WEB ARR,Aug 23--Dec 10,M Magana
+TCH_LRN,352,Teaching Elementary Mathematics,"","","",M17.45-20.30,GUC TRI,"",""
+TCH_LRN,352,Teaching Elementary Mathematics,"","","",M17.45-20.30,GUC TRI,"",""
+TCH_LRN,352,Teaching Elementary Mathematics,"","","",M17.45-20.30,GUC TRI,"",""
 TCH_LRN,371,Teaching Elementary Science,01,08612,3,TH17.15-20,GUC TRI,Aug 23--Dec 10,J Firestone
 TCH_LRN,385,Teaching Elementary Social Studies,01,08613,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Lehmann
 TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,01,08465,3,TU9.10-11.55,GUC TRI,Aug 23--Dec 10,Y Cooper
@@ -835,6 +854,7 @@ VIT_ENOL,409,Seminar in Viticulture and Enology,01,08448,1,W15.10-16,VC TRI,Aug 
 VIT_ENOL,435,Chemistry and Biochemistry of Fruit and Wine,01,09250,3,"M,W,F9.10-10",VC TRI,Aug 23--Dec 10,T Collins
 VIT_ENOL,465,Wine Microbiology and Processing,01,08428,3,"M,W,F12.10-13",VC TRI,Aug 23--Dec 10,C Edwards
 VIT_ENOL,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,G Ganjyal
-WOMEN_ST,324,Psychology of Gender,02,17178,3,"M,W,F10.10-11",GUC TRI,Aug 23--Dec 10,S Bauman
+WOMEN_ST,324,Psychology of Gender,02,17178,3,"M,W10.10-11",GUC TRI,Aug 23--Dec 10,S Bauman
+WOMEN_ST,324,Psychology of Gender,"","","",F10.10-11,WEB ARR,"",""
 WRIT,302,Advanced Writing Collaborative,01,09437,1,ARRGT,ARR ARR,Aug 23--Dec 10,R Mays
 WRIT,302,Advanced Writing Collaborative,03,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,T Holland

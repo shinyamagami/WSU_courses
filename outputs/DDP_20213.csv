@@ -2,6 +2,7 @@ Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg 
 ACCTG,230,Introduction to Financial Accounting,01,10307,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Pearson
 ACCTG,230,Introduction to Financial Accounting,02,10650,3,ARRGT,ARR ARR,Oct 18--Dec 12,N Pearson
 ACCTG,231,Introduction to Managerial Accounting,01,10308,3,ARRGT,ARR ARR,Aug 23--Oct 10,N Pearson
+ACCTG,231,Introduction to Managerial Accounting,02,10647,3,ARRGT,ARR ARR,Aug 23--Oct 10,N Pearson
 ACCTG,330,Intermediate Accounting I,01,10309,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Porter
 ACCTG,330,Intermediate Accounting I,02,10558,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Porter
 ACCTG,338,Cost Accounting,01,10738,3,ARRGT,ARR ARR,Oct 18--Dec 12,B Barnes
@@ -106,8 +107,8 @@ CE,572,Advanced Pavement Design and Analysis,01,17796,3,ARRGT,ARR ARR,Aug 23--De
 CES,271,[HUM] Native Music of North America,01,10460,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Parkhurst
 CHEM,101,[PSCI] Introduction to Chemistry,01,11145,4,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
 CHEM,101,[PSCI] Introduction to Chemistry,01 Lab,11146,0,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
-CHEM,103,Concepts in Chemistry,01,10960,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-CHEM,103,Concepts in Chemistry,01 Lab,11135,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+CHEM,103,Concepts in Chemistry,01,10960,4,ARRGT,ARR ARR,Aug 23--Dec 10,D Storfer
+CHEM,103,Concepts in Chemistry,01 Lab,11135,0,ARRGT,ARR ARR,Aug 23--Dec 10,D Storfer
 COM,101,[SSCI] Media and Society,01,10679,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Taflinger
 COM,101,[SSCI] Media and Society,04,10825,3,ARRGT,ARR ARR,Dec 18--Jan 09,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,10311,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Haider
@@ -192,7 +193,7 @@ E_E,432,RF Engineering for Telecommunications,01,"",4,"M,W,F10.10-11",WEB ARR,Au
 E_E,432,RF Engineering for Telecommunications,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,B Belzer
 E_E,464,Digital Signal Processing I,01,"",3,"TU,TH12.05-13.20",WEB ARR,Aug 23--Dec 10,M Torabi Konjin
 E_E,489,Introduction to Control Systems,01,"",3,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,A Saberi
-E_E,491,Performance of Power Systems,01,10956,3,"TU,TH9.10-10.25","",Aug 23--Dec 10,""
+E_E,491,Performance of Power Systems,01,10956,3,"TU,TH9.10-10.25","",Aug 23--Dec 10,M Venkatasubramanian
 E_E,491,Performance of Power Systems,02,18503,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Venkatasubramanian
 E_E,492,Renewable Energy Sources,01,"",3,"M,W,F14.10-15","",Aug 23--Dec 10,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,02,17719,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
@@ -200,15 +201,15 @@ E_E,492,Renewable Energy Sources,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,J Guer
 E_E,492,Renewable Energy Sources,02 Lab,17734,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
 E_E,493,Protection of Power Systems I,01,10423,3,"TU,TH16.20-17.35","",Aug 23--Dec 10,S Lotfifard
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Kejariwal
-E_E,526,High Voltage Overhead Transmission Lines,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,R Olsen
+E_E,526,High Voltage Overhead Transmission Lines,01,10425,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Olsen
 E_E,701,Master's Independent Capstone Project and /or Examination,01,10726,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_M,430,Applications of Constraints Management,01,"",3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,"",Aug 23--Dec 10,R Crick
-E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,"",Aug 23--Dec 10,""
-E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,"",Aug 23--Dec 10,""
+E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,"",Aug 23--Dec 10,K Bachman
+E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,530,Applications of Constraints Management,01,10412,3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
 E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
@@ -238,11 +239,12 @@ ECONS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ECONS,505,Economics for Agricultural Decision Making,01,10289,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Gallardo
 ED_AD,507,Social Foundations of Education,01,10419,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Lupinacci
 ENGLISH,101,[WRTG] College Composition,01,10290,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
+ENGLISH,101,[WRTG] College Composition,02,10480,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ENGLISH,102,Writing Tutorial,01,10948,1,ARRGT,ARR ARR,Aug 23--Dec 10,T Holland
 ENGLISH,112,[HUM] Language in the Real World,01,10741,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Siler
 ENGLISH,201,[WRTG] Writing and Research,01,10291,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mccarthy
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,10292,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Cozza
-ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,11193,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Cozza
 ENGLISH,302,[M] Introduction to English Studies,01,10994,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Robertson
 ENGLISH,308,[M] Introduction to Literary Criticism,01,10979,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Hegglund
 ENGLISH,309,Women Writers,01,18391,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Campbell
@@ -268,13 +270,15 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,18,12376,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,19,12379,3,ARRGT,ARR ARR,Dec 18--Jan 09,A May
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,20,17699,3,ARRGT,ARR ARR,Dec 18--Jan 09,A Hillen
 ENGLISH,419,The Twentieth Century Novel,01,11131,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Edwards
-ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Gregory
+ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ENGR,489,Professional Practice Coop/Internship II,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Brabb
 ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,10239,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
 FIN,223,[QUAN] Personal Finance,01,10843,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Collins
 FIN,223,[QUAN] Personal Finance,02,10854,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Collins
 FIN,325,Introduction to Financial Management,01,10322,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Fairhurst
 FIN,325,Introduction to Financial Management,02,10651,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Fairhurst
+FIN,325,Introduction to Financial Management,03,10884,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Fairhurst
+FIN,325,Introduction to Financial Management,04,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,D Fairhurst
 FIN,345,Real Estate,01,10306,3,ARRGT,ARR ARR,Aug 23--Oct 10,F Benjamin
 FIN,346,Washington Real Estate Regulations,01,10462,1,ARRGT,ARR ARR,Aug 23--Oct 10,F Benjamin
 FIN,527,Investment Analysis,01,17661,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
@@ -333,10 +337,13 @@ HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,J Rose
 HBM,401,Career Management,01,10498,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,491,Operational Analysis,01,10494,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Chen
+HBM,491,Operational Analysis,02,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,""
+HBM,491,Operational Analysis,03,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,""
 HBM,494,[M] Service Operations Management,02,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,B Marlowe
 HBM,494,[M] Service Operations Management,03,17583,3,ARRGT,ARR ARR,Oct 04--Dec 17,B Marlowe
 HBM,495,[CAPS] Case Studies and Research,01,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,O Larina
 HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,O Larina
+HBM,497,Special Topics,01,"",V,ARRGT,ARR ARR,Jul 05--Sep 17,""
 HBM,582,Hospitality Operations Analysis,01,17691,3,ARRGT,ARR ARR,Aug 23--Oct 10,C Chi
 HISTORY,102,[HUM] Modern Europe,01,10199,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Miller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,10204,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Sanders
@@ -361,6 +368,8 @@ HUMANITY,103,[HUM] Mythology,01,10474,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
 HUMANITY,103,[HUM] Mythology,02,10715,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Gowdy-Burke
 I_BUS,380,International Business,01,10329,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 I_BUS,380,International Business,02,10652,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
+I_BUS,380,International Business,04,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,K Tajeddini
+I_BUS,380,International Business,05,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,K Tajeddini
 I_BUS,453,[M] International Management,01,10330,3,ARRGT,ARR ARR,Oct 18--Dec 12,D Nelson
 I_BUS,453,[M] International Management,02,10736,3,ARRGT,ARR ARR,Oct 18--Dec 12,D Nelson
 I_BUS,470,International Trade and Finance,01,10288,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Lama
@@ -411,12 +420,15 @@ MGMT,401,Leading People and Organizations,01,10339,3,ARRGT,ARR ARR,Oct 18--Dec 1
 MGMT,401,Leading People and Organizations,02,10655,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Gingras
 MGMT,401,Leading People and Organizations,03,11007,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Gingras
 MGMT,450,Personnel and Human Resources Management,01,10340,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Kuhn
+MGMT,450,Personnel and Human Resources Management,03,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,K Tajeddini
+MGMT,450,Personnel and Human Resources Management,04,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,K Tajeddini
 MGMT,485,[M] Negotiation Skills,01,17226,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppard
 MGMT,485,[M] Negotiation Skills,02,17288,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppard
 MGMT,485,[M] Negotiation Skills,03,18443,3,ARRGT,ARR ARR,Aug 23--Oct 10,L Sheppard
 MGMT,491,[CAPS] Strategic Management,01,10346,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
 MGMT,491,[CAPS] Strategic Management,02,10504,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
 MGMT,491,[CAPS] Strategic Management,03,10862,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
+MGMT,491,[CAPS] Strategic Management,04,11174,3,ARRGT,ARR ARR,Aug 23--Oct 10,D Miller
 MGMT,588,Management of Innovation,01,"",3,ARRGT,ARR ARR,Aug 23--Sep 26,V Kolde
 MGMT,588,Management of Innovation,02,"",3,ARRGT,ARR ARR,Aug 23--Sep 26,V Kolde
 MGMT,588,Management of Innovation,03,"",3,ARRGT,ARR ARR,Aug 23--Sep 26,V Kolde
@@ -475,6 +487,8 @@ MIT,530,Elementary School Social Studies Methods,01,"",3,ARRGT,ARR ARR,Aug 23--D
 MKTG,360,Marketing,01,10357,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MKTG,360,Marketing,02,10659,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MKTG,360,Marketing,03,10660,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
+MKTG,360,Marketing,06,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,P Ossola
+MKTG,360,Marketing,07,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,P Ossola
 MKTG,477,Integrated Marketing Communications,01,10740,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Marvel
 MKTG,477,Integrated Marketing Communications,02,11022,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MKTG,561,New Product Marketing,01,17676,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
@@ -550,7 +564,7 @@ PSYCH,499,Special Problems,03,10992,V,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
 SHS,201,American Sign Language I,01,10381,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
 SHS,201,American Sign Language I,02,10841,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsch
 SHS,202,American Sign Language II,01,10842,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsch
-SOC,101,[SSCI] Introduction to Sociology,01,10406,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOC,101,[SSCI] Introduction to Sociology,01,10406,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Ray
 SOC,101,[SSCI] Introduction to Sociology,02,11026,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 SOC,102,[SSCI] Social Problems,01,10413,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Stanley
 SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10943,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Aust
@@ -559,9 +573,9 @@ SOC,317,[M] Research Methods in Sociology,01,11025,3,ARRGT,ARR ARR,Aug 23--Dec 1
 SOC,351,[DIVR] The Family,02,17973,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 SOC,352,Youth and Society,01,10761,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,360,Social Deviance,01,17558,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
-SOC,362,Juvenile Delinquency,01,10491,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOC,362,Juvenile Delinquency,01,10491,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,368,Drugs and Society,01,10762,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
-SOC,372,The Sociology of Film,01,10492,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Montanez
+SOC,372,The Sociology of Film,01,10492,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SOC,375,Aspects of Sustainable Development,01,10966,3,ARRGT,ARR ARR,Aug 23--Dec 10,Y Zhang
 SOC,418,Human Issues in International Development,01,10248,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Quinlan
 SOC,430,Society and Technology,02,17560,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Rotolo
@@ -576,6 +590,7 @@ SOE,210,[PSCI] Earth's History and Evolution,01 Lab,10388,0,ARRGT,ARR ARR,Aug 23
 SOE,285,The Science and Policy of Climate Change,01,11050,3,ARRGT,"",Aug 23--Dec 10,K Whitman
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,11024,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Ostrom
 SOE,390,Living on the Edge: Global Climate Change and Earth History,01,10860,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOE,477,[CAPS] Environmental Dispute Resolution and Conflict Management,01,18508,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A King
 SOIL_SCI,101,Organic Gardening and Farming,01,10382,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,201,[BSCI] Soil: A Living System,01,10383,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Lahue
@@ -586,16 +601,16 @@ SOIL_SCI,479,Organic Farm and Garden Field Management,01,10386,2,ARRGT,ARR ARR,A
 SPANISH,101,First Semester,01,10216,4,ARRGT,"",Aug 23--Dec 10,M Previto
 SPANISH,306,Intermediate Reading and Translation,01,17327,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
 SPANISH,306,Intermediate Reading and Translation,02,17328,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
-SPEC_ED,301,Education of Exceptional Children,01,10389,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,401,Teaching Students with Disabilities,01,10390,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,404,Professional Skills in Special Education,01,10392,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,409,Early Childhood Special Education,01,10394,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,10396,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,301,Education of Exceptional Children,01,10389,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
+SPEC_ED,401,Teaching Students with Disabilities,01,10390,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
+SPEC_ED,404,Professional Skills in Special Education,01,10392,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Whittenburg
+SPEC_ED,409,Early Childhood Special Education,01,10394,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
+SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,10396,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
 SPEC_ED,499,Special Problems,01,10398,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,501,Teaching Students with Disabilities,01,10391,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,504,Professional Skills in Special Education,01,10393,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,509,Early Childhood Special Education,01,10395,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,10397,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,501,Teaching Students with Disabilities,01,10391,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
+SPEC_ED,504,Professional Skills in Special Education,01,10393,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Whittenburg
+SPEC_ED,509,Early Childhood Special Education,01,10395,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
+SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,10397,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,12310,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 STAT,212,[QUAN] Introduction to Statistical Methods,01,10421,4,ARRGT,ARR ARR,Aug 23--Dec 10,Y Tang
@@ -605,7 +620,7 @@ STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",Aug 23
 STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Li
 STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
-STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
 TCH_LRN,415,Student Teaching,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,415,Student Teaching,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,499,Special Problems,01,10734,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
