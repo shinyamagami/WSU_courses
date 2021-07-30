@@ -2,7 +2,9 @@ Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg 
 ACCTG,230,Introduction to Financial Accounting,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,N Pearson
 AFS,201,Systems Skills for Agricultural and Food Systems,01,14722,3,"M,W,F12.10-13",EVRT 340,Aug 23--Dec 10,H Henning
 AFS,336,"[SSCI] Agriculture, Environment, and Community",01,14877,3,"TU,TH9.10-10.25",EVRT 440,Aug 23--Dec 10,J Goldberger
+ANTH,203,[DIVR] Global Cultural Diversity,01,14851,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Thiel
 ANTH,320,[DIVR] Native Peoples of North America,01,14427,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
+B_A,211,"Ethics, Teams, and Innovation",02,15247,3,TU13.30-16.20,EVRT 457,Aug 23--Oct 10,J Gladstone
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,17658,3,"TU,TH16.20-17.35","",Aug 23--Dec 10,Y He
 B_LAW,210,Law and the Legal Environment of Business,01,14422,3,ARRGT,ARR ARR,Aug 23--Oct 10,S Bergstedt
 COM,101,[SSCI] Media and Society,01,14417,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Taflinger
@@ -49,7 +51,7 @@ CPT_S,453,Graph Theory,01,14749,3,"M,W,F14.10-15",EVRT 452,Aug 23--Dec 10,M Hude
 CPT_S,484,Software Requirements,01,14741,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
 CPT_S,489,Web Development,01,14969,3,"M,W,F15.10-16",EVRT 457,Aug 23--Dec 10,C Hundhausen
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,14651,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Reddy
-CROP_SCI,102,Introduction to Cultivated Plants,01,17753,3,"M,W,F11.10-12","",Aug 23--Dec 10,C Kawula
+CROP_SCI,102,Introduction to Cultivated Plants,01,17753,3,"M,W,F11.10-12",EVRT 340,Aug 23--Dec 10,C Kawula
 CROP_SCI,403,Advanced Cropping Systems,01,14379,3,"TU,TH13.30-14.45",EVRT 340,Aug 23--Dec 10,C Neely
 DATA,115,Introduction to Data Analytics,01,14759,3,"TU,TH10.35-11.50",EVRT 358,Aug 23--Dec 10,D Deford
 E_E,302,Professional Skills in Computing and Engineering,01,14421,3,"TU,TH13.30-14.45","",Aug 23--Dec 10,J Thompson
@@ -96,7 +98,7 @@ HORT,320,Olericulture,01,14873,3,"TU,TH9-10.25",EVRT 340,Aug 23--Dec 10,M Kumar
 I_BUS,380,International Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,M Downes
 MATH,202,[QUAN] Calculus for Business and Economics,01,14488,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Morgan
 MATH,216,Discrete Structures,01,14405,3,"M,W,F9.10-10",EVRT 340,Aug 23--Dec 10,""
-MATH,405,Introduction to Financial Mathematics,01,14779,3,"M,W,F15.10-16",EVRT 440,Aug 23--Dec 10,""
+MATH,405,Introduction to Financial Mathematics,01,14779,3,"M,W,F15.10-16",EVRT 440,Aug 23--Dec 10,M Lesperance
 ME,303,Fluid Mechanics,01,14340,3,"M,W,F10.10-11",EVRT 358,Aug 23--Dec 10,Y Hu
 ME,306,Thermal and Fluids Laboratory,01,14345,2,TU9.10-10,EVRT 256,Aug 23--Dec 10,Y Hu
 ME,306,Thermal and Fluids Laboratory,01 Lab,14346,0,TU10.10-13,EVRT 256,Aug 23--Dec 10,""
@@ -242,6 +244,8 @@ MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,"",4
 MED_LMH,521,Quality and Safety in Healthcare: Medical Errors,01,14955,1,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
 MED_LMH,531,Personal Leadership Development I,01,15203,1,ARRGT,ARR ARR,Aug 23--Nov 24,""
 MGMT,301,Principles of Management and Organization,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
+MGMT,401,Leading People and Organizations,02,17660,3,"M,W13-14.30",EVRT 358,Aug 23--Dec 10,J Gladstone
+MGMT,450,Personnel and Human Resources Management,03,18594,3,TU13.30-16.20,EVRT 457,Oct 18--Dec 12,J Gladstone
 MGTOP,215,Business Statistics,01,"",4,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,215,Business Statistics,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,340,Operations Management,02,17659,3,W18-20.15,"",Aug 23--Dec 10,""
@@ -252,6 +256,8 @@ MKTG,360,Marketing,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,T Kokta
 SHS,201,American Sign Language I,01,14472,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,14543,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Ray
 SOC,317,[M] Research Methods in Sociology,01,14975,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,14795,4,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,14796,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,14775,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Ostrom
 SOIL_SCI,101,Organic Gardening and Farming,01,14689,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,201,[BSCI] Soil: A Living System,01,14382,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Lahue
@@ -264,7 +270,7 @@ STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,17922,0,M12.10-14,"",
 STAT,360,Probability and Statistics,01,14395,3,"TU,TH10.35-11.50",EVRT 254,Aug 23--Dec 10,X Wen
 STAT,370,Introductory Statistics for Engineers,01,14416,3,"M,W,F11.10-12",EVRT 256,Aug 23--Dec 10,G Taub
 STAT,419,Introduction to Multivariate Statistics,01,14911,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Li
-STAT,435,[M] Statistical Modeling for Data Analytics,02,14992,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
-STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,14993,0,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
+STAT,435,[M] Statistical Modeling for Data Analytics,02,14992,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,14993,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 STAT,443,Applied Probability,01,15145,3,"TU,TH9.10-10.25",EVRT 452,Aug 23--Dec 10,""
 WRIT,302,Advanced Writing Collaborative,01,14888,1,ARRGT,ARR ARR,Aug 23--Dec 10,T Holland

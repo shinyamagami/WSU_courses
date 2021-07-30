@@ -63,7 +63,7 @@ B_A,503,Foundations in Business Law,03,10548,2,ARRGT,ARR ARR,Oct 04--Nov 07,S Be
 B_A,504,Foundations in Finance,01,10559,2,ARRGT,ARR ARR,Nov 08--Dec 12,""
 B_A,504,Foundations in Finance,02,10560,2,ARRGT,ARR ARR,Nov 08--Dec 12,""
 B_A,579,MBA Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
-B_A,579,MBA Capstone,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,""
+B_A,579,MBA Capstone,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,04,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,05,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,06,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,""
@@ -71,6 +71,7 @@ B_A,579,MBA Capstone,07,10629,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,08,10630,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,09,10631,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,10,10632,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
+B_A,579,MBA Capstone,11,10633,2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,12,"",2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,13,"",2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,14,"",2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
@@ -168,7 +169,7 @@ CPT_S,484,Software Requirements,01,10820,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
 CPT_S,515,Advanced Algorithms,01,10506,3,ARRGT,ARR ARR,Aug 23--Dec 10,Z Dang
 CPT_S,581,Software Maintenance,01,10750,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Arnaoudova
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,02,10898,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Reddy
-CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,04,10830,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
+CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,04,10830,3,ARRGT,ARR ARR,Dec 18--Jan 09,T Kennon
 CRM_J,201,Introduction to Criminological Theory,01,10705,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Magana
 CRM_J,320,Criminal Law,01,10815,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hemmens
 CRM_J,321,Quantitative Methods for Criminal Justice,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,B Solensten
@@ -176,7 +177,7 @@ CRM_J,365,Juvenile Justice and Corrections,01,11100,3,ARRGT,ARR ARR,Aug 23--Dec 
 CRM_J,370,Policing and Society,01,10899,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Marsh
 CRM_J,380,Criminal Courts in America,01,10814,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hemmens
 CRM_J,403,[CAPS] Violence Toward Women,01,10744,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Stohr
-CRM_J,403,[CAPS] Violence Toward Women,02,10831,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
+CRM_J,403,[CAPS] Violence Toward Women,02,10831,3,ARRGT,ARR ARR,Dec 18--Jan 09,M Miller
 CRM_J,420,[M] Criminal Procedure,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,D Brody
 CRM_J,450,[M] Senior Seminar: Ethical Issues in Criminal Justice,01,10813,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Snyder
 CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Keopanapay
@@ -218,6 +219,7 @@ E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,"",Aug 23--Dec 
 E_M,530,Applications of Constraints Management,01,10412,3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
 E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
+E_M,564,Project Management,02,12274,3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
 E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,WEB ARR,Aug 23--Dec 10,A Squires
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,11112,3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,W17.15-19.45,"",Aug 23--Dec 10,W Gray
@@ -246,7 +248,7 @@ ED_AD,507,Social Foundations of Education,01,10419,3,ARRGT,ARR ARR,Aug 23--Dec 1
 ENGLISH,101,[WRTG] College Composition,01,10290,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
 ENGLISH,101,[WRTG] College Composition,02,10480,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Coleman
 ENGLISH,102,Writing Tutorial,01,10948,1,ARRGT,ARR ARR,Aug 23--Dec 10,T Holland
-ENGLISH,112,[HUM] Language in the Real World,01,10741,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Siler
+ENGLISH,112,[HUM] Language in the Real World,01,10741,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Bell
 ENGLISH,201,[WRTG] Writing and Research,01,10291,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mccarthy
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,10292,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Cozza
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,02,11193,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Cozza
@@ -542,6 +544,7 @@ PSYCH,105,[SSCI] Introductory Psychology,01,10363,3,ARRGT,ARR ARR,Aug 23--Dec 10
 PSYCH,201,Degrees and Careers in Psychology,01,10938,1,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
 PSYCH,210,Psychology as a Science,01,10478,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Stubblefield
 PSYCH,230,Human Sexuality,01,10364,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Paup
+PSYCH,230,Human Sexuality,02,10856,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,01,10366,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Clark
 PSYCH,306,Industrial Psychology,01,10974,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Jenkins
 PSYCH,311,[QUAN] Statistics in Psychology,01,10367,4,ARRGT,ARR ARR,Aug 23--Dec 10,A Lau
@@ -555,7 +558,9 @@ PSYCH,324,Psychology of Gender,01,10371,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mcraney
 PSYCH,328,[M] Self Control,01,10373,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
 PSYCH,328,[M] Self Control,02,10374,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
 PSYCH,333,Abnormal Psychology,01,10375,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Bridley
+PSYCH,333,Abnormal Psychology,02,12361,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 PSYCH,348,Forensic and Legal Psychology,01,10937,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Savage
+PSYCH,350,Social Psychology,02,10858,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 PSYCH,361,Developmental Psychology,01,10376,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Lane
 PSYCH,412,[CAPS] [M] Psychological Testing and Assessment,01,10482,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Stubblefield
 PSYCH,440,[M] Clinical/Community Psychology,01,10479,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Bridley
@@ -580,6 +585,7 @@ SOC,102,[SSCI] Social Problems,01,10413,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Stanley
 SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10943,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Aust
 SOC,310,Development of Social Theory,01,10809,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Horne
 SOC,317,[M] Research Methods in Sociology,01,11025,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
+SOC,350,Social Psychology,02,10859,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 SOC,351,[DIVR] The Family,02,17973,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 SOC,352,Youth and Society,01,10761,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,360,Social Deviance,01,17558,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
@@ -629,8 +635,8 @@ STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Ra
 STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
 STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Li
-STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
-STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,X Chen
+STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 TCH_LRN,415,Student Teaching,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,415,Student Teaching,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,499,Special Problems,01,10734,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -643,6 +649,7 @@ UNIV,491,Global Leadership Integrative Capstone,01,10213,1,W11.10-12,"",Aug 23--
 UNIV,497,Peer Leadership,01,10214,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Newlon
 WGSS,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,10844,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 WGSS,230,Human Sexuality,01,10365,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Paup
+WGSS,230,Human Sexuality,02,10857,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 WGSS,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10967,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Aust
 WGSS,309,Women Writers,01,18392,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Campbell
 WGSS,316,[DIVR] Gender in Cross Cultural Perspective,01,10243,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Weber
@@ -651,7 +658,7 @@ WGSS,324,Psychology of Gender,01,10372,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mcraney
 WGSS,351,[DIVR] The Family,02,17974,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 WGSS,363,[DIVR] Women in Music,01,10701,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
 WGSS,363,[DIVR] Women in Music,02,10853,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
-WGSS,403,[CAPS] Violence Toward Women,02,10832,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
+WGSS,403,[CAPS] Violence Toward Women,02,10832,3,ARRGT,ARR ARR,Dec 18--Jan 09,M Miller
 WGSS,464,Gender and the Media,01,10427,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Kang
 WRIT,302,Advanced Writing Collaborative,01,10945,1,ARRGT,ARR ARR,Aug 23--Dec 10,T Holland
 WRIT,302,Advanced Writing Collaborative,02,"",1,ARRGT,ARR ARR,Jul 05--Sep 17,D Casoinic
