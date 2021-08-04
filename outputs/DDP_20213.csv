@@ -163,6 +163,7 @@ COMSTRAT,701,Master's Independent Capstone Project and /or Examination,01,10551,
 CPT_S,131,Program Design and Development Java,01,10710,4,ARRGT,ARR ARR,Aug 23--Dec 10,S Badri
 CPT_S,131,Program Design and Development Java,01 Lab,10719,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Badri
 CPT_S,215,Data Analytics Systems and Algorithms,01,10696,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Badri
+CPT_S,302,Professional Skills in Computing and Engineering,01,"",3,"TU,TH13.30-14.45","",Aug 23--Dec 10,J Thompson
 CPT_S,315,Introduction to Data Mining,01,10215,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Jillepalli
 CPT_S,415,Big Data,01,10722,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Badri
 CPT_S,484,Software Requirements,01,10820,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
@@ -182,14 +183,14 @@ CRM_J,420,[M] Criminal Procedure,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,D Brody
 CRM_J,450,[M] Senior Seminar: Ethical Issues in Criminal Justice,01,10813,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Snyder
 CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Keopanapay
 CRM_J,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-DATA,115,Introduction to Data Analytics,01,10695,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Deford
+DATA,115,Introduction to Data Analytics,01,10695,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,17587,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Gregory
 DTC,475,[DIVR] Digital Diversity,01,11103,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_E,214,Design of Logic Circuits,01,"",4,"M,W9-10.15","",Aug 23--Dec 10,M Kejariwal
 E_E,214,Design of Logic Circuits,01 Lab,"",0,M13-16,"",Aug 23--Dec 10,M Kejariwal
-E_E,302,Professional Skills in Computing and Engineering,01,"",3,"TU,TH13.30-14.45","",Aug 23--Dec 10,J Thompson
+E_E,302,Professional Skills in Computing and Engineering,01,"",3,"TU,TH13.30-14.30","",Aug 23--Dec 10,J Thompson
 E_E,311,Electronics,01,"",3,"M,W10.30-11.45","",Aug 23--Dec 10,M Kejariwal
 E_E,321,Electrical Circuits II,01,"",3,"TU,TH10.30-11.45","",Aug 23--Dec 10,J Guerrero Sedeno
 E_E,331,Electromagnetic Fields and Waves,01,"",3,"TU,TH9-10.15","",Aug 23--Dec 10,J Guerrero Sedeno
@@ -214,7 +215,7 @@ E_M,460,Integrated Supply Chain Management,01,"",3,TU18.15-20.45,WEB ARR,Aug 23-
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,"",3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,485,Design of Experiments,01,"",3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,508,Legal Concepts for Engineering and Technical Managers,01,10283,3,TU17.15-19.45,"",Aug 23--Dec 10,R Crick
-E_M,522,Leading People and Organizations,01,10278,3,TU17.15-19.45,"",Aug 23--Dec 10,K Bachman
+E_M,522,Leading People and Organizations,01,"",3,TU17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,530,Applications of Constraints Management,01,10412,3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
@@ -258,6 +259,7 @@ ENGLISH,309,Women Writers,01,18391,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Campbell
 ENGLISH,361,Everyday Rhetorics,01,10980,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Richards
 ENGLISH,361,Everyday Rhetorics,02,18469,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Richards
 ENGLISH,362,[DIVR] Rhetorics of Racism,01,10978,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Eddy
+ENGLISH,365,[WRTG] Proposal Writing,01,18606,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Staggers
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,10293,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Hager
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,10294,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Ericsson
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,10295,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Ericsson
@@ -362,9 +364,9 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,12247,3,ARRGT,ARR ARR,Aug
 HISTORY,110,[HUM] American History to 1877,01,10827,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Thigpen
 HISTORY,120,[DIVR] World History I,02,10828,3,ARRGT,ARR ARR,Dec 18--Jan 09,S Herzog
 HISTORY,300,[M] Writing about History,01,10811,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Thigpen
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,10205,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Musgrave
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,03,11116,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Harrington
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,17642,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Thigpen
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,10205,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Krotke-Crandall
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,03,11116,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Krotke-Crandall
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,17642,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Krotke-Crandall
 HISTORY,308,"[DIVR] North American Indian History, Precontact to Present",01,10203,3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
 HISTORY,388,US and Vietnam,01,10963,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Bauman
 HISTORY,390,U.S. Military History,01,17235,3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
@@ -508,7 +510,7 @@ MKTG,561,New Product Marketing,03,17678,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MKTG,561,New Product Marketing,04,17679,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MKTG,561,New Product Marketing,05,17680,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MKTG,561,New Product Marketing,06,17681,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
-MKTG,561,New Product Marketing,07,17682,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
+MKTG,561,New Product Marketing,07,17682,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MUS,160,[ARTS] Survey of Music Literature,01,10400,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mccarthy
 MUS,160,[ARTS] Survey of Music Literature,02,10849,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
 MUS,262,[ARTS] Rock Music: History and Social Analysis,01,10402,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Svendsen
@@ -555,7 +557,7 @@ PSYCH,312,[M] Research Methods in Psychology,01 Lab,10369,0,ARRGT,ARR ARR,Aug 23
 PSYCH,312,[M] Research Methods in Psychology,02 Lab,17944,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Lane
 PSYCH,321,Personality,01,10370,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Byrd
 PSYCH,324,Psychology of Gender,01,10371,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mcraney
-PSYCH,328,[M] Self Control,01,10373,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
+PSYCH,328,[M] Self Control,01,10373,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Mauzay
 PSYCH,328,[M] Self Control,02,10374,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
 PSYCH,333,Abnormal Psychology,01,10375,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Bridley
 PSYCH,333,Abnormal Psychology,02,12361,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
@@ -629,14 +631,14 @@ SPEC_ED,509,Early Childhood Special Education,01,10395,3,ARRGT,ARR ARR,Aug 23--D
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,10397,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,12310,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-STAT,212,[QUAN] Introduction to Statistical Methods,01,10421,4,ARRGT,ARR ARR,Aug 23--Dec 10,Y Tang
-STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,10454,0,ARRGT,ARR ARR,Aug 23--Dec 10,Y Tang
+STAT,212,[QUAN] Introduction to Statistical Methods,01,10421,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,10454,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Rao
 STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
 STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Li
-STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
-STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Kaul
+STAT,435,[M] Statistical Modeling for Data Analytics,01 Lab,11123,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Kaul
 TCH_LRN,415,Student Teaching,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,415,Student Teaching,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,M Coulter
 TCH_LRN,499,Special Problems,01,10734,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
