@@ -79,6 +79,8 @@ B_A,579,MBA Capstone,15,"",2,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,599,Strategic Planning for Personal and Program Success,01,10995,1,ARRGT,ARR ARR,Aug 23--Sep 26,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,02,10996,1,ARRGT,ARR ARR,Aug 23--Sep 26,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,03,10997,1,ARRGT,ARR ARR,Aug 23--Sep 26,D Mundell
+B_A,599,Strategic Planning for Personal and Program Success,04,10998,1,ARRGT,ARR ARR,Aug 23--Sep 26,D Mundell
+B_A,599,Strategic Planning for Personal and Program Success,05,10999,1,ARRGT,ARR ARR,Aug 23--Sep 26,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,08,11002,1,ARRGT,ARR ARR,Oct 04--Nov 07,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,12,11006,1,ARRGT,ARR ARR,Nov 08--Dec 12,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,15,"",1,ARRGT,ARR ARR,Aug 23--Dec 12,R Liu
@@ -125,7 +127,7 @@ COM,102,[COMM] Public Speaking in the Digital Age,07,11017,3,ARRGT,ARR ARR,Dec 1
 COM,105,[HUM] Communication in Global Contexts,01,10499,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Curtis
 COM,105,[HUM] Communication in Global Contexts,03,10826,3,ARRGT,ARR ARR,Dec 18--Jan 09,C Curtis
 COM,138,Introduction to Communication,01,10682,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Simmons
-COM,210,[COMM] Multimedia Content Creation,01,10312,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Yel
+COM,210,[COMM] Multimedia Content Creation,01,10312,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Curtis
 COM,300,[M] Writing in Communication,01,10848,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Mclaughlin
 COM,300,[M] Writing in Communication,04,11151,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Cuen Paxson
 COM,309,Quantitative Research Methods,01,10754,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Peng
@@ -153,6 +155,8 @@ COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,0
 COMSTRAT,475,Strategic Communication Seminar in Public Relations,02,17648,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Waananen Jones
 COMSTRAT,476,Consumer Insights and Branding,01,10833,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Jameson
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,10810,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hawkins-Jedlicka
+COMSTRAT,485,[M] Public Relations Management and Campaigns,02,12205,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Gillig
+COMSTRAT,485,[M] Public Relations Management and Campaigns,03,12208,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Boyd
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Stout
 COMSTRAT,561,Persuasion for Professional Communicators,01,10428,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Richardson
 COMSTRAT,562,Creative Media Strategies and Techniques,01,10316,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hawkins-Jedlicka
@@ -220,7 +224,6 @@ E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,"",Aug 23--Dec 
 E_M,530,Applications of Constraints Management,01,10412,3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
 E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
-E_M,564,Project Management,02,12274,3,M17.15-19.45,"",Aug 23--Dec 10,W Gray
 E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,WEB ARR,Aug 23--Dec 10,A Squires
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,11112,3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,W17.15-19.45,"",Aug 23--Dec 10,W Gray
@@ -300,7 +303,7 @@ FIN,527,Investment Analysis,05,17665,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FIN,527,Investment Analysis,06,17666,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FIN,527,Investment Analysis,07,17667,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FIN,527,Investment Analysis,08,17668,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
-FIN,527,Investment Analysis,09,17669,3,ARRGT,ARR ARR,Aug 23--Oct 10,""
+FIN,527,Investment Analysis,09,17669,3,ARRGT,ARR ARR,Aug 23--Oct 10,R Hernandez
 FINE_ART,101,[ARTS] Introduction to Art,01,10321,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Doty
 FINE_ART,103,[ARTS] 3D Art and Design,01,11136,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Palmer
 FINE_ART,110,[ARTS] Drawing,01,18020,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Holloman
@@ -336,7 +339,6 @@ H_D,495,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Anderson
 H_D,497,Professional Preparation Seminar,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T Reiss
 H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Hewa
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-H_D,505,Developing Effective Leadership: Tidal Leadership,01,10505,2,ARRGT,ARR ARR,Aug 23--Dec 10,J Hewa
 HBM,101,Professional and Career Development for the Business World,01,10207,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,10666,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,101,Professional and Career Development for the Business World,03,11171,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
@@ -373,9 +375,11 @@ HISTORY,390,U.S. Military History,01,17235,3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svin
 HISTORY,422,History of the Pacific Northwest,01,17588,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Stack
 HISTORY,444,[CAPS] The Renaissance,01,11113,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Traver
 HISTORY,466,"History of the Cold War, 1944-present",01,17701,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Chastain
+HISTORY,499,Special Problems,01,10328,V,ARRGT,ARR ARR,Sep 27--Oct 29,J Thigpen
 HONORS,280,Contextual Understanding in the Arts and Humanities,02,15480,3,ARRGT,ARR ARR,Aug 23--Dec 10,E Lampman
 HONORS,290,Science as a Way of Knowing,03,18445,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Schultz
 HONORS,398,Honors Thesis Proposal Seminar,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,E Lampman
+HONORS,398,Honors Thesis Proposal Seminar,04,17747,1,ARRGT,ARR ARR,Aug 23--Dec 10,E Lampman
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HUMANITY,103,[HUM] Mythology,01,10474,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
 HUMANITY,103,[HUM] Mythology,02,10715,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Gowdy-Burke
@@ -424,7 +428,7 @@ ME,313,Engineering Analysis,01,"",3,"M,F14.10-15","",Aug 23--Dec 10,S Chien
 ME,313,Engineering Analysis,01 Lab,10436,0,W13-16,"",Aug 23--Dec 10,S Chien
 ME,316,Mechanical Component Analysis and Design,01,"",3,"M,W,F14.10-15","",Aug 23--Dec 10,M Pitts
 ME,415,[M] Engineering Design,01,"",3,"M,W,F12.10-13","",Aug 23--Dec 10,M Pitts
-ME,461,Introduction to Nuclear Engineering,01,"",3,"TU,TH16.15-17.30",WEB ARR,Aug 23--Dec 10,R Stout
+ME,461,Introduction to Nuclear Engineering,01,10442,3,"TU,TH16.15-17.30",WEB ARR,Aug 23--Dec 10,R Stout
 ME,481,Control Systems,01,17967,3,"M,W,F11.10-12","",Aug 23--Dec 10,M Luo
 ME,483,Topics in Mechanical Engineering,01,17597,3,"W,F16.15-17.30",WEB ARR,Aug 23--Dec 10,G Taub
 MGMT,301,Principles of Management and Organization,01,10336,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
@@ -518,7 +522,7 @@ MUS,262,[ARTS] Rock Music: History and Social Analysis,02,10401,3,ARRGT,ARR ARR,
 MUS,262,[ARTS] Rock Music: History and Social Analysis,04,10850,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
 MUS,265,[HUM] Native Music of North America,01,10459,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Parkhurst
 MUS,266,[ARTS] Film Music,01,11188,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
-MUS,362,[DIVR] History of Jazz,01,10403,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MUS,362,[DIVR] History of Jazz,01,10403,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Costa
 MUS,362,[DIVR] History of Jazz,02,12241,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Miller
 MUS,362,[DIVR] History of Jazz,03,10851,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
 MUS,363,[DIVR] Women in Music,01,10700,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
@@ -545,6 +549,7 @@ POL_S,498,Public Policy Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Elgar
 PSYCH,105,[SSCI] Introductory Psychology,01,10363,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Bridley
 PSYCH,201,Degrees and Careers in Psychology,01,10938,1,ARRGT,ARR ARR,Aug 23--Dec 10,L Daffin
 PSYCH,210,Psychology as a Science,01,10478,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Stubblefield
+PSYCH,210,Psychology as a Science,02,12232,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Pugliese
 PSYCH,230,Human Sexuality,01,10364,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Paup
 PSYCH,230,Human Sexuality,02,10856,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,01,10366,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Clark
@@ -604,7 +609,7 @@ SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,17986,0,A
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,10208,4,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,10209,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
 SOE,210,[PSCI] Earth's History and Evolution,01,10387,4,ARRGT,ARR ARR,Aug 23--Dec 10,J Boro
-SOE,210,[PSCI] Earth's History and Evolution,01 Lab,10388,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOE,210,[PSCI] Earth's History and Evolution,01 Lab,10388,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Boro
 SOE,285,The Science and Policy of Climate Change,01,11050,3,ARRGT,"",Aug 23--Dec 10,K Whitman
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,11024,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Ostrom
 SOE,390,Living on the Edge: Global Climate Change and Earth History,01,10860,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Williams
@@ -624,15 +629,15 @@ SPEC_ED,401,Teaching Students with Disabilities,01,10390,3,ARRGT,ARR ARR,Aug 23-
 SPEC_ED,404,Professional Skills in Special Education,01,10392,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Whittenburg
 SPEC_ED,409,Early Childhood Special Education,01,10394,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
 SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,10396,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
-SPEC_ED,499,Special Problems,01,10398,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SPEC_ED,499,Special Problems,01,10398,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,501,Teaching Students with Disabilities,01,10391,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
 SPEC_ED,504,Professional Skills in Special Education,01,10393,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Whittenburg
 SPEC_ED,509,Early Childhood Special Education,01,10395,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,10397,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,12310,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-STAT,212,[QUAN] Introduction to Statistical Methods,01,10421,4,ARRGT,ARR ARR,Aug 23--Dec 10,""
-STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,10454,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
+STAT,212,[QUAN] Introduction to Statistical Methods,01,10421,4,ARRGT,ARR ARR,Aug 23--Dec 10,R Stancil
+STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,10454,0,ARRGT,ARR ARR,Aug 23--Dec 10,R Stancil
 STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Rao
 STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
 STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
