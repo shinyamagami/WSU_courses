@@ -54,6 +54,7 @@ B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",03,11170,3,ARR
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",04,11187,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
 B_A,500,Data Analysis for Managers,01,10535,2,ARRGT,ARR ARR,Aug 23--Sep 26,T Kokta
 B_A,500,Data Analysis for Managers,07,17220,2,ARRGT,ARR ARR,Oct 04--Nov 07,T Kokta
+B_A,500,Data Analysis for Managers,08,17221,2,ARRGT,ARR ARR,Oct 04--Nov 07,""
 B_A,502,Foundations in Operations Management,01,10541,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
 B_A,502,Foundations in Operations Management,02,10542,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
 B_A,502,Foundations in Operations Management,03,10543,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
@@ -110,7 +111,6 @@ BIOLOGY,393,[M] Professional Communications in Biology,01,10453,2,ARRGT,ARR ARR,
 BIOLOGY,401,[CAPS] Plants and People,01,11115,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Thomas
 CAS,311,[SSCI] [M] Special Topics in Social Sciences: Cross-disciplinary Studies,01,17923,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Whelchel
 CAS,400,End-of-Program Evaluation Portfolio,01,10326,1,ARRGT,ARR ARR,Aug 23--Dec 10,A Rocha
-CAS,497,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,508,Concrete Durability,01,10819,3,ARRGT,ARR ARR,Aug 23--Dec 10,X Shi
 CE,572,Advanced Pavement Design and Analysis,01,17796,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Wen
 CES,271,[HUM] Native Music of North America,01,10460,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Parkhurst
@@ -126,6 +126,7 @@ COM,102,[COMM] Public Speaking in the Digital Age,03,10723,3,ARRGT,ARR ARR,Aug 2
 COM,102,[COMM] Public Speaking in the Digital Age,04,12217,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Haider
 COM,102,[COMM] Public Speaking in the Digital Age,07,11017,3,ARRGT,ARR ARR,Dec 18--Jan 09,M Kistler
 COM,105,[HUM] Communication in Global Contexts,01,10499,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Peterson
+COM,105,[HUM] Communication in Global Contexts,02,11150,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Risenmay
 COM,105,[HUM] Communication in Global Contexts,03,10826,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 COM,138,Introduction to Communication,01,10682,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Simmons
 COM,210,[COMM] Multimedia Content Creation,01,10312,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Pingel
@@ -157,7 +158,6 @@ COMSTRAT,475,Strategic Communication Seminar in Public Relations,02,17648,3,ARRG
 COMSTRAT,476,Consumer Insights and Branding,01,10833,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Jameson
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,10810,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hawkins-Jedlicka
 COMSTRAT,485,[M] Public Relations Management and Campaigns,02,12205,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Gillig
-COMSTRAT,485,[M] Public Relations Management and Campaigns,03,12208,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Boyd
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Schweigert
 COMSTRAT,561,Persuasion for Professional Communicators,01,10428,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Richardson
 COMSTRAT,562,Creative Media Strategies and Techniques,01,10316,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Hawkins-Jedlicka
@@ -224,7 +224,7 @@ E_M,522,Leading People and Organizations,01,"",3,TU17.15-19.45,"",Aug 23--Dec 10
 E_M,522,Leading People and Organizations,02,10885,3,W17.15-19.45,"",Aug 23--Dec 10,K Bachman
 E_M,530,Applications of Constraints Management,01,10412,3,TH18.15-20.45,"",Aug 23--Dec 10,L Magpili
 E_M,560,Integrated Supply Chain Management,01,10674,3,TU18.15-20.45,WEB ARR,Aug 23--Dec 10,L Magpili
-E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,W Gray
+E_M,564,Project Management,01,10282,3,M17.15-19.45,WEB ARR,Aug 23--Dec 10,""
 E_M,566,Trade-off Analytics: Exploring the System Tradespace,01,11108,3,TH17.15-19.45,WEB ARR,Aug 23--Dec 10,A Squires
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,11112,3,W18.15-20.45,"",Aug 23--Dec 10,D Paulus
 E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,W17.15-19.45,"",Aug 23--Dec 10,W Gray
@@ -328,7 +328,7 @@ H_D,307,Adolescence and Emerging Adulthood,01,10486,3,ARRGT,ARR ARR,Aug 23--Dec 
 H_D,310,[M] Research Methods,01,10263,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,341,Guidance in Early Childhood Programs,01,10265,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,342,Curriculum for Early Childhood Programs,01,10266,4,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
-H_D,342,Curriculum for Early Childhood Programs,01 Lab,10267,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Grant
+H_D,342,Curriculum for Early Childhood Programs,01 Lab,10267,0,ARRGT,ARR ARR,Aug 23--Dec 10,L Krupke
 H_D,350,[DIVR] Family Diversity,01,10268,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Bice
 H_D,385,Perspectives in Human Services,01,10751,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Smith
 H_D,403,[CAPS] Families in Poverty,01,10269,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Garcia
@@ -344,7 +344,6 @@ H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Hewa
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HBM,101,Professional and Career Development for the Business World,01,10207,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,10666,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
-HBM,101,Professional and Career Development for the Business World,03,11171,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,235,"[SSCI] Travel, Society, and Business",01,10554,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Han
 HBM,280,Hospitality Systems,01,10327,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Philander
 HBM,301,Introduction to Event Planning,01,10500,3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
@@ -362,7 +361,6 @@ HBM,495,[CAPS] Case Studies and Research,01,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,O 
 HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,O Larina
 HBM,497,Special Topics,01,"",V,ARRGT,ARR ARR,Jul 05--Sep 17,""
 HBM,582,Hospitality Operations Analysis,01,17691,3,ARRGT,ARR ARR,Aug 23--Oct 10,C Chi
-HBM,582,Hospitality Operations Analysis,02,17692,3,ARRGT,ARR ARR,Aug 23--Oct 10,C Chi
 HISTORY,102,[HUM] Modern Europe,01,10199,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Miller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,10204,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Sanders
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,10855,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Weller
@@ -389,6 +387,7 @@ HUMANITY,103,[HUM] Mythology,01,10474,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
 HUMANITY,103,[HUM] Mythology,02,10715,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Gowdy-Burke
 I_BUS,380,International Business,01,10329,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 I_BUS,380,International Business,02,10652,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
+I_BUS,380,International Business,03,10896,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 I_BUS,380,International Business,04,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,K Tajeddini
 I_BUS,380,International Business,05,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,K Tajeddini
 I_BUS,453,[M] International Management,01,10330,3,ARRGT,ARR ARR,Oct 18--Dec 12,D Nelson
@@ -426,15 +425,15 @@ MBIOS,578,Bioinformatics,01 Lab,10233,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MBIOS,583,Professional Skills Seminar,01,10236,1,ARRGT,ARR ARR,Aug 23--Dec 10,J Arneson
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,10863,V,ARRGT,"",Aug 23--Dec 10,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,10238,V,ARRGT,ARR ARR,Aug 23--Dec 10,N Mccabe
-ME,303,Fluid Mechanics,01,"",3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,B Asgharian Dastenaie
+ME,303,Fluid Mechanics,01,10431,3,"M,W,F12.10-13",WEB ARR,Aug 23--Dec 10,B Asgharian Dastenaie
 ME,304,Heat Transfer,01,17596,3,"M,W,F10.10-11","",Aug 23--Dec 10,B Asgharian Dastenaie
-ME,313,Engineering Analysis,01,"",3,"M,F14.10-15","",Aug 23--Dec 10,S Chien
-ME,313,Engineering Analysis,01 Lab,10436,0,W13-16,"",Aug 23--Dec 10,S Chien
+ME,313,Engineering Analysis,01,10435,3,"M,F14.10-15","",Aug 23--Dec 10,M Bani Salim
+ME,313,Engineering Analysis,01 Lab,10436,0,W13-16,"",Aug 23--Dec 10,M Bani Salim
 ME,316,Mechanical Component Analysis and Design,01,"",3,"M,W,F14.10-15","",Aug 23--Dec 10,M Pitts
 ME,415,[M] Engineering Design,01,"",3,"M,W,F12.10-13","",Aug 23--Dec 10,M Pitts
 ME,461,Introduction to Nuclear Engineering,01,10442,3,"TU,TH16.20-17.35",WEB ARR,Aug 23--Dec 10,R Stout
 ME,481,Control Systems,01,17967,3,"M,W,F11.10-12","",Aug 23--Dec 10,M Luo
-ME,483,Topics in Mechanical Engineering,01,17597,3,"W,F16.15-17.30",WEB ARR,Aug 23--Dec 10,G Taub
+ME,483,Topics in Mechanical Engineering,01,17597,3,"W,F16.15-17.30",WEB ARR,Aug 23--Dec 10,""
 MGMT,301,Principles of Management and Organization,01,10336,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
 MGMT,301,Principles of Management and Organization,02,10653,3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
 MGMT,401,Leading People and Organizations,01,10339,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Gingras
@@ -494,6 +493,7 @@ MGTOP,340,Operations Management,01,10353,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
 MGTOP,340,Operations Management,02,10661,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
 MIS,250,Managing Information Technology,01,10354,3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
 MIS,250,Managing Information Technology,02,10555,3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
+MIS,250,Managing Information Technology,03,10658,3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
 MIS,325,Enterprise Business Development,01,10356,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
 MIS,325,Enterprise Business Development,02,11012,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
 MIS,372,[M] Data Management,01,17230,3,ARRGT,ARR ARR,Aug 23--Oct 10,M Carter
@@ -508,6 +508,7 @@ MIT,530,Elementary School Social Studies Methods,01,"",3,ARRGT,ARR ARR,Aug 23--D
 MKTG,360,Marketing,01,10357,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MKTG,360,Marketing,02,10659,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MKTG,360,Marketing,03,10660,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
+MKTG,360,Marketing,04,10733,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MKTG,360,Marketing,06,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,P Ossola
 MKTG,360,Marketing,07,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,P Ossola
 MKTG,477,Integrated Marketing Communications,01,10740,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Marvel
@@ -528,7 +529,6 @@ MUS,262,[ARTS] Rock Music: History and Social Analysis,04,10850,3,ARRGT,ARR ARR,
 MUS,265,[HUM] Native Music of North America,01,10459,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Parkhurst
 MUS,266,[ARTS] Film Music,01,11188,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
 MUS,362,[DIVR] History of Jazz,01,10403,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Costa
-MUS,362,[DIVR] History of Jazz,02,12241,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Miller
 MUS,362,[DIVR] History of Jazz,03,10851,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
 MUS,363,[DIVR] Women in Music,01,10700,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
 MUS,363,[DIVR] Women in Music,02,10852,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
@@ -632,11 +632,13 @@ SPANISH,306,Intermediate Reading and Translation,01,17327,3,ARRGT,ARR ARR,Aug 23
 SPANISH,306,Intermediate Reading and Translation,02,17328,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
 SPEC_ED,301,Education of Exceptional Children,01,10389,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
 SPEC_ED,401,Teaching Students with Disabilities,01,10390,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
+SPEC_ED,401,Teaching Students with Disabilities,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Van Horn
 SPEC_ED,404,Professional Skills in Special Education,01,10392,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Whittenburg
 SPEC_ED,409,Early Childhood Special Education,01,10394,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
 SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,10396,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
 SPEC_ED,499,Special Problems,01,10398,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Dunn
 SPEC_ED,501,Teaching Students with Disabilities,01,10391,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
+SPEC_ED,501,Teaching Students with Disabilities,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Van Horn
 SPEC_ED,504,Professional Skills in Special Education,01,10393,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Whittenburg
 SPEC_ED,509,Early Childhood Special Education,01,10395,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,10397,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin

@@ -16,7 +16,7 @@ B_A,100,Introduction to Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,C Cooney
 B_A,211,"Ethics, Teams, and Innovation",01,09589,3,"TU,TH10.35-11.50",TFLO 231,Aug 23--Dec 10,J Bravo
 B_A,211,"Ethics, Teams, and Innovation",02,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,17197,3,"TU,TH16.20-17.35",TFLO 145,Aug 23--Dec 10,S Koopman
-B_LAW,210,Law and the Legal Environment of Business,01,08520,3,"M,W19.15-20.30",TFLO 244,Aug 23--Dec 10,B Spooner
+B_LAW,210,Law and the Legal Environment of Business,01,08520,3,"M,W19.15-20.30",TFLO 244,Aug 23--Dec 10,B Goodey
 BIO_ENG,475,Introduction to Biochemical Engineering,01,09773,3,"M,W,F10.10-11",TFLO 210,Aug 23--Dec 10,B Ahring
 BIOLOGY,102,[BSCI] General Biology,01,08627,4,"M,W,F12.10-13",TCOL 202,Aug 23--Dec 10,Y Liu
 BIOLOGY,102,[BSCI] General Biology,01 Lab,08628,0,TU9.10-12,TCOL 226,Aug 23--Dec 10,Y Liu
@@ -33,7 +33,6 @@ BIOLOGY,301,General Genetics,03,09583,4,"M,W,F12.10-13",TCIC 210,Aug 23--Dec 10,
 BIOLOGY,301,General Genetics,"","","",W11.10-12,TCIC 210,"",""
 BIOLOGY,352,Cells,01,09272,3,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,M Klotz
 BIOLOGY,354,Human Anatomy for Health Occupations,01,08641,4,"M,W,F13.10-14",TCOL 102,Aug 23--Dec 10,K Bergstrom
-BIOLOGY,354,Human Anatomy for Health Occupations,01 Lab,08642,0,TU13.30-16.20,TCOL 214,Aug 23--Dec 10,K Bergstrom
 BIOLOGY,354,Human Anatomy for Health Occupations,03 Lab,08700,0,TH9.10-12,TCOL 214,Aug 23--Dec 10,K Bergstrom
 BIOLOGY,354,Human Anatomy for Health Occupations,04 Lab,17209,0,TH13.30-16.20,TCOL 214,Aug 23--Dec 10,K Bergstrom
 BIOLOGY,372,[M] General Ecology,01,08593,4,"TU,TH12.05-13.20",TCOL 202,Aug 23--Dec 10,L Nelson
@@ -41,7 +40,7 @@ BIOLOGY,372,[M] General Ecology,02 Lab,08595,0,W8.10-11,TCOL 222,Aug 23--Dec 10,
 BIOLOGY,372,[M] General Ecology,04 Lab,09480,0,W14.10-17,TCOL 222,Aug 23--Dec 10,L Nelson
 BIOLOGY,401,[CAPS] Plants and People,01,08720,3,"TU,TH9.10-10.25",TFLO 231,Aug 23--Dec 10,T Cheeke
 BIOLOGY,420,Plant Physiology,01,08681,3,"TU,TH12.05-13.20",TFLO 260,Aug 23--Dec 10,A Felsot
-BIOLOGY,430,Methods of Teaching Secondary Science I,01,09801,3,TH17.15-20,TCOL 222,Aug 23--Dec 10,J Firestone
+BIOLOGY,430,Methods of Teaching Secondary Science I,01,09801,3,TH17.15-20,TCOL 114,Aug 23--Dec 10,J Firestone
 BIOLOGY,469,[M] Ecosystem Ecology and Global Change,01,09413,3,"TU,TH10.35-11.50",TFLO 256,Aug 23--Dec 10,R Evans
 BIOLOGY,495,"Internship in Biology, Botany, and Zoology",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -55,8 +54,8 @@ BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,08576,V,ARRGT,ARR
 BIOLOGY,702,"Master's Special Problems, Directed Study and/or Examination",01,08710,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,08577,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 BSYSE,551,Advanced Biological Systems Engineering Topics,01,08752,3,F9.10-11.40,TFLO 224,Aug 23--Dec 10,B Yang
-BSYSE,596,Biomass Thermo-Chemical Conversion,01,09271,3,M8.10-10.40,TFLO 224,Aug 23--Dec 10,M Garcia-Perez
-BSYSE,598,Graduate Seminar,01,08426,1,TH16.10-17,TFLO 224,Aug 23--Dec 10,S Sablani
+BSYSE,596,Biomass Thermo-Chemical Conversion,01,09271,3,"M,W8.10-9.25",TFLO 224,Aug 23--Dec 10,M Garcia-Perez
+BSYSE,598,Graduate Seminar,01,08426,1,TH16.10-17,TFLO 209,Aug 23--Dec 10,S Sablani
 BSYSE,700,"Master's Research, Thesis, and/or Examination",01,08434,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,08436,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,211,Statics,01,08706,3,"TU,TH17.45-19",TCIC 210,Aug 23--Dec 10,M Hossain
@@ -67,16 +66,16 @@ CE,317,[M] Geotechnical Engineering I,01,08477,4,"TU,TH12.05-13.20",TBSL 103,Aug
 CE,317,[M] Geotechnical Engineering I,01 Lab,08478,0,W12.10-15,TEST 111,Aug 23--Dec 10,M Mortuza
 CE,330,Introduction to Structural Engineering,01,08479,3,"TU,TH13.30-14.45",TFLO 138,Aug 23--Dec 10,M Mortuza
 CE,341,Introduction to Environmental Engineering,01,08480,3,"TU,TH10.35-11.50",TFLO 230,Aug 23--Dec 10,M Hossain
-CE,405,Decision-Making for Sustainable and Resilient Civil Infrastructure,01,09258,3,"TU,TH17.45-19",TFLO 230,Aug 23--Dec 10,""
+CE,405,Decision-Making for Sustainable and Resilient Civil Infrastructure,01,09258,3,"TU,TH17.45-19",TFLO 230,Aug 23--Dec 10,H Yan
 CE,433,Reinforced Concrete Design,01,08812,3,"TU,TH10.35-11.50",TFLO 240,Aug 23--Dec 10,J Morshed
 CE,451,Open Channel Flow,01,08484,3,"TU,TH9.10-10.25",TCOL 126,Aug 23--Dec 10,Y Demissie
 CE,463,Engineering Administration,01,08486,3,"M,W16.15-17.30",TFLO 240,Aug 23--Dec 10,J Morshed
 CE,475,Groundwater,01,09577,3,"M,W12.10-13",TBSL 102,Aug 23--Dec 10,M Hossain
 CE,475,Groundwater,01 Lab,09581,0,W8-10.50,TEST 111,Aug 23--Dec 10,M Hossain
-CE,480,[M] Ethics and Professionalism,01,08487,1,W13.10-14,TFLO 239,Aug 23--Dec 10,""
+CE,480,[M] Ethics and Professionalism,01,08487,1,W13.10-14,TFLO 239,Aug 23--Dec 10,D Young
 CE,495,Engineering Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-CE,505,Decision-Making for Sustainable and Resilient Civil Infrastructure,01,09259,3,"TU,TH17.45-19",TFLO 230,Aug 23--Dec 10,""
+CE,505,Decision-Making for Sustainable and Resilient Civil Infrastructure,01,09259,3,"TU,TH17.45-19",TFLO 230,Aug 23--Dec 10,H Yan
 CE,532,Finite Elements,01,08856,3,"M,W16.15-17.30",TCOL 126,Aug 23--Dec 10,Y Zhang
 CE,541,Physicochemical Water and Wastewater Treatment,01,08757,3,"TU,TH16.20-17.35",TFLO 260,Aug 23--Dec 10,M Hossain
 CE,551,Open Channel Flow,01,08485,3,"TU,TH9.10-10.25",TCOL 126,Aug 23--Dec 10,Y Demissie
@@ -86,7 +85,6 @@ CE,700,"Master's Research, Thesis and/or Examination",01,08490,V,ARRGT,ARR ARR,A
 CE,702,"Master's Special Problems, Directed Study, and/or Examination",01,08491,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,800,"Doctoral Research, Dissertation, and/or Examination",01,08492,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CHE,461,Introduction to Nuclear Engineering,01,08546,3,"TU,TH16.20-17.35",TFLO 210,Aug 23--Dec 10,R Stout
-CHE,475,Introduction to Biochemical Engineering,01,09772,3,"M,W,F10.10-11",TFLO 210,Aug 23--Dec 10,B Ahring
 CHE,510,Transport Processes,01,08420,3,"M,W,F9.10-10",TFLO 210,Aug 23--Dec 10,H Beyenal
 CHE,560,Biochemical Engineering,01,09769,3,"M,W,F10.10-11",TFLO 256,Aug 23--Dec 10,X Zhang
 CHE,581,Advanced Topics in Chemical Engineering,01,09770,V,"TU,TH12.05-13.20",TFLO 209,Aug 23--Dec 10,A Kostyukova
@@ -110,10 +108,10 @@ CHEM,345,Organic Chemistry I,01 Lab,08639,0,TH13.30-16.20,TBSL 173,Aug 23--Dec 1
 CHEM,345,Organic Chemistry I,02 Lab,08640,0,TH17.45-20.35,TBSL 173,Aug 23--Dec 10,N Devarie Baez
 CHEM,345,Organic Chemistry I,04 Lab,09394,0,W16.10-19,TBSL 173,Aug 23--Dec 10,N Devarie Baez
 CHEM,345,Organic Chemistry I,05 Lab,17210,0,TU13.30-16.20,TBSL 173,Aug 23--Dec 10,N Devarie Baez
-CHEM,401,Modern Inorganic Chemistry,01,"",3,"M,W,F8.10-9",WEB ARR,Aug 23--Dec 10,Q Zhang
+CHEM,401,Modern Inorganic Chemistry,01,"",3,"M,W,F8.10-9",TFLO 209,Aug 23--Dec 10,Q Zhang
 CHEM,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
-CHEM,501,Modern Inorganic Chemistry,01,"",3,"M,W,F8.10-9",WEB ARR,Aug 23--Dec 10,Q Zhang
-CHEM,542,Advanced Organic Chemistry,01,"",3,"M,W,F10.10-11",WEB ARR,Aug 23--Dec 10,G Crouch
+CHEM,501,Modern Inorganic Chemistry,01,"",3,"M,W,F8.10-9",TFLO 209,Aug 23--Dec 10,Q Zhang
+CHEM,542,Advanced Organic Chemistry,01,"",3,"M,W,F10.10-11",TFLO 209,Aug 23--Dec 10,G Crouch
 COM,102,[COMM] Public Speaking in the Digital Age,01,08676,3,"TU,TH12.05-13.20",TFLO 131,Aug 23--Dec 10,S Bisch
 COM,102,[COMM] Public Speaking in the Digital Age,02,08881,3,"M,W,F10.10-11",TFLO 133,Aug 23--Dec 10,S Bisch
 COMHLTH,572,Communicating Health to Specialized Populations,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Newman
@@ -122,7 +120,7 @@ CPT_S,121,Program Design and Development C/C++,01 Lab,08494,0,F16.10-19,TFLO 145
 CPT_S,121,Program Design and Development C/C++,02 Lab,18589,0,F13.10-16,TFLO 145,Aug 23--Dec 10,L Delatorre
 CPT_S,223,Advanced Data Structures C/C++,01,08495,3,"M,W16.15-17.30",TFLO 230,Aug 23--Dec 10,N Tenney
 CPT_S,224,Programming Tools,01,08496,2,"TU,TH16.20-17.10",TCOL 126,Aug 23--Dec 10,L Delatorre
-CPT_S,260,Introduction to Computer Architecture,01,08497,3,"TU,TH14.55-16.10",TFLO 138,Aug 23--Dec 10,R Lewis
+CPT_S,260,Introduction to Computer Architecture,01,08497,3,"TU,TH14.55-16.10",TCOL 202,Aug 23--Dec 10,R Lewis
 CPT_S,302,Professional Skills in Computing and Engineering,01,08498,3,"M,W17.45-19",TFLO 252,Aug 23--Dec 10,E Hirt
 CPT_S,317,Automata and Formal Languages,01,08500,3,"M,W,F14.10-15",TFLO 231,Aug 23--Dec 10,J Miller
 CPT_S,411,Introduction to Parallel Computing,01,08860,3,"TU,TH12.05-13.20",TFLO 247,Aug 23--Dec 10,A Sukumaran Rajam
@@ -130,7 +128,7 @@ CPT_S,415,Big Data,02,09765,3,"TU,TH7.45-9",TFLO 224,Aug 23--Dec 10,J Yu
 CPT_S,421,Software Design Project I,01,09435,3,F16.10-17,TCOL 202,Aug 23--Dec 10,B Philipp
 CPT_S,421,Software Design Project I,01 Lab,09436,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Philipp
 CPT_S,422,[M] Software Engineering Principles II,01,08501,3,"M,W,F15.10-16",TCOL 126,Aug 23--Dec 10,L Delatorre
-CPT_S,427,Computer Security,01,08715,3,"M,W,F12.10-13",TFLO 210,Aug 23--Dec 10,A Jillepalli
+CPT_S,427,Computer Security,01,08715,3,"M,W,F12.10-13",TFLO 151,Aug 23--Dec 10,A Jillepalli
 CPT_S,434,Neural Network Design and Application,01,09433,3,"TU,TH13.30-14.45",TCOL 126,Aug 23--Dec 10,J Miller
 CPT_S,440,Artificial Intelligence,01,08502,3,"TU,TH9.10-10.25",TFLO 224,Aug 23--Dec 10,L Holder
 CPT_S,442,Computer Graphics,01,08819,3,"TU,TH12.05-13.20",TFLO 256,Aug 23--Dec 10,R Lewis
@@ -141,12 +139,12 @@ CPT_S,483,Topics in Computer Science,01,09699,3,"M,W16.15-17.30",TFLO 224,Aug 23
 CPT_S,489,Web Development,01,09766,3,"M,W,F15.10-16",TFLO 256,Aug 23--Dec 10,C Hundhausen
 CPT_S,490,Work Study Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Lewis
 CPT_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-CPT_S,527,Computer Security,01,08716,3,"M,W,F12.10-13",TFLO 210,Aug 23--Dec 10,A Jillepalli
+CPT_S,527,Computer Security,01,08716,3,"M,W,F12.10-13",TFLO 151,Aug 23--Dec 10,A Jillepalli
 CPT_S,534,Neural Network Design and Application,01,09434,3,"TU,TH13.30-14.45",TCOL 126,Aug 23--Dec 10,J Miller
 CPT_S,540,Artificial Intelligence,01,08503,3,"TU,TH9.10-10.25",TFLO 224,Aug 23--Dec 10,L Holder
 CPT_S,542,Computer Graphics,01,08820,3,"TU,TH12.05-13.20",TFLO 256,Aug 23--Dec 10,R Lewis
 CPT_S,553,Graph Theory,01,08910,3,"M,W,F14.10-15",TFLO 256,Aug 23--Dec 10,M Hudelson
-CPT_S,595,Directed Study in Computer Science,01,08509,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Miller
+CPT_S,595,Directed Study in Computer Science,01,08509,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 CPT_S,600,Special Projects or Independent Study,01,08510,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,08511,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,08512,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -187,12 +185,13 @@ E_E,352,[M] Electrical Engineering Laboratory I,"","","","TU,TH13.30-16.20",TFLO
 E_E,415,Design Project Management,01,08527,3,F16.10-17,TCOL 202,Aug 23--Dec 10,B Philipp
 E_E,415,Design Project Management,01 Lab,08528,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Philipp
 E_E,455,Introduction to Computer Networks,01,08823,3,"M,W16.15-17.30",TFLO 244,Aug 23--Dec 10,R Swannack
-E_E,464,Digital Signal Processing I,01,09426,3,"TU,TH14.55-16.10",TFLO 239,Aug 23--Dec 10,S Hudson
+E_E,464,Digital Signal Processing I,01,09426,3,"TU,TH14.55-16.10",TCOL 126,Aug 23--Dec 10,S Hudson
 E_E,489,Introduction to Control Systems,01,08529,3,"TU,TH13.30-14.45",TFLO 240,Aug 23--Dec 10,D Lowry
 E_E,491,Performance of Power Systems,01,08693,3,"TU,TH12.05-13.20",TFLO 223,Aug 23--Dec 10,M Osman
 E_E,495,Internship in Electrical Industry,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_E,518,Advanced Electromagnetic Theory I,01,09395,3,"TU,TH16.20-17.35",TFLO 252,Aug 23--Dec 10,S Hudson
+E_E,582,Advanced Topics,01,18680,3,"TU,TH14.55-16.10",TFLO 224,Aug 23--Dec 10,N Schulz
 E_E,595,Directed Study in Electrical Engineering,01,08533,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Osman
 E_E,600,Special Projects or Independent Study,01,08534,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_E,700,"Master's Research, Thesis, and/or Examination",01,08535,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -201,12 +200,12 @@ E_E,800,"Doctoral Research, Dissertation, and/or Examination",01,08537,V,ARRGT,A
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,08579,3,"TU,TH9.10-10.25",TCOL 102,Aug 23--Dec 10,J Timmons
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,08718,3,"TU,TH10.35-11.50",TCOL 102,Aug 23--Dec 10,J Timmons
 ED_AD,501,Philosophy of Education,01,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,S Finley
-ED_AD,507,Social Foundations of Education,02,09427,3,TH17.45-20.30,TCOL 126,Aug 23--Dec 10,S Calderone
+ED_AD,507,Social Foundations of Education,02,09427,3,TH17.45-20.30,VC TRI,Aug 23--Dec 10,S Calderone
 ED_AD,512,Leadership Studies for Social Justice,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,K Rodela
-ED_AD,516,Instructional and Curricular Leadership,01,08692,V,M17.45-20.30,TCOL 126,Aug 23--Dec 10,K Cowin
+ED_AD,516,Instructional and Curricular Leadership,01,08692,V,M17.45-20.30,WEB ARR,Aug 23--Dec 10,K Cowin
 ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,J Walls
-ED_AD,589,Leadership Development Seminar,01,08691,3,W17.45-20.30,TCOL 126,Aug 23--Dec 10,K Cowin
-ED_AD,590,Internship,01,08438,V,SA9-14,TCOL 126,Sep 18--Sep 18,K Cowin
+ED_AD,589,Leadership Development Seminar,01,08691,3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,K Cowin
+ED_AD,590,Internship,01,08438,V,SA9-14,WEB ARR,Sep 18--Sep 18,K Cowin
 ED_AD,590,Internship,"","","",SA9-14,TCOL 126,"",""
 ED_AD,590,Internship,"","","",SA9-14,TCOL 126,"",""
 ED_AD,590,Internship,"","","",SA9-14,TCOL 126,"",""
@@ -219,7 +218,7 @@ ED_PSYCH,401,"Classroom Assessment, Elementary",01,08742,3,W10.10-12.55,TFLO 231
 ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,18066,3,W12.10-15,TFLO 247,Aug 23--Dec 10,R Danielson
 ED_PSYCH,504,Classroom-focused Research Methods,01,18492,2,TU12.10-15,TCIC 223,Aug 23--Dec 10,K Carbonneau
 ED_PSYCH,505,Research Methods I,01,09417,3,M17.45-20.30,TFLO 210,Aug 23--Dec 10,H Liao
-ED_PSYCH,507,Introduction to Qualitative Research,01,18653,3,TH9.10-12,VC TRI,Aug 23--Dec 10,Z Strong
+ED_PSYCH,507,Introduction to Qualitative Research,01,18653,3,TH9.10-12,TCIC 223,Aug 23--Dec 10,Z Strong
 ED_PSYCH,508,Educational Statistics,01,09416,3,TU17.45-20.35,TFLO 260,Aug 23--Dec 10,H Liao
 ED_PSYCH,521,Topics in Educational Psychology,01,09764,3,M17.45-20.30,TFLO 224,Aug 23--Dec 10,R Danielson
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,09746,3,TU17.45-20.35,TCIC 221,Aug 23--Dec 10,A Rud
@@ -232,12 +231,14 @@ ENGLISH,101,[WRTG] College Composition,01,08649,3,"M,W,F9.10-10",TCIC 214,Aug 23
 ENGLISH,101,[WRTG] College Composition,02,08650,3,"M,W,F11.10-12",TFLO 138,Aug 23--Sep 05,R Mays
 ENGLISH,101,[WRTG] College Composition,"","","","M,W11.10-12",TFLO 138,"",""
 ENGLISH,101,[WRTG] College Composition,03,08651,3,"TU,TH10.35-11.50",TCIC 217,Aug 23--Dec 10,G Escalera
-ENGLISH,101,[WRTG] College Composition,04,08652,3,"TU,TH9.10-10.25",TCIC 214,Aug 23--Dec 10,P Weatherly
+ENGLISH,101,[WRTG] College Composition,04,08652,3,TU9.10-10.25,TCIC 214,Aug 23--Dec 10,P Weatherly
+ENGLISH,101,[WRTG] College Composition,"","","",TH9.10-10.25,WEB ARR,"",""
+ENGLISH,101,[WRTG] College Composition,05,08944,3,"TU,TH9.10-10.25",TFLO 133,Aug 23--Dec 10,G Escalera
 ENGLISH,102,Writing Tutorial,01,09400,1,ARRGT,ARR ARR,Aug 23--Dec 10,R Mays
-ENGLISH,102,Writing Tutorial,02,09401,1,W11.10-12,TFLO 240,Sep 06--Dec 10,R Mays
-ENGLISH,102,Writing Tutorial,04,09403,1,M10.10-11,TFLO 240,Sep 06--Dec 10,R Mays
-ENGLISH,102,Writing Tutorial,05,09409,1,TH12.05-12.55,TFLO 240,Sep 06--Dec 10,R Mays
-ENGLISH,102,Writing Tutorial,06,09410,1,TH15-15.50,TFLO 240,Sep 06--Dec 10,R Mays
+ENGLISH,102,Writing Tutorial,02,09401,1,W11.10-12,"",Sep 06--Dec 10,R Mays
+ENGLISH,102,Writing Tutorial,04,09403,1,M10.10-11,"",Sep 06--Dec 10,R Mays
+ENGLISH,102,Writing Tutorial,05,09409,1,TH12.05-12.55,"",Sep 06--Dec 10,R Mays
+ENGLISH,102,Writing Tutorial,06,09410,1,TH15-15.50,"",Sep 06--Dec 10,R Mays
 ENGLISH,108,[HUM] Introduction to Literature,01,08580,3,"M,W,F9.10-10",TCIC 217,Aug 23--Sep 05,R Mays
 ENGLISH,108,[HUM] Introduction to Literature,"","","","M,W9.10-10",TCIC 217,"",""
 ENGLISH,210,[HUM] Readings in American Literature,01,08723,3,"M,W,F10.10-11",TFLO 260,Aug 23--Dec 10,G Escalera
@@ -252,13 +253,13 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,08654,3,"M,W9.10-10
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,"","","",F9.10-10,WEB ARR,"",""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,08655,3,TU13.30-14.45,TCIC 217,Aug 23--Dec 10,R Arnold
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,"","","",TH13.30-14.45,WEB ARR,"",""
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,08724,3,"M,W,F10.10-11",TCIC 214,Aug 23--Dec 10,P Weatherly
-ENGLISH,492,"[M] Advanced Topics in Literature, Criticism, and Theory",01,15491,3,"TU,TH9.10-10.25",TCIC 210,Aug 23--Dec 10,G Escalera
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,08724,3,M10.10-11,TCIC 214,Aug 23--Dec 10,P Weatherly
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,"","","","W,F10.10-11",WEB ARR,"",""
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,V Cozza
 ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ENGR,120,Innovation in Design,01,08481,2,M14.10-15,TCIC 210,Aug 23--Dec 10,S Hudson
 ENGR,120,Innovation in Design,01 Lab,08482,0,M10.10-13,TFLO 145,Aug 23--Dec 10,S Hudson
-ENGR,120,Innovation in Design,02 Lab,08822,0,M15.10-18,TFLO 145,Aug 23--Dec 10,S Hudson
+ENGR,120,Innovation in Design,02 Lab,08822,0,M15.10-18,TFLO 151,Aug 23--Dec 10,S Hudson
 ENTOM,343,[M] General Entomology,01,08677,3,"TU,TH14.55-16.10",TFLO 256,Aug 23--Dec 10,A Felsot
 ENTOM,460,Biotechnology and the Environment,01,09420,3,"M,W16.15-17.30",TFLO 210,Aug 23--Dec 10,A Felsot
 ENTOM,490,Special Topics in Entomology,01,"",1,M14.10-15,TFLO 210,Aug 23--Dec 10,A Felsot
@@ -269,9 +270,10 @@ FIN,325,Introduction to Financial Management,03,17199,3,"M,W16.15-17.30",TFLO 23
 FINE_ART,101,[ARTS] Introduction to Art,01,08597,3,"M,W,F10.10-11",TCOL 102,Aug 23--Dec 10,D Regul
 FINE_ART,110,[ARTS] Drawing,01,09240,3,"TU,TH10.30-13.05",TCIC 102B,Aug 23--Dec 10,K Sisson
 FINE_ART,201,[ARTS] World Art History I,01,08791,3,"M,W,F13.10-14",TFLO 230,Aug 23--Dec 10,R Jones
-FINE_ART,331,"Art, Science, and Technology",01,08660,3,"TU,TH13.30-14.45",TFLO 235,Aug 23--Dec 10,P Christenson
-FINE_ART,332,Introduction to Digital Media - Print and Web,01,09443,3,"TU,TH14.55-16.10",TFLO 235,Aug 23--Dec 10,P Christenson
-FINE_ART,381,Beginning Photography,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,D Dehart
+FINE_ART,331,"Art, Science, and Technology",01,08660,3,TU13.30-14.45,TFLO 235,Aug 23--Dec 10,P Christenson
+FINE_ART,331,"Art, Science, and Technology","","","",TH13.30-14.45,WEB ARR,"",""
+FINE_ART,332,Introduction to Digital Media - Print and Web,01,09443,3,TU14.55-16.10,TFLO 235,Aug 23--Dec 10,P Christenson
+FINE_ART,332,Introduction to Digital Media - Print and Web,"","","",TH14.55-16.10,WEB ARR,"",""
 FINE_ART,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 FOR_LANG,110,[DIVR] Introduction to Global Film,01,09256,3,"TU,TH12.05-13.20",TCIC 210,Aug 23--Dec 10,F Arellano Serratos
 FS,401,Topics in Food Science,01,"",V,TU13.30-14.20,TWSC 201,Aug 23--Dec 10,T Henick-Kling
@@ -288,18 +290,21 @@ H_D,403,[CAPS] Families in Poverty,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Seeley
 HBM,231,Introduction to Beverage Management,01,09607,1,"TU,TH12.05-12.55",TFLO 210,Aug 23--Oct 10,B Marlowe
 HBM,280,Hospitality Systems,01,08680,3,TH15.10-18,TFLO 223,Aug 23--Dec 10,B Marlowe
 HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
-HBM,350,Beverage Management,01,08744,3,TH17.45-20.35,TFLO 243,Aug 23--Dec 10,R Hammond
+HBM,350,Beverage Management,01,08744,3,TH17.45-20.35,WEB ARR,Aug 23--Dec 10,R Hammond
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,17186,3,"TU,TH10.35-11.50",TFLO 224,Aug 23--Dec 10,J Sandstrom
 HBM,401,Career Management,01,09608,1,TH13.30-14.20,TFLO 224,Aug 23--Dec 10,B Marlowe
 HBM,490,Food and Beverage Operational Analysis,01,09218,3,"TU,TH10.35-11.50",TFLO 210,Aug 23--Dec 10,R Harrington
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,08661,3,"M,W,F9.10-10",TCIC 216,Aug 23--Dec 10,T Hanshew
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,08661,3,M9.10-10,TCIC 216,Aug 23--Dec 10,T Hanshew
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,"","","","W,F9.10-10",WEB ARR,"",""
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,08662,3,"M,W,F13.10-14",TCIC 210,Aug 23--Dec 10,R Franklin
-HISTORY,110,[HUM] American History to 1877,01,08865,3,"M,W,F11.10-12",TCIC 214,Aug 23--Dec 10,T Hanshew
+HISTORY,110,[HUM] American History to 1877,01,08865,3,M11.10-12,TFLO 252,Aug 23--Dec 10,T Hanshew
+HISTORY,110,[HUM] American History to 1877,"","","","W,F11.10-12",WEB ARR,"",""
 HISTORY,110,[HUM] American History to 1877,02,09439,3,"TU,TH10.35-11.50",TFLO 252,Aug 23--Dec 10,R Franklin
 HISTORY,120,[DIVR] World History I,01,08663,3,"M,W17.45-19",TCIC 210,Aug 23--Aug 29,J Kennedy
 HISTORY,120,[DIVR] World History I,"","","",M17.45-19,WEB ARR,"",""
 HISTORY,120,[DIVR] World History I,"","","",W17.45-19,TCIC 210,"",""
-HISTORY,300,[M] Writing about History,01,08441,3,"M,W,F13.10-14",TFLO 231,Aug 23--Dec 10,T Hanshew
+HISTORY,300,[M] Writing about History,01,08441,3,M13.10-14,TFLO 231,Aug 23--Dec 10,T Hanshew
+HISTORY,300,[M] Writing about History,"","","","W,F13.10-14",WEB ARR,"",""
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,08726,3,"M,W,F14.10-15",TCOL 126,Aug 23--Dec 10,R Franklin
 HISTORY,308,"[DIVR] North American Indian History, Precontact to Present",02,15498,3,"TU,TH16.15-17.30",TFLO 133,Aug 23--Dec 10,D Arnold
 HISTORY,314,"[DIVR] American Roots: Immigration, Migration, and Ethnic Identity",01,08837,3,"TU,TH13.30-14.45",TFLO 210,Aug 23--Dec 10,R Bauman
@@ -339,7 +344,7 @@ INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT
 ISE,602,G INTL EXCHG,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Styborski
 KIN_ACTV,101,Beginning Conditioning,01,08694,1,"M,W12.10-13",TFLO 136,Aug 23--Dec 10,W Patterson
 LLT,586,"Seminar in Language, Literacy, and Technology",01,18529,1,TU12.10-13,WEB ARR,Aug 23--Dec 10,J Kelley
-LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,E Johnson
+LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 MATH,100,Basic Mathematics,01,09251,2,"M,W10.10-11",TFLO 223,Aug 23--Dec 10,K Fiedler
 MATH,103,Algebra Methods and Introduction to Functions,01,08727,3,"TU,TH13.30-14.45",TCOL 202,Aug 23--Dec 10,K Fiedler
 MATH,103,Algebra Methods and Introduction to Functions,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Harrington
@@ -355,7 +360,7 @@ MATH,172,Calculus II,02,"",4,"M,W,F9.10-10",WEB ARR,Aug 23--Dec 10,N Strigul
 MATH,172,Calculus II,01 Lab,08619,0,"TU,TH12.05-13.20",TFLO 252,Aug 23--Dec 10,D Mitchell
 MATH,172,Calculus II,02 Lab,18613,0,"TU,TH10.35-11.50",WEB ARR,Aug 23--Dec 10,N Strigul
 MATH,201,Mathematics for Business and Economics,01,08604,3,"M,W,F10.10-11",TCOL 202,Aug 23--Dec 10,S Selmi
-MATH,220,Introductory Linear Algebra,01,08605,2,"M,W13.10-14",TFLO 252,Aug 23--Dec 10,D Mitchell
+MATH,220,Introductory Linear Algebra,01,08605,2,"M,W13.10-14",TFLO 210,Aug 23--Dec 10,D Mitchell
 MATH,251,Fundamentals of Elementary Mathematics I,01,08745,3,"TU,TH17.45-18.35",TCOL 102,Aug 23--Dec 10,C Tate
 MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,08746,0,"TU,TH18.45-19.35",TCOL 102,Aug 23--Dec 10,C Tate
 MATH,273,Calculus III,01,08670,2,"TU,TH11.05-11.55",TCOL 126,Aug 23--Dec 10,D Mitchell
@@ -373,7 +378,7 @@ MBIOS,303,Introductory Biochemistry,01,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,R Brose
 MBIOS,305,General Microbiology,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Helmick
 MBIOS,401,Cell Biology,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,E Shelden
 MBIOS,405,Cell Biology of Disease,01,18480,3,F13.30-14.45,TFLO 224,Aug 23--Dec 10,C Cooper
-MBIOS,480,Methods of Teaching Secondary Science I,01,17794,3,TH17.15-20,TCOL 222,Aug 23--Dec 10,J Firestone
+MBIOS,480,Methods of Teaching Secondary Science I,01,17794,3,TH17.15-20,TCOL 114,Aug 23--Dec 10,J Firestone
 MBIOS,505,Cell Biology of Disease,01,18481,3,F13.30-14.45,TFLO 224,Aug 23--Dec 10,C Cooper
 ME,116,Engineering Computer-aided Design and Visualization,01,08571,2,"W,F8.10-11",TFLO 145,Aug 23--Dec 10,C Yang
 ME,220,Materials Laboratory,01,08538,1,TU7.45-10.35,TFLO 165,Aug 23--Dec 10,Y Zhang
@@ -389,7 +394,7 @@ ME,316,Mechanical Component Analysis and Design,01,08544,3,"TU,TH7.45-9",TFLO 13
 ME,401,Mechatronics,01,09451,3,"M,W10.10-11",TCIC 210,Aug 23--Dec 10,C Mo
 ME,401,Mechatronics,01 Lab,09452,0,W13.10-16,TCOL 108,Aug 23--Dec 10,C Mo
 ME,405,Thermal Systems Design,01,08697,3,"TU,TH10.35-11.50",TFLO 131,Aug 23--Dec 10,M Saad
-ME,415,[M] Engineering Design,01,08551,3,F15.10-18,TCOL 208,Aug 23--Dec 10,C Mo
+ME,415,[M] Engineering Design,01,08551,3,F15.10-18,TFLO 131,Aug 23--Dec 10,C Mo
 ME,439,Applied Aerodynamics,01,08813,3,"TU,TH13.30-14.45",TFLO 131,Aug 23--Dec 10,M Saad
 ME,461,Introduction to Nuclear Engineering,01,08545,3,"TU,TH16.20-17.35",TFLO 210,Aug 23--Dec 10,R Stout
 ME,495,Internship in Mechanical Industry,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -544,7 +549,7 @@ MIT,533,Elementary School Mathematics Methods,01,09214,3,M17.45-20.30,WEB ARR,Au
 MIT,533,Elementary School Mathematics Methods,"","","",M17.45-20.30,TCIC 216,"",""
 MIT,533,Elementary School Mathematics Methods,"","","",M17.45-20.30,TCIC 216,"",""
 MIT,533,Elementary School Mathematics Methods,"","","",M17.45-20.30,TCIC 216,"",""
-MIT,534,Elementary School Science Methods,01,09215,3,W17.15-20,TCOL 222,Aug 23--Dec 10,J Morrison
+MIT,534,Elementary School Science Methods,01,09215,3,W17.15-20,TCOL 108,Aug 23--Dec 10,J Morrison
 MIT,550,Seminar in Middle Level Education,01,09293,3,W16.10-19,TCIC 221,Aug 23--Dec 10,T Akmal
 MIT,571,Pre-internship and Seminar,01,08741,2,M16.10-17.40,TCIC 210,Aug 23--Aug 23,J Morrison
 MIT,571,Pre-internship and Seminar,"","","",M16.10-17.40,TCIC 210,"",""
@@ -562,7 +567,7 @@ MIT,575,Internship and Seminar,"","","",M16.10-18.10,TCOL 202,"",""
 MIT,575,Internship and Seminar,"","","",M16.10-18.10,TCOL 202,"",""
 MIT,575,Internship and Seminar,01 Lab,08769,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Mancinelli
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,09573,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-MKTG,360,Marketing,01,08558,3,"TU,TH14.55-16.10",TCOL 126,Aug 23--Dec 10,R Hammond
+MKTG,360,Marketing,01,08558,3,"TU,TH14.55-16.10",WEB ARR,Aug 23--Dec 10,R Hammond
 MKTG,360,Marketing,02,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MKTG,368,Marketing Research,01,09441,3,"TU,TH14.55-16.10",TCOL 102,Aug 23--Dec 10,J Giese
 MKTG,477,Integrated Marketing Communications,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
@@ -580,7 +585,7 @@ NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,08320
 NURS,317,Health Assessment,01,08321,3,TU10.30-12.30,TNRS 1215,Aug 23--Dec 10,L Jinishian
 NURS,317,Health Assessment,01 Lab,08322,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,317,Health Assessment,02 Lab,08419,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,322,The Human Experience of Diversity and Health,01,08323,2,F10.30-12.30,TNRS 1214,Aug 23--Dec 10,S Mcfadden
+NURS,322,The Human Experience of Diversity and Health,01,08323,2,F8.10-10,TNRS 1214,Aug 23--Dec 10,S Mcfadden
 NURS,323,Nursing in the Genome Era,01,08351,2,M8.10-10,TNRS 1214,Aug 23--Dec 10,L Jinishian
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,01,08339,4,M10.30-12.30,TNRS 1214,Aug 23--Dec 10,T Landis
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","",F10.30-12.30,TNRS 1214,"",""
@@ -852,14 +857,14 @@ NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
-PHIL,201,[QUAN] Introduction to Formal Logic,02,17814,3,"M,W,F12.10-13",TFLO 256,Aug 23--Dec 10,M Goldsby
+PHIL,201,[QUAN] Introduction to Formal Logic,02,"",3,"M,W,F12.10-13",TFLO 210,Aug 23--Dec 10,M Goldsby
 PHYSICS,101,[PSCI] General Physics,01,08560,3,"M,W,F14.10-15",TCOL 202,Aug 23--Dec 10,C Capan
 PHYSICS,111,[PSCI] General Physics Lab,01,17212,1,TU13.30-16.20,TCOL 108,Aug 23--Dec 10,C Capan
 PHYSICS,111,[PSCI] General Physics Lab,02,17214,1,TU9.10-12,TCOL 108,Aug 23--Dec 10,C Capan
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,08562,3,"M,W,F11.10-12",TCOL 202,Aug 23--Dec 10,C Capan
-PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,17213,1,TH13.30-16.20,TCOL 108,Aug 23--Dec 10,C Capan
-PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,17216,1,TH8.10-11,TCOL 108,Aug 23--Dec 10,C Capan
-PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,03,17217,1,TH17.45-20.35,TCOL 108,Aug 23--Dec 10,C Capan
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,17213,1,TH13.30-16.20,TCOL 108,Aug 23--Dec 10,F Underdown
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,17216,1,TH8.10-11,TCOL 108,Aug 23--Dec 10,F Underdown
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,03,17217,1,TH17.45-20.35,TCOL 108,Aug 23--Dec 10,F Underdown
 POL_S,101,[SSCI] American National Government,01,08621,3,"M,W,F10.10-11",TCIC 216,Aug 23--Dec 10,R Swenson
 POL_S,101,[SSCI] American National Government,03,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Huseby
 PSYCH,105,[SSCI] Introductory Psychology,01,09229,3,"TU,TH12.05-13.20",TCIC 216,Aug 23--Dec 10,S Tragesser
@@ -873,7 +878,7 @@ PSYCH,312,[M] Research Methods in Psychology,01 Lab,08624,0,"M,W,F11.10-12",TCOL
 PSYCH,324,Psychology of Gender,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mcraney
 PSYCH,324,Psychology of Gender,02,17177,3,"M,W10.10-11",TFLO 252,Aug 23--Dec 10,S Bauman
 PSYCH,324,Psychology of Gender,"","","",F10.10-11,WEB ARR,"",""
-PSYCH,350,Social Psychology,02,09230,3,"TU,TH14.55-16.10",TCOL 202,Aug 23--Dec 10,S Tragesser
+PSYCH,350,Social Psychology,02,09230,3,"TU,TH14.55-16.10",TCIC 216,Aug 23--Dec 10,S Tragesser
 PSYCH,361,Developmental Psychology,01,08565,3,"TU,TH13.30-14.45",TCIC 216,Aug 23--Dec 10,P Strand
 PSYCH,372,[BSCI] Biological Basis of Behavior,01,08568,3,"M,W,F14.10-15",TCIC 216,Aug 23--Dec 10,A Matthews
 PSYCH,403,Multicultural Psychology,01,09580,3,"M,W9.10-10",TCIC 210,Aug 23--Dec 10,S Bauman
@@ -885,10 +890,10 @@ PSYCH,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple
 PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01,08673,4,M17.45-20.35,TCOL 102,Aug 23--Dec 10,G Schramm
-SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01 Lab,09305,0,W17.45-20.35,TCOL 108,Aug 23--Dec 10,G Schramm
-SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,02 Lab,17219,0,F16.15-19.05,TCOL 108,Aug 23--Dec 10,G Schramm
-SOC,101,[SSCI] Introduction to Sociology,01,08690,3,"TU,TH16.15-17.30",TCOL 102,Aug 23--Dec 10,""
-SOC,350,Social Psychology,01,09255,3,"TU,TH14.55-16.10",TCOL 202,Aug 23--Dec 10,S Tragesser
+SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,01 Lab,09305,0,W17.45-20.35,TCOL 214,Aug 23--Dec 10,G Schramm
+SCIENCE,101,[PSCI] Integrated Science: Origins in the Natural World,02 Lab,17219,0,F16.15-19.05,TCOL 214,Aug 23--Dec 10,G Schramm
+SOC,101,[SSCI] Introduction to Sociology,01,08690,3,"TU,TH16.20-17.35",TCOL 102,Aug 23--Dec 10,C Bourouh
+SOC,350,Social Psychology,01,09255,3,"TU,TH14.55-16.10",TCIC 216,Aug 23--Dec 10,S Tragesser
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01,08682,4,"TU,TH12.05-13.20",TCOL 102,Aug 23--Dec 10,J Rosso
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,08683,0,TU13.30-16.20,TCOL 114,Aug 23--Dec 10,J Rosso
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02 Lab,08684,0,W15.10-18,TCOL 114,Aug 23--Dec 10,J Rosso
@@ -906,7 +911,7 @@ SOE,444,Environmental Assessment,"","","",TH13.30-14.45,TCIC 221,"",""
 SOE,460,Biotechnology and the Environment,01,09419,3,"M,W16.15-17.30",TFLO 210,Aug 23--Dec 10,A Felsot
 SOE,475,Groundwater,01,09576,3,"M,W12.10-13",TBSL 102,Aug 23--Dec 10,M Hossain
 SOE,475,Groundwater,01 Lab,09582,0,W8-10.50,TEST 111,Aug 23--Dec 10,M Hossain
-SOE,476,Biology and Ecology of Pacific Salmon,01,09472,3,"TU,TH16.25-17.40",TFLO 247,Aug 23--Dec 10,J Mcintyre
+SOE,476,Biology and Ecology of Pacific Salmon,01,09472,3,"TU,TH16.25-17.40",WEB ARR,Aug 23--Dec 10,J Mcintyre
 SOE,477,[CAPS] Environmental Dispute Resolution and Conflict Management,01,18496,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Whitman
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -914,7 +919,7 @@ SOE,501,Graduate Skills Seminar,01,18457,1,F9.10-10,WEB ARR,Aug 23--Dec 10,C Kel
 SOE,544,Environmental Assessment,01,18525,3,TU13.30-14.45,WEB ARR,Aug 23--Dec 10,D Thomas
 SOE,544,Environmental Assessment,"","","",TH13.30-14.45,TCIC 221,"",""
 SOE,562,Watershed Biogeochemistry,01,18526,3,"TU,TH10.35-11.50",TFLO 209,Aug 23--Dec 10,J Harrison
-SOE,576,Biology and Ecology of Pacific Salmon,01,09473,3,"TU,TH16.25-17.40",TFLO 247,Aug 23--Dec 10,J Mcintyre
+SOE,576,Biology and Ecology of Pacific Salmon,01,09473,3,"TU,TH16.25-17.40",WEB ARR,Aug 23--Dec 10,J Mcintyre
 SOE,600,Special Projects or Independent Study,01,08776,V,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
 SOE,700,"Master's Research, Thesis, and/or Examination",01,08590,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 SOE,702,"Master's Special Problems, Directed Study, and/or Examination",01,08591,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -943,9 +948,9 @@ SPEC_ED,590,Practicum in Special Education,01,08934,V,ARRGT,ARR ARR,Aug 23--Dec 
 SPEC_ED,595,Universal Design,01,17409,3,TH17.45-20.30,TFLO 210,Aug 23--Dec 10,D Mcmahon
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,17408,1,W16.10-17,TFLO 256,Aug 23--Dec 10,M Dunn
 STAT,212,[QUAN] Introduction to Statistical Methods,01,08728,4,"M,W,F13.10-14",TCIC 216,Aug 23--Dec 10,R Learn
-STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,08729,0,M15.10-17,TCIC 216,Aug 23--Dec 10,R Learn
-STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,08730,0,W15.10-17,TCIC 216,Aug 23--Dec 10,R Learn
-STAT,212,[QUAN] Introduction to Statistical Methods,04 Lab,09333,0,F15.10-17,TCIC 216,Aug 23--Dec 10,R Learn
+STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,08729,0,M15.10-17,TFLO 145,Aug 23--Dec 10,R Learn
+STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,08730,0,W15.10-17,TFLO 151,Aug 23--Dec 10,R Learn
+STAT,212,[QUAN] Introduction to Statistical Methods,04 Lab,09333,0,F15.10-17,TFLO 151,Aug 23--Dec 10,R Learn
 STAT,360,Probability and Statistics,02,18557,3,"TU,TH10.35-11.50",TFLO 260,Aug 23--Dec 10,X Wen
 STAT,370,Introductory Statistics for Engineers,01,08570,3,"TU,TH16.20-17.35",TCOL 202,Aug 23--Dec 10,R Learn
 STAT,412,Statistical Methods in Research I,01,08585,3,"TU,TH13.30-14.45",TCOL 102,Aug 23--Dec 10,R Learn
@@ -963,8 +968,9 @@ TCH_LRN,352,Teaching Elementary Mathematics,01,08611,3,M17.45-20.30,WEB ARR,Aug 
 TCH_LRN,352,Teaching Elementary Mathematics,"","","",M17.45-20.30,TCIC 216,"",""
 TCH_LRN,352,Teaching Elementary Mathematics,"","","",M17.45-20.30,TCIC 216,"",""
 TCH_LRN,352,Teaching Elementary Mathematics,"","","",M17.45-20.30,TCIC 216,"",""
-TCH_LRN,371,Teaching Elementary Science,01,08612,3,TH17.15-20,TCOL 222,Aug 23--Dec 10,J Firestone
-TCH_LRN,385,Teaching Elementary Social Studies,01,08613,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Lehmann
+TCH_LRN,371,Teaching Elementary Science,01,08612,3,TH17.15-20,TCOL 114,Aug 23--Dec 10,J Firestone
+TCH_LRN,385,Teaching Elementary Social Studies,01,08613,3,F15-17,TFLO 133,Oct 29--Oct 29,J Lehmann
+TCH_LRN,385,Teaching Elementary Social Studies,"","","",M13-15,TFLO 133,"",""
 TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,01,08465,3,TU9.10-11.55,TFLO 138,Aug 23--Dec 10,Y Cooper
 TCH_LRN,402,Instructional Practicum I,01,08686,V,M16.10-17.30,TCOL 202,Aug 30--Aug 30,J Morrison
 TCH_LRN,402,Instructional Practicum I,"","","",M16.10-17.30,TCOL 202,"",""
@@ -979,7 +985,7 @@ TCH_LRN,415,Student Teaching,"","","",M16.10-18.10,TCOL 202,"",""
 TCH_LRN,415,Student Teaching,"","","",M16.10-18.10,TCOL 202,"",""
 TCH_LRN,415,Student Teaching,"","","",M16.10-18.10,TCOL 202,"",""
 TCH_LRN,415,Student Teaching,01 Lab,08468,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Mancinelli
-TCH_LRN,430,Methods of Teaching Secondary Science I,01,09802,3,TH17.15-20,TCOL 222,Aug 23--Dec 10,J Firestone
+TCH_LRN,430,Methods of Teaching Secondary Science I,01,09802,3,TH17.15-20,TCOL 114,Aug 23--Dec 10,J Firestone
 TCH_LRN,433,Middle Level Mathematics Methods,01,08782,3,M16.45-19.30,TFLO 209,Aug 23--Dec 10,T Heikila
 TCH_LRN,434,Conceptualization of Proportional Thinking,01,08469,3,TH16.15-19,TCIC 221,Aug 23--Dec 10,S Matouk
 TCH_LRN,483,Integrating Health and Fitness into K-8 Curriculum,01,08616,3,TU14.10-16.55,TFLO 231,Aug 23--Dec 10,R Best
@@ -990,10 +996,10 @@ TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,"","","",M16.10-17
 TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,"","","",M16.10-17.40,TCIC 210,"",""
 TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,"","","",M16.10-17.40,TCIC 210,"",""
 TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,"","","",M16.10-17.40,TCIC 210,"",""
-TCH_LRN,497,Topics in In-Service Education,02,09387,V,F17-19,TFLO 230,Aug 23--Dec 10,A Johnson
+TCH_LRN,497,Topics in In-Service Education,02,09387,1,F17-19,TFLO 230,Aug 23--Dec 10,A Johnson
 TCH_LRN,499,Special Problems,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,01,08430,3,TU17.45-20.30,TFLO 224,Aug 23--Dec 10,E Johnson
-TCH_LRN,511,Theoretical Foundations of Education Research,01,18069,3,TU13.10-16,TFLO 224,Aug 23--Dec 10,""
+TCH_LRN,511,Theoretical Foundations of Education Research,01,18069,3,TU13.10-16,WEB ARR,Aug 23--Dec 10,J Egbert
 TCH_LRN,514,Methods and Materials for Bilingual/ESL Education,01,08615,3,TH17.15-20,TFLO 224,Aug 23--Dec 10,Y Ardasheva
 TCH_LRN,521,Topics in Education,01,09462,3,TH16.10-19,TCIC 125T,Aug 23--Dec 10,K Lesseig
 TCH_LRN,581,Learning and Development in Mathematics and Science,01,09411,3,W17.45-20.30,TFLO 210,Aug 23--Dec 10,A Roth-Mcduffie
@@ -1003,8 +1009,10 @@ TCH_LRN,600,Special Projects or Independent Study,01,08470,V,ARRGT,ARR ARR,Aug 2
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,08471,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,08472,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 UNIV,104,First-Year Success Seminar,02,17181,2,"M,W15.10-16",TCOL 102,Aug 23--Dec 10,A Plemons
-VIT_ENOL,113,Introduction to Vines and Wines,01,08460,3,"TU,TH13.30-14.45",TWSC 202,Aug 23--Dec 10,J Harbertson
-VIT_ENOL,113,Introduction to Vines and Wines,02,"",3,"TU,TH13.30-14.45",VC ARR,Aug 23--Dec 10,J Harbertson
+UNIV,497,Peer Leadership,01,"",1,M17-18,TFLO 260,Aug 23--Oct 22,A Guy
+UNIV,497,Peer Leadership,02,"",1,M18-19,TFLO 260,Aug 23--Oct 22,A Guy
+VIT_ENOL,113,Introduction to Vines and Wines,01,08460,3,"TU,TH13.30-14.45",TWSC 202,Aug 23--Dec 10,""
+VIT_ENOL,113,Introduction to Vines and Wines,02,"",3,"TU,TH13.30-14.45",VC ARR,Aug 23--Dec 10,""
 VIT_ENOL,313,Viticulture,01,08444,3,"TU,TH14.55-16.10",TWSC 202,Aug 23--Dec 10,B Bondada
 VIT_ENOL,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Snider
 VIT_ENOL,409,Seminar in Viticulture and Enology,01,08448,1,W15.10-16,TWSC 202,Aug 23--Dec 10,B Bondada
