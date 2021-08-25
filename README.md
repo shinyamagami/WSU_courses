@@ -3,10 +3,10 @@
 
 Welcome to WSU_In_Person gem!
 
-This gem was supposed to provide all the non-"WEB ARR" classes but all classes
+This gem was supposed to collect all the "WEB ARR" classes but all classes
 go online so now it lists up all the classes.
 
-Because ICE tried to force international students to take, at least, one in-person class. Personally, I don't mind it at all, but everyone has different views.
+ICE tried to force international students to take, at least, one in-person class. Personally, I don't mind it at all, but everyone has different views.
 
 Hope it helps.
 
