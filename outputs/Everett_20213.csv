@@ -33,8 +33,8 @@ COMSTRAT,476,Consumer Insights and Branding,01,14353,3,"M,W9.10-10.25",EVRT 254,
 COMSTRAT,476,Consumer Insights and Branding,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Jameson
 COMSTRAT,485,[M] Public Relations Management and Campaigns,03,15328,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Gillig
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Schweigert
-CPT_S,131,Program Design and Development Java,02,15066,4,"M,W,F8.10-9",EVRT 358,Aug 23--Dec 10,S Badri
-CPT_S,131,Program Design and Development Java,02 Lab,15067,0,W15.10-18,EVRT 257,Aug 23--Dec 10,S Badri
+CPT_S,131,Program Design and Development Java,02,15066,4,"M,W,F8.10-9",EVRT 255,Aug 23--Dec 10,S Badri
+CPT_S,131,Program Design and Development Java,02 Lab,15067,0,W15.10-18,EVRT 261,Aug 23--Dec 10,S Badri
 CPT_S,215,Data Analytics Systems and Algorithms,02,15068,3,"TU,TH7.45-9",EVRT 255,Aug 23--Dec 10,S Badri
 CPT_S,233,Advanced Data Structures Java,01,14406,3,"M,W,F13.10-14",EVRT 452,Aug 23--Dec 10,D Tao
 CPT_S,302,Professional Skills in Computing and Engineering,01,14413,3,"TU,TH13.30-14.45",EVRT 102,Aug 23--Dec 10,J Thompson
@@ -48,6 +48,7 @@ CPT_S,415,Big Data,02,17738,3,"TU,TH7.45-9",EVRT 452,Aug 23--Dec 10,J Yu
 CPT_S,421,Software Design Project I,01,14876,3,"TU,TH14.55-16.10",EVRT 257,Aug 23--Dec 10,B Zeng
 CPT_S,421,Software Design Project I,01 Lab,14748,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
 CPT_S,422,[M] Software Engineering Principles II,01,14409,3,"TU,TH13.30-14.45",EVRT 254,Aug 23--Dec 10,B Zeng
+CPT_S,422,[M] Software Engineering Principles II,02,18679,3,"TU,TH13.30-14.45","",Aug 23--Dec 10,B Zeng
 CPT_S,427,Computer Security,01,14410,3,"M,W,F12.10-13",EVRT 452,Aug 23--Dec 10,A Jillepalli
 CPT_S,427,Computer Security,02,18446,3,"M,W,F12.10-13","",Aug 23--Dec 10,A Jillepalli
 CPT_S,430,Numerical Analysis,01,18270,3,"TU,TH10.35-11.50",EVRT 261,Aug 23--Dec 10,V Manoranjan
@@ -55,6 +56,7 @@ CPT_S,440,Artificial Intelligence,01,14411,3,"TU,TH9.10-10.25",EVRT 457,Aug 23--
 CPT_S,453,Graph Theory,01,14749,3,"M,W,F14.10-15",EVRT 452,Aug 23--Dec 10,M Hudelson
 CPT_S,484,Software Requirements,01,14741,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
 CPT_S,489,Web Development,01,14969,3,"M,W,F15.10-16",EVRT 457,Aug 23--Dec 10,C Hundhausen
+CPT_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,V Arnaoudova
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,14651,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Reddy
 CROP_SCI,102,Introduction to Cultivated Plants,01,17753,3,"M,W,F11.10-12",EVRT 340,Aug 23--Dec 10,C Kawula
 CROP_SCI,403,Advanced Cropping Systems,01,14379,3,"TU,TH13.30-14.45",EVRT 340,Aug 23--Dec 10,C Neely
@@ -87,10 +89,10 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,14859,3,ARRGT,ARR A
 ENGR,489,Professional Practice Coop/Internship II,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Brabb
 FIN,325,Introduction to Financial Management,01,14325,3,M15.10-18,EVRT 255,Aug 23--Oct 10,M Chen
 FS,201,[BSCI] Science on Your Plate,01,17752,3,"M,W,F13.10-14",EVRT 255,Aug 23--Dec 10,M Michael
-HBM,101,Professional and Career Development for the Business World,01,"",1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,14352,1,"M,W,F11.10-12",EVRT 452,Oct 18--Dec 12,A Mcleod
 HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
 HBM,358,Foodservice Systems and Control,02,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,S Seo
+HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,14375,3,"TU,TH10.35-11.50",EVRT 361,Aug 23--Dec 10,J Sandstrom
 HBM,384,Managed Services,01,14378,3,W15.10-18,EVRT 255,Oct 18--Dec 12,M Beattie
 HBM,401,Career Management,01,14357,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,491,Operational Analysis,01,14324,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Chen
@@ -111,8 +113,8 @@ ME,306,Thermal and Fluids Laboratory,01,14345,2,TU9.10-10,EVRT 256,Aug 23--Dec 1
 ME,306,Thermal and Fluids Laboratory,01 Lab,14346,0,TU10.10-13,EVRT 157,Aug 23--Dec 10,""
 ME,306,Thermal and Fluids Laboratory,02 Lab,14347,0,TH10.10-13,EVRT 157,Aug 23--Dec 10,""
 ME,313,Engineering Analysis,01,14342,3,"M,W13.10-14",EVRT 254,Aug 23--Dec 10,Y Hu
-ME,313,Engineering Analysis,01 Lab,14343,0,W14.10-17,EVRT 358,Aug 23--Dec 10,""
-ME,313,Engineering Analysis,02 Lab,14414,0,F13.10-16,EVRT 358,Aug 23--Dec 10,""
+ME,313,Engineering Analysis,01 Lab,14343,0,W14.10-17,EVRT 357,Aug 23--Dec 10,""
+ME,313,Engineering Analysis,02 Lab,14414,0,F13.10-16,EVRT 357,Aug 23--Dec 10,""
 ME,316,Mechanical Component Analysis and Design,01,14338,3,"M,W,F10.10-11",EVRT 354,Aug 23--Dec 10,X Bi
 ME,405,Thermal Systems Design,01,14341,3,"M,W,F14.10-15",EVRT 256,Aug 23--Dec 10,G Taub
 ME,415,[M] Engineering Design,01,14339,3,"M,W,F13.10-14",EVRT 354,Aug 23--Dec 10,X Bi
@@ -172,6 +174,7 @@ MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,
 MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,570,Away Rotation - North America,04,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,570,Away Rotation - North America,05,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,570,Away Rotation - North America,17,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,M Layton
 MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,S Siddiqui
@@ -260,7 +263,7 @@ MIS,250,Managing Information Technology,02,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,G R
 MIS,325,Enterprise Business Development,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
 MIS,372,[M] Data Management,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,M Carter
 MKTG,360,Marketing,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,T Kokta
-MUS,262,[ARTS] Rock Music: History and Social Analysis,02,14478,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Svendsen
+MUS,262,[ARTS] Rock Music: History and Social Analysis,02,14478,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 SHS,201,American Sign Language I,01,14472,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,14543,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Ray
 SOC,317,[M] Research Methods in Sociology,01,14975,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
@@ -276,6 +279,7 @@ SOIL_SCI,479,Organic Farm and Garden Field Management,01,14693,2,ARRGT,ARR ARR,A
 STAT,212,[QUAN] Introduction to Statistical Methods,02,17921,4,"TU,TH9.10-10.25",EVRT 363,Aug 23--Dec 10,H Johnson
 STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,17922,0,M12.10-14,EVRT 363,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,01,14395,3,"TU,TH10.35-11.50",EVRT 254,Aug 23--Dec 10,X Wen
+STAT,360,Probability and Statistics,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,P Rao
 STAT,370,Introductory Statistics for Engineers,01,14416,3,"M,W,F11.10-12",EVRT 256,Aug 23--Dec 10,G Taub
 STAT,419,Introduction to Multivariate Statistics,01,14911,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Li
 STAT,435,[M] Statistical Modeling for Data Analytics,02,14992,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Kaul

@@ -4,7 +4,8 @@ BIOMED,550,Biochemistry for the Health Sciences,01,16608,3,"M,W8.10-9.25",SAC 45
 CRM_J,800,"Doctoral Research, Dissertation, and/or Examination",01,17542,V,ARRGT,ARR ARR,Aug 23--Dec 10,F Lutze
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_AD,501,Philosophy of Education,01,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,S Finley
-ED_AD,507,Social Foundations of Education,01,16492,3,ARRGT,ARR ARR,Aug 23--Dec 10,F Watson
+ED_AD,507,Social Foundations of Education,01,16492,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Watson
+ED_AD,507,Social Foundations of Education,02,18703,3,TH17.45-20.30,SAC 205,Aug 23--Dec 10,S Calderone
 ED_AD,509,Leading School Improvement,01,17298,3,W17.45-20.30,WEB ARR,Aug 25--Sep 08,J Walls
 ED_AD,509,Leading School Improvement,"","","",SA9.15-15,SAC 249,"",""
 ED_AD,509,Leading School Improvement,"","","",W17.45-20.30,WEB ARR,"",""
@@ -12,7 +13,7 @@ ED_AD,509,Leading School Improvement,"","","",SA9.15-15,SAC 249,"",""
 ED_AD,509,Leading School Improvement,"","","",W17.45-20.30,WEB ARR,"",""
 ED_AD,509,Leading School Improvement,"","","",W17.45-20.30,WEB ARR,"",""
 ED_AD,509,Leading School Improvement,"","","",W17.45-20.30,WEB ARR,"",""
-ED_AD,510,Improvement of Instruction,01,16814,3,TU17.45-20.30,VC SPK,Aug 23--Dec 10,J Lupinacci
+ED_AD,510,Improvement of Instruction,01,16814,3,TU17.45-20.30,SCRS 250,Aug 23--Dec 10,J Lupinacci
 ED_AD,512,Leadership Studies for Social Justice,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,K Rodela
 ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,WEB ARR,Aug 23--Dec 10,J Walls
 ED_AD,581,Politics in Education,01,16497,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -40,7 +41,7 @@ H_D,306,Child Development,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T Ashford
 H_D,307,Adolescence and Emerging Adulthood,01,16140,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,341,Guidance in Early Childhood Programs,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,N Porter
 H_D,600,Special Projects or Independent Study,01,17191,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,K Krotke-Crandall
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,K Krotke-Crandall
 HISTORY,308,"[DIVR] North American Indian History, Precontact to Present",01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,O Svingen
 HISTORY,422,History of the Pacific Northwest,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,B Stack
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -183,6 +184,10 @@ MED_CLIN,636,Clinical Rotation - Sports Medicine,01,"",V,ARRGT,ARR ARR,Aug 23--N
 MED_CLIN,636,Clinical Rotation - Sports Medicine,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
 MED_CLIN,637,Clinical Rotation - Interventional Radiology,01,18361,V,ARRGT,ARR ARR,Aug 23--Nov 24,J Kaczmark
 MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,""
+MED_ETH,500,Conceptual Foundations of Bioethics,01,15679,3,ARRGT,ARR ARR,Aug 23--Nov 24,T May
+MED_ETH,500,Conceptual Foundations of Bioethics,02,"",3,ARRGT,ARR ARR,Aug 23--Nov 24,T May
+MED_ETH,510,Seminar in Conceptual Bioethics,01,15682,3,ARRGT,ARR ARR,Aug 23--Nov 24,T May
+MED_ETH,510,Seminar in Conceptual Bioethics,02,"",3,ARRGT,ARR ARR,Aug 23--Nov 24,T May
 MED_FMS,501,Foundations of Medical Science I,01,16719,14,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
 MED_FMS,501,Foundations of Medical Science I,01 Lab,16720,0,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
 MED_FMS,511,Foundations of Medical Science IV,01,16715,13,ARRGT,ARR ARR,Aug 23--Nov 24,K Beine
@@ -191,16 +196,16 @@ MED_LMH,501,Understanding Yourself as a Physician Leader,01,16718,1,ARRGT,ARR AR
 MED_LMH,511,Leadership and Management in Healthcare: Microsystem to Macrosystem,01,16717,1,ARRGT,ARR ARR,Aug 23--Nov 24,C Heine
 MED_LMH,521,Quality and Safety in Healthcare: Medical Errors,01,16714,1,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
 MED_LMH,531,Personal Leadership Development I,01,16861,1,ARRGT,ARR ARR,Aug 23--Nov 24,C Fischer
-MIT,511,"Methods for Teaching English Language Learners, K-12",01,16524,2,M17.10-19,SCRS 216,Aug 23--Dec 10,T Salsbury
+MIT,511,"Methods for Teaching English Language Learners, K-12",01,16524,2,M17.10-19,SAC 249,Aug 23--Dec 10,T Salsbury
 MIT,530,Elementary School Social Studies Methods,01,16525,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
 MIT,532,Literacy Development II,01,16526,3,TH17.15-20,SAC 45,Aug 23--Dec 10,S Newcomer
-MIT,533,Elementary School Mathematics Methods,01,16527,3,W16.10-19,SCRS 216,Aug 23--Dec 10,""
+MIT,533,Elementary School Mathematics Methods,01,16527,3,W16.10-19,SCRS 216,Aug 23--Dec 10,S Leonard
 MIT,534,Elementary School Science Methods,01,16528,3,TU16.10-19,SCRS 216,Aug 23--Dec 10,G Godsey
 MIT,550,Seminar in Middle Level Education,01,16529,3,W16.10-19,SNRS 401,Aug 23--Dec 10,T Akmal
 MIT,552,Multicultural Education in a Global Society,01,16530,3,W13.10-16,SNRS 401,Aug 23--Dec 10,S Johnson
 MIT,571,Pre-internship and Seminar,01,16531,2,M12.10-14,SCRS 255,Aug 23--Dec 10,A Segadelli
 MIT,571,Pre-internship and Seminar,01 Lab,16532,0,ARRGT,ARR ARR,Aug 23--Dec 10,A Segadelli
-MUS,362,[DIVR] History of Jazz,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Costa
+MUS,362,[DIVR] History of Jazz,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Haas Costa
 NEP,320,Strength Training and Conditioning; Theory and Application,01,16561,3,"M,W8.10-9",SHER 317,Aug 23--Dec 10,J Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,01 Lab,16569,0,TU9.10-12,SHER 328,Aug 23--Dec 10,J Larsen
 NEP,320,Strength Training and Conditioning; Theory and Application,02 Lab,16570,0,TU13.10-16,SHER 328,Aug 23--Dec 10,J Larsen
@@ -296,8 +301,7 @@ NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,02,16484,V,"M,W8.2
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,03,16487,V,"M,W10.10-11",SCRS 222,Nov 01--Dec 10,S Wayman
 NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,SCRS 222,"",""
 NEUROSCI,590,Seminar,01,16478,1,F12.10-13.30,SAC 249,Aug 23--Dec 10,S Wayman
-NEUROSCI,592,Research Writing and Seminar,01,16994,2,TU15.30-17.30,SCRS 222,Aug 23--Dec 10,M Chandra
-NEUROSCI,592,Research Writing and Seminar,"","","",F15-16,SCRS 222,"",""
+NEUROSCI,592,Research Writing and Seminar,01,16994,2,F15-17,SCRS 222,Aug 23--Dec 10,M Chandra
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,16479,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 NURS,308,Professional Development I: Professional Roles and Responsibilities,01,15902,3,W10.30-13.30,SNRS 5,Aug 23--Dec 10,S Hurst
 NURS,308,Professional Development I: Professional Roles and Responsibilities,02,15853,3,W10.30-13.30,VC YAK,Aug 23--Dec 10,S Hurst
@@ -322,7 +326,7 @@ NURS,315,Nursing Practice: Health and Illness,13,15730,4,ARRGT,ARR ARR,Aug 23--D
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,15732,2,TU13.10-15,SNRS 5,Aug 23--Dec 10,S Northern
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,02,15733,2,TU13.10-15,VC ARR,Aug 23--Dec 10,S Northern
 NURS,317,Health Assessment,01,15734,3,TU10.30-12.30,SNRS 5,Aug 23--Dec 10,A Jenkins
-NURS,317,Health Assessment,02,15735,3,TU10.30-12.30,VC ARR,Aug 23--Dec 10,""
+NURS,317,Health Assessment,02,15735,3,TU10.30-12.30,VC ARR,Aug 23--Dec 10,L Jinishian
 NURS,317,Health Assessment,01 Lab,15736,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Vulcan
 NURS,317,Health Assessment,02 Lab,15737,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Vulcan
 NURS,317,Health Assessment,03 Lab,15738,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Jennings
@@ -344,11 +348,11 @@ NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,01,15756,5,ARRG
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,15757,5,ARRGT,ARR ARR,Aug 23--Dec 10,T Ewing
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,15758,5,ARRGT,ARR ARR,Aug 23--Dec 10,S Knapp
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,04,15759,5,ARRGT,ARR ARR,Aug 23--Dec 10,E Davies
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,05,15760,5,ARRGT,ARR ARR,Aug 23--Dec 10,K Kedroske
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,06,15761,5,ARRGT,ARR ARR,Aug 23--Dec 10,""
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,05,15760,5,ARRGT,ARR ARR,Aug 23--Dec 10,M Holloway
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,06,15761,5,ARRGT,ARR ARR,Aug 23--Dec 10,K Kedroske
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,08,15763,5,ARRGT,ARR ARR,Aug 23--Dec 10,N Johnson
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,09,15764,5,ARRGT,ARR ARR,Aug 23--Dec 10,R Baumgarten
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,10,15765,5,ARRGT,ARR ARR,Aug 23--Dec 10,R Carroll
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,10,15765,5,ARRGT,ARR ARR,Aug 23--Dec 10,""
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,11,15766,5,ARRGT,ARR ARR,Aug 23--Dec 10,D Ryerson
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,12,15767,5,ARRGT,ARR ARR,Aug 23--Dec 10,D Ryerson
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,13,15768,5,ARRGT,ARR ARR,Aug 23--Dec 10,K Campbell
@@ -367,7 +371,7 @@ NURS,409,Professional Development IV: Transition to Practice,02,15783,2,M13.10-1
 NURS,412,Family and Community as a Context of Care,01,15784,1,W9-10.30,SNRS 205,Aug 23--Dec 10,S Perkins
 NURS,412,Family and Community as a Context of Care,02,15785,1,F11.30-13,SAC 347,Aug 23--Dec 10,S Perkins
 NURS,412,Family and Community as a Context of Care,03,15786,1,F11.30-13,SNRS 203,Aug 23--Dec 10,T Bowden
-NURS,412,Family and Community as a Context of Care,05,15788,1,F11.30-13,GUC TBS,Aug 23--Dec 10,L Vickers
+NURS,412,Family and Community as a Context of Care,05,15788,1,F7.30-9,GUC TBS,Aug 23--Dec 10,L Vickers
 NURS,414,Child and Family Health: Theory,01,15789,3,F8.10-11,SNRS 5,Aug 23--Dec 10,S Perkins
 NURS,414,Child and Family Health: Theory,02,15790,3,F8.10-11,VC ARR,Aug 23--Dec 10,S Perkins
 NURS,415,Children and Families as the Focus of Nursing Care,01,15791,2,ARRGT,ARR ARR,Aug 23--Dec 10,L Berry
@@ -423,7 +427,7 @@ NURS,427,Community Health Nursing Practice,01,15829,3,ARRGT,ARR ARR,Aug 23--Dec 
 NURS,427,Community Health Nursing Practice,02,15830,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Griffith
 NURS,427,Community Health Nursing Practice,03,15831,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Hunter
 NURS,427,Community Health Nursing Practice,04,15832,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Griffith
-NURS,427,Community Health Nursing Practice,05,15833,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+NURS,427,Community Health Nursing Practice,05,15833,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Hurst
 NURS,427,Community Health Nursing Practice,06,15834,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Olson
 NURS,427,Community Health Nursing Practice,07,15835,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Brigham-Althoff
 NURS,427,Community Health Nursing Practice,08,15836,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Olson
@@ -731,18 +735,6 @@ NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC ARR,"",""
-NURS,799,Dissertation Seminar,01,15905,1,F8.10-9,VC ARR,Aug 27--Aug 27,""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
-NURS,799,Dissertation Seminar,02,15705,1,F8.10-9,VC ARR,Aug 27--Aug 27,""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
-NURS,799,Dissertation Seminar,"","","",F8.10-9,VC ARR,"",""
 NURS,800,"Doctoral Research, Dissertation, and/or Examination",01,15713,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARDSCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARDSCI,499,Special Problems,50,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -768,7 +760,7 @@ PHARDSCI,599,Special Projects,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARDSCI,599,Special Projects,50,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 PHARMACY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARMACY,499,Special Problems,02,15573,1,F8.10-9,"",Aug 23--Dec 10,J Robinson
-PHARMACY,499,Special Problems,03,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+PHARMACY,499,Special Problems,03,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARMACY,499,Special Problems,50,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PHARMACY,499,Special Problems,51,15574,1,TU14.10-15,"",Aug 23--Dec 10,D Brand
 PHARMACY,506,Student Success and Professional Development I,01,15584,1,F14.10-15,WEB ARR,Aug 23--Dec 10,J Robinson
@@ -838,14 +830,13 @@ PHARMACY,556,Student Success and Professional Development III,01,15677,1,TH15.10
 PHARMACY,556,Student Success and Professional Development III,50,15678,1,TH15.10-16,ARR ARR,Aug 23--Dec 10,D Brand
 PHARMACY,563,Introductory Pharmacy Practice Experience V,01,15557,2,ARRGT,ARR ARR,Aug 23--Dec 10,J Miller
 PHARMACY,566,Therapeutics of Special Populations,01,15541,3,W8.10-10,SPBS 101,Aug 23--Dec 10,B Gates
-PHARMACY,566,Therapeutics of Special Populations,"","","",F8.10-9,SPBS 101,"",""
+PHARMACY,566,Therapeutics of Special Populations,"","","",F9.10-10,SPBS 101,"",""
 PHARMACY,566,Therapeutics of Special Populations,50,15550,3,W8.10-10,ARR ARR,Aug 23--Dec 10,R Crutchley
-PHARMACY,566,Therapeutics of Special Populations,"","","",F8.10-9,ARR ARR,"",""
+PHARMACY,566,Therapeutics of Special Populations,"","","",F9.10-10,ARR ARR,"",""
 PHARMACY,570,Pain: Processes and Treatment,01,15582,2,W15.10-16,SPBS 101,Aug 23--Dec 10,D Brand
 PHARMACY,570,Pain: Processes and Treatment,50,15581,2,W15.10-16,ARR ARR,Aug 23--Dec 10,D Brand
 PHARMACY,572,Physical Activity Prescription in the Pharmacy,01,16560,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Marsh
 PHARMACY,572,Physical Activity Prescription in the Pharmacy,50,17461,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Marsh
-PHARMACY,573,Family Medicine and Pharmacy,50,"",2,TU15.10-17,ARR ARR,Aug 23--Dec 10,N Giruzzi
 PHARMACY,577,"Diseases, Complications, and Drug Therapy in Obstetrics",01,15523,2,ARRGT,ARR ARR,Aug 23--Dec 10,A Blum
 PHARMACY,578,Leadership and Professional Development,01,15680,2,TU15.10-17,WEB ARR,Aug 30--Dec 10,J Robinson
 PHARMACY,578,Leadership and Professional Development,50,15681,2,TU15.10-17,ARR ARR,Aug 30--Dec 10,A Stewart
@@ -893,7 +884,7 @@ PSYCH,470,Motivation,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Byrd
 PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,16376,3,"TU,TH14.55-16.10",SNRS 201,Aug 23--Dec 10,M Morgan
 PSYCH,506,Current Research in Psychology,01,17580,1,W16.10-17,SNRS 201,Aug 23--Dec 10,R Magnan
 PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,17987,3,"TU,TH12.05-13.20",SNRS 201,Aug 23--Dec 10,C Cuttler
-PSYCH,523,Health Psychology,01,16384,3,M13.10-14,SNRS 201,Aug 23--Dec 10,R Magnan
+PSYCH,523,Health Psychology,01,16384,3,M13.10-16,SNRS 201,Aug 23--Dec 10,R Magnan
 PSYCH,592,Cognition and Affective Basis of Behavior,01,"",3,W9.10-12,SNRS 201,Aug 23--Dec 10,L Fournier
 PSYCH,700,"Master's Research, Thesis, and/or Examination",01,16721,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Honn
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,H Van Dongen
@@ -932,9 +923,8 @@ SHS,574,Neuropathologies of Language and Cognition I,02,15649,2,"TU,TH9.10-10",S
 SHS,575,Advanced Clinical Practice,01,15650,3,ARRGT,"",Aug 23--Dec 10,C Dechert
 SHS,576,Voice and Resonance Disorders,01,15673,2,W14.35-16.25,SAC 347,Aug 23--Dec 10,H Hashemi Hosseinabad
 SHS,576,Voice and Resonance Disorders,02,15674,2,TU14.10-16,SAC 347,Aug 23--Dec 10,H Hashemi Hosseinabad
-SHS,577,Neurogenic Disorders of Language and Cognition II,01,17117,2,"M,W15.10-17",SAC 147,Aug 23--Dec 10,E Clark
-SHS,577,Neurogenic Disorders of Language and Cognition II,02,17118,2,TU15.10-17,SAC 147,Aug 23--Dec 10,""
-SHS,577,Neurogenic Disorders of Language and Cognition II,"","","",TH15.10-16,SAC 147,"",""
+SHS,577,Neurogenic Disorders of Language and Cognition II,01,17117,2,M15.10-17,SAC 147,Aug 23--Dec 10,E Clark
+SHS,577,Neurogenic Disorders of Language and Cognition II,02,17118,2,TU15.10-17,SAC 147,Aug 23--Dec 10,E Clark
 SHS,580,Special Topics in Speech and Hearing Sciences,01,15671,2,"M,W8.10-9",SAC 147,Aug 23--Dec 10,L Williams
 SHS,580,Special Topics in Speech and Hearing Sciences,02,15672,2,"TU,TH8.10-9",SAC 147,Aug 23--Dec 10,L Williams
 SHS,588,Advanced Speech and Sound Disorders,01,15651,2,M10.10-11.50,SAC 147,Aug 23--Dec 10,G Lynch
