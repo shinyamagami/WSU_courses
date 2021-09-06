@@ -57,7 +57,7 @@ B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",04,11187,3,ARR
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",05,18700,3,ARRGT,ARR ARR,Aug 23--Oct 10,Y He
 B_A,500,Data Analysis for Managers,01,10535,2,ARRGT,ARR ARR,Aug 23--Sep 26,T Kokta
 B_A,500,Data Analysis for Managers,07,17220,2,ARRGT,ARR ARR,Oct 04--Nov 07,T Kokta
-B_A,500,Data Analysis for Managers,08,17221,2,ARRGT,ARR ARR,Oct 04--Nov 07,""
+B_A,500,Data Analysis for Managers,08,17221,2,ARRGT,ARR ARR,Oct 04--Nov 07,T Kokta
 B_A,502,Foundations in Operations Management,01,10541,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
 B_A,502,Foundations in Operations Management,02,10542,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
 B_A,502,Foundations in Operations Management,03,10543,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
@@ -65,7 +65,7 @@ B_A,502,Foundations in Operations Management,04,10544,2,ARRGT,ARR ARR,Aug 23--Se
 B_A,503,Foundations in Business Law,01,10546,2,ARRGT,ARR ARR,Oct 04--Nov 07,S Bergstedt
 B_A,503,Foundations in Business Law,02,10547,2,ARRGT,ARR ARR,Oct 04--Nov 07,""
 B_A,503,Foundations in Business Law,03,10548,2,ARRGT,ARR ARR,Oct 04--Nov 07,S Bergstedt
-B_A,504,Foundations in Finance,01,10559,2,ARRGT,ARR ARR,Nov 08--Dec 12,""
+B_A,504,Foundations in Finance,01,10559,2,ARRGT,ARR ARR,Nov 08--Dec 12,M Reyes
 B_A,504,Foundations in Finance,02,10560,2,ARRGT,ARR ARR,Nov 08--Dec 12,""
 B_A,579,MBA Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
 B_A,579,MBA Capstone,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
@@ -98,6 +98,7 @@ B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",05,17
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",06,17321,1,ARRGT,ARR ARR,Aug 23--Oct 10,J Rose
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",11,17355,1,ARRGT,ARR ARR,Oct 18--Dec 12,G Mader
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",12,17356,1,ARRGT,ARR ARR,Oct 18--Dec 12,G Mader
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",13,17357,1,ARRGT,ARR ARR,Oct 18--Dec 12,G Mader
 B_LAW,210,Law and the Legal Environment of Business,01,10418,3,ARRGT,ARR ARR,Aug 23--Oct 10,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,02,10648,3,ARRGT,ARR ARR,Aug 23--Oct 10,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,04,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,S Bergstedt
@@ -120,7 +121,7 @@ CES,271,[HUM] Native Music of North America,01,10460,3,ARRGT,ARR ARR,Aug 23--Dec
 CHEM,101,[PSCI] Introduction to Chemistry,01,11145,4,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
 CHEM,101,[PSCI] Introduction to Chemistry,01 Lab,11146,0,ARRGT,ARR ARR,Aug 23--Dec 10,E Silva Lopez
 CHEM,103,Concepts in Chemistry,01,10960,4,ARRGT,ARR ARR,Aug 23--Dec 10,D Storfer
-CHEM,103,Concepts in Chemistry,01 Lab,11135,0,ARRGT,ARR ARR,Aug 23--Dec 10,D Storfer
+CHEM,103,Concepts in Chemistry,01 Lab,11135,0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 COM,101,[SSCI] Media and Society,01,10679,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Taflinger
 COM,101,[SSCI] Media and Society,04,10825,3,ARRGT,ARR ARR,Dec 18--Jan 09,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,10311,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Haider
@@ -388,7 +389,6 @@ HONORS,398,Honors Thesis Proposal Seminar,04,17747,1,ARRGT,ARR ARR,Aug 23--Dec 1
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 HUMANITY,103,[HUM] Mythology,01,10474,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
 HUMANITY,103,[HUM] Mythology,02,10715,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Gowdy-Burke
-HUMANITY,103,[HUM] Mythology,03,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,R Goodrich
 I_BUS,380,International Business,01,10329,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 I_BUS,380,International Business,02,10652,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 I_BUS,380,International Business,03,10896,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
@@ -635,7 +635,7 @@ SPANISH,101,First Semester,01,10216,4,ARRGT,"",Aug 23--Dec 10,M Previto
 SPANISH,306,Intermediate Reading and Translation,01,17327,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
 SPANISH,306,Intermediate Reading and Translation,02,17328,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Hubert
 SPEC_ED,301,Education of Exceptional Children,01,10389,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Welsh-Griffin
-SPEC_ED,301,Education of Exceptional Children,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Danielson
+SPEC_ED,301,Education of Exceptional Children,02,10729,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Danielson
 SPEC_ED,401,Teaching Students with Disabilities,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,A Albagshi
 SPEC_ED,401,Teaching Students with Disabilities,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Van Horn
 SPEC_ED,404,Professional Skills in Special Education,01,10392,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Whittenburg
@@ -652,7 +652,7 @@ SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,1
 STAT,212,[QUAN] Introduction to Statistical Methods,01,10421,4,ARRGT,ARR ARR,Aug 23--Dec 10,S Veerayah-Mcgregor
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,10454,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Veerayah-Mcgregor
 STAT,360,Probability and Statistics,01,10670,3,ARRGT,ARR ARR,Aug 23--Dec 10,P Rao
-STAT,370,Introductory Statistics for Engineers,01,"",3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
+STAT,370,Introductory Statistics for Engineers,01,10455,3,"M,W,F11.10-12","",Aug 23--Dec 10,G Taub
 STAT,412,Statistical Methods in Research I,01,10422,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,01,10965,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Li
 STAT,435,[M] Statistical Modeling for Data Analytics,01,11120,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Kaul
@@ -667,7 +667,7 @@ UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Hopkins
 UNIV,490,Global Leadership Experience,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,K Newlon
 UNIV,491,Global Leadership Integrative Capstone,01,10213,1,W11.10-12,"",Aug 23--Dec 10,K Newlon
 UNIV,497,Peer Leadership,01,10214,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Newlon
-WGSS,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,10844,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
+WGSS,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,10844,3,ARRGT,ARR ARR,Dec 18--Jan 09,L Gutierrez
 WGSS,230,Human Sexuality,01,10365,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Paup
 WGSS,230,Human Sexuality,02,10857,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
 WGSS,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10967,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Aust

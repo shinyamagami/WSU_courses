@@ -82,7 +82,7 @@ BIOLOGY,438,[M] Animal Behavior,01,13022,3,M9.10-10,VLIB 265,Aug 23--Dec 10,M Ma
 BIOLOGY,438,[M] Animal Behavior,"","","",W9.10-10,WEB ARR,"",""
 BIOLOGY,438,[M] Animal Behavior,01 Lab,13025,0,M10.35-13.15,VSCI 114,Aug 23--Dec 10,""
 BIOLOGY,438,[M] Animal Behavior,02 Lab,13026,0,M13.30-16.10,VSCI 114,Aug 23--Dec 10,""
-BIOLOGY,469,[M] Ecosystem Ecology and Global Change,01,13063,3,"TU,TH10.35-11.50",VC ARR,Aug 23--Dec 10,R Evans
+BIOLOGY,469,[M] Ecosystem Ecology and Global Change,01,13063,3,"TU,TH10.35-11.50",VECS 120,Aug 23--Dec 10,R Evans
 BIOLOGY,483,[CAPS] [M] Organisms and Global Change,01,13021,3,"TU,TH12.05-13.20",VSCI 19,Aug 23--Dec 10,J Piovia-Scott
 BIOLOGY,495,"Internship in Biology, Botany, and Zoology",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,D Wilmington
 BIOLOGY,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -93,7 +93,7 @@ BIOLOGY,501,Proposal Defense Seminar,02,13159,2,ARRGT,ARR ARR,Aug 23--Dec 10,J P
 BIOLOGY,519,Introduction to Population Genetics,01,13043,3,"TU,TH13.30-14.45",VC ARR,Aug 23--Dec 10,J Busch
 BIOLOGY,549,Behavioral Ecology,01,17739,3,"M,W12.35-13.50",VC ARR,Aug 23--Dec 10,H Watts
 BIOLOGY,566,Mathematical Genetics,01,17759,3,"M,W17.10-18.25",VC ARR,Aug 23--Dec 10,R Gomulkiewicz
-BIOLOGY,569,[M] Ecosystem Ecology and Global Change,01,13064,3,"TU,TH10.35-11.50",VC ARR,Aug 23--Dec 10,R Evans
+BIOLOGY,569,[M] Ecosystem Ecology and Global Change,01,13064,3,"TU,TH10.35-11.50",VECS 120,Aug 23--Dec 10,R Evans
 BIOLOGY,579,Mathematical Modeling in the Biological and Health Sciences,01,17762,3,W13.30-16,VC ARR,Aug 23--Dec 10,E Schwartz
 BIOLOGY,585,Professional Development and Training for College and University Teaching,01,13994,2,F13.10-15,VC ARR,Aug 23--Dec 10,L Carloye
 BIOLOGY,589,Advanced Topics in Biology,01,"",V,W12.10-13,VC ARR,Aug 23--Dec 10,T Cheeke
@@ -177,7 +177,7 @@ CS,700,"Master's Research, Thesis, and/or Examination",01,12754,V,ARRGT,ARR ARR,
 DATA,115,Introduction to Data Analytics,02,12976,3,"TU,TH10.35-11.50",VC ARR,Aug 23--Dec 10,D Deford
 DATA,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Lapin
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,12670,3,"M,W,F9.10-10",VUB 226,Aug 23--Dec 10,E Mcdonald
-DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,12671,3,"M,W10.35-11.50",VLIB 260,Aug 23--Dec 10,M Rabby
+DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,12671,3,"M,W10.35-11.50",VMMC 214,Aug 23--Dec 10,M Rabby
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,03,12860,3,"TU,TH13.30-14.45",VLIB 264,Aug 23--Dec 10,E Mcdonald
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,04,12903,3,TU17.45-20.30,VLIB 260,Aug 23--Dec 10,E Mcdonald
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,12730,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,B Grell
@@ -196,7 +196,7 @@ DTC,355,[M] Multimedia Authoring,01,12673,3,"TU,TH13.30-14.45",VMMC 111,Aug 23--
 DTC,355,[M] Multimedia Authoring,02,13363,3,F14.10-17,VMMC 111,Aug 23--Dec 10,W Luers
 DTC,356,[M] Information Structures,01,12674,3,"M,W12.05-13.20",VMMC 111,Aug 23--Dec 10,J Barber
 DTC,356,[M] Information Structures,02,12960,3,"M,W16.20-17.35",VMMC 111,Aug 23--Dec 10,N Schiller
-DTC,375,"[M] Language, Texts and Technology",01,12688,3,"TU,TH12.05-13.20",VMMC 111,Aug 23--Dec 10,J Barber
+DTC,375,"[M] Language, Texts and Technology",01,12688,3,"TU,TH12.05-13.20",VMMC 22,Aug 23--Dec 10,J Barber
 DTC,392,Video Games Theories and History,01,13039,3,F11.10-14,WEB ARR,Aug 23--Dec 10,R House
 DTC,475,[DIVR] Digital Diversity,01,13048,3,W17.45-20.30,VLIB 260,Aug 23--Dec 10,M Rabby
 DTC,477,Advanced Multimedia Authoring,01,12675,3,"TU,TH14.55-16.10",VMMC 111,Aug 23--Dec 10,M Stamper
@@ -889,8 +889,8 @@ PSYCH,401,[CAPS] [M] Historical Development of Psychology,02,17459,3,"TU,TH10.35
 PSYCH,403,Multicultural Psychology,01,13769,3,"W,F13.30-14.45",VMMC 6,Aug 23--Dec 10,A Blume
 PSYCH,412,[CAPS] [M] Psychological Testing and Assessment,01,13756,3,"M,W13.30-14.45",VUB 207,Aug 23--Dec 10,T Probst
 PSYCH,464,Behavior Disorders of Children and Adolescents,01,17480,3,"TU,TH13.30-14.45",VLIB 265,Aug 23--Dec 10,J Fales
-PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,K Schmaling
-PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Morgan
 PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,17482,3,"TU,TH14.55-16.10",VC ARR,Aug 23--Dec 10,M Morgan
 PSYCH,506,Current Research in Psychology,01,17744,1,W16.10-17,VECS 209,Aug 23--Dec 10,R Magnan
 PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,13045,3,"TU,TH12.05-13.20",VECS 209,Aug 23--Dec 10,C Cuttler
@@ -921,7 +921,7 @@ SOE,491,Senior Seminar,01,12686,1,M15.10-17,VUB 225,Aug 23--Dec 10,K Moffett
 SOE,492,Special Topics,01,13411,3,"M,W9.10-10.25",VLIB 264,Aug 23--Dec 10,G Rollwagen-Bollens
 SOE,492,Special Topics,02,13426,3,"TU,TH12.05-13.20",VC ARR,Aug 23--Dec 10,A King
 SOE,492,Special Topics,03,17950,2,F13-15,VC ARR,Aug 23--Dec 10,M Swanson
-SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Bishop
 SOE,501,Graduate Skills Seminar,01,12687,1,M14.10-15,VUB 226,Aug 23--Dec 10,C Schultz
 SOE,536,"Climate Change Impacts on Physical, Natural, and Human Systems",01,17697,3,"TU,TH14.55-16.10",VSCI 140,Aug 23--Dec 10,D Singh
 SOE,544,Environmental Assessment,01,12685,3,TU13.30-14.45,VC ARR,Aug 23--Dec 10,D Thomas
@@ -972,7 +972,7 @@ STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,13188,V,ARRGT,
 TCH_LRN,305,Fundamentals of Instruction,01,12617,2,M9.10-11,VUB 225,Aug 23--Dec 10,J Masterson
 TCH_LRN,305,Fundamentals of Instruction,02,18076,2,TU17.30-19.10,VUB 222,Aug 23--Dec 10,S Morrison
 TCH_LRN,307,Survey of Children's Literature,01,12823,3,W8.10-11,VUB 221,Aug 23--Dec 10,D Day-Wiff
-TCH_LRN,310,[M] Classroom Management,01,12618,2,TH17.30-19.10,VUB 226,Aug 23--Dec 10,A Bryant
+TCH_LRN,310,[M] Classroom Management,01,12618,2,TH17.30-19.10,VUB 225,Aug 23--Dec 10,A Bryant
 TCH_LRN,322,[M] Reading and Writing in Grades 4 - 8,01,13088,3,W17.10-19.55,VUB 225,Aug 23--Dec 10,D Duncan
 TCH_LRN,330,Diversity in Education,01,12896,3,M11.10-14,VUB 225,Aug 23--Dec 10,S Rakha
 TCH_LRN,333,Introduction to English as a Second Language (ESL),01,12619,3,W11.10-14,VUB 221,Aug 23--Dec 10,G Ernst-Slavit

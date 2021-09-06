@@ -81,16 +81,12 @@ CE,498,Special Topics in Civil Engineering,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,
 CE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,505,Decision-Making for Sustainable and Resilient Civil Infrastructure,01,09259,3,"TU,TH17.45-19",TFLO 230,Aug 23--Dec 10,H Yan
 CE,532,Finite Elements,01,08856,3,"M,W16.15-17.30",TCOL 126,Aug 23--Dec 10,Y Zhang
-CE,541,Physicochemical Water and Wastewater Treatment,01,08757,3,"TU,TH16.20-17.35",TFLO 260,Aug 23--Dec 10,M Hossain
-CE,580,Graduate Seminar,01,08702,1,F11.10-12,TFLO 223,Aug 23--Dec 10,(multiple)
 CE,600,Special Projects or Independent Study,01,08703,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,700,"Master's Research, Thesis and/or Examination",01,08490,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,702,"Master's Special Problems, Directed Study, and/or Examination",01,08491,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CE,800,"Doctoral Research, Dissertation, and/or Examination",01,08492,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CHE,461,Introduction to Nuclear Engineering,01,08546,3,"TU,TH16.20-17.35",TFLO 210,Aug 23--Dec 10,R Stout
-CHE,510,Transport Processes,01,08420,3,"M,W,F9.10-10",TFLO 210,Aug 23--Dec 10,H Beyenal
 CHE,560,Biochemical Engineering,01,09769,3,"M,W,F10.10-11",TFLO 256,Aug 23--Dec 10,X Zhang
-CHE,581,Advanced Topics in Chemical Engineering,01,09770,V,"TU,TH12.05-13.20",TFLO 209,Aug 23--Dec 10,A Kostyukova
 CHE,596,Research Methods and Presentation,01,08421,3,"TU,TH9.10-10.25",TFLO 209,Aug 23--Dec 10,W Dong
 CHE,598,Research Seminar,01,08422,1,M16.10-17,TFLO 256,Aug 23--Dec 10,J Petersen
 CHE,700,"Master's Research, Thesis, and/or Examination",01,08423,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -175,10 +171,9 @@ DTC,375,"[M] Language, Texts and Technology","","","",F13.10-14,WEB ARR,"",""
 DTC,475,[DIVR] Digital Diversity,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Earle
 DTC,477,Advanced Multimedia Authoring,01,08596,3,"M,W,F9.10-10",VC ARR,Aug 23--Dec 10,T De Vries
 DTC,497,[CAPS] Senior Seminar,01,09543,3,"TU,TH12.05-13.20",VC ARR,Aug 23--Dec 10,R Gregory
-DTC,497,[CAPS] Senior Seminar,"","","","TU,TH12.05-13.20",VC TRI,"",""
+DTC,497,[CAPS] Senior Seminar,"","","","TU,TH12.05-13.20",TFLO 209,"",""
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Plemons
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Plemons
-E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_E,214,Design of Logic Circuits,01,08521,4,"M,W16.15-17.30",TFLO 223,Aug 23--Dec 10,M Engels
 E_E,214,Design of Logic Circuits,01 Lab,08522,0,M17.40-20.30,TFLO 164,Aug 23--Dec 10,M Engels
 E_E,214,Design of Logic Circuits,"","","",M17.40-20.30,TFLO 161,"",""
@@ -199,7 +194,6 @@ E_E,491,Performance of Power Systems,01,08693,3,"TU,TH12.05-13.20",TFLO 223,Aug 
 E_E,495,Internship in Electrical Industry,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_E,518,Advanced Electromagnetic Theory I,01,09395,3,"TU,TH16.20-17.35",TFLO 252,Aug 23--Dec 10,S Hudson
-E_E,582,Advanced Topics,01,18680,3,"TU,TH14.55-16.10",TFLO 224,Aug 23--Dec 10,N Schulz
 E_E,595,Directed Study in Electrical Engineering,01,08533,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Osman
 E_E,600,Special Projects or Independent Study,01,08534,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 E_E,700,"Master's Research, Thesis, and/or Examination",01,08535,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -223,21 +217,16 @@ ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,08439,V,ARRGT
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,09774,1,W16.30-17.30,TFLO 209,Aug 23--Dec 10,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,08870,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ED_PSYCH,401,"Classroom Assessment, Elementary",01,08742,3,W10.10-12.55,TFLO 131,Aug 23--Dec 10,J Firestone
-ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,18066,3,W12.10-15,TFLO 247,Aug 23--Dec 10,R Danielson
-ED_PSYCH,504,Classroom-focused Research Methods,01,18492,2,TU12.10-15,TCIC 223,Aug 23--Dec 10,K Carbonneau
 ED_PSYCH,505,Research Methods I,01,09417,3,M17.45-20.30,TFLO 210,Aug 23--Dec 10,H Liao
-ED_PSYCH,507,Introduction to Qualitative Research,01,18653,3,TH9.10-12,TCIC 223,Aug 23--Dec 10,Z Strong
 ED_PSYCH,508,Educational Statistics,01,09416,3,TU17.45-20.35,TFLO 260,Aug 23--Dec 10,H Liao
-ED_PSYCH,521,Topics in Educational Psychology,01,09764,3,M17.45-20.30,TFLO 224,Aug 23--Dec 10,R Danielson
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,09746,3,TU17.45-20.35,TCIC 221,Aug 23--Dec 10,A Rud
 ED_RES,563,Principles of Research,01,"",3,W17.45-20.30,TFLO 224,Aug 23--Dec 10,S Calderone
 ED_RES,564,Qualitative Research,01,09776,3,TU16.10-19,TFLO 209,Aug 23--Dec 10,A Roth-Mcduffie
 ED_RES,565,Quantitative Research,01,09775,3,TU17.45-20.35,TCIC 223,Aug 23--Dec 10,S Dai
 ED_RES,571,Doctoral Dissertation Preparation,01,"",3,W17.45-20.30,TFLO 256,Aug 23--Dec 10,S Kruse
-ED_RES,571,Doctoral Dissertation Preparation,02,"",3,M17.45-20.30,TFLO 247,Aug 23--Dec 10,""
 ENGLISH,101,[WRTG] College Composition,01,08649,3,"M,W,F9.10-10",TCIC 214,Aug 23--Dec 10,G Escalera
-ENGLISH,101,[WRTG] College Composition,02,08650,3,"M,W,F11.10-12",TFLO 138,Aug 23--Sep 05,R Mays
-ENGLISH,101,[WRTG] College Composition,"","","","M,W11.10-12",TFLO 138,"",""
+ENGLISH,101,[WRTG] College Composition,02,08650,3,"M,W,F11.10-12",TFLO 244,Aug 23--Sep 05,R Mays
+ENGLISH,101,[WRTG] College Composition,"","","","M,W11.10-12",TFLO 244,"",""
 ENGLISH,101,[WRTG] College Composition,03,08651,3,"TU,TH10.35-11.50",TCIC 217,Aug 23--Dec 10,G Escalera
 ENGLISH,101,[WRTG] College Composition,04,08652,3,TU9.10-10.25,TCIC 214,Aug 23--Dec 10,P Weatherly
 ENGLISH,101,[WRTG] College Composition,"","","",TH9.10-10.25,WEB ARR,"",""
@@ -272,7 +261,6 @@ ENGR,120,Innovation in Design,02 Lab,08822,0,M15.10-18,TFLO 151,Aug 23--Dec 10,S
 ENTOM,343,[M] General Entomology,01,08677,3,"TU,TH14.55-16.10",TFLO 256,Aug 23--Dec 10,A Felsot
 ENTOM,460,Biotechnology and the Environment,01,09420,3,"M,W16.15-17.30",TFLO 210,Aug 23--Dec 10,A Felsot
 ENTOM,490,Special Topics in Entomology,01,"",1,M14.10-15,TFLO 210,Aug 23--Dec 10,A Felsot
-ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,A Felsot
 ENTOM,590,Special Topics in Entomology,01,18421,1,M14.10-15,TFLO 210,Aug 23--Dec 10,A Felsot
 FIN,325,Introduction to Financial Management,01,08514,3,"TU,TH17.45-19",TFLO 239,Aug 23--Dec 10,S Koopman
 FIN,325,Introduction to Financial Management,03,17199,3,"M,W16.15-17.30",TFLO 239,Aug 23--Dec 10,K Jones
@@ -298,8 +286,6 @@ H_D,204,[SSCI] Family Interactions,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,M Garcia
 H_D,302,Parent-Child Relationships,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T Ashford
 H_D,403,[CAPS] Families in Poverty,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Seeley
 HBM,231,Introduction to Beverage Management,01,09607,1,"TU,TH12.05-12.55",TFLO 210,Aug 23--Oct 10,B Marlowe
-HBM,280,Hospitality Systems,01,08680,3,TH15.10-18,TFLO 223,Aug 23--Dec 10,B Marlowe
-HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
 HBM,350,Beverage Management,01,08744,3,TH17.45-20.35,WEB ARR,Aug 23--Dec 10,R Hammond
 HBM,401,Career Management,01,09608,1,TH13.30-14.20,TFLO 224,Aug 23--Dec 10,B Marlowe
 HBM,490,Food and Beverage Operational Analysis,01,09218,3,"TU,TH10.35-11.50",TFLO 210,Aug 23--Dec 10,R Harrington
@@ -321,7 +307,6 @@ HISTORY,388,US and Vietnam,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,R Bauman
 HISTORY,468,Hitler and Nazi Germany,01,08753,3,"TU,TH12.05-13.20",TCIC 217,Aug 23--Dec 10,G Sperling
 HISTORY,498,History Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Bauman
 HISTORY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-HISTORY,499,Special Problems,02,"",V,ARRGT,ARR ARR,Sep 27--Oct 29,J Thigpen
 HISTORY,568,Hitler and Nazi Germany,01,08754,3,"TU,TH12.05-13.20",TCIC 217,Aug 23--Dec 10,G Sperling
 HISTORY,598,History Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,R Bauman
 HORT,102,Introduction to Cultivated Plants,01,08712,3,"M,W,F11.10-12",TWSC 202,Aug 23--Dec 10,C Kawula
@@ -329,14 +314,14 @@ HORT,310,Pomology,01,08442,3,"TU,TH13.30-14.45",TFLO 247,Aug 23--Dec 10,L Devett
 HORT,313,Viticulture,01,08443,3,"TU,TH14.55-16.10",TWSC 202,Aug 23--Dec 10,B Bondada
 HORT,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Snider
 HORT,409,Seminar in Viticulture and Enology,01,08447,1,W15.10-16,TWSC 202,Aug 23--Dec 10,B Bondada
-HORT,418,[M] Post-harvest Biology and Technology,01,08449,3,"TU,TH10.35-11.25",TWSC 202,Aug 23--Dec 10,""
+HORT,418,[M] Post-harvest Biology and Technology,01,08449,3,"TU,TH10.35-11.25",TWSC 202,Aug 23--Dec 10,D Mattinson
 HORT,418,[M] Post-harvest Biology and Technology,01 Lab,08451,0,W16.10-19,TWSC 206,Aug 23--Dec 10,""
 HORT,435,Chemistry and Biochemistry of Fruit and Wine,01,09248,3,"M,W,F9.10-10",TWSC 202,Aug 23--Dec 10,T Collins
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Blauer
 HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,T Collins
-HORT,503,Advanced Topics in Horticulture,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,A Dhingra
+HORT,503,Advanced Topics in Horticulture,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,P Jacoby
 HORT,509,Seminar,01,"",1,TH14.55-16.05,VC ARR,Aug 23--Dec 10,P Mccord
-HORT,518,[M] Post-harvest Biology and Technology,01,08450,3,"TU,TH10.35-11.25",TWSC 202,Aug 23--Dec 10,""
+HORT,518,[M] Post-harvest Biology and Technology,01,08450,3,"TU,TH10.35-11.25",TWSC 202,Aug 23--Dec 10,D Mattinson
 HORT,518,[M] Post-harvest Biology and Technology,01 Lab,08452,0,W16.10-19,TWSC 206,Aug 23--Dec 10,""
 HORT,522,Data Analysis in Systems Biology,01,"",3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,S Ficklin
 HORT,535,Chemistry and Biochemistry of Fruit and Wine,01,09249,3,"M,W,F9.10-10",TWSC 202,Aug 23--Dec 10,T Collins
@@ -347,8 +332,6 @@ HUMANITY,350,Sacred Texts and Cultures of World Religions,01,08678,3,"TU,TH14.55
 I_BUS,380,International Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 I_BUS,435,International Tourism,01,17187,3,"TU,TH14.55-16.10",TFLO 210,Aug 23--Dec 10,C Chen
 I_BUS,482,[M] International Marketing,01,08826,3,"TU,TH16.20-17.35",TCIC 214,Aug 23--Dec 10,P Carlisle
-INTERDIS,501,Research Communication,01,18523,2,W16.10-17.50,TFLO 247,Aug 23--Dec 10,A Coffin
-INTERDIS,598,Interdisciplinary Seminar,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 ISE,602,G INTL EXCHG,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Styborski
 KIN_ACTV,101,Beginning Conditioning,01,08694,1,"M,W12.10-13",TFLO 136,Aug 23--Dec 10,W Patterson
@@ -363,8 +346,8 @@ MATH,108,Trigonometry,01,08669,2,"W,F14.10-15",TCIC 210,Aug 23--Dec 10,S Selmi
 MATH,171,[QUAN] Calculus I,01,08602,4,"M,W,F9.10-10",TFLO 252,Aug 23--Dec 10,S Selmi
 MATH,171,[QUAN] Calculus I,02,08763,4,"TU,TH12.05-13.20",TFLO 133,Aug 23--Dec 10,S Selmi
 MATH,171,[QUAN] Calculus I,03,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,M Morgan
-MATH,171,[QUAN] Calculus I,01 Lab,08603,0,"TU,TH9.10-10.25",TCOL 202,Aug 23--Dec 10,S Selmi
-MATH,171,[QUAN] Calculus I,02 Lab,08764,0,"TU,TH13.30-14.45",TFLO 133,Aug 23--Dec 10,S Selmi
+MATH,171,[QUAN] Calculus I,01 Lab,08603,0,"TU,TH9.10-10.25",TCOL 202,Aug 23--Dec 10,J Griffin
+MATH,171,[QUAN] Calculus I,02 Lab,08764,0,"TU,TH13.30-14.45",TFLO 133,Aug 23--Dec 10,J Griffin
 MATH,171,[QUAN] Calculus I,03 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MATH,172,Calculus II,01,08618,4,"M,W,F14.10-15",TFLO 131,Aug 23--Dec 10,D Mitchell
 MATH,172,Calculus II,02,"",4,"M,W,F9.10-10",VC ARR,Aug 23--Dec 10,N Strigul
@@ -383,10 +366,8 @@ MATH,553,Graph Theory,01,08911,3,"M,W,F14.10-15",TFLO 256,Aug 23--Dec 10,M Hudel
 MATH,570,Continuum Mechanics,01,10167,3,"TU,TH16.20-17.35",TCIC 217,Aug 23--Dec 10,J Iannelli
 MBIOS,301,General Genetics,01,08583,4,"M,W,F12.10-13",TCIC 210,Aug 23--Dec 10,E Sweet
 MBIOS,301,General Genetics,"","","",M11.10-12,TCIC 210,"",""
-MBIOS,301,General Genetics,02,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,N Mccabe
 MBIOS,301,General Genetics,03,09584,4,"M,W,F12.10-13",TCIC 210,Aug 23--Dec 10,E Sweet
 MBIOS,301,General Genetics,"","","",W11.10-12,TCIC 210,"",""
-MBIOS,303,Introductory Biochemistry,01,"",4,ARRGT,ARR ARR,Aug 23--Dec 10,R Brosemer
 MBIOS,305,General Microbiology,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,C Helmick
 MBIOS,401,Cell Biology,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,E Shelden
 MBIOS,405,Cell Biology of Disease,01,18480,3,F13.30-14.45,TFLO 224,Aug 23--Dec 10,C Cooper
@@ -402,7 +383,7 @@ ME,303,Fluid Mechanics,01,08541,3,"TU,TH10.35-11.50",TFLO 244,Aug 23--Dec 10,Y Z
 ME,313,Engineering Analysis,01,08542,3,"TU,TH15.05-15.55",TCIC 210,Aug 23--Dec 10,C Yang
 ME,313,Engineering Analysis,01 Lab,08543,0,TH12.05-14.55,TFLO 145,Aug 23--Dec 10,C Yang
 ME,313,Engineering Analysis,02 Lab,09562,0,TU12.05-14.55,TFLO 145,Aug 23--Dec 10,C Yang
-ME,316,Mechanical Component Analysis and Design,01,08544,3,"TU,TH7.45-9",TFLO 131,Aug 23--Dec 10,H Melgarejo
+ME,316,Mechanical Component Analysis and Design,01,08544,3,"TU,TH7.45-9",TFLO 131,Aug 23--Dec 10,Z Melgarejo-Pinto
 ME,401,Mechatronics,01,09451,3,"M,W10.10-11",TCIC 210,Aug 23--Dec 10,C Mo
 ME,401,Mechatronics,01 Lab,09452,0,W13.10-16,TCOL 108,Aug 23--Dec 10,C Mo
 ME,405,Thermal Systems Design,01,08697,3,"TU,TH10.35-11.50",TFLO 131,Aug 23--Dec 10,M Saad
@@ -545,7 +526,6 @@ MED_CLIN,637,Clinical Rotation - Interventional Radiology,01,"",V,ARRGT,ARR ARR,
 MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,A Kumar
 MED_LMH,521,Quality and Safety in Healthcare: Medical Errors,01,09567,1,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
 MED_LMH,531,Personal Leadership Development I,01,09921,1,ARRGT,ARR ARR,Aug 23--Nov 24,C Fischer
-MGMT,401,Leading People and Organizations,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MGMT,450,Personnel and Human Resources Management,01,08553,3,"TU,TH9.10-10.25",TFLO 230,Aug 23--Dec 10,J Bravo
 MGMT,483,[M] Management of Innovation and Change,01,09216,3,"TU,TH10.35-11.50",TFLO 243,Aug 23--Dec 10,P Skilton
 MGMT,485,[M] Negotiation Skills,01,08736,3,"TU,TH12.05-13.20",TCIC 214,Aug 23--Dec 10,J Bravo
@@ -585,7 +565,7 @@ MKTG,360,Marketing,02,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MKTG,368,Marketing Research,01,09441,3,"TU,TH14.55-16.10",TCOL 102,Aug 23--Dec 10,J Giese
 MKTG,477,Integrated Marketing Communications,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,""
 MKTG,495,[M] Marketing Management,01,09442,3,"TU,TH12.05-13.20",TFLO 244,Aug 23--Dec 10,J Giese
-MSE,201,Materials Engineering Fundamentals,01,08559,3,"M,W,F12.10-13",TFLO 260,Aug 23--Dec 10,H Melgarejo
+MSE,201,Materials Engineering Fundamentals,01,08559,3,"M,W,F12.10-13",TFLO 260,Aug 23--Dec 10,Z Melgarejo-Pinto
 MSE,507,Additive Manufacturing,01,17976,3,"M,W17.45-19",TFLO 231,Aug 23--Dec 10,C Yang
 NURS,308,Professional Development I: Professional Roles and Responsibilities,01,08316,3,W10.30-13.30,TNRS 1215,Aug 23--Dec 10,S Hurst
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,08317,3,TH13.10-16,TNRS 1214,Aug 23--Dec 10,K Anders
@@ -635,21 +615,14 @@ NURS,427,Community Health Nursing Practice,02,08375,3,ARRGT,ARR ARR,Aug 23--Dec 
 NURS,427,Community Health Nursing Practice,03,09614,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Sarkinen
 NURS,430,[CAPS] Senior Practicum,01,08330,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Beck
 NURS,440,[M] Population Health Theory,01,08328,3,ARRGT,ARR ARR,Aug 23--Oct 15,S Edwards
-NURS,440,[M] Population Health Theory,02,08329,3,ARRGT,ARR ARR,Aug 23--Oct 15,S Edwards
 NURS,465,Application of Population Health Principles,01,08359,3,ARRGT,ARR ARR,Aug 23--Nov 12,P Eide
 NURS,465,Application of Population Health Principles,02,08360,3,ARRGT,ARR ARR,Aug 23--Nov 12,P Eide
 NURS,471,Foundations of Occupational and Environmental Health Practice,01,08404,3,ARRGT,ARR ARR,Oct 18--Dec 17,D Smart
 NURS,471,Foundations of Occupational and Environmental Health Practice,02,08405,3,ARRGT,ARR ARR,Oct 18--Dec 17,D Smart
 NURS,477,Health Care Ethics,01,08324,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Edwards
-NURS,477,Health Care Ethics,02,08325,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Edwards
 NURS,495,[CAPS] Advanced Practicum,01,08352,3,ARRGT,ARR ARR,Oct 18--Dec 17,S Edwards
-NURS,495,[CAPS] Advanced Practicum,02,08355,3,ARRGT,ARR ARR,Oct 18--Dec 17,S Edwards
+NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,G Cronrath
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",01,08389,3,W9.10-12,VC ARR,Aug 25--Aug 25,P Stover
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,VC ARR,"",""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,VC ARR,"",""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,VC ARR,"",""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,VC ARR,"",""
-NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics",02,08390,3,W9.10-12,VC ARR,Aug 25--Aug 25,P Stover
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,VC ARR,"",""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,VC ARR,"",""
 NURS,502,"Psychiatric Assessment, Diagnosis, and Management of Adults and Geriatrics","","","",W9.10-12,VC ARR,"",""
@@ -659,17 +632,7 @@ NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,VC ARR,"",""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,VC ARR,"",""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,VC ARR,"",""
 NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,VC ARR,"",""
-NURS,503,Scientific Inquiry in Nursing,02,08307,2,M17.10-19,VC ARR,Aug 23--Aug 23,J Postma
-NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,VC ARR,"",""
-NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,VC ARR,"",""
-NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,VC ARR,"",""
-NURS,503,Scientific Inquiry in Nursing,"","","",M17.10-19,VC ARR,"",""
 NURS,504,Evidence-Based Practice,01,08308,3,M11.10-14,VC ARR,Aug 23--Aug 23,C Richards
-NURS,504,Evidence-Based Practice,"","","",M11.10-14,VC ARR,"",""
-NURS,504,Evidence-Based Practice,"","","",M11.10-14,VC ARR,"",""
-NURS,504,Evidence-Based Practice,"","","",M11.10-14,VC ARR,"",""
-NURS,504,Evidence-Based Practice,"","","",M11.10-14,VC ARR,"",""
-NURS,504,Evidence-Based Practice,02,08407,3,M11.10-14,VC ARR,Aug 23--Aug 23,C Richards
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,VC ARR,"",""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,VC ARR,"",""
 NURS,504,Evidence-Based Practice,"","","",M11.10-14,VC ARR,"",""
@@ -679,13 +642,7 @@ NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-2
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,VC ARR,"",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,VC ARR,"",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,VC ARR,"",""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,02,08387,2,TU16.10-18,VC ARR,Aug 24--Aug 24,S Fincham
-NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,VC ARR,"",""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,VC ARR,"",""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-20,VC ARR,"",""
-NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,VC ARR,"",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,01 Lab,08367,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Fincham
-NURS,508,Diagnostics and Procedures for Primary Care Practice,02 Lab,08388,0,ARRGT,ARR ARR,Aug 23--Dec 10,S Fincham
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,01,08380,3,TU8.10-11,VC ARR,Aug 24--Aug 24,E Phenneger
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,VC ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",TU8.10-11,VC ARR,"",""
@@ -701,17 +658,7 @@ NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,VC ARR,"",""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,VC ARR,"",""
 NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,VC ARR,"",""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,02,08392,3,W9.10-12,VC ARR,Aug 25--Aug 25,L Kaplan
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,VC ARR,"",""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,VC ARR,"",""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,VC ARR,"",""
-NURS,515,Primary Care II: Acute Health Conditions Across the Lifespan,"","","",W9.10-12,VC ARR,"",""
 NURS,516,Primary Care Practicum II,01,08393,2,W12.10-14,VC ARR,Aug 25--Aug 25,B Briggs
-NURS,516,Primary Care Practicum II,"","","",W12.10-14,VC ARR,"",""
-NURS,516,Primary Care Practicum II,"","","",W12.10-14,VC ARR,"",""
-NURS,516,Primary Care Practicum II,"","","",W12.10-14,VC ARR,"",""
-NURS,516,Primary Care Practicum II,"","","",W12.10-14,VC ARR,"",""
-NURS,516,Primary Care Practicum II,02,08394,2,W12.10-14,VC ARR,Aug 25--Aug 25,B Briggs
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,VC ARR,"",""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,VC ARR,"",""
 NURS,516,Primary Care Practicum II,"","","",W12.10-14,VC ARR,"",""
@@ -726,22 +673,7 @@ NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","",
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,VC ARR,"",""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,VC ARR,"",""
 NURS,521,"Nursing Education: Teaching, Learning, Assessment, and Evaluation","","","",M14.10-17,VC ARR,"",""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education",01,10183,3,M14.10-17,VC ARR,Aug 23--Aug 23,""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,VC ARR,"",""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,VC ARR,"",""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,VC ARR,"",""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,VC ARR,"",""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education",02,10184,3,M14.10-17,VC ARR,Aug 23--Aug 23,""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,VC ARR,"",""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,VC ARR,"",""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,VC ARR,"",""
-NURS,533,"Nursing Education: Delivery Methods for Diversity, Inclusion, and Interprofessional Education","","","",M14.10-17,VC ARR,"",""
 NURS,540,NP Clinical Practicum,01,08356,V,W17.10-19,VC ARR,Aug 25--Aug 25,B Briggs
-NURS,540,NP Clinical Practicum,"","","",W17.10-19,VC ARR,"",""
-NURS,540,NP Clinical Practicum,"","","",W17.10-19,VC ARR,"",""
-NURS,540,NP Clinical Practicum,"","","",W17.10-19,VC ARR,"",""
-NURS,540,NP Clinical Practicum,"","","",W17.10-19,VC ARR,"",""
-NURS,540,NP Clinical Practicum,02,"",V,W17.10-19,VC ARR,Aug 25--Aug 25,B Briggs
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,VC ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,VC ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",W17.10-19,VC ARR,"",""
@@ -751,35 +683,6 @@ NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,VC ARR,"",""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,VC ARR,"",""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,VC ARR,"",""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,02,08384,3,TU8.10-11,VC ARR,Aug 24--Aug 24,C Chacon
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,VC ARR,"",""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,VC ARR,"",""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,VC ARR,"",""
-NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01,08385,3,TH8.10-11,VC ARR,Aug 26--Aug 26,C Warburton
-NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,02,08386,3,TH8.10-11,VC ARR,Aug 26--Aug 26,C Warburton
-NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01 Lab,08399,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Warburton
-NURS,553,Organizational Systems and Leadership II,02 Lab,08400,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Warburton
-NURS,555,PMHNP Practicum I,01,08395,3,W12.10-14,VC ARR,Aug 25--Aug 25,C Chacon
-NURS,555,PMHNP Practicum I,"","","",W12.10-14,VC ARR,"",""
-NURS,555,PMHNP Practicum I,"","","",W12.10-14,VC ARR,"",""
-NURS,555,PMHNP Practicum I,"","","",W12.10-14,VC ARR,"",""
-NURS,555,PMHNP Practicum I,"","","",W12.10-14,VC ARR,"",""
-NURS,555,PMHNP Practicum I,02,08396,3,W12.10-14,VC ARR,Aug 25--Aug 25,C Chacon
-NURS,555,PMHNP Practicum I,"","","",W12.10-14,VC ARR,"",""
-NURS,555,PMHNP Practicum I,"","","",W12.10-14,VC ARR,"",""
-NURS,555,PMHNP Practicum I,"","","",W12.10-14,VC ARR,"",""
-NURS,555,PMHNP Practicum I,"","","",W12.10-14,VC ARR,"",""
-NURS,555,PMHNP Practicum I,01 Lab,08397,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Chacon
-NURS,555,PMHNP Practicum I,02 Lab,08398,0,ARRGT,ARR ARR,Aug 23--Dec 10,C Chacon
 NURS,558,DNP Project II,01,08309,3,W14.10-17,VC ARR,Aug 25--Aug 25,A Hamel
 NURS,558,DNP Project II,"","","",W14.10-17,VC ARR,"",""
 NURS,558,DNP Project II,"","","",W14.10-17,VC ARR,"",""
@@ -804,72 +707,39 @@ NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-
 NURS,562,Advanced Health Assessment and Differential Diagnoses,"","","",TU11.10-13,VC ARR,"",""
 NURS,562,Advanced Health Assessment and Differential Diagnoses,01 Lab,08368,0,ARRGT,ARR ARR,Aug 23--Dec 10,D Eti
 NURS,562,Advanced Health Assessment and Differential Diagnoses,02 Lab,08369,0,ARRGT,ARR ARR,Aug 23--Dec 10,D Eti
-NURS,563,Advanced Pharmacology,01,08365,3,TU13.10-16,WEB ARR,Aug 24--Aug 24,T Klein
-NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
-NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
-NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
-NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
-NURS,563,Advanced Pharmacology,02,08377,3,TU13.10-16,WEB ARR,Aug 24--Aug 24,T Klein
-NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
-NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
-NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
-NURS,563,Advanced Pharmacology,"","","",TU13.10-16,WEB ARR,"",""
-NURS,564,Family Health and Health Promotion of Populations,01,08311,3,M8.10-11,WEB ARR,Aug 23--Aug 23,N Wood
-NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
-NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
-NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
-NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
-NURS,564,Family Health and Health Promotion of Populations,02,08382,3,M8.10-11,WEB ARR,Aug 23--Aug 23,N Wood
-NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
-NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
-NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
-NURS,564,Family Health and Health Promotion of Populations,"","","",M8.10-11,WEB ARR,"",""
-NURS,565,Information Management for Clinical Practice,01,08312,3,TH14.10-17,WEB ARR,Aug 26--Aug 26,A Brittain
-NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
-NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
-NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
-NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
-NURS,565,Information Management for Clinical Practice,02,08313,3,TH14.10-17,WEB ARR,Aug 26--Aug 26,A Brittain
-NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
-NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
-NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
-NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,01,08411,3,TH11.10-14,WEB ARR,Aug 26--Aug 26,K Pascoe
-NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,02,08413,3,TH11.10-14,WEB ARR,Aug 26--Aug 26,K Pascoe
-NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
-NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,WEB ARR,"",""
+NURS,563,Advanced Pharmacology,01,08365,3,TU13.10-16,VC ARR,Aug 24--Aug 24,T Klein
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,VC ARR,"",""
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,VC ARR,"",""
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,VC ARR,"",""
+NURS,563,Advanced Pharmacology,"","","",TU13.10-16,VC ARR,"",""
+NURS,565,Information Management for Clinical Practice,01,08312,3,TH14.10-17,VC ARR,Aug 26--Aug 26,A Brittain
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
+NURS,565,Information Management for Clinical Practice,02,08313,3,TH14.10-17,VC ARR,Aug 26--Aug 26,A Brittain
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
+NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
+NURS,576,Organizational Systems and Leadership I,01,08411,3,TH11.10-14,VC ARR,Aug 26--Aug 26,K Pascoe
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
+NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
 NURS,576,Organizational Systems and Leadership I,01 Lab,08412,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Pascoe
-NURS,576,Organizational Systems and Leadership I,02 Lab,08414,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Pascoe
-NURS,581,Advanced Pathophysiology,01,08378,3,M14.10-17,WEB ARR,Aug 23--Aug 23,F Brown
-NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
-NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
-NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
-NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
-NURS,581,Advanced Pathophysiology,02,08379,3,M14.10-17,WEB ARR,Aug 23--Aug 23,F Brown
-NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
-NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
-NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
-NURS,581,Advanced Pathophysiology,"","","",M14.10-17,WEB ARR,"",""
-NURS,583,DNP Population Health Practicum,01,08409,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NURS,583,DNP Population Health Practicum,02,08410,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+NURS,581,Advanced Pathophysiology,01,08378,3,M14.10-17,VC ARR,Aug 23--Aug 23,F Brown
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
+NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
 NURS,599,Independent Study,01,08361,V,ARRGT,ARR ARR,Aug 23--Dec 10,P Stover
 NURS,599,Independent Study,02,08362,V,ARRGT,ARR ARR,Aug 23--Dec 10,B Briggs
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,08314,V,TH8.10-11,WEB ARR,Aug 26--Aug 26,(multiple)
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination",02,08315,V,TH8.10-11,WEB ARR,Aug 26--Aug 26,""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
-NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,WEB ARR,"",""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,08314,V,TH8.10-11,VC ARR,Aug 26--Aug 26,(multiple)
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC ARR,"",""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC ARR,"",""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC ARR,"",""
+NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC ARR,"",""
 PHIL,201,[QUAN] Introduction to Formal Logic,02,"",3,"M,W,F12.10-13",TFLO 210,Aug 23--Dec 10,M Goldsby
 PHYSICS,101,[PSCI] General Physics,01,08560,3,"M,W,F14.10-15",TCOL 202,Aug 23--Dec 10,C Capan
 PHYSICS,111,[PSCI] General Physics Lab,01,17212,1,TU13.30-16.20,TCOL 108,Aug 23--Dec 10,C Capan
@@ -942,7 +812,6 @@ SOIL_SCI,368,Introduction to Geographic Information Systems,01,"",3,ARRGT,ARR AR
 SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
 SOIL_SCI,443,[M] Soil Management for Sustainable and Organic Farming Systems,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Blauer
-SOIL_SCI,513,Environmental Soil Physics,01,17806,3,"TU,TH9.10-10.25",TFLO 256,Aug 23--Dec 10,M Flury
 SOIL_SCI,541,Soil-Plant-Microbial Interactions,01,09477,3,"TU,TH12.05-13.20",TCIC 221,Aug 23--Dec 10,T Sullivan
 SPANISH,101,First Semester,01,08674,4,"M,W,F12.10-13",TCOL 126,Aug 23--Dec 10,F Arellano Serratos
 SPANISH,111,[ARTS] Latin American Film,01,17192,3,"M,W,F13.10-14",TFLO 131,Aug 23--Dec 10,F Arellano Serratos
@@ -957,7 +826,6 @@ SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,"",3,ARRGT,AR
 SPEC_ED,490,Practicum in Special Education,01,08626,V,ARRGT,ARR ARR,Aug 23--Dec 10,Y Hsiao
 SPEC_ED,501,Teaching Students with Disabilities,01,08455,3,W17.15-20,TCOL 102,Aug 23--Dec 10,Y Hsiao
 SPEC_ED,520,Teaching in Inclusive Classrooms,01,08459,V,M13.10-16,TFLO 133,Aug 23--Dec 10,Y Hsiao
-SPEC_ED,590,Practicum in Special Education,01,08934,V,ARRGT,ARR ARR,Aug 23--Dec 10,Y Hsiao
 SPEC_ED,595,Universal Design,01,17409,3,TH17.45-20.30,TFLO 210,Aug 23--Dec 10,D Mcmahon
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,17408,1,W16.10-17,TFLO 256,Aug 23--Dec 10,M Dunn
 STAT,212,[QUAN] Introduction to Statistical Methods,01,08728,4,"M,W,F13.10-14",TCIC 216,Aug 23--Dec 10,R Learn
@@ -967,10 +835,12 @@ STAT,212,[QUAN] Introduction to Statistical Methods,04 Lab,09333,0,F15.10-17,TFL
 STAT,360,Probability and Statistics,02,18557,3,"TU,TH10.35-11.50",TFLO 260,Aug 23--Dec 10,X Wen
 STAT,370,Introductory Statistics for Engineers,01,08570,3,"TU,TH16.20-17.35",TCOL 202,Aug 23--Dec 10,R Learn
 STAT,412,Statistical Methods in Research I,01,08585,3,"TU,TH13.30-14.45",TCOL 102,Aug 23--Dec 10,R Learn
+STAT,423,Statistical Methods for Engineers and Scientists,01,"",3,"W,F10.35-11.50",VC ARR,Aug 23--Dec 10,F Mcgrade
 STAT,511,Statistical Methods for Graduate Researchers,01,"",4,"TU,TH12.05-13.20",VC ARR,Aug 23--Dec 10,D Wheeler
 STAT,511,Statistical Methods for Graduate Researchers,01 Lab,08921,0,W10.10-12,VC ARR,Aug 23--Dec 10,D Wheeler
 STAT,512,Analysis of Variance of Designed Experiments,01,"",3,"M,W13.10-14",VC ARR,Aug 23--Dec 10,H Johnson
 STAT,512,Analysis of Variance of Designed Experiments,01 Lab,18603,0,F13.10-15,VC ARR,Aug 23--Dec 10,H Johnson
+STAT,523,Statistical Methods for Engineers and Scientists,01,"",3,"W,F10.35-11.50",VC ARR,Aug 23--Dec 10,F Mcgrade
 STAT,575,The Theory of Multivariate Analysis,01,18419,3,"TU,TH13.35-14.50",TFLO 209,Aug 23--Dec 10,F Pascual
 TCH_LRN,301,Learning and Development,01,08461,3,W13.10-15.55,TFLO 133,Aug 23--Dec 10,Y Cooper
 TCH_LRN,310,[M] Classroom Management,01,08462,2,TH13.30-15.10,TFLO 252,Aug 23--Dec 10,Y Cooper
@@ -1001,6 +871,7 @@ TCH_LRN,415,Student Teaching,01 Lab,08468,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Manci
 TCH_LRN,430,Methods of Teaching Secondary Science I,01,09802,3,TH17.15-20,TCOL 114,Aug 23--Dec 10,J Firestone
 TCH_LRN,433,Middle Level Mathematics Methods,01,08782,3,M16.45-19.30,TFLO 209,Aug 23--Dec 10,T Heikila
 TCH_LRN,434,Conceptualization of Proportional Thinking,01,08469,3,TH16.15-19,TCIC 221,Aug 23--Dec 10,A Gallagher
+TCH_LRN,480,Multicultural Education in a Global Society,01,18721,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 TCH_LRN,483,Integrating Health and Fitness into K-8 Curriculum,01,08616,3,TU14.10-16.55,TFLO 231,Aug 23--Dec 10,R Best
 TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,01,08617,3,M16.10-17.40,TCIC 210,Aug 23--Aug 23,J Morrison
 TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,"","","",M16.10-17.40,TCIC 210,"",""
@@ -1015,6 +886,7 @@ TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,01,08430,3,TU17.4
 TCH_LRN,511,Theoretical Foundations of Education Research,01,18069,3,TU13.10-16,VC ARR,Aug 23--Dec 10,J Egbert
 TCH_LRN,514,Methods and Materials for Bilingual/ESL Education,01,08615,3,TH17.15-20,TFLO 224,Aug 23--Dec 10,Y Ardasheva
 TCH_LRN,521,Topics in Education,01,09462,3,TH16.10-19,TCIC 125T,Aug 23--Dec 10,K Lesseig
+TCH_LRN,580,Multicultural Education in a Global Society,01,18720,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 TCH_LRN,581,Learning and Development in Mathematics and Science,01,09411,3,W17.45-20.30,TFLO 210,Aug 23--Dec 10,A Roth-Mcduffie
 TCH_LRN,590,Internship,01,"",V,M16.10-17.30,TCOL 202,Aug 30--Aug 30,(multiple)
 TCH_LRN,590,Internship,"","","",M16.10-17.30,TCOL 202,"",""
@@ -1032,8 +904,6 @@ VIT_ENOL,409,Seminar in Viticulture and Enology,01,08448,1,W15.10-16,TWSC 202,Au
 VIT_ENOL,435,Chemistry and Biochemistry of Fruit and Wine,01,09250,3,"M,W,F9.10-10",TWSC 202,Aug 23--Dec 10,T Collins
 VIT_ENOL,465,Wine Microbiology and Processing,01,08428,3,"M,W,F12.10-13",TWSC 202,Aug 23--Dec 10,C Edwards
 VIT_ENOL,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-WGSS,309,Women Writers,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,D Campbell
-WGSS,324,Psychology of Gender,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mcraney
 WGSS,324,Psychology of Gender,02,17178,3,"M,W10.10-11",TFLO 252,Aug 23--Dec 10,S Bauman
 WGSS,324,Psychology of Gender,"","","",F10.10-11,WEB ARR,"",""
 WRIT,302,Advanced Writing Collaborative,01,09437,1,ARRGT,ARR ARR,Aug 23--Dec 10,R Mays
