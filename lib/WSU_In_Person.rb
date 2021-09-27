@@ -44,27 +44,18 @@ module WSUInPerson
     end
 
 
-    #get a semester
-    # @campuses = ["P", "Spokane", "Tri-Cities", "Vancouver", "Everett", "DDP"]
-
-    # puts "For which campus do you want to get?\n
-    # 1.Pullman\n
-    # 2.Spokane\n
-    # 3.Tri-Cities\n
-    # 4.Vancouver\n
-    # 5.Everett\n
-    # 6.Global\n
-    # 7.All\n"
-
-
-
 
     def scrape_subject_urls
 
       @campuses.each do |campus|
 
 
-        semesters = ["20212", "20213"]
+        # semesters = ["20212", "20213"]
+        semesters = get_semesters()
+
+        puts("Going to get these semester ", semesters)
+
+
 
         semesters.each do |semester|
 
@@ -238,7 +229,24 @@ module WSUInPerson
     #   end
     # end
 
-  end
-  
 
+    # return a list of semesters
+    def get_semesters
+      time = Time.new
+      semesters = []
+      if time.month < 4 && 10 < time.month
+        # return fall and spring
+        semesters.push(time.year.to_s+"3", (time.year+1).to_s+"1")
+      elsif 4 <= time.month && time.month <= 10
+        # return summer and fall
+        semesters.push(time.year.to_s+"2", (time.year).to_s+"3")
+      end
+
+      return semesters
+    end
+
+
+
+
+  end
 end

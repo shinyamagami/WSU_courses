@@ -4,16 +4,15 @@ AFS,201,Systems Skills for Agricultural and Food Systems,01,14722,3,"M,W,F12.10-
 AFS,336,"[SSCI] Agriculture, Environment, and Community",01,14877,3,"TU,TH9.10-10.25",EVRT 440,Aug 23--Dec 10,J Goldberger
 ANTH,203,[DIVR] Global Cultural Diversity,01,14851,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Thiel
 ANTH,320,[DIVR] Native Peoples of North America,01,14427,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Mcnassar
+B_A,100,Introduction to Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,C Cooney
 B_A,211,"Ethics, Teams, and Innovation",02,15247,3,TU13.30-16.20,EVRT 457,Aug 23--Oct 10,J Gladstone
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,17658,3,"TU,TH16.20-17.35",EVRT 255,Aug 23--Dec 10,Y He
-B_LAW,210,Law and the Legal Environment of Business,01,14422,3,ARRGT,ARR ARR,Aug 23--Oct 10,S Bergstedt
 COM,101,[SSCI] Media and Society,01,14417,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,14367,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Haider
 COM,105,[HUM] Communication in Global Contexts,01,14384,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Peterson
 COM,138,Introduction to Communication,01,14363,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Simmons
 COM,199,Murrow Student Ambassador Training,01,"",1,W9.10-10,EVRT 440,Aug 23--Dec 10,M Johnson
 COM,210,[COMM] Multimedia Content Creation,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,B Pingel
-COM,300,[M] Writing in Communication,04,15009,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Cuen Paxson
 COM,309,Quantitative Research Methods,02,14762,3,ARRGT,ARR ARR,Aug 23--Dec 10,W Peng
 COM,464,Gender and the Media,01,14369,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Kang
 COM,475,Communication Seminar,02,14763,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Loveless
@@ -46,13 +45,12 @@ CPT_S,360,Systems Programming C/C++,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,K W
 CPT_S,411,Introduction to Parallel Computing,01,14752,3,"TU,TH12.05-13.20",EVRT 263,Aug 23--Dec 10,A Sukumaran Rajam
 CPT_S,415,Big Data,01,14408,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Badri
 CPT_S,415,Big Data,02,17738,3,"TU,TH7.45-9",EVRT 452,Aug 23--Dec 10,J Yu
-CPT_S,421,Software Design Project I,01,14876,3,"TU,TH14.55-16.10",EVRT 257,Aug 23--Dec 10,B Zeng
+CPT_S,421,Software Design Project I,01,14876,3,"TU,TH14.55-16.10",EVRT 254,Aug 23--Dec 10,B Zeng
 CPT_S,421,Software Design Project I,01 Lab,14748,0,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
 CPT_S,422,[M] Software Engineering Principles II,01,14409,3,"TU,TH13.30-14.45",EVRT 254,Aug 23--Dec 10,B Zeng
 CPT_S,422,[M] Software Engineering Principles II,02,18679,3,"TU,TH13.30-14.45","",Aug 23--Dec 10,B Zeng
 CPT_S,427,Computer Security,01,14410,3,"M,W,F12.10-13",EVRT 452,Aug 23--Dec 10,A Jillepalli
 CPT_S,427,Computer Security,02,18446,3,"M,W,F12.10-13","",Aug 23--Dec 10,A Jillepalli
-CPT_S,430,Numerical Analysis,01,18270,3,"TU,TH10.35-11.50",EVRT 261,Aug 23--Dec 10,V Manoranjan
 CPT_S,440,Artificial Intelligence,01,14411,3,"TU,TH9.10-10.25",EVRT 457,Aug 23--Dec 10,L Holder
 CPT_S,453,Graph Theory,01,14749,3,"M,W,F14.10-15",EVRT 452,Aug 23--Dec 10,M Hudelson
 CPT_S,484,Software Requirements,01,14741,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Zeng
@@ -80,7 +78,7 @@ E_E,489,Introduction to Control Systems,01,14420,3,"M,W,F9.10-10",EVRT 452,Aug 2
 E_E,491,Performance of Power Systems,01,14813,3,"TU,TH9.10-10.25",EVRT 458,Aug 23--Dec 10,M Venkatasubramanian
 E_E,492,Renewable Energy Sources,01,15013,3,"M,W,F14.10-15",EVRT 340,Aug 23--Dec 10,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,01 Lab,15082,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Guerrero Sedeno
-E_E,493,Protection of Power Systems I,02,17737,3,"TU,TH16.20-17.35",EVRT 261,Aug 23--Dec 10,S Lotfifard
+E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Murray
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,14610,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Garcia
 ECONS,305,Intermediate Microeconomics without Calculus,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wang
 ECONS,311,[M] Introductory Econometrics,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,N Nguyen
@@ -92,20 +90,20 @@ FIN,325,Introduction to Financial Management,01,14325,3,M15.10-18,EVRT 255,Aug 2
 FS,201,[BSCI] Science on Your Plate,01,17752,3,"M,W,F13.10-14",EVRT 255,Aug 23--Dec 10,M Michael
 HBM,101,Professional and Career Development for the Business World,02,14352,1,"M,W,F11.10-12",EVRT 452,Oct 18--Dec 12,A Mcleod
 HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
-HBM,358,Foodservice Systems and Control,02,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,S Seo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,14375,3,"TU,TH10.35-11.50",EVRT 361,Aug 23--Dec 10,J Sandstrom
 HBM,384,Managed Services,01,14378,3,W15.10-18,EVRT 255,Oct 18--Dec 12,M Beattie
 HBM,401,Career Management,01,14357,1,ARRGT,ARR ARR,Aug 23--Oct 10,A Alonzo
 HBM,491,Operational Analysis,01,14324,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Chen
 HBM,494,[M] Service Operations Management,02,14392,3,TH13.30-16,EVRT 440,Aug 23--Oct 10,S Seo
 HBM,495,[CAPS] Case Studies and Research,01,14376,3,"TU,TH10.35-11.50",EVRT 255,Aug 23--Dec 10,D Gursoy
+HBM,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Beattie
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,14499,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Sanders
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,14393,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Krotke-Crandall
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,18572,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Krotke-Crandall
 HORT,310,Pomology,01,14380,3,"TU,TH13.30-14.45",EVRT 361,Aug 23--Dec 10,L Devetter
 HORT,313,Viticulture,01,18579,3,"TU,TH14.55-16.10",EVRT 363,Aug 23--Dec 10,B Bondada
 HORT,320,Olericulture,01,14873,3,"TU,TH9.10-10.25",EVRT 340,Aug 23--Dec 10,M Kumar
-I_BUS,380,International Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,M Downes
+I_BUS,380,International Business,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MATH,202,[QUAN] Calculus for Business and Economics,01,14488,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Morgan
 MATH,216,Discrete Structures,01,14405,3,"M,W,F9.10-10",EVRT 358,Aug 23--Dec 10,A Panchenko
 MATH,405,Introduction to Financial Mathematics,01,14779,3,"M,W,F15.10-16",EVRT 440,Aug 23--Dec 10,M Lesperance
@@ -122,11 +120,12 @@ ME,415,[M] Engineering Design,01,14339,3,"M,W,F13.10-14",EVRT 354,Aug 23--Dec 10
 ME,461,Introduction to Nuclear Engineering,01,14348,3,"TU,TH16.20-17.35",EVRT 440,Aug 23--Dec 10,R Stout
 ME,466,Fundamentals of Engineering Examination Review,01,14415,1,TU15.10-16,EVRT 452,Aug 23--Dec 10,""
 ME,481,Control Systems,01,17994,3,"M,W,F11.10-12",EVRT 440,Aug 23--Dec 10,M Luo
-ME,483,Topics in Mechanical Engineering,01,15250,3,"W,F16.15-17.30",EVRT 256,Aug 23--Dec 10,G Taub
-ME,581,Control Systems,01,18024,3,"M,W,F11.10-12",EVRT 261,Aug 23--Dec 10,M Luo
+ME,483,Topics in Mechanical Engineering,01,15250,3,"W,F16.15-17.30",EVRT 452,Aug 23--Dec 10,G Taub
 MED_CLIN,522,Longitudinal Integrated Clerkship II,01,14956,14,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowen
 MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,03,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,04,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
 MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
 MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,A Kumar
@@ -189,7 +188,7 @@ MED_CLIN,577,Surgery - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,A Kum
 MED_CLIN,577,Surgery - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,A Kumar
 MED_CLIN,578,Surgery - General Surgery,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,A Kumar
 MED_CLIN,579,Science - Medical Informatics,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
-MED_CLIN,580,Clinical Rotation - Neurology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,""
+MED_CLIN,580,Clinical Rotation - Neurology,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,M Layton
 MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,H Andersen
 MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 23--Nov 24,H Andersen
 MED_CLIN,582,Science - Quality Improvement and Patient Safety,01,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
@@ -261,7 +260,7 @@ MGMT,450,Personnel and Human Resources Management,03,18594,3,TU13.30-16.20,EVRT 
 MGTOP,215,Business Statistics,01,"",4,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,215,Business Statistics,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,340,Operations Management,02,17659,3,W18-20.15,EVRT 263,Aug 23--Dec 10,R Howell
-MIS,250,Managing Information Technology,02,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
+MIS,250,Managing Information Technology,02,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,J Barnett
 MIS,325,Enterprise Business Development,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
 MIS,372,[M] Data Management,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,M Carter
 MKTG,360,Marketing,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,T Kokta
@@ -278,8 +277,6 @@ SOIL_SCI,368,Introduction to Geographic Information Systems,01,14690,3,ARRGT,ARR
 SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,14691,0,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
 SOIL_SCI,443,[M] Soil Management for Sustainable and Organic Farming Systems,01,14692,3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,479,Organic Farm and Garden Field Management,01,14693,2,ARRGT,ARR ARR,Aug 23--Dec 10,B Jaeckel
-STAT,212,[QUAN] Introduction to Statistical Methods,02,17921,4,"TU,TH9.10-10.25",EVRT 363,Aug 23--Dec 10,H Johnson
-STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,17922,0,M12.10-14,EVRT 363,Aug 23--Dec 10,""
 STAT,360,Probability and Statistics,01,14395,3,"TU,TH10.35-11.50",EVRT 254,Aug 23--Dec 10,X Wen
 STAT,360,Probability and Statistics,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,P Rao
 STAT,370,Introductory Statistics for Engineers,01,14416,3,"M,W,F11.10-12",EVRT 256,Aug 23--Dec 10,G Taub

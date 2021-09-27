@@ -13,6 +13,7 @@ ACCTG,338,Cost Accounting,03,10877,3,ARRGT,ARR ARR,Oct 18--Dec 12,B Barnes
 ACCTG,439,[M] Auditing,01,10739,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Harris
 ACCTG,439,[M] Auditing,02,10748,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Harris
 ACCTG,439,[M] Auditing,03,10749,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Harris
+ACCTG,498,Accounting Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Gill
 ACCTG,550,Introduction to Financial and Managerial Accounting,01,10530,3,ARRGT,ARR ARR,Nov 08--Dec 12,B Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,02,10531,3,ARRGT,ARR ARR,Nov 08--Dec 12,B Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,03,10532,3,ARRGT,ARR ARR,Nov 08--Dec 12,B Wong-On-Wing
@@ -63,8 +64,9 @@ B_A,502,Foundations in Operations Management,02,10542,2,ARRGT,ARR ARR,Aug 23--Se
 B_A,502,Foundations in Operations Management,03,10543,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
 B_A,502,Foundations in Operations Management,04,10544,2,ARRGT,ARR ARR,Aug 23--Sep 26,J Hu
 B_A,503,Foundations in Business Law,01,10546,2,ARRGT,ARR ARR,Oct 04--Nov 07,S Bergstedt
-B_A,503,Foundations in Business Law,02,10547,2,ARRGT,ARR ARR,Oct 04--Nov 07,""
+B_A,503,Foundations in Business Law,02,10547,2,ARRGT,ARR ARR,Oct 04--Nov 07,S Bergstedt
 B_A,503,Foundations in Business Law,03,10548,2,ARRGT,ARR ARR,Oct 04--Nov 07,S Bergstedt
+B_A,503,Foundations in Business Law,04,10549,2,ARRGT,ARR ARR,Oct 04--Nov 07,S Bergstedt
 B_A,504,Foundations in Finance,01,10559,2,ARRGT,ARR ARR,Nov 08--Dec 12,M Reyes
 B_A,504,Foundations in Finance,02,10560,2,ARRGT,ARR ARR,Nov 08--Dec 12,""
 B_A,579,MBA Capstone,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 12,M Jordan
@@ -129,6 +131,7 @@ COM,102,[COMM] Public Speaking in the Digital Age,02,10496,3,ARRGT,ARR ARR,Aug 2
 COM,102,[COMM] Public Speaking in the Digital Age,03,10723,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Haider
 COM,102,[COMM] Public Speaking in the Digital Age,04,12217,3,ARRGT,ARR ARR,Aug 23--Dec 10,I Haider
 COM,102,[COMM] Public Speaking in the Digital Age,07,11017,3,ARRGT,ARR ARR,Dec 18--Jan 09,M Kistler
+COM,102,[COMM] Public Speaking in the Digital Age,08,18761,3,ARRGT,ARR ARR,Dec 18--Jan 09,L Tsui
 COM,105,[HUM] Communication in Global Contexts,01,10499,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Peterson
 COM,105,[HUM] Communication in Global Contexts,02,11150,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Risenmay
 COM,105,[HUM] Communication in Global Contexts,03,10826,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
@@ -193,7 +196,11 @@ CRM_J,450,[M] Senior Seminar: Ethical Issues in Criminal Justice,01,10813,3,ARRG
 CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Keopanapay
 CRM_J,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 DATA,115,Introduction to Data Analytics,01,10695,3,ARRGT,ARR ARR,Aug 23--Dec 10,H Zhang
+DATA,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Lapin
+DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,12334,3,ARRGT,ARR ARR,Dec 18--Jan 09,R Gregory
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,17587,3,ARRGT,ARR ARR,Aug 23--Dec 10,R Gregory
+DTC,206,[DIVR] Digital Inclusion,01,18740,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Riddle
+DTC,354,[ARTS] [M] Digital Storytelling,01,18741,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Sanders
 DTC,475,[DIVR] Digital Diversity,01,11103,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Earle
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
@@ -235,9 +242,9 @@ E_M,575,Managing Innovation: Strategy and Performance,01,10675,3,W17.15-19.45,""
 E_M,585,Design of Experiments,01,10476,3,M18.15-20.45,WEB ARR,Aug 23--Dec 10,D Paulus
 E_M,701,Master's Independent Capstone Project and /or Examination,01,10684,V,F17.15-19.45,"",Aug 23--Dec 10,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,10284,3,ARRGT,ARR ARR,Aug 23--Dec 10,A Uddin
-ECONS,101,[SSCI] Fundamentals of Microeconomics,02,10982,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
+ECONS,101,[SSCI] Fundamentals of Microeconomics,02,10982,3,ARRGT,ARR ARR,Dec 18--Jan 09,G Manandhar
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,10285,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Garcia
-ECONS,102,[SSCI] Fundamentals of Macroeconomics,02,10838,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
+ECONS,102,[SSCI] Fundamentals of Macroeconomics,02,10838,3,ARRGT,ARR ARR,Dec 18--Jan 09,K Swanson
 ECONS,301,Intermediate Microeconomic Theory with Calculus,01,10671,4,ARRGT,ARR ARR,Aug 23--Dec 10,B Zhao
 ECONS,305,Intermediate Microeconomics without Calculus,01,10481,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Wang
 ECONS,311,[M] Introductory Econometrics,01,10834,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Nguyen
@@ -285,8 +292,10 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,15,"",3,ARRGT,ARR ARR,
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,16,12292,3,ARRGT,ARR ARR,Aug 23--Dec 10,A May
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,17,11020,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Staggers
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,18,12376,3,ARRGT,ARR ARR,Dec 18--Jan 09,G Maierhofer
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,19,12379,3,ARRGT,ARR ARR,Dec 18--Jan 09,A May
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,19,12379,3,ARRGT,ARR ARR,Dec 18--Jan 09,J Mccarthy
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,20,17699,3,ARRGT,ARR ARR,Dec 18--Jan 09,A Hillen
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,21,18737,3,ARRGT,ARR ARR,Dec 18--Jan 09,S Gowdy-Burke
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,22,18738,3,ARRGT,ARR ARR,Dec 18--Jan 09,W Merck
 ENGLISH,419,The Twentieth Century Novel,01,11131,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Edwards
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ENGR,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Brabb
@@ -473,7 +482,7 @@ MGMT,593,Managerial Leadership and Productivity,05,11055,3,ARRGT,ARR ARR,Oct 18-
 MGMT,593,Managerial Leadership and Productivity,06,11056,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,07,11057,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,08,11058,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
-MGMT,593,Managerial Leadership and Productivity,09,17622,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+MGMT,593,Managerial Leadership and Productivity,09,17622,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,10,17623,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,11,17624,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,12,17625,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
@@ -489,16 +498,16 @@ MGMT,593,Managerial Leadership and Productivity,21,17634,3,ARRGT,ARR ARR,Oct 18-
 MGMT,593,Managerial Leadership and Productivity,22,17635,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,23,17636,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGMT,593,Managerial Leadership and Productivity,24,17637,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
-MGMT,593,Managerial Leadership and Productivity,25,17638,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+MGMT,593,Managerial Leadership and Productivity,25,17638,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Bravo
 MGTOP,215,Business Statistics,01,10347,4,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,215,Business Statistics,02,10745,4,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,215,Business Statistics,01 Lab,10350,0,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,215,Business Statistics,02 Lab,10746,0,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,340,Operations Management,01,10353,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
 MGTOP,340,Operations Management,02,10661,3,ARRGT,ARR ARR,Oct 18--Dec 12,C Munson
-MIS,250,Managing Information Technology,01,10354,3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
-MIS,250,Managing Information Technology,02,10555,3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
-MIS,250,Managing Information Technology,03,10658,3,ARRGT,ARR ARR,Oct 18--Dec 12,G Rose
+MIS,250,Managing Information Technology,01,10354,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Barnett
+MIS,250,Managing Information Technology,02,10555,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Barnett
+MIS,250,Managing Information Technology,03,10658,3,ARRGT,ARR ARR,Oct 18--Dec 12,J Barnett
 MIS,325,Enterprise Business Development,01,10356,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
 MIS,325,Enterprise Business Development,02,11012,3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
 MIS,372,[M] Data Management,01,17230,3,ARRGT,ARR ARR,Aug 23--Oct 10,M Carter
@@ -514,10 +523,11 @@ MKTG,360,Marketing,01,10357,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MKTG,360,Marketing,02,10659,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MKTG,360,Marketing,03,10660,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MKTG,360,Marketing,04,10733,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
+MKTG,360,Marketing,05,12331,3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
 MKTG,360,Marketing,06,"",3,ARRGT,ARR ARR,Jul 05--Sep 17,P Ossola
 MKTG,360,Marketing,07,"",3,ARRGT,ARR ARR,Oct 04--Dec 17,P Ossola
 MKTG,477,Integrated Marketing Communications,01,10740,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Marvel
-MKTG,477,Integrated Marketing Communications,02,11022,3,ARRGT,ARR ARR,Oct 18--Dec 12,""
+MKTG,477,Integrated Marketing Communications,02,11022,3,ARRGT,ARR ARR,Oct 18--Dec 12,K Marvel
 MKTG,561,New Product Marketing,01,17676,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MKTG,561,New Product Marketing,02,17677,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MKTG,561,New Product Marketing,03,17678,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
@@ -527,15 +537,15 @@ MKTG,561,New Product Marketing,06,17681,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MKTG,561,New Product Marketing,07,17682,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MKTG,561,New Product Marketing,08,17683,3,ARRGT,ARR ARR,Aug 23--Oct 10,T Kokta
 MUS,160,[ARTS] Survey of Music Literature,01,10400,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mccarthy
-MUS,160,[ARTS] Survey of Music Literature,02,10849,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
+MUS,160,[ARTS] Survey of Music Literature,02,10849,3,ARRGT,ARR ARR,Dec 18--Jan 09,A Agulay
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,10401,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Myers
-MUS,262,[ARTS] Rock Music: History and Social Analysis,04,10850,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
+MUS,262,[ARTS] Rock Music: History and Social Analysis,04,10850,3,ARRGT,ARR ARR,Dec 18--Jan 09,A Miller
 MUS,265,[HUM] Native Music of North America,01,10459,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Parkhurst
 MUS,266,[ARTS] Film Music,01,11188,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Dickey
 MUS,362,[DIVR] History of Jazz,01,10403,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Haas Costa
-MUS,362,[DIVR] History of Jazz,03,10851,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
+MUS,362,[DIVR] History of Jazz,03,10851,3,ARRGT,ARR ARR,Dec 18--Jan 09,M King
 MUS,363,[DIVR] Women in Music,01,10700,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
-MUS,363,[DIVR] Women in Music,02,10852,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
+MUS,363,[DIVR] Women in Music,02,10852,3,ARRGT,ARR ARR,Dec 18--Jan 09,S Tegart
 MUS,553,Seminar in Music Theory,01,10404,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Blasco
 MUS,560,Introduction to Graduate Studies in Music,01,10405,2,ARRGT,ARR ARR,Aug 23--Dec 10,K Mccarthy
 MUS,566,Seminar in Music History,01,10731,2,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
@@ -596,13 +606,13 @@ SHS,201,American Sign Language I,01,10381,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsc
 SHS,201,American Sign Language I,02,10841,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsch
 SHS,202,American Sign Language II,01,10842,4,ARRGT,ARR ARR,Dec 18--Jan 09,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,10406,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Ray
-SOC,101,[SSCI] Introduction to Sociology,02,11026,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
+SOC,101,[SSCI] Introduction to Sociology,02,11026,3,ARRGT,ARR ARR,Dec 18--Jan 09,S Ridgeway
 SOC,102,[SSCI] Social Problems,01,10413,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Stanley
 SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,10943,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Aust
 SOC,310,Development of Social Theory,01,10809,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Horne
 SOC,317,[M] Research Methods in Sociology,01,11025,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,350,Social Psychology,02,10859,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
-SOC,351,[DIVR] The Family,02,17973,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
+SOC,351,[DIVR] The Family,02,17973,3,ARRGT,ARR ARR,Dec 18--Jan 09,M Aust
 SOC,352,Youth and Society,01,10761,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
 SOC,360,Social Deviance,01,17558,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Cutler
 SOC,362,Juvenile Delinquency,01,10491,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer
@@ -675,9 +685,9 @@ WGSS,309,Women Writers,01,18392,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Campbell
 WGSS,316,[DIVR] Gender in Cross Cultural Perspective,01,10243,3,ARRGT,ARR ARR,Aug 23--Dec 10,D Weber
 WGSS,316,[DIVR] Gender in Cross Cultural Perspective,02,12298,3,ARRGT,ARR ARR,Dec 18--Jan 09,C Anderson
 WGSS,324,Psychology of Gender,01,10372,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mcraney
-WGSS,351,[DIVR] The Family,02,17974,3,ARRGT,ARR ARR,Dec 18--Jan 09,""
+WGSS,351,[DIVR] The Family,02,17974,3,ARRGT,ARR ARR,Dec 18--Jan 09,M Aust
 WGSS,363,[DIVR] Women in Music,01,10701,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
-WGSS,363,[DIVR] Women in Music,02,10853,3,ARRGT,ARR ARR,Dec 18--Jan 09,D Luethi
+WGSS,363,[DIVR] Women in Music,02,10853,3,ARRGT,ARR ARR,Dec 18--Jan 09,S Tegart
 WGSS,403,[CAPS] Violence Toward Women,02,10832,3,ARRGT,ARR ARR,Dec 18--Jan 09,M Miller
 WGSS,464,Gender and the Media,01,10427,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Kang
 WRIT,302,Advanced Writing Collaborative,01,10945,1,ARRGT,ARR ARR,Aug 23--Dec 10,T Holland

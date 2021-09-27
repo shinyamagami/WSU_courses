@@ -3,7 +3,7 @@ ANTH,350,"[DIVR] Speech, Thought, and Culture",01,"",3,ARRGT,ARR ARR,Aug 23--Dec
 BIOMED,550,Biochemistry for the Health Sciences,01,16608,3,"M,W8.10-9.25",SAC 45,Aug 23--Dec 10,T Chauvin
 ED_AD,501,Philosophy of Education,01,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,S Finley
 ED_AD,507,Social Foundations of Education,01,16492,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Watson
-ED_AD,507,Social Foundations of Education,02,18703,3,TH17.45-20.30,SAC 205,Aug 23--Dec 10,S Calderone
+ED_AD,507,Social Foundations of Education,02,18703,3,TH17.45-20.30,VC ARR,Aug 23--Dec 10,S Calderone
 ED_AD,509,Leading School Improvement,01,17298,3,W17.45-20.30,WEB ARR,Aug 25--Sep 08,J Walls
 ED_AD,509,Leading School Improvement,"","","",SA9.15-15,SAC 249,"",""
 ED_AD,509,Leading School Improvement,"","","",W17.45-20.30,WEB ARR,"",""
@@ -17,9 +17,9 @@ ED_AD,581,Politics in Education,01,16497,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
 ED_AD,587,Seminar in School Administration,01,16498,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,590,Internship,01,16506,3,ARRGT,ARR ARR,Aug 23--Dec 10,G Hill
 ED_AD,590,Internship,02,16507,V,ARRGT,ARR ARR,Aug 23--Dec 10,R Mcbride
-ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,16512,1,W16.30-17.30,SCRS 250,Aug 23--Dec 10,A Cavagnetto
+ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,16512,1,W16.30-17.30,VC ARR,Aug 23--Dec 10,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,16731,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,16510,3,W12.10-15,SCRS 250,Aug 23--Dec 10,R Danielson
+ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,16510,3,W12.10-15,VC ARR,Aug 23--Dec 10,R Danielson
 ED_PSYCH,505,Research Methods I,01,16509,3,M17.45-20.30,SAC 41,Aug 23--Dec 10,H Liao
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,"",3,TU17.45-20.30,SAC 341,Aug 23--Dec 10,A Rud
 ED_RES,563,Principles of Research,01,"",3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,S Calderone
@@ -46,6 +46,8 @@ MBIOS,578,Bioinformatics,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,J Wyrick
 MED_CLIN,522,Longitudinal Integrated Clerkship II,01,16713,14,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowen
 MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,03,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,04,"",2,ARRGT,ARR ARR,Aug 23--Nov 24,D Dewitt
 MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,J Bowman
 MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,L Sood
 MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 23--Nov 24,A Kumar
@@ -255,16 +257,25 @@ NEP,701,Master's Independent Capstone Project and /or Examination,01,16606,V,F12
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",01,16607,V,ARRGT,ARR ARR,Aug 23--Dec 10,O Amram
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",04,17853,V,ARRGT,ARR ARR,Aug 23--Dec 10,H Haverkamp
 NEUROSCI,531,Neuroscience Laboratory Rotation,01,16485,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
-NEUROSCI,540,Special Topics in Integrative Neuroscience,03,16482,V,"M,F9.10-10",SCRS 222,Nov 01--Dec 10,D Rossi
-NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.30-10,SCRS 222,"",""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,01,16480,V,"M,F9.10-10",SCRS 250,Aug 23--Sep 24,R Fuchs Lokensgard
+NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",W8.30-10,SCRS 250,"",""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,02,16481,V,"M,W10.10-11",SCRS 222,Sep 27--Oct 29,H Jansen
+NEUROSCI,540,Special Topics in Integrative Neuroscience,"","","",F10.10-12,SCRS 222,"",""
+NEUROSCI,540,Special Topics in Integrative Neuroscience,03,16482,V,"M,W10.10-11",SCRS 222,Nov 01--Dec 10,D Rossi
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,01,16483,V,"M,W10.10-11",SCRS 250,Aug 23--Sep 24,D Rossi
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,"","","",F10.10-12,SCRS 250,"",""
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,02,16484,V,"M,W8.25-10",SCRS 222,Sep 27--Oct 29,J Peters
+NEUROSCI,542,Special Topics in Interdisciplinary Neuroscience,03,16487,V,"M,F9.10-10",SCRS 222,Nov 01--Dec 10,S Wayman
+NEUROSCI,564,Topics in Biomedical Experimentation,02,18730,V,"TU,TH9.10-10.25",SCRS 222,Sep 27--Oct 29,G Wayman
 NEUROSCI,590,Seminar,01,16478,1,F12.10-13.30,SAC 249,Aug 23--Dec 10,S Wayman
 NEUROSCI,592,Research Writing and Seminar,01,16994,2,F15-17,SCRS 222,Aug 23--Dec 10,M Chandra
+NEUROSCI,700,"Master's Research, Thesis, and/or Examination",01,18739,V,ARRGT,ARR ARR,Aug 23--Dec 10,K Honn
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,16479,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 NURS,308,Professional Development I: Professional Roles and Responsibilities,01,15902,3,W10.30-13.30,SNRS 5,Aug 23--Dec 10,S Hurst
 NURS,308,Professional Development I: Professional Roles and Responsibilities,02,15853,3,W10.30-13.30,VC YAK,Aug 23--Dec 10,S Hurst
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,15716,3,TH13.10-16,SNRS 105,Aug 23--Dec 10,K Anders
 NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,02,15717,3,TH13.10-16,VC ARR,Aug 23--Dec 10,K Anders
-NURS,311,Pathophysiology and Pharmacology in Nursing,01,15714,4,W8.10-10,SNRS 5,Aug 23--Dec 10,""
+NURS,311,Pathophysiology and Pharmacology in Nursing,01,15714,4,W8.10-10,SNRS 5,Aug 23--Dec 10,B Bennett-Wolcott
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,SNRS 5,"",""
 NURS,311,Pathophysiology and Pharmacology in Nursing,02,15715,4,W8.10-10,VC ARR,Aug 23--Dec 10,""
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,VC ARR,"",""
@@ -278,8 +289,8 @@ NURS,315,Nursing Practice: Health and Illness,08,15725,4,ARRGT,ARR ARR,Aug 23--D
 NURS,315,Nursing Practice: Health and Illness,09,15726,4,ARRGT,ARR ARR,Aug 23--Dec 10,S Northern
 NURS,315,Nursing Practice: Health and Illness,10,15727,4,ARRGT,ARR ARR,Aug 23--Dec 10,A Brekke
 NURS,315,Nursing Practice: Health and Illness,11,15728,4,ARRGT,ARR ARR,Aug 23--Dec 10,A Morse
-NURS,315,Nursing Practice: Health and Illness,12,15729,4,ARRGT,ARR ARR,Aug 23--Dec 10,W Staff
-NURS,315,Nursing Practice: Health and Illness,13,15730,4,ARRGT,ARR ARR,Aug 23--Dec 10,W Staff
+NURS,315,Nursing Practice: Health and Illness,12,15729,4,ARRGT,ARR ARR,Aug 23--Dec 10,W Jones
+NURS,315,Nursing Practice: Health and Illness,13,15730,4,ARRGT,ARR ARR,Aug 23--Dec 10,W Jones
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,15732,2,TU13.10-15,SNRS 5,Aug 23--Dec 10,S Northern
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,02,15733,2,TU13.10-15,VC ARR,Aug 23--Dec 10,S Northern
 NURS,317,Health Assessment,01,15734,3,TU10.30-12.30,SNRS 5,Aug 23--Dec 10,A Jenkins
@@ -763,15 +774,15 @@ PHARMSCI,573,Principles of Pharmacokinetics and Toxicokinetics,01,"",3,M9.10-11.
 PHARMSCI,577,Responsible Conduct in Biomedical Research,01,15589,3,TU15.10-17.40,SAC 249,Aug 23--Dec 10,A Lazarus
 PHARMSCI,597,College of Pharmacy Graduate Seminar,01,15590,1,F12.10-13,SPBS 101,Aug 23--Dec 10,A Lazarus
 PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,15592,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-PREV_SCI,510,Multilevel Modeling II: Advanced Multilevel Models for Longitudinal Data,01,17963,3,"TU,TH13.30-14.45",SAC 45,Aug 23--Dec 10,M Cleveland
-PREV_SCI,511,Introduction to Prevention Science,01,15501,3,M14.10-17,SAC 45,Aug 23--Dec 10,S Perone
-PREV_SCI,513,Research Methods in Prevention Science,01,15485,3,TU15.10-18,SAC 45,Aug 23--Dec 10,S Waters
-PREV_SCI,535,Effective Prevention Strategies I,01,17576,3,W17.10-20,SAC 45,Aug 23--Dec 10,J Lanigan
+PREV_SCI,510,Multilevel Modeling II: Advanced Multilevel Models for Longitudinal Data,01,17963,3,"TU,TH13.30-14.45",VC ARR,Aug 23--Dec 10,M Cleveland
+PREV_SCI,511,Introduction to Prevention Science,01,15501,3,M14.10-17,VC ARR,Aug 23--Dec 10,S Perone
+PREV_SCI,513,Research Methods in Prevention Science,01,15485,3,TU15.10-18,VC ARR,Aug 23--Dec 10,S Waters
+PREV_SCI,535,Effective Prevention Strategies I,01,17576,3,W17.10-20,VC ARR,Aug 23--Dec 10,J Lanigan
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,16752,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,16686,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 PSYCH,230,Human Sexuality,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,S Paup
 PSYCH,470,Motivation,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Byrd
-PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,16376,3,"TU,TH14.55-16.10",SNRS 201,Aug 23--Dec 10,M Morgan
+PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,16376,3,"TU,TH14.55-16.10",VC ARR,Aug 23--Dec 10,M Morgan
 PSYCH,506,Current Research in Psychology,01,17580,1,W16.10-17,SNRS 201,Aug 23--Dec 10,R Magnan
 PSYCH,511,"Experimental Design, T-Tests, and Analysis of Variance",01,17987,3,"TU,TH12.05-13.20",SNRS 201,Aug 23--Dec 10,C Cuttler
 PSYCH,523,Health Psychology,01,16384,3,M13.10-16,VC ARR,Aug 23--Dec 10,R Magnan
