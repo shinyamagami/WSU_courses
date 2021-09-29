@@ -39,6 +39,12 @@ Or install it yourself as:
 
 
 Run "ruby main.rb" and it display the list of in-person classes.
+
+Choose a campus and it retreive the latest schedule. They hide schedules in the past but you can see them here in the output folder.
+
+
+
+This was before
 It only exclude "WEB ARR" classes and I am not sure if it is counted as in-person or not yet. Any classes with "ARR ARR" or a room location will be displayed, I believe.
 
 
