@@ -133,7 +133,7 @@ COMSOC,301,Foundations of Persuasion,01,12814,3,"TU,TH12.05-13.20",VLIB 264,Aug 
 COMSTRAT,312,Principles of Public Relations,01,12967,3,"M,W14.55-16.10",VLIB 261,Aug 23--Dec 10,C Welch
 COMSTRAT,380,Advertising Principles and Practices,01,12804,3,"TU,TH13.30-14.45",VLIB 201,Aug 23--Dec 10,N Iyer
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,13795,3,"M,W10.35-11.50",VUB 126,Aug 23--Dec 10,N Iyer
-COMSTRAT,475,Strategic Communication Seminar in Public Relations,02,"",3,"TU,TH14.55-16.10",VECS 209,Aug 23--Dec 10,C Newman
+COMSTRAT,475,Strategic Communication Seminar in Public Relations,02,"",3,"TU,TH14.55-16.10",VECS 209,Aug 23--Dec 10,C Thomas
 COMSTRAT,476,Consumer Insights and Branding,01,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Jameson
 COMSTRAT,485,[M] Public Relations Management and Campaigns,03,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,T Gillig
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,N Iyer
@@ -175,7 +175,7 @@ CS,547,Computer Game Design,01,13241,3,"M,W14.55-16.10",VECS 104,Aug 23--Dec 10,
 CS,565,File and Storage Systems,01,12995,3,"TU,TH9.10-10.25",VSCI 19,Aug 23--Dec 10,X Zhang
 CS,700,"Master's Research, Thesis, and/or Examination",01,12754,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 DATA,115,Introduction to Data Analytics,02,12976,3,"TU,TH10.35-11.50",VC ARR,Aug 23--Dec 10,D Deford
-DATA,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,S Lapin
+DATA,498,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,12670,3,"M,W,F9.10-10",VUB 226,Aug 23--Dec 10,E Mcdonald
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,12671,3,"M,W10.35-11.50",VMMC 214,Aug 23--Dec 10,M Rabby
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,03,12860,3,"TU,TH13.30-14.45",VLIB 264,Aug 23--Dec 10,E Mcdonald
@@ -298,7 +298,7 @@ ENGLISH,325,Young Adult Literature,01,12535,3,"M,W16.20-17.35",VLIB 260,Aug 23--
 ENGLISH,341,[M] Native American Literature,01,17431,3,W17.45-20.30,WEB ARR,Aug 23--Dec 10,J Ankney
 ENGLISH,365,[WRTG] Proposal Writing,02,18618,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Staggers
 ENGLISH,370,"The Making of English: Literature, Language and Culture Before 1600",01,12536,3,"TU,TH12.05-13.20",VC ARR,Aug 23--Dec 10,M Hanly
-ENGLISH,372,[HUM] 19th Century Literature of the British Empire and the Americas,01,12537,3,"TU,TH14.55-16.10",WEB ARR,Aug 23--Dec 10,L Orr
+ENGLISH,372,[HUM] 19th Century Literature of the British Empire and the Americas,01,12537,3,"TU,TH14.55-16.10",WEB ARR,Aug 23--Dec 10,L Carman
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,"",3,TU10.35-11.50,VMMC 115,Aug 23--Dec 10,M Lobnitz
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,"",3,M10.35-11.50,VUB 202,Aug 23--Dec 10,J Phelps
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,12583,3,"M,W13.30-14.45",VUB 202,Aug 23--Dec 10,A Azevedo
@@ -404,7 +404,7 @@ HISTORY,466,"History of the Cold War, 1944-present",01,17569,3,ARRGT,ARR ARR,Aug
 HISTORY,499,Special Problems,01,"",1,ARRGT,ARR ARR,Sep 27--Oct 29,J Thigpen
 HISTORY,598,History Internship,01,18202,V,"TU,TH10.35-11.50",VC ARR,Aug 23--Dec 10,R Mccoy
 HISTORY,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-HUMANITY,304,[HUM] Humanities in the Modern World,01,12509,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,L Orr
+HUMANITY,304,[HUM] Humanities in the Modern World,01,12509,3,"TU,TH9.10-10.25",WEB ARR,Aug 23--Dec 10,D Potts
 I_BUS,380,International Business,01,12392,3,"TU,TH10.35-11.50",VUB 225,Aug 23--Dec 10,T Blankenship
 I_BUS,380,International Business,02,12429,3,TU18-20.45,VUB 225,Aug 23--Dec 10,T Larson
 I_BUS,435,International Tourism,01,13019,3,"TU,TH14.55-16.10",VECS 125,Aug 23--Dec 10,C Chen
@@ -972,36 +972,13 @@ STAT,575,The Theory of Multivariate Analysis,01,18070,3,"TU,TH13.35-14.45",VC AR
 STAT,591,Seminar in Statistics,01,13189,1,W16.10-17,VC ARR,Aug 23--Dec 10,Y Wang
 STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,18038,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,13188,V,ARRGT,ARR ARR,Aug 23--Dec 10,B Krishnamoorthy
-TCH_LRN,305,Fundamentals of Instruction,01,12617,2,M9.10-11,VUB 225,Aug 23--Dec 10,J Masterson
-TCH_LRN,305,Fundamentals of Instruction,02,18076,2,TU17.30-19.10,VUB 222,Aug 23--Dec 10,S Morrison
-TCH_LRN,307,Survey of Children's Literature,01,12823,3,W8.10-11,VUB 221,Aug 23--Dec 10,D Day-Wiff
-TCH_LRN,310,[M] Classroom Management,01,12618,2,TH17.30-19.10,VUB 225,Aug 23--Dec 10,A Bryant
-TCH_LRN,322,[M] Reading and Writing in Grades 4 - 8,01,13088,3,W17.10-19.55,VUB 225,Aug 23--Dec 10,D Duncan
-TCH_LRN,330,Diversity in Education,01,12896,3,M11.10-14,VUB 225,Aug 23--Dec 10,S Rakha
-TCH_LRN,333,Introduction to English as a Second Language (ESL),01,12619,3,W11.10-14,VUB 221,Aug 23--Dec 10,G Ernst-Slavit
-TCH_LRN,339,Communicating in Diverse Classrooms,01,12620,3,M11.10-14,VUB 221,Aug 23--Dec 10,G Ernst-Slavit
-TCH_LRN,401,Practicum in Bilingual/ESL Education,01,"",3,TH16.20-19.10,VC ARR,Aug 23--Dec 10,I Haller Gryc
-TCH_LRN,401,Practicum in Bilingual/ESL Education,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Dec 10,I Haller Gryc
-TCH_LRN,402,Instructional Practicum I,01,12637,1,W14.10-15,VUB 221,Aug 23--Dec 10,K Abegglen
-TCH_LRN,413,Introduction to ESL for K-8 Teachers,01,"",V,"M,W8.10-10",VC ARR,Aug 23--Dec 10,T Salsbury
-TCH_LRN,415,Student Teaching,01,12621,V,M17.45-20,VUB 124,Aug 23--Dec 10,M Connolly
-TCH_LRN,415,Student Teaching,01 Lab,12622,0,ARRGT,ARR ARR,Aug 23--Dec 10,M Connolly
-TCH_LRN,433,Middle Level Mathematics Methods,01,12864,3,M16.45-19.30,VECS 120,Aug 23--Dec 10,T Heikila
-TCH_LRN,434,Conceptualization of Proportional Thinking,01,12623,3,TH16.15-19,VECS 125,Aug 23--Dec 10,A Gallagher
-TCH_LRN,445,Elementary Methods of Educational Technology,01,12926,2,M17.30-19.10,VUB 225,Aug 23--Dec 10,J Lepla
-TCH_LRN,445,Elementary Methods of Educational Technology,02,13403,2,M17.30-19.10,VUB 126,Aug 23--Dec 10,K Livick
-TCH_LRN,445,Elementary Methods of Educational Technology,01 Lab,12942,0,ARRGT,ARR ARR,Aug 23--Dec 10,J Lepla
-TCH_LRN,445,Elementary Methods of Educational Technology,02 Lab,13404,0,ARRGT,ARR ARR,Aug 23--Dec 10,K Livick
-TCH_LRN,490,[CAPS] Advanced Practicum for Elementary Teachers,01,12624,3,W14.10-16.30,VUB 225,Aug 23--Dec 10,L Swindell
-TCH_LRN,521,Topics in Education,01,13107,3,TH16.10-19,VECS 120,Aug 23--Dec 10,K Lesseig
-TCH_LRN,581,Learning and Development in Mathematics and Science,01,13684,3,W17.45-20.30,VECS 209,Aug 23--Dec 10,A Roth-Mcduffie
 UNIV,104,First-Year Success Seminar,01,"",2,F12.05-13.55,VUB 221,Aug 23--Dec 10,C Morical
 UNIV,104,First-Year Success Seminar,02,"",2,F12.05-13.55,VUB 121,Aug 23--Dec 10,M Nakamoto
 UNIV,104,First-Year Success Seminar,03,"",2,F12.05-13.55,VUB 124,Aug 23--Dec 10,S Reyes
 UNIV,104,First-Year Success Seminar,04,"",2,F12.05-13.55,VMMC 23,Aug 23--Dec 10,B Lim
 UNIV,104,First-Year Success Seminar,05,"",2,F12.05-13.55,VUB 107,Aug 23--Dec 10,C Johnston
 UNIV,104,First-Year Success Seminar,06,"",2,F12.05-13.55,VUB 222,Aug 23--Dec 10,J Mercado
-UNIV,104,First-Year Success Seminar,07,"",2,F12.05-13.55,VLIB 265,Aug 23--Dec 10,A Gintz
+UNIV,104,First-Year Success Seminar,07,"",2,F12.05-13.55,VLIB 265,Aug 23--Dec 10,J Denrow
 UNIV,104,First-Year Success Seminar,08,"",2,F12.05-13.55,VUB 226,Aug 23--Dec 10,W Stahley
 UNIV,104,First-Year Success Seminar,09,"",2,TU12.05-13.55,VUB 226,Aug 23--Dec 10,C Morical
 UNIV,104,First-Year Success Seminar,10,"",2,TU12.05-13.55,VDEN 129,Aug 23--Dec 10,M Nakamoto
@@ -1012,7 +989,7 @@ UNIV,300,Accessing Information for Research,01,12726,1,TU8.10-9.10,VLIB 260,Aug 
 UNIV,300,Accessing Information for Research,"","","",TU8.10-9.10,VLIB 260,"",""
 UNIV,300,Accessing Information for Research,"","","",TU8.10-9.10,VLIB 260,"",""
 UNIV,301,Career Exploration and Professional Development,01,13331,1,TU16.20-17.35,VUB 107,Aug 23--Oct 29,C Johnston
-UNIV,304,Transfer Student Seminar,01,13788,2,F9.10-10.50,VUB 222,Aug 23--Dec 10,A Gintz
+UNIV,304,Transfer Student Seminar,01,13788,2,F9.10-10.50,VUB 222,Aug 23--Dec 10,N Harrington
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,E Scott
 UNIV,398,Internship,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Hopkins
 UNIV,497,Peer Leadership,02,"",V,M17-18,VC ARR,Aug 23--Dec 10,A Guy

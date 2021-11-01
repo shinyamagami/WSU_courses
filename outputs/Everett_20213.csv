@@ -27,7 +27,7 @@ COMSTRAT,310,Digital Content Promotion,03,15244,3,ARRGT,ARR ARR,Aug 23--Dec 10,B
 COMSTRAT,312,Principles of Public Relations,01,14351,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Willoughby
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,03,15438,3,ARRGT,ARR ARR,Aug 23--Dec 10,B Atwood
 COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,01,17889,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Barnes
-COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,"",3,"TU,TH14.55-16.10",EVRT 261,Aug 23--Dec 10,C Newman
+COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,"",3,"TU,TH14.55-16.10",EVRT 261,Aug 23--Dec 10,C Thomas
 COMSTRAT,476,Consumer Insights and Branding,01,14353,3,"M,W9.10-10.25",EVRT 254,Aug 23--Dec 10,C Wilder
 COMSTRAT,476,Consumer Insights and Branding,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,J Jameson
 COMSTRAT,485,[M] Public Relations Management and Campaigns,03,15328,3,ARRGT,ARR ARR,Aug 23--Dec 10,T Gillig
@@ -60,7 +60,6 @@ CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,14651
 CROP_SCI,102,Introduction to Cultivated Plants,01,17753,3,"M,W,F11.10-12",EVRT 340,Aug 23--Dec 10,C Kawula
 CROP_SCI,403,Advanced Cropping Systems,01,14379,3,"TU,TH13.30-14.45",EVRT 340,Aug 23--Dec 10,C Neely
 DATA,115,Introduction to Data Analytics,01,14759,3,"TU,TH10.35-11.50",EVRT 358,Aug 23--Dec 10,D Deford
-DATA,498,Internship,01,18674,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Lapin
 E_E,302,Professional Skills in Computing and Engineering,01,14421,3,"TU,TH13.30-14.45","",Aug 23--Dec 10,J Thompson
 E_E,311,Electronics,01,14328,3,"M,W12.35-13.50",EVRT 457,Aug 23--Dec 10,J Murray
 E_E,321,Electrical Circuits II,01,14332,3,"M,W14.15-15.30",EVRT 458,Aug 23--Dec 10,S Xie
@@ -88,7 +87,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,14859,3,ARRGT,ARR A
 ENGR,489,Professional Practice Coop/Internship II,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Brabb
 FIN,325,Introduction to Financial Management,01,14325,3,M15.10-18,EVRT 255,Aug 23--Oct 10,M Chen
 FS,201,[BSCI] Science on Your Plate,01,17752,3,"M,W,F13.10-14",EVRT 255,Aug 23--Dec 10,M Michael
-HBM,101,Professional and Career Development for the Business World,02,14352,1,"M,W,F11.10-12",EVRT 452,Oct 18--Dec 12,A Mcleod
+HBM,101,Professional and Career Development for the Business World,02,14352,1,"M,W,F11.10-12","",Oct 18--Dec 12,A Mcleod
 HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,A Senter
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,14375,3,"TU,TH10.35-11.50",EVRT 361,Aug 23--Dec 10,J Sandstrom
 HBM,384,Managed Services,01,14378,3,W15.10-18,EVRT 255,Oct 18--Dec 12,M Beattie
@@ -256,6 +255,7 @@ MED_LMH,521,Quality and Safety in Healthcare: Medical Errors,01,14955,1,ARRGT,AR
 MED_LMH,531,Personal Leadership Development I,01,15203,1,ARRGT,ARR ARR,Aug 23--Nov 24,C Fischer
 MGMT,301,Principles of Management and Organization,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,J Gingras
 MGMT,401,Leading People and Organizations,02,17660,3,"M,W13-14.30",EVRT 440,Aug 23--Dec 10,J Gladstone
+MGMT,450,Personnel and Human Resources Management,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,K Kuhn
 MGMT,450,Personnel and Human Resources Management,03,18594,3,TU13.30-16.20,EVRT 457,Oct 18--Dec 12,J Gladstone
 MGTOP,215,Business Statistics,01,"",4,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
 MGTOP,215,Business Statistics,01 Lab,"",0,ARRGT,ARR ARR,Aug 23--Oct 10,S Ahn
@@ -263,8 +263,8 @@ MGTOP,340,Operations Management,02,17659,3,W18-20.15,EVRT 263,Aug 23--Dec 10,R H
 MIS,250,Managing Information Technology,02,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,J Barnett
 MIS,325,Enterprise Business Development,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,M Featherman
 MIS,372,[M] Data Management,01,"",3,ARRGT,ARR ARR,Aug 23--Oct 10,M Carter
-MKTG,360,Marketing,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,T Kokta
-MUS,262,[ARTS] Rock Music: History and Social Analysis,02,14478,3,ARRGT,ARR ARR,Aug 23--Dec 10,""
+MKTG,360,Marketing,01,"",3,ARRGT,ARR ARR,Oct 18--Dec 12,U Umesh
+MUS,262,[ARTS] Rock Music: History and Social Analysis,02,14478,3,ARRGT,ARR ARR,Aug 23--Dec 10,M Myers
 SHS,201,American Sign Language I,01,14472,4,ARRGT,ARR ARR,Aug 23--Dec 10,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,14543,3,ARRGT,ARR ARR,Aug 23--Dec 10,N Ray
 SOC,317,[M] Research Methods in Sociology,01,14975,3,ARRGT,ARR ARR,Aug 23--Dec 10,J Kremer

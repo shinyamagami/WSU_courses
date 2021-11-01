@@ -107,7 +107,23 @@ module WSUInPerson
           name_on = 0
           sec_on = 0
 
-          doc = Nokogiri::HTML(URI.open("http://schedules.wsu.edu#{subject_url}"))
+
+          # https://stackoverflow.com/questions/33822571/undefined-method-hostname-for-http-www-google-com-string-nomethoderror
+          # uri = URI.open("http://schedules.wsu.edu#{subject_url}")
+          #   puts(escaped_uri)
+          #   uri = URI.parse(escaped_uri)
+          # end
+          begin
+            uri = URI.open("http://schedules.wsu.edu#{subject_url}")
+          rescue OpenURI::HTTPError
+            puts "http://schedules.wsu.edu#{subject_url}"
+          end
+
+
+          doc = Nokogiri::HTML(uri)
+
+
+          # doc = Nokogiri::HTML(URI.open("http://schedules.wsu.edu#{subject_url}"))
           #section_links = doc.css('.class_schedule').css('.section').css('a')
 
 
@@ -206,40 +222,26 @@ module WSUInPerson
       end
     end
 
-  
-    # takes too long to open so I abandoned to scrape from section pages
-    # def scrape_section_pages(section_urls, prefix, csv, sections)
-    #   i = 0
-  
-    #   section_urls.each do |section_url|
 
-    #     doc = Nokogiri::HTML(open("http://schedules.wsu.edu#{section_url}"))
-    #     roomspec = doc.at('.sectionInfo').at('.roomspec').text.strip
-  
-    #     # Not sure if WEB ARR is online or in-person yet
-    #     if roomspec != "WEB ARR"
-    #       class_name = doc.at('.sectionInfo').at('b').text.strip
-    #       class_number = doc.at('.sectionInfo')
-    #                        .at("//dt[text()='Class Number']/following-sibling::dd").text
-
-    #       puts prefix + "\t" + class_name + "\t" + sections.at(i) + "\t" + class_number
-    #       csv << [prefix, class_name, sections.at(i), class_number]
-    #     end
-    #     i+=1
-    #   end
-    # end
 
 
     # return a list of semesters
     def get_semesters
       time = Time.new
+
       semesters = []
-      if time.month < 4 && 10 < time.month
+      if (11 <= time.month && time.month <= 12) || (1 <= time.month && time.month < 2)
         # return fall and spring
         semesters.push(time.year.to_s+"3", (time.year+1).to_s+"1")
-      elsif 4 <= time.month && time.month <= 10
+      elsif 2 <= time.month && time.month < 4
+        # return spring
+        semesters.push((time.year+1).to_s+"1")
+      elsif 4 <= time.month && time.month < 9
         # return summer and fall
         semesters.push(time.year.to_s+"2", (time.year).to_s+"3")
+      elsif 9 <= time.month && time.month < 11
+        # return  fall
+        semesters.push((time.year).to_s+"3")
       end
 
       return semesters
