@@ -53,11 +53,12 @@ CROP_SCI,412,Seminar,01,"",1,M16.30-17.20,"",Jan 10--Apr 29,P Jacoby
 DATA,115,Introduction to Data Analytics,02,29058,3,"M,W,F11.10-12","",Jan 10--Apr 29,S Lapin
 DATA,390,Special Topics I,01,30402,V,ARRGT,ARR ARR,Jan 10--Apr 29,S Lapin
 DATA,424,[CAPS] [M] Data Analytics Capstone,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,R Crate
+DATA,498,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,S Lapin
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 E_E,234,Microprocessor Systems,01,28562,4,"M,W11.10-12.25","",Jan 10--Apr 29,J Murray
 E_E,234,Microprocessor Systems,01 Lab,28577,0,F10.10-13,ARR ARR,Jan 10--Apr 29,J Murray
-E_E,341,Signals and Systems,01,28563,3,"TU,TH10.35-11.50","",Jan 10--Apr 29,J Guerrero Sedeno
+E_E,341,Signals and Systems,01,28563,3,"TU,TH12.30-13.45","",Jan 10--Apr 29,J Guerrero Sedeno
 E_E,351,Distributed Parameter Systems,01,28564,3,"M,W,F8.10-9","",Jan 10--Apr 29,P Pedrow
 E_E,361,Electrical Power Systems,01,28565,3,"M,W9.10-10.25","",Jan 10--Apr 29,S Xie
 E_E,362,Power System Laboratory I,01,28982,3,M8.10-9,"",Jan 10--Apr 29,S Xie
@@ -87,6 +88,7 @@ HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,03,29319,3
 I_BUS,380,International Business,01,"",3,ARRGT,ARR ARR,Mar 07--May 01,U Umesh
 IPM,452,Pesticides and the Environment,01,29150,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Felsot
 IPM,452,Pesticides and the Environment,02,29407,3,"TU,TH10.35-11.50","",Jan 10--Apr 29,A Felsot
+MATH,216,Discrete Structures,01,28608,3,"M,W,F9.10-10","",Jan 10--Apr 29,""
 ME,304,Heat Transfer,01,28556,3,"M,W,F10.10-11","",Jan 10--Apr 29,G Taub
 ME,310,Manufacturing Processes,01,28557,2,"M,F13.10-14","",Jan 10--Apr 29,X Bi
 ME,348,Dynamics Systems,01,28558,3,"M,W,F11.10-12","",Jan 10--Apr 29,Y Hu
@@ -104,6 +106,7 @@ ME,416,[CAPS] Mechanical Systems Design,01 Lab,28576,0,"M,W10.10-13","",Jan 10--
 ME,439,Applied Aerodynamics,01,28540,3,"M,W,F15.10-16","",Jan 10--Apr 29,""
 ME,462,Introduction to Nuclear Engineering II,01,29030,3,"TU,TH16.20-17.35","",Jan 10--Apr 29,N Carstens
 ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+MGTOP,470,Business Modeling with Spreadsheets,01,30923,3,TU18-20.45,"",Jan 10--Apr 29,T Larson
 MIS,250,Managing Information Technology,01,28679,3,ARRGT,ARR ARR,Mar 07--May 01,""
 MIS,322,[M] Enterprise Business Process Analysis,01,30471,3,ARRGT,ARR ARR,Jan 10--Feb 27,C Haskell
 MIS,420,Business Intelligence,01,28966,3,ARRGT,ARR ARR,Mar 07--May 01,M Featherman
@@ -113,8 +116,10 @@ PL_P,501,Biology and Control of Plant Diseases,01,28839,3,ARRGT,ARR ARR,Jan 10--
 PL_P,501,Biology and Control of Plant Diseases,01 Lab,28840,0,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SOE,300,Natural Resource Ecology,01,29326,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Woodley
 SOIL_SCI,302,[M] Introduction to Agroecology,01,28851,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Murphy
+SOIL_SCI,303,Organic and Sustainable Agricultural Certifications: From Principles to Practice,01,30858,2,"TU,TH14.55-15.45","",Jan 10--Apr 29,G Lahue
 SOIL_SCI,360,World Agricultural Systems,01,28798,3,ARRGT,ARR ARR,Jan 10--Apr 29,P Jacoby
 SOIL_SCI,441,Soil Fertility,01,28880,3,ARRGT,ARR ARR,Jan 10--Apr 29,I Madsen
 SOIL_SCI,478,Advanced Organic Farming and Gardening,01,28881,2,ARRGT,ARR ARR,Jan 10--Apr 29,B Jaeckel
+STAT,360,Probability and Statistics,01,28604,3,"TU,TH9.10-10.25","",Jan 10--Apr 29,S Lapin
 STAT,437,High Dimensional Data Learning and Visualization,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,X Chen
 STAT,446,Statistical Applications in Insurance,01,"",3,"M,W,F15.10-16","",Jan 10--Apr 29,""

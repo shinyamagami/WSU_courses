@@ -90,6 +90,10 @@ module WSUInPerson
       i = 0
       
       subject_urls.each do |subject_url|
+
+        # to skip T_%5E_L
+        next if subject_url == "T_%5E_L"
+
         section_urls = []
         sections = []
 
@@ -108,17 +112,23 @@ module WSUInPerson
           sec_on = 0
 
 
-          # https://stackoverflow.com/questions/33822571/undefined-method-hostname-for-http-www-google-com-string-nomethoderror
-          # uri = URI.open("http://schedules.wsu.edu#{subject_url}")
-          #   puts(escaped_uri)
-          #   uri = URI.parse(escaped_uri)
-          # end
+          # https://stackoverflow.com/questions/6934185/ruby-net-http-following-redirects
           begin
             uri = URI.open("http://schedules.wsu.edu#{subject_url}")
           rescue OpenURI::HTTPError
-            puts "http://schedules.wsu.edu#{subject_url}"
+          # have no idea how to deal with 301 permanently moved...
+            # uri_str = "http://schedules.wsu.edu#{subject_url}"
+            # url = URI.parse(uri_str)
+            # req = Net::HTTP::Get.new(url.path, { 'User-Agent' => 'Mozilla/5.0 (etc...)' })
+            # response = Net::HTTP.start(url.host, url.port, use_ssl: true) { |http| http.request(req) }
+            # case response
+            # when Net::HTTPSuccess     then response
+            # when Net::HTTPRedirection then fetch(response['location'], limit - 1)
+            # else
+            #   response.error!
+            # end
+            # uri = response
           end
-
 
           doc = Nokogiri::HTML(uri)
 

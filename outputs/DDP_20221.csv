@@ -12,8 +12,6 @@ ACCTG,433,[M] Accounting Systems and Auditing,03,17843,3,ARRGT,ARR ARR,Mar 07--M
 ACCTG,550,Introduction to Financial and Managerial Accounting,01,17435,3,ARRGT,ARR ARR,Mar 28--May 01,B Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,02,17436,3,ARRGT,ARR ARR,Mar 28--May 01,B Wong-On-Wing
 AFS,302,[M] Introduction to Agroecology,01,17315,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Murphy
-AFS,445,Field Analysis of Sustainable Food Systems,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-AFS,545,Field Analysis of Sustainable Food Systems,01,17321,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 AGRI,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 AGRI,702,"Master's Special Problems, Directed Study, and/or Examination",01,17313,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 AIS,320,[DIVR] Native Peoples of North America,01,17960,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Mcnassar
@@ -23,7 +21,7 @@ ANTH,230,Archaeological Methods and Interpretation,01,17802,3,ARRGT,ARR ARR,Jan 
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,17919,4,ARRGT,ARR ARR,Jan 10--Apr 29,A Blackwell
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,17920,0,ARRGT,ARR ARR,Jan 10--Apr 29,A Blackwell
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,17244,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Alvarez
-ANTH,302,[SSCI] Childhood and Culture,01,17237,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+ANTH,302,[SSCI] Childhood and Culture,01,17237,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Heckelsmiller
 ANTH,316,[DIVR] Gender in Cross Cultural Perspective,01,17238,3,ARRGT,ARR ARR,Jan 10--Apr 29,D Weber
 ANTH,320,[DIVR] Native Peoples of North America,01,17374,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Mcnassar
 ANTH,327,[DIVR] Contemporary Native Peoples of the Americas,01,17659,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Mcnassar
@@ -41,6 +39,8 @@ B_A,102,Exploring Careers in Business,02,18274,1,ARRGT,ARR ARR,Jan 10--Feb 27,S 
 B_A,211,"Ethics, Teams, and Innovation",01,18018,3,ARRGT,ARR ARR,Mar 07--May 01,N Yaws-Gonzalez
 B_A,211,"Ethics, Teams, and Innovation",02,18165,3,ARRGT,ARR ARR,Mar 07--May 01,N Yaws-Gonzalez
 B_A,211,"Ethics, Teams, and Innovation",03,18166,3,ARRGT,ARR ARR,Mar 07--May 01,N Yaws-Gonzalez
+B_A,211,"Ethics, Teams, and Innovation",05,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,K Tajeddini
+B_A,211,"Ethics, Teams, and Innovation",06,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,K Tajeddini
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,18017,3,ARRGT,ARR ARR,Jan 10--Feb 27,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,18153,3,ARRGT,ARR ARR,Jan 10--Feb 27,Y He
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",03,18154,3,ARRGT,ARR ARR,Jan 10--Feb 27,Y He
@@ -208,7 +208,7 @@ E_M,426,Constraints Management,01,"",3,TH17.15-19.45,WEB ARR,Jan 10--Apr 29,L Sc
 E_M,438,Lean Tools for Systems Improvement,01,"",3,W18.15-20.45,WEB ARR,Jan 10--Apr 29,D Paulus
 E_M,464,Project Management,01,17530,3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,K Bachman
 E_M,480,Quality Control and Reliability,01,"",3,M18.15-20.45,WEB ARR,Jan 10--Apr 29,D Paulus
-E_M,505,Finance for Technical Systems,01,17290,3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,""
+E_M,505,Finance for Technical Systems,01,17290,3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,A Squires
 E_M,522,Leading People and Organizations,01,30591,3,TU17.15-19.45,"",Jan 10--Apr 29,K Bachman
 E_M,526,Constraints Management,01,17288,3,TH17.15-19.45,WEB ARR,Jan 10--Apr 29,L Scheinkopf
 E_M,538,Lean Tools for Systems Improvement,01,17380,3,W18.15-20.45,WEB ARR,Jan 10--Apr 29,D Paulus
@@ -258,7 +258,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,09,17285,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,17361,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Hughes
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,17571,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Ericsson
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,17706,3,ARRGT,ARR ARR,Jan 10--Apr 29,P Cady
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,17819,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Ericsson
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,17819,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Staggers
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,14,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,J Staggers
 ENGLISH,419,The Twentieth Century Novel,01,17224,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Hegglund
 ENGLISH,495,Rhetoric of Science and Technology,01,18277,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Staggers
@@ -320,6 +320,8 @@ HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR
 HBM,383,Meeting and Convention Management,01,18159,3,ARRGT,ARR ARR,Jan 10--Feb 27,A Senter
 HBM,470,Living Management Operations Analysis,01,25849,3,ARRGT,ARR ARR,Jan 10--Feb 27,C Wolfenbarger
 HBM,475,[CAPS] Senior Living Management Capstone,01,30580,3,ARRGT,ARR ARR,Mar 07--May 01,""
+HBM,491,Operational Analysis,01,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,""
+HBM,491,Operational Analysis,02,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,W Gzara
 HBM,494,[M] Service Operations Management,01,17723,3,ARRGT,ARR ARR,Mar 07--May 01,J Kim
 HBM,494,[M] Service Operations Management,02,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,J Harbour
 HBM,494,[M] Service Operations Management,03,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,J Harbour
@@ -341,7 +343,7 @@ HISTORY,469,[M] Seminar in History,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,J Thigpe
 HISTORY,495,"[CAPS] Space, Place, and Power in History: Historical Geography in Global Perspective",01,30376,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Whelchel
 HISTORY,499,Special Problems,02,"",V,ARRGT,ARR ARR,Feb 07--Mar 11,J Thigpen
 HISTORY,499,Special Problems,03,"",V,ARRGT,ARR ARR,Mar 21--Apr 18,J Thigpen
-HONORS,380,Case Study: Global Issues in the Arts and Humanities,02,30175,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Lampman
+HONORS,380,Case Study: Global Issues in the Arts and Humanities,02,30175,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Lampman
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,C Horne
 HORT,102,Introduction to Cultivated Plants,01,17324,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 HUMANITY,101,[HUM] Humanities in the Ancient World,01,17410,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Kuhlman
@@ -377,6 +379,18 @@ MBIOS,583,Professional Skills Seminar,01,17197,1,ARRGT,ARR ARR,Jan 10--Apr 29,J 
 MBIOS,584,Medical Genetics,01,30132,3,ARRGT,ARR ARR,Jan 10--Mar 11,I Wallace
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,17834,V,ARRGT,ARR ARR,Jan 10--Apr 29,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,17198,V,ARRGT,ARR ARR,Jan 10--Apr 29,N Mccabe
+ME,304,Heat Transfer,01,"",3,"M,W,F8.10-9.10",ARR ARR,Jan 10--Apr 29,B Asgharian Dastenaie
+ME,348,Dynamics Systems,01,17827,3,"M,W,F11-11.50","",Jan 10--Apr 29,S Chien
+ME,401,Mechatronics,01,17343,3,"M,W9.10-10","",Jan 10--Apr 29,M Pitts
+ME,401,Mechatronics,01 Lab,17344,0,TU9.10-12,"",Jan 10--Apr 29,M Pitts
+ME,401,Mechatronics,02 Lab,17345,0,TH9.10-12,"",Jan 10--Apr 29,M Pitts
+ME,405,Thermal Systems Design,01,"",3,"TU,TH12.30-14","",Jan 10--Apr 29,B Asgharian Dastenaie
+ME,406,[M] Experimental Design,01,17347,3,M10.10-11,"",Jan 10--Apr 29,B Asgharian Dastenaie
+ME,406,[M] Experimental Design,01 Lab,17349,0,"M,W11-14","",Jan 10--Apr 29,B Asgharian Dastenaie
+ME,416,[CAPS] Mechanical Systems Design,01,17350,3,F9.10-10,"",Jan 10--Apr 29,M Pitts
+ME,416,[CAPS] Mechanical Systems Design,01 Lab,17351,0,"W,F18-21","",Jan 10--Apr 29,M Pitts
+ME,439,Applied Aerodynamics,01,17352,3,"M,W,F15.10-16","",Jan 10--Apr 29,G Taub
+ME,462,Introduction to Nuclear Engineering II,01,18188,3,"TU,TH16.20-17.35","",Jan 10--Apr 29,""
 MGMT,301,Principles of Management and Organization,01,17331,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Gingras
 MGMT,301,Principles of Management and Organization,02,17559,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Gingras
 MGMT,450,Personnel and Human Resources Management,01,17801,3,ARRGT,ARR ARR,Mar 07--May 01,R Moser
@@ -440,6 +454,7 @@ MKTG,506,Marketing Strategy,23,25860,3,ARRGT,ARR ARR,Mar 07--Apr 24,S Silverman
 MKTG,506,Marketing Strategy,24,25861,3,ARRGT,ARR ARR,Mar 07--Apr 24,S Silverman
 MKTG,506,Marketing Strategy,25,25862,3,ARRGT,ARR ARR,Mar 07--Apr 24,S Silverman
 MKTG,506,Marketing Strategy,26,25863,3,ARRGT,ARR ARR,Mar 07--Apr 24,S Silverman
+MSE,404,Engineering Composites,01,17664,3,"M,W,F14.10-15","",Jan 10--Apr 29,""
 MUS,160,[ARTS] Survey of Music Literature,01,17276,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Mccarthy
 MUS,262,[ARTS] Rock Music: History and Social Analysis,01,17277,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Myers
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,17388,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Svendsen
@@ -461,6 +476,7 @@ POL_S,206,State and Local Government,01,17949,3,ARRGT,ARR ARR,Jan 10--Apr 29,N S
 POL_S,300,The American Constitution,01,17811,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Yakub
 POL_S,340,Introduction to Public Administration,01,17230,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 POL_S,404,[M] The Judicial Process,01,18170,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Ritter
+POL_S,405,[M] Comparative Criminal Justice Systems,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,A Kraft-Duley
 POL_S,418,Human Issues in International Development,01,17242,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Quinlan
 POL_S,428,[CAPS] Issues in Political Psychology,01,17812,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Griffin
 POL_S,430,[CAPS] [M] The Politics of Natural Resource and Environmental Policy,01,30070,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Stehr
@@ -543,6 +559,8 @@ SPEC_ED,503,Secondary Education for Students with Disabilities,01,17298,3,ARRGT,
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,17657,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,18181,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+STAT,212,[QUAN] Introduction to Statistical Methods,01,17401,4,ARRGT,ARR ARR,Jan 10--Apr 29,""
+STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,17405,0,ARRGT,ARR ARR,Jan 10--Apr 29,""
 STAT,412,Statistical Methods in Research I,01,18002,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Kaul
 STAT,437,High Dimensional Data Learning and Visualization,01,17946,3,ARRGT,ARR ARR,Jan 10--Apr 29,X Chen
 STAT,512,Analysis of Variance of Designed Experiments,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,H Johnson
@@ -552,7 +570,7 @@ UNIV,301,Career Exploration and Professional Development,01,17336,1,ARRGT,ARR AR
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Hopkins
 UNIV,490,Global Leadership Experience,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,K Newlon
 UNIV,491,Global Leadership Integrative Capstone,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,K Newlon
-UNIV,497,Peer Leadership,01,17337,V,ARRGT,ARR ARR,Jan 10--Apr 29,D Van Orman
+UNIV,497,Peer Leadership,01,17337,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 WGSS,316,[DIVR] Gender in Cross Cultural Perspective,01,17239,3,ARRGT,ARR ARR,Jan 10--Apr 29,D Weber
 WGSS,363,[DIVR] Women in Music,01,17526,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Tegart
 WGSS,403,[CAPS] Violence Toward Women,01,17921,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Reddy

@@ -16,6 +16,11 @@ Please run "ruby main.rb" when you want a newer csv file.
 I don't know the definitions of in-person class and WEB ARR classes.
 So please don't trust this list.
 
+
+Currently, this gem does not know how to deal with "301 Moved Permanently".
+
+
+
 <!--
 ## Installation
 
