@@ -19,7 +19,7 @@ AERO,412,"National Security, Leadership, and Commissioning Preparation II",01,30
 AERO,412,"National Security, Leadership, and Commissioning Preparation II",02,30068,3,TH8-11,ARR ARR,Jan 10--Apr 29,""
 AERO,413,Leadership Laboratory IV,01,30069,2,TU16.10-18.10,ARR ARR,Jan 10--Apr 29,""
 ANTH,101,[DIVR] Introduction to Anthropology,01,26097,3,"M,W9.10-10.10",GUC VAN,Jan 10--Apr 29,N Hess
-ANTH,201,[HUM] Art and Society,01,27228,3,"W,F14.55-16.10",GUC VAN,Jan 10--Apr 29,K Dhawan
+ANTH,201,[HUM] Art and Society,01,27228,3,"W,F14.55-15.45",GUC VAN,Jan 10--Apr 29,K Dhawan
 ANTH,203,[DIVR] Global Cultural Diversity,01,26113,3,"M,W14.55-16.10",GUC VAN,Jan 10--Apr 29,J Fancher
 ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures",01,26198,3,M11.10-14,GUC VAN,Jan 10--Jan 10,B Hewlett
 ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures","","","",M11.10-14,GUC VAN,"",""
@@ -94,7 +94,7 @@ BIOLOGY,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 BIOLOGY,500,Seminar,01,26809,1,ARRGT,ARR ARR,Jan 10--Apr 29,C Schultz
 BIOLOGY,500,Seminar,02,26810,1,ARRGT,ARR ARR,Jan 10--Apr 29,""
-BIOLOGY,501,Proposal Defense Seminar,01,26811,2,ARRGT,ARR ARR,Jan 10--Apr 29,""
+BIOLOGY,501,Proposal Defense Seminar,01,26811,2,ARRGT,ARR ARR,Jan 10--Apr 29,J Bishop
 BIOLOGY,517,Stress Physiology of Plants,01,30585,3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,H Hellmann
 BIOLOGY,521,Quantitative Genetics,01,30586,3,"TU,TH13.30-14.45",VC VAN,Jan 10--Apr 29,P Carter
 BIOLOGY,546,Mutualism and Symbiosis,01,26880,3,"M,W9.10-10.25",VC VAN,Jan 10--Apr 29,S Porter
@@ -172,7 +172,7 @@ CS,466,Embedded Systems,01,26415,3,TU17.45-19.25,GUC VAN,Jan 10--Apr 29,""
 CS,466,Embedded Systems,01 Lab,26417,0,TH17.45-20.15,VECS 221,Jan 10--Apr 29,""
 CS,483,Topics in Computer Science,01,"",V,"TU,TH14.55-16.10",VC VAN,Jan 10--Apr 29,A Sukumaran Rajam
 CS,527,Cryptography and Network Security,01,26411,3,"M,W12.05-13.20",GUC VAN,Jan 10--Apr 29,""
-CS,558,Wireless Sensor Networks,01,27225,3,"W,F13.30-14.45",GUC VAN,Jan 10--Apr 29,A Wisniewska
+CS,558,Wireless Sensor Networks,01,27225,3,"M,W16.20-17.35",GUC VAN,Jan 10--Apr 29,A Wisniewska
 CS,566,Embedded Systems,01,26416,3,TU17.45-19.25,GUC VAN,Jan 10--Apr 29,""
 CS,566,Embedded Systems,01 Lab,26418,0,TH17.45-20.15,VECS 221,Jan 10--Apr 29,""
 CS,570,Machine Learning,01,26574,3,"M,W10.35-11.50",GUC VAN,Jan 10--Apr 29,S Wallace
@@ -253,6 +253,7 @@ ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC VAN,"",""
 ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC VAN,"",""
 ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC VAN,"",""
 ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC VAN,"",""
+ED_AD,521,Topics in Education,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,G Hill
 ED_AD,522,Topics in Education,02,26604,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 ED_AD,583,Community and Communications,01,26284,3,TU17.45-20.30,GUC VAN,Jan 10--Apr 29,K Rodela
 ED_AD,587,Seminar in School Administration,01,26287,3,ARRGT,ARR ARR,Jan 10--Apr 29,G Hill
@@ -272,6 +273,7 @@ ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,26313,1,W1
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,26316,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ED_PSYCH,505,Research Methods I,01,26296,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 ED_PSYCH,508,Educational Statistics,01,26602,3,W16.10-19,VC VAN,Jan 10--Apr 29,B French
+ED_PSYCH,569,Seminar in Quantitative Techniques in Education,01,30955,3,M16.10-19,ARR ARR,Jan 10--Apr 29,""
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,27252,3,TU17.45-20.30,VC VAN,Jan 10--Apr 29,A Rud
 ED_RES,563,Principles of Research,01,26293,3,TU17.45-20.30,VC VAN,Jan 10--Apr 29,R Danielson
 ED_RES,563,Principles of Research,02,27253,3,TU17.45-20.30,VC VAN,Jan 10--Apr 29,H Liao
@@ -451,8 +453,10 @@ MATH,315,Differential Equations,02,26107,3,"TU,TH12.05-13.20",GUC VAN,Jan 10--Ap
 MATH,340,Introduction to Mathematical Biology,01,26833,3,"TU,TH13.30-14.45",GUC VAN,Jan 10--Apr 29,A Dimitrov
 MATH,351,Algebraic Thinking for the Middle School Teacher,01,26115,3,TU16.20-19,VC VAN,Jan 10--Apr 29,K Lesseig
 MATH,402,[M] Introduction to Analysis II,01,26955,3,"M,W,F10.10-11",VC VAN,Jan 10--Apr 29,""
+MATH,415,Intermediate Differential Equations,01,"",3,"TU,TH12.05-13.20",VC VAN,Jan 10--Apr 29,N Voulgarakis
 MATH,421,[M] Algebraic Structures,01,26144,3,"M,W,F9.10-10",VC VAN,Jan 10--Apr 29,""
 MATH,432,[CAPS] Mathematics for College and Secondary Teachers,01,"",3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,""
+MATH,440,Applied Mathematics I: PDEs,01,"",3,"M,W,F11.10-12",VC VAN,Jan 10--Apr 29,A Khapalov
 MATH,464,[CAPS] Linear Optimization,01,26757,3,"TU,TH9.10-10.25",VC VAN,Jan 10--Apr 29,""
 MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 MATH,502,Introduction to Functional Analysis,01,30767,3,"M,W,F10.10-11",VC VAN,Jan 10--Apr 29,""
@@ -494,7 +498,7 @@ MGMT,401,Leading People and Organizations,01,25896,3,W18-20.45,GUC VAN,Jan 10--A
 MGMT,450,Personnel and Human Resources Management,01,25902,3,TH18-20.45,GUC VAN,Jan 10--Apr 29,R Howell
 MGMT,485,[M] Negotiation Skills,01,25882,3,"M,W13.30-14.45",GUC VAN,Jan 10--Apr 29,D Steck
 MGMT,485,[M] Negotiation Skills,02,27299,3,W18-20.45,GUC VAN,Jan 10--Apr 29,D Steck
-MGMT,491,[CAPS] Strategic Management,01,"",3,"TU,TH14.55-16.10",GUC VAN,Jan 10--Apr 29,A Smith
+MGMT,491,[CAPS] Strategic Management,01,25919,3,"TU,TH14.55-16.10",GUC VAN,Jan 10--Apr 29,A Smith
 MGTOP,215,Business Statistics,01,25893,4,"M,W12.05-13.20",GUC VAN,Jan 10--Apr 29,""
 MGTOP,215,Business Statistics,01 Lab,25892,0,F12.05-13.55,GUC VAN,Jan 10--Apr 29,""
 MGTOP,340,Operations Management,01,25883,3,TU19.15-20.30,GUC VAN,Jan 10--Apr 29,R Howell
@@ -511,9 +515,8 @@ MIL_SCI,499,Special Problems,04,26387,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 MIS,250,Managing Information Technology,01,25894,3,"TU,TH9.10-10.25",GUC VAN,Jan 10--Apr 29,A Smith
 MIS,250,Managing Information Technology,04,"",3,ARRGT,ARR ARR,Mar 07--May 01,""
 MIS,372,[M] Data Management,01,25912,3,"TU,TH12.05-13.20",GUC VAN,Jan 10--Apr 29,A Smith
-MIS,374,Information Technology Infrastructure and Security,01,29955,3,"TU,TH16.20-17.35",GUC VAN,Jan 10--Apr 29,""
 MIS,421,Business Intelligence Strategy,01,27233,3,"TU,TH19.15-20.30",GUC VAN,Jan 10--Apr 29,""
-MIS,448,Global IS Project Management,01,25913,3,"TU,TH10.35-11.50",GUC VAN,Jan 10--Apr 29,""
+MIS,448,Global IS Project Management,01,25913,3,"TU,TH10.35-11.50",GUC VAN,Jan 10--Apr 29,A Smith
 MIT,506,Integrating Technology into Classroom Teaching,01,26335,2,"M,F11.25-13.40",GUC VAN,Jan 10--Feb 18,D Day-Wiff
 MIT,506,Integrating Technology into Classroom Teaching,02,26336,2,M15.30-16.45,ARR ARR,Jan 10--Apr 29,R Mattson
 MIT,510,Instruction for Secondary Teachers,01,26339,3,M17.30-20.15,ARR ARR,Jan 10--Apr 29,R Sawyer
@@ -546,7 +549,7 @@ NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,02,26529,1,"M,F9
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,VC VAN,"",""
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,03,26906,1,"M,F9.10-10",VC VAN,Mar 28--Apr 29,""
 NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,VC VAN,"",""
-NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,26369,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
+NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,26369,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 NURS,360,Contemporary Nursing,01,29964,3,ARRGT,ARR ARR,Jan 10--Mar 04,S Welty
 NURS,360,Contemporary Nursing,02,29965,3,ARRGT,ARR ARR,Jan 10--Mar 04,S Welty
 NURS,400,[M] Nursing Research and Evidence-Based Practice,01,29968,3,ARRGT,ARR ARR,Mar 07--May 06,C Richards
@@ -661,6 +664,7 @@ NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,VC ARR,"","
 NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,VC ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,VC ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TU12.10-15,VC ARR,"",""
+NURS,576,Organizational Systems and Leadership I,01 Lab,30953,0,ARRGT,ARR ARR,Jan 10--Apr 29,K Pascoe
 NURS,582,PMHNP Internship,01,"",3,TH15.10-17,VC ARR,Jan 13--Jan 13,A Hamel
 NURS,582,PMHNP Internship,"","","",TH15.10-17,VC ARR,"",""
 NURS,582,PMHNP Internship,"","","",TH15.10-17,VC ARR,"",""
@@ -727,8 +731,8 @@ PSYCH,308,Organizational Psychology,01,26860,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Ba
 PSYCH,310,"Work, Stress, and Health",01,27028,3,"M,W14.55-16.10",GUC VAN,Jan 10--Apr 29,T Probst
 PSYCH,311,[QUAN] Statistics in Psychology,01,26082,4,"M,W9.10-11",GUC VAN,Jan 10--Apr 29,T Probst
 PSYCH,311,[QUAN] Statistics in Psychology,02,26083,4,"TU,TH9.10-11",GUC VAN,Jan 10--Apr 29,K Saville
-PSYCH,312,[M] Research Methods in Psychology,01,26084,4,W9.10-11.50,VCLS 130,Jan 10--Apr 29,S Lakatos
-PSYCH,312,[M] Research Methods in Psychology,01 Lab,26085,0,F9.10-11.50,VCLS 130,Jan 10--Apr 29,S Lakatos
+PSYCH,312,[M] Research Methods in Psychology,01,26084,4,W9.10-11.50,VCLS 130,Jan 10--Apr 29,""
+PSYCH,312,[M] Research Methods in Psychology,01 Lab,26085,0,F9.10-11.50,VCLS 130,Jan 10--Apr 29,""
 PSYCH,328,[M] Self Control,01,26183,3,"M,W9.10-10.25",GUC VAN,Jan 10--Apr 29,B Ladd
 PSYCH,350,Social Psychology,01,26215,3,TH12.05-13.20,GUC VAN,Jan 13--Jan 13,K Saville
 PSYCH,350,Social Psychology,"","","",TH12.05-13.20,GUC VAN,"",""
@@ -772,7 +776,7 @@ SOC,350,Social Psychology,"","","",TH12.05-13.20,GUC VAN,"",""
 SOC,350,Social Psychology,"","","",TH12.05-13.20,GUC VAN,"",""
 SOC,350,Social Psychology,"","","",TH12.05-13.20,GUC VAN,"",""
 SOC,351,[DIVR] The Family,01,30112,3,"M,W12.05-13.20",GUC VAN,Jan 10--Apr 29,N Ray
-SOC,368,Drugs and Society,01,26130,3,"TU,TH9.10-10.25",GUC VAN,Jan 10--Apr 29,C Mosher
+SOC,368,Drugs and Society,01,26130,3,"TU,TH13.30-14.45",GUC VAN,Jan 10--Apr 29,""
 SOC,390,Gender and Work,01,26162,3,"M,W14.55-16.10",GUC VAN,Jan 10--Apr 29,K Leupp
 SOC,415,[CAPS] [M] Globalization,01,30111,3,"TU,TH12.05-13.20",GUC VAN,Jan 10--Apr 29,A Maclean
 SOC,468,Addictive Behavior Among Diverse Populations,01,26642,3,"W,F13.30-14.45",GUC VAN,Jan 10--Apr 29,A Blume
@@ -836,6 +840,7 @@ STAT,530,Predictive Models: Foundations in Data Science,01 Lab,26263,0,F15.10-17
 STAT,549,Statistical Theory II,01,27056,3,"M,W,F11.10-12",VC VAN,Jan 10--Apr 29,""
 STAT,556,Introduction to Statistical Theory,01,26259,3,"TU,TH12.05-13.20",VC VAN,Jan 10--Apr 29,""
 STAT,577,Statistical Learning Theory,01,30731,3,"TU,TH14.55-16.10",VC VAN,Jan 10--Apr 29,""
+STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,27463,V,ARRGT,ARR ARR,Jan 10--Apr 29,Y Wang
 STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,27067,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 UNIV,104,First-Year Success Seminar,01,"",2,F12.05-13.55,GUC VAN,Jan 10--Apr 29,J Denrow
 UNIV,199,Introduction to Directed Research,01,30453,1,F9.10-10,GUC VAN,Jan 10--Apr 29,S Buechler

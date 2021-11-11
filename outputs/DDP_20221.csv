@@ -50,15 +50,15 @@ B_A,501,Foundations in Marketing,02,17635,2,ARRGT,ARR ARR,Jan 10--Feb 13,D Muehl
 B_A,502,Foundations in Operations Management,01,17418,2,ARRGT,ARR ARR,Feb 21--Mar 27,J Hu
 B_A,504,Foundations in Finance,01,17440,2,ARRGT,ARR ARR,Mar 28--May 01,M Reyes
 B_A,504,Foundations in Finance,02,17441,2,ARRGT,ARR ARR,Mar 28--May 01,M Reyes
-B_A,514,Business Analytics: Transforming Data into Decisions,01,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,S Fotopoulos
-B_A,514,Business Analytics: Transforming Data into Decisions,02,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,S Fotopoulos
-B_A,514,Business Analytics: Transforming Data into Decisions,03,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,""
+B_A,514,Business Analytics: Transforming Data into Decisions,01,17488,3,ARRGT,ARR ARR,Jan 10--Feb 27,S Fotopoulos
+B_A,514,Business Analytics: Transforming Data into Decisions,02,17489,3,ARRGT,ARR ARR,Jan 10--Feb 27,S Fotopoulos
+B_A,514,Business Analytics: Transforming Data into Decisions,03,17490,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
 B_A,514,Business Analytics: Transforming Data into Decisions,04,17491,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
-B_A,514,Business Analytics: Transforming Data into Decisions,05,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,""
-B_A,514,Business Analytics: Transforming Data into Decisions,06,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,""
-B_A,514,Business Analytics: Transforming Data into Decisions,07,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,""
-B_A,514,Business Analytics: Transforming Data into Decisions,08,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,""
-B_A,514,Business Analytics: Transforming Data into Decisions,09,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,""
+B_A,514,Business Analytics: Transforming Data into Decisions,05,17492,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
+B_A,514,Business Analytics: Transforming Data into Decisions,06,17493,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
+B_A,514,Business Analytics: Transforming Data into Decisions,07,17494,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
+B_A,514,Business Analytics: Transforming Data into Decisions,08,17495,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
+B_A,514,Business Analytics: Transforming Data into Decisions,09,17496,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
 B_A,514,Business Analytics: Transforming Data into Decisions,10,17497,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
 B_A,514,Business Analytics: Transforming Data into Decisions,11,17498,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
 B_A,514,Business Analytics: Transforming Data into Decisions,13,17500,3,ARRGT,ARR ARR,Jan 10--Feb 27,""
@@ -151,7 +151,7 @@ COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,17681,3
 COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,01,30492,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Barnes
 COMSTRAT,476,Consumer Insights and Branding,01,17958,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Kistler
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,17818,3,ARRGT,ARR ARR,Jan 10--Apr 29,Y Lee
-COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Schweigert
+COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 COMSTRAT,561,Persuasion for Professional Communicators,01,17338,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Richardson
 COMSTRAT,562,Creative Media Strategies and Techniques,01,17395,3,ARRGT,ARR ARR,Jan 10--Apr 29,B Atwood
 COMSTRAT,563,Professional Digital Content Promotion,01,17396,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Cooney
@@ -313,7 +313,7 @@ H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 HBM,101,Professional and Career Development for the Business World,01,17478,1,ARRGT,ARR ARR,Jan 10--Feb 27,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,18157,1,ARRGT,ARR ARR,Jan 10--Feb 27,A Alonzo
 HBM,101,Professional and Career Development for the Business World,03,18158,1,ARRGT,ARR ARR,Jan 10--Feb 27,A Alonzo
-HBM,280,Hospitality Systems,01,17722,3,ARRGT,ARR ARR,Mar 07--May 01,K Philander
+HBM,280,Hospitality Systems,01,17722,3,ARRGT,ARR ARR,Mar 07--May 01,K Chiang
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,17267,3,ARRGT,ARR ARR,Jan 10--Feb 27,K Philander
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,D Gursoy
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,K Philander
@@ -391,6 +391,7 @@ ME,416,[CAPS] Mechanical Systems Design,01,17350,3,F9.10-10,"",Jan 10--Apr 29,M 
 ME,416,[CAPS] Mechanical Systems Design,01 Lab,17351,0,"W,F18-21","",Jan 10--Apr 29,M Pitts
 ME,439,Applied Aerodynamics,01,17352,3,"M,W,F15.10-16","",Jan 10--Apr 29,G Taub
 ME,462,Introduction to Nuclear Engineering II,01,18188,3,"TU,TH16.20-17.35","",Jan 10--Apr 29,""
+ME,466,Fundamentals of Engineering Examination Review,01,18187,1,M10.10-11,"",Jan 10--Apr 29,M Pitts
 MGMT,301,Principles of Management and Organization,01,17331,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Gingras
 MGMT,301,Principles of Management and Organization,02,17559,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Gingras
 MGMT,450,Personnel and Human Resources Management,01,17801,3,ARRGT,ARR ARR,Mar 07--May 01,R Moser
@@ -418,9 +419,9 @@ MGTOP,581,Operations Management,02,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,""
 MGTOP,581,Operations Management,03,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,""
 MGTOP,581,Operations Management,04,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,""
 MGTOP,581,Operations Management,05,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,""
-MIS,250,Managing Information Technology,01,17774,3,ARRGT,ARR ARR,Mar 07--May 01,""
-MIS,250,Managing Information Technology,02,17814,3,ARRGT,ARR ARR,Mar 07--May 01,""
-MIS,250,Managing Information Technology,03,17815,3,ARRGT,ARR ARR,Mar 07--May 01,""
+MIS,250,Managing Information Technology,01,17774,3,ARRGT,ARR ARR,Mar 07--May 01,J Sarabadani
+MIS,250,Managing Information Technology,02,17814,3,ARRGT,ARR ARR,Mar 07--May 01,J Sarabadani
+MIS,250,Managing Information Technology,03,17815,3,ARRGT,ARR ARR,Mar 07--May 01,J Sarabadani
 MIS,322,[M] Enterprise Business Process Analysis,01,25850,3,ARRGT,ARR ARR,Jan 10--Feb 27,C Haskell
 MIS,420,Business Intelligence,01,17266,3,ARRGT,ARR ARR,Mar 07--May 01,M Featherman
 MIS,420,Business Intelligence,02,18000,3,ARRGT,ARR ARR,Mar 07--May 01,M Featherman
@@ -481,29 +482,28 @@ POL_S,418,Human Issues in International Development,01,17242,3,ARRGT,ARR ARR,Jan
 POL_S,428,[CAPS] Issues in Political Psychology,01,17812,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Griffin
 POL_S,430,[CAPS] [M] The Politics of Natural Resource and Environmental Policy,01,30070,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Stehr
 POL_S,497,Political Science Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,R Elgar
-PSYCH,105,[SSCI] Introductory Psychology,01,17202,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,201,Degrees and Careers in Psychology,01,17962,1,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,210,Psychology as a Science,01,17414,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,301,Seminar in Psychology,01,17578,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
+PSYCH,105,[SSCI] Introductory Psychology,01,17202,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Bridley
+PSYCH,201,Degrees and Careers in Psychology,01,17962,1,ARRGT,ARR ARR,Jan 10--Apr 29,L Daffin
+PSYCH,210,Psychology as a Science,01,17414,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Stubblefield
 PSYCH,308,Organizational Psychology,01,17831,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Bazzoli
-PSYCH,311,[QUAN] Statistics in Psychology,01,17203,4,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,311,[QUAN] Statistics in Psychology,02,17999,4,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,312,[M] Research Methods in Psychology,01,17204,4,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,312,[M] Research Methods in Psychology,02,17539,4,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,312,[M] Research Methods in Psychology,01 Lab,17205,0,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,312,[M] Research Methods in Psychology,02 Lab,17540,0,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,320,Health Psychology,01,17580,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,321,Personality,01,17206,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,328,[M] Self Control,01,17207,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,328,[M] Self Control,02,17582,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,333,Abnormal Psychology,01,17208,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,350,Social Psychology,01,17209,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,363,Psychology of Aging,01,17415,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,372,[BSCI] Biological Basis of Behavior,01,17373,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,384,Sensation and Perception,01,17581,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,401,[CAPS] [M] Historical Development of Psychology,01,17810,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,464,Behavior Disorders of Children and Adolescents,01,17522,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,470,Motivation,01,17579,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+PSYCH,311,[QUAN] Statistics in Psychology,01,17203,4,ARRGT,ARR ARR,Jan 10--Apr 29,D Mauzay
+PSYCH,311,[QUAN] Statistics in Psychology,02,17999,4,ARRGT,ARR ARR,Jan 10--Apr 29,D Mauzay
+PSYCH,312,[M] Research Methods in Psychology,01,17204,4,ARRGT,ARR ARR,Jan 10--Apr 29,C Lane
+PSYCH,312,[M] Research Methods in Psychology,02,17539,4,ARRGT,ARR ARR,Jan 10--Apr 29,C Lane
+PSYCH,312,[M] Research Methods in Psychology,01 Lab,17205,0,ARRGT,ARR ARR,Jan 10--Apr 29,C Lane
+PSYCH,312,[M] Research Methods in Psychology,02 Lab,17540,0,ARRGT,ARR ARR,Jan 10--Apr 29,C Lane
+PSYCH,320,Health Psychology,01,17580,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Bridley
+PSYCH,321,Personality,01,17206,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Byrd
+PSYCH,328,[M] Self Control,01,17207,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Daffin
+PSYCH,328,[M] Self Control,02,17582,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Eichenbaum
+PSYCH,333,Abnormal Psychology,01,17208,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Bridley
+PSYCH,350,Social Psychology,01,17209,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Lane
+PSYCH,363,Psychology of Aging,01,17415,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Schofield
+PSYCH,372,[BSCI] Biological Basis of Behavior,01,17373,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Henricks
+PSYCH,384,Sensation and Perception,01,17581,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Stubblefield
+PSYCH,401,[CAPS] [M] Historical Development of Psychology,01,17810,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Byrd
+PSYCH,464,Behavior Disorders of Children and Adolescents,01,17522,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Stubblefield
+PSYCH,470,Motivation,01,17579,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Malain
 PSYCH,497,Instructional Practicum,01,17211,V,ARRGT,ARR ARR,Jan 10--Apr 29,L Daffin
 PSYCH,497,Instructional Practicum,02,17212,V,ARRGT,ARR ARR,Jan 10--Apr 29,L Daffin
 PSYCH,497,Instructional Practicum,03,17416,V,ARRGT,ARR ARR,Jan 10--Apr 29,L Daffin
@@ -514,12 +514,12 @@ PSYCH,499,Special Problems,02,17570,V,ARRGT,ARR ARR,Jan 10--Apr 29,L Daffin
 PSYCH,499,Special Problems,03,17926,V,ARRGT,ARR ARR,Jan 10--Apr 29,L Daffin
 SOC,101,[SSCI] Introduction to Sociology,01,17186,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SOC,245,Sociology of Sport,01,18023,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-SOC,310,Development of Social Theory,01,18245,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+SOC,310,Development of Social Theory,01,18245,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Horne
 SOC,321,Quantitative Techniques in Sociology I,01,18024,4,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SOC,332,[SSCI] Sustainability and Society,01,17152,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Kremer
 SOC,334,Medical Sociology,01,18086,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SOC,340,[DIVR] Social Inequality,01,17154,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
-SOC,350,Social Psychology,01,17210,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+SOC,350,Social Psychology,01,17210,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Lane
 SOC,351,[DIVR] The Family,01,17155,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SOC,360,Social Deviance,01,17156,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Schwartz
 SOC,361,[DIVR] Criminology,01,17157,3,ARRGT,ARR ARR,Jan 10--Apr 29,""

@@ -43,9 +43,11 @@ BSYSE,512,Research and Teaching Methods,01 Lab,16673,0,TH10.10-13,VC TRI,Jan 10-
 BSYSE,700,"Master's Research, Thesis, and/or Examination",01,15682,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 BSYSE,702,"Master's Special Problems, Directed Study and/or Examination",01,15683,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,15684,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+CE,203,Civil Engineering Computer Applications,01,15753,2,M12.10-13,GUC TRI,Jan 10--Apr 29,J Morshed
+CE,203,Civil Engineering Computer Applications,01 Lab,15754,0,M14.10-17,GUC TRI,Jan 10--Apr 29,J Morshed
 CE,215,Mechanics of Materials,01,15752,3,"TU,TH7.45-9",GUC TRI,Jan 10--Apr 29,M Hossain
 CE,321,Numerical Methods for Civil and Environmental Engineers,01,30621,2,TU13.30-14.20,GUC TRI,Jan 10--Apr 29,M Hossain
-CE,321,Numerical Methods for Civil and Environmental Engineers,01 Lab,30622,0,TH13.30-15.20,GUC TRI,Jan 10--Apr 29,M Hossain
+CE,321,Numerical Methods for Civil and Environmental Engineers,01 Lab,30622,0,TH13.30-15.20,TFLO 145,Jan 10--Apr 29,M Hossain
 CE,322,Transportation Engineering,01,15645,3,"M,W16.15-17.30",GUC TRI,Jan 10--Apr 29,D Young
 CE,351,Water Resources Engineering,01,15755,3,"TU,TH9.10-10.25",GUC TRI,Jan 10--Apr 29,Y Demissie
 CE,400,Highway Materials Engineering,01,16666,3,"TU,TH12.05-12.55",GUC TRI,Jan 10--Apr 29,M Mortuza
@@ -134,7 +136,8 @@ DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Plemons
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 E_E,221,Numerical Computing for Engineers,01,15777,2,"M,W15.10-16",GUC TRI,Jan 10--Apr 29,M Osman
 E_E,234,Microprocessor Systems,01,15778,4,"M,W16.15-17.30",GUC TRI,Jan 10--Apr 29,M Engels
-E_E,234,Microprocessor Systems,01 Lab,15779,0,TU17.45-20.35,GUC TRI,Jan 10--Apr 29,M Engels
+E_E,234,Microprocessor Systems,01 Lab,15779,0,TU17.45-20.35,TFLO 164,Jan 10--Apr 29,M Engels
+E_E,234,Microprocessor Systems,"","","",TU17.45-20.35,TFLO 161,"",""
 E_E,261,Electrical Circuits I,01,15780,3,"M,W,F13.10-14",GUC TRI,Jan 10--Apr 29,D Lowry
 E_E,262,Electrical Circuits Laboratory I,01,15781,1,TH9.10-12,GUC TRI,Jan 10--Apr 29,D Lowry
 E_E,262,Electrical Circuits Laboratory I,02,16613,1,TU12.05-14.55,GUC TRI,Jan 10--Apr 29,D Lowry
@@ -142,8 +145,8 @@ E_E,341,Signals and Systems,01,15783,3,"M,W,F12.10-13",GUC TRI,Jan 10--Apr 29,D 
 E_E,351,Distributed Parameter Systems,01,15784,3,"M,W,F15.10-16",GUC TRI,Jan 10--Apr 29,D Lowry
 E_E,361,Electrical Power Systems,01,15785,3,"TU,TH12.05-13.20",GUC TRI,Jan 10--Apr 29,M Osman
 E_E,362,Power System Laboratory I,01,15818,3,TU13.30-14.20,GUC TRI,Jan 10--Apr 29,S Hudson
-E_E,362,Power System Laboratory I,01 Lab,15819,0,TU14.25-17.15,GUC TRI,Jan 10--Apr 29,S Hudson
-E_E,362,Power System Laboratory I,02 Lab,15996,0,TH13.30-16.20,GUC TRI,Jan 10--Apr 29,S Hudson
+E_E,362,Power System Laboratory I,01 Lab,15819,0,TU14.25-17.15,TFLO 162,Jan 10--Apr 29,S Hudson
+E_E,362,Power System Laboratory I,02 Lab,15996,0,TH13.30-16.20,TFLO 162,Jan 10--Apr 29,S Hudson
 E_E,416,[CAPS] [M] Electrical Engineering Design,01,15862,3,F16.10-17,"",Jan 10--Apr 29,B Philipp
 E_E,416,[CAPS] [M] Electrical Engineering Design,01 Lab,15863,0,F13.10-16,"",Jan 10--Apr 29,B Philipp
 E_E,416,[CAPS] [M] Electrical Engineering Design,"","","",F17.10-20,"","",""
@@ -151,7 +154,7 @@ E_E,432,RF Engineering for Telecommunications,01,16801,4,"M,W17.45-19",GUC TRI,J
 E_E,432,RF Engineering for Telecommunications,01 Lab,16803,0,ARRGT,ARR ARR,Jan 10--Apr 29,S Hudson
 E_E,476,Analog Integrated Circuits,01,16796,3,"TU,TH16.20-17.35",GUC TRI,Jan 10--Apr 29,E Farquhar
 E_E,492,Renewable Energy Sources,01,15884,3,"M,W13.10-14",GUC TRI,Jan 10--Apr 29,M Osman
-E_E,492,Renewable Energy Sources,01 Lab,15885,0,"M,W14.10-15.25",GUC TRI,Jan 10--Apr 29,M Osman
+E_E,492,Renewable Energy Sources,01 Lab,15885,0,"M,W14.10-15.25",TFLO 162,Jan 10--Apr 29,M Osman
 E_E,493,Protection of Power Systems I,01,15786,3,"M,W16.15-17.30",GUC TRI,Jan 10--Apr 29,S Hudson
 E_E,495,Internship in Electrical Industry,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -244,6 +247,7 @@ HBM,358,Foodservice Systems and Control,01,16429,3,"TU,TH14.55-16.10",GUC TRI,Ja
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,02,16873,3,"TU,TH,F11.10-13",VC TRI,Jan 10--Feb 27,B Marlowe
 HBM,493,[CAPS] Food and Beverage Strategies,01,16432,3,"TU,TH10.35-11.50",VC TRI,Jan 10--Apr 29,R Harrington
 HBM,494,[M] Service Operations Management,01,16430,3,W11.10-14,GUC TRI,Jan 10--Feb 27,B Marlowe
+HBM,496,Special Topics,01,"",3,ARRGT,ARR ARR,Feb 14--Mar 25,D Jha
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,15649,3,"M,W,F9.10-10",GUC TRI,Jan 10--Apr 29,R Franklin
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,15938,3,"TU,TH9.10-10.25",GUC TRI,Jan 10--Apr 29,T Hanshew
 HISTORY,111,[HUM] American History Since 1877,01,15650,3,"M,W,F10.10-11",GUC TRI,Jan 10--Apr 29,R Franklin
@@ -317,17 +321,21 @@ ME,241,Engineering Computations,01,30648,3,"TU,TH13.30-14.45",GUC TRI,Jan 10--Ap
 ME,301,Fundamentals of Thermodynamics,01,15794,3,"TU,TH10.35-11.50",GUC TRI,Jan 10--Apr 29,M Saad
 ME,304,Heat Transfer,01,15799,3,"M,W16.15-17.30",GUC TRI,Jan 10--Apr 29,Y Zhang
 ME,306,Thermal and Fluids Laboratory,01,15795,2,M9.10-10,GUC TRI,Jan 10--Apr 29,Y Zhang
-ME,306,Thermal and Fluids Laboratory,01 Lab,15796,0,M10.10-13,GUC TRI,Jan 10--Apr 29,Y Zhang
-ME,306,Thermal and Fluids Laboratory,02 Lab,15985,0,W10.10-13,GUC TRI,Jan 10--Apr 29,Y Zhang
+ME,306,Thermal and Fluids Laboratory,01 Lab,15796,0,M10.10-13,TFLO 165,Jan 10--Apr 29,Y Zhang
+ME,306,Thermal and Fluids Laboratory,"","","",M10.10-13,TFLO 114,"",""
+ME,306,Thermal and Fluids Laboratory,02 Lab,15985,0,W10.10-13,TFLO 165,Jan 10--Apr 29,Y Zhang
+ME,306,Thermal and Fluids Laboratory,"","","",W10.10-13,TFLO 114,"",""
 ME,312,Manufacturing Engineering,01,16963,3,"TU,TH12.05-12.55",GUC TRI,Jan 10--Apr 29,C Yang
-ME,312,Manufacturing Engineering,01 Lab,16964,0,F9.10-12,GUC TRI,Jan 10--Apr 29,C Yang
-ME,312,Manufacturing Engineering,02 Lab,16965,0,TH9.10-12,GUC TRI,Jan 10--Apr 29,C Yang
-ME,312,Manufacturing Engineering,03 Lab,16966,0,W9.10-12,GUC TRI,Jan 10--Apr 29,C Yang
+ME,312,Manufacturing Engineering,01 Lab,16964,0,F9.10-12,TFLO 115,Jan 10--Apr 29,C Yang
+ME,312,Manufacturing Engineering,"","","",F9.10-12,TFLO 114,"",""
+ME,312,Manufacturing Engineering,02 Lab,16965,0,TH9.10-12,TFLO 115,Jan 10--Apr 29,C Yang
+ME,312,Manufacturing Engineering,"","","",TH9.10-12,TFLO 114,"",""
+ME,312,Manufacturing Engineering,03 Lab,16966,0,W9.10-12,TFLO 115,Jan 10--Apr 29,C Yang
+ME,312,Manufacturing Engineering,"","","",W9.10-12,TFLO 114,"",""
 ME,348,Dynamics Systems,01,15798,3,"TU,TH7.45-9",GUC TRI,Jan 10--Apr 29,J Iannelli
 ME,406,[M] Experimental Design,01,15800,3,M13.10-14,GUC TRI,Jan 10--Apr 29,C Yang
-ME,406,[M] Experimental Design,01 Lab,15801,0,"M,W14.10-17",GUC TRI,Jan 10--Apr 29,C Yang
-ME,406,[M] Experimental Design,"","","","M,W14.10-17","","",""
-ME,406,[M] Experimental Design,"","","","M,W14.10-17","","",""
+ME,406,[M] Experimental Design,01 Lab,15801,0,"M,W14.10-17",TFLO 165,Jan 10--Apr 29,C Yang
+ME,406,[M] Experimental Design,"","","","M,W14.10-17",TFLO 114,"",""
 ME,413,Mechanical Behavior of Materials,01,30633,3,"M,W,F12.10-13",GUC TRI,Jan 10--Apr 29,Z Melgarejo-Pinto
 ME,416,[CAPS] Mechanical Systems Design,01,15802,3,F16.10-17,GUC TRI,Jan 10--Apr 29,C Mo
 ME,416,[CAPS] Mechanical Systems Design,01 Lab,15803,0,F13.10-16,GUC TRI,Jan 10--Apr 29,C Mo
@@ -359,7 +367,7 @@ MIT,507,Teacher Inquiry and Praxis,01,16484,3,W17.15-20,GUC TRI,Jan 10--Apr 29,J
 MIT,535,Integrating Fine Arts into K-8 Curriculum,01,15932,2,TU17.15-18.55,TCOL 114,Jan 10--Apr 29,Y Cooper
 MIT,571,Pre-internship and Seminar,01,16481,2,ARRGT,ARR ARR,Jan 10--Apr 29,J Morrison
 MIT,571,Pre-internship and Seminar,01 Lab,16577,0,ARRGT,ARR ARR,Jan 10--Apr 29,J Morrison
-MIT,575,Internship and Seminar,01,16482,10,M16-17.30,GUC TRI,Jan 10--Apr 29,J Mancinelli
+MIT,575,Internship and Seminar,01,16482,10,M16.10-17.40,GUC TRI,Jan 10--Apr 29,J Mancinelli
 MIT,575,Internship and Seminar,01 Lab,16592,0,ARRGT,ARR ARR,Jan 10--Apr 29,J Mancinelli
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,16483,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 MKTG,360,Marketing,01,15680,3,"TU,TH17.45-19",GUC TRI,Jan 10--Apr 29,R Hammond
@@ -604,6 +612,8 @@ STAT,360,Probability and Statistics,01,15737,3,"M,W,F13.10-14",GUC TRI,Jan 10--A
 STAT,437,High Dimensional Data Learning and Visualization,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,X Chen
 STAT,511,Statistical Methods for Graduate Researchers,01,16787,4,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,""
 STAT,511,Statistical Methods for Graduate Researchers,01 Lab,16788,0,W15.10-17,VC TRI,Jan 10--Apr 29,""
+UNIV,497,Peer Leadership,02,"",1,TU17.10-18,VC TRI,Jan 10--Apr 29,A Guy
+UNIV,497,Peer Leadership,03,"",1,TH17.10-18,VC TRI,Jan 10--Apr 29,A Guy
 VIT_ENOL,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Snider
 VIT_ENOL,413,Advanced Viticulture,01,15670,3,"TU,TH10.35-11.50",VC TRI,Jan 10--Apr 29,B Bondada
 VIT_ENOL,422,Sensory Evaluation of Food and Wine,01,15792,3,"M,W,F9.10-10",VC TRI,Jan 10--Apr 29,""
