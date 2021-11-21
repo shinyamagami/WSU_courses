@@ -872,7 +872,7 @@ CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH14.10-17,FLMA 321,"",""
 CHEM,105,[PSCI] Principles of Chemistry I,34 Lab,01095,0,TH13.10-14,ARR ARR,Aug 23--Dec 10,""
 CHEM,105,[PSCI] Principles of Chemistry I,"","","",TH14.10-17,FLMA 324,"",""
 CHEM,106,Principles of Chemistry II,01,01096,4,"M,W,F10.10-11",FLMA 226,Aug 23--Dec 10,P Buckley
-CHEM,106,Principles of Chemistry II,02,01171,4,"M,W,F12.10-13",FLMA 226,Aug 23--Dec 10,""
+CHEM,106,Principles of Chemistry II,02,01171,4,"M,W,F12.10-13",FLMA 226,Aug 23--Dec 10,A Li
 CHEM,106,Principles of Chemistry II,01 Lab,01097,0,TU8.10-9,FLMA 327,Aug 23--Dec 10,""
 CHEM,106,Principles of Chemistry II,"","","",TU9.10-11,FLMA 327,"",""
 CHEM,106,Principles of Chemistry II,02 Lab,01098,0,TU11.30-12.20,FLMA 327,Aug 23--Dec 10,""
@@ -1335,10 +1335,6 @@ CROP_SCI,505,Advanced Classical and Molecular Breeding,01,04311,3,"TU,TH9.10-10.
 CROP_SCI,505,Advanced Classical and Molecular Breeding,02,04312,3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,M Pumphrey
 CROP_SCI,505,Advanced Classical and Molecular Breeding,03,04313,3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,M Pumphrey
 CROP_SCI,505,Advanced Classical and Molecular Breeding,04,05838,3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,M Pumphrey
-CROP_SCI,506,Research Presentations,01,07398,2,W15.10-17.40,"",Aug 23--Dec 10,C Perillo
-CROP_SCI,506,Research Presentations,02,07399,2,W15.10-17.40,"",Aug 23--Dec 10,C Perillo
-CROP_SCI,506,Research Presentations,03,07400,2,W15.10-17.40,"",Aug 23--Dec 10,C Perillo
-CROP_SCI,506,Research Presentations,04,07401,2,W15.10-17.40,"",Aug 23--Dec 10,C Perillo
 CROP_SCI,510,Seminar,01,"",1,M13.10-14,JSNH 343,Aug 23--Dec 10,""
 CROP_SCI,510,Seminar,02,"",1,M13.10-14,VC ARR,Aug 23--Dec 10,""
 CROP_SCI,510,Seminar,03,"",1,M13.10-14,VC ARR,Aug 23--Dec 10,""
@@ -3552,7 +3548,7 @@ NEUROSCI,305,"Neurons, Genes, and Behavior",01,03392,3,"TU,TH9.10-10.25",TODD 40
 NEUROSCI,430,[M] Principles of Neurophysiology,01,04635,4,"TU,TH10.35-11.50",WEBS 11,Aug 23--Dec 10,J Peters
 NEUROSCI,430,[M] Principles of Neurophysiology,01 Lab,04636,0,TH14.10-17,MCOY 201N,Aug 23--Dec 10,J Peters
 NEUROSCI,430,[M] Principles of Neurophysiology,02 Lab,05625,0,F9.10-12,MCOY 201N,Aug 23--Dec 10,J Peters
-NEUROSCI,430,[M] Principles of Neurophysiology,03 Lab,05903,0,F14.10-17,MCOY 201N,Aug 23--Dec 10,J Peters
+NEUROSCI,430,[M] Principles of Neurophysiology,03 Lab,05903,0,F14.10-17,MCOY 201N,Aug 23--Dec 10,""
 NEUROSCI,450,Honors Thesis Research,01,"",V,ARRGT,"",Aug 23--Dec 10,(multiple)
 NEUROSCI,491,Senior Project-Poster,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,S Gizerian
 NEUROSCI,495,Directed Research,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -4150,8 +4146,6 @@ SOIL_SCI,368,Introduction to Geographic Information Systems,03 Lab,04368,0,TH10.
 SOIL_SCI,368,Introduction to Geographic Information Systems,04 Lab,04369,0,ARRGT,ARR ARR,Aug 23--Dec 10,L Brueggeman
 SOIL_SCI,443,[M] Soil Management for Sustainable and Organic Farming Systems,01,06431,3,"M,W,F11.10-12",VPBS 35,Aug 23--Dec 10,L Carpenter-Boggs
 SOIL_SCI,443,[M] Soil Management for Sustainable and Organic Farming Systems,02,"",3,ARRGT,ARR ARR,Aug 23--Dec 10,L Carpenter-Boggs
-SOIL_SCI,452,The Landscape of Soil,01,08089,3,"TU,TH9.10-10","",Aug 23--Dec 10,C Perillo
-SOIL_SCI,452,The Landscape of Soil,01 Lab,08090,0,TU12.10-14.45,"",Aug 23--Dec 10,C Perillo
 SOIL_SCI,479,Organic Farm and Garden Field Management,01,05647,2,ARRGT,ARR ARR,Aug 23--Dec 10,B Jaeckel
 SOIL_SCI,480,Practicum in Organic Agriculture,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,B Jaeckel
 SOIL_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,J Blauer
@@ -4165,8 +4159,6 @@ SOIL_SCI,501,Seminar,05,"",1,M13.10-14,VC ARR,Aug 23--Dec 10,""
 SOIL_SCI,502,Advanced Topics in Soils,01,04377,1,ARRGT,ARR ARR,Aug 23--Dec 10,P Jacoby
 SOIL_SCI,503,Advanced Topics in Soil Analysis,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,M Flury
 SOIL_SCI,505,Teaching Practicum,01,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,M Flury
-SOIL_SCI,506,Research Presentations,02,07403,2,W15.10-17.40,"",Aug 23--Dec 10,C Perillo
-SOIL_SCI,506,Research Presentations,04,07405,2,W15.10-17.40,"",Aug 23--Dec 10,C Perillo
 SOIL_SCI,513,Environmental Soil Physics,01,06396,3,"TU,TH9.10-10.25",JSNH 398,Aug 23--Dec 10,M Flury
 SOIL_SCI,513,Environmental Soil Physics,02,06397,3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,M Flury
 SOIL_SCI,513,Environmental Soil Physics,03,06398,3,"TU,TH9.10-10.25",VC ARR,Aug 23--Dec 10,M Flury

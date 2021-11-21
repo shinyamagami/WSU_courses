@@ -1,8 +1,10 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 ACCTG,230,Introduction to Financial Accounting,01,28579,3,ARRGT,ARR ARR,Mar 07--May 01,N Pearson
 AFS,350,Food Systems in Western Washington,01,30873,3,"M,W,F12.10-13","",Jan 10--Apr 29,D Griffin
+AFS,401,[CAPS] Advanced Systems Analysis and Design in Agricultural and Food Systems,01,29177,3,"TU,TH13.30-14.45","",Jan 10--Apr 29,H Henning
 B_A,100,Introduction to Business,01,29066,3,ARRGT,ARR ARR,Mar 07--May 01,C Cooney
 B_A,102,Exploring Careers in Business,02,29067,1,ARRGT,ARR ARR,Jan 10--Feb 27,S Billington
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,29318,3,"TU,TH13.30-14.45","",Jan 10--Apr 29,Y He
 B_LAW,210,Law and the Legal Environment of Business,01,28603,3,ARRGT,ARR ARR,Jan 10--Feb 27,S Bergstedt
 COM,101,[SSCI] Media and Society,01,28545,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,28631,3,ARRGT,ARR ARR,Jan 10--Apr 29,I Haider
@@ -32,7 +34,6 @@ COMSTRAT,485,[M] Public Relations Management and Campaigns,02,30680,3,"TU,TH10.3
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 CPT_S,215,Data Analytics Systems and Algorithms,02,"",3,"M,W,F11.10-12","",Jan 10--Apr 29,S Badri
 CPT_S,233,Advanced Data Structures Java,01,28607,3,"TU,TH14.55-16.10","",Jan 10--Apr 29,J Yu
-CPT_S,315,Introduction to Data Mining,01,"",3,"TU,TH9.10-10.25","",Jan 10--Apr 29,V Doppa
 CPT_S,317,Automata and Formal Languages,01,28776,3,"M,W,F10.10-11","",Jan 10--Apr 29,J Thompson
 CPT_S,321,Object-Oriented Software Principles,01,28610,3,"M,W,F9.10-10","",Jan 10--Apr 29,V Arnaoudova
 CPT_S,322,[M] Software Engineering Principles I,01,28611,3,"TU,TH13.30-14.45","",Jan 10--Apr 29,B Zeng
@@ -43,18 +44,20 @@ CPT_S,423,[CAPS] Software Design Project II,01,29000,3,"M,W,F16.10-17","",Jan 10
 CPT_S,423,[CAPS] Software Design Project II,01 Lab,29041,0,ARRGT,ARR ARR,Jan 10--Apr 29,B Zeng
 CPT_S,427,Computer Security,01,29374,3,"M,W,F12.10-13","",Jan 10--Apr 29,W Hutton
 CPT_S,434,Neural Network Design and Application,01,29387,3,"M,W,F14.10-15","",Jan 10--Apr 29,Y Yan
-CPT_S,451,Introduction to Database Systems,02,28999,3,"TU,TH14.55-16.10","",Jan 10--Apr 29,S Arslan Ay
+CPT_S,451,Introduction to Database Systems,02,28999,3,"TU,TH12.05-13.20","",Jan 10--Apr 29,S Arslan Ay
 CPT_S,483,Topics in Computer Science,01,30874,V,"TU,TH14.55-16.10","",Jan 10--Apr 29,A Sukumaran Rajam
 CPT_S,487,Software Design and Architecture,02,28984,3,"TU,TH12.05-13.20","",Jan 10--Apr 29,B Zeng
 CPT_S,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 CROP_SCI,102,Introduction to Cultivated Plants,01,28831,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
+CROP_SCI,202,Crop Growth and Development,01,29156,4,"M,W,F9.10-10","",Jan 10--Apr 29,M Pumphrey
+CROP_SCI,202,Crop Growth and Development,04 Lab,29401,0,M13.30-16,"",Jan 10--Apr 29,""
 CROP_SCI,360,World Agricultural Systems,01,28796,3,ARRGT,ARR ARR,Jan 10--Apr 29,P Jacoby
 CROP_SCI,412,Seminar,01,"",1,M16.30-17.20,"",Jan 10--Apr 29,P Jacoby
 DATA,115,Introduction to Data Analytics,02,29058,3,"M,W,F11.10-12","",Jan 10--Apr 29,S Lapin
 DATA,390,Special Topics I,01,30402,V,ARRGT,ARR ARR,Jan 10--Apr 29,S Lapin
 DATA,424,[CAPS] [M] Data Analytics Capstone,02,29146,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Crate
 DATA,498,Internship,01,30698,V,ARRGT,ARR ARR,Jan 10--Apr 29,S Lapin
-E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
+E_A,300,Educ Abroad,02,30979,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 E_E,234,Microprocessor Systems,01,28562,4,"M,W11.10-12.25","",Jan 10--Apr 29,J Murray
 E_E,234,Microprocessor Systems,01 Lab,28577,0,F10.10-13,ARR ARR,Jan 10--Apr 29,J Murray
@@ -74,12 +77,25 @@ ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,"",3,ARRGT,ARR ARR,Jan 10--Ap
 ECONS,305,Intermediate Microeconomics without Calculus,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,S Patil
 ECONS,351,Introduction to Food and Agricultural Markets,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,Y Zhang
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,14,28975,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Staggers
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,16,29393,3,M12.10-13.50,"",Jan 10--Apr 29,R Mays
 ENGR,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ENGR,489,Professional Practice Coop/Internship II,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,S Brabb
 ENTOM,351,Ecological and Integrated Pest Management,01,28772,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Felsot
 ENTOM,351,Ecological and Integrated Pest Management,02,29019,3,"TU,TH12.05-13.20","",Jan 10--Apr 29,A Felsot
+FIN,325,Introduction to Financial Management,02,28696,3,ARRGT,ARR ARR,Jan 10--Feb 27,D Fairhurst
 HBM,101,Professional and Career Development for the Business World,02,29093,1,ARRGT,ARR ARR,Jan 10--Feb 27,A Alonzo
+HBM,280,Hospitality Systems,02,28799,3,ARRGT,ARR ARR,Mar 07--May 01,K Philander
+HBM,358,Foodservice Systems and Control,01,28683,3,TU13.30-16.20,"",Mar 07--May 01,S Seo
+HBM,375,Introduction to Senior Living Management,01,28684,3,TU16.30-19,"",Jan 10--Feb 27,N Swanger
+HBM,381,[M] Hospitality Leadership and Organizational Behavior,02,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,K Philander
+HBM,383,Meeting and Convention Management,01,29314,3,ARRGT,ARR ARR,Jan 10--Feb 27,A Senter
+HBM,470,Living Management Operations Analysis,01,30466,3,ARRGT,ARR ARR,Jan 10--Feb 27,C Wolfenbarger
+HBM,475,[CAPS] Senior Living Management Capstone,01,30578,3,ARRGT,ARR ARR,Mar 07--May 01,""
+HBM,491,Operational Analysis,01,28593,3,TH16.20-19.10,"",Mar 07--May 01,M Chen
+HBM,494,[M] Service Operations Management,01,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,K Philander
+HBM,494,[M] Service Operations Management,03,29382,3,TH13.30-16.20,"",Mar 07--May 01,M Beattie
 HBM,495,[CAPS] Case Studies and Research,01,28758,3,"M,W14.55-16.10","",Jan 10--Apr 29,J Sandstrom
+HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,""
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,28583,3,ARRGT,ARR ARR,Jan 10--Apr 29,B Miller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,29139,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Weller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,29140,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Booth
@@ -104,20 +120,26 @@ ME,406,[M] Experimental Design,02 Lab,28567,0,TU12.10-15,"",Jan 10--Apr 29,""
 ME,406,[M] Experimental Design,"","","",F11.10-14,"","",""
 ME,416,[CAPS] Mechanical Systems Design,01,28561,3,W9.10-10,"",Jan 10--Apr 29,X Bi
 ME,416,[CAPS] Mechanical Systems Design,01 Lab,28576,0,"M,W10.10-13","",Jan 10--Apr 29,X Bi
-ME,439,Applied Aerodynamics,01,28540,3,"M,W,F15.10-16","",Jan 10--Apr 29,""
+ME,439,Applied Aerodynamics,01,28540,3,"M,W,F15.10-16","",Jan 10--Apr 29,G Taub
 ME,462,Introduction to Nuclear Engineering II,01,29030,3,"TU,TH16.20-17.35","",Jan 10--Apr 29,N Carstens
 ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+MGMT,455,Recruiting and Hiring Human Capital,01,29016,3,ARRGT,ARR ARR,Jan 10--Feb 27,W Larson
+MGMT,456,[M] Evaluating and Rewarding Employees,01,29017,3,ARRGT,ARR ARR,Mar 07--May 01,W Larson
+MGMT,485,[M] Negotiation Skills,01,30973,3,W15-17.50,GUC EVE,Jan 10--Apr 29,J Gladstone
+MGMT,496,Seminar,01,29412,3,M15-17.50,GUC EVE,Jan 10--Apr 29,J Gladstone
 MGTOP,470,Business Modeling with Spreadsheets,01,30923,3,TU18-20.45,"",Jan 10--Apr 29,T Larson
 MIS,250,Managing Information Technology,01,28679,3,ARRGT,ARR ARR,Mar 07--May 01,""
-MIS,322,[M] Enterprise Business Process Analysis,01,30471,3,ARRGT,ARR ARR,Jan 10--Feb 27,C Haskell
+MIS,322,[M] Enterprise Business Process Analysis,01,30471,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Barnett
 MIS,420,Business Intelligence,01,28966,3,ARRGT,ARR ARR,Mar 07--May 01,M Featherman
-MSE,404,Engineering Composites,01,28541,3,"M,W,F14.10-15","",Jan 10--Apr 29,""
+MIS,441,Global E-Commerce,01,30972,3,"M,W13.30-14.45",GUC EVE,Jan 10--Apr 29,J Gladstone
+MKTG,360,Marketing,04,29555,3,TH10.30-13,"",Jan 10--Apr 29,S Seo
+MSE,404,Engineering Composites,01,28541,3,"M,W,F14.10-15","",Jan 10--Apr 29,J Zhang
 PHIL,450,Data Analytics Ethics,01,28749,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Glazebrook
 PL_P,501,Biology and Control of Plant Diseases,01,28839,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PL_P,501,Biology and Control of Plant Diseases,01 Lab,28840,0,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SOE,300,Natural Resource Ecology,01,29326,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Woodley
 SOIL_SCI,302,[M] Introduction to Agroecology,01,28851,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Murphy
-SOIL_SCI,303,Organic and Sustainable Agricultural Certifications: From Principles to Practice,01,30858,2,"TU,TH14.55-15.45","",Jan 10--Apr 29,G Lahue
+SOIL_SCI,303,Organic and Sustainable Agricultural Certifications: From Principles to Practice,01,30858,2,"TU,TH14.55-15.45",VC ARR,Jan 10--Apr 29,G Lahue
 SOIL_SCI,360,World Agricultural Systems,01,28798,3,ARRGT,ARR ARR,Jan 10--Apr 29,P Jacoby
 SOIL_SCI,441,Soil Fertility,01,28880,3,ARRGT,ARR ARR,Jan 10--Apr 29,I Madsen
 SOIL_SCI,478,Advanced Organic Farming and Gardening,01,28881,2,ARRGT,ARR ARR,Jan 10--Apr 29,B Jaeckel
