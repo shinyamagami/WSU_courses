@@ -5,7 +5,6 @@ ACCTG,231,Introduction to Managerial Accounting,02,25911,3,"TU,TH13.30-14.45",VM
 ACCTG,330,Intermediate Accounting I,01,25873,3,"TU,TH10.35-11.50",WEB ARR,Jan 10--Apr 29,C Latham
 ACCTG,331,Intermediate Accounting II,01,25874,3,"TU,TH10.35-11.50",VMMC 16,Jan 10--Apr 29,L Xu
 ACCTG,338,Cost Accounting,01,25875,3,"TU,TH16.20-17.35",VMMC 16,Jan 10--Apr 29,L Xu
-ACCTG,435,Individual Income Taxes,01,27048,3,"TU,TH17.45-19",VMMC 214,Jan 10--Apr 29,""
 ACCTG,439,[M] Auditing,01,25906,3,"TU,TH13.30-14.45",WEB ARR,Jan 10--Apr 29,C Latham
 AERO,102,Heritage and Values II,01,30059,1,TU10-11.30,ARR ARR,Jan 10--Apr 29,""
 AERO,102,Heritage and Values II,02,30060,1,TU14-15.30,ARR ARR,Jan 10--Apr 29,""
@@ -21,10 +20,10 @@ AERO,413,Leadership Laboratory IV,01,30069,2,TU16.10-18.10,ARR ARR,Jan 10--Apr 2
 ANTH,101,[DIVR] Introduction to Anthropology,01,26097,3,"M,W9.10-10.10",VLIB 201,Jan 10--Apr 29,N Hess
 ANTH,201,[HUM] Art and Society,01,27228,3,"W,F14.55-15.45",VLIB 201,Jan 10--Apr 29,K Dhawan
 ANTH,203,[DIVR] Global Cultural Diversity,01,26113,3,"M,W14.55-16.10",VLIB 261,Jan 10--Apr 29,J Fancher
-ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures",01,26198,3,M11.10-14,"",Jan 10--Jan 10,B Hewlett
-ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures","","","",M11.10-14,"","",""
-ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures","","","",M11.10-14,"","",""
-ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures","","","",M11.10-14,"","",""
+ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures",01,26198,3,M11.10-14,VUB 124,Jan 10--Jan 10,B Hewlett
+ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures","","","",M11.10-14,VUB 124,"",""
+ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures","","","",M11.10-14,VUB 124,"",""
+ANTH,205,"[SSCI] Health, Healing, and Medicine Across Cultures","","","",M11.10-14,VUB 124,"",""
 ANTH,230,Archaeological Methods and Interpretation,01,26042,3,"TU,TH10.35-11.50",VLIB 265,Jan 10--Apr 29,C Grier
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01,26054,4,"TU,TH9.10-10.25",VMMC 217,Jan 10--Apr 29,E Hagen
 ANTH,260,[BSCI] Introduction to Biological Anthropology,01 Lab,26055,0,TU14.55-17.35,VUB 226,Jan 10--Apr 29,""
@@ -47,9 +46,9 @@ ANTH,350,"[DIVR] Speech, Thought, and Culture","","","",F14.55-16.10,VLIB 261,""
 ANTH,350,"[DIVR] Speech, Thought, and Culture","","","",F14.55-16.10,VLIB 261,"",""
 ANTH,381,[BSCI] Primate Behavioral Ecology,01,26192,3,F9.10-10,VLIB 260,Jan 10--Apr 29,N Hess
 ANTH,490,[CAPS] [M] Integrative Themes in Anthropology,01,27227,3,"TU,TH13.30-14.45",VLIB 260,Jan 10--Apr 29,C Grier
-ANTH,547,Models and Simulation,01,30729,3,TU9.10-11.40,VC VAN,Jan 10--Apr 29,L Premo
-ANTH,561,Current Trends in Evolutionary Anthropology,01,30127,3,W9.10-11.40,VC VAN,Jan 10--Apr 29,E Hagen
-ANTH,591,Special Topics in Anthropology,01,"",3,M17-19.30,VC VAN,Jan 10--Apr 29,J Cassaniti
+ANTH,547,Models and Simulation,01,30729,3,TU9.10-11.40,VMMC 204,Jan 10--Apr 29,L Premo
+ANTH,561,Current Trends in Evolutionary Anthropology,01,30127,3,W9.10-11.40,VC ARR,Jan 10--Apr 29,E Hagen
+ANTH,591,Special Topics in Anthropology,01,"",3,M17-19.30,VECS 309,Jan 10--Apr 29,J Cassaniti
 ANTH,700,"Master's Research, Thesis, and/or Examination",01,27395,V,ARRGT,ARR ARR,Jan 10--Apr 29,E Hagen
 ANTH,800,"Doctoral Research, Dissertation, and/or Examination",01,26045,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ASTRONOM,135,[PSCI] Astronomy,01,25976,4,"M,W17.45-19",VUB 125,Jan 10--Apr 29,J Vazquez-Bello
@@ -72,7 +71,8 @@ BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,02 Lab,26394,
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,04 Lab,26395,0,W7.45-10.25,VSCI 109,Jan 10--Apr 29,""
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,05 Lab,26396,0,W13.30-16.10,VSCI 109,Jan 10--Apr 29,""
 BIOLOGY,111,[BSCI] Laboratory Experiments in Biology and Genetics,01,26073,1,M9.10-11.50,VSCI 101,Jan 10--Apr 29,G Gakhar
-BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,26065,3,"W,F9.10-10.25",VUB 125,Jan 10--Apr 29,""
+BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,26065,3,W9.10-10.25,VUB 125,Jan 10--Apr 29,""
+BIOLOGY,140,[BSCI] Introduction to Nutritional Science,"","","",F9.10-10.25,WEB ARR,"",""
 BIOLOGY,220,Medical Terminology,01,30732,2,"M,W9.10-10",VLIB 265,Jan 10--Apr 29,V Alla
 BIOLOGY,308,[BSCI] Marine Biology,01,26633,3,"TU,TH14.55-16.10",VMMC 6,Jan 10--Apr 29,K Turner
 BIOLOGY,322,[M] Invertebrate Biology,01,26634,4,"W,F10.35-11.50",VUB 124,Jan 10--Apr 29,M Berger
@@ -87,26 +87,26 @@ BIOLOGY,372,[M] General Ecology,01 Lab,26094,0,TH7.45-10.25,VSCI 109,Jan 10--Apr
 BIOLOGY,372,[M] General Ecology,02 Lab,26095,0,TH12.05-14.45,VSCI 109,Jan 10--Apr 29,""
 BIOLOGY,372,[M] General Ecology,03 Lab,26133,0,TH14.55-17.35,VSCI 109,Jan 10--Apr 29,""
 BIOLOGY,372,[M] General Ecology,04 Lab,26134,0,F9.10-11.50,VSCI 109,Jan 10--Apr 29,""
-BIOLOGY,446,Mutualism and Symbiosis,01,26879,3,"M,W9.10-10.25",VC VAN,Jan 10--Apr 29,S Porter
+BIOLOGY,446,Mutualism and Symbiosis,01,26879,3,"M,W9.10-10.25",VECS 125,Jan 10--Apr 29,""
 BIOLOGY,473,[CAPS] [M] Evolution and Society,01,30564,3,"TU,TH12.05-13.20",VSCI 19,Jan 10--Apr 29,S Rudman
-BIOLOGY,475,Systems Biology of Reproduction,01,26594,3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,M Skinner
+BIOLOGY,475,Systems Biology of Reproduction,01,26594,3,"TU,TH10.35-11.50",VSCI 240,Jan 10--Apr 29,M Skinner
 BIOLOGY,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 BIOLOGY,500,Seminar,01,26809,1,ARRGT,ARR ARR,Jan 10--Apr 29,C Schultz
 BIOLOGY,500,Seminar,02,26810,1,ARRGT,ARR ARR,Jan 10--Apr 29,""
 BIOLOGY,501,Proposal Defense Seminar,01,26811,2,ARRGT,ARR ARR,Jan 10--Apr 29,""
-BIOLOGY,517,Stress Physiology of Plants,01,30585,3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,H Hellmann
-BIOLOGY,521,Quantitative Genetics,01,30586,3,"TU,TH13.30-14.45",VC VAN,Jan 10--Apr 29,P Carter
-BIOLOGY,546,Mutualism and Symbiosis,01,26880,3,"M,W9.10-10.25",VC VAN,Jan 10--Apr 29,S Porter
-BIOLOGY,575,Systems Biology of Reproduction,01,26595,3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,M Skinner
-BIOLOGY,582,Professional Communication in Biology - Grant Writing,01,"",2,M10.30-12.30,VC VAN,Jan 10--Apr 29,A Cousins
-BIOLOGY,589,Advanced Topics in Biology,01,"",2,W13.10-15,VC VAN,Jan 10--Apr 29,E Roalson
+BIOLOGY,517,Stress Physiology of Plants,01,30585,3,"TU,TH10.35-11.50",VMMC 202Q,Jan 10--Apr 29,H Hellmann
+BIOLOGY,521,Quantitative Genetics,01,30586,3,"TU,TH13.30-14.45",VMMC 102Q,Jan 10--Apr 29,P Carter
+BIOLOGY,546,Mutualism and Symbiosis,01,26880,3,"M,W9.10-10.25",VECS 125,Jan 10--Apr 29,""
+BIOLOGY,575,Systems Biology of Reproduction,01,26595,3,"TU,TH10.35-11.50",VSCI 240,Jan 10--Apr 29,M Skinner
+BIOLOGY,582,Professional Communication in Biology - Grant Writing,01,"",2,M10.30-12.30,VECS 120,Jan 10--Apr 29,A Cousins
+BIOLOGY,589,Advanced Topics in Biology,01,"",2,W13.10-15,VMMC 102Q,Jan 10--Apr 29,E Roalson
 BIOLOGY,600,Special Projects or Independent Study,01,30971,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Padowski
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,26058,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,26059,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-CES,151,[HUM] Introduction to Chicano/Latino Studies,01,30167,3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,T Carrasco
+CES,151,[HUM] Introduction to Chicano/Latino Studies,01,30167,3,"TU,TH10.35-11.50",VECS 120,Jan 10--Apr 29,T Carrasco
 CES,220,[HUM] Introduction to Multicultural Literature,01,27277,3,"M,W13.30-14.45",VMMC 219,Jan 10--Apr 29,R Tanvir
-CES,373,[M] Native American Literature,01,27281,3,M17.45-20.30,VC VAN,Jan 10--Apr 29,J Ankney
+CES,373,[M] Native American Literature,01,27281,3,M17.45-20.30,VECS 125,Jan 10--Apr 29,J Ankney
 CHEM,105,[PSCI] Principles of Chemistry I,01,26149,4,"TU,TH13.30-14.45",VUB 1,Jan 10--Apr 29,""
 CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,26150,0,TU14.55-17.35,VCLS 50,Jan 10--Apr 29,""
 CHEM,105,[PSCI] Principles of Chemistry I,02 Lab,26257,0,TU17.45-20.25,VCLS 50,Jan 10--Apr 29,""
@@ -120,7 +120,6 @@ CHEM,106,Principles of Chemistry II,06 Lab,30071,0,F12.05-14.45,VCLS 50,Jan 10--
 CHEM,191,Independent Study in Modern Chemistry,01,26111,1,TH16.20-17.10,VSCI 19,Jan 10--Apr 29,""
 CHEM,348,Organic Chemistry II and Problem Solving,01,26021,4,"TU,TH12.05-13.20",VMMC 217,Jan 10--Apr 29,E Valente
 CHEM,348,Organic Chemistry II and Problem Solving,01 Lab,26022,0,TU14.55-16.35,VSCI 19,Jan 10--Apr 29,""
-CHEM,348,Organic Chemistry II and Problem Solving,02 Lab,26023,0,TU17.45-19.25,VSCI 19,Jan 10--Apr 29,""
 CHINESE,121,[HUM] Modern Chinese Culture,01,26119,3,"TU,TH13.30-14.45",WEB ARR,Jan 10--Apr 29,W Zheng
 CHINESE,322,[DIVR] Ecology in East Asian Cultures,01,30457,3,"M,W14.55-16.10",VMMC 217,Jan 10--Apr 29,X Wang
 COM,101,[SSCI] Media and Society,01,26707,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Taflinger
@@ -139,6 +138,7 @@ COM,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,N Iyer
 COMHLTH,573,Communicating Health in a Digital Landscape,02,27047,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Thomas
 COMJOUR,333,[M] Reporting Across Platforms,01,26473,3,"M,W10.35-11.50",VUB 222,Jan 10--Apr 29,L Reed
 COMSTRAT,310,Digital Content Promotion,01,26479,3,"TU,TH10.35-11.50",VUB 222,Jan 10--Apr 29,N Iyer
+COMSTRAT,475,Strategic Communication Seminar in Public Relations,04,"",3,"TU,TH14.55-16.10",VC ARR,Jan 10--Apr 29,C Thomas
 COMSTRAT,476,Consumer Insights and Branding,01,26468,3,"TU,TH14.55-16.10",VMMC 219,Jan 10--Apr 29,C Welch
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,27244,3,"TU,TH12.05-13.20",VUB 124,Jan 10--Apr 29,C Welch
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,N Iyer
@@ -153,7 +153,7 @@ CS,122,Data Structures,01 Lab,26398,0,M12.05-14.35,VECS 325,Jan 10--Apr 29,S Wal
 CS,122,Data Structures,02 Lab,26399,0,TU13.30-16,VECS 325,Jan 10--Apr 29,S Wallace
 CS,122,Data Structures,03 Lab,26400,0,W12.05-14.35,VECS 325,Jan 10--Apr 29,S Wallace
 CS,166,Discrete Mathematics,01,26481,3,"TU,TH12.05-13.20",WEB ARR,Jan 10--Apr 29,M Bozorgi
-CS,215,Data Analytics Systems and Algorithms,02,"",3,"M,W,F11.10-12",VC VAN,Jan 10--Apr 29,S Badri
+CS,215,Data Analytics Systems and Algorithms,02,"",3,"M,W,F11.10-12",VECS 209,Jan 10--Apr 29,S Badri
 CS,224,Programming Tools,01,26401,3,"M,W10.35-11.50",VSCI 255,Jan 10--Apr 29,P Bonamy
 CS,251,C Programming for Engineers,01,26402,4,"TU,TH16.20-17.35",VECS 104,Jan 10--Apr 29,""
 CS,251,C Programming for Engineers,01 Lab,26403,0,M17.45-20.15,VSCI 255,Jan 10--Apr 29,""
@@ -172,7 +172,7 @@ CS,458,Mobile Application Development,01,26412,3,"TU,TH14.55-16.10",VECS 104,Jan
 CS,460,Operating Systems,01,26413,3,"M,W,F13.30-14.20",VMMC 6,Jan 10--Apr 29,X Zhang
 CS,466,Embedded Systems,01,26415,3,TU17.45-19.25,VECS 104,Jan 10--Apr 29,""
 CS,466,Embedded Systems,01 Lab,26417,0,TH17.45-20.15,VECS 221,Jan 10--Apr 29,""
-CS,483,Topics in Computer Science,01,"",V,"TU,TH14.55-16.10",VC VAN,Jan 10--Apr 29,A Sukumaran Rajam
+CS,483,Topics in Computer Science,01,"",V,"TU,TH14.55-16.10",VECS 309,Jan 10--Apr 29,A Sukumaran Rajam
 CS,527,Cryptography and Network Security,01,26411,3,"M,W12.05-13.20",VECS 105,Jan 10--Apr 29,""
 CS,558,Wireless Sensor Networks,01,27225,3,"M,W16.20-17.35",VSCI 19,Jan 10--Apr 29,A Wisniewska
 CS,566,Embedded Systems,01,26416,3,TU17.45-19.25,VECS 104,Jan 10--Apr 29,""
@@ -198,7 +198,8 @@ DTC,338,Special Topics in Digital Technology and Culture,01,26066,3,F14.10-17,VM
 DTC,354,[ARTS] [M] Digital Storytelling,01,26080,3,W17.45-20.30,VMMC 111,Jan 10--Apr 29,W Luers
 DTC,355,[M] Multimedia Authoring,01,26031,3,TU17.45-20.30,VCLS 224,Jan 10--Apr 29,W Luers
 DTC,356,[M] Information Structures,01,26026,3,"M,W,F9.10-10",VMMC 111,Jan 10--Apr 29,N Schiller
-DTC,375,"[M] Language, Texts and Technology",01,26068,3,"TU,TH12.05-13.20",VMMC 111,Jan 10--Apr 29,J Barber
+DTC,375,"[M] Language, Texts and Technology",01,26068,3,"TU,TH12.05-13.20",VCLS 224,Jan 10--Apr 29,J Barber
+DTC,375,"[M] Language, Texts and Technology",02,26261,3,"TU,TH13.30-14.45",VCLS 224,Jan 10--Apr 29,J Barber
 DTC,435,Advanced Animation,01,26100,3,TU17.45-20.30,VMMC 111,Jan 10--Apr 29,S Anderson
 DTC,435,Advanced Animation,01 Lab,26106,0,ARRGT,ARR ARR,Jan 10--Apr 29,""
 DTC,477,Advanced Multimedia Authoring,01,26027,3,M17.45-20.30,VCLS 224,Jan 10--Apr 29,M Stamper
@@ -255,7 +256,7 @@ ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC VAN,"",""
 ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC VAN,"",""
 ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC VAN,"",""
 ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC VAN,"",""
-ED_AD,521,Topics in Education,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,G Hill
+ED_AD,521,Topics in Education,02,26344,3,ARRGT,ARR ARR,Jan 10--Apr 29,G Hill
 ED_AD,522,Topics in Education,02,26604,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 ED_AD,583,Community and Communications,01,26284,3,TU17.45-20.30,VUB 126,Jan 10--Apr 29,K Rodela
 ED_AD,587,Seminar in School Administration,01,26287,3,ARRGT,ARR ARR,Jan 10--Apr 29,G Hill
@@ -271,20 +272,20 @@ ED_AD,591,Action Research,"","","",W17.45-20.30,VC VAN,"",""
 ED_AD,591,Action Research,"","","",W17.45-20.30,VC VAN,"",""
 ED_AD,600,Special Projects or Independent Study,01,26314,3,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,26292,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,26313,1,W16.30-17.30,VC VAN,Jan 10--Apr 29,A Cavagnetto
+ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,26313,1,W16.30-17.30,VECS 120,Jan 10--Apr 29,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,26316,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ED_PSYCH,505,Research Methods I,01,26296,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Liao
-ED_PSYCH,508,Educational Statistics,01,26602,3,W16.10-19,VC VAN,Jan 10--Apr 29,B French
+ED_PSYCH,508,Educational Statistics,01,26602,3,W16.10-19,VECS 309,Jan 10--Apr 29,B French
 ED_PSYCH,569,Seminar in Quantitative Techniques in Education,01,30955,3,M16.10-19,ARR ARR,Jan 10--Apr 29,S Dai
-ED_RES,562,"Epistemology, Inquiry, and Representation",01,27252,3,TU17.45-20.30,VC VAN,Jan 10--Apr 29,A Rud
-ED_RES,563,Principles of Research,01,26293,3,TU17.45-20.30,VC VAN,Jan 10--Apr 29,R Danielson
-ED_RES,563,Principles of Research,02,27253,3,TU17.45-20.30,VC VAN,Jan 10--Apr 29,H Liao
+ED_RES,562,"Epistemology, Inquiry, and Representation",01,27252,3,TU17.45-20.30,VECS 209,Jan 10--Apr 29,A Rud
+ED_RES,563,Principles of Research,01,26293,3,TU17.45-20.30,VMMC 102Q,Jan 10--Apr 29,R Danielson
+ED_RES,563,Principles of Research,02,27253,3,TU17.45-20.30,VMMC 202Q,Jan 10--Apr 29,H Liao
 ED_RES,564,Qualitative Research,01,26294,3,TH17.45-20.30,VC ARR,Jan 10--Apr 29,S Finley
 ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,VC VAN,"",""
 ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,VC VAN,"",""
 ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,VC VAN,"",""
 ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,VC VAN,"",""
-ED_RES,564,Qualitative Research,02,26309,3,TU17.45-20.35,VC VAN,Jan 10--Apr 29,A Roth-Mcduffie
+ED_RES,564,Qualitative Research,02,26309,3,TU17.45-20.35,VECS 309,Jan 10--Apr 29,A Roth-Mcduffie
 ENGLISH,101,[WRTG] College Composition,01,25986,3,"M,W12.05-13.20",VUB 126,Jan 10--Apr 29,B Sullivan
 ENGLISH,101,[WRTG] College Composition,03,26120,3,TU10.35-11.50,VUB 122,Jan 10--Apr 29,J Denrow
 ENGLISH,101,[WRTG] College Composition,04,26135,3,"TU,TH13.30-14.45",VUB 122,Jan 10--Apr 29,J Allen
@@ -295,14 +296,14 @@ ENGLISH,150,[ARTS] Introduction to Film as Narrative,01,30597,4,"TU,TH14.55-16.1
 ENGLISH,150,[ARTS] Introduction to Film as Narrative,01 Lab,30598,0,ARRGT,ARR ARR,Jan 10--Apr 29,C Siegel
 ENGLISH,201,[WRTG] Writing and Research,01,30581,3,"M,W12.05-13.20",VLIB 260,Jan 10--Apr 29,K Robertson
 ENGLISH,220,[HUM] Introduction to Multicultural Literature,01,27276,3,"M,W13.30-14.45",VMMC 219,Jan 10--Apr 29,R Tanvir
-ENGLISH,251,[ARTS] Introduction to Creative Writing: Exploring the Genres,01,27097,3,"M,W10.35-11.50",VC VAN,Jan 10--Apr 29,M Ellingburg
+ENGLISH,251,[ARTS] Introduction to Creative Writing: Exploring the Genres,01,27097,3,"M,W10.35-11.50",VECS 125,Jan 10--Apr 29,M Ellingburg
 ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,25958,3,"M,W9.10-10.25",VLIB 264,Jan 10--Apr 29,K Robertson
 ENGLISH,302,[M] Introduction to English Studies,01,25959,3,"TU,TH9.10-10.25",WEB ARR,Jan 10--Apr 29,L Orr
 ENGLISH,324,[M] Rhetoric and Composition for Teaching,01,26047,3,"M,W16.20-17.35",VLIB 260,Jan 10--Apr 29,S Massart
 ENGLISH,326,Applied Grammar for Teachers,01,25960,3,TU16.20-17.35,VLIB 260,Jan 10--Apr 29,J Stevens
 ENGLISH,326,Applied Grammar for Teachers,"","","",TH16.20-17.35,WEB ARR,"",""
-ENGLISH,341,[M] Native American Literature,01,27280,3,M17.45-20.30,VC VAN,Jan 10--Apr 29,J Ankney
-ENGLISH,353,Creative Writing: Nonfiction,01,26610,3,TU17.45-20.30,VC VAN,Jan 10--Apr 29,J Ankney
+ENGLISH,341,[M] Native American Literature,01,27280,3,M17.45-20.30,VECS 125,Jan 10--Apr 29,J Ankney
+ENGLISH,353,Creative Writing: Nonfiction,01,26610,3,TU17.45-20.30,VECS 120,Jan 10--Apr 29,J Ankney
 ENGLISH,361,Everyday Rhetorics,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,V Cozza
 ENGLISH,371,17th and 18th Century Transnational Literature in English,01,26101,3,"TU,TH12.05-13.20",VLIB 261,Jan 10--Apr 29,D Hellegers
 ENGLISH,373,[HUM] 20th and 21st Century Global Literatures in English,01,30579,3,"M,W14.55-16.10",VMMC 16,Jan 10--Apr 29,C Ratzlaff
@@ -356,7 +357,7 @@ FRENCH,410,[CAPS] French Film in Translation,01 Lab,26121,0,ARRGT,ARR ARR,Jan 10
 H_D,101,[SSCI] Human Development Across the Lifespan,01,26379,3,"TU,TH16.20-17.35",VUB 121,Jan 10--Apr 29,S Reisz
 H_D,200,Introduction to the Field of Human Development,01,26516,2,TU9.10-10.25,VMMC 22,Jan 10--Apr 29,C Bletscher
 H_D,204,[SSCI] Family Interactions,01,26354,3,"TU,TH14.55-16.10",VUB 121,Jan 10--Apr 29,M Diversi
-H_D,204,[SSCI] Family Interactions,02,29956,3,"M,W13.30-14.45",VECS 105,Jan 10--Apr 29,""
+H_D,204,[SSCI] Family Interactions,02,29956,3,"M,W13.30-14.45",VECS 105,Jan 10--Apr 29,J Smith
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01,26355,4,"TU,TH13.30-14.45",VUB 125,Jan 10--Apr 29,C Bletscher
 H_D,205,[COMM] Developing Effective Communication and Life Skills,04,30589,4,"TU,TH10.35-11.50",VMMC 22,Jan 10--Apr 29,C Bletscher
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,26356,0,ARRGT,ARR ARR,Jan 10--Apr 29,C Bletscher
@@ -367,7 +368,7 @@ H_D,302,Parent-Child Relationships,01,26460,3,"M,W13.30-14.45",VMMC 1,Jan 10--Ap
 H_D,307,Adolescence and Emerging Adulthood,01,26477,3,"M,W14.55-16.10",VMMC 22,Jan 10--Apr 29,S Reisz
 H_D,310,[M] Research Methods,01,26357,3,"M,W10.35-11.50",VMMC 219,Jan 10--Apr 29,S Waters
 H_D,341,Guidance in Early Childhood Programs,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,N Porter
-H_D,350,[DIVR] Family Diversity,01,26358,3,"TU,TH12.05-13.20",VECS 122,Jan 10--Apr 29,S Reisz
+H_D,350,[DIVR] Family Diversity,01,26358,3,"TU,TH12.05-13.20",VUB 125,Jan 10--Apr 29,S Reisz
 H_D,360,Death and Dying,01,27081,3,"TU,TH10.35-11.50",VMMC 1,Jan 10--Apr 29,C Bolkan
 H_D,384,Prevention and Intervention in Human Development,01,29959,3,W16.20-17.35,VLIB 201,Jan 10--Apr 29,J Lanigan
 H_D,385,Perspectives in Human Services,01,26359,3,TU9.10-10.25,VMMC 16,Jan 10--Apr 29,E Soliday
@@ -380,19 +381,20 @@ H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,Jan 10
 H_D,495,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 H_D,497,Professional Preparation Seminar,01,"",3,M13.30-14.45,VMMC 214,Jan 10--Apr 29,A Thomas
 H_D,498,Field Placement,01,"",V,W13.30-14.45,VDEN 129,Jan 12--Jan 12,A Thomas
-H_D,560,Seminar in Child Development,01,30733,3,W15.10-18,VC VAN,Jan 10--Apr 29,S Perone
+H_D,560,Seminar in Child Development,01,30733,3,W15.10-18,VMCB 205,Jan 10--Apr 29,S Perone
 H_D,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 HBM,101,Professional and Career Development for the Business World,01,25933,1,"W,F9.10-10.25",VUB 107,Feb 14--Mar 25,L Baden
 HBM,101,Professional and Career Development for the Business World,02,26855,1,"W,F12.05-13.20",VUB 107,Feb 14--Mar 25,L Baden
 HBM,235,"[SSCI] Travel, Society, and Business",01,26597,3,"TU,TH9.10-10.25",VMMC 23,Jan 10--Apr 29,C Chen
 HBM,280,Hospitality Systems,01,25922,3,"TU,TH10.35-11.50",VMMC 23,Jan 10--Apr 29,C Chen
-HBM,358,Foodservice Systems and Control,01,25885,3,"TU,TH14.55-16.10",VC VAN,Jan 10--Apr 29,""
+HBM,358,Foodservice Systems and Control,01,25885,3,"TU,TH14.55-16.10",VECS 120,Jan 10--Apr 29,""
 HBM,401,Career Management,01,25884,1,"M,W16.20-17.35",VUB 225,Jan 10--Feb 11,R Howell
 HBM,480,[M] Marketing Strategy and Development,01,25904,3,M11.10-14,VC ARR,Jan 10--Apr 29,J Sandstrom
-HBM,494,[M] Service Operations Management,01,26672,3,TH16.25-18.55,VC VAN,Jan 10--Apr 29,J Han
-HBM,495,[CAPS] Case Studies and Research,01,25887,3,"M,W14.55-16.10",VC VAN,Jan 10--Apr 29,J Sandstrom
+HBM,494,[M] Service Operations Management,01,26672,3,TH16.25-18.55,VECS 120,Jan 10--Apr 29,J Han
+HBM,495,[CAPS] Case Studies and Research,01,25887,3,"M,W14.55-16.10",VECS 120,Jan 10--Apr 29,J Sandstrom
 HBM,496,Special Topics,01,"",3,ARRGT,ARR ARR,Feb 14--Mar 25,D Jha
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,25990,3,"TU,TH10.35-11.50",VMMC 219,Jan 10--Apr 29,K Krotke-Crandall
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,25990,3,TU10.35-11.50,VMMC 219,Jan 10--Apr 29,K Krotke-Crandall
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,"","","",TH10.35-11.50,WEB ARR,"",""
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,25991,3,"TU,TH13.30-14.45",VMMC 22,Jan 10--Apr 29,J Losavio
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,25992,3,"TU,TH14.55-16.10",VMMC 22,Jan 10--Apr 29,J Losavio
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,26112,3,"M,W10.35-11.50",VLIB 201,Jan 10--Apr 29,A Chastain
@@ -417,9 +419,9 @@ HISTORY,498,History Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,S Peabody
 HISTORY,700,"Master's Research, Thesis, and/or Examination",01,26615,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 HISTORY,800,"Doctoral Research, Dissertation, and/or Examination",01,25997,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 I_BUS,380,International Business,01,25903,3,M18-20.45,VMMC 22,Jan 10--Apr 29,T Larson
-I_BUS,380,International Business,02,25924,3,"TU,TH16.20-17.35",VMMC 22,Jan 10--Apr 29,""
+I_BUS,380,International Business,02,25924,3,"TU,TH16.20-17.35",VMMC 22,Jan 10--Apr 29,T Blankenship
 I_BUS,482,[M] International Marketing,01,25923,3,"M,W13.30-14.45",WEB ARR,Jan 10--Apr 29,A Sa Vinhas
-INTERDIS,591,Interdisciplinary Studies,01,"",1,TU16-17,VC VAN,Jan 10--Apr 29,""
+INTERDIS,591,Interdisciplinary Studies,01,"",1,TU16-17,VMMC 102Q,Jan 10--Apr 29,""
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,26368,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 MATH,100,Basic Mathematics,01,26103,2,TU16.20-17.10,VUB 124,Jan 10--Apr 29,K Debower
 MATH,100,Basic Mathematics,"","","",TH16.20-17.10,WEB ARR,"",""
@@ -451,22 +453,22 @@ MATH,220,Introductory Linear Algebra,02,27102,2,"M,W14.55-15.45",VMMC 1,Jan 10--
 MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01,26005,3,TU17.45-19.25,VUB 226,Jan 10--Apr 29,K Debower
 MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01 Lab,26006,0,TH17.45-19.25,WEB ARR,Jan 10--Apr 29,""
 MATH,273,Calculus III,01,25974,2,"TU,TH10.35-11.25",VUB 107,Jan 10--Apr 29,P Krouss
-MATH,301,Introduction to Mathematical Reasoning,01,26194,3,"M,W,F13.10-14",VC VAN,Jan 10--Apr 29,""
+MATH,301,Introduction to Mathematical Reasoning,01,26194,3,"M,W,F13.10-14",VECS 125,Jan 10--Apr 29,""
 MATH,315,Differential Equations,01,26062,3,"TU,TH10.35-11.50",VUB 226,Jan 10--Apr 29,S Black
 MATH,315,Differential Equations,02,26107,3,"TU,TH12.05-13.20",VMMC 1,Jan 10--Apr 29,A Dimitrov
 MATH,340,Introduction to Mathematical Biology,01,26833,3,"TU,TH13.30-14.45",VMMC 1,Jan 10--Apr 29,A Dimitrov
-MATH,351,Algebraic Thinking for the Middle School Teacher,01,26115,3,TU16.20-19,VC VAN,Jan 10--Apr 29,K Lesseig
-MATH,402,[M] Introduction to Analysis II,01,26955,3,"M,W,F10.10-11",VC VAN,Jan 10--Apr 29,""
-MATH,415,Intermediate Differential Equations,01,"",3,"TU,TH12.05-13.20",VC VAN,Jan 10--Apr 29,N Voulgarakis
-MATH,421,[M] Algebraic Structures,01,26144,3,"M,W,F9.10-10",VC VAN,Jan 10--Apr 29,""
-MATH,432,[CAPS] Mathematics for College and Secondary Teachers,01,"",3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,""
-MATH,440,Applied Mathematics I: PDEs,01,"",3,"M,W,F11.10-12",VC VAN,Jan 10--Apr 29,A Khapalov
-MATH,464,[CAPS] Linear Optimization,01,26757,3,"TU,TH9.10-10.25",VC VAN,Jan 10--Apr 29,""
+MATH,351,Algebraic Thinking for the Middle School Teacher,01,26115,3,TU16.20-19,VECS 125,Jan 10--Apr 29,K Lesseig
+MATH,402,[M] Introduction to Analysis II,01,26955,3,"M,W,F10.10-11",VMMC 202Q,Jan 10--Apr 29,""
+MATH,415,Intermediate Differential Equations,01,"",3,"TU,TH12.05-13.20",VMMC 204,Jan 10--Apr 29,N Voulgarakis
+MATH,421,[M] Algebraic Structures,01,26144,3,"M,W,F9.10-10",VECS 120,Jan 10--Apr 29,""
+MATH,432,[CAPS] Mathematics for College and Secondary Teachers,01,"",3,"TU,TH10.35-11.50",VMMC 102Q,Jan 10--Apr 29,""
+MATH,440,Applied Mathematics I: PDEs,01,"",3,"M,W,F11.10-12",VMMC 202Q,Jan 10--Apr 29,A Khapalov
+MATH,464,[CAPS] Linear Optimization,01,26757,3,"TU,TH9.10-10.25",VECS 120,Jan 10--Apr 29,""
 MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
-MATH,502,Introduction to Functional Analysis,01,30767,3,"M,W,F10.10-11",VC VAN,Jan 10--Apr 29,""
-MATH,511,Advanced Linear Algebra,01,30730,3,"TU,TH12.05-13.20",VC VAN,Jan 10--Apr 29,""
-MATH,529,Computational Topology,01,26981,3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,B Krishnamoorthy
-MATH,591,Seminar in Mathematical Biology,01,27054,1,TU16.10-17,VC VAN,Jan 10--Apr 29,""
+MATH,502,Introduction to Functional Analysis,01,30767,3,"M,W,F10.10-11",VECS 209,Jan 10--Apr 29,""
+MATH,511,Advanced Linear Algebra,01,30730,3,"TU,TH12.05-13.20",VECS 120,Jan 10--Apr 29,""
+MATH,529,Computational Topology,01,26981,3,"TU,TH10.35-11.50",VECS 125,Jan 10--Apr 29,B Krishnamoorthy
+MATH,591,Seminar in Mathematical Biology,01,27054,1,TU16.10-17,VECS 209,Jan 10--Apr 29,""
 MATH,592,Seminar in Analysis,01,26116,1,W12.05-12.55,VSCI 19,Jan 10--Apr 29,N Strigul
 MATH,600,Special Projects or Independent Study,01,26197,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 MATH,702,"Master's Special Problems, Directed Study, and/or Examination",01,26091,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -487,13 +489,13 @@ MECH,310,Introduction to Design and Manufacturing,02 Lab,26437,0,F11.10-13.40,VS
 MECH,314,Machine Design I,01,26440,3,"M,W12.05-13.20",VECS 104,Jan 10--Apr 29,H Rad
 MECH,348,Dynamics Systems and Control,01,26441,3,"M,W9.10-10.25",VECS 105,Jan 10--Apr 29,H Rad
 MECH,404,Heat Transfer,01,26442,3,"TU,TH14.55-16.10",VECS 105,Jan 10--Apr 29,""
-MECH,405,Introduction to Microcontrollers,01,"",3,"TU,TH16.20-17.35",VECS 105,Jan 10--Apr 29,""
+MECH,405,Introduction to Microcontrollers,01,26443,3,"TU,TH16.20-17.35",VECS 105,Jan 10--Apr 29,""
 MECH,417,[CAPS] Mechanical Systems Design II,01,26444,3,"M,W14.55-16.10",VECS 105,Jan 10--Apr 29,H Rad
-MECH,435,Introduction to Microfluidics,01,"",3,"TU,TH9.10-10.25",VECS 105,Jan 10--Apr 29,H Tan
-MECH,438,Microfabrication Technology,01,"",3,"M,W16.20-17.35",VECS 104,Jan 10--Apr 29,""
-MECH,441,Fundamentals of Renewable Energy,01,"",3,"TU,TH13.30-14.45",VECS 104,Jan 10--Apr 29,S Solovitz
-MECH,477,Manufacturing for Polymer Composites,01,"",3,"M,W10.35-11.50",VSCI 12,Jan 10--Apr 29,H Tan
-MECH,485,Computer-aided Engineering,01,"",3,F14.10-17,VSCI 255,Jan 10--Apr 29,X Chen
+MECH,435,Introduction to Microfluidics,01,26568,3,"TU,TH9.10-10.25",VECS 105,Jan 10--Apr 29,H Tan
+MECH,438,Microfabrication Technology,01,26510,3,"M,W16.20-17.35",VECS 104,Jan 10--Apr 29,""
+MECH,441,Fundamentals of Renewable Energy,01,26445,3,"TU,TH13.30-14.45",VECS 104,Jan 10--Apr 29,S Solovitz
+MECH,477,Manufacturing for Polymer Composites,01,26511,3,"M,W10.35-11.50",VSCI 12,Jan 10--Apr 29,H Tan
+MECH,485,Computer-aided Engineering,01,26447,3,F14.10-17,VSCI 255,Jan 10--Apr 29,X Chen
 MECH,529,Experimental Methods for Mechanical Engineering Research,01,26571,3,"M,W9.10-10.25",VSCI 12,Jan 10--Apr 29,S Solovitz
 MECH,538,Microfabrication Technology,01,27294,3,"M,W16.20-17.35",VECS 104,Jan 10--Apr 29,""
 MECH,700,"Master's Research, Thesis, and/or Examination",01,26448,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -545,14 +547,14 @@ NEUROSCI,430,[M] Principles of Neurophysiology,01 Lab,26487,0,W8.10-11,VSCI 114,
 NEUROSCI,490,[CAPS] Senior Project,01,26461,3,"TU,TH9.10-10.25",VSCI 19,Jan 10--Apr 29,A Coffin
 NEUROSCI,495,Directed Research,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 NEUROSCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Coffin
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,02,26527,1,"M,W10.10-11",VC VAN,Feb 14--Mar 25,G Wayman
-NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,VC VAN,"",""
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,01,26528,1,"M,F9.10-10",VC VAN,Jan 10--Feb 11,H Jansen
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,VC VAN,"",""
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,02,26529,1,"M,F9.10-10",VC VAN,Feb 14--Mar 25,R Mclaughlin
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,VC VAN,"",""
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,03,26906,1,"M,F9.10-10",VC VAN,Mar 28--Apr 29,""
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,VC VAN,"",""
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,02,26527,1,"M,W10.10-11",VMMC 102Q,Feb 14--Mar 25,G Wayman
+NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,VECS 125,"",""
+NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,01,26528,1,"M,F9.10-10",VMMC 102Q,Jan 10--Feb 11,H Jansen
+NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,VMMC 102Q,"",""
+NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,02,26529,1,"M,F9.10-10",VMMC 102Q,Feb 14--Mar 25,R Mclaughlin
+NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,VMMC 102Q,"",""
+NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,03,26906,1,"M,F9.10-10",VMMC 102Q,Mar 28--Apr 29,""
+NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,VMMC 102Q,"",""
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,26369,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 NURS,360,Contemporary Nursing,01,29964,3,ARRGT,ARR ARR,Jan 10--Mar 04,S Welty
 NURS,360,Contemporary Nursing,02,29965,3,ARRGT,ARR ARR,Jan 10--Mar 04,S Welty
@@ -574,7 +576,7 @@ NURS,465,Application of Population Health Principles,01,29976,3,ARRGT,ARR ARR,Ja
 NURS,465,Application of Population Health Principles,02,30017,3,ARRGT,ARR ARR,Jan 10--Apr 08,J Caley
 NURS,495,[CAPS] Advanced Practicum,01,29979,3,ARRGT,ARR ARR,Mar 07--May 06,J Caley
 NURS,495,[CAPS] Advanced Practicum,03,30007,3,ARRGT,ARR ARR,Mar 07--May 06,K Pascoe
-NURS,498,Special Topics in Nursing,01,30692,V,ARRGT,ARR ARR,Jan 10--Apr 29,V Denson
+NURS,498,Special Topics in Nursing,01,30692,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Causey
 NURS,499,Special Problems,01,29980,V,ARRGT,ARR ARR,Jan 10--Apr 29,V Denson
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents",01,30002,3,W9.10-12,VC ARR,Jan 12--Jan 12,K Tietjen
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents","","","",W9.10-12,VC ARR,"",""
@@ -693,8 +695,8 @@ NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","
 PHIL,450,Data Analytics Ethics,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,T Glazebrook
 PHYSICS,101,[PSCI] General Physics,01,26105,3,"M,W,F13.30-14.20",VLIB 201,Jan 10--Apr 29,G Newman
 PHYSICS,102,General Physics,01,26007,3,"M,W,F12.05-12.55",VUB 1,Jan 10--Apr 29,G Newman
-PHYSICS,111,[PSCI] General Physics Lab,01,30077,1,TU10.35-13.15,VCLS 150,Jan 10--Apr 29,""
-PHYSICS,111,[PSCI] General Physics Lab,02,30078,1,TU13.30-16.10,VCLS 150,Jan 10--Apr 29,""
+PHYSICS,111,[PSCI] General Physics Lab,01,30077,1,TU10.35-13.15,VCLS 150,Jan 10--Apr 29,P Dragulin
+PHYSICS,111,[PSCI] General Physics Lab,02,30078,1,TU13.30-16.10,VCLS 150,Jan 10--Apr 29,P Dragulin
 PHYSICS,112,General Physics Lab II,01,30081,1,TH7.45-10.25,VCLS 150,Jan 10--Apr 29,""
 PHYSICS,112,General Physics Lab II,02,30082,1,TH10.35-13.15,VCLS 150,Jan 10--Apr 29,""
 PHYSICS,112,General Physics Lab II,03,30083,1,TH17.45-20.25,VCLS 150,Jan 10--Apr 29,""
@@ -703,19 +705,19 @@ PHYSICS,202,Physics for Scientists and Engineers II,01,26009,3,"M,W,F8.10-9",VUB
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,30075,1,W10.35-13.15,VCLS 150,Jan 10--Apr 29,P Dragulin
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,30076,1,F10.35-13.15,VCLS 150,Jan 10--Apr 29,P Dragulin
 PHYSICS,212,Physics Lab for Scientists and Engineers II,01,30073,1,M14.55-17.35,VCLS 150,Jan 10--Apr 29,J Vazquez-Bello
-PHYSICS,212,Physics Lab for Scientists and Engineers II,02,30074,1,M17.45-20.25,VCLS 150,Jan 10--Apr 29,""
+PHYSICS,212,Physics Lab for Scientists and Engineers II,02,30074,1,M17.45-20.25,VCLS 150,Jan 10--Apr 29,P Dragulin
 POL_S,103,[SSCI] International Politics,01,30085,3,"M,W12.05-13.20",VMMC 16,Jan 10--Apr 29,A Lopez
 POL_S,206,State and Local Government,02,27033,3,ARRGT,ARR ARR,Jan 10--Apr 29,N Steffen
 POL_S,317,Media and Politics,01,30086,3,"M,W14.55-16.10",VMMC 219,Jan 10--Apr 29,M Stephan
-POL_S,400,Political Science Issues,01,26652,3,"M,W16.20-17.35",VLIB 264,Jan 10--Apr 29,A Lopez
+POL_S,400,Political Science Issues,01,26652,3,"M,W16.20-17.35",VECS 125,Jan 10--Apr 29,A Lopez
 POL_S,420,Political Parties and Interest Groups,01,30087,3,"M,W10.35-11.50",VLIB 264,Jan 10--Apr 29,M Stephan
 POL_S,424,[M] US National Security Policy,01,26179,3,"M,W13.30-14.45",VMMC 16,Jan 10--Apr 29,A Lopez
-POL_S,425,Philosophy and Feminism,01,30089,3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,C Leeb
+POL_S,425,Philosophy and Feminism,01,30089,3,"TU,TH10.35-11.50",VECS 209,Jan 10--Apr 29,C Leeb
 POL_S,432,[CAPS] [M] Comparative Public Policy,01,26033,3,"TU,TH12.05-13.20",VLIB 260,Jan 10--Apr 29,P Thiers
-POL_S,437,[M] Classical Political Thought,01,30091,3,"TU,TH9.10-10.25",VC VAN,Jan 10--Apr 29,C Leeb
+POL_S,437,[M] Classical Political Thought,01,30091,3,"TU,TH9.10-10.25",VECS 209,Jan 10--Apr 29,C Leeb
 POL_S,475,"The People's Republic of China, 1949 to Present",01,30088,3,"TU,TH14.55-16.10",VMMC 1,Jan 10--Apr 29,P Thiers
 POL_S,497,Political Science Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-PREV_SCI,540,Effective Prevention Strategies II,01,26856,3,M13.10-16,VC VAN,Jan 10--Apr 29,A Salazar
+PREV_SCI,540,Effective Prevention Strategies II,01,26856,3,M13.10-16,VMCB 205,Jan 10--Apr 29,A Salazar
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,26458,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,26459,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PSYCH,105,[SSCI] Introductory Psychology,01,26182,3,"TU,TH10.35-11.50",VMMC 6,Jan 10--Apr 29,""
@@ -735,7 +737,7 @@ PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,"","","",TU13.30-1
 PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,"","","",TU13.30-14.45,VMMC 16,"",""
 PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,"","","",TU13.30-14.45,VMMC 16,"",""
 PSYCH,308,Organizational Psychology,01,26860,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Bazzoli
-PSYCH,310,"Work, Stress, and Health",01,27028,3,"M,W14.55-16.10",VMMC 23,Jan 10--Apr 29,T Probst
+PSYCH,310,"Work, Stress, and Health",01,27028,3,"M,W14.55-16.10",VUB 125,Jan 10--Apr 29,T Probst
 PSYCH,311,[QUAN] Statistics in Psychology,01,26082,4,"M,W9.10-11",VUB 100,Jan 10--Apr 29,T Probst
 PSYCH,311,[QUAN] Statistics in Psychology,02,26083,4,"TU,TH9.10-11",VUB 100,Jan 10--Apr 29,K Saville
 PSYCH,312,[M] Research Methods in Psychology,01,26084,4,W9.10-11.50,VCLS 130,Jan 10--Apr 29,""
@@ -762,11 +764,11 @@ PSYCH,496,Cooperative Education Internship,01,30606,V,ARRGT,ARR ARR,Jan 10--Apr 
 PSYCH,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,K Schmaling
 PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
-PSYCH,506,Current Research in Psychology,01,26806,1,W16.10-17,VC VAN,Jan 10--Apr 29,R Magnan
+PSYCH,506,Current Research in Psychology,01,26806,1,W16.10-17,VCLS 208J,Jan 10--Apr 29,R Magnan
 PSYCH,510,Introduction to Online Instruction,01,27101,1,ARRGT,ARR ARR,Jan 10--Apr 29,L Daffin
-PSYCH,512,"Non-Experimental Designs, Correlation, and Regression",01,26807,3,"TU,TH12.05-13.20",VC VAN,Jan 10--Apr 29,C Cuttler
-PSYCH,516,Applied Structural Equation Modeling with Current Software,01,26212,3,"TU,TH14.55-16.10",VC VAN,Jan 10--Apr 29,G Burns
-PSYCH,550,Social Psychology,01,27371,3,W13.10-16,VC VAN,Jan 10--Apr 29,R Magnan
+PSYCH,512,"Non-Experimental Designs, Correlation, and Regression",01,26807,3,"TU,TH12.05-13.20",VECS 209,Jan 10--Apr 29,C Cuttler
+PSYCH,516,Applied Structural Equation Modeling with Current Software,01,26212,3,"TU,TH14.55-16.10",VECS 209,Jan 10--Apr 29,G Burns
+PSYCH,550,Social Psychology,01,27371,3,W13.10-16,VCLS 208J,Jan 10--Apr 29,R Magnan
 PSYCH,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Fales
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SOC,102,[SSCI] Social Problems,01,26030,3,"M,W10.35-11.50",VDEN 110,Jan 10--Apr 29,N Parsons
@@ -795,21 +797,22 @@ SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,02 Lab,25944,0,M
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,03 Lab,25945,0,W14.55-17.35,VSCI 101,Jan 10--Apr 29,""
 SOE,250,[PSCI] Introduction to Earth System Science,01,26169,3,"TU,TH12.05-13.20",VLIB 265,Jan 10--Apr 29,""
 SOE,280,[PSCI] How the Earth's Climate System Works,01,26658,3,"M,W9.10-10.25",VLIB 260,Jan 10--Apr 29,D Singh
-SOE,306,Plants in the Environment,01,30125,3,"M,W,F11.10-12",VC VAN,Jan 10--Apr 29,H Adams
+SOE,306,Plants in the Environment,01,30125,3,"M,W,F11.10-12",VMMC 102Q,Jan 10--Apr 29,H Adams
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,26523,3,"TU,TH13.30-14.45",VLIB 201,Jan 10--Apr 29,M Steen-Adams
 SOE,315,Water and the Earth,01,25948,3,"M,W10.35-11.25",VLIB 260,Jan 10--Apr 29,K Moffett
 SOE,315,Water and the Earth,01 Lab,25949,0,F10.35-13.20,VLIB 260,Jan 10--Apr 29,""
 SOE,404,[CAPS] [M] The Ecosystem,01,26221,3,"M,W13.30-14.45",VLIB 260,Jan 10--Apr 29,""
-SOE,461,Watershed Management,01,26549,3,"M,W,F9.10-10",VC VAN,Jan 10--Apr 29,S Roley
-SOE,486,Applied Remote Sensing: From Drones to Satellites,01,30126,3,"TU,TH10.35-11.50",VC VAN,Jan 10--Apr 29,A Meddens
+SOE,461,Watershed Management,01,26549,3,"M,W,F9.10-10",VECS 209,Jan 10--Apr 29,S Roley
+SOE,484,Forest Management and Planning,01,31003,3,"M,W,F12.10-13",VECS 209,Jan 10--Apr 29,M Swanson
+SOE,486,Applied Remote Sensing: From Drones to Satellites,01,30126,3,"TU,TH10.35-11.50",VSCI 140,Jan 10--Apr 29,A Meddens
 SOE,491,Senior Seminar,01,25952,1,M15.10-17,VECS 122,Jan 10--Apr 29,K Moffett
-SOE,492,Special Topics,01,26250,3,"TU,TH16.20-17.35",VC VAN,Jan 10--Apr 29,J Mcintyre
+SOE,492,Special Topics,01,26250,3,"TU,TH16.20-17.35",VECS 120,Jan 10--Apr 29,J Mcintyre
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
-SOE,544,Environmental Assessment,01,30908,3,"TU,TH12.05-13.20",VC VAN,Jan 10--Apr 29,A King
+SOE,544,Environmental Assessment,01,30908,3,"TU,TH12.05-13.20",VECS 125,Jan 10--Apr 29,A King
 SOE,548,Applied Spatial Ecology,01,30879,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Goldberg
 SOE,592,Advanced Topics in Environmental and Natural Resource Sciences,01,25955,2,TH14.55-16.35,VMMC 23,Jan 10--Apr 29,K Blount
-SOE,593,Graduate Seminar in Earth and Environmental Sciences,01,27324,1,TU13.10-14,VC VAN,Jan 10--Apr 29,""
+SOE,593,Graduate Seminar in Earth and Environmental Sciences,01,27324,1,TU13.10-14,VSCI 140,Jan 10--Apr 29,""
 SOE,598,Seminar,01,26834,1,ARRGT,ARR ARR,Jan 10--Apr 29,C Schultz
 SOE,598,Seminar,02,26836,1,W12.05-12.55,VLIB 264,Jan 10--Apr 29,K Moffett
 SOE,600,Special Projects or Independent Study,01,25957,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Padowski
@@ -817,14 +820,14 @@ SOE,700,"Master's Research, Thesis, and/or Examination",01,25953,V,ARRGT,ARR ARR
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,25954,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SOIL_SCI,368,Introduction to Geographic Information Systems,01,26484,3,"TU,TH17.45-20",VUB 202,Jan 10--Apr 29,P Platosh
 SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,26485,0,ARRGT,ARR ARR,Jan 10--Apr 29,P Platosh
-SOIL_SCI,514,Environmental Biophysics,01,30768,2,"M,W9.10-10",VC VAN,Jan 10--Apr 29,C Campbell
+SOIL_SCI,514,Environmental Biophysics,01,30768,2,"M,W9.10-10",VMMC 202Q,Jan 10--Apr 29,C Campbell
 SPANISH,102,Second Semester,01,26049,4,"TU,TH13.30-14.45",WEB ARR,Jan 10--Apr 29,C Gulam
-SPANISH,105,Elementary Conversation,01,26011,1,TU14.55-15.45,VUB 122,Jan 10--Apr 29,M Mcmichael
+SPANISH,105,Elementary Conversation,01,26011,1,TU14.55-15.45,VMMC 202Q,Jan 10--Apr 29,""
 SPANISH,110,[ARTS] Peninsular Spanish Film,01,26142,3,"W,F12.05-12.55",VUB 124,Jan 10--Apr 29,M Lee-Lopez
 SPANISH,204,Fourth Semester,01,26012,4,"TU,TH10.35-11.50",WEB ARR,Jan 10--Apr 29,C Gulam
 SPANISH,204,Fourth Semester,01 Lab,26013,0,ARRGT,ARR ARR,Jan 10--Apr 29,C Gulam
-SPANISH,205,Intermediate Conversation I,01,26014,1,TU12.05-12.55,VUB 122,Jan 10--Apr 29,M Mcmichael
-SPANISH,305,Intermediate Conversation II,01,26125,1,TU12.05-12.55,VUB 122,Jan 10--Apr 29,M Mcmichael
+SPANISH,205,Intermediate Conversation I,01,26014,1,TU12.05-12.55,VMMC 202Q,Jan 10--Apr 29,""
+SPANISH,305,Intermediate Conversation II,01,26125,1,TU12.05-12.55,VMMC 202Q,Jan 10--Apr 29,""
 SPANISH,307,Intermediate Speaking and Listening,01,26089,3,"W,F14.55-15.45",VUB 222,Jan 10--Apr 29,M Lee-Lopez
 SPANISH,351,[ARTS] Introduction to Latin American Literature,01,30099,3,"TU,TH17.45-19",WEB ARR,Jan 10--Apr 29,C Gulam
 SPEC_ED,301,Education of Exceptional Children,01,26275,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Albagshi
@@ -833,21 +836,21 @@ SPEC_ED,403,Secondary Education for Students with Disabilities,01,26278,3,ARRGT,
 SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,26281,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 SPEC_ED,490,Practicum in Special Education,01,26282,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Pursley
 SPEC_ED,520,Teaching in Inclusive Classrooms,01,26280,2,"M,F16.45-18.50",VUB 122,Jan 10--Feb 18,S Van Horn
-SPEC_ED,522,Topics in Special Education,01,26345,1,W16.20-17.10,VC VAN,Jan 10--Apr 29,M Dunn
-SPEC_ED,589,Seminar in Disability Studies,01,27485,3,TH17.45-20.30,VC VAN,Jan 10--Apr 29,M Poppen
-SPEC_ED,592,Single Subject Research Design and Methods,01,26606,3,W17.45-20.30,VC VAN,Jan 10--Apr 29,H Whittenburg
-SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,26605,1,W16.20-17.10,VC VAN,Jan 10--Apr 29,M Dunn
+SPEC_ED,522,Topics in Special Education,01,26345,1,W16.20-17.10,VECS 209,Jan 10--Apr 29,M Dunn
+SPEC_ED,589,Seminar in Disability Studies,01,27485,3,TH17.45-20.30,VECS 125,Jan 10--Apr 29,M Poppen
+SPEC_ED,592,Single Subject Research Design and Methods,01,26606,3,W17.45-20.30,VECS 209,Jan 10--Apr 29,H Whittenburg
+SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,26605,1,W16.20-17.10,VECS 209,Jan 10--Apr 29,M Dunn
 STAT,212,[QUAN] Introduction to Statistical Methods,01,26063,4,"M,W10.35-11.50",VMMC 1,Jan 10--Apr 29,F Mcgrade
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,26064,0,"M,W13.30-14.20",VUB 202,Jan 10--Apr 29,""
 STAT,360,Probability and Statistics,01,26104,3,"TU,TH9.10-10.25",VUB 107,Jan 10--Apr 29,L Sotomayor
 STAT,437,High Dimensional Data Learning and Visualization,01,27039,3,ARRGT,ARR ARR,Jan 10--Apr 29,X Chen
-STAT,456,Introduction to Statistical Theory,01,"",3,"TU,TH12.05-13.20",VC VAN,Jan 10--Apr 29,""
-STAT,519,Applied Multivariate Analysis,01,26756,3,"M,W14.55-16.10",VC VAN,Jan 10--Apr 29,F Mcgrade
-STAT,530,Predictive Models: Foundations in Data Science,01,26262,3,"M,W14.10-15",VC VAN,Jan 10--Apr 29,""
-STAT,530,Predictive Models: Foundations in Data Science,01 Lab,26263,0,F15.10-17,VC VAN,Jan 10--Apr 29,""
-STAT,549,Statistical Theory II,01,27056,3,"M,W,F11.10-12",VC VAN,Jan 10--Apr 29,""
-STAT,556,Introduction to Statistical Theory,01,26259,3,"TU,TH12.05-13.20",VC VAN,Jan 10--Apr 29,""
-STAT,577,Statistical Learning Theory,01,30731,3,"TU,TH14.55-16.10",VC VAN,Jan 10--Apr 29,""
+STAT,456,Introduction to Statistical Theory,01,"",3,"TU,TH12.05-13.20",VMMC 102Q,Jan 10--Apr 29,""
+STAT,519,Applied Multivariate Analysis,01,26756,3,"M,W14.55-16.10",VECS 125,Jan 10--Apr 29,F Mcgrade
+STAT,530,Predictive Models: Foundations in Data Science,01,26262,3,"M,W14.10-15",VECS 209,Jan 10--Apr 29,""
+STAT,530,Predictive Models: Foundations in Data Science,01 Lab,26263,0,F15.10-17,VECS 209,Jan 10--Apr 29,""
+STAT,549,Statistical Theory II,01,27056,3,"M,W,F11.10-12",VC ARR,Jan 10--Apr 29,""
+STAT,556,Introduction to Statistical Theory,01,26259,3,"TU,TH12.05-13.20",VMMC 102Q,Jan 10--Apr 29,""
+STAT,577,Statistical Learning Theory,01,30731,3,"TU,TH14.55-16.10",VECS 125,Jan 10--Apr 29,""
 STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,27463,V,ARRGT,ARR ARR,Jan 10--Apr 29,Y Wang
 STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,27067,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 UNIV,104,First-Year Success Seminar,01,"",2,F12.05-13.55,VUB 222,Jan 10--Apr 29,J Denrow
@@ -859,12 +862,12 @@ UNIV,250,Success in College and Beyond,04,"",1,F12.05-13.20,VLIB 265,Jan 10--Apr
 UNIV,250,Success in College and Beyond,05,"",1,F12.05-13.20,VMMC 214,Jan 10--Apr 29,J Mercado
 UNIV,250,Success in College and Beyond,06,"",1,F12.05-13.20,VMMC 219,Jan 10--Apr 29,C Johnston
 UNIV,250,Success in College and Beyond,07,"",1,F12.05-13.20,VLIB 201,Jan 10--Apr 29,C Morical
-UNIV,300,Accessing Information for Research,01,26374,1,TH14.55-16.10,VDEN 129,Jan 13--Jan 13,C Fisher
-UNIV,300,Accessing Information for Research,"","","",TH14.55-16.10,VDEN 129,"",""
-UNIV,300,Accessing Information for Research,"","","",TH14.55-16.10,VDEN 129,"",""
-UNIV,300,Accessing Information for Research,"","","",TH14.55-16.10,VDEN 129,"",""
+UNIV,300,Accessing Information for Research,01,26374,1,TH14.55-16.10,VLIB 260,Jan 13--Jan 13,C Fisher
+UNIV,300,Accessing Information for Research,"","","",TH14.55-16.10,VLIB 260,"",""
+UNIV,300,Accessing Information for Research,"","","",TH14.55-16.10,VLIB 260,"",""
+UNIV,300,Accessing Information for Research,"","","",TH14.55-16.10,VLIB 260,"",""
 UNIV,301,Career Exploration and Professional Development,01,27312,1,TU16.20-17.35,VUB 107,Jan 10--Apr 29,C Johnston
-UNIV,304,Transfer Student Seminar,01,27311,2,F12.05-13.55,VLIB 264,Jan 10--Apr 29,N Harrington
+UNIV,304,Transfer Student Seminar,01,27311,2,F12.05-13.55,VLIB 264,Jan 10--Apr 29,J Denrow
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,E Scott
 UNIV,398,Internship,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Hopkins
 WGSS,310,[M] Women Artists II,01,30661,3,"M,W13.30-14.45",VUB 107,Jan 10--Apr 29,N Thrush

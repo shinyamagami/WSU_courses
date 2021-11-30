@@ -41,21 +41,21 @@ AFS,102,Professional Development in the Agricultural and Natural Resource Scienc
 AFS,302,[M] Introduction to Agroecology,01,04590,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Murphy
 AFS,350,Food Systems in Western Washington,01,30865,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 AFS,401,[CAPS] Advanced Systems Analysis and Design in Agricultural and Food Systems,01,03495,3,"TU,TH13.30-14.45",SPRK 235,Jan 10--Apr 29,H Henning
-AFS,505,Topics in Computational and Analytical Methods for Scientists,01,07527,V,"TU,TH10.35-11.50",JSNH 343,Jan 10--Feb 11,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,02,07528,V,"TU,TH10.35-11.50",VC ARR,Jan 10--Feb 11,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,03,07529,V,"TU,TH10.35-11.50",VC ARR,Jan 10--Feb 11,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,04,07530,V,"TU,TH10.35-11.50",VC ARR,Jan 10--Feb 11,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,05,07531,V,"TU,TH10.35-11.50",VC ARR,Jan 10--Feb 11,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,06,07532,V,"TU,TH10.35-11.50",JSNH 343,Feb 14--Mar 25,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,07,07533,V,"TU,TH10.35-11.50",VC ARR,Feb 14--Mar 25,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,08,07534,V,"TU,TH10.35-11.50",VC ARR,Feb 14--Mar 25,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,09,07535,V,"TU,TH10.35-11.50",VC ARR,Feb 14--Mar 25,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,10,07536,V,"TU,TH10.35-11.50",VC ARR,Feb 14--Mar 25,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,11,07537,V,"TU,TH10.35-11.50",JSNH 343,Mar 28--Apr 29,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,12,07538,V,"TU,TH10.35-11.50",VC ARR,Mar 28--Apr 29,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,13,07539,V,"TU,TH10.35-11.50",VC ARR,Mar 28--Apr 29,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,14,07540,V,"TU,TH10.35-11.50",VC ARR,Mar 28--Apr 29,T Biggs
-AFS,505,Topics in Computational and Analytical Methods for Scientists,15,07541,V,"TU,TH10.35-11.50",VC ARR,Mar 28--Apr 29,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,01,07527,1,"TU,TH10.35-11.50",JSNH 343,Jan 10--Feb 11,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,02,07528,1,"TU,TH10.35-11.50",VC ARR,Jan 10--Feb 11,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,03,07529,1,"TU,TH10.35-11.50",VC ARR,Jan 10--Feb 11,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,04,07530,1,"TU,TH10.35-11.50",VC ARR,Jan 10--Feb 11,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,05,07531,1,"TU,TH10.35-11.50",VC ARR,Jan 10--Feb 11,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,06,07532,1,"TU,TH10.35-11.50",JSNH 343,Feb 14--Mar 25,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,07,07533,1,"TU,TH10.35-11.50",VC ARR,Feb 14--Mar 25,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,08,07534,1,"TU,TH10.35-11.50",VC ARR,Feb 14--Mar 25,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,09,07535,1,"TU,TH10.35-11.50",VC ARR,Feb 14--Mar 25,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,10,07536,1,"TU,TH10.35-11.50",VC ARR,Feb 14--Mar 25,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,11,07537,1,"TU,TH10.35-11.50",JSNH 343,Mar 28--Apr 29,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,12,07538,1,"TU,TH10.35-11.50",VC ARR,Mar 28--Apr 29,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,13,07539,1,"TU,TH10.35-11.50",VC ARR,Mar 28--Apr 29,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,14,07540,1,"TU,TH10.35-11.50",VC ARR,Mar 28--Apr 29,T Biggs
+AFS,505,Topics in Computational and Analytical Methods for Scientists,15,07541,1,"TU,TH10.35-11.50",VC ARR,Mar 28--Apr 29,T Biggs
 AFS,511,Statistical Methods for Graduate Researchers,01,07000,4,"TU,TH12.05-13.20",SPRK G0045,Jan 10--Apr 29,""
 AFS,511,Statistical Methods for Graduate Researchers,02,07191,4,"TU,TH12.05-13.20",VC ARR,Jan 10--Apr 29,""
 AFS,511,Statistical Methods for Graduate Researchers,03,07193,4,"TU,TH12.05-13.20",VC ARR,Jan 10--Apr 29,""
@@ -177,25 +177,24 @@ AMDT,600,Special Projects or Independent Study,03,"",V,ARRGT,ARR ARR,Jan 10--Apr
 AMDT,600,Special Projects or Independent Study,04,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Ghalachyan
 AMDT,600,Special Projects or Independent Study,05,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Son
 AMDT,600,Special Projects or Independent Study,06,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,C Hwang
-AMDT,700,"Master's Research, Thesis, and/or Examination",01,04379,V,ARRGT,ARR ARR,Jan 10--Apr 29,V Mccracken
+AMDT,700,"Master's Research, Thesis, and/or Examination",01,04379,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 AMDT,700,"Master's Research, Thesis, and/or Examination",02,05317,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Chi
 AMDT,700,"Master's Research, Thesis, and/or Examination",03,05318,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Liu
 AMDT,700,"Master's Research, Thesis, and/or Examination",04,05319,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Ghalachyan
 AMDT,700,"Master's Research, Thesis, and/or Examination",05,05320,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Son
-AMDT,700,"Master's Research, Thesis, and/or Examination",06,05321,V,ARRGT,ARR ARR,Jan 10--Apr 29,C Hwang
+AMDT,700,"Master's Research, Thesis, and/or Examination",06,05321,V,ARRGT,ARR ARR,Jan 10--Apr 29,X Lou
 AMDT,702,"Master's Special Problems, Directed Study and/or Examination",01,04380,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Ghalachyan
 AMDT,702,"Master's Special Problems, Directed Study and/or Examination",02,05322,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Chi
 AMDT,702,"Master's Special Problems, Directed Study and/or Examination",03,05323,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Liu
 AMDT,702,"Master's Special Problems, Directed Study and/or Examination",04,05324,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 AMDT,702,"Master's Special Problems, Directed Study and/or Examination",05,05325,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Son
-AMDT,702,"Master's Special Problems, Directed Study and/or Examination",06,05326,V,ARRGT,ARR ARR,Jan 10--Apr 29,C Hwang
+AMDT,702,"Master's Special Problems, Directed Study and/or Examination",06,05326,V,ARRGT,ARR ARR,Jan 10--Apr 29,X Lou
 AMER_ST,507,Contemporary Practices in American Cultural Studies,01,07556,3,W14-17,THOM 109,Jan 10--Apr 29,R Ong
 AMER_ST,560,Critical Studies in Race and Popular Culture,01,29602,3,TU14-17,THOM 109,Jan 10--Apr 29,S Ginsburg
 AMER_ST,800,"Doctoral Research, Dissertation, and/or Examination",01,03911,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ANIM_SCI,101,Introductory Animal Science,01,04638,3,"TU,TH9.10-10",CUE 202,Jan 10--Apr 29,M Maquivar
 ANIM_SCI,101,Introductory Animal Science,01 Lab,04639,0,TU12.05-14.45,CLAR 149,Jan 10--Apr 29,M Maquivar
 ANIM_SCI,101,Introductory Animal Science,02 Lab,04640,0,TU14.55-17.35,CLAR 149,Jan 10--Apr 29,M Maquivar
-ANIM_SCI,101,Introductory Animal Science,03 Lab,07268,0,M14.10-17,CLAR 151,Jan 10--Apr 29,M Maquivar
 ANIM_SCI,166,Young Horse Handling,01,05367,1,TU12.05-14.55,ARR ARR,Jan 10--Apr 29,A Reitmeier
 ANIM_SCI,166,Young Horse Handling,02,05368,1,TH12.05-14.55,ARR ARR,Jan 10--Apr 29,A Reitmeier
 ANIM_SCI,172,Dairy Cattle Management Laboratory,01,06337,1,TU13.30-16.20,ARR ARR,Jan 10--Apr 29,J Swain
@@ -227,7 +226,7 @@ ANIM_SCI,405,Ciders and Other Fermented Foods,01 Lab,06953,0,F13.10-16,FSHN 103,
 ANIM_SCI,408,[M] Ruminant Nutrition,01,04654,3,"M,W,F8.10-9",CLAR 149,Jan 10--Apr 29,K Johnson
 ANIM_SCI,451,[M] Endocrine Physiology,01,04655,3,"TU,TH9.10-10.25",JSNH C0105,Jan 10--Apr 29,G Murdoch
 ANIM_SCI,468,Applied Physiology of Cultured Fish,01,25700,3,"TU,TH12.05-13.20",CUE 209,Jan 10--Apr 29,M Phelps
-ANIM_SCI,474,[CAPS] [M] Beef Cattle Production,01,04657,3,"TU,TH10.35-11.25",CLAR 147,Jan 10--Apr 29,K Johnson
+ANIM_SCI,474,[CAPS] [M] Beef Cattle Production,01,04657,3,"TU,TH10.35-11.25",CLAR 149,Jan 10--Apr 29,K Johnson
 ANIM_SCI,474,[CAPS] [M] Beef Cattle Production,01 Lab,04658,0,TU13.30-16.20,JSNH C0105,Jan 10--Apr 29,K Johnson
 ANIM_SCI,485,[M] Applied Animal Behavior,01,05277,3,"M,W14.10-15",BRYN 305,Jan 10--Apr 29,E Clancey
 ANIM_SCI,485,[M] Applied Animal Behavior,01 Lab,05278,0,W15.10-17.40,BRYN 305,Jan 10--Apr 29,E Clancey
@@ -305,6 +304,7 @@ ANTH,513,Lithic Technological Organization,01,29582,4,M13.10-15.40,COLL 138,Jan 
 ANTH,513,Lithic Technological Organization,01 Lab,29583,0,W13.10-15.40,COLL 138,Jan 10--Apr 29,R Horowitz
 ANTH,547,Models and Simulation,01,29584,3,TU9.10-11.40,COLL 146,Jan 10--Apr 29,L Premo
 ANTH,550,Ethnolinguistics,01,29581,3,"TU,TH13.30-14.45",TODD 334,Jan 10--Apr 29,M Quinlan
+ANTH,554,Anthropological Field Methods Seminar,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,A Pisor
 ANTH,561,Current Trends in Evolutionary Anthropology,01,25740,3,W9.10-11.40,COLL 146,Jan 10--Apr 29,E Hagen
 ANTH,571,Stable Isotope Analysis in Anthropology,01,29587,4,TU12.15-14.45,COLL 138,Jan 10--Apr 29,E Thornton
 ANTH,571,Stable Isotope Analysis in Anthropology,01 Lab,29588,0,TH12.15-14.45,COLL 138,Jan 10--Apr 29,E Thornton
@@ -374,7 +374,6 @@ B_A,100,Introduction to Business,06,07344,3,"TU,TH14.55-16.10",CUE 219,Jan 10--A
 B_A,102,Exploring Careers in Business,01,24456,1,"W,F9.10-10",CUE 419,Jan 10--Feb 27,""
 B_A,102,Exploring Careers in Business,02,24457,1,"TU,TH14.55-15.45",CUE 419,Jan 10--Feb 27,L Ralstin
 B_A,102,Exploring Careers in Business,03,24458,1,"TU,TH9.10-10",CUE 419,Jan 10--Feb 27,M Chapman
-B_A,102,Exploring Careers in Business,04,"",1,"TU,TH16.20-17.10",CUE 219,Jan 10--Feb 27,""
 B_A,102,Exploring Careers in Business,06,24459,1,"TU,TH9.10-10",CUE 419,Mar 07--May 01,S Gaither
 B_A,102,Exploring Careers in Business,07,24461,1,"TU,TH14.55-15.45",CUE 419,Mar 07--May 01,L Ralstin
 B_A,102,Exploring Careers in Business,08,24462,1,"W,F9.10-10",CUE 219,Mar 07--May 01,""
@@ -416,6 +415,7 @@ B_A,206,Decision Analysis,03,08140,1,"M,W,F9.10-10",TODD 330,Mar 28--Apr 29,""
 B_A,206,Decision Analysis,04,08141,1,"TU,TH9.10-10.25",TODD 330,Mar 28--Apr 29,""
 B_A,206,Decision Analysis,05,08143,1,"TU,TH10.35-11.50",TODD 330,Mar 28--Apr 29,""
 B_A,206,Decision Analysis,06,08144,1,"TU,TH13.30-14.45",TODD 330,Mar 28--Apr 29,""
+B_A,598,Research and Professional Development,01,03889,1,F12.10-13,ARR ARR,Jan 10--Apr 29,C Munson
 B_A,702,"Master's Special Problems, Directed Study, and/or Examination",01,30910,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Carter
 B_LAW,210,Law and the Legal Environment of Business,01,05237,3,"M,W,F10.10-11",TODD 125,Jan 10--Apr 29,J Griffeath
 B_LAW,210,Law and the Legal Environment of Business,02,05238,3,"M,W,F11.10-12",TODD 125,Jan 10--Apr 29,J Griffeath
@@ -423,7 +423,7 @@ B_LAW,210,Law and the Legal Environment of Business,03,05239,3,"M,W,F15.10-16",T
 B_LAW,210,Law and the Legal Environment of Business,05,05240,3,"TU,TH16.20-17.35",TODD 125,Jan 10--Apr 29,J Smith-Hill
 B_LAW,210,Law and the Legal Environment of Business,06,05377,3,"M,W,F8.10-9",TODD 125,Jan 10--Apr 29,J Griffeath
 B_LAW,411,Legal Environment of Business II,01,07438,3,"TU,TH14.55-16.10",TODD 304,Jan 10--Apr 29,J Smith-Hill
-BIO_ENG,140,Introduction to Bioengineering,01,03040,1,F10.10-11,TODD 334,Jan 10--Apr 29,A Kostyukova
+BIO_ENG,140,Introduction to Bioengineering,01,03040,1,F10.10-11,TODD 334,Jan 10--Apr 29,A Vasavada
 BIO_ENG,210,Bioengineering Analysis,01,03041,2,W9.10-10,WEGN 205,Jan 10--Apr 29,A Vasavada
 BIO_ENG,210,Bioengineering Analysis,01 Lab,03042,0,TH9.10-12,WEGN 205,Jan 10--Apr 29,A Vasavada
 BIO_ENG,330,Bioinstrumentation,01,03043,3,"W,F14.10-15",WEGN 205,Jan 10--Apr 29,X Wang
@@ -437,21 +437,17 @@ BIO_ENG,456,Protein Bioengineering,01,30903,3,"M,W,F11.10-12",WEGN 205,Jan 10--A
 BIO_ENG,481,Advanced Topics in Bioengineering,01,"",V,"TU,TH14.55-16.10",WEGN G070C,Jan 10--Apr 29,X Wang
 BIO_ENG,495,Internship in Bioengineering,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Vasavada
 BIO_ENG,499,Special Problems in Bioengineering,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-BIO_ENG,541,Systems Bioengineering,01,29562,3,"M,W,F10.10-11",WEGN 205,Jan 10--Apr 29,A Vasavada
 BIO_ENG,556,Protein Bioengineering,01,30904,3,"M,W,F11.10-12",WEGN 205,Jan 10--Apr 29,D Tolkatchev
 BIOLOGY,101,[BSCI] Biology of Humans,01,03774,3,"M,W,F9.10-10",ABEL 201,Jan 10--Apr 29,N Ankrah
 BIOLOGY,102,[BSCI] General Biology,01,03775,4,"M,W,F10.10-11",TODD 116,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,01 Lab,03776,0,TU9.10-12,HLD 101,Jan 10--Apr 29,L Carloye
-BIOLOGY,102,[BSCI] General Biology,02 Lab,03777,0,TU9.10-12,EAST 192,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,03 Lab,03778,0,TU12.10-15,HLD 101,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,04 Lab,03779,0,TU12.10-15,EAST 192,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,05 Lab,03780,0,TU15.10-18,HLD 101,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,06 Lab,03781,0,TU15.10-18,EAST 192,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,07 Lab,03782,0,TU19.10-22,HLD 101,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,08 Lab,03783,0,W12.10-15,HLD 101,Jan 10--Apr 29,L Carloye
-BIOLOGY,102,[BSCI] General Biology,09 Lab,03784,0,W12.10-15,EAST 192,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,10 Lab,03785,0,W15.10-18,HLD 101,Jan 10--Apr 29,L Carloye
-BIOLOGY,102,[BSCI] General Biology,11 Lab,03786,0,W15.10-18,EAST 192,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,12 Lab,03787,0,W19.10-22,HLD 101,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,13 Lab,03788,0,TH9.10-12,HLD 101,Jan 10--Apr 29,L Carloye
 BIOLOGY,102,[BSCI] General Biology,14 Lab,03789,0,TH12.10-15,HLD 101,Jan 10--Apr 29,L Carloye
@@ -467,7 +463,6 @@ BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,06 Lab,03798,0,TU15.
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,07 Lab,03799,0,TU19.10-22,ABEL 202,Jan 10--Apr 29,M Jorgensen
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,08 Lab,03800,0,TU19.10-22,ABEL 226,Jan 10--Apr 29,M Jorgensen
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,09 Lab,03801,0,W9.10-12,ABEL 202,Jan 10--Apr 29,M Jorgensen
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,10 Lab,03802,0,W9.10-12,ABEL 226,Jan 10--Apr 29,M Jorgensen
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,11 Lab,03803,0,W15.10-18,ABEL 202,Jan 10--Apr 29,M Jorgensen
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,12 Lab,03804,0,W15.10-18,ABEL 226,Jan 10--Apr 29,M Jorgensen
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,13 Lab,03805,0,W19.10-22,ABEL 202,Jan 10--Apr 29,M Jorgensen
@@ -605,7 +600,7 @@ BIOLOGY,582,Professional Communication in Biology - Grant Writing,01,05830,2,M10
 BIOLOGY,589,Advanced Topics in Biology,01,06639,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Cousins
 BIOLOGY,589,Advanced Topics in Biology,02,06699,2,W13.10-15,ABEL 306,Jan 10--Apr 29,E Roalson
 BIOLOGY,589,Advanced Topics in Biology,03,07269,1,W11.10-12,TERR 106,Jan 10--Apr 29,H Watts
-BIOLOGY,589,Advanced Topics in Biology,04,30991,V,TU9.10-10,"",Jan 10--Apr 29,A Cavagnetto
+BIOLOGY,589,Advanced Topics in Biology,04,30991,V,TU9.10-10,ARR ARR,Jan 10--Apr 29,A Cavagnetto
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,03444,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 BIOLOGY,702,"Master's Special Problems, Directed Study and/or Examination",01,05732,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,03884,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -930,7 +925,7 @@ CHEM,348,Organic Chemistry II and Problem Solving,10 Lab,01114,0,W12.10-14,SPRK 
 CHEM,348,Organic Chemistry II and Problem Solving,11 Lab,01115,0,W13.10-15,WEBS B0008,Jan 10--Apr 29,""
 CHEM,348,Organic Chemistry II and Problem Solving,12 Lab,01116,0,F11.10-13,SLOA 5,Jan 10--Apr 29,""
 CHEM,348,Organic Chemistry II and Problem Solving,13 Lab,01117,0,TH13.30-15.20,WEBS B0008,Jan 10--Apr 29,""
-CHEM,348,Organic Chemistry II and Problem Solving,14 Lab,18589,0,TH10.35-12.25,VC PUL,Jan 10--Apr 29,""
+CHEM,348,Organic Chemistry II and Problem Solving,14 Lab,18589,0,TH10.35-12.25,GUC TBS,Jan 10--Apr 29,""
 CHEM,370,Chemical Biology,01,01118,3,"M,W,F11.10-12",TODD 430,Jan 10--Apr 29,J Jones
 CHEM,410,Advanced Synthesis and Characterization,01,01119,3,F14.10-15,FLMA 225,Jan 10--Apr 29,Z Heiden
 CHEM,410,Advanced Synthesis and Characterization,01 Lab,01120,0,"W,TH14.10-17",FLMA 445,Jan 10--Apr 29,""
@@ -1074,7 +1069,7 @@ COM,479,Youth and the Media,02,05745,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Tsui
 COM,481,Mobile Media,01,05402,3,"TU,TH10.35-11.50",BRYN 324,Jan 10--Apr 29,A Kirkpatrick
 COM,486,Crisis Communication,01,05834,3,"M,W,F11.10-12",THOM 24,Jan 10--Apr 29,E Tomson
 COM,490,Web Design and Usability,01,04498,3,"M,W,F10.10-11",GTZN 1,Jan 10--Apr 29,B Pingel
-COM,495,Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,S Stout
+COM,495,Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,W Wegner
 COM,495,Communication Professional Internship,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,B Shors
 COM,497,Practicum in Communication,01,"",V,"TU,TH14.55-16.10",MURR 218,Jan 10--Apr 29,D Petek
 COM,497,Practicum in Communication,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,M Marcelo
@@ -1151,6 +1146,7 @@ COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,02,04961,3
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,03,06950,3,"M,W,F14.10-15",SPRK 333,Jan 10--Apr 29,R Cooney
 COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,02,29637,3,"TU,TH10.35-11.50",SPRK 327,Jan 10--Apr 29,J Barnes
 COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,07156,3,"M,W,F9.10-10",THOM 24,Jan 10--Apr 29,W Raney
+COMSTRAT,475,Strategic Communication Seminar in Public Relations,04,"",3,"TU,TH14.55-16.10",VC PUL,Jan 10--Apr 29,C Thomas
 COMSTRAT,476,Consumer Insights and Branding,01,07903,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Kistler
 COMSTRAT,477,Message Design for Communication Campaigns,01,29638,3,"TU,TH13.30-14.45",THOM 215,Jan 10--Apr 29,C Thomas
 COMSTRAT,478,Health Communication,01,06026,3,"TU,TH9.10-10.25",CUE 318,Jan 10--Apr 29,Y Lee
@@ -1262,6 +1258,7 @@ CRM_J,420,[M] Criminal Procedure,01,04416,3,"M,W,F13.10-14",TODD 234,Jan 10--Apr
 CRM_J,424,Community Corrections,01,04417,3,"TU,TH13.30-14.45",TODD 413,Jan 10--Apr 29,F Lutze
 CRM_J,480,[CAPS] [M] Senior Capstone in Criminal Justice and Criminology,01,"",3,"M,W,F11.10-12",CUE 316,Jan 10--Apr 29,D Makin
 CRM_J,480,[CAPS] [M] Senior Capstone in Criminal Justice and Criminology,02,"",3,"TU,TH10.35-11.50",CUE 409,Jan 10--Apr 29,A Raza
+CRM_J,480,[CAPS] [M] Senior Capstone in Criminal Justice and Criminology,03,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,D Brody
 CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,S Keopanapay
 CRM_J,490,Criminal Justice Internship,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,S Keopanapay
 CRM_J,491,Special Topics: Study Abroad,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,M Neuilly
@@ -1325,23 +1322,22 @@ CROP_SCI,700,"Master's Research, Thesis, and/or Examination",16,05842,V,ARRGT,AR
 CROP_SCI,700,"Master's Research, Thesis, and/or Examination",17,05843,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Pumphrey
 CROP_SCI,700,"Master's Research, Thesis, and/or Examination",18,05844,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Sanguinet
 CROP_SCI,700,"Master's Research, Thesis, and/or Examination",19,05845,V,ARRGT,ARR ARR,Jan 10--Apr 29,Z Zhang
-CROP_SCI,702,"Master's Special Problems, Directed Study, and/or Examination",01,04868,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,04869,V,ARRGT,"",Jan 10--Apr 29,I Burke
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",02,04870,V,ARRGT,"",Jan 10--Apr 29,K Campbell
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",03,04871,V,ARRGT,"",Jan 10--Apr 29,A Carter
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",05,04872,V,ARRGT,"",Jan 10--Apr 29,K Gill
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",06,04873,V,ARRGT,"",Jan 10--Apr 29,S Hulbert
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",07,04874,V,ARRGT,"",Jan 10--Apr 29,R Brueggeman
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",08,04875,V,ARRGT,"",Jan 10--Apr 29,S Jones
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",09,04876,V,ARRGT,"",Jan 10--Apr 29,D Lyon
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",10,04877,V,ARRGT,"",Jan 10--Apr 29,R Mcgee
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",11,04878,V,ARRGT,"",Jan 10--Apr 29,L Carpenter-Boggs
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",13,04879,V,ARRGT,"",Jan 10--Apr 29,C Morris
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",14,04880,V,ARRGT,"",Jan 10--Apr 29,K Murphy
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",15,04881,V,ARRGT,"",Jan 10--Apr 29,M Neff
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",16,04882,V,ARRGT,"",Jan 10--Apr 29,M Pumphrey
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",17,05256,V,ARRGT,"",Jan 10--Apr 29,K Sanguinet
-CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",18,05257,V,ARRGT,"",Jan 10--Apr 29,Z Zhang
+CROP_SCI,702,"Master's Special Problems, Directed Study, and/or Examination",01,04868,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Pumphrey
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,04869,V,ARRGT,ARR ARR,Jan 10--Apr 29,I Burke
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",02,04870,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Campbell
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",03,04871,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Carter
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",05,04872,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Gill
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",06,04873,V,ARRGT,ARR ARR,Jan 10--Apr 29,S Hulbert
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",07,04874,V,ARRGT,ARR ARR,Jan 10--Apr 29,R Brueggeman
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",08,04875,V,ARRGT,ARR ARR,Jan 10--Apr 29,S Jones
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",09,04876,V,ARRGT,ARR ARR,Jan 10--Apr 29,D Lyon
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",10,04877,V,ARRGT,ARR ARR,Jan 10--Apr 29,R Mcgee
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",11,04878,V,ARRGT,ARR ARR,Jan 10--Apr 29,L Carpenter-Boggs
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",14,04880,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Murphy
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",15,04881,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Neff
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",16,04882,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Pumphrey
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",17,05256,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Sanguinet
+CROP_SCI,800,"Doctoral Research, Dissertation, and/or Examination",18,05257,V,ARRGT,ARR ARR,Jan 10--Apr 29,Z Zhang
 CSSTE,530,Readings in Cultural Studies and Social Thought in Education,01,06538,1,F13.10-15,CLEV 63,Jan 10--Apr 29,J Lupinacci
 CSSTE,534,Social Theory in Education,01,30637,3,W13.10-16,CLEV 221,Jan 10--Apr 29,A Gilmore
 CSSTE,537,Place-Based Education,01,25696,3,TH13.10-16,EDAD 116,Jan 10--Apr 29,T Watson
@@ -1679,7 +1675,7 @@ ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,03468,V,ARRGT
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,06370,1,W16.30-17.30,CLEV 221,Jan 10--Apr 29,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,06506,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ED_PSYCH,401,"Classroom Assessment, Elementary",01,"",3,"TU,TH14.15-15.30",CLEV 221,Jan 10--Apr 29,E Mcmain
-ED_PSYCH,401,"Classroom Assessment, Elementary",02,"",3,"TU,TH12.10-13.25",CLEV 221,Jan 10--Apr 29,K Tippett
+ED_PSYCH,401,"Classroom Assessment, Elementary",02,"",3,"TU,TH12.10-13.25",CLEV 311,Jan 10--Apr 29,K Tippett
 ED_PSYCH,468,"Classroom Assessment, Secondary",01,11156,3,"TU,TH10.10-12",EDAD 110,Feb 14--Apr 29,A Kirakosian
 ED_PSYCH,503,Advanced Educational Psychology,01,29572,3,TU16.10-19,CLEV 234,Jan 10--Apr 29,O Adesope
 ED_PSYCH,505,Research Methods I,01,05711,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Liao
@@ -1706,16 +1702,13 @@ ENGLISH,101,[WRTG] College Composition,01,03344,3,"M,W,F8.10-9",AVER 104,Jan 10-
 ENGLISH,101,[WRTG] College Composition,02,03345,3,"M,W,F9.10-10",AVER 106,Jan 10--Apr 29,M Bell
 ENGLISH,101,[WRTG] College Composition,03,03346,3,"M,W,F9.10-10",THOM 215,Jan 10--Apr 29,A Heile
 ENGLISH,101,[WRTG] College Composition,04,03347,3,"M,W,F9.10-10",MURR 242,Jan 10--Apr 29,G Doyle
-ENGLISH,101,[WRTG] College Composition,05,"",3,"M,W,F13.10-14",COLL 135,Jan 10--Apr 29,""
 ENGLISH,101,[WRTG] College Composition,06,03349,3,"M,W,F10.10-11",THOM 201,Jan 10--Apr 29,J Ankney
 ENGLISH,101,[WRTG] College Composition,07,03350,3,"M,W,F10.10-11",BRYN 324,Jan 10--Apr 29,G Doyle
-ENGLISH,101,[WRTG] College Composition,08,"",3,"TU,TH14.55-16.10",CUE 318,Jan 10--Apr 29,""
 ENGLISH,101,[WRTG] College Composition,09,03352,3,"M,W,F11.10-12",THOM 215,Jan 10--Apr 29,A Heile
 ENGLISH,101,[WRTG] College Composition,10,03353,3,"M,W,F8.10-9",MURR 229,Jan 10--Apr 29,C Gerard
 ENGLISH,101,[WRTG] College Composition,12,03355,3,"M,W,F13.10-14",MURR 229,Jan 10--Apr 29,G Maierhofer
 ENGLISH,101,[WRTG] College Composition,13,03356,3,"TU,TH9.10-10.25",SLOA 167,Jan 10--Apr 29,D Martin
 ENGLISH,101,[WRTG] College Composition,14,03357,3,"M,W,F15.10-16",AVER 12,Jan 10--Apr 29,L Kuhlman
-ENGLISH,101,[WRTG] College Composition,15,"",3,"TU,TH9.10-10.25",WEBS B0012,Jan 10--Apr 29,""
 ENGLISH,101,[WRTG] College Composition,16,03359,3,"TU,TH9.10-10.25",TODD 202,Jan 10--Apr 29,J Flathers
 ENGLISH,101,[WRTG] College Composition,17,03360,3,"TU,TH10.35-11.50",COLL 125,Jan 10--Apr 29,M Kollmer
 ENGLISH,101,[WRTG] College Composition,18,03361,3,"M,W,F11.10-12",DAGG 226,Jan 10--Apr 29,C Criss
@@ -1729,32 +1722,24 @@ ENGLISH,101,[WRTG] College Composition,25,03368,3,"M,W,F9.10-10",BRYN 406,Jan 10
 ENGLISH,101,[WRTG] College Composition,26,03369,3,"TU,TH9.10-10.25",CUE 216,Jan 10--Apr 29,J Padilla
 ENGLISH,101,[WRTG] College Composition,27,03370,3,"TU,TH10.35-11.50",SLOA 9,Jan 10--Apr 29,R Houle
 ENGLISH,101,[WRTG] College Composition,28,03371,3,"M,W,F11.10-12",TODD 202,Jan 10--Apr 29,R Daluwatte
-ENGLISH,101,[WRTG] College Composition,29,"",3,"M,W,F13.10-14",AVER 12,Jan 10--Apr 29,""
-ENGLISH,101,[WRTG] College Composition,32,"",3,"M,W,F9.10-10",SPRK 333,Jan 10--Apr 29,""
 ENGLISH,101,[WRTG] College Composition,33,03374,3,"M,W,F11.10-12",WLSH 3,Jan 10--Apr 29,C Gerard
 ENGLISH,101,[WRTG] College Composition,34,03375,3,"M,W,F13.10-14",CUE 412,Jan 10--Apr 29,C Criss
 ENGLISH,101,[WRTG] College Composition,35,03376,3,"M,W,F10.10-11",TODD 204,Jan 10--Apr 29,J Trinh
-ENGLISH,101,[WRTG] College Composition,36,"",3,"M,W,F15.10-16",BRYN 406,Jan 10--Apr 29,""
 ENGLISH,101,[WRTG] College Composition,37,03378,3,"M,W,F10.10-11",DAGG 232,Jan 10--Apr 29,R Wolney
 ENGLISH,101,[WRTG] College Composition,38,25615,3,"M,W,F9.10-10",SLOA 38,Jan 10--Apr 29,J Trinh
 ENGLISH,101,[WRTG] College Composition,39,03379,3,"M,W,F15.10-16",AVER 102,Jan 10--Apr 29,G Maierhofer
 ENGLISH,101,[WRTG] College Composition,40,03380,3,"TU,TH10.35-11.50",MURR 242,Jan 10--Apr 29,S Das
-ENGLISH,101,[WRTG] College Composition,41,"",3,"TU,TH12.05-13.20",BRYN 324,Jan 10--Apr 29,""
 ENGLISH,101,[WRTG] College Composition,42,03382,3,"M,W,F10.10-11",BRYN 406,Jan 10--Apr 29,A Heile
 ENGLISH,101,[WRTG] College Composition,43,03383,3,"M,W,F9.10-10",AVER 12,Jan 10--Apr 29,N John
 ENGLISH,101,[WRTG] College Composition,44,03384,3,"M,W,F9.10-10",DAGG 232,Jan 10--Apr 29,C Fernando
 ENGLISH,101,[WRTG] College Composition,46,03385,3,"M,W,F11.10-12",DAGG 232,Jan 10--Apr 29,N John
 ENGLISH,101,[WRTG] College Composition,47,03386,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Goodrich
 ENGLISH,101,[WRTG] College Composition,48,07090,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Coleman
-ENGLISH,101,[WRTG] College Composition,49,"",3,"TU,TH13.30-14.45",THOM 24,Jan 10--Apr 29,""
-ENGLISH,101,[WRTG] College Composition,50,"",3,"M,W,F13.10-14",BRYN 406,Jan 10--Apr 29,""
 ENGLISH,101,[WRTG] College Composition,51,05759,3,"M,W,F10.10-11",AVER 12,Jan 10--Apr 29,C Mcgill
-ENGLISH,101,[WRTG] College Composition,52,"",3,"TU,TH9.10-10.25",DAGG 226,Jan 10--Apr 29,""
 ENGLISH,101,[WRTG] College Composition,53,05994,3,"M,W,F9.10-10",THOM 209,Jan 10--Apr 29,C Woods
 ENGLISH,101,[WRTG] College Composition,54,05995,3,"M,W,F10.10-11",THOM 21,Jan 10--Apr 29,C Woods
 ENGLISH,101,[WRTG] College Composition,55,07601,3,"M,W,F11.10-12",AVER 12,Jan 10--Apr 29,J Ankney
 ENGLISH,101,[WRTG] College Composition,56,05996,3,"M,W,F15.10-16",AVER 104,Jan 10--Apr 29,C Criss
-ENGLISH,101,[WRTG] College Composition,58,"",3,"TU,TH9.10-10.25",BRYN 406,Jan 10--Apr 29,""
 ENGLISH,101,[WRTG] College Composition,59,05997,3,"TU,TH10.35-11.50",TODD 226,Jan 10--Apr 29,J Flathers
 ENGLISH,101,[WRTG] College Composition,61,07603,3,"TU,TH13.30-14.45",BRYN 324,Jan 10--Apr 29,D Martin
 ENGLISH,101,[WRTG] College Composition,63,07604,3,"TU,TH14.55-16.10",AVER 8,Jan 10--Apr 29,D Martin
@@ -1817,11 +1802,9 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,"",3,"M,W,F9.10-10"
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,"",3,"M,W,F10.10-11",AVER 104,Jan 10--Apr 29,P Cady
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,04,03293,3,"M,W,F12.10-13",MURR 229,Jan 10--Apr 29,R Sanchez
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,03294,3,"TU,TH13.30-14.45",CARP 101,Jan 10--Apr 29,L Levy
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,06,"",3,"M,W,F11.10-12",MURR 229,Jan 10--Apr 29,""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,07,03296,3,"TU,TH10.35-11.50",CUE 207,Jan 10--Apr 29,L Levy
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,08,03297,3,"TU,TH12.05-13.20",SLOA 38,Jan 10--Apr 29,B Fry
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,09,03298,3,"TU,TH12.05-13.20",MURR 229,Jan 10--Apr 29,D Martin
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,"",3,"M,W,F10.10-11",SLOA 233,Jan 10--Apr 29,""
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,03300,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Gowdy-Burke
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,03301,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Gowdy-Burke
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,13,03302,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Mccarthy
@@ -1873,7 +1856,7 @@ ENGLISH,590,Research in English Studies,01,03318,1,ARRGT,ARR ARR,Jan 10--Apr 29,
 ENGLISH,591,Topics in Pedagogy,01,07507,3,M14.10-16.40,GUC TBS,Jan 10--Apr 29,M Edwards
 ENGLISH,595,Topics in English,01,06941,3,W15.10-17.40,GUC TBS,Jan 10--Apr 29,M Nicolas
 ENGLISH,598,Teaching Apprenticeship,01,"",1,M12.10-13,ARR ARR,Jan 10--Apr 29,""
-ENGLISH,598,Teaching Apprenticeship,02,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,""
+ENGLISH,598,Teaching Apprenticeship,02,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,N Shahani
 ENGLISH,598,Teaching Apprenticeship,03,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,""
 ENGLISH,598,Teaching Apprenticeship,04,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,""
 ENGLISH,598,Teaching Apprenticeship,05,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,""
@@ -1894,9 +1877,8 @@ ENGR,120,Innovation in Design,02 Lab,03977,0,TU12.05-13.55,SLOA 241,Jan 10--Apr 
 ENGR,120,Innovation in Design,04 Lab,05430,0,TH12.05-13.55,SLOA 241,Jan 10--Apr 29,""
 ENGR,201,Metal Fabrication,01,03227,3,TU12.10-13,ELB 2,Jan 10--Apr 29,J Baser
 ENGR,201,Metal Fabrication,01 Lab,03229,0,"TU,TH13.10-16",ELB 59,Jan 10--Apr 29,J Baser
-ENGR,401,Entrepreneurship Boot Camp and the Entrepreneurial Mindset,01,03979,3,M16.10-17,SPRK 233,Jan 10--Apr 29,R Combs
-ENGR,401,Entrepreneurship Boot Camp and the Entrepreneurial Mindset,"","","",TU16.20-18.10,SPRK 333,"",""
-ENGR,421,[CAPS] [M] Multidisciplinary Engineering Design II,01,03985,3,"TU,TH12.05-13.20",TODD 211,Jan 10--Apr 29,R Combs
+ENGR,401,Entrepreneurship Boot Camp and the Entrepreneurial Mindset,01,03979,3,TU16.20-18.10,SPRK 333,Jan 10--Apr 29,R Combs
+ENGR,421,[CAPS] [M] Multidisciplinary Engineering Design II,01,03985,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Combs
 ENGR,421,[CAPS] [M] Multidisciplinary Engineering Design II,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cooper
 ENGR,421,[CAPS] [M] Multidisciplinary Engineering Design II,01 Lab,03986,0,ARRGT,ARR ARR,Jan 10--Apr 29,R Combs
 ENGR,421,[CAPS] [M] Multidisciplinary Engineering Design II,02 Lab,"",0,ARRGT,ARR ARR,Jan 10--Apr 29,L Cooper
@@ -1965,7 +1947,7 @@ ENTRP,490,[M] Entrepreneurial Marketing,01,05604,3,"M,W,F8.10-9",CUE 319,Jan 10-
 ENTRP,492,[CAPS] Small Business Strategy and Planning,01,03650,3,"M,W,F10.10-11",SPRK 327,Jan 10--Apr 29,G Mader
 ENTRP,492,[CAPS] Small Business Strategy and Planning,02,25669,3,"M,W,F11.10-12",SPRK 327,Jan 10--Apr 29,G Mader
 ENTRP,496,[M] Special Topics,01,"",1,W16-18.30,TODD 203,Jan 10--Apr 29,J Rose
-ENTRP,496,[M] Special Topics,02,30562,3,"W,F12.10-13",TODD 304,Jan 10--Feb 11,M Mayes
+ENTRP,496,[M] Special Topics,02,30562,1,"W,F12.10-13",TODD 304,Jan 10--Feb 11,M Mayes
 ENTRP,496,[M] Special Topics,03,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,M Mayes
 FIN,223,[QUAN] Personal Finance,01,03478,3,"M,W,F9.10-10",CUE 119,Jan 10--Apr 29,A Sorensen
 FIN,223,[QUAN] Personal Finance,02,05744,3,"M,W,F10.10-11",CUE 119,Jan 10--Apr 29,A Sorensen
@@ -2109,8 +2091,7 @@ FS,220,Food Safety and Quality,01,05690,3,"M,W,F13.10-14",HULB 27,Jan 10--Apr 29
 FS,350,Instrumental and Sensory Analysis of Food,01,25705,5,"M,W,F9.10-10",FSHN 103,Jan 10--Apr 29,C Ross
 FS,350,Instrumental and Sensory Analysis of Food,01 Lab,25707,0,W10.10-12.40,FSHN 140,Jan 10--Apr 29,C Ross
 FS,350,Instrumental and Sensory Analysis of Food,"","","",F10.10-12.40,FSHN 103,"",""
-FS,401,Topics in Food Science,01,04557,1,ARRGT,ARR ARR,Jan 10--Apr 29,T Bernhard
-FS,401,Topics in Food Science,06,07593,1,ARRGT,ARR ARR,Jan 10--Apr 29,""
+FS,401,Topics in Food Science,06,07593,1,ARRGT,ARR ARR,Jan 10--Apr 29,T Bernhard
 FS,405,Ciders and Other Fermented Foods,01,06395,3,"M,W11.10-12",CLAR 147,Jan 10--Apr 29,C Edwards
 FS,405,Ciders and Other Fermented Foods,01 Lab,06531,0,F13.10-16,FSHN 103,Jan 10--Apr 29,C Edwards
 FS,418,Oral Seminar in Food Science,01,04559,1,M10.10-11,FSHN 103,Jan 10--Apr 29,S Smith
@@ -2122,7 +2103,7 @@ FS,496,Internship in a Winery,01,04571,2,ARRGT,"",Jan 10--Apr 29,G Ganjyal
 FS,499,Special Problems,01,04573,V,ARRGT,ARR ARR,Jan 10--Apr 29,C Edwards
 FS,499,Special Problems,02,05785,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 FS,501,Topics in Food Science,03,07955,2,ARRGT,ARR ARR,Jan 10--Apr 29,G Ganjyal
-FS,501,Topics in Food Science,06,07233,1,ARRGT,ARR ARR,Jan 10--Apr 29,""
+FS,501,Topics in Food Science,06,07233,1,ARRGT,ARR ARR,Jan 10--Apr 29,T Bernhard
 FS,510,Functional Foods and Health,01,06021,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Bernhard
 FS,531,Advanced Food Safety and Quality,01,04576,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Bernhard
 FS,532,Advanced Food Microbiology,01,07518,3,"TU,TH14.55-16.10",FSHN 104A,Jan 10--Apr 29,M Zhu
@@ -2223,7 +2204,6 @@ HBM,101,Professional and Career Development for the Business World,01,22522,1,"M
 HBM,101,Professional and Career Development for the Business World,02,23716,1,"M,W,F11.10-12",CUE 219,Jan 10--Feb 27,A Thompson
 HBM,101,Professional and Career Development for the Business World,03,24470,1,"M,W,F14.10-15",CUE 319,Jan 10--Feb 27,A Thompson
 HBM,101,Professional and Career Development for the Business World,04,24471,1,"M,W,F9.10-10",CUE 419,Mar 07--May 01,A Thompson
-HBM,101,Professional and Career Development for the Business World,05,"",1,"M,W,F15.10-16",CUE 419,Mar 07--May 01,A Alonzo
 HBM,101,Professional and Career Development for the Business World,06,24473,1,"M,W,F13.10-14",CUE 319,Mar 07--May 01,A Thompson
 HBM,101,Professional and Career Development for the Business World,07,24474,1,"M,W,F11.10-12",CUE 219,Mar 07--May 01,A Thompson
 HBM,131,Introduction to Hospitality Business Management,01,04741,3,"M,W,F10.10-11",TODD 120,Jan 10--Apr 29,A Thompson
@@ -2245,7 +2225,7 @@ HBM,383,Meeting and Convention Management,01,15629,3,ARRGT,ARR ARR,Jan 10--Feb 2
 HBM,401,Career Management,01,04750,1,"M,W,F10.10-11",TODD 304,Jan 10--Feb 27,A Alonzo
 HBM,470,Living Management Operations Analysis,01,30094,3,ARRGT,ARR ARR,Jan 10--Feb 27,C Wolfenbarger
 HBM,475,[CAPS] Senior Living Management Capstone,01,30095,3,ARRGT,ARR ARR,Mar 07--May 01,""
-HBM,480,[M] Marketing Strategy and Development,01,06287,3,M11.10-14,SPRK 333,Jan 10--Apr 29,J Sandstrom
+HBM,480,[M] Marketing Strategy and Development,01,06287,3,M11.10-14,"",Jan 10--Apr 29,J Sandstrom
 HBM,491,Operational Analysis,01,12018,3,TH16.20-19.10,CUE 114,Mar 07--May 01,M Chen
 HBM,491,Operational Analysis,02,06998,3,"TU,TH13.30-14.45",SPRK 212,Jan 10--Apr 29,C Chi
 HBM,493,[CAPS] Food and Beverage Strategies,01,06999,3,"TU,TH10.35-11.50",SPRK 333,Jan 10--Apr 29,R Harrington
@@ -2255,6 +2235,7 @@ HBM,495,[CAPS] Case Studies and Research,01,07002,3,"M,W14.55-16",TODD 330,Jan 1
 HBM,496,Special Topics,03,"",3,ARRGT,ARR ARR,Feb 14--Mar 25,D Jha
 HBM,497,Special Topics,01,29943,3,"M,TU,W,TH,F17.10-19.45",TODD 303,Feb 07--Feb 25,A Thompson
 HBM,498,Hospitality Business Management Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Alonzo
+HBM,498,Hospitality Business Management Internship,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,L Cooper
 HBM,600,Special Projects or Independent Study,01,"",V,ARRGT,"",Jan 10--Apr 29,J Kim
 HBM,800,"Doctoral Research, Dissertation, and/or Examination",01,04757,V,ARRGT,"",Jan 10--Apr 29,J Kim
 HISTORY,102,[HUM] Modern Europe,01,02965,3,"TU,TH9.10-10.25",TODD 334,Jan 10--Apr 29,B Miller
@@ -2272,7 +2253,7 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,12,03720,3,"M,W,F14.10-15",C
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,13,03721,3,"M,W,F14.10-15",COLL 220,Jan 10--Apr 29,J Dodson
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,14,03723,3,"TU,TH9.10-10.25",COLL 125,Jan 10--Apr 29,K Phoenix
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,15,03722,3,"TU,TH9.10-10.25",TODD 116,Jan 10--Apr 29,A Malfavon
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,16,05804,3,"TU,TH9.10-10.25",SLOA 150,Jan 10--Apr 29,R Ellis Dodson
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,16,05804,3,"TU,TH9.10-10.25",SPRK 327,Jan 10--Apr 29,R Ellis Dodson
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,17,05802,3,"TU,TH10.35-11.50",WEGN G0001,Jan 10--Apr 29,B Miller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,18,05803,3,"TU,TH10.35-11.50",TODD 125,Jan 10--Apr 29,K Phoenix
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,20,05805,3,"TU,TH10.35-11.50",FULM 201,Jan 10--Apr 29,W Brecher
@@ -2281,7 +2262,7 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,22,05827,3,"TU,TH13.30-14.45
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,23,06028,3,"TU,TH13.30-14.45",FULM 125,Jan 10--Apr 29,K Phoenix
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,24,06029,3,"TU,TH13.30-14.45",TODD 420,Jan 10--Apr 29,B Miller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,25,06083,3,"TU,TH14.55-16.10",SPRK 327,Jan 10--Apr 29,R Ellis Dodson
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,26,06545,3,"TU,TH14.55-16.10",TODD 420,Jan 10--Apr 29,K Phoenix
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,26,06545,3,"TU,TH14.55-16.10",TODD 420,Jan 10--Apr 29,K Kipers
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,27,06546,3,"TU,TH14.55-16.10",TODD 413,Jan 10--Apr 29,B Miller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,28,06575,3,"M,W9.10-10",SPRK G0045,Jan 10--Apr 29,C Stratton
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,"","","",F9.10-10,WLSH 5,"",""
@@ -2312,8 +2293,8 @@ HISTORY,120,[DIVR] World History I,01,02952,3,"M,W,F11.10-12",TODD 334,Jan 10--A
 HISTORY,120,[DIVR] World History I,02,02953,3,"M,W,F13.10-14",TODD 404,Jan 10--Apr 29,N Overtoom
 HISTORY,121,[HUM] World History II,02,30569,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Herzog
 HISTORY,270,[DIVR] India: History and Culture,01,27490,3,"M,W,F12.10-13",TODD 334,Jan 10--Apr 29,L Turner-Rahman
-HISTORY,300,[M] Writing about History,01,"",3,"M,W,F10.10-11",CUE 216,Jan 10--Apr 29,K Whalen
-HISTORY,300,[M] Writing about History,03,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,S Herzog
+HISTORY,300,[M] Writing about History,01,"",3,"M,W,F10.10-11",CUE 216,Jan 10--Apr 29,S Herzog
+HISTORY,300,[M] Writing about History,03,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,K Whalen
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,03724,3,"M,W,F9.10-10",CUE 416,Jan 10--Apr 29,E Smelyansky
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,02,03725,3,"M,W,F10.10-11",WLSH 6,Jan 10--Apr 29,J Dodson
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,04,03727,3,"TU,TH9.10-10.25",CUE 409,Jan 10--Apr 29,G Kraszewski
@@ -2324,16 +2305,20 @@ HISTORY,337,Women in the Ancient World,01,30651,3,ARRGT,ARR ARR,Jan 10--Apr 29,N
 HISTORY,341,[HUM] Ancient Rome,01,02972,3,"M,W,F9.10-10",TODD 204,Jan 10--Apr 29,N Overtoom
 HISTORY,374,[HUM] Japanese Civilization,01,27492,3,"TU,TH13.30-14.45",SPRK G0010,Jan 10--Apr 29,W Brecher
 HISTORY,380,Introduction to Social Studies Methods,01,02964,3,"M,W,F13.10-14",CUE 114,Jan 10--Apr 29,T Jordan
-HISTORY,386,World War II in Europe,01,02966,3,"TU,TH10.35-11.50",TODD 204,Jan 10--Apr 29,R Sun
+HISTORY,386,World War II in Europe,01,02966,3,"TU,TH10.35-11.50",MURR 307,Jan 10--Apr 29,R Sun
 HISTORY,390,U.S. Military History,01,02960,3,"TU,TH9.10-10.25",CUE 319,Jan 10--Apr 29,O Svingen
+HISTORY,399,"[DIVR] Lesbian and Gay History: Culture, Politics and Social Change in the US",01,30742,3,ARRGT,ARR ARR,Jan 10--Apr 29,B Stack
+HISTORY,410,History of American Indian Sovereignty and Federal Indian Law,01,02968,3,ARRGT,ARR ARR,Jan 10--Apr 29,O Svingen
 HISTORY,411,The US and the World to World War I,01,27489,3,"M,W,F11.10-12",WLSH 6,Jan 10--Apr 29,N Kawamura
+HISTORY,418,"[HUM] United States, 1914-1945",01,25445,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Mccoy
 HISTORY,422,History of the Pacific Northwest,01,27488,3,"M,W,F14.10-15",SPRK 327,Jan 10--Apr 29,K Faunce
 HISTORY,430,[M] History of Mexico,01,27491,3,"TU,TH12.05-13.20",TODD 413,Jan 10--Apr 29,A Malfavon
+HISTORY,459,Modern Britain,01,02971,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Herzog
 HISTORY,465,Representations of the Holocaust,01,27495,3,"TU,TH13.30-14.45",FNA 5062,Jan 10--Apr 29,R Sun
 HISTORY,466,"History of the Cold War, 1944-present",01,27487,3,"M,W,F14.10-15",TODD 204,Jan 10--Apr 29,N Kawamura
 HISTORY,469,[M] Seminar in History,01,"",3,TU15.10-18,WLSH 5,Jan 10--Apr 29,L Heidenreich
 HISTORY,495,"[CAPS] Space, Place, and Power in History: Historical Geography in Global Perspective",01,02959,3,"M,W,F15.10-16",TODD 204,Jan 10--Apr 29,T Jordan
-HISTORY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,R Weller
+HISTORY,495,"[CAPS] Space, Place, and Power in History: Historical Geography in Global Perspective",03,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,A Whelchel
 HISTORY,499,Special Problems,04,"",V,ARRGT,ARR ARR,Feb 07--Mar 11,J Thigpen
 HISTORY,499,Special Problems,05,"",V,ARRGT,ARR ARR,Mar 21--Apr 18,J Thigpen
 HISTORY,509,Field Course: Foundations in US History,01,02951,3,TH15.10-18,WLSH 4,Jan 10--Apr 29,L Heidenreich
@@ -2383,7 +2368,7 @@ HORT,202,Crop Growth and Development,02 Lab,04685,0,TU13.30-16.10,VPBS 35,Jan 10
 HORT,202,Crop Growth and Development,03 Lab,05910,0,M14.10-17,VPBS 31,Jan 10--Apr 29,M Pumphrey
 HORT,331,Landscape Plant Installation and Management,01,04689,3,"M,W9.10-10",VPBS 31,Jan 10--Apr 29,C Kawula
 HORT,331,Landscape Plant Installation and Management,01 Lab,04690,0,TH13.30-16.10,VPBS 31,Jan 10--Apr 29,C Kawula
-HORT,331,Landscape Plant Installation and Management,02 Lab,07715,0,F10.10-13,VPBS 31,Jan 10--Apr 29,C Kawula
+HORT,331,Landscape Plant Installation and Management,02 Lab,07715,0,F11.10-14,VPBS 31,Jan 10--Apr 29,C Kawula
 HORT,350,Food Systems in Western Washington,01,30866,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 HORT,351,Plant Propagation,01,04687,4,"M,W,F10.10-11",JSNH 204,Jan 10--Apr 29,M Kumar
 HORT,351,Plant Propagation,01 Lab,04688,0,W14.10-17,VPBS 35,Jan 10--Apr 29,M Kumar
@@ -2487,7 +2472,6 @@ HUMANITY,101,[HUM] Humanities in the Ancient World,02,05752,3,ARRGT,ARR ARR,Jan 
 HUMANITY,103,[HUM] Mythology,01,27502,3,"TU,TH9.10-10.25",BRYN 404,Jan 10--Apr 29,S Gowdy-Burke
 HUMANITY,103,[HUM] Mythology,02,27503,3,"M,W,F11.10-12",SPRK 339,Jan 10--Apr 29,M Delahoyde
 HUMANITY,103,[HUM] Mythology,03,27504,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Siler
-HUMANITY,103,[HUM] Mythology,04,"",3,"M,W,F14.10-15",TODD 311,Jan 10--Apr 29,""
 HUMANITY,103,[HUM] Mythology,05,27506,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Goodrich
 HUMANITY,103,[HUM] Mythology,06,27507,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Goodrich
 HUMANITY,205,[HUM] Introduction to Shakespeare,01,08022,3,"M,W,F9.10-10",BRYN 305,Jan 10--Apr 29,M Delahoyde
@@ -2504,6 +2488,7 @@ I_BUS,453,[M] International Management,01,03634,3,"M,W,F9.10-10",TODD 413,Jan 10
 I_BUS,470,International Trade and Finance,01,03076,3,"M,W,F10.10-11",TDAD 276,Jan 10--Apr 29,M Gibson
 I_BUS,480,Advanced International Business and Leadership,01,08166,3,"TU,TH16.20-17.35",SPRK 323,Jan 10--Apr 29,D Jha
 I_BUS,482,[M] International Marketing,01,03635,3,"M,W,F12.10-13",SPRK G0010,Jan 10--Apr 29,A Donnadieu
+I_BUS,482,[M] International Marketing,05,"",3,ARRGT,ARR ARR,Mar 07--May 01,M Downes
 I_BUS,496,Special Topics,01,"",V,"TU,TH10.35-11.50",COLL 235,Jan 10--Apr 29,J Gramlich
 I_BUS,498,International Business Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Joireman
 I_BUS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Joireman
@@ -2535,6 +2520,7 @@ I_D,540,Research Methods,01,07190,3,"TU,TH10.35-11.50",DAGG 300A,Jan 10--Apr 29,
 I_D,598,Topics in Interior Design,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Theodorson
 I_D,702,"Master's Special Problems, Directed Study and/or Examination",01,04833,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 INTERDIS,490,McNair Preparation for Graduate School,01,03437,1,"M,W8.10-9",SPRK 212,Jan 10--Apr 29,R Herrera
+INTERDIS,591,Interdisciplinary Studies,01,"",1,TU16-17,FRAD 324F,Jan 10--Apr 29,L Gloss
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,03418,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 IPM,452,Pesticides and the Environment,01,05241,3,"TU,TH10.35-11.50",FSHN 354,Jan 10--Apr 29,A Felsot
 IPM,452,Pesticides and the Environment,02,"",3,"TU,TH10.35-11.50",VC ARR,Jan 10--Apr 29,A Felsot
@@ -2713,6 +2699,7 @@ KINES,499,Special Problems,12,04350,V,ARRGT,ARR ARR,Jan 10--Apr 29,C Connolly
 KINES,514,Motivation Theories,01,25603,3,M15.10-18,SGYM 201,Jan 10--Apr 29,S Ullrich-French
 KINES,550,Life Course Physical Activity,01,08137,3,TH16.30-19.20,SGYM 201,Jan 10--Apr 29,C Connolly
 KINES,562,Biomechanical Measurement Techniques,01,30610,3,TU15.10-18,SGYM 201,Jan 10--Apr 29,R Catena
+KINES,564,Movement Disorders,01,30999,3,W15.10-18,SGYM 201,Jan 10--Apr 29,S Prashad
 KINES,590,Kinesiology Seminar,01,08136,1,TH8-8.50,SGYM 201,Jan 10--Apr 29,R Catena
 KINES,600,Special Projects or Independent Study,01,08089,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 KINES,700,"Master's Research, Thesis, and/or Examination",01,08090,V,ARRGT,ARR ARR,Jan 10--Apr 29,R Catena
@@ -2876,7 +2863,7 @@ MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 MATH,499,Special Problems,02,01361,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Vixie
 MATH,502,Introduction to Functional Analysis,01,01362,3,"M,W,F10.10-11",SPRK 335,Jan 10--Apr 29,X Wang
 MATH,511,Advanced Linear Algebra,01,01363,3,"TU,TH12.05-13.20",SPRK 233,Jan 10--Apr 29,M Tsatsomeros
-MATH,529,Computational Topology,01,01438,3,"TU,TH10.35-11.50",CLAR 149,Jan 10--Apr 29,B Krishnamoorthy
+MATH,529,Computational Topology,01,01438,3,"TU,TH10.35-11.50",SPRK 225,Jan 10--Apr 29,B Krishnamoorthy
 MATH,532,Advanced Mathematical Thinking,01,01419,3,"M,W15.10-16.25",TODD 307,Jan 10--Apr 29,W Hall
 MATH,533,Teaching College Mathematics,01,01364,1,F12.10-13,CUE 316,Jan 10--Apr 29,A Higgins
 MATH,540,Applied Mathematics I: PDEs,01,01432,3,"M,W,F11.10-12",CLAR 151,Jan 10--Apr 29,A Khapalov
@@ -2884,7 +2871,7 @@ MATH,541,Applied Mathematics II: Complex Variables,01,01434,3,"M,W,F14.10-15",TO
 MATH,548,Numerical Analysis,01,01382,3,"TU,TH13.30-14.45",CLEV 30,Jan 10--Apr 29,D Deford
 MATH,565,Nonsmooth Analysis and Optimization with Applications,02,30130,3,"TU,TH13.30-14.45",EME B0046,Jan 10--Apr 29,T Asaki
 MATH,583,Topics in Applied Mathematics,01,01367,V,"M,W12-13.15",TERR 24,Jan 10--Apr 29,E Schwartz
-MATH,588,Topics in Computational Math,01,01448,V,"TU,TH12.05-12.55",TERR 106,Jan 10--Apr 29,S Lapin
+MATH,588,Topics in Computational Math,01,01448,V,"TU,TH12.05-13.20",TERR 106,Jan 10--Apr 29,S Lapin
 MATH,588,Topics in Computational Math,02,01452,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Cooper
 MATH,589,Topics in Analysis,01,01451,V,W13-16,TODD 220,Jan 10--Apr 29,K Vixie
 MATH,590,Topics in Mathematics Education,01,01368,V,TU16.10-17,CUE 418,Jan 10--Apr 29,""
@@ -2961,7 +2948,7 @@ MBIOS,411,[M] Diagnostic Medical Bacteriology,01,04081,3,M13.10-14,TODD 220,Jan 
 MBIOS,411,[M] Diagnostic Medical Bacteriology,01 Lab,04082,0,"M,W,F15.10-17",EAST G0095,Jan 10--Apr 29,M Rolfsmeier
 MBIOS,411,[M] Diagnostic Medical Bacteriology,02 Lab,04083,0,"M,W,F16.10-18",EAST G0080,Jan 10--Apr 29,M Rolfsmeier
 MBIOS,413,General Biochemistry,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,R Brosemer
-MBIOS,414,General Biochemistry,01,04085,3,"M,W,F11.10-12",BRYN 404,Jan 10--Apr 29,E Offerdahl
+MBIOS,414,General Biochemistry,01,04085,3,"M,W,F11.10-12",BRYN 404,Jan 10--Apr 29,J Maclean
 MBIOS,423,Human Genetics,01,04087,3,"TU,TH9.10-10.25",CARP 101,Jan 10--Apr 29,N Mccabe
 MBIOS,442,General Virology,01,04088,3,"M,W,F10.10-11",TODD 420,Jan 10--Apr 29,M Lanier
 MBIOS,446,Epidemiology,01,04090,3,"TU,TH10.35-11.50",WEB ARR,Jan 10--Apr 29,J Alderete
@@ -2976,7 +2963,7 @@ MBIOS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 MBIOS,501,Cell Biology,01,04075,3,"M,W,F14.10-15",TODD 125,Jan 10--Apr 29,E Shelden
 MBIOS,503,Advanced Molecular Biology I,01,04099,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Her
 MBIOS,513,General Biochemistry,01,04084,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Brosemer
-MBIOS,514,General Biochemistry,01,04086,3,"M,W,F11.10-12",BRYN 404,Jan 10--Apr 29,E Offerdahl
+MBIOS,514,General Biochemistry,01,04086,3,"M,W,F11.10-12",BRYN 404,Jan 10--Apr 29,J Maclean
 MBIOS,525,Advanced Topics in Genetics,01,05907,V,"TU,TH7.45-9",ARR ARR,Jan 10--Feb 11,""
 MBIOS,529,Selected Topics in Cell Biology,02,24054,V,"TU,TH7.45-9",ARR ARR,Feb 15--Mar 24,K Hayashi
 MBIOS,529,Selected Topics in Cell Biology,03,06917,V,"TU,TH7.45-9",ARR ARR,Mar 29--Apr 29,K Hayashi
@@ -2997,14 +2984,14 @@ MBIOS,700,"Master's Research, Thesis, and/or Examination",01,04105,V,ARRGT,ARR A
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,04106,V,ARRGT,ARR ARR,Jan 10--Apr 29,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",02,04107,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,04108,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-ME,116,Engineering Computer-aided Design and Visualization,01,04233,2,"TU,TH7.45-10.35",ETRL 249,Jan 10--Apr 29,S Li
-ME,116,Engineering Computer-aided Design and Visualization,02,04234,2,"TU,TH12.05-14.55",ETRL 249,Jan 10--Apr 29,S Li
-ME,116,Engineering Computer-aided Design and Visualization,03,04235,2,"TU,TH14.55-17.45",ETRL 249,Jan 10--Apr 29,S Li
+ME,116,Engineering Computer-aided Design and Visualization,01,04233,2,"TU,TH7.45-10.35",SLOA 249,Jan 10--Apr 29,S Li
+ME,116,Engineering Computer-aided Design and Visualization,02,04234,2,"TU,TH12.05-14.55",SLOA 249,Jan 10--Apr 29,S Li
+ME,116,Engineering Computer-aided Design and Visualization,03,04235,2,"TU,TH14.55-17.45",SLOA 249,Jan 10--Apr 29,S Li
 ME,212,Dynamics,01,04236,3,"M,W,F10.10-11",GTZN 21,Jan 10--Apr 29,N Biswas
 ME,212,Dynamics,03,05680,3,"M,W,F12.10-13",GTZN 21,Jan 10--Apr 29,N Perez Arancibia
-ME,216,Integrated CAD Design,01,04237,2,"TU,TH7.45-10.35",SLOA 249,Jan 10--Apr 29,K Qiu
-ME,216,Integrated CAD Design,02,04238,2,"TU,TH12.05-14.55",SLOA 249,Jan 10--Apr 29,N Biswas
-ME,216,Integrated CAD Design,03,04239,2,"TU,TH14.55-17.45",SLOA 249,Jan 10--Apr 29,N Biswas
+ME,216,Integrated CAD Design,01,04237,2,"TU,TH7.45-10.35",ETRL 249,Jan 10--Apr 29,K Qiu
+ME,216,Integrated CAD Design,02,04238,2,"TU,TH12.05-14.55",ETRL 249,Jan 10--Apr 29,N Biswas
+ME,216,Integrated CAD Design,03,04239,2,"TU,TH14.55-17.45",ETRL 249,Jan 10--Apr 29,N Biswas
 ME,220,Materials Laboratory,02,04241,1,M16.10-17,TODD 116,Jan 10--Apr 29,J Ding
 ME,220,Materials Laboratory,"","","",TU14.55-17.45,ETRL 106,"",""
 ME,220,Materials Laboratory,03,04242,1,M16.10-17,TODD 116,Jan 10--Apr 29,J Ding
@@ -3067,12 +3054,15 @@ ME,700,"Master's Research, Thesis, and/or Examination",01,04280,V,ARRGT,ARR ARR,
 ME,701,Master's Independent Capstone Project and /or Examination,01,25692,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ME,800,"Doctoral Research, Dissertation, and/or Examination",01,04282,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 MGMT,301,Principles of Management and Organization,01,05119,3,"TU,TH9.10-10.25",FLMA 226,Jan 10--Apr 29,R Moser
+MGMT,301,Principles of Management and Organization,03,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,J Gingras
 MGMT,401,Leading People and Organizations,01,05121,3,"TU,TH14.55-16.10",TODD 307,Jan 10--Apr 29,L Cooper
 MGMT,401,Leading People and Organizations,02,07227,3,"TU,TH13.30-14.45",THOM 21,Jan 10--Apr 29,R Moser
 MGMT,450,Personnel and Human Resources Management,01,05122,3,"M,W,F11.10-12",TODD 411,Jan 10--Apr 29,T Loi
 MGMT,450,Personnel and Human Resources Management,02,05123,3,"TU,TH13.30-14.45",TODD 301,Jan 10--Apr 29,K Kuhn
 MGMT,455,Recruiting and Hiring Human Capital,01,05124,3,"M,W,F9.10-10",TODD 301,Jan 10--Apr 29,T Loi
+MGMT,455,Recruiting and Hiring Human Capital,02,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,W Larson
 MGMT,456,[M] Evaluating and Rewarding Employees,01,05125,3,"TU,TH10.35-11.50",TODD 220,Jan 10--Apr 29,R Moser
+MGMT,456,[M] Evaluating and Rewarding Employees,02,"",3,ARRGT,ARR ARR,Mar 07--May 01,W Larson
 MGMT,483,[M] Management of Innovation and Change,01,05608,3,"TU,TH16.20-17.35",TODD 307,Jan 10--Apr 29,L Cooper
 MGMT,483,[M] Management of Innovation and Change,02,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,A Titi Amayah
 MGMT,485,[M] Negotiation Skills,01,06310,3,"TU,TH13.30-14.45",TODD 220,Jan 10--Apr 29,E Shin
@@ -3083,7 +3073,8 @@ MGMT,491,[CAPS] Strategic Management,03,05129,3,"TU,TH14.55-16.10",TODD 301,Jan 
 MGMT,491,[CAPS] Strategic Management,04,05130,3,"TU,TH13.30-14.45",TODD 234,Jan 10--Apr 29,A Sahaym
 MGMT,491,[CAPS] Strategic Management,05,05131,3,"TU,TH9.10-10.25",TODD 220,Jan 10--Apr 29,A Sahaym
 MGMT,491,[CAPS] Strategic Management,06,05757,3,"M,W,F13.10-14",TODD 307,Jan 10--Apr 29,J Cox
-MGMT,491,[CAPS] Strategic Management,07,07976,3,"M,W,F10.10-11",TODD 220,Jan 10--Apr 29,G Raina
+MGMT,491,[CAPS] Strategic Management,07,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,D Miller
+MGMT,491,[CAPS] Strategic Management,08,07976,3,"M,W,F10.10-11",TODD 220,Jan 10--Apr 29,G Raina
 MGMT,496,Seminar,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cooper
 MGMT,498,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 MGMT,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
@@ -3115,13 +3106,13 @@ MIL_SCI,102,National and International Role of the Army,02,03051,1,TU10.35-11.25
 MIL_SCI,102,National and International Role of the Army,03,03052,1,TU13.30-14.20,TODD 226,Jan 10--Apr 29,M Kelly
 MIL_SCI,202,The Officer as a Professional,01,03053,2,"M,W9.10-10",TODD 304,Jan 10--Apr 29,L Reece
 MIL_SCI,202,The Officer as a Professional,02,03054,2,"TU,TH10.35-11.25",TODD 304,Jan 10--Apr 29,L Reece
-MIL_SCI,302,Small Unit Tactics and Military Leadership,01,03055,3,"TU,TH12.05-13.20",SLOA 161,Jan 10--Apr 29,M Whittick
+MIL_SCI,302,Small Unit Tactics and Military Leadership,01,03055,3,"TU,TH12.05-13.20",CUE 407,Jan 10--Apr 29,M Whittick
 MIL_SCI,320,Leadership Development Assessment,01,"",6,TH15-17,TODD 130,Jan 10--Apr 29,M Sheftic
 MIL_SCI,320,Leadership Development Assessment,02,"",6,TH15-17,CUE 203,Jan 10--Apr 29,M Sheftic
 MIL_SCI,396,Leader Internship,01,"",6,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 MIL_SCI,402,Advanced Military Management and Practicum,01,03056,3,"TU,TH9.10-10.25",THOM 105,Jan 10--Apr 29,M Sheftic
 MIL_SCI,499,Special Problems,01,03057,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-MIS,250,Managing Information Technology,01,05102,3,"M,W,F15.10-16",TODD 311,Jan 10--Apr 29,""
+MIS,250,Managing Information Technology,01,05102,3,"M,W,F15.10-16",TODD 311,Jan 10--Apr 29,J Sarabadani
 MIS,250,Managing Information Technology,02,05103,3,"TU,TH10.35-11.50",CUE 419,Jan 10--Apr 29,V Reibenspiess
 MIS,250,Managing Information Technology,04,08026,3,"TU,TH14.55-16.10",CUE 319,Jan 10--Apr 29,V Reibenspiess
 MIS,250,Managing Information Technology,05,08027,3,"M,W,F8.10-9",CUE 419,Jan 10--Apr 29,V Compeau
@@ -3211,7 +3202,6 @@ MUS,153,[ARTS] Musical Style in Composition,02,04971,3,"TU,TH14.55-16.10",KIMB 1
 MUS,160,[ARTS] Survey of Music Literature,01,04972,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Agulay
 MUS,163,[ARTS] World Music,01,05349,3,"M,W,F13.10-14",KIMB 346,Jan 10--Apr 29,M Parkhurst
 MUS,164,Introduction to Music Technology,01,04973,1,TU10-10.50,KIMB 115,Jan 10--Apr 29,S Blasco
-MUS,181,Class Piano I,01,04974,1,"M,W,F12.10-1",KIMB 452,Jan 10--Apr 29,F Menchetti
 MUS,182,Class Piano II,01,04975,1,"M,W,F10.10-11",KIMB 452,Jan 10--Apr 29,D Snider
 MUS,190,Foundations of Music Education,01,05347,1,TU10-10.50,KIMB 245,Jan 10--Apr 29,M Myers
 MUS,202,Piano,01,06456,2,TU11-11.50,KIMB 110,Jan 10--Apr 29,F Menchetti
@@ -3327,9 +3317,17 @@ MUS,434,[ARTS] Symphony Orchestra,01,05037,1,"TU,TH15.10-17",KIMB B0048,Jan 10--
 MUS,435,Chamber Ensembles,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,R Boden
 MUS,435,Chamber Ensembles,02,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,D Singleton
 MUS,435,Chamber Ensembles,03,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,C Haas Costa
+MUS,435,Chamber Ensembles,04,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,C Dickey
 MUS,435,Chamber Ensembles,05,"",1,"TU,TH13.10-15",KIMB B0048,Jan 10--Apr 29,C Wilson
 MUS,435,Chamber Ensembles,06,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,M King
+MUS,435,Chamber Ensembles,07,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,D Turnbull
+MUS,435,Chamber Ensembles,08,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,S Miller
+MUS,435,Chamber Ensembles,09,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,H Young
+MUS,435,Chamber Ensembles,10,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,Y Roh
+MUS,435,Chamber Ensembles,11,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,A Agulay
+MUS,435,Chamber Ensembles,12,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,S Scott
 MUS,435,Chamber Ensembles,13,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,S Tegart
+MUS,435,Chamber Ensembles,14,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,D Luethi
 MUS,436,[ARTS] Symphonic Band,01,05041,1,"M,W,F14.10-15",KIMB B0048,Jan 10--Apr 29,T Bennefield
 MUS,437,[ARTS] Symphonic Wind Ensemble,01,05042,1,"M,W15.10-17",KIMB B0048,Jan 10--Apr 29,D Pham
 MUS,438,[ARTS] Jazz-Lab Band,01,05044,1,"M,TU,W,TH12.10-13",KIMB B0048,Jan 10--Apr 29,G Yasinitsky
@@ -3385,9 +3383,17 @@ MUS,534,[ARTS] Symphony Orchestra,01,05038,1,"TU,TH15.10-17",KIMB B0048,Jan 10--
 MUS,535,Chamber Ensembles,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,R Boden
 MUS,535,Chamber Ensembles,02,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,D Singleton
 MUS,535,Chamber Ensembles,03,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,C Haas Costa
+MUS,535,Chamber Ensembles,04,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,C Dickey
 MUS,535,Chamber Ensembles,05,"",1,"TU,TH13.10-15",KIMB B0048,Jan 10--Apr 29,C Wilson
 MUS,535,Chamber Ensembles,06,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,M King
+MUS,535,Chamber Ensembles,07,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,D Turnbull
+MUS,535,Chamber Ensembles,08,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,S Miller
+MUS,535,Chamber Ensembles,09,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,H Young
+MUS,535,Chamber Ensembles,10,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,Y Roh
+MUS,535,Chamber Ensembles,11,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,A Agulay
+MUS,535,Chamber Ensembles,12,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,S Scott
 MUS,535,Chamber Ensembles,13,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,S Tegart
+MUS,535,Chamber Ensembles,14,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,D Luethi
 MUS,537,[ARTS] Symphonic Wind Ensemble,01,05043,1,"M,W15.10-17",KIMB B0048,Jan 10--Apr 29,D Pham
 MUS,538,[ARTS] Jazz-Lab Band,01,05045,1,"M,TU,W,TH12.10-13",KIMB B0048,Jan 10--Apr 29,G Yasinitsky
 MUS,538,[ARTS] Jazz-Lab Band,02,05047,1,"M,W,F13.10-14",KIMB B0048,Jan 10--Apr 29,H Young
@@ -3403,13 +3409,14 @@ MUS,700,"Master's Research, Thesis, and/or Examination",01,05086,V,ARRGT,ARR ARR
 MUS,702,"Master's Special Problems, Directed Study, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,K Mccarthy
 MUS,702,"Master's Special Problems, Directed Study, and/or Examination",02,25686,V,ARRGT,ARR ARR,Jan 10--Apr 29,F Menchetti
 NEP,200,[SSCI] Place and Health,01,07960,3,"TU,TH9.10-10.25",VC ARR,Jan 10--Apr 29,O Amram
+NEP,499,Special Problems,01,25760,V,"TU,TH14.55-16.10",VC ARR,Jan 10--Apr 29,F Carbonero
 NEUROSCI,201,[COMM] Introduction to Communication in the Molecular Life Sciences,01,06020,3,M14.10-15,TODD 434,Jan 10--Apr 29,P Mixter
 NEUROSCI,201,[COMM] Introduction to Communication in the Molecular Life Sciences,01 Lab,06032,0,"W,F14.10-16",TODD 434,Jan 10--Apr 29,P Mixter
 NEUROSCI,302,Foundations of Neuroscience II,01,07382,3,"M,W,F10.10-11",CLAR 149,Jan 10--Apr 29,R Fuchs Lokensgard
 NEUROSCI,333,Techniques and Experimental Design in Neuroscience Research,01,30174,4,"TU,TH14-15.15",HULB 23,Jan 10--Apr 29,R Brown
 NEUROSCI,333,Techniques and Experimental Design in Neuroscience Research,01 Lab,30178,0,W14-17,VBRB 201,Jan 10--Apr 29,R Brown
-NEUROSCI,403,[M] Cellular Neurobiology,01,03899,3,"TU,TH10.35-11.50",BRYN 404,Jan 10--Apr 29,M Varnum
-NEUROSCI,404,Neuroanatomy,01,03896,4,"M,W,F13.10-14",MCOY 201N,Jan 10--Apr 29,H Jansen
+NEUROSCI,403,[M] Cellular Neurobiology,01,03899,3,"TU,TH10.35-11.50",FULM 125,Jan 10--Apr 29,M Varnum
+NEUROSCI,404,Neuroanatomy,01,03896,4,"M,W,F13.10-14",CUE 419,Jan 10--Apr 29,H Jansen
 NEUROSCI,404,Neuroanatomy,01 Lab,03897,0,TU14.10-17,MCOY 201N,Jan 10--Apr 29,H Jansen
 NEUROSCI,404,Neuroanatomy,02 Lab,03898,0,W14.10-17,MCOY 201N,Jan 10--Apr 29,H Jansen
 NEUROSCI,450,Honors Thesis Research,01,03425,V,ARRGT,"",Jan 10--Apr 29,S Gizerian
@@ -3438,7 +3445,7 @@ NEUROSCI,564,Topics in Biomedical Experimentation,08,25509,V,"TU,TH13.30-14.45",
 NEUROSCI,590,Seminar,01,03426,1,F12.10-13.30,VBRB 201,Jan 10--Apr 29,S Wayman
 NEUROSCI,600,Special Projects or Independent Study,01,03427,V,ARRGT,"",Jan 10--Apr 29,(multiple)
 NEUROSCI,700,"Master's Research, Thesis, and/or Examination",01,03428,V,ARRGT,"",Jan 10--Apr 29,(multiple)
-NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,03429,V,ARRGT,"",Jan 10--Apr 29,(multiple)
+NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,03429,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 PHIL,101,[HUM] Introduction to Philosophy,01,01471,3,"M,W,F11.10-12",SLOA 175,Jan 10--Apr 29,M Fagiano
 PHIL,101,[HUM] Introduction to Philosophy,02,01490,3,"TU,TH13.30-14.45",TODD 125,Jan 10--Apr 29,M Fagiano
 PHIL,103,[HUM] Introduction to Ethics,01,01472,3,"TU,TH10.35-11.50",JSNH C0107,Jan 10--Apr 29,L Hubbard-Mattix
@@ -3627,7 +3634,7 @@ POL_S,472,[CAPS] [M] European Politics,01,01656,3,"TU,TH13.30-14.45",TODD 404,Ja
 POL_S,497,Political Science Internship,01,01644,V,ARRGT,ARR ARR,Jan 10--Apr 29,R Elgar
 POL_S,497,Political Science Internship,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,R Elgar
 POL_S,498,Public Policy Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,R Elgar
-POL_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
+POL_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Mcleod
 POL_S,504,Quantitative Methods in Political Science,01,29941,3,M14.10-17,WLSH 4,Jan 10--Apr 29,M Salamone
 POL_S,511,Seminar in American Political Thought,01,01700,3,TH14.55-17.45,TODD 211,Jan 10--Apr 29,C Clayton
 POL_S,533,Topics in Political Psychology,01,01646,3,TU14.55-17.45,CUE 207,Jan 10--Apr 29,J Lewis
@@ -3783,7 +3790,7 @@ SOC,101,[SSCI] Introduction to Sociology,09,04388,3,"M,W12.10-13",TODD 116,Jan 1
 SOC,101,[SSCI] Introduction to Sociology,"","","",W13.10-14,WLSH 6,"",""
 SOC,101,[SSCI] Introduction to Sociology,11,04389,3,"M,W12.10-13",TODD 116,Jan 10--Apr 29,K Cutler
 SOC,101,[SSCI] Introduction to Sociology,"","","",F12.10-13,COLL 235,"",""
-SOC,101,[SSCI] Introduction to Sociology,13,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+SOC,101,[SSCI] Introduction to Sociology,13,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,E Allen
 SOC,102,[SSCI] Social Problems,01,04391,3,"M,W,F11.10-12",BRYN 305,Jan 10--Apr 29,M Amorim
 SOC,102,[SSCI] Social Problems,02,05261,3,"TU,TH10.35-11.50",FLMA 226,Jan 10--Apr 29,J Sherman
 SOC,103,[COMM] Social Psychology of Communication,01,06892,3,"TU,TH12.05-13.20",HLD G0003,Jan 10--Apr 29,J Kremer
@@ -3792,14 +3799,14 @@ SOC,245,Sociology of Sport,03,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,A Reshetnikov
 SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,04393,3,"TU,TH12.05-13.20",TODD 434,Jan 10--Apr 29,S Deming
 SOC,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,05158,3,"TU,TH12.05-13.20",SLOA 169,Jan 10--Apr 29,E Forsythe
 SOC,305,Degree and Careers,01,08131,1,W15.10-16,CUE 114,Jan 10--Apr 29,S Whitley
-SOC,310,Development of Social Theory,02,25695,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Horne
+SOC,310,Development of Social Theory,02,25695,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Bittinger
 SOC,317,[M] Research Methods in Sociology,01,04395,3,"TU,TH9.10-10.25",SPRK 335,Jan 10--Apr 29,D Bugden
 SOC,321,Quantitative Techniques in Sociology I,06,"",4,ARRGT,ARR ARR,Jan 10--Apr 29,J Schwartz
 SOC,332,[SSCI] Sustainability and Society,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,J Kremer
-SOC,334,Medical Sociology,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+SOC,334,Medical Sociology,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,J Collazo
 SOC,336,Sociology of Food,01,06298,3,"M,W,F12.10-13",TODD 216,Jan 10--Apr 29,S Whitley
 SOC,337,Climate Change in Your Lifetime,01,29598,3,"TU,TH10.35-11.50",TODD 307,Jan 10--Apr 29,D Bugden
-SOC,340,[DIVR] Social Inequality,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+SOC,340,[DIVR] Social Inequality,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,K Bittinger
 SOC,341,Inclusive Workplace Leadership,01,07031,3,TU16.20-18.50,SPRK 233,Jan 10--Apr 29,M Nesbitt
 SOC,350,Social Psychology,01,04038,3,"M,W,F10.10-11",CLEV 30,Jan 10--Apr 29,A Lau
 SOC,351,[DIVR] The Family,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,J Sherman
@@ -3810,7 +3817,7 @@ SOC,362,Juvenile Delinquency,01,05731,3,"TU,TH13.30-14.45",WEBS 11,Jan 10--Apr 2
 SOC,367,Juvenile Justice and Corrections,02,25682,3,"TU,TH13.30-14.45",WEGN G0001,Jan 10--Apr 29,""
 SOC,368,Drugs and Society,01,06503,3,"M,W,F11.10-12",TODD 130,Jan 10--Apr 29,K Cutler
 SOC,375,Aspects of Sustainable Development,01,05259,3,"TU,TH14.55-16.10",TODD 334,Jan 10--Apr 29,G Manandhar
-SOC,384,Sociology of Gender,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+SOC,384,Sociology of Gender,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,V Bright
 SOC,385,"[DIVR] Introduction to Lesbian, Gay, Bisexual, and Transgender Studies",01,06237,3,"TU,TH13.30-14.45",TODD 320,Jan 10--Apr 29,N Shahani
 SOC,418,Human Issues in International Development,01,05299,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Quinlan
 SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,S Whitley
@@ -3857,7 +3864,7 @@ SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,06725,4,"TU,
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,06726,0,M9.10-11.45,FLMA 223,Jan 10--Apr 29,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",02 Lab,06727,0,M12.10-14.45,FLMA 223,Jan 10--Apr 29,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",03 Lab,06810,0,W12.10-14.45,FLMA 223,Jan 10--Apr 29,K Whitman
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",04 Lab,06811,0,TU9.10-11.45,FLMA 223,Jan 10--Apr 29,K Whitman
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",04 Lab,06811,0,TH12.10-14.45,FULM 206,Jan 10--Apr 29,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",05 Lab,06812,0,TU12.10-14.45,FLMA 223,Jan 10--Apr 29,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",06 Lab,06813,0,TU12.10-14.45,FULM 206,Jan 10--Apr 29,K Whitman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",07 Lab,06814,0,TH12.10-14.45,FLMA 223,Jan 10--Apr 29,K Whitman
@@ -3999,7 +4006,7 @@ SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",06,03443,V,ARRGT,AR
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",07,05416,V,ARRGT,ARR ARR,Jan 10--Apr 29,D Griffin
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",08,05533,V,ARRGT,ARR ARR,Jan 10--Apr 29,D Huggins
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",10,05535,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Reganold
-SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",11,05856,V,ARRGT,ARR ARR,Jan 10--Apr 29,W Schillinger
+SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",11,05856,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Neely
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",12,05857,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Sullivan
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",13,05858,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Tao
 SOIL_SCI,700,"Master's Research, Thesis, and/or Examination",14,25738,V,ARRGT,ARR ARR,Jan 10--Apr 29,I Madsen
@@ -4011,7 +4018,7 @@ SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",05,04619,V,AR
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",06,04620,V,ARRGT,ARR ARR,Jan 10--Apr 29,G Lahue
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",07,04621,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Harsh
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",08,04622,V,ARRGT,ARR ARR,Jan 10--Apr 29,D Huggins
-SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",09,04623,V,ARRGT,ARR ARR,Jan 10--Apr 29,W Pan
+SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",09,04623,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Neely
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",10,04624,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Reganold
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",11,04625,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Sanguinet
 SOIL_SCI,800,"Doctoral Research, Dissertation, and/or Examination",12,05255,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Sullivan
@@ -4070,7 +4077,7 @@ SPEC_ED,522,Topics in Special Education,02,07105,V,W16.20-17.10,VC ARR,Jan 10--A
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,06261,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 SPEC_ED,589,Seminar in Disability Studies,01,05700,3,TH17.45-20.30,EDAD 116,Jan 10--Apr 29,M Poppen
 SPEC_ED,590,Practicum in Special Education,01,04923,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
-SPEC_ED,592,Single Subject Research Design and Methods,01,05701,3,W17.45-20.30,EDAD 116,Jan 10--Apr 29,H Whittenburg
+SPEC_ED,592,Single Subject Research Design and Methods,01,05701,3,W17.45-20.30,EDAD 110,Jan 10--Apr 29,H Whittenburg
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,04924,1,W16.20-17.10,VC PUL,Jan 10--Apr 29,M Dunn
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SPEC_ED,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
@@ -4168,6 +4175,7 @@ STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,01964,V,ARRGT,
 UNIV,100,College Majors and Career Exploration,02,14198,1,"TU,TH13.30-14.20",COLL 235,Jan 10--Mar 11,""
 UNIV,100,College Majors and Career Exploration,03,14393,1,"M,W11.10-12",CUE 407,Jan 10--Mar 11,""
 UNIV,100,College Majors and Career Exploration,04,15251,1,"M,W12.10-13",CUE 416,Jan 10--Mar 11,""
+UNIV,101,College Majors and Career Choice,08,"",2,"M,W15.10-16",BRYN 404,Jan 10--Apr 29,M Heim
 UNIV,104,First-Year Success Seminar,01,03186,2,"TU,TH9.10-10",CUE 405,Jan 10--Apr 29,S Solomon
 UNIV,104,First-Year Success Seminar,02,03187,2,"M,W12.10-13",CUE 209,Jan 10--Apr 29,C Williams
 UNIV,104,First-Year Success Seminar,03,03188,2,"TU,TH10.35-11.25",CUE 405,Jan 10--Apr 29,S Solomon
@@ -4558,7 +4566,6 @@ WGSS,410,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 WGSS,425,Philosophy and Feminism,01,05290,3,"TU,TH10.35-11.50",TERR 24,Jan 10--Apr 29,C Leeb
 WGSS,462,[M] Women and Ethics,01,29617,3,"TU,TH9.10-10.25",TODD 434,Jan 10--Apr 29,L Hubbard-Mattix
 WGSS,481,[M] Feminist Theory,01,05811,3,"TU,TH12.05-13.20",SPRK 323,Jan 10--Apr 29,L Carman
-WGSS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 WRIT,205,Sentence and Paragraph Construction Across the Disciplines,01,07950,1,M11.10-12,CUE 414,Jan 10--Apr 29,M Thongs
 WRIT,205,Sentence and Paragraph Construction Across the Disciplines,02,25711,1,TU10.10-11,CUE 414,Jan 10--Apr 29,M Thongs
 WRIT,205,Sentence and Paragraph Construction Across the Disciplines,03,30173,1,M10.10-11,CUE 414,Jan 10--Apr 29,M Thongs

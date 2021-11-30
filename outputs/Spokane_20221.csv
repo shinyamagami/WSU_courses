@@ -66,7 +66,7 @@ NEP,482,Nutrition and Exercise Practicum II,01 Lab,30563,0,"M,W11.30-14.30",SHER
 NEP,482,Nutrition and Exercise Practicum II,02 Lab,30565,0,"M,W15.30-18.30",SHER 334,Jan 10--Apr 29,J Larsen
 NEP,490,Exercise and Nutrition Internship,01,30238,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Larsen
 NEP,495,[CAPS] [M] Interprofessional Capstone in Nutrition and Exercise Physiology,01,30236,3,"M,W9.10-10.25",SHER 317,Jan 10--Apr 29,J Larsen
-NEP,499,Special Problems,01,27633,V,ARRGT,ARR ARR,Jan 10--Apr 29,F Carbonero
+NEP,499,Special Problems,01,27633,V,"TU,TH14.55-16.10",VC ARR,Jan 10--Apr 29,F Carbonero
 NEP,499,Special Problems,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,G Duncan
 NEP,499,Special Problems,03,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,H Haverkamp
 NEP,499,Special Problems,04,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Larsen
@@ -111,7 +111,9 @@ NEP,700,"Master's Research, Thesis, and/or Examination",04,30546,V,ARRGT,ARR ARR
 NEP,700,"Master's Research, Thesis, and/or Examination",05,30547,V,ARRGT,ARR ARR,Jan 10--Apr 29,P Monsivais
 NEP,700,"Master's Research, Thesis, and/or Examination",06,30548,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Perrigue
 NEP,700,"Master's Research, Thesis, and/or Examination",07,30549,V,ARRGT,ARR ARR,Jan 10--Apr 29,P Solverson
-NEP,701,Master's Independent Capstone Project and /or Examination,01,30521,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Davis
+NEP,701,Master's Independent Capstone Project and /or Examination,01,30521,V,F12.10-13,ARR ARR,Jan 14--Jan 14,A Davis
+NEP,701,Master's Independent Capstone Project and /or Examination,"","","",F12.10-13,ARR ARR,"",""
+NEP,701,Master's Independent Capstone Project and /or Examination,"","","",F12.10-13,ARR ARR,"",""
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,O Amram
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",02,30550,V,ARRGT,ARR ARR,Jan 10--Apr 29,F Carbonero
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",03,30551,V,ARRGT,ARR ARR,Jan 10--Apr 29,G Duncan
@@ -279,8 +281,8 @@ NURS,465,Application of Population Health Principles,01,29802,3,ARRGT,ARR ARR,Ja
 NURS,465,Application of Population Health Principles,02,29821,3,ARRGT,ARR ARR,Jan 10--Apr 08,S Edwards
 NURS,495,[CAPS] Advanced Practicum,01,29818,3,ARRGT,ARR ARR,Mar 07--May 06,V Denson
 NURS,495,[CAPS] Advanced Practicum,02,29826,3,ARRGT,ARR ARR,Mar 07--May 06,V Denson
-NURS,498,Special Topics in Nursing,01,29890,V,ARRGT,ARR ARR,Jan 10--Apr 29,V Denson
-NURS,498,Special Topics in Nursing,02,29891,V,ARRGT,ARR ARR,Jan 10--Apr 29,V Denson
+NURS,498,Special Topics in Nursing,01,29890,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Causey
+NURS,498,Special Topics in Nursing,02,29891,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Causey
 NURS,499,Special Problems,01,29815,V,ARRGT,ARR ARR,Jan 10--Apr 29,V Denson
 NURS,499,Special Problems,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,V Denson
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents",01,29845,3,W9.10-12,VC ARR,Jan 12--Jan 12,K Tietjen
@@ -560,8 +562,8 @@ PHARDSCI,519,Pharmaceutics Laboratory,03,27608,1,W14.10-16.30,SPBS 201,Jan 10--A
 PHARDSCI,519,Pharmaceutics Laboratory,50,27615,1,W8.10-10.30,ARR ARR,Jan 10--Apr 29,D Brand
 PHARDSCI,542,Integrated Pharmacology IV,01,27604,4,"TU,TH10.10-12",SHSB 110Z,Jan 10--Apr 29,S Wang
 PHARDSCI,542,Integrated Pharmacology IV,50,27618,4,"TU,TH10.10-12",ARR ARR,Jan 10--Apr 29,R Crutchley
-PHARDSCI,547,Drug Development,01,27619,2,TH15.10-17,"",Jan 10--Apr 29,T Denton
-PHARDSCI,547,Drug Development,50,27620,2,TH15.10-17,"",Jan 10--Apr 29,N Giruzzi
+PHARDSCI,547,Drug Development,01,27619,2,TH13.10-15,SHSB 110Z,Jan 10--Apr 29,T Denton
+PHARDSCI,547,Drug Development,50,27620,2,TH13.10-15,ARR ARR,Jan 10--Apr 29,N Giruzzi
 PHARDSCI,598,Honors Research,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PHARDSCI,598,Honors Research,50,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PHARDSCI,599,Special Projects,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -590,6 +592,12 @@ PHARMACY,541,Applied Patient Care III: Medication Therapy Management,03,27532,1,
 PHARMACY,541,Applied Patient Care III: Medication Therapy Management,"","","",W13.10-15,SPBS 304,"",""
 PHARMACY,541,Applied Patient Care III: Medication Therapy Management,50,27562,1,TU13.10-14,ARR ARR,Jan 10--Apr 29,J Luu
 PHARMACY,541,Applied Patient Care III: Medication Therapy Management,"","","",W10.10-12,ARR ARR,"",""
+PHARMACY,543,Introductory Pharmacy Practice Experience III,01,27533,1,F10.10-11,"",Jan 10--Apr 29,J Miller
+PHARMACY,543,Introductory Pharmacy Practice Experience III,"","","",M9.10-10,"","",""
+PHARMACY,543,Introductory Pharmacy Practice Experience III,"","","",F13.10-15,"","",""
+PHARMACY,543,Introductory Pharmacy Practice Experience III,50,27564,1,F10.10-11,"",Jan 10--Apr 29,A Stewart
+PHARMACY,543,Introductory Pharmacy Practice Experience III,"","","",M9.10-10,"","",""
+PHARMACY,543,Introductory Pharmacy Practice Experience III,"","","",F13.10-15,"","",""
 PHARMACY,544,Pharmacotherapy III,01,27534,4,"TU,TH8.10-10",SHSB 110Z,Jan 10--Apr 29,J Roullet
 PHARMACY,544,Pharmacotherapy III,50,27566,4,"TU,TH8.10-10",ARR ARR,Jan 10--Apr 29,A Kim
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,01,28213,3,TU15.10-16,"",Jan 10--Apr 29,J Miller
@@ -600,7 +608,9 @@ PHARMACY,555,Drug Information and Literature Evaluation,01,27558,4,"W,F8.10-10",
 PHARMACY,555,Drug Information and Literature Evaluation,50,27570,4,"W,F8.10-10",ARR ARR,Jan 10--Apr 29,A Kim
 PHARMACY,557,Pharmacotherapy V,01,27535,4,"W,F10.10-12",SHSB 110Z,Jan 10--Apr 29,M Undeberg
 PHARMACY,557,Pharmacotherapy V,50,27571,4,"W,F10.10-12",ARR ARR,Jan 10--Apr 29,N Giruzzi
-PHARMACY,559,Quality Assurance and Patient Safety,01,27551,2,TU14.10-16,SHSB 110Z,Jan 10--Apr 29,L Marcath
+PHARMACY,558,Applied Clinical Pharmacokinetics,01,27557,2,F8.10-10,"",Jan 10--Apr 29,J White
+PHARMACY,558,Applied Clinical Pharmacokinetics,50,27567,2,F8.10-10,"",Jan 10--Apr 29,J White
+PHARMACY,559,Quality Assurance and Patient Safety,01,27551,2,TU14.10-16,SHSB 110Z,Jan 10--Apr 29,L Esposo
 PHARMACY,559,Quality Assurance and Patient Safety,"","","",M14.10-16,SHSB 110Z,"",""
 PHARMACY,559,Quality Assurance and Patient Safety,"","","",M14.10-16,SHSB 110Z,"",""
 PHARMACY,559,Quality Assurance and Patient Safety,50,27565,2,TU14.10-16,ARR ARR,Jan 10--Apr 29,A Stewart
@@ -629,6 +639,8 @@ PHARMACY,572,Physical Activity Prescription in the Pharmacy,50,28451,2,ARRGT,ARR
 PHARMACY,574,Veterinary Pharmacy,01,27594,2,ARRGT,ARR ARR,Jan 10--Apr 29,S Williams
 PHARMACY,574,Veterinary Pharmacy,50,27596,2,ARRGT,ARR ARR,Jan 10--Apr 29,S Williams
 PHARMACY,575,Substance Use Disorders,01,"",1,W13.10-15,GUC SPK,Mar 07--Apr 29,N Rodin
+PHARMACY,580,Practical Politics and Pharmacy,01,27544,2,TH15.10-17,VC SPK,Jan 10--Apr 29,J Akers
+PHARMACY,580,Practical Politics and Pharmacy,50,27560,2,TH15.10-17,ARR ARR,Jan 10--Apr 29,J Akers
 PHARMACY,581,Acute Care Advanced Practice Experience,01,27549,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
 PHARMACY,581,Acute Care Advanced Practice Experience,50,27587,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
 PHARMACY,582,Ambulatory Care Advanced Practice Experience,01,27550,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
@@ -656,7 +668,7 @@ PHARMACY,591,Advanced Elective in Critical Care,01,27559,2,TH10.10-12,ARR ARR,Ja
 PHARMACY,591,Advanced Elective in Critical Care,50,27579,2,TH10.10-12,ARR ARR,Jan 10--Apr 29,A Cowgill
 PHARMACY,592,Mental Health First Aid,50,30463,2,F12.10-17,ARR ARR,Jan 10--Apr 29,""
 PHARMACY,593,Residency Preparation,01,27585,2,TH13.10-15,SAC 347,Jan 10--Apr 29,C Frazier
-PHARMACY,593,Residency Preparation,50,27586,2,TH13.10-15,ARR ARR,Jan 10--Apr 29,R Crutchley
+PHARMACY,593,Residency Preparation,50,27586,2,TH13.10-15,ARR ARR,Jan 10--Apr 29,""
 PHARMACY,597,Advanced Diabetes Management,01,28257,2,TH15.10-17,ARR ARR,Jan 10--Apr 29,J Neumiller
 PHARMACY,598,Advances in Clinical Pharmacogenomics,01,28513,2,W15.10-17,"",Jan 10--Apr 29,R Crutchley
 PHARMACY,598,Advances in Clinical Pharmacogenomics,50,28514,2,W15.10-17,"",Jan 10--Apr 29,R Crutchley
@@ -675,6 +687,7 @@ PHIL,564,Topics in Biomedical Experimentation,03,30180,V,"TU,TH9.10-10.25",SCRS 
 PREV_SCI,540,Effective Prevention Strategies II,01,28033,3,M13.10-16,SCRS 222,Jan 10--Apr 29,A Salazar
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,27750,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,27751,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+PSYCH,516,Applied Structural Equation Modeling with Current Software,01,27763,3,"TU,TH14.55-16.10",VC ARR,Jan 10--Apr 29,G Burns
 PSYCH,700,"Master's Research, Thesis, and/or Examination",01,27753,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Honn
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,27675,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Honn
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",02,27718,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Van Dongen
@@ -695,7 +708,9 @@ SHS,501,Research Methods,01,30608,3,"M,W16.10-17.25",SNRS 203,Jan 10--Apr 29,M V
 SHS,501,Research Methods,02,30609,3,"TU,TH16.10-17.25",SNRS 203,Jan 10--Apr 29,M Vandam
 SHS,542,Early Language Development,01,30209,2,TU13.10-15.50,SNRS 205,Jan 10--Mar 31,L Thompson
 SHS,542,Early Language Development,02,30210,2,W13.10-15.50,SNRS 205,Jan 10--Mar 31,L Thompson
-SHS,545,Autism Spectrum Disorder,01,30956,2,ARRGT,ARR ARR,Jan 10--Apr 29,L Thompson
+SHS,545,Autism Spectrum Disorder,01,30956,2,SA8-17,SAC 147,Jan 29--Jan 29,L Thompson
+SHS,545,Autism Spectrum Disorder,"","","",SA8-17,SAC 147,"",""
+SHS,545,Autism Spectrum Disorder,"","","",SA8-17,SAC 147,"",""
 SHS,552,Speech-Language Pathology and Audiology in Schools,01,30211,2,M13.10-14.50,SNRS 205,Jan 10--Apr 29,E Wilson-Fowler
 SHS,552,Speech-Language Pathology and Audiology in Schools,02,30227,2,TH13.10-14.50,SNRS 205,Jan 10--Apr 29,E Wilson-Fowler
 SHS,563,Dysphagia,01,30213,3,"M,W8-9.35",SHSB 125E,Jan 10--Apr 29,N Potter
