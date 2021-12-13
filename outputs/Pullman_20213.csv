@@ -115,7 +115,7 @@ AMDT,318,Merchandise Buying and Planning,02 Lab,04790,0,W14.10-15.50,JSNH 70,Aug
 AMDT,409,Technical Apparel Design,01,07555,3,"W,F9.10-11.40",JSNH C0113,Aug 23--Dec 10,A Ghalachyan
 AMDT,411,Advanced Apparel Design,01,04791,3,"TU,TH13.25-15.15",JSNH C0113,Aug 23--Dec 10,X Lou
 AMDT,417,[DIVR] [M] Multicultural Perspectives on the Body and Dress,02,04792,3,"TU,TH12.05-13.20",JSNH C0003,Aug 23--Dec 10,M Shaheen
-AMDT,430,Soft Goods Supply Chain Management,01,05612,3,"M,W,F13.10-14",JSNH C0001,Aug 23--Dec 10,""
+AMDT,430,Soft Goods Supply Chain Management,01,05612,3,"M,W,F13.10-14",JSNH C0001,Aug 23--Dec 10,X Lou
 AMDT,435,Retailing in the Apparel and Textile Industries,01,06914,3,"M,W,F14.10-15",JSNH C0001,Aug 23--Dec 10,Y Chen
 AMDT,488,Internship Preparation,01,04793,1,TU12.10-13,JSNH C0001,Aug 23--Dec 10,S Hiscock
 AMDT,490,Cooperative Education Internship,01,04794,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Hiscock
@@ -1274,7 +1274,7 @@ CPT_S,570,Machine Learning,01,05208,3,"TU,TH16.20-17.35",SLOA 175,Aug 23--Dec 10
 CPT_S,575,Data Science,01,06863,3,"M,W,F9.10-10",CARP 102,Aug 23--Dec 10,A Gebremedhin
 CPT_S,581,Software Maintenance,01,06913,3,ARRGT,ARR ARR,Aug 23--Dec 10,V Arnaoudova
 CPT_S,595,Directed Study in Computer Science,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
-CPT_S,600,Special Projects or Independent Study,01,05210,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
+CPT_S,600,Special Projects or Independent Study,01,05210,V,ARRGT,ARR ARR,Aug 23--Dec 10,J Cross
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,05211,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,05212,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,05213,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
@@ -2233,7 +2233,7 @@ FS,700,"Master's Research, Thesis, and/or Examination",02,05787,V,ARRGT,ARR ARR,
 FS,700,"Master's Research, Thesis, and/or Examination",03,05788,V,ARRGT,ARR ARR,Aug 23--Dec 10,F Critzer
 FS,700,"Master's Research, Thesis, and/or Examination",04,05789,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Michael
 FS,700,"Master's Research, Thesis, and/or Examination",05,05790,V,ARRGT,ARR ARR,Aug 23--Dec 10,C Ross
-FS,700,"Master's Research, Thesis, and/or Examination",06,05791,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
+FS,700,"Master's Research, Thesis, and/or Examination",06,05791,V,ARRGT,ARR ARR,Aug 23--Dec 10,M Zhu
 FS,700,"Master's Research, Thesis, and/or Examination",07,05792,V,ARRGT,ARR ARR,Aug 23--Dec 10,S Smith
 FS,700,"Master's Research, Thesis, and/or Examination",08,05793,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 FS,800,"Doctoral Research, Dissertation, and/or Examination",01,04360,V,ARRGT,ARR ARR,Aug 23--Dec 10,C Edwards
@@ -2675,7 +2675,7 @@ JAPANESE,205,Intermediate Conversation I,01,03494,1,F15.10-16,THOM 105,Aug 23--D
 JAPANESE,305,Intermediate Conversation II,01,06767,1,W11.10-12,THOM 19,Aug 23--Dec 10,K Niimi
 JAPANESE,308,Intermediate Grammar and Writing,01,05882,3,"TU,TH13.30-14.45",SLOA 5,Aug 23--Dec 10,R Abo
 JAPANESE,499,Special Problems,01,"",V,ARRGT,"",Aug 23--Dec 10,(multiple)
-KIN_ACTV,100,Special Topics,01,05240,1,ARRGT,ARR ARR,Aug 23--Dec 10,A Eaton
+KIN_ACTV,100,Special Topics,01,05240,1,ARRGT,ARR ARR,Aug 23--Dec 10,""
 KIN_ACTV,100,Special Topics,05,"",1,F13-16,PEB 145,Aug 23--Dec 10,K Stewart
 KIN_ACTV,101,Beginning Conditioning,01,05214,1,ARRGT,ARR ARR,Aug 23--Dec 10,T Barbour
 KIN_ACTV,106,Self Defense,01,05216,1,"M,W12.10-13",PEB 145,Aug 23--Dec 10,R Hunter
@@ -2848,7 +2848,7 @@ MATH,103,Algebra Methods and Introduction to Functions,18,01363,3,"M,W,F13.10-14
 MATH,103,Algebra Methods and Introduction to Functions,19,01364,3,"M,W,F14.10-15",TODD 220,Aug 23--Dec 10,X Wen
 MATH,103,Algebra Methods and Introduction to Functions,20,01457,3,"M,W,F9.10-10",SLOA 9,Aug 23--Dec 10,A Higgins
 MATH,103,Algebra Methods and Introduction to Functions,21,01458,3,"M,W,F15.10-16",CUE 418,Aug 23--Dec 10,D Baral
-MATH,103,Algebra Methods and Introduction to Functions,22,01459,3,"M,W,F14.10-15",CUE 409,Aug 23--Dec 10,I B. Hewayalage
+MATH,103,Algebra Methods and Introduction to Functions,22,01459,3,"M,W,F14.10-15",CUE 409,Aug 23--Dec 10,I Hewage
 MATH,103,Algebra Methods and Introduction to Functions,30,18658,3,"M,W,F16.10-17",CUE 318,Aug 23--Dec 10,R Williams
 MATH,105,[QUAN] Exploring Mathematics,01,01314,3,"M,W,F10.10-11",CLEV 30,Aug 23--Dec 10,E Sablan
 MATH,105,[QUAN] Exploring Mathematics,07,01478,3,"TU,TH9.10-10.25",GTZN 21,Aug 23--Dec 10,E Sablan
@@ -3316,8 +3316,8 @@ MSE,701,Master's Independent Capstone Project and /or Examination,01,07907,V,ARR
 MSE,702,"Master's Special Problems, Directed Study, and/or Examination",01,04493,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 MUS,102,Piano,01,04143,2,"M,W,F17.10-18",KIMB 452,Aug 23--Dec 10,L Terrill
 MUS,103,Voice,01,04144,2,"M,W12.10-13",KIMB 346,Aug 23--Dec 10,K Ray
-MUS,120,[ARTS] Class Guitar,01,04145,3,"M,W,F10.10-11",KIMB 115,Aug 23--Dec 10,C Haas Costa
-MUS,120,[ARTS] Class Guitar,02,05689,3,"M,W,F11.10-12",KIMB 115,Aug 23--Dec 10,C Haas Costa
+MUS,120,[ARTS] Class Guitar,01,04145,3,"M,W,F10.10-11",KIMB 115,Aug 23--Dec 10,C Haas
+MUS,120,[ARTS] Class Guitar,02,05689,3,"M,W,F11.10-12",KIMB 115,Aug 23--Dec 10,C Haas
 MUS,151,Music Fundamentals I,01,06011,3,"M,W,F8.10-9",KIMB 346,Aug 23--Dec 10,C Rodrigues
 MUS,153,[ARTS] Musical Style in Composition,02,02954,3,"TU,TH14.55-16.10",KIMB 101,Aug 23--Dec 10,D Snider
 MUS,160,[ARTS] Survey of Music Literature,01,04146,3,ARRGT,ARR ARR,Aug 23--Dec 10,K Mccarthy
@@ -3348,7 +3348,7 @@ MUS,215,Oboe,01,04164,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,K Mccarthy
 MUS,216,Clarinet,01,04165,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,S Scott
 MUS,217,Bassoon,01,04166,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,J Wilson
 MUS,218,Saxophone,02,06510,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,H Young
-MUS,220,Guitar,02,06522,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Haas Costa
+MUS,220,Guitar,02,06522,2,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Haas
 MUS,251,Materials and Structures of Music I,01,04167,3,"M,W,F8.10-9",KIMB 245,Aug 23--Dec 10,R Boden
 MUS,252,Applied Theory I,01,04168,1,"TU,TH8-8.50",KIMB 245,Aug 23--Dec 10,C Rodrigues
 MUS,252,Applied Theory I,02,04169,1,"TU,TH8-8.50",KIMB 346,Aug 23--Dec 10,J Wilson
@@ -3397,12 +3397,12 @@ MUS,319,Secondary Performance Study,10,"",2,TU11-11.50,ARR ARR,Aug 23--Dec 10,(m
 MUS,319,Secondary Performance Study,11,"",2,TU11-11.50,ARR ARR,Aug 23--Dec 10,M Myers
 MUS,319,Secondary Performance Study,12,"",2,TU11-11.50,ARR ARR,Aug 23--Dec 10,G Yasinitsky
 MUS,319,Secondary Performance Study,13,"",2,TU11-11.50,ARR ARR,Aug 23--Dec 10,(multiple)
-MUS,320,Guitar,01,"",V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Haas Costa
+MUS,320,Guitar,01,"",V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Haas
 MUS,351,Materials and Structures of Music III,01,04193,3,"M,W,F9.10-10",KIMB 245,Aug 23--Dec 10,J Wilson
 MUS,352,Applied Theory III,01,04194,1,"TU,TH9-9.50",KIMB 245,Aug 23--Dec 10,J Wilson
 MUS,352,Applied Theory III,02,04195,1,"TU,TH9-9.50",KIMB 346,Aug 23--Dec 10,D Turnbull
 MUS,360,[HUM] [M] History of Music: 1650 - 1850,01,04196,3,"M,W,F10.10-11",KIMB 245,Aug 23--Dec 10,S Scott
-MUS,362,[DIVR] History of Jazz,01,04197,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Haas Costa
+MUS,362,[DIVR] History of Jazz,01,04197,3,ARRGT,ARR ARR,Aug 23--Dec 10,C Haas
 MUS,362,[DIVR] History of Jazz,03,04199,3,"M,W,F12.10-13",KIMB 101,Aug 23--Dec 10,J Svendsen
 MUS,363,[DIVR] Women in Music,01,04200,3,"M,W,F15.10-16",KIMB 346,Aug 23--Dec 10,M Parkhurst
 MUS,363,[DIVR] Women in Music,02,06496,3,ARRGT,ARR ARR,Aug 23--Dec 10,S Tegart
@@ -3430,7 +3430,7 @@ MUS,415,Oboe,01,04213,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,K Mccarthy
 MUS,416,Clarinet,01,04214,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,S Scott
 MUS,417,Bassoon,01,04215,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,J Wilson
 MUS,418,Saxophone,01,"",V,TU11-11.50,KIMB 110,Aug 23--Dec 10,H Young
-MUS,420,Guitar,01,06513,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Haas Costa
+MUS,420,Guitar,01,06513,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Haas
 MUS,428,[ARTS] Opera Workshop,01,07459,1,"M,W15.10-17",KIMB 115,Aug 23--Dec 10,J Wieck
 MUS,431,[ARTS] Concert Choir,01,04216,1,"M,TU,W,TH14.10-15",KIMB B0042,Aug 23--Dec 10,D Luethi
 MUS,432,[ARTS] University Singers,01,08182,1,"M,W,F13.10-14",KIMB 115,Aug 23--Dec 10,M Myers
@@ -3448,7 +3448,7 @@ MUS,435,Chamber Ensembles,10,07288,1,ARRGT,ARR ARR,Aug 23--Dec 10,S Scott
 MUS,435,Chamber Ensembles,11,07289,1,ARRGT,ARR ARR,Aug 23--Dec 10,Y Roh
 MUS,435,Chamber Ensembles,12,07622,1,ARRGT,ARR ARR,Aug 23--Dec 10,D Luethi
 MUS,435,Chamber Ensembles,13,08100,1,ARRGT,ARR ARR,Aug 23--Dec 10,R Boden
-MUS,435,Chamber Ensembles,14,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,C Haas Costa
+MUS,435,Chamber Ensembles,14,"",1,ARRGT,ARR ARR,Aug 23--Dec 10,C Haas
 MUS,436,[ARTS] Symphonic Band,01,04223,1,"M,W,F14.10-15",KIMB B0048,Aug 23--Dec 10,T Bennefield
 MUS,437,[ARTS] Symphonic Wind Ensemble,01,04224,1,"M,W15.10-17",KIMB B0048,Aug 23--Dec 10,D Pham
 MUS,438,[ARTS] Jazz-Lab Band,01,04226,1,"M,TU,W,TH12.10-13",KIMB B0048,Aug 23--Dec 10,G Yasinitsky
@@ -3499,7 +3499,7 @@ MUS,519,Secondary Performance Study,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,C Dicke
 MUS,519,Secondary Performance Study,02,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,A Agulay
 MUS,519,Secondary Performance Study,03,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 MUS,519,Secondary Performance Study,04,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,F Menchetti
-MUS,520,Guitar,01,06515,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Haas Costa
+MUS,520,Guitar,01,06515,V,TU11-11.50,KIMB 110,Aug 23--Dec 10,C Haas
 MUS,522,Graduate Recital,01,"",2,ARRGT,ARR ARR,Aug 23--Dec 10,K Mccarthy
 MUS,528,[ARTS] Opera Workshop,01,07460,1,"M,W15.10-17",KIMB 115,Aug 23--Dec 10,J Wieck
 MUS,531,[ARTS] Concert Choir,01,04217,1,"M,TU,W,TH14.10-15",KIMB B0042,Aug 23--Dec 10,D Luethi
@@ -4652,15 +4652,15 @@ VET_MICR,591,Seminar in Diagnostic Microbiology,01,03149,1,ARRGT,"",Aug 23--Dec 
 VET_MICR,600,Special Projects or Independent Study,01,03150,V,ARRGT,ARR ARR,Aug 23--Dec 10,""
 VET_MICR,700,"Master's Research, Thesis, and/or Examination",01,03151,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 VET_MICR,800,"Doctoral Research, Dissertation, and/or Examination",01,03152,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-VET_PATH,542,Advanced Diagnostic Pathology,01,03352,1,ARRGT,"",Aug 23--Dec 10,""
+VET_PATH,542,Advanced Diagnostic Pathology,01,03352,1,ARRGT,ARR ARR,Aug 23--Dec 10,L White
 VET_PATH,544,Immunopathology,01,03353,4,ARRGT,"",Aug 23--Dec 10,S Bose
 VET_PATH,563,Deconstruction of Research,01,06376,3,"TU,TH10.35-11.50",CLAR 151,Aug 23--Dec 10,""
 VET_PATH,564,Topics in Biomedical Experimentation,01,07705,V,"TU,TH9.10-10.25",BLS 401,Aug 23--Dec 10,E Offerdahl
 VET_PATH,564,Topics in Biomedical Experimentation,02,18562,V,"TU,TH9.10-10.25",VBRB 201,Sep 27--Oct 29,G Wayman
 VET_PATH,571,Advanced Topics in Pathology,01,03355,V,ARRGT,"",Aug 23--Dec 10,""
-VET_PATH,592,Anatomic Pathology Seminar,01,03356,2,ARRGT,"",Aug 23--Dec 10,L White
+VET_PATH,592,Anatomic Pathology Seminar,01,03356,2,ARRGT,ARR ARR,Aug 23--Dec 10,L White
 VET_PATH,700,"Master's Research, Thesis, and/or Examination",01,03357,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
-VET_PATH,800,"Doctoral Research, Dissertation, and/or Examination",01,03358,V,ARRGT,"",Aug 23--Dec 10,(multiple)
+VET_PATH,800,"Doctoral Research, Dissertation, and/or Examination",01,03358,V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 VET_PH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 23--Dec 10,(multiple)
 VET_PH,563,Deconstruction of Research,01,06377,3,"TU,TH10.35-11.50",CLAR 151,Aug 23--Dec 10,""
 VET_PH,564,Topics in Biomedical Experimentation,01,07706,V,"TU,TH9.10-10.25",BLS 401,Aug 23--Dec 10,E Offerdahl
