@@ -1,9 +1,7 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 ACCTG,230,Introduction to Financial Accounting,01,15663,3,"M,W,F13.10-14",TFLO 230,Jan 10--Apr 29,K Jones
 ACCTG,231,Introduction to Managerial Accounting,01,15664,3,"TU,TH12.05-13.20",TCOL 126,Jan 10--Apr 29,K Jones
-AFS,350,Food Systems in Western Washington,01,30875,3,"M,W,F12.10-13",VC TRI,Jan 10--Apr 29,D Griffin
-AFS,511,Statistical Methods for Graduate Researchers,01,16786,4,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,""
-AFS,511,Statistical Methods for Graduate Researchers,01 Lab,16789,0,W15.10-17,VC TRI,Jan 10--Apr 29,""
+AFS,350,Food Systems in Western Washington,01,30875,3,"M,W,F12.10-13",TFLO 256,Jan 10--Apr 29,D Griffin
 ANTH,101,[DIVR] Introduction to Anthropology,01,30655,3,"M,W,F11.10-12",TCIC 216,Jan 10--Apr 29,M Mansperger
 ANTH,203,[DIVR] Global Cultural Diversity,01,16437,3,"TU,TH10.35-11.50",TCOL 202,Jan 10--Apr 29,M Mansperger
 ANTH,230,Archaeological Methods and Interpretation,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,K Sheets
@@ -23,31 +21,32 @@ BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01,15939,4,"M
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01 Lab,15940,0,W16.10-19,TCOL 226,Jan 10--Apr 29,E Sweet
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,02 Lab,15941,0,TH9.10-12,TCOL 226,Jan 10--Apr 29,E Sweet
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,03 Lab,15942,0,TH13.30-16.20,TCOL 226,Jan 10--Apr 29,E Sweet
+BIOLOGY,220,Medical Terminology,01,"",2,ARRGT,ARR ARR,Jan 10--Apr 29,A Causey
 BIOLOGY,251,Introductory Human Physiology,01,15815,4,"TU,TH10.35-11.50",TCOL 102,Jan 10--Apr 29,E Sweet
 BIOLOGY,251,Introductory Human Physiology,01 Lab,15816,0,TU17.45-20.35,TCOL 214,Jan 10--Apr 29,K Bergstrom
 BIOLOGY,251,Introductory Human Physiology,02 Lab,15817,0,M10.10-13,TCOL 214,Jan 10--Apr 29,K Bergstrom
 BIOLOGY,301,General Genetics,01,"",4,ARRGT,ARR ARR,Jan 10--Apr 29,N Mccabe
-BIOLOGY,340,Introduction to Mathematical Biology,01,31080,3,"TU,TH13.30-14.45",VC TRI,Jan 10--Apr 29,A Dimitrov
+BIOLOGY,340,Introduction to Mathematical Biology,01,31080,3,"TU,TH13.30-14.45",TFLO 256,Jan 10--Apr 29,A Dimitrov
 BIOLOGY,393,[M] Professional Communications in Biology,01,15943,2,W10.10-11,TFLO 244,Jan 10--Apr 29,L Nelson
 BIOLOGY,393,[M] Professional Communications in Biology,"","","",W11.10-12,TFLO 244,"",""
 BIOLOGY,403,Evolutionary Biology,01,16444,3,"M,W,F13.10-14",TCOL 202,Jan 10--Apr 29,L Nelson
-BIOLOGY,446,Mutualism and Symbiosis,01,16782,3,"M,W9.10-10.25",VC TRI,Jan 10--Apr 29,S Porter
+BIOLOGY,446,Mutualism and Symbiosis,01,16782,3,"M,W9.10-10.25",TFLO 210,Jan 10--Apr 29,S Porter
 BIOLOGY,473,[CAPS] [M] Evolution and Society,01,16020,3,"M,W,F9.10-10",TCOL 126,Jan 10--Apr 29,K Bergstrom
-BIOLOGY,475,Systems Biology of Reproduction,01,16024,3,"TU,TH10.35-11.50",VC TRI,Jan 10--Apr 29,M Skinner
+BIOLOGY,475,Systems Biology of Reproduction,01,16024,3,"TU,TH10.35-11.50",TFLO 247,Jan 10--Apr 29,M Skinner
 BIOLOGY,495,"Internship in Biology, Botany, and Zoology",02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 BIOLOGY,500,Seminar,01,15969,1,ARRGT,ARR ARR,Jan 10--Apr 29,T Cheeke
-BIOLOGY,500,Seminar,02,16961,1,M15.10-16.25,VC TRI,Jan 10--Apr 29,T Cheeke
+BIOLOGY,500,Seminar,02,16961,1,M15.10-16.25,TFLO 210,Jan 10--Apr 29,T Cheeke
 BIOLOGY,501,Proposal Defense Seminar,01,16621,2,ARRGT,ARR ARR,Jan 10--Apr 29,T Cheeke
-BIOLOGY,546,Mutualism and Symbiosis,01,16779,3,"M,W9.10-10.25",VC TRI,Jan 10--Apr 29,S Porter
-BIOLOGY,575,Systems Biology of Reproduction,01,16025,3,"TU,TH10.35-11.50",VC ARR,Jan 10--Apr 29,M Skinner
-BIOLOGY,582,Professional Communication in Biology - Grant Writing,01,16023,2,M10.30-12.30,VC TRI,Jan 10--Apr 29,A Cousins
+BIOLOGY,546,Mutualism and Symbiosis,01,16779,3,"M,W9.10-10.25",TFLO 210,Jan 10--Apr 29,S Porter
+BIOLOGY,575,Systems Biology of Reproduction,01,16025,3,"TU,TH10.35-11.50",TFLO 247,Jan 10--Apr 29,M Skinner
+BIOLOGY,582,Professional Communication in Biology - Grant Writing,01,16023,2,M10.30-12.30,TFLO 260,Jan 10--Apr 29,A Cousins
 BIOLOGY,600,Special Projects or Independent Study,01,16127,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Cheeke
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,15699,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Cheeke
 BIOLOGY,702,"Master's Special Problems, Directed Study and/or Examination",01,16004,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Cheeke
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,15648,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Cheeke
-BSYSE,512,Research and Teaching Methods,01,16672,3,TU10.10-11.50,VC TRI,Jan 10--Apr 29,J Wu
-BSYSE,512,Research and Teaching Methods,01 Lab,16673,0,TH10.10-13,VC TRI,Jan 10--Apr 29,J Wu
+BSYSE,512,Research and Teaching Methods,01,16672,3,TU10.10-11.50,TCIC 221,Jan 10--Apr 29,J Wu
+BSYSE,512,Research and Teaching Methods,01 Lab,16673,0,TH10.10-13,TFLO 260,Jan 10--Apr 29,J Wu
 BSYSE,551,Advanced Biological Systems Engineering Topics,01,15730,3,W10.10-12.55,TBSL 104,Jan 10--Apr 29,H Lei
 BSYSE,700,"Master's Research, Thesis, and/or Examination",01,15682,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 BSYSE,702,"Master's Special Problems, Directed Study and/or Examination",01,15683,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -80,10 +79,10 @@ CE,800,"Doctoral Research, Dissertation, and/or Examination",01,15776,V,ARRGT,AR
 CES,209,[HUM] Hip Hop Around the Globe,02,31014,3,ARRGT,ARR ARR,Jan 10--Apr 29,D Leonard
 CES,220,[HUM] Introduction to Multicultural Literature,01,30662,3,"M,W,F10.10-11",TCOL 126,Jan 10--Apr 29,G Escalera
 CES,332,[DIVR] [M] Topics in African American Literature,01,16645,3,"M,W,F9.10-10",TFLO 244,Jan 10--Apr 29,G Escalera
-CHE,481,Special Topics in Chemical Engineering,01,16663,3,"M,W,F10.10-11",VC TRI,Jan 10--Apr 29,X Zhang
-CHE,527,Chemical Thermodynamics,01,16497,3,"M,W,F14.10-15",VC TRI,Jan 10--Apr 29,J Mcewen
-CHE,529,Chemical Engineering Kinetics,01,16664,3,"TU,TH9.10-10.25",VC TRI,Jan 10--Apr 29,H Lin
-CHE,598,Research Seminar,01,15641,1,M16.10-17,VC TRI,Jan 10--Apr 29,J Petersen
+CHE,481,Special Topics in Chemical Engineering,01,16663,3,"M,W,F10.10-11",TFLO 224,Jan 10--Apr 29,X Zhang
+CHE,527,Chemical Thermodynamics,01,16497,3,"M,W,F14.10-15",TFLO 224,Jan 10--Apr 29,J Mcewen
+CHE,529,Chemical Engineering Kinetics,01,16664,3,"TU,TH9.10-10.25",TFLO 224,Jan 10--Apr 29,H Lin
+CHE,598,Research Seminar,01,15641,1,M16.10-17,TFLO 224,Jan 10--Apr 29,J Petersen
 CHE,700,"Master's Research, Thesis, and/or Examination",01,15642,V,ARRGT,ARR ARR,Jan 10--Apr 29,X Zhang
 CHE,702,"Master's Special Problems, Directed Study, and/or Examination",01,15643,V,ARRGT,ARR ARR,Jan 10--Apr 29,X Zhang
 CHE,800,"Doctoral Research, Dissertation, and/or Examination",01,15644,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -98,6 +97,7 @@ CHEM,106,Principles of Chemistry II,02 Lab,15847,0,TU13.30-16.20,TCOL 122,Jan 10
 CHEM,348,Organic Chemistry II and Problem Solving,01,15700,4,"M,W15.10-16.25",TCIC 210,Jan 10--Apr 29,N Devarie Baez
 CHEM,348,Organic Chemistry II and Problem Solving,02 Lab,16498,0,F14.10-16,TBSL 173,Jan 10--Apr 29,N Devarie Baez
 CHEM,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,E Silva Lopez
+CHEM,594,Seminar in Organic Chemistry,01,"",1,TU12.30-13.20,VC ARR,Jan 10--Apr 29,G Crouch
 CHEM,702,"Master's Special Problems, Directed Study, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,N Devarie Baez
 COM,102,[COMM] Public Speaking in the Digital Age,01,16065,3,"TU,TH12.05-13.20",TFLO 244,Jan 10--Apr 29,S Bisch
 COM,102,[COMM] Public Speaking in the Digital Age,04,16511,3,"M,W,F10.10-11",TFLO 133,Jan 10--Apr 29,S Bisch
@@ -115,29 +115,29 @@ CPT_S,360,Systems Programming C/C++,01 Lab,15746,0,F14.10-17,TFLO 145,Jan 10--Ap
 CPT_S,423,[CAPS] Software Design Project II,01,15756,3,F16.10-17,TFLO 133,Jan 10--Apr 29,B Philipp
 CPT_S,423,[CAPS] Software Design Project II,01 Lab,15757,0,F13.10-16,TFLO 133,Jan 10--Apr 29,B Philipp
 CPT_S,423,[CAPS] Software Design Project II,"","","",F17.10-20,TFLO 133,"",""
-CPT_S,427,Computer Security,01,16954,3,"M,W,F12.10-13",VC TRI,Jan 10--Apr 29,W Hutton
+CPT_S,427,Computer Security,01,16954,3,"M,W,F12.10-13",TFLO 224,Jan 10--Apr 29,W Hutton
 CPT_S,430,Numerical Analysis,01,15858,3,"TU,TH12.05-13.20",TCIC 219,Jan 10--Apr 29,J Miller
 CPT_S,451,Introduction to Database Systems,01,15922,3,"TU,TH16.20-17.35",TBSL 103,Jan 10--Apr 29,R Swannack
-CPT_S,483,Topics in Computer Science,01,15991,3,"TU,TH14.55-16.10",VC TRI,Jan 10--Apr 29,A Sukumaran Rajam
-CPT_S,487,Software Design and Architecture,02,30864,3,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,B Zeng
+CPT_S,483,Topics in Computer Science,01,15991,3,"TU,TH14.55-16.10",TFLO 224,Jan 10--Apr 29,A Sukumaran Rajam
+CPT_S,487,Software Design and Architecture,02,30864,3,"TU,TH12.05-13.20",TFLO 247,Jan 10--Apr 29,B Zeng
 CPT_S,490,Work Study Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,R Lewis
 CPT_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 CPT_S,499,Special Problems,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,D Cook
-CPT_S,516,Algorithmics,01,15750,3,"TU,TH16.20-17.35",VC TRI,Jan 10--Apr 29,Z Dang
-CPT_S,527,Computer Security,01,16955,3,"M,W,F12.10-13",VC TRI,Jan 10--Apr 29,W Hutton
+CPT_S,516,Algorithmics,01,15750,3,"TU,TH16.20-17.35",TFLO 224,Jan 10--Apr 29,Z Dang
+CPT_S,527,Computer Security,01,16955,3,"M,W,F12.10-13",TFLO 224,Jan 10--Apr 29,W Hutton
 CPT_S,530,Numerical Analysis,01,15859,3,"TU,TH12.05-13.20",TCIC 219,Jan 10--Apr 29,J Miller
-CPT_S,548,Advanced Computer Graphics,01,15995,3,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,R Lewis
-CPT_S,587,Software Design and Architecture,02,30868,3,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,B Zeng
+CPT_S,548,Advanced Computer Graphics,01,15995,3,"TU,TH12.05-13.20",TFLO 224,Jan 10--Apr 29,R Lewis
+CPT_S,587,Software Design and Architecture,02,30868,3,"TU,TH12.05-13.20",TFLO 247,Jan 10--Apr 29,B Zeng
 CPT_S,595,Directed Study in Computer Science,01,15758,V,ARRGT,ARR ARR,Jan 10--Apr 29,R Lewis
 CPT_S,600,Special Projects or Independent Study,01,15759,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 CPT_S,700,"Master's Research, Thesis, and/or Examination",01,15760,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,15761,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,15762,V,ARRGT,ARR ARR,Jan 10--Apr 29,R Lewis
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,K Runyan
-CROP_SCI,202,Crop Growth and Development,01,"",4,"M,W,F9.10-10",VC TRI,Jan 10--Apr 29,M Pumphrey
+CROP_SCI,202,Crop Growth and Development,01,"",4,"M,W,F9.10-10",TFLO 256,Jan 10--Apr 29,M Pumphrey
 CROP_SCI,202,Crop Growth and Development,01 Lab,15829,0,ARRGT,ARR ARR,Jan 10--Apr 29,B Bondada
 CROP_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Blauer
-CROP_SCI,511,Science Writing Workshop,01,16035,2,W10.10-12,VC TRI,Jan 10--Apr 29,K Campbell
+CROP_SCI,511,Science Writing Workshop,01,16035,2,W10.10-12,TFLO 260,Jan 10--Apr 29,K Campbell
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,15895,3,"M,W,F10.10-11",TCOL 202,Jan 10--Apr 29,P Mudd
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,15896,3,"M,W,F9.10-10",TFLO 138,Jan 10--Apr 29,P Mudd
 DTC,355,[M] Multimedia Authoring,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,T De Vries
@@ -149,13 +149,13 @@ DTC,497,[CAPS] Senior Seminar,01,16643,3,"TU,TH10.35-11.50",TFLO 138,Jan 10--Apr
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Plemons
 DTC,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Plemons
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
-E_E,221,Numerical Computing for Engineers,01,15777,2,"M,W15.10-16",TCOL 202,Jan 10--Apr 29,M Osman
+E_E,221,Numerical Computing for Engineers,01,15777,2,"M,W15.10-16",TFLO 145,Jan 10--Apr 29,M Osman
 E_E,234,Microprocessor Systems,01,15778,4,"M,W16.15-17.30",TFLO 131,Jan 10--Apr 29,M Engels
 E_E,234,Microprocessor Systems,01 Lab,15779,0,TU17.45-20.35,TFLO 164,Jan 10--Apr 29,M Engels
 E_E,234,Microprocessor Systems,"","","",TU17.45-20.35,TFLO 161,"",""
 E_E,261,Electrical Circuits I,01,15780,3,"M,W,F13.10-14",TFLO 252,Jan 10--Apr 29,D Lowry
 E_E,262,Electrical Circuits Laboratory I,01,15781,1,TH9.10-12,TFLO 164,Jan 10--Apr 29,D Lowry
-E_E,262,Electrical Circuits Laboratory I,02,16613,1,TU12.05-14.55,TFLO 164,Jan 10--Apr 29,D Lowry
+E_E,262,Electrical Circuits Laboratory I,02,16613,1,TU13.30-16.20,TFLO 164,Jan 10--Apr 29,D Lowry
 E_E,341,Signals and Systems,01,15783,3,"M,W,F12.10-13",TFLO 244,Jan 10--Apr 29,D Lowry
 E_E,341,Signals and Systems,"","","",F12.10-13,TBSL 104,"",""
 E_E,351,Distributed Parameter Systems,01,15784,3,"M,W,F15.10-16",TBSL 103,Jan 10--Apr 29,D Lowry
@@ -185,46 +185,45 @@ ECONS,101,[SSCI] Fundamentals of Microeconomics,02,"",3,ARRGT,ARR ARR,Jan 10--Ap
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,15687,3,"TU,TH9.10-10.25",TCIC 216,Jan 10--Apr 29,J Timmons
 ECONS,428,[DIVR] Global Capitalism Today: Perspectives and Issues,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,D Barai
 ED_AD,503,Values and Ethics for Educational Leaders,01,15876,3,TU17.45-20.30,VC ARR,Jan 10--Apr 29,J Walls
-ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VC TRI,"",""
-ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VC TRI,"",""
-ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VC TRI,"",""
-ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VC TRI,"",""
+ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,TFLO 260,"",""
+ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,TFLO 260,"",""
+ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,TFLO 260,"",""
+ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,TFLO 260,"",""
 ED_AD,509,Leading School Improvement,01,16509,3,TU17.45-20.30,WEB ARR,Jan 10--Apr 29,S Calderone
 ED_AD,509,Leading School Improvement,"","","",TU17.45-20.30,TCOL 202,"",""
 ED_AD,509,Leading School Improvement,"","","",TU17.45-20.30,TCOL 202,"",""
 ED_AD,509,Leading School Improvement,"","","",TU17.45-20.30,TCOL 202,"",""
 ED_AD,509,Leading School Improvement,"","","",TU17.45-20.30,TCOL 202,"",""
 ED_AD,521,Topics in Education,01,16938,3,M17.45-20.30,VC ARR,Jan 10--Apr 29,K Rodela
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC TRI,"",""
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC TRI,"",""
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC TRI,"",""
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,VC TRI,"",""
-ED_AD,583,Community and Communications,01,15705,3,W17.45-20.30,VC TRI,Jan 10--Apr 29,K Cowin
+ED_AD,521,Topics in Education,"","","",M17.45-20.30,TFLO 224,"",""
+ED_AD,521,Topics in Education,"","","",M17.45-20.30,TFLO 224,"",""
+ED_AD,521,Topics in Education,"","","",M17.45-20.30,TFLO 224,"",""
+ED_AD,521,Topics in Education,"","","",M17.45-20.30,TFLO 224,"",""
+ED_AD,583,Community and Communications,01,15705,3,W17.45-20.30,TFLO 210,Jan 10--Apr 29,K Cowin
 ED_AD,590,Internship,01,"",V,SA9-14,VC TRI,Jan 22--Jan 22,K Cowin
 ED_AD,590,Internship,"","","",SA9-14,VC TRI,"",""
 ED_AD,590,Internship,"","","",SA9-14,VC TRI,"",""
 ED_AD,590,Internship,"","","",SA9-14,VC TRI,"",""
 ED_AD,591,Action Research,01,16731,3,W17.45-20.30,VC ARR,Jan 10--Apr 29,S Calderone
-ED_AD,591,Action Research,"","","",W17.45-20.30,VC TRI,"",""
-ED_AD,591,Action Research,"","","",W17.45-20.30,VC TRI,"",""
-ED_AD,591,Action Research,"","","",W17.45-20.30,VC TRI,"",""
-ED_AD,591,Action Research,"","","",W17.45-20.30,VC TRI,"",""
+ED_AD,591,Action Research,"","","",W17.45-20.30,TFLO 260,"",""
+ED_AD,591,Action Research,"","","",W17.45-20.30,TFLO 260,"",""
+ED_AD,591,Action Research,"","","",W17.45-20.30,TFLO 260,"",""
+ED_AD,591,Action Research,"","","",W17.45-20.30,TFLO 260,"",""
 ED_AD,600,Special Projects or Independent Study,01,15656,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,15657,V,ARRGT,ARR ARR,Jan 10--Apr 29,K Cowin
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,15658,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,15647,1,W16.30-17.30,VC TRI,Jan 10--Apr 29,A Cavagnetto
+ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,15647,1,W16.30-17.30,TFLO 256,Jan 10--Apr 29,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,16095,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-ED_PSYCH,505,Research Methods I,01,15662,3,M17.45-20.30,VC TRI,Jan 10--Apr 29,Y Ardasheva
-ED_PSYCH,508,Educational Statistics,01,16732,3,M16.10-19,VC TRI,Jan 10--Apr 29,B French
-ED_RES,562,"Epistemology, Inquiry, and Representation",01,16939,3,TU17.45-20.30,VC TRI,Jan 10--Apr 29,A Rud
-ED_RES,563,Principles of Research,01,15646,3,TU17.45-20.30,VC TRI,Jan 10--Apr 29,R Danielson
-ED_RES,563,Principles of Research,02,17016,3,TU17.45-20.30,VC TRI,Jan 10--Apr 29,H Liao
+ED_PSYCH,505,Research Methods I,01,15662,3,M17.45-20.30,TFLO 210,Jan 10--Apr 29,Y Ardasheva
+ED_PSYCH,508,Educational Statistics,01,16732,3,M16.10-19,TFLO 260,Jan 10--Apr 29,B French
+ED_RES,562,"Epistemology, Inquiry, and Representation",01,16939,3,TU17.45-20.30,TCIC 125T,Jan 10--Apr 29,A Rud
+ED_RES,563,Principles of Research,01,15646,3,TU17.45-20.30,TFLO 256,Jan 10--Apr 29,R Danielson
 ED_RES,564,Qualitative Research,01,15929,3,TH17.45-20.30,VC ARR,Jan 10--Apr 29,S Finley
-ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,VC TRI,"",""
-ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,VC TRI,"",""
-ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,VC TRI,"",""
-ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,VC TRI,"",""
-ED_RES,564,Qualitative Research,02,16676,3,TU17.45-20.35,VC TRI,Jan 10--Apr 29,A Roth-Mcduffie
+ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,TFLO 224,"",""
+ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,TFLO 224,"",""
+ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,TFLO 224,"",""
+ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,TFLO 224,"",""
+ED_RES,564,Qualitative Research,02,16676,3,TU17.45-20.35,TFLO 247,Jan 10--Apr 29,A Roth-Mcduffie
 ENGLISH,101,[WRTG] College Composition,01,15676,3,"TU,TH9.10-10.25",TCIC 214,Jan 10--Apr 29,P Weatherly
 ENGLISH,101,[WRTG] College Composition,02,15890,3,"M,W,F11.10-12",TCOL 126,Jan 10--Jan 23,R Mays
 ENGLISH,101,[WRTG] College Composition,"","","","M,W11.10-12",TCOL 126,"",""
@@ -238,18 +237,17 @@ ENGLISH,362,[DIVR] Rhetorics of Racism,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,P Wi
 ENGLISH,373,[HUM] 20th and 21st Century Global Literatures in English,01,15974,3,"TU,TH9.10-10.25",TCOL 126,Jan 10--Apr 29,G Escalera
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,15823,3,"TU,TH10.35-11.50",TCIC 214,Jan 10--Apr 29,P Weatherly
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,15891,3,"M,W,F9.10-10",TCIC 214,Jan 10--Apr 29,V Cozza
-ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,15824,3,M12.10-13.50,VC TRI,Jan 10--Apr 29,R Mays
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,03,15824,3,M12.10-13.50,TFLO 210,Jan 10--Apr 29,R Mays
 ENGLISH,419,The Twentieth Century Novel,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,J Hegglund
 ENGLISH,494,[CAPS] [M] Advanced Topics in Literature,01,30665,3,"TU,TH12.05-13.20",TCIC 214,Jan 10--Apr 29,M Mays
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,V Cozza
 ENGLISH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-ENTOM,351,Ecological and Integrated Pest Management,01,15873,3,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,A Felsot
-ENTOM,490,Special Topics in Entomology,01,16766,2,TU10.35-12.25,VC TRI,Jan 10--Apr 29,D James
-ENTOM,511,Science Writing Workshop,01,16037,2,W10.10-12,VC TRI,Jan 10--Apr 29,K Campbell
-ENTOM,590,Special Topics in Entomology,01,16767,V,TU10.35-12.25,VC TRI,Jan 10--Apr 29,D James
+ENTOM,351,Ecological and Integrated Pest Management,01,15873,3,"TU,TH12.05-13.20",TFLO 256,Jan 10--Apr 29,A Felsot
+ENTOM,490,Special Topics in Entomology,01,16766,2,TU10.35-12.25,TFLO 260,Jan 10--Apr 29,D James
+ENTOM,511,Science Writing Workshop,01,16037,2,W10.10-12,TFLO 260,Jan 10--Apr 29,K Campbell
+ENTOM,590,Special Topics in Entomology,01,16767,V,TU10.35-12.25,TFLO 260,Jan 10--Apr 29,D James
 ENTRP,489,Entrepreneurial Management,01,15666,3,"M,W16.15-17.30",TCOL 126,Jan 10--Apr 29,P Carlisle
 FIN,223,[QUAN] Personal Finance,02,18292,3,"M,W,F11.10-12",TFLO 252,Jan 10--Apr 29,K Jones
-FIN,325,Introduction to Financial Management,01,15667,3,"TU,TH16.20-17.35",TCOL 202,Jan 10--Apr 29,K Jones
 FIN,425,[M] Intermediate Financial Management,01,15668,3,M17.45-19,TFLO 244,Jan 10--Apr 29,S Koopman
 FIN,425,[M] Intermediate Financial Management,"","","",W17.45-19,WEB ARR,"",""
 FINE_ART,101,[ARTS] Introduction to Art,01,16858,3,"TU,TH12.05-13.20",TCIC 210,Jan 10--Apr 29,K Lang
@@ -259,6 +257,7 @@ FINE_ART,202,[ARTS] World Art History II,01,15975,3,"M,W,F13.10-14",TCOL 126,Jan
 FINE_ART,320,Beginning Painting,01,16635,3,"TU,TH13.30-16.20",TCIC 102B,Jan 10--Apr 29,D Regul
 FINE_ART,405,[M] Contemporary Art: Theory and Practice,01,30717,3,"TU,TH12.05-13.20",TFLO 138,Jan 10--Apr 29,P Christenson
 FINE_ART,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+FS,401,Topics in Food Science,01,15961,1,TU13.30-14.20,TWSC 201,Jan 10--Apr 29,T Henick-Kling
 FS,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,Jan 10--Apr 29,G Ganjyal
 FS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 FS,531,Advanced Food Safety and Quality,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,T Bernhard
@@ -267,11 +266,12 @@ FS,800,"Doctoral Research, Dissertation, and/or Examination",01,16598,V,ARRGT,AR
 H_D,101,[SSCI] Human Development Across the Lifespan,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,W Ewest
 H_D,350,[DIVR] Family Diversity,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,R Cooper
 HBM,101,Professional and Career Development for the Business World,03,31024,1,"M,W13.10-14",TCIC 217,Mar 07--May 01,B Marlowe
-HBM,280,Hospitality Systems,01,"",3,ARRGT,ARR ARR,Mar 07--May 01,K Philander
-HBM,358,Foodservice Systems and Control,01,16429,3,"TU,TH14.55-16.10",VC TRI,Jan 10--Apr 29,R Hammond
-HBM,381,[M] Hospitality Leadership and Organizational Behavior,02,16873,3,"TU,TH11.10-13",VC TRI,Jan 10--Feb 27,B Marlowe
-HBM,493,[CAPS] Food and Beverage Strategies,01,16432,3,"TU,TH10.35-11.50",VC TRI,Jan 10--Apr 29,R Harrington
-HBM,494,[M] Service Operations Management,01,16430,3,W11.10-14,VC TRI,Jan 10--Feb 27,B Marlowe
+HBM,280,Hospitality Systems,01,"",3,ARRGT,ARR ARR,Mar 07--May 01,J Han
+HBM,358,Foodservice Systems and Control,01,16429,3,"TU,TH14.55-16.10",TFLO 210,Jan 10--Apr 29,R Hammond
+HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,K Philander
+HBM,381,[M] Hospitality Leadership and Organizational Behavior,02,16873,3,"TU,TH11.10-13",TFLO 210,Jan 10--Feb 27,B Marlowe
+HBM,493,[CAPS] Food and Beverage Strategies,01,16432,3,"TU,TH10.35-11.50",TFLO 224,Jan 10--Apr 29,R Harrington
+HBM,494,[M] Service Operations Management,01,16430,3,W11.10-14,TFLO 210,Jan 10--Feb 27,B Marlowe
 HBM,496,Special Topics,01,"",3,ARRGT,ARR ARR,Feb 14--Mar 25,D Jha
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,15649,3,M9.10-10,TCIC 216,Jan 10--Apr 29,R Franklin
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,"","","","M,W,F9.10-10",WEB ARR,"",""
@@ -283,34 +283,37 @@ HISTORY,111,[HUM] American History Since 1877,02,16630,3,"TU,TH10.35-11.50",TCIC
 HISTORY,121,[HUM] World History II,01,15763,3,"M,W17.45-19",TCIC 216,Jan 10--Apr 29,J Kennedy
 HISTORY,121,[HUM] World History II,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,S Herzog
 HISTORY,150,[DIVR] Peoples of the United States,01,15732,3,"TU,TH13.30-14.45",TCIC 216,Jan 10--Apr 29,R Bauman
-HISTORY,272,[DIVR] Introduction to Middle Eastern History,01,31070,3,"TU,TH13.30-14.45",VC TRI,Jan 10--Apr 29,A Whelchel
-HISTORY,395,Topics in History,01,16477,3,M11.10-12,VC TRI,Jan 10--Apr 29,R Franklin
+HISTORY,272,[DIVR] Introduction to Middle Eastern History,01,31070,3,"TU,TH13.30-14.45",TFLO 224,Jan 10--Apr 29,A Whelchel
+HISTORY,395,Topics in History,01,16477,3,M11.10-12,TFLO 224,Jan 10--Apr 29,R Franklin
 HISTORY,395,Topics in History,"","","","W,F11.10-12",VC ARR,"",""
 HISTORY,409,[CAPS] American Environmental History,01,16460,3,"TU,TH16.20-17.35",TCOL 126,Jan 10--Apr 29,D Arnold
-HISTORY,425,The City in History,01,15976,3,"M,W16.15-17.30",VC TRI,Jan 10--Apr 29,B Farley
-HISTORY,463,[M] History of the Soviet Union,01,16461,3,"M,W17.45-19",VC TRI,Jan 10--Apr 29,B Farley
+HISTORY,410,History of American Indian Sovereignty and Federal Indian Law,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,O Svingen
+HISTORY,425,The City in History,01,15976,3,"M,W16.15-17.30",TFLO 256,Jan 10--Apr 29,B Farley
+HISTORY,463,[M] History of the Soviet Union,01,16461,3,"M,W17.45-19",TFLO 256,Jan 10--Apr 29,B Farley
 HISTORY,465,Representations of the Holocaust,01,16860,3,"TU,TH12.05-13.20",TCIC 217,Jan 10--Apr 29,G Sperling
 HISTORY,469,[M] Seminar in History,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,T Hanshew
 HISTORY,498,History Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,R Bauman
 HISTORY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 HISTORY,598,History Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,R Bauman
 HORT,102,Introduction to Cultivated Plants,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
-HORT,202,Crop Growth and Development,01,"",4,"M,W,F9.10-10",VC TRI,Jan 10--Apr 29,M Pumphrey
+HORT,202,Crop Growth and Development,01,"",4,"M,W,F9.10-10",TFLO 256,Jan 10--Apr 29,M Pumphrey
 HORT,202,Crop Growth and Development,01 Lab,15830,0,ARRGT,ARR ARR,Jan 10--Apr 29,B Bondada
-HORT,350,Food Systems in Western Washington,01,30876,3,"M,W,F12.10-13",VC TRI,Jan 10--Apr 29,D Griffin
-HORT,357,Greenhouse Management and Crop Production,01,15831,3,"M,W,F12.10-13",VC TRI,Jan 10--Apr 29,J Holden
+HORT,350,Food Systems in Western Washington,01,30876,3,"M,W,F12.10-13",TFLO 256,Jan 10--Apr 29,D Griffin
+HORT,357,Greenhouse Management and Crop Production,01,15831,3,"M,W,F12.10-13",TWSC 202,Jan 10--Apr 29,J Holden
 HORT,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Snider
-HORT,413,Advanced Viticulture,01,15669,3,"TU,TH10.35-11.50",VC TRI,Jan 10--Apr 29,B Bondada
-HORT,416,Advanced Horticultural Crop Physiology,01,15834,3,"M,W,F11.10-12",VC TRI,Jan 10--Apr 29,R Sharpe
-HORT,421,Fruit Crops Management,01,16049,3,"TU,TH9.10-10.25",VC TRI,Jan 10--Apr 29,M Whiting
-HORT,440,Winery Operations and Equipment,01,16538,3,"M,W,F10.10-11",VC TRI,Jan 10--Apr 29,T Collins
+HORT,413,Advanced Viticulture,01,15669,3,"TU,TH10.35-11.50",TWSC 202,Jan 10--Apr 29,B Bondada
+HORT,416,Advanced Horticultural Crop Physiology,01,15834,3,"M,W,F11.10-12",TWSC 202,Jan 10--Apr 29,R Sharpe
+HORT,421,Fruit Crops Management,01,16049,3,"TU,TH9.10-10.25",TWSC 202,Jan 10--Apr 29,M Whiting
+HORT,440,Winery Operations and Equipment,01,16538,3,"M,W,F10.10-11",TWSC 202,Jan 10--Apr 29,T Collins
 HORT,441,Winery Operations and Equipment Lab Field Trip,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,T Collins
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Blauer
 HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 HORT,508,Research Orientation and Presentation,01,31061,2,TU14.10-16,VC ARR,Jan 10--Apr 29,K Evans
-HORT,513,Advanced Viticulture,01,15671,3,"TU,TH10.35-11.50",VC TRI,Jan 10--Apr 29,B Bondada
-HORT,516,Advanced Horticultural Crop Physiology,01,15835,3,"M,W,F11.10-12",VC TRI,Jan 10--Apr 29,R Sharpe
-HORT,521,Fruit Crops Management,01,16050,3,"TU,TH9.10-10.25",VC TRI,Jan 10--Apr 29,M Whiting
+HORT,510,Graduate Seminar,01,31204,1,TH14.55-15.45,VC ARR,Jan 10--Apr 29,S Musacchi
+HORT,513,Advanced Viticulture,01,15671,3,"TU,TH10.35-11.50",TWSC 202,Jan 10--Apr 29,B Bondada
+HORT,516,Advanced Horticultural Crop Physiology,01,15835,3,"M,W,F11.10-12",TWSC 202,Jan 10--Apr 29,R Sharpe
+HORT,521,Fruit Crops Management,01,16050,3,"TU,TH9.10-10.25",TWSC 202,Jan 10--Apr 29,M Whiting
+HORT,700,"Master's Research, Thesis, and/or Examination",01,31205,V,ARRGT,ARR ARR,Jan 10--Apr 29,B Bondada
 HORT,800,"Doctoral Research, Dissertation, and/or Examination",01,16889,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Collins
 HUMANITY,101,[HUM] Humanities in the Ancient World,01,15654,3,"TU,TH13.30-14.45",TFLO 133,Jan 10--Apr 29,M Pieracci
 HUMANITY,335,The Bible as Literature,01,15733,3,"M,W,F13.10-14",TCIC 214,Jan 10--Apr 29,M Pieracci
@@ -318,12 +321,12 @@ HUMANITY,450,Representations of the Holocaust,01,15979,3,"TU,TH12.05-13.20",TCIC
 I_BUS,380,International Business,01,16651,3,"TU,TH10.35-11.50",TFLO 252,Jan 10--Apr 29,J Bravo
 I_BUS,482,[M] International Marketing,01,16652,3,"TU,TH16.20-17.35",TCOL 102,Jan 10--Apr 29,P Carlisle
 I_BUS,482,[M] International Marketing,03,"",3,ARRGT,ARR ARR,Mar 07--May 01,""
-INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,B Clowers
-IPM,452,Pesticides and the Environment,01,15837,3,"TU,TH10.35-11.50",VC ARR,Jan 10--Apr 29,A Felsot
-IPM,552,Pesticides and the Environment,01,15838,3,"TU,TH10.35-11.50",VC TRI,Jan 10--Apr 29,A Felsot
+INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+IPM,452,Pesticides and the Environment,01,15837,3,"TU,TH10.35-11.50",TFLO 256,Jan 10--Apr 29,A Felsot
+IPM,552,Pesticides and the Environment,01,15838,3,"TU,TH10.35-11.50",TFLO 256,Jan 10--Apr 29,A Felsot
 KIN_ACTV,101,Beginning Conditioning,01,15871,1,"TU,TH13.30-14.20",TFLO 136,Jan 10--Apr 29,W Patterson
 KIN_ACTV,112,Beginning Weight Training,01,15872,1,"TU,TH14.30-15.20",TFLO 136,Jan 10--Apr 29,W Patterson
-LLT,586,"Seminar in Language, Literacy, and Technology",01,16523,1,TU12.10-13,VC TRI,Jan 10--Apr 29,J Kelley
+LLT,586,"Seminar in Language, Literacy, and Technology",01,16523,1,TU12.10-13,TCIC 223,Jan 10--Apr 29,J Kelley
 LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,31060,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 MATH,103,Algebra Methods and Introduction to Functions,01,15944,3,"TU,TH9.10-10.25",TCIC 210,Jan 10--Apr 29,K Fiedler
 MATH,106,College Algebra,01,15839,3,"M,W,F10.10-11",TFLO 252,Jan 10--Apr 29,K Fiedler
@@ -340,10 +343,10 @@ MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01,15946,3,"TU,TH17.45
 MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01 Lab,15947,0,"TU,TH18.45-19.35",TCOL 126,Jan 10--Apr 29,C Tate
 MATH,273,Calculus III,01,15844,2,"M,W12.10-13",TCIC 210,Jan 10--Apr 29,D Mitchell
 MATH,315,Differential Equations,01,15736,3,"TU,TH12.05-13.20",TFLO 133,Jan 10--Apr 29,D Mitchell
-MATH,340,Introduction to Mathematical Biology,01,31081,3,"TU,TH13.30-14.45",VC TRI,Jan 10--Apr 29,A Dimitrov
-MATH,351,Algebraic Thinking for the Middle School Teacher,01,15934,3,TU16.20-19,VC TRI,Jan 10--Apr 29,K Lesseig
+MATH,340,Introduction to Mathematical Biology,01,31081,3,"TU,TH13.30-14.45",TFLO 256,Jan 10--Apr 29,A Dimitrov
+MATH,351,Algebraic Thinking for the Middle School Teacher,01,15934,3,TU16.20-19,TFLO 210,Jan 10--Apr 29,K Lesseig
 MATH,448,Numerical Analysis,01,15857,3,"TU,TH12.05-13.20",TCIC 219,Jan 10--Apr 29,J Miller
-MATH,456,Introduction to Statistical Theory,01,31000,3,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,H Li
+MATH,456,Introduction to Statistical Theory,01,31000,3,"TU,TH12.05-13.20",TCIC 221,Jan 10--Apr 29,H Li
 MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,K Fiedler
 MATH,548,Numerical Analysis,01,15860,3,"TU,TH12.05-13.20",TCIC 219,Jan 10--Apr 29,J Miller
 MBIOS,101,[BSCI] Introductory Microbiology,01,15864,4,"TU,TH12.05-13.20",TCOL 102,Jan 10--Apr 29,S Callister
@@ -379,7 +382,7 @@ ME,416,[CAPS] Mechanical Systems Design,01,15802,3,F16.10-17,TFLO 131,Jan 10--Ap
 ME,416,[CAPS] Mechanical Systems Design,01 Lab,15803,0,F13.10-16,TFLO 131,Jan 10--Apr 29,C Mo
 ME,416,[CAPS] Mechanical Systems Design,"","","",F17.10-20,TFLO 131,"",""
 ME,436,Combustion Engines,01,15804,3,"TU,TH13.30-14.45",TFLO 131,Jan 10--Apr 29,M Saad
-ME,462,Introduction to Nuclear Engineering II,01,16485,3,"TU,TH16.20-17.35",VC TRI,Jan 10--Apr 29,N Carstens
+ME,462,Introduction to Nuclear Engineering II,01,16485,3,"TU,TH16.20-17.35",TFLO 256,Jan 10--Apr 29,N Carstens
 ME,495,Internship in Mechanical Industry,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ME,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,C Mo
 ME,516,Conduction and Radiation Heat Transfer,01,30636,3,"M,W17.45-19",TFLO 133,Jan 10--Apr 29,C Yang
@@ -389,6 +392,59 @@ ME,598,Seminar,01,15923,1,F12.10-13,TFLO 131,Jan 10--Apr 29,M Saad
 ME,700,"Master's Research, Thesis, and/or Examination",01,15805,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ME,702,"Master's Special Problems, Directed Study, and/or Examination",01,15806,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ME,800,"Doctoral Research, Dissertation, and/or Examination",01,15807,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,550,Virtual - Residency Preparation Clinical Cases,01,"",2,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,553,Pediatrics - Subspecialties,03,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,554,Virtual - Telemedicine: Principles of Practice,01,"",2,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,555,Clinical Rotation - Telemedicine,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,556,Virtual - Basic Medical Spanish,01,"",2,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,564,Psychiatry - Subspecialties,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,565,Surgery - Ambulatory,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,566,Internal Medicine - Inpatient,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,567,Obstetrics and Gynecology - Inpatient,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,568,Pediatrics - Hospital Medicine,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,570,Away Rotation - North America,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,574,Science - Clinical Bioethics,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,575,Clinical Rotation - Geriatrics,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,03,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,577,Surgery - Subspecialties,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,577,Surgery - Subspecialties,02,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,577,Surgery - Subspecialties,03,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,578,Surgery - General Surgery,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,579,Science - Medical Informatics,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,580,Clinical Rotation - Neurology,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,02,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,03,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,586,Surgery - Neurological Surgery,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,589,Clinical Rotation - Transition to Residency,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,589,Clinical Rotation - Transition to Residency,02,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,594,Surgery - Urology,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,595,Surgery - Surgery Critical Care,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,597,Virtual - Virtual Clerkship,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,599,Special Projects,02,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,599,Special Projects,03,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,599,Special Projects,04,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,599,Special Projects,05,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,602,Internal Medicine - Pulmonology,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,610,Pediatrics - Medical Genetics and Genomics,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,629,Obstetrics and Gynecology - Gynecologic Oncology,01,"",V,ARRGT,"",Mar 21--Jun 24,""
+MED_CLIN,631,Obstetrics and Gynecology - Urogynecology,01,"",V,ARRGT,"",Mar 21--Jun 24,""
 MGMT,401,Leading People and Organizations,01,15673,3,"TU,TH9.10-10.25",TFLO 133,Jan 10--Apr 29,J Bravo
 MGMT,455,Recruiting and Hiring Human Capital,01,15997,3,"M,W14.10-15.25",TFLO 133,Jan 10--Apr 29,R Keefer
 MGMT,455,Recruiting and Hiring Human Capital,02,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,W Larson
@@ -399,10 +455,10 @@ MGMT,496,Seminar,01,16872,3,"TU,TH12.05-13.20",TFLO 230,Jan 10--Apr 29,J Bravo
 MGTOP,215,Business Statistics,01,15867,4,"TU,TH16.20-17.35",TCIC 214,Jan 10--Apr 29,S Morris
 MGTOP,215,Business Statistics,01 Lab,15868,0,"TU,TH17.45-18.35",TCIC 219,Jan 10--Apr 29,S Morris
 MGTOP,340,Operations Management,01,16431,3,"TU,TH7.45-9",TFLO 145,Jan 10--Apr 29,T Baker
-MGTOP,470,Business Modeling with Spreadsheets,01,15897,3,TU18-20.45,VC TRI,Jan 10--Apr 29,T Larson
+MGTOP,470,Business Modeling with Spreadsheets,01,15897,3,TU18-20.45,TFLO 224,Jan 10--Apr 29,T Larson
 MIS,250,Managing Information Technology,01,16647,3,"M,W16.15-17.30",TCIC 217,Jan 10--Apr 29,R Swannack
 MIT,506,Integrating Technology into Classroom Teaching,01,16480,3,TH17.15-20,TCIC 217,Jan 10--Apr 29,M Munn
-MIT,507,Teacher Inquiry and Praxis,01,16484,3,W17.15-20,VC TRI,Jan 10--Apr 29,J Firestone
+MIT,507,Teacher Inquiry and Praxis,01,16484,3,W17.15-20,TFLO 224,Jan 10--Apr 29,J Firestone
 MIT,535,Integrating Fine Arts into K-8 Curriculum,01,15932,2,TU17.15-18.55,TCOL 114,Jan 10--Apr 29,Y Cooper
 MIT,571,Pre-internship and Seminar,01,16481,2,ARRGT,ARR ARR,Jan 10--Apr 29,J Morrison
 MIT,571,Pre-internship and Seminar,01 Lab,16577,0,ARRGT,ARR ARR,Jan 10--Apr 29,J Morrison
@@ -415,7 +471,7 @@ MIT,575,Internship and Seminar,"","","",M16.10-18.10,TCOL 202,"",""
 MIT,575,Internship and Seminar,"","","",M16.10-18.10,TCOL 202,"",""
 MIT,575,Internship and Seminar,01 Lab,16592,0,ARRGT,ARR ARR,Jan 10--Apr 29,J Mancinelli
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,16483,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-MKTG,360,Marketing,01,15680,3,"TU,TH17.45-19",VC TRI,Jan 10--Apr 29,R Hammond
+MKTG,360,Marketing,01,15680,3,"TU,TH17.45-19",TFLO 256,Jan 10--Apr 29,R Hammond
 MKTG,368,Marketing Research,01,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,""
 MSE,241,Engineering Computations,01,30649,3,"TU,TH13.30-14.45",TFLO 244,Jan 10--Apr 29,J Iannelli
 MSE,413,Mechanical Behavior of Materials,01,30634,3,"M,W,F12.10-13",TCOL 102,Jan 10--Apr 29,Z Melgarejo-Pinto
@@ -436,9 +492,9 @@ NURS,322,The Human Experience of Diversity and Health,01,30276,2,F8.10-10,VC TRI
 NURS,323,Nursing in the Genome Era,01,30277,2,M8.10-10,VC ARR,Jan 10--Apr 29,L Jinishian
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,01,30287,4,"M,F10.30-12.30",VC TRI,Jan 10--Apr 29,T Landis
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,"","","",F10.30-12.30,"","",""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,01,30278,5,ARRGT,ARR ARR,Jan 10--Apr 29,L Punch
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,30328,5,ARRGT,ARR ARR,Jan 10--Apr 29,A Young
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,31017,5,ARRGT,ARR ARR,Jan 10--Apr 29,A Young
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,01,30278,5,TH8-12,TNRS 1214,Jan 10--Apr 29,L Punch
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,30328,5,TH8-12,TNRS 1214,Jan 10--Apr 29,A Young
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,31017,5,TH8-12,TNRS 1214,Jan 10--Apr 29,A Young
 NURS,328,Introduction to Gerontological Nursing,01,30280,2,TU8.10-10,VC TRI,Jan 10--Apr 29,C Van Son
 NURS,360,Contemporary Nursing,01,30281,3,ARRGT,ARR ARR,Jan 10--Mar 04,S Welty
 NURS,360,Contemporary Nursing,02,30282,3,ARRGT,ARR ARR,Jan 10--Mar 04,S Welty
@@ -553,12 +609,12 @@ NURS,554,Epidemiology and Biostatistics for Health Professions,"","","",TU18.10-
 NURS,554,Epidemiology and Biostatistics for Health Professions,"","","",TU18.10-21,VC ARR,"",""
 NURS,554,Epidemiology and Biostatistics for Health Professions,"","","",TU18.10-21,VC ARR,"",""
 NURS,554,Epidemiology and Biostatistics for Health Professions,"","","",TU18.10-21,VC ARR,"",""
-NURS,556,Advanced Population Health,01,30314,V,TU18.10-20,VC ARR,Jan 11--Jan 11,C Van Son
+NURS,556,Advanced Population Health,01,30314,V,TU18.10-20,VC ARR,Jan 11--Jan 11,G Oneal
 NURS,556,Advanced Population Health,"","","",TU18.10-20,VC ARR,"",""
 NURS,556,Advanced Population Health,"","","",TU18.10-20,VC ARR,"",""
 NURS,556,Advanced Population Health,"","","",TU18.10-20,VC ARR,"",""
 NURS,556,Advanced Population Health,"","","",TU18.10-20,VC ARR,"",""
-NURS,556,Advanced Population Health,01 Lab,30349,0,ARRGT,ARR ARR,Jan 10--Apr 29,C Van Son
+NURS,556,Advanced Population Health,01 Lab,30349,0,ARRGT,ARR ARR,Jan 10--Apr 29,G Oneal
 NURS,559,DNP Project III,01,30323,3,TH10.10-13,VC ARR,Jan 13--Jan 13,A Hamel
 NURS,559,DNP Project III,"","","",TH10.10-13,VC ARR,"",""
 NURS,559,DNP Project III,"","","",TH10.10-13,VC ARR,"",""
@@ -592,7 +648,7 @@ NURS,582,PMHNP Internship,"","","",TH15.10-17,VC ARR,"",""
 NURS,582,PMHNP Internship,"","","",TH15.10-17,VC ARR,"",""
 NURS,582,PMHNP Internship,"","","",TH15.10-17,VC ARR,"",""
 NURS,582,PMHNP Internship,"","","",TH15.10-17,VC ARR,"",""
-NURS,583,DNP Population Health Practicum,01,30339,V,TU18.10-20,VC ARR,Jan 11--Jan 11,C Van Son
+NURS,583,DNP Population Health Practicum,01,30339,V,TU18.10-20,VC ARR,Jan 11--Jan 11,(multiple)
 NURS,583,DNP Population Health Practicum,"","","",TU18.10-20,VC ARR,"",""
 NURS,583,DNP Population Health Practicum,"","","",TU18.10-20,VC ARR,"",""
 NURS,583,DNP Population Health Practicum,"","","",TU18.10-20,VC ARR,"",""
@@ -620,7 +676,7 @@ PHYSICS,202,Physics for Scientists and Engineers II,01,15712,3,"M,W,F11.10-12",T
 PHYSICS,212,Physics Lab for Scientists and Engineers II,01,18294,1,TH9.10-12,TCOL 108,Jan 10--Apr 29,F Underdown
 PHYSICS,212,Physics Lab for Scientists and Engineers II,02,18296,1,TH13.30-16.20,TCOL 108,Jan 10--Apr 29,F Underdown
 PHYSICS,212,Physics Lab for Scientists and Engineers II,03,18297,1,W17.45-20.35,TCOL 108,Jan 10--Apr 29,F Underdown
-PL_P,551,Epidemiology and Management of Plant Diseases,01,16772,3,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,G Grove
+PL_P,551,Epidemiology and Management of Plant Diseases,01,16772,3,"TU,TH12.05-13.20",TWSC 202,Jan 10--Apr 29,G Grove
 POL_S,101,[SSCI] American National Government,01,15877,3,"M,W,F12.10-13",TCIC 216,Jan 10--Apr 29,R Swenson
 PSYCH,105,[SSCI] Introductory Psychology,01,15688,3,"TU,TH12.05-13.20",TCIC 216,Jan 10--Apr 29,S Tragesser
 PSYCH,210,Psychology as a Science,01,15924,3,"M,W,F11.10-12",TCIC 210,Jan 10--Apr 29,A Matthews
@@ -639,36 +695,38 @@ PSYCH,470,Motivation,01,15950,3,"TU,TH14.55-16.10",TCOL 102,Jan 10--Apr 29,S Tra
 PSYCH,497,Instructional Practicum,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 PSYCH,498,Research Participation,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 PSYCH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-RUSSIAN,463,[M] History of the Soviet Union,01,30671,3,"M,W17.45-19",VC TRI,Jan 10--Apr 29,B Farley
+RUSSIAN,463,[M] History of the Soviet Union,01,30671,3,"M,W17.45-19",TFLO 256,Jan 10--Apr 29,B Farley
 SCIENCE,102,[BSCI] Integrated Science: Dynamic Systems in the Natural World,01,15874,4,M17.45-20.35,TCOL 102,Jan 10--Apr 29,G Schramm
 SCIENCE,102,[BSCI] Integrated Science: Dynamic Systems in the Natural World,01 Lab,15875,0,W17.10-20,TCOL 214,Jan 10--Apr 29,G Schramm
 SCIENCE,102,[BSCI] Integrated Science: Dynamic Systems in the Natural World,02 Lab,30682,0,F16.10-19,TCOL 214,Jan 10--Apr 29,G Schramm
 SOC,102,[SSCI] Social Problems,01,15814,3,"TU,TH14.55-16.10",TCOL 202,Jan 10--Apr 29,C Bourouh
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,16490,4,"M,W,F9.10-10",TFLO 230,Jan 10--Apr 29,M Kaufman
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,16491,0,TU13.30-16.20,TCOL 114,Jan 10--Apr 29,M Kaufman
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",02 Lab,31192,0,TH13.30-16.20,TCOL 114,Jan 10--Apr 29,M Kaufman
 SOE,210,[PSCI] Earth's History and Evolution,02,"",4,ARRGT,ARR ARR,Jan 10--Apr 29,J Boro
 SOE,210,[PSCI] Earth's History and Evolution,02 Lab,16487,0,ARRGT,ARR ARR,Jan 10--Apr 29,J Boro
 SOE,303,Environmental Geology,01,15866,3,"M,W,F14.10-15",TCOL 126,Jan 10--Apr 29,J Rosso
-SOE,306,Plants in the Environment,01,"",3,"M,W,F11.10-12",VC TRI,Jan 10--Apr 29,H Adams
+SOE,306,Plants in the Environment,01,"",3,"M,W,F11.10-12",TFLO 256,Jan 10--Apr 29,H Adams
 SOE,322,Geology of the Pacific Northwest,01,30685,3,"TU,TH10.35-11.50",TFLO 244,Jan 10--Apr 29,S Reidel
-SOE,461,Watershed Management,01,16475,3,"M,W,F9.10-10",VC TRI,Jan 10--Apr 29,S Roley
-SOE,486,Applied Remote Sensing: From Drones to Satellites,01,"",3,"TU,TH10.35-11.50",VC TRI,Jan 10--Apr 29,A Meddens
-SOE,492,Special Topics,01,"",3,"TU,TH16.20-17.35",VC TRI,Jan 10--Apr 29,J Mcintyre
-SOE,492,Special Topics,02,17027,3,"M,W16.15-17.30",VC TRI,Jan 10--Apr 29,D Sunday
+SOE,461,Watershed Management,01,16475,3,"M,W,F9.10-10",TFLO 224,Jan 10--Apr 29,S Roley
+SOE,486,Applied Remote Sensing: From Drones to Satellites,01,"",3,"TU,TH10.35-11.50",TCIC 125T,Jan 10--Apr 29,A Meddens
+SOE,492,Special Topics,01,"",3,"TU,TH16.20-17.35",TFLO 260,Jan 10--Apr 29,J Mcintyre
+SOE,492,Special Topics,02,17027,3,"M,W16.15-17.30",TFLO 247,Jan 10--Apr 29,D Sunday
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Felsot
 SOE,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-SOE,593,Graduate Seminar in Earth and Environmental Sciences,01,15825,1,TU13.10-14,VC TRI,Jan 10--Apr 29,H Adams
+SOE,593,Graduate Seminar in Earth and Environmental Sciences,01,15825,1,TU13.10-14,TFLO 210,Jan 10--Apr 29,H Adams
+SOE,598,Seminar,01,31208,1,W12.05-12.55,VC ARR,Jan 10--Apr 29,K Moffett
 SOE,600,Special Projects or Independent Study,01,15706,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SOE,700,"Master's Research, Thesis, and/or Examination",01,15707,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SOE,702,"Master's Special Problems, Directed Study, and/or Examination",01,15708,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,15709,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-SOIL_SCI,303,Organic and Sustainable Agricultural Certifications: From Principles to Practice,01,"",2,"TU,TH14.55-15.45",VC TRI,Jan 10--Apr 29,G Lahue
-SOIL_SCI,414,Environmental Biophysics,01,30693,2,"M,W9.10-10",VC TRI,Jan 10--Apr 29,C Campbell
+SOIL_SCI,303,Organic and Sustainable Agricultural Certifications: From Principles to Practice,01,"",2,"TU,TH14.55-15.45",TFLO 256,Jan 10--Apr 29,G Lahue
+SOIL_SCI,414,Environmental Biophysics,01,30693,2,"M,W9.10-10",TFLO 260,Jan 10--Apr 29,C Campbell
 SOIL_SCI,468,GIS Spatial Analysis,01,"",4,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 SOIL_SCI,468,GIS Spatial Analysis,01 Lab,16054,0,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 SOIL_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Blauer
-SOIL_SCI,511,Science Writing Workshop,01,16036,2,W10.10-12,VC TRI,Jan 10--Apr 29,K Campbell
-SOIL_SCI,514,Environmental Biophysics,01,30694,2,"M,W9.10-10",VC TRI,Jan 10--Apr 29,C Campbell
+SOIL_SCI,511,Science Writing Workshop,01,16036,2,W10.10-12,TFLO 260,Jan 10--Apr 29,K Campbell
+SOIL_SCI,514,Environmental Biophysics,01,30694,2,"M,W9.10-10",TFLO 260,Jan 10--Apr 29,C Campbell
 SOIL_SCI,568,GIS Spatial Analysis,01,"",4,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 SOIL_SCI,568,GIS Spatial Analysis,01 Lab,16052,0,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 SPANISH,102,Second Semester,01,15714,4,"M,W,F12.10-13",TFLO 133,Jan 10--Apr 29,F Arellano Serratos
@@ -683,35 +741,33 @@ SPEC_ED,490,Practicum in Special Education,01,15659,V,ARRGT,ARR ARR,Jan 10--Apr 
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,15856,3,TH17.15-20,TCIC 210,Jan 10--Apr 29,Y Hsiao
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,16000,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Bruno
 SPEC_ED,520,Teaching in Inclusive Classrooms,01,15661,3,M17.45-20.30,TFLO 252,Jan 10--Apr 29,Y Hsiao
-SPEC_ED,522,Topics in Special Education,01,16993,1,W16.20-17.10,VC TRI,Jan 10--Apr 29,M Dunn
+SPEC_ED,522,Topics in Special Education,01,16993,1,W16.20-17.10,TFLO 224,Jan 10--Apr 29,M Dunn
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
-SPEC_ED,589,Seminar in Disability Studies,01,16793,3,TH17.45-20.30,VC TRI,Jan 10--Apr 29,M Poppen
+SPEC_ED,589,Seminar in Disability Studies,01,16793,3,TH17.45-20.30,TFLO 256,Jan 10--Apr 29,M Poppen
 SPEC_ED,590,Practicum in Special Education,01,15909,V,ARRGT,ARR ARR,Jan 10--Apr 29,Y Hsiao
-SPEC_ED,592,Single Subject Research Design and Methods,01,16737,3,W17.45-20.30,VC TRI,Jan 10--Apr 29,H Whittenburg
-SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,16479,1,W16.20-17.10,VC TRI,Jan 10--Apr 29,M Dunn
+SPEC_ED,592,Single Subject Research Design and Methods,01,16737,3,W17.45-20.30,TCIC 125T,Jan 10--Apr 29,H Whittenburg
+SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,16479,1,W16.20-17.10,TFLO 210,Jan 10--Apr 29,M Dunn
 STAT,212,[QUAN] Introduction to Statistical Methods,01,15853,4,"M,W,F15.10-16",TFLO 252,Jan 10--Apr 29,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,15854,0,M13.10-15,TFLO 145,Jan 10--Apr 29,R Learn
 STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,15916,0,W11.10-13,TFLO 145,Jan 10--Apr 29,R Learn
 STAT,360,Probability and Statistics,01,15737,3,"M,W,F13.10-14",TCIC 216,Jan 10--Apr 29,R Learn
 STAT,412,Statistical Methods in Research I,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,A Kaul
 STAT,437,High Dimensional Data Learning and Visualization,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,X Chen
-STAT,456,Introduction to Statistical Theory,01,31001,3,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,H Li
-STAT,511,Statistical Methods for Graduate Researchers,01,16787,4,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,""
-STAT,511,Statistical Methods for Graduate Researchers,01 Lab,16788,0,W15.10-17,VC TRI,Jan 10--Apr 29,""
+STAT,456,Introduction to Statistical Theory,01,31001,3,"TU,TH12.05-13.20",TCIC 221,Jan 10--Apr 29,H Li
 STAT,512,Analysis of Variance of Designed Experiments,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,H Johnson
 STAT,512,Analysis of Variance of Designed Experiments,01 Lab,16084,0,ARRGT,ARR ARR,Jan 10--Apr 29,H Johnson
-STAT,519,Applied Multivariate Analysis,01,30995,3,"M,W14.55-16.10",VC TRI,Jan 10--Apr 29,F Mcgrade
-STAT,556,Introduction to Statistical Theory,01,31002,3,"TU,TH12.05-13.20",VC TRI,Jan 10--Apr 29,H Li
+STAT,519,Applied Multivariate Analysis,01,30995,3,"M,W14.55-16.10",TFLO 256,Jan 10--Apr 29,F Mcgrade
+STAT,556,Introduction to Statistical Theory,01,31002,3,"TU,TH12.05-13.20",TCIC 221,Jan 10--Apr 29,H Li
 UNIV,100,College Majors and Career Exploration,01,16063,1,TU10.35-11.25,TCIC 217,Jan 10--Apr 29,O Ledezma
-UNIV,497,Peer Leadership,02,"",1,TU17.10-18,VC TRI,Jan 10--Apr 29,A Guy
-UNIV,497,Peer Leadership,03,"",1,TH17.10-18,VC TRI,Jan 10--Apr 29,A Guy
+UNIV,497,Peer Leadership,02,"",1,TU17.10-18,TCIC 221,Jan 10--Apr 29,A Guy
+UNIV,497,Peer Leadership,03,"",1,TH17.10-18,TCIC 221,Jan 10--Apr 29,A Guy
 UNIV,497,Peer Leadership,04,"",1,"TU,TH8.10-9",VC TRI,Feb 15--Apr 29,A Klimko
 UNIV,497,Peer Leadership,05,"",1,"TU,TH8.10-9",VC TRI,Feb 15--Apr 29,A Klimko
 VIT_ENOL,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Snider
-VIT_ENOL,413,Advanced Viticulture,01,15670,3,"TU,TH10.35-11.50",VC TRI,Jan 10--Apr 29,B Bondada
-VIT_ENOL,422,Sensory Evaluation of Food and Wine,01,15792,3,"M,W,F9.10-10",VC TRI,Jan 10--Apr 29,J Harbertson
-VIT_ENOL,433,[CAPS] [M] Critical Thinking in Vineyard and Winery Management,01,15949,3,"TU,TH14.55-16.10",VC TRI,Jan 10--Apr 29,T Collins
-VIT_ENOL,440,Winery Operations and Equipment,01,16539,3,"M,W,F10.10-11",VC TRI,Jan 10--Apr 29,T Collins
+VIT_ENOL,413,Advanced Viticulture,01,15670,3,"TU,TH10.35-11.50",TWSC 202,Jan 10--Apr 29,B Bondada
+VIT_ENOL,422,Sensory Evaluation of Food and Wine,01,15792,3,"M,W,F9.10-10",TWSC 202,Jan 10--Apr 29,J Harbertson
+VIT_ENOL,433,[CAPS] [M] Critical Thinking in Vineyard and Winery Management,01,15949,3,"TU,TH14.55-16.10",TWSC 202,Jan 10--Apr 29,T Collins
+VIT_ENOL,440,Winery Operations and Equipment,01,16539,3,"M,W,F10.10-11",TWSC 202,Jan 10--Apr 29,T Collins
 VIT_ENOL,441,Winery Operations and Equipment Lab Field Trip,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,T Collins
 VIT_ENOL,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,Jan 10--Apr 29,G Ganjyal
 WRIT,302,Advanced Writing Collaborative,01,16109,1,ARRGT,ARR ARR,Jan 10--Apr 29,R Mays

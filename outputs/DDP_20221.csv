@@ -83,13 +83,13 @@ B_A,579,MBA Capstone,01,17451,2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,02,17452,2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,03,17453,2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,04,17454,2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
-B_A,579,MBA Capstone,05,17455,2,ARRGT,ARR ARR,Jan 10--May 01,""
-B_A,579,MBA Capstone,06,17456,2,ARRGT,ARR ARR,Jan 10--May 01,""
+B_A,579,MBA Capstone,05,17455,2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
+B_A,579,MBA Capstone,06,17456,2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,11,"",2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,12,"",2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,13,"",2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,14,"",2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
-B_A,579,MBA Capstone,15,"",2,ARRGT,ARR ARR,Jan 10--May 01,""
+B_A,579,MBA Capstone,15,"",2,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,21,"",3,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,22,"",3,ARRGT,ARR ARR,Jan 10--May 01,""
 B_A,579,MBA Capstone,23,"",3,ARRGT,ARR ARR,Jan 10--May 01,""
@@ -159,17 +159,17 @@ COM,563,Ethics for Professionals,01,17281,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Hindm
 COM,564,Research Methods for Professionals,01,17282,3,ARRGT,ARR ARR,Jan 10--Apr 29,P Borah
 COMHLTH,573,Communicating Health in a Digital Landscape,01,17959,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Thomas
 COMJOUR,333,[M] Reporting Across Platforms,02,30396,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
-COMJOUR,333,[M] Reporting Across Platforms,03,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
+COMJOUR,333,[M] Reporting Across Platforms,03,31069,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
 COMSTRAT,301,Foundations of Persuasion,01,17927,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Richardson
 COMSTRAT,310,Digital Content Promotion,01,17680,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Galey
-COMSTRAT,310,Digital Content Promotion,05,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+COMSTRAT,310,Digital Content Promotion,05,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,M Galey
 COMSTRAT,312,Principles of Public Relations,01,17683,3,ARRGT,ARR ARR,Jan 10--Apr 29,B Atwood
 COMSTRAT,312,Principles of Public Relations,04,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,M Ritsch
 COMSTRAT,380,Advertising Principles and Practices,01,17353,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Kistler
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,17681,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
 COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,01,30492,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Barnes
 COMSTRAT,476,Consumer Insights and Branding,01,17958,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Kistler
-COMSTRAT,476,Consumer Insights and Branding,02,31086,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+COMSTRAT,476,Consumer Insights and Branding,02,31086,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Jameson
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,17818,3,ARRGT,ARR ARR,Jan 10--Apr 29,Y Lee
 COMSTRAT,485,[M] Public Relations Management and Campaigns,05,18229,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Hawkins-Jedlicka
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,W Wegner
@@ -197,7 +197,7 @@ CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,S Keo
 CRM_J,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 CROP_SCI,102,Introduction to Cultivated Plants,01,17325,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 CROP_SCI,360,World Agricultural Systems,01,17318,3,ARRGT,ARR ARR,Jan 10--Apr 29,P Jacoby
-DATA,115,Introduction to Data Analytics,01,30400,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Zhang
+DATA,115,Introduction to Data Analytics,01,30400,3,ARRGT,ARR ARR,Jan 10--Apr 29,N Ludlow
 DATA,390,Special Topics I,02,30715,V,ARRGT,ARR ARR,Jan 10--Apr 29,S Lapin
 DATA,424,[CAPS] [M] Data Analytics Capstone,02,30399,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Crate
 DATA,498,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,S Lapin
@@ -222,6 +222,7 @@ E_E,451,Digital Communication Systems,01,17672,3,"M,W,F10.10-11","",Jan 10--Apr 
 E_E,483,Topics in Electrical and Computer Engineering,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,R Olsen
 E_E,485,Electric Energy Distribution Systems,01,"",3,"TU,TH9.10-10.25","",Jan 10--Apr 29,A Dubey
 E_E,485,Electric Energy Distribution Systems,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,A Dubey
+E_E,486,Power Electronics,03,31096,3,"TU,TH13.30-14.45","",Jan 10--Apr 29,A Abu Hajar
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 E_E,493,Protection of Power Systems I,01,17551,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Lotfifard
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,M Kejariwal
@@ -348,12 +349,12 @@ HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,K Philander
 HBM,383,Meeting and Convention Management,01,18159,3,ARRGT,ARR ARR,Jan 10--Feb 27,A Senter
 HBM,470,Living Management Operations Analysis,01,25849,3,ARRGT,ARR ARR,Jan 10--Feb 27,C Wolfenbarger
-HBM,475,[CAPS] Senior Living Management Capstone,01,30580,3,ARRGT,ARR ARR,Mar 07--May 01,""
+HBM,475,[CAPS] Senior Living Management Capstone,01,30580,3,ARRGT,ARR ARR,Mar 07--May 01,M Senger
 HBM,491,Operational Analysis,01,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,""
-HBM,491,Operational Analysis,02,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,W Gzara
+HBM,491,Operational Analysis,02,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,Y Barabantsev
 HBM,494,[M] Service Operations Management,01,17723,3,ARRGT,ARR ARR,Mar 07--May 01,J Kim
 HBM,494,[M] Service Operations Management,02,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,D Gursoy
-HBM,494,[M] Service Operations Management,03,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,J Harbour
+HBM,494,[M] Service Operations Management,03,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,B Marlowe
 HBM,496,Special Topics,01,"",3,ARRGT,ARR ARR,Feb 14--Mar 25,D Jha
 HBM,498,Hospitality Business Management Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Mar 25,R Harrington
 HBM,498,Hospitality Business Management Internship,02,"",V,ARRGT,ARR ARR,Apr 04--Jun 17,R Harrington
@@ -436,6 +437,7 @@ MGMT,456,[M] Evaluating and Rewarding Employees,01,17741,3,ARRGT,ARR ARR,Mar 07-
 MGMT,456,[M] Evaluating and Rewarding Employees,02,17742,3,ARRGT,ARR ARR,Mar 07--May 01,W Larson
 MGMT,483,[M] Management of Innovation and Change,01,17402,3,ARRGT,ARR ARR,Jan 10--Feb 27,A Titi Amayah
 MGMT,483,[M] Management of Innovation and Change,02,17728,3,ARRGT,ARR ARR,Jan 10--Feb 27,A Titi Amayah
+MGMT,483,[M] Management of Innovation and Change,03,18281,3,ARRGT,ARR ARR,Jan 10--Feb 27,A Titi Amayah
 MGMT,491,[CAPS] Strategic Management,01,17332,3,ARRGT,ARR ARR,Jan 10--Feb 27,D Miller
 MGMT,491,[CAPS] Strategic Management,02,17558,3,ARRGT,ARR ARR,Jan 10--Feb 27,D Miller
 MGMT,593,Managerial Leadership and Productivity,01,"",3,ARRGT,ARR ARR,Jan 10--Feb 13,W Larson
@@ -444,7 +446,9 @@ MGMT,593,Managerial Leadership and Productivity,03,"",3,ARRGT,ARR ARR,Jan 10--Fe
 MGMT,593,Managerial Leadership and Productivity,04,"",3,ARRGT,ARR ARR,Jan 10--Feb 13,W Larson
 MGMT,593,Managerial Leadership and Productivity,05,"",3,ARRGT,ARR ARR,Jan 10--Feb 13,W Larson
 MGTOP,215,Business Statistics,01,17329,4,ARRGT,ARR ARR,Jan 10--Feb 27,S Ahn
+MGTOP,215,Business Statistics,02,17644,4,ARRGT,ARR ARR,Jan 10--Feb 27,S Ahn
 MGTOP,215,Business Statistics,01 Lab,17330,0,ARRGT,ARR ARR,Jan 10--Feb 27,S Ahn
+MGTOP,215,Business Statistics,02 Lab,17661,0,ARRGT,ARR ARR,Jan 10--Feb 27,S Ahn
 MGTOP,340,Operations Management,01,17724,3,ARRGT,ARR ARR,Mar 07--May 01,T Almutairi
 MGTOP,340,Operations Management,02,17725,3,ARRGT,ARR ARR,Mar 07--May 01,T Almutairi
 MGTOP,340,Operations Management,03,17816,3,ARRGT,ARR ARR,Mar 07--May 01,T Almutairi
@@ -515,7 +519,7 @@ POL_S,102,[SSCI] Introduction to Comparative Politics,01,17229,3,ARRGT,ARR ARR,J
 POL_S,201,Political Research Methods,01,17793,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Huseby
 POL_S,206,State and Local Government,01,17949,3,ARRGT,ARR ARR,Jan 10--Apr 29,N Steffen
 POL_S,300,The American Constitution,01,17811,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Yakub
-POL_S,340,Introduction to Public Administration,01,17230,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Ridout
+POL_S,340,Introduction to Public Administration,01,17230,3,ARRGT,ARR ARR,Jan 10--Apr 29,D Cooper
 POL_S,404,[M] The Judicial Process,01,18170,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Ritter
 POL_S,405,[M] Comparative Criminal Justice Systems,01,18223,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Kraft-Duley
 POL_S,418,Human Issues in International Development,01,17242,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Quinlan
@@ -534,7 +538,7 @@ PSYCH,312,[M] Research Methods in Psychology,02,17539,4,ARRGT,ARR ARR,Jan 10--Ap
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,17205,0,ARRGT,ARR ARR,Jan 10--Apr 29,C Lane
 PSYCH,312,[M] Research Methods in Psychology,02 Lab,17540,0,ARRGT,ARR ARR,Jan 10--Apr 29,C Lane
 PSYCH,320,Health Psychology,01,17580,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Bridley
-PSYCH,321,Personality,01,17206,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Byrd
+PSYCH,321,Personality,01,17206,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Eichenbaum
 PSYCH,328,[M] Self Control,01,17207,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Daffin
 PSYCH,328,[M] Self Control,02,17582,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Eichenbaum
 PSYCH,333,Abnormal Psychology,01,17208,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Bridley
@@ -542,6 +546,7 @@ PSYCH,350,Social Psychology,01,17209,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Lane
 PSYCH,363,Psychology of Aging,01,17415,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Schofield
 PSYCH,372,[BSCI] Biological Basis of Behavior,01,17373,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Henricks
 PSYCH,384,Sensation and Perception,01,17581,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Stubblefield
+PSYCH,384,Sensation and Perception,02,31190,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Byrd
 PSYCH,401,[CAPS] [M] Historical Development of Psychology,01,17810,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Byrd
 PSYCH,401,[CAPS] [M] Historical Development of Psychology,02,30961,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Stubblefield
 PSYCH,464,Behavior Disorders of Children and Adolescents,01,17522,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Mcraney
@@ -604,10 +609,11 @@ SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Jan 10--
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,18181,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 STAT,212,[QUAN] Introduction to Statistical Methods,01,17401,4,ARRGT,ARR ARR,Jan 10--Apr 29,A Fisher
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,17405,0,ARRGT,ARR ARR,Jan 10--Apr 29,A Fisher
+STAT,360,Probability and Statistics,01,"",3,"TU,TH9.10-10.25","",Jan 10--Apr 29,S Lapin
 STAT,412,Statistical Methods in Research I,01,18002,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Kaul
 STAT,437,High Dimensional Data Learning and Visualization,01,17946,3,ARRGT,ARR ARR,Jan 10--Apr 29,X Chen
-STAT,512,Analysis of Variance of Designed Experiments,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,H Johnson
-STAT,512,Analysis of Variance of Designed Experiments,01 Lab,"",0,ARRGT,ARR ARR,Jan 10--Apr 29,H Johnson
+STAT,512,Analysis of Variance of Designed Experiments,01,17233,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Johnson
+STAT,512,Analysis of Variance of Designed Experiments,01 Lab,17234,0,ARRGT,ARR ARR,Jan 10--Apr 29,H Johnson
 UNIV,301,Career Exploration and Professional Development,01,17336,1,ARRGT,ARR ARR,Jan 10--Apr 29,C Miller
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Hopkins
 UNIV,490,Global Leadership Experience,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,K Newlon
