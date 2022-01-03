@@ -240,12 +240,12 @@ module WSUInPerson
       time = Time.new
 
       semesters = []
-      if (11 <= time.month && time.month <= 12) || (1 <= time.month && time.month < 2)
+      if 11 <= time.month && time.month <= 12
         # return fall and spring
         semesters.push(time.year.to_s+"3", (time.year+1).to_s+"1")
-      elsif 2 <= time.month && time.month < 4
+      elsif 1 <= time.month && time.month < 4
         # return spring
-        semesters.push((time.year+1).to_s+"1")
+        semesters.push(time.year.to_s+"1")
       elsif 4 <= time.month && time.month < 9
         # return summer and fall
         semesters.push(time.year.to_s+"2", (time.year).to_s+"3")
