@@ -12,7 +12,7 @@ ACCTG,433,[M] Accounting Systems and Auditing,03,17843,3,ARRGT,ARR ARR,Mar 07--M
 ACCTG,550,Introduction to Financial and Managerial Accounting,01,17435,3,ARRGT,ARR ARR,Mar 28--May 01,B Wong-On-Wing
 ACCTG,550,Introduction to Financial and Managerial Accounting,02,17436,3,ARRGT,ARR ARR,Mar 28--May 01,B Wong-On-Wing
 AFS,302,[M] Introduction to Agroecology,01,17315,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Murphy
-AGRI,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
+AGRI,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 AGRI,702,"Master's Special Problems, Directed Study, and/or Examination",01,17313,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 AIS,320,[DIVR] Native Peoples of North America,01,17960,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Mcnassar
 AIS,327,[DIVR] Contemporary Native Peoples of the Americas,01,17961,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Mcnassar
@@ -50,10 +50,10 @@ B_A,501,Foundations in Marketing,02,17635,2,ARRGT,ARR ARR,Jan 10--Feb 13,R Liu
 B_A,501,Foundations in Marketing,03,17636,2,ARRGT,ARR ARR,Jan 10--Feb 13,R Liu
 B_A,501,Foundations in Marketing,04,17637,2,ARRGT,ARR ARR,Jan 10--Feb 13,R Liu
 B_A,502,Foundations in Operations Management,01,17418,2,ARRGT,ARR ARR,Feb 21--Mar 27,J Hu
-B_A,502,Foundations in Operations Management,02,17419,2,ARRGT,ARR ARR,Feb 21--Mar 27,""
+B_A,502,Foundations in Operations Management,02,17419,2,ARRGT,ARR ARR,Feb 21--Mar 27,J Hu
 B_A,504,Foundations in Finance,01,17440,2,ARRGT,ARR ARR,Mar 28--May 01,M Reyes
 B_A,504,Foundations in Finance,02,17441,2,ARRGT,ARR ARR,Mar 28--May 01,M Reyes
-B_A,504,Foundations in Finance,03,17442,2,ARRGT,ARR ARR,Mar 28--May 01,""
+B_A,504,Foundations in Finance,03,17442,2,ARRGT,ARR ARR,Mar 28--May 01,M Reyes
 B_A,514,Business Analytics: Transforming Data into Decisions,01,17488,3,ARRGT,ARR ARR,Jan 10--Feb 27,S Fotopoulos
 B_A,514,Business Analytics: Transforming Data into Decisions,02,17489,3,ARRGT,ARR ARR,Jan 10--Feb 27,S Fotopoulos
 B_A,514,Business Analytics: Transforming Data into Decisions,03,17490,3,ARRGT,ARR ARR,Jan 10--Feb 27,S Fotopoulos
@@ -97,6 +97,7 @@ B_A,579,MBA Capstone,25,"",3,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,579,MBA Capstone,26,"",3,ARRGT,ARR ARR,Jan 10--May 01,M Jordan
 B_A,599,Strategic Planning for Personal and Program Success,01,17898,1,ARRGT,ARR ARR,Jan 10--Feb 13,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,02,17899,1,ARRGT,ARR ARR,Jan 10--Feb 13,D Mundell
+B_A,599,Strategic Planning for Personal and Program Success,03,17900,1,ARRGT,ARR ARR,Jan 10--Feb 13,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,09,17906,1,ARRGT,ARR ARR,Feb 21--Mar 27,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,17,17914,1,ARRGT,ARR ARR,Mar 28--May 01,D Mundell
 B_A,599,Strategic Planning for Personal and Program Success,25,"",1,ARRGT,ARR ARR,Jan 10--May 01,R Liu
@@ -105,9 +106,9 @@ B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",01,""
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",02,"",1,ARRGT,ARR ARR,Mar 28--May 01,R Moser
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",05,25837,1,ARRGT,ARR ARR,Jan 10--Feb 27,J Rose
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",11,25843,1,ARRGT,ARR ARR,Mar 07--Apr 24,G Mader
-B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",12,25844,1,ARRGT,ARR ARR,Mar 07--Apr 24,""
-B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",13,25845,1,ARRGT,ARR ARR,Mar 07--Apr 24,""
-B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",14,25846,1,ARRGT,ARR ARR,Mar 07--Apr 24,""
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",12,25844,1,ARRGT,ARR ARR,Mar 07--Apr 24,G Mader
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",13,25845,1,ARRGT,ARR ARR,Mar 07--Apr 24,G Mader
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",14,25846,1,ARRGT,ARR ARR,Mar 07--Apr 24,G Mader
 B_LAW,210,Law and the Legal Environment of Business,01,17278,3,ARRGT,ARR ARR,Jan 10--Feb 27,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,02,17592,3,ARRGT,ARR ARR,Jan 10--Feb 27,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,04,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,S Bergstedt
@@ -134,6 +135,7 @@ CAS,400,End-of-Program Evaluation Portfolio,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29
 CAS,497,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 CES,209,[HUM] Hip Hop Around the Globe,01,18169,3,ARRGT,ARR ARR,Jan 10--Apr 29,D Leonard
 CES,209,[HUM] Hip Hop Around the Globe,02,31011,3,ARRGT,ARR ARR,Jan 10--Apr 29,D Leonard
+CES,271,[HUM] Native Music of North America,01,17390,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Parkhurst
 COM,101,[SSCI] Media and Society,01,17271,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,17354,3,ARRGT,ARR ARR,Jan 10--Apr 29,I Haider
 COM,102,[COMM] Public Speaking in the Digital Age,02,17393,3,ARRGT,ARR ARR,Jan 10--Apr 29,I Haider
@@ -144,9 +146,10 @@ COM,105,[HUM] Communication in Global Contexts,01,17270,3,ARRGT,ARR ARR,Jan 10--
 COM,105,[HUM] Communication in Global Contexts,02,18205,3,ARRGT,ARR ARR,Jan 10--Apr 29,G Bedoyan
 COM,138,Introduction to Communication,01,17654,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Simmons
 COM,210,[COMM] Multimedia Content Creation,01,17269,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Curtis
-COM,275,Communication Seminar,01,31256,V,ARRGT,ARR ARR,Feb 21--Apr 09,C Curtis
-COM,300,[M] Writing in Communication,01,17653,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Mclaughlin
-COM,300,[M] Writing in Communication,03,18015,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Mclaughlin
+COM,210,[COMM] Multimedia Content Creation,11,18272,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Price
+COM,275,Communication Seminar,01,"",V,ARRGT,ARR ARR,Feb 21--Apr 09,C Curtis
+COM,300,[M] Writing in Communication,01,17653,3,ARRGT,ARR ARR,Jan 10--Apr 29,W Raney
+COM,300,[M] Writing in Communication,03,18015,3,ARRGT,ARR ARR,Jan 10--Apr 29,W Raney
 COM,309,Quantitative Research Methods,01,18209,3,ARRGT,ARR ARR,Jan 10--Apr 29,W Peng
 COM,421,[CAPS] Intercultural Communication and Globalization,01,17928,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Richardson
 COM,464,Gender and the Media,01,17993,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Gillig
@@ -154,6 +157,7 @@ COM,475,Communication Seminar,02,17656,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Marcelo
 COM,479,Youth and the Media,01,17369,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Seo
 COM,479,Youth and the Media,02,17701,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Tsui
 COM,479,Youth and the Media,03,31065,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Tsui
+COM,497,Practicum in Communication,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,M Johnson
 COM,561,Multimedia Content Creation,01,17279,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Jameson
 COM,562,Crisis Communication in Global Contexts,01,17280,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Tomson
 COM,563,Ethics for Professionals,01,17281,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Hindman
@@ -163,9 +167,9 @@ COMJOUR,333,[M] Reporting Across Platforms,02,30396,3,ARRGT,ARR ARR,Jan 10--Apr 
 COMJOUR,333,[M] Reporting Across Platforms,03,31069,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
 COMSTRAT,301,Foundations of Persuasion,01,17927,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Richardson
 COMSTRAT,310,Digital Content Promotion,01,17680,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Galey
-COMSTRAT,310,Digital Content Promotion,05,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,M Galey
+COMSTRAT,310,Digital Content Promotion,05,18271,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Galey
 COMSTRAT,312,Principles of Public Relations,01,17683,3,ARRGT,ARR ARR,Jan 10--Apr 29,B Atwood
-COMSTRAT,312,Principles of Public Relations,04,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,M Ritsch
+COMSTRAT,312,Principles of Public Relations,04,18214,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Ritsch
 COMSTRAT,380,Advertising Principles and Practices,01,17353,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Kistler
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,17681,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
 COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,01,30492,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Barnes
@@ -227,16 +231,20 @@ E_E,486,Power Electronics,03,31096,3,"TU,TH13.30-14.45","",Jan 10--Apr 29,A Abu 
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 E_E,493,Protection of Power Systems I,01,17551,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Lotfifard
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,M Kejariwal
-E_E,521,Analysis of Power Systems,01,17359,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Bose
+E_E,521,Analysis of Power Systems,01,17359,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Guerrero Sedeno
+E_E,701,Master's Independent Capstone Project and /or Examination,01,17562,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 E_M,426,Constraints Management,01,"",3,TH17.15-19.45,WEB ARR,Jan 10--Apr 29,L Scheinkopf
 E_M,438,Lean Tools for Systems Improvement,01,"",3,W18.15-20.45,WEB ARR,Jan 10--Apr 29,D Paulus
 E_M,464,Project Management,01,17530,3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,K Bachman
+E_M,464,Project Management,02,31421,3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,W Gray
 E_M,480,Quality Control and Reliability,01,"",3,M18.15-20.45,WEB ARR,Jan 10--Apr 29,D Paulus
-E_M,505,Finance for Technical Systems,01,17290,3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,A Squires
-E_M,522,Leading People and Organizations,01,30591,3,TU17.15-19.45,"",Jan 10--Apr 29,K Bachman
+E_M,505,Finance for Technical Systems,01,17290,3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,R Cameron
+E_M,522,Leading People and Organizations,01,30591,3,TU17.15-19.45,WEB ARR,Jan 10--Apr 29,K Bachman
 E_M,526,Constraints Management,01,17288,3,TH17.15-19.45,WEB ARR,Jan 10--Apr 29,L Scheinkopf
 E_M,538,Lean Tools for Systems Improvement,01,17380,3,W18.15-20.45,WEB ARR,Jan 10--Apr 29,D Paulus
 E_M,540,Operations Research and Analytics for Managers,01,17291,3,TH18.15-20.45,WEB ARR,Jan 10--Apr 29,L Magpili
+E_M,564,Project Management,01,17378,3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,K Bachman
+E_M,564,Project Management,02,"",3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,W Gray
 E_M,565,Introduction to Systems Management,01,17931,3,W17.15-19.45,WEB ARR,Jan 10--Apr 29,A Squires
 E_M,567,System Supportability and Logistics Management,01,18146,3,M17.15-19.45,WEB ARR,Jan 10--Apr 29,W Gray
 E_M,568,Risk Assessment and Management,01,17792,3,TU18.15-20.45,WEB ARR,Jan 10--Apr 29,L Magpili
@@ -268,7 +276,7 @@ ENGLISH,102,Writing Tutorial,01,17808,1,ARRGT,ARR ARR,Jan 10--Apr 29,T Holland
 ENGLISH,201,[WRTG] Writing and Research,01,17187,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Mccarthy
 ENGLISH,210,[HUM] Readings in American Literature,01,18283,3,ARRGT,ARR ARR,Jan 10--Apr 29,D Campbell
 ENGLISH,251,[ARTS] Introduction to Creative Writing: Exploring the Genres,01,30882,3,ARRGT,ARR ARR,Jan 10--Apr 29,B Fry
-ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,V Cozza
+ENGLISH,301,[WRTG] Writing and Rhetorical Conventions,01,17215,3,ARRGT,ARR ARR,Jan 10--Apr 29,V Cozza
 ENGLISH,302,[M] Introduction to English Studies,01,18194,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Ratzlaff
 ENGLISH,309,Women Writers,01,17216,3,ARRGT,ARR ARR,Jan 10--Apr 29,D Campbell
 ENGLISH,361,Everyday Rhetorics,01,30141,3,ARRGT,ARR ARR,Jan 10--Apr 29,V Cozza
@@ -345,19 +353,23 @@ H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,R Cooper
 H_D,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 HBM,101,Professional and Career Development for the Business World,01,17478,1,ARRGT,ARR ARR,Jan 10--Feb 27,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,18157,1,ARRGT,ARR ARR,Jan 10--Feb 27,A Alonzo
+HBM,101,Professional and Career Development for the Business World,03,18158,1,ARRGT,ARR ARR,Jan 10--Feb 27,A Alonzo
+HBM,101,Professional and Career Development for the Business World,04,18289,1,ARRGT,ARR ARR,Jan 10--Feb 27,A Alonzo
 HBM,280,Hospitality Systems,01,17722,3,ARRGT,ARR ARR,Mar 07--May 01,J Han
 HBM,298,Internship Experience,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Alonzo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,17267,3,ARRGT,ARR ARR,Jan 10--Feb 27,K Philander
-HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,J Harbour
+HBM,381,[M] Hospitality Leadership and Organizational Behavior,03,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,E Cattaneo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,04,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,K Philander
 HBM,383,Meeting and Convention Management,01,18159,3,ARRGT,ARR ARR,Jan 10--Feb 27,A Senter
 HBM,470,Living Management Operations Analysis,01,25849,3,ARRGT,ARR ARR,Jan 10--Feb 27,C Wolfenbarger
 HBM,475,[CAPS] Senior Living Management Capstone,01,30580,3,ARRGT,ARR ARR,Mar 07--May 01,M Wolniewicz
-HBM,491,Operational Analysis,01,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,""
+HBM,491,Operational Analysis,01,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,Y Barabantsev
 HBM,491,Operational Analysis,02,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,Y Barabantsev
 HBM,494,[M] Service Operations Management,01,17723,3,ARRGT,ARR ARR,Mar 07--May 01,J Kim
 HBM,494,[M] Service Operations Management,02,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,D Gursoy
 HBM,494,[M] Service Operations Management,03,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,B Marlowe
+HBM,495,[CAPS] Case Studies and Research,01,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,O Larina
+HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,O Larina
 HBM,496,Special Topics,01,"",3,ARRGT,ARR ARR,Feb 14--Mar 25,D Jha
 HBM,498,Hospitality Business Management Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Mar 25,R Harrington
 HBM,498,Hospitality Business Management Internship,02,"",V,ARRGT,ARR ARR,Apr 04--Jun 17,R Harrington
@@ -389,12 +401,13 @@ HUMANITY,101,[HUM] Humanities in the Ancient World,01,17410,3,ARRGT,ARR ARR,Jan 
 HUMANITY,103,[HUM] Mythology,01,17411,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Goodrich
 HUMANITY,103,[HUM] Mythology,02,18007,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Siler
 HUMANITY,103,[HUM] Mythology,03,18008,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Goodrich
-HUMANITY,103,[HUM] Mythology,04,18009,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+HUMANITY,103,[HUM] Mythology,04,18009,3,ARRGT,ARR ARR,Jan 10--Apr 29,E Siler
 I_BUS,380,International Business,01,17293,3,ARRGT,ARR ARR,Mar 07--May 01,U Umesh
 I_BUS,380,International Business,02,17569,3,ARRGT,ARR ARR,Mar 07--May 01,U Umesh
 I_BUS,380,International Business,03,17643,3,ARRGT,ARR ARR,Mar 07--May 01,U Umesh
 I_BUS,380,International Business,04,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,K Tajeddini
 I_BUS,380,International Business,05,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,K Tajeddini
+I_BUS,380,International Business,06,31374,3,ARRGT,ARR ARR,Mar 07--May 01,""
 I_BUS,453,[M] International Management,01,17800,3,ARRGT,ARR ARR,Mar 07--May 01,D Nelson
 I_BUS,453,[M] International Management,02,17804,3,ARRGT,ARR ARR,Mar 07--May 01,D Nelson
 I_BUS,470,International Trade and Finance,01,17342,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Rahman
@@ -419,11 +432,10 @@ MBIOS,503,Advanced Molecular Biology I,01,17195,3,ARRGT,ARR ARR,Jan 10--Apr 29,C
 MBIOS,513,General Biochemistry,01,17692,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Brosemer
 MBIOS,580,Science Information Literacy,01,17196,2,ARRGT,ARR ARR,Jan 10--Apr 29,S Fricke
 MBIOS,583,Professional Skills Seminar,01,17197,1,ARRGT,ARR ARR,Jan 10--Apr 29,J Arneson
-MBIOS,584,Medical Genetics,01,30132,3,ARRGT,ARR ARR,Jan 10--Mar 11,I Wallace
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,17834,V,ARRGT,ARR ARR,Jan 10--Apr 29,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,17198,V,ARRGT,ARR ARR,Jan 10--Apr 29,N Mccabe
 ME,304,Heat Transfer,01,"",3,"M,W,F8.10-9.10",ARR ARR,Jan 10--Apr 29,B Asgharian Dastenaie
-ME,348,Dynamics Systems,01,17827,3,"M,W,F11-11.50","",Jan 10--Apr 29,S Chien
+ME,348,Dynamics Systems,01,17827,3,"M,W,F11-11.50","",Jan 10--Apr 29,Y Hu
 ME,401,Mechatronics,01,17343,3,"M,W9.10-10","",Jan 10--Apr 29,M Pitts
 ME,401,Mechatronics,01 Lab,17344,0,TU9.10-12,"",Jan 10--Apr 29,M Pitts
 ME,401,Mechatronics,02 Lab,17345,0,TH9.10-12,"",Jan 10--Apr 29,M Pitts
@@ -441,8 +453,8 @@ MED_ETH,540,"Seminar in Clinical Ethics: Methods, Process, Skills & Traits",02,"
 MGMT,301,Principles of Management and Organization,01,17331,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Gingras
 MGMT,301,Principles of Management and Organization,02,17559,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Gingras
 MGMT,450,Personnel and Human Resources Management,01,17801,3,ARRGT,ARR ARR,Mar 07--May 01,R Moser
-MGMT,450,Personnel and Human Resources Management,02,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,A Cavelzani
-MGMT,450,Personnel and Human Resources Management,03,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,E Gillard
+MGMT,450,Personnel and Human Resources Management,02,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,E Cattaneo
+MGMT,450,Personnel and Human Resources Management,03,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,E Cattaneo
 MGMT,450,Personnel and Human Resources Management,04,18167,3,ARRGT,ARR ARR,Mar 07--May 01,R Moser
 MGMT,455,Recruiting and Hiring Human Capital,01,17726,3,ARRGT,ARR ARR,Jan 10--Feb 27,W Larson
 MGMT,456,[M] Evaluating and Rewarding Employees,01,17741,3,ARRGT,ARR ARR,Mar 07--May 01,W Larson
@@ -466,12 +478,13 @@ MGTOP,340,Operations Management,02,17725,3,ARRGT,ARR ARR,Mar 07--May 01,T Almuta
 MGTOP,340,Operations Management,03,17816,3,ARRGT,ARR ARR,Mar 07--May 01,T Almutairi
 MGTOP,581,Operations Management,01,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,J Hu
 MGTOP,581,Operations Management,02,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,J Hu
-MGTOP,581,Operations Management,03,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,""
-MGTOP,581,Operations Management,04,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,""
-MGTOP,581,Operations Management,05,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,""
+MGTOP,581,Operations Management,03,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,J Hu
+MGTOP,581,Operations Management,04,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,J Hu
+MGTOP,581,Operations Management,05,"",3,ARRGT,ARR ARR,Feb 21--Mar 27,J Hu
 MIS,250,Managing Information Technology,01,17774,3,ARRGT,ARR ARR,Mar 07--May 01,J Sarabadani
 MIS,250,Managing Information Technology,02,17814,3,ARRGT,ARR ARR,Mar 07--May 01,J Sarabadani
 MIS,250,Managing Information Technology,03,17815,3,ARRGT,ARR ARR,Mar 07--May 01,J Sarabadani
+MIS,250,Managing Information Technology,04,18011,3,ARRGT,ARR ARR,Mar 07--May 01,J Sarabadani
 MIS,322,[M] Enterprise Business Process Analysis,01,25850,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Barnett
 MIS,322,[M] Enterprise Business Process Analysis,02,25851,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Barnett
 MIS,420,Business Intelligence,01,17266,3,ARRGT,ARR ARR,Mar 07--May 01,M Featherman
@@ -479,6 +492,8 @@ MIS,420,Business Intelligence,02,18000,3,ARRGT,ARR ARR,Mar 07--May 01,M Featherm
 MKTG,360,Marketing,01,17743,3,ARRGT,ARR ARR,Mar 07--May 01,U Umesh
 MKTG,360,Marketing,02,17744,3,ARRGT,ARR ARR,Mar 07--May 01,U Umesh
 MKTG,360,Marketing,03,17745,3,ARRGT,ARR ARR,Mar 07--May 01,U Umesh
+MKTG,360,Marketing,04,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,P Ossola
+MKTG,360,Marketing,05,"",3,ARRGT,ARR ARR,Apr 04--Jun 17,O Larina
 MKTG,360,Marketing,06,18168,3,ARRGT,ARR ARR,Mar 07--May 01,U Umesh
 MKTG,368,Marketing Research,01,17649,3,ARRGT,ARR ARR,Jan 10--Feb 27,K Rieger
 MKTG,368,Marketing Research,02,18285,3,ARRGT,ARR ARR,Jan 10--Feb 27,K Rieger
@@ -515,16 +530,22 @@ MKTG,506,Marketing Strategy,31,25868,3,ARRGT,ARR ARR,Mar 07--Apr 24,S Silverman
 MSE,404,Engineering Composites,01,17664,3,"M,W,F14.10-15","",Jan 10--Apr 29,J Zhang
 MUS,160,[ARTS] Survey of Music Literature,01,17276,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Agulay
 MUS,262,[ARTS] Rock Music: History and Social Analysis,01,17277,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Svendsen
+MUS,265,[HUM] Native Music of North America,01,17389,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Parkhurst
 MUS,266,[ARTS] Film Music,02,17973,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Dickey
 MUS,362,[DIVR] History of Jazz,01,17940,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Svendsen
 MUS,363,[DIVR] Women in Music,01,17525,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Parkhurst
+MUS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,D Luethi
+MUS,503,Voice,03,31183,V,TU11-11.50,KIMB 110,Jan 10--Apr 29,J Wieck
+MUS,520,Guitar,02,31184,V,TU11-11.50,KIMB 110,Jan 10--Apr 29,C Haas
 MUS,550,Seminar in Analysis,02,29647,2,ARRGT,ARR ARR,Jan 10--Apr 29,J Wilson
+MUS,559,Seminar in Advanced Jazz Composition,03,31185,V,ARRGT,ARR ARR,Jan 10--Apr 29,G Yasinitsky
 MUS,561,Seminar in Literature of 20th Century Music,01,17974,2,ARRGT,ARR ARR,Jan 10--Apr 29,S Tegart
 MUS,575,Advanced Conducting,03,31186,V,ARRGT,ARR ARR,Jan 10--Apr 29,D Luethi
 MUS,597,Performance Studies for Distance Learners,01,"",2,ARRGT,ARR ARR,Jan 10--Apr 29,D Luethi
 PHIL,201,[QUAN] Introduction to Formal Logic,01,17168,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Hubbard-Mattix
 PHIL,450,Data Analytics Ethics,01,17169,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Glazebrook
 PHIL,535,Advanced Biomedical Ethics,01,17231,3,ARRGT,ARR ARR,Jan 10--Apr 29,W Kabasenche
+PHIL,600,Special Projects or Independent Study,01,31391,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 PL_P,501,Biology and Control of Plant Diseases,01,17322,3,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PL_P,501,Biology and Control of Plant Diseases,01 Lab,17323,0,ARRGT,ARR ARR,Jan 10--Apr 29,""
 POL_S,101,[SSCI] American National Government,01,17228,3,ARRGT,ARR ARR,Jan 10--Apr 29,J Huseby
@@ -596,6 +617,7 @@ SOE,210,[PSCI] Earth's History and Evolution,01,17174,4,ARRGT,ARR ARR,Jan 10--Ap
 SOE,210,[PSCI] Earth's History and Evolution,01 Lab,17175,0,ARRGT,ARR ARR,Jan 10--Apr 29,J Boro
 SOE,300,Natural Resource Ecology,01,18179,3,ARRGT,ARR ARR,Jan 10--Apr 29,S Woodley
 SOE,404,[CAPS] [M] The Ecosystem,01,17965,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Steen-Adams
+SOE,492,Special Topics,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A King
 SOE,495,Undergraduate Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A King
 SOIL_SCI,302,[M] Introduction to Agroecology,01,17314,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Murphy
 SOIL_SCI,360,World Agricultural Systems,01,17319,3,ARRGT,ARR ARR,Jan 10--Apr 29,P Jacoby
@@ -605,20 +627,20 @@ SOIL_SCI,441,Soil Fertility,01,17316,3,ARRGT,ARR ARR,Jan 10--Apr 29,I Madsen
 SOIL_SCI,468,GIS Spatial Analysis,01,17383,4,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 SOIL_SCI,468,GIS Spatial Analysis,01 Lab,17384,0,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 SOIL_SCI,478,Advanced Organic Farming and Gardening,01,17368,2,ARRGT,ARR ARR,Jan 10--Apr 29,B Jaeckel
-SOIL_SCI,498,Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Reganold
+SOIL_SCI,498,Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SOIL_SCI,568,GIS Spatial Analysis,01,17385,4,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 SOIL_SCI,568,GIS Spatial Analysis,01 Lab,17386,0,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 SPANISH,101,First Semester,01,17184,4,ARRGT,ARR ARR,Jan 10--Apr 29,M Previto
 SPANISH,102,Second Semester,01,17185,4,ARRGT,ARR ARR,Jan 10--Apr 29,M Previto
 SPANISH,306,Intermediate Reading and Translation,02,29626,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Hubert
 SPEC_ED,301,Education of Exceptional Children,01,17294,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Albagshi
-SPEC_ED,402,Assessment and Curriculum for Students with Disabilities,01,17295,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Albagshi
-SPEC_ED,403,Secondary Education for Students with Disabilities,01,17297,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Bruno
+SPEC_ED,402,Assessment and Curriculum for Students with Disabilities,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,A Albagshi
+SPEC_ED,403,Secondary Education for Students with Disabilities,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,L Bruno
 SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,17301,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 SPEC_ED,499,Special Problems,02,17303,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,17296,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Albagshi
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,17298,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Bruno
-SPEC_ED,522,Topics in Special Education,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,D Mcmahon
+SPEC_ED,522,Topics in Special Education,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,17657,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SPEC_ED,702,"Master's Special Problems, Directed Study, and/or Examination",01,18181,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -627,6 +649,8 @@ STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,17405,0,ARRGT,ARR ARR
 STAT,360,Probability and Statistics,01,"",3,"TU,TH9.10-10.25","",Jan 10--Apr 29,S Lapin
 STAT,412,Statistical Methods in Research I,01,18002,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Johnson
 STAT,437,High Dimensional Data Learning and Visualization,01,17946,3,ARRGT,ARR ARR,Jan 10--Apr 29,X Chen
+TCH_LRN,588,Action Research: Teachers as Research,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,""
+TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,17362,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 UNIV,301,Career Exploration and Professional Development,01,17336,1,ARRGT,ARR ARR,Jan 10--Apr 29,C Miller
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Hopkins
 UNIV,490,Global Leadership Experience,01,"",1,ARRGT,ARR ARR,Jan 10--Apr 29,K Newlon

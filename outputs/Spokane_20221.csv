@@ -1,7 +1,7 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 COMHLTH,573,Communicating Health in a Digital Landscape,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,C Thomas
+CPT_S,499,Special Problems,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,D Cook
 E_A,300,Educ Abroad,02,30980,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
-E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 ED_AD,503,Values and Ethics for Educational Leaders,01,27678,3,TU17.45-20.30,VC ARR,Jan 10--Apr 29,J Walls
 ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-18.45,SAC 41,"",""
 ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-18.45,SAC 41,"",""
@@ -12,12 +12,6 @@ ED_AD,516,Instructional and Curricular Leadership,"","","",SA9-15,SAC 249,"",""
 ED_AD,516,Instructional and Curricular Leadership,"","","",W17.45-20.30,VC ARR,"",""
 ED_AD,516,Instructional and Curricular Leadership,"","","",W17.45-18.45,VC ARR,"",""
 ED_AD,516,Instructional and Curricular Leadership,"","","",SA9-15,SAC 249,"",""
-ED_AD,521,Topics in Education,01,27659,3,M17.45-20.30,VC ARR,Jan 10--Apr 29,K Rodela
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,SAC 205,"",""
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,SAC 205,"",""
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,SAC 205,"",""
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,SAC 205,"",""
-ED_AD,521,Topics in Education,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,G Hill
 ED_AD,522,Topics in Education,01,27667,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 ED_AD,587,Seminar in School Administration,01,27665,3,ARRGT,ARR ARR,Jan 10--Apr 29,G Hill
 ED_AD,590,Internship,01,27661,V,ARRGT,ARR ARR,Jan 10--Apr 29,R Mcbride
@@ -27,15 +21,12 @@ ED_AD,591,Action Research,"","","",W17.45-20.30,SAC 41,"",""
 ED_AD,591,Action Research,"","","",W17.45-20.30,SAC 41,"",""
 ED_AD,591,Action Research,"","","",W17.45-20.30,SAC 41,"",""
 ED_AD,591,Action Research,"","","",W17.45-20.30,SAC 41,"",""
-ED_AD,600,Special Projects or Independent Study,01,27668,3,ARRGT,ARR ARR,Jan 10--Apr 29,G Hill
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,27666,2,ARRGT,ARR ARR,Jan 10--Apr 29,J Walls
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,27669,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,27693,1,W16.30-17.30,SAC 205,Jan 10--Apr 29,A Cavagnetto
+ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,27694,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 ED_PSYCH,505,Research Methods I,01,27658,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Liao
-ED_PSYCH,508,Educational Statistics,01,28077,3,W16.10-19,SAC 343,Jan 10--Apr 29,B French
-ED_RES,562,"Epistemology, Inquiry, and Representation",01,28388,3,TU17.45-20.30,SAC 341,Jan 10--Apr 29,A Rud
 ED_RES,563,Principles of Research,01,27655,3,TU17.45-20.30,SAC 249,Jan 10--Apr 29,R Danielson
-ED_RES,563,Principles of Research,02,27709,3,TU17.45-20.30,SAC 343,Jan 10--Apr 29,H Liao
 ED_RES,564,Qualitative Research,01,27746,3,TH17.45-20.30,VC ARR,Jan 10--Mar 31,S Finley
 ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,SAC 41,"",""
 ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,SAC 41,"",""
@@ -43,9 +34,64 @@ ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,SAC 41,"",""
 ED_RES,564,Qualitative Research,"","","",TH17.45-20.30,SAC 41,"",""
 ED_RES,564,Qualitative Research,02,28185,3,TU17.45-20.35,SAC 205,Jan 10--Apr 29,A Roth-Mcduffie
 H_D,220,Human Development Theories,01,27702,3,ARRGT,ARR ARR,Jan 10--Apr 29,B Hernandez
-H_D,560,Seminar in Child Development,01,28065,3,W15.10-18,SNRS 201,Jan 10--Apr 29,S Perone
+H_D,560,Seminar in Child Development,01,28065,3,W15.10-18,VC ARR,Jan 10--Apr 29,S Perone
 H_D,600,Special Projects or Independent Study,01,27710,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 HONORS,450,Honors Thesis or Project,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
+INTERDIS,591,Interdisciplinary Studies,01,"",1,TU16-17,SCRS 222,Jan 10--Apr 29,L Gloss
+MBIOS,301,General Genetics,01,"",4,ARRGT,ARR ARR,Jan 10--Apr 29,N Mccabe
+MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,28181,10,ARRGT,ARR ARR,Mar 21--Jun 24,J Bowen
+MED_CLIN,557,Clinical Rotation - Medical Spanish,01,31428,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,558,Virtual - Medical Humanities,01,31432,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,559,Virtual - Technical Writing in Medicine,01,31436,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,582,Science - Quality Improvement and Patient Safety,01,31440,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,583,Science - Evidence-Based Medicine,01,31444,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,591,Surgery - Otolaryngology (Head and Neck Surgery),01,31448,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,592,Surgery - Plastic Surgery,01,31452,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,593,Surgery - Thoracic and Cardiac Surgery,01,31456,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,596,Surgery - Pediatric Surgical Specialties,01,31460,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,601,Internal Medicine - Infectious Diseases,01,31464,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,603,Internal Medicine - Endocrinology,01,31468,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,604,Internal Medicine - Allergy and Immunology,01,31472,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,605,Internal Medicine - Rheumatology,01,31476,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,606,Internal Medicine - Adult Congenital Heart Disease,01,31480,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,607,Internal Medicine - Heart Failure and Transplant Cardiology,01,31484,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,608,Internal Medicine - Electrophysiology,01,31488,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,609,Pediatrics - Dermatology,01,31492,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,611,Pediatrics - Cardiology,01,31496,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,612,Pediatrics - Hematology and Oncology,01,31500,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,613,Pediatrics - Infectious Diseases,01,31504,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,614,Pediatrics - Gastroenterology,01,31508,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,615,Pediatrics - Development-Behavioral Pediatrics,01,31512,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,616,Pediatrics - Adolescent Medicine,01,31516,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,617,Pediatrics - Critical Care,01,31520,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,618,Pediatrics - Neonatal-Perinatal Medicine,01,31524,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,619,Pediatrics - Neurology,01,31528,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,620,Pediatrics - Pulmonology,01,31532,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,621,Pediatrics - Emergency Medicine,01,31536,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,622,Pediatrics - Rheumatology,01,31540,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,623,Pediatrics - Endocrinology,01,31544,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,624,Pediatrics - Diabetology,01,31548,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,625,Pediatrics - Child Abuse,01,31552,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,626,Psychiatry - Ambulatory,01,31556,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,627,Psychiatry - Inpatient,01,31560,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,628,Obstetrics and Gynecology - Maternal-Fetal Medicine,01,31564,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,630,Obstetrics and Gynecology - Reproductive Endocrinology and Infertility,01,31568,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,632,Obstetrics and Gynecology - Reproductive Health,01,31572,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,633,Clinical Rotation - Global Health,01,31576,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,634,Clinical Rotation - Sleep Medicine,01,31580,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,635,Clinical Rotation - Pain Medicine,01,31584,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,636,Clinical Rotation - Sports Medicine,01,31588,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,637,Clinical Rotation - Interventional Radiology,01,31592,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,31596,4,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_FMS,503,Foundations of Medical Science III,01,27697,12,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_FMS,503,Foundations of Medical Science III,01 Lab,27698,0,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_FMS,513,Foundations of Medical Science VI,01,27650,11,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_FMS,513,Foundations of Medical Science VI,01 Lab,27651,0,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_LMH,503,"Physicians as Leaders, Scientists, and Advocates",01,27696,1,ARRGT,ARR ARR,Mar 21--Jun 24,J Haney
+MED_LMH,513,Information Management in Healthcare: Clinical Information Systems,01,27652,1,ARRGT,ARR ARR,Mar 21--Jun 24,J Haney
+MED_LMH,523,Value-based Care,01,28182,1,ARRGT,ARR ARR,Mar 21--Jun 24,J Haney
+MED_LMH,533,Personal Leadership Development III,01,28372,1,ARRGT,ARR ARR,Mar 21--Jun 24,J Haney
+MEDSCHLR,500,Foundations of Scholarship and Discovery I,01,31384,1,ARRGT,ARR ARR,Mar 21--Jun 24,T Chauvin
 MIT,505,Classroom Management Seminar,01,27695,3,M16.10-19,SCRS 255,Jan 10--Apr 29,A Segadelli
 MIT,507,Teacher Inquiry and Praxis,01,28191,3,W17.15-20,VC ARR,Jan 10--Apr 29,J Firestone
 MIT,575,Internship and Seminar,01,27716,10,TU15-18,SCRS 250,Jan 11--Jan 11,A Segadelli
@@ -54,91 +100,60 @@ MIT,575,Internship and Seminar,"","","",TU15-18,SCRS 250,"",""
 MIT,575,Internship and Seminar,"","","",TU15-18,SCRS 250,"",""
 MIT,575,Internship and Seminar,"","","",TU15-18,SCRS 250,"",""
 MIT,575,Internship and Seminar,01 Lab,27721,0,ARRGT,ARR ARR,Jan 10--Apr 29,A Segadelli
-NEP,200,[SSCI] Place and Health,01,28161,3,"TU,TH9.10-10.25",SCRS 250,Jan 10--Apr 29,O Amram
-NEP,402,Vitamin and Mineral Metabolism,01,30239,3,"M,W13.10-14.25",SHER 310,Jan 10--Apr 29,P Solverson
-NEP,427,[M] Nutritional Assessment and Lifestyle Counseling,01,30241,3,"M,W15.10-16",SHER 310,Jan 10--Apr 29,J Larsen
+NEP,200,[SSCI] Place and Health,01,28161,3,"TU,TH9.10-10.25",VC ARR,Jan 10--Apr 29,O Amram
+NEP,402,Vitamin and Mineral Metabolism,01,30239,3,"M,W13.10-14.25",ARR ARR,Jan 10--Apr 29,P Solverson
+NEP,427,[M] Nutritional Assessment and Lifestyle Counseling,01,30241,3,"M,W15.10-16",ARR ARR,Jan 10--Apr 29,J Larsen
 NEP,427,[M] Nutritional Assessment and Lifestyle Counseling,01 Lab,30243,0,TU9.10-12,SHER 334,Jan 10--Apr 29,J Larsen
 NEP,427,[M] Nutritional Assessment and Lifestyle Counseling,02 Lab,30244,0,TU13.10-16,SHER 334,Jan 10--Apr 29,J Larsen
-NEP,435,Applied Pathophysiology,01,30240,4,"M,W10.10-11.50",SHER 310,Jan 10--Apr 29,""
-NEP,450,Management and Facilities,01,30268,3,"TU,TH9.10-10.25",SCRS 255,Jan 10--Apr 29,K Frederick
+NEP,435,Applied Pathophysiology,01,30240,4,"M,W10.10-11.50",ARR ARR,Jan 10--Apr 29,J Larsen
+NEP,450,Management and Facilities,01,30268,3,"TU,TH9.10-10.25",ARR ARR,Jan 10--Apr 29,K Frederick
 NEP,476,Exercise Testing and Prescription,01,30242,3,"M,W16.10-17",SHER 310,Jan 10--Apr 29,J Larsen
 NEP,476,Exercise Testing and Prescription,01 Lab,30245,0,TH9.10-12,SHER 301,Jan 10--Apr 29,J Larsen
 NEP,476,Exercise Testing and Prescription,02 Lab,30246,0,TH13.10-16,SHER 301,Jan 10--Apr 29,J Larsen
-NEP,480,Cardiopulmonary Rehabilitation,01,30247,4,"TU,TH11.10-12.25",SCRS 255,Jan 10--Apr 29,H Haverkamp
+NEP,480,Cardiopulmonary Rehabilitation,01,30247,4,"TU,TH11.10-12.25",ARR ARR,Jan 10--Apr 29,H Haverkamp
 NEP,480,Cardiopulmonary Rehabilitation,01 Lab,30258,0,F9.10-12,SHER 301,Jan 10--Apr 29,H Haverkamp
-NEP,481,Principles of Population Health,01,30520,3,"TU,TH13.10-14.25",SCRS 255,Jan 10--Apr 29,""
-NEP,482,Nutrition and Exercise Practicum II,01,30237,3,TU8.10-9,SCRS 255,Jan 10--Apr 29,J Larsen
+NEP,481,Principles of Population Health,01,30520,3,"TU,TH13.10-14.25",ARR ARR,Jan 10--Apr 29,""
+NEP,482,Nutrition and Exercise Practicum II,01,30237,3,TU8.10-9,ARR ARR,Jan 10--Apr 29,J Larsen
 NEP,482,Nutrition and Exercise Practicum II,01 Lab,30563,0,"M,W11.30-14.30",SHER 334,Jan 10--Apr 29,J Larsen
 NEP,482,Nutrition and Exercise Practicum II,02 Lab,30565,0,"M,W15.30-18.30",SHER 334,Jan 10--Apr 29,J Larsen
 NEP,490,Exercise and Nutrition Internship,01,30238,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Larsen
-NEP,495,[CAPS] [M] Interprofessional Capstone in Nutrition and Exercise Physiology,01,30236,3,"M,W9.10-10.25",SHER 317,Jan 10--Apr 29,J Larsen
-NEP,499,Special Problems,01,27633,V,"TU,TH14.55-16.10",VC ARR,Jan 10--Apr 29,F Carbonero
-NEP,499,Special Problems,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,G Duncan
+NEP,495,[CAPS] [M] Interprofessional Capstone in Nutrition and Exercise Physiology,01,30236,3,"M,W8.10-9.25",ARR ARR,Jan 10--Apr 29,J Larsen
 NEP,499,Special Problems,03,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,H Haverkamp
-NEP,499,Special Problems,04,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Larsen
-NEP,499,Special Problems,05,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,M Perrigue
-NEP,499,Special Problems,06,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,P Solverson
-NEP,501,Community Supervised Practice,01,30248,5,"M,TU14.10-16",SCRS 216,Jan 10--Jan 11,A Davis
+NEP,501,Community Supervised Practice,01,30248,5,"M,TU14.10-16",ARR ARR,Jan 10--Jan 11,A Davis
 NEP,501,Community Supervised Practice,"","","",F14.10-18,ARR ARR,"",""
 NEP,501,Community Supervised Practice,"","","",F13.10-14,SCRS 216,"",""
 NEP,501,Community Supervised Practice,"","","",F13.10-14,SCRS 216,"",""
 NEP,501,Community Supervised Practice,"","","",F13.10-14,SCRS 216,"",""
 NEP,501,Community Supervised Practice,01 Lab,30263,0,ARRGT,ARR ARR,Jan 10--Apr 29,A Davis
-NEP,505,Graduate Seminar,01,30266,1,F12.10-13,SHER 310,Jan 10--Apr 29,G Duncan
-NEP,505,Graduate Seminar,02,27642,1,F12.10-13,ARR ARR,Jan 10--Apr 29,G Duncan
-NEP,525,Advanced Human Nutrition,01,30522,3,"TU,TH9.10-10.25",SAC 347,Jan 10--Apr 29,M Perrigue
-NEP,526,Nutritional Epidemiology,01,30524,3,"M,W9.10-10.25",SAC 45,Jan 10--Apr 29,P Monsivais
-NEP,540,Clinical Supervised Practice,01,30253,10,"M,TU9.10-15",SNRS 201,Jan 10--Jan 11,L Heneghen
-NEP,540,Clinical Supervised Practice,"","","",W9.10-14,SNRS 201,"",""
+NEP,505,Graduate Seminar,01,30266,1,F12.10-13,VC ARR,Jan 10--Apr 29,G Duncan
+NEP,525,Advanced Human Nutrition,01,30522,3,"TU,TH9.10-10.25",ARR ARR,Jan 10--Apr 29,M Perrigue
+NEP,526,Nutritional Epidemiology,01,30524,3,"M,W9.10-10.25",ARR ARR,Jan 10--Apr 29,P Monsivais
+NEP,540,Clinical Supervised Practice,01,30253,10,"M,TU9.10-15",SHSB 260,Jan 10--Jan 11,L Heneghen
+NEP,540,Clinical Supervised Practice,"","","",W9.10-14,SHSB 260,"",""
 NEP,540,Clinical Supervised Practice,01 Lab,30260,0,ARRGT,ARR ARR,Jan 10--Apr 29,L Heneghen
-NEP,542,Medical Nutrition Therapy II,01,30251,3,F9.10-11.40,SHER 310,Jan 10--Apr 29,L Heneghen
-NEP,542,Medical Nutrition Therapy II,02,27637,3,F9.10-11.40,ARR ARR,Jan 10--Apr 29,L Heneghen
-NEP,551,Management Practices in Food Service,01,30256,5,"W,TH13.10-16",SCRS 250,Jan 12--Jan 13,K Frederick
-NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,SHER 310,"",""
-NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,SHER 310,"",""
+NEP,542,Medical Nutrition Therapy II,01,30251,3,F9.10-11.40,VC ARR,Jan 10--Apr 29,L Heneghen
+NEP,551,Management Practices in Food Service,01,30256,5,"W,TH13.10-16",ARR ARR,Jan 12--Jan 13,K Frederick
+NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,ARR ARR,"",""
+NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,ARR ARR,"",""
 NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,SHER 310,"",""
 NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,SHER 310,"",""
 NEP,551,Management Practices in Food Service,"","","",F13.10-14.25,SHER 310,"",""
 NEP,551,Management Practices in Food Service,01 Lab,30264,0,ARRGT,ARR ARR,Jan 10--Apr 29,K Frederick
-NEP,580,Advanced Topics in Exercise Physiology and Nutrition,01,30526,3,"TU,TH16.10-17.25",SAC 347,Jan 10--Apr 29,G Duncan
-NEP,580,Advanced Topics in Exercise Physiology and Nutrition,02,30527,3,"TU,TH10.35-11.50",SAC 347,Jan 10--Apr 29,F Carbonero
-NEP,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,O Amram
+NEP,580,Advanced Topics in Exercise Physiology and Nutrition,01,30526,3,"TU,TH16.10-17.25",ARR ARR,Jan 10--Apr 29,G Duncan
+NEP,580,Advanced Topics in Exercise Physiology and Nutrition,02,30527,3,"TU,TH10.35-11.50",ARR ARR,Jan 10--Apr 29,F Carbonero
 NEP,600,Special Projects or Independent Study,02,30536,V,ARRGT,ARR ARR,Jan 10--Apr 29,F Carbonero
-NEP,600,Special Projects or Independent Study,03,30537,V,ARRGT,ARR ARR,Jan 10--Apr 29,G Duncan
-NEP,600,Special Projects or Independent Study,04,30538,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Haverkamp
-NEP,600,Special Projects or Independent Study,05,30539,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Larsen
 NEP,600,Special Projects or Independent Study,06,30540,V,ARRGT,ARR ARR,Jan 10--Apr 29,P Monsivais
-NEP,600,Special Projects or Independent Study,07,30541,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Perrigue
-NEP,600,Special Projects or Independent Study,08,30542,V,ARRGT,ARR ARR,Jan 10--Apr 29,P Solverson
-NEP,700,"Master's Research, Thesis, and/or Examination",01,30543,V,ARRGT,ARR ARR,Jan 10--Apr 29,O Amram
-NEP,700,"Master's Research, Thesis, and/or Examination",02,30544,V,ARRGT,ARR ARR,Jan 10--Apr 29,F Carbonero
-NEP,700,"Master's Research, Thesis, and/or Examination",03,30545,V,ARRGT,ARR ARR,Jan 10--Apr 29,G Duncan
-NEP,700,"Master's Research, Thesis, and/or Examination",04,30546,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Haverkamp
-NEP,700,"Master's Research, Thesis, and/or Examination",05,30547,V,ARRGT,ARR ARR,Jan 10--Apr 29,P Monsivais
-NEP,700,"Master's Research, Thesis, and/or Examination",06,30548,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Perrigue
-NEP,700,"Master's Research, Thesis, and/or Examination",07,30549,V,ARRGT,ARR ARR,Jan 10--Apr 29,P Solverson
 NEP,701,Master's Independent Capstone Project and /or Examination,01,30521,V,F12.10-13,ARR ARR,Jan 14--Jan 14,A Davis
 NEP,701,Master's Independent Capstone Project and /or Examination,"","","",F12.10-13,ARR ARR,"",""
 NEP,701,Master's Independent Capstone Project and /or Examination,"","","",F12.10-13,ARR ARR,"",""
-NEP,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,O Amram
-NEP,800,"Doctoral Research, Dissertation, and/or Examination",02,30550,V,ARRGT,ARR ARR,Jan 10--Apr 29,F Carbonero
-NEP,800,"Doctoral Research, Dissertation, and/or Examination",03,30551,V,ARRGT,ARR ARR,Jan 10--Apr 29,G Duncan
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",04,30552,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Haverkamp
 NEP,800,"Doctoral Research, Dissertation, and/or Examination",05,30553,V,ARRGT,ARR ARR,Jan 10--Apr 29,P Monsivais
-NEP,800,"Doctoral Research, Dissertation, and/or Examination",06,30554,V,ARRGT,ARR ARR,Jan 10--Apr 29,M Perrigue
-NEP,800,"Doctoral Research, Dissertation, and/or Examination",07,30555,V,ARRGT,ARR ARR,Jan 10--Apr 29,P Solverson
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,01,27685,V,"M,W10.10-11",SCRS 222,Jan 10--Feb 11,M Varnum
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,SCRS 222,"",""
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,02,27686,V,"M,W10.10-11",SCRS 222,Feb 14--Mar 25,G Wayman
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,SCRS 222,"",""
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,03,27729,V,"M,W10.10-11",SCRS 222,Mar 28--Apr 29,S Wayman
 NEUROSCI,541,Special Topics in Cellular and Molecular Neuroscience,"","","",F10.10-12,SCRS 222,"",""
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,01,27684,V,"M,F9.10-10",VC SPK,Jan 10--Feb 11,H Jansen
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,SCRS 222,"",""
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,02,27680,V,"M,F9.10-10",SCRS 222,Feb 14--Mar 25,R Mclaughlin
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,SCRS 222,"",""
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,03,27730,V,"M,F9.10-10",SCRS 222,Mar 28--Apr 29,R Brown
-NEUROSCI,543,Special Topics in Behavioral/Clinical Neuroscience,"","","",W8.30-10,SCRS 222,"",""
 NEUROSCI,564,Topics in Biomedical Experimentation,04,27731,V,"TU,TH10.35-11.50",SCRS 222,Jan 10--Feb 11,M Peck
 NEUROSCI,564,Topics in Biomedical Experimentation,08,27733,V,"TU,TH13.30-14.45",SCRS 222,Feb 14--Mar 25,""
 NEUROSCI,590,Seminar,01,27734,1,F12.10-13.30,SCRS 222,Jan 10--Apr 29,S Wayman
@@ -204,7 +219,7 @@ NURS,406,Nursing Management of the Healthcare Environment,01,29693,3,ARRGT,ARR A
 NURS,406,Nursing Management of the Healthcare Environment,02,29694,3,ARRGT,ARR ARR,Jan 10--Mar 04,C Van Son
 NURS,408,Professional Development III: Leadership and Management,01,29733,3,TH9.10-12,SNRS 105,Jan 10--Apr 29,S Perkins
 NURS,408,Professional Development III: Leadership and Management,02,29734,3,TH9.10-12,VC ARR,Jan 10--Apr 29,S Perkins
-NURS,409,Professional Development IV: Transition to Practice,01,29695,2,M13.10-16,SNRS 5,Jan 10--Apr 29,T Rampley
+NURS,409,Professional Development IV: Transition to Practice,01,29695,2,M13.10-16,VC ARR,Jan 10--Apr 29,T Rampley
 NURS,409,Professional Development IV: Transition to Practice,02,29696,2,M13.10-16,VC ARR,Jan 10--Apr 29,""
 NURS,412,Family and Community as a Context of Care,01,29735,1,W9-10.30,SNRS 203,Jan 10--Apr 29,S Perkins
 NURS,412,Family and Community as a Context of Care,02,29736,1,F11.30-13,SNRS 203,Jan 10--Apr 29,S Perkins
@@ -226,17 +241,17 @@ NURS,415,Children and Families as the Focus of Nursing Care,09,29748,2,ARRGT,ARR
 NURS,415,Children and Families as the Focus of Nursing Care,10,29749,2,ARRGT,ARR ARR,Jan 10--Apr 29,D Scala
 NURS,415,Children and Families as the Focus of Nursing Care,11,29833,2,ARRGT,ARR ARR,Jan 10--Apr 29,A Morse
 NURS,415,Children and Families as the Focus of Nursing Care,12,29917,2,ARRGT,ARR ARR,Jan 10--Apr 29,A Morse
-NURS,416,Childbearing Health of the Family,01,29699,3,TH13.10-16,SNRS 5,Jan 10--Apr 29,K Mitchell
-NURS,416,Childbearing Health of the Family,02,29700,3,TH13.10-16,VC ARR,Jan 10--Apr 29,K Mitchell
-NURS,417,Nursing Care of Childbearing Families,01,29761,2,ARRGT,ARR ARR,Jan 10--Apr 29,P Orebaugh
+NURS,416,Childbearing Health of the Family,01,29699,3,TH13.10-16,SNRS 5,Jan 10--Apr 29,C Brigham-Althoff
+NURS,416,Childbearing Health of the Family,02,29700,3,TH13.10-16,VC ARR,Jan 10--Apr 29,C Brigham-Althoff
+NURS,417,Nursing Care of Childbearing Families,01,29761,2,ARRGT,ARR ARR,Jan 10--Apr 29,K Mitchell
 NURS,417,Nursing Care of Childbearing Families,02,29762,2,ARRGT,ARR ARR,Jan 10--Apr 29,C Brigham-Althoff
 NURS,417,Nursing Care of Childbearing Families,03,29763,2,ARRGT,ARR ARR,Jan 10--Apr 29,R Adams
 NURS,417,Nursing Care of Childbearing Families,04,29764,2,ARRGT,ARR ARR,Jan 10--Apr 29,E Merritt
-NURS,417,Nursing Care of Childbearing Families,05,29765,2,ARRGT,ARR ARR,Jan 10--Apr 29,C Brigham-Althoff
+NURS,417,Nursing Care of Childbearing Families,05,29765,2,ARRGT,ARR ARR,Jan 10--Apr 29,R Adams
 NURS,417,Nursing Care of Childbearing Families,06,29766,2,ARRGT,ARR ARR,Jan 10--Apr 29,K Kleiderer
 NURS,417,Nursing Care of Childbearing Families,07,29767,2,ARRGT,ARR ARR,Jan 10--Apr 29,A Willard
 NURS,417,Nursing Care of Childbearing Families,08,29768,2,ARRGT,ARR ARR,Jan 10--Apr 29,K Mitchell
-NURS,417,Nursing Care of Childbearing Families,09,29769,2,ARRGT,ARR ARR,Jan 10--Apr 29,P Orebaugh
+NURS,417,Nursing Care of Childbearing Families,09,29769,2,ARRGT,ARR ARR,Jan 10--Apr 29,A Willard
 NURS,417,Nursing Care of Childbearing Families,10,29770,2,ARRGT,ARR ARR,Jan 10--Apr 29,C Logsdon Douglas
 NURS,417,Nursing Care of Childbearing Families,11,29832,2,ARRGT,ARR ARR,Jan 10--Apr 29,C Logsdon Douglas
 NURS,417,Nursing Care of Childbearing Families,12,29918,2,ARRGT,ARR ARR,Jan 10--Apr 29,A Morse
@@ -279,17 +294,13 @@ NURS,440,[M] Population Health Theory,02,29825,3,ARRGT,ARR ARR,Jan 10--Mar 04,S 
 NURS,455,Cultural Safety and Social Justice in Global Society,01,29902,3,ARRGT,ARR ARR,Mar 07--May 06,S Edwards
 NURS,455,Cultural Safety and Social Justice in Global Society,02,29903,3,ARRGT,ARR ARR,Mar 07--May 06,S Edwards
 NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,01,29822,2,ARRGT,ARR ARR,Jan 10--Apr 29,K West
-NURS,462,Selected Nursing Concepts: Psychiatric/Mental Health,02,29823,2,ARRGT,ARR ARR,Jan 10--Apr 29,K West
 NURS,463,Coordination of Care Across Complex Populations,01,30663,3,ARRGT,ARR ARR,Jan 10--Mar 04,S Girard
 NURS,463,Coordination of Care Across Complex Populations,02,30664,3,ARRGT,ARR ARR,Jan 10--Mar 04,S Girard
 NURS,465,Application of Population Health Principles,01,29802,3,ARRGT,ARR ARR,Jan 10--Apr 08,S Edwards
 NURS,465,Application of Population Health Principles,02,29821,3,ARRGT,ARR ARR,Jan 10--Apr 08,S Edwards
 NURS,495,[CAPS] Advanced Practicum,01,29818,3,ARRGT,ARR ARR,Mar 07--May 06,V Denson
 NURS,495,[CAPS] Advanced Practicum,02,29826,3,ARRGT,ARR ARR,Mar 07--May 06,V Denson
-NURS,498,Special Topics in Nursing,01,29890,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Causey
-NURS,498,Special Topics in Nursing,02,29891,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Causey
-NURS,499,Special Problems,01,29815,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-NURS,499,Special Problems,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+NURS,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,W Williams-Gilbert
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents",01,29845,3,W9.10-12,VC ARR,Jan 12--Jan 12,A Hamel
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents","","","",W9.10-12,VC ARR,"",""
 NURS,501,"Psychiatric Assessment, Diagnosis, and Management of Children and Adolescents","","","",W9.10-12,VC ARR,"",""
@@ -342,11 +353,6 @@ NURS,523,Nursing Education: Curriculum and Accreditation,"","","",TU8.10-11,VC A
 NURS,523,Nursing Education: Curriculum and Accreditation,"","","",TU8.10-11,VC ARR,"",""
 NURS,523,Nursing Education: Curriculum and Accreditation,"","","",TU8.10-11,VC ARR,"",""
 NURS,523,Nursing Education: Curriculum and Accreditation,"","","",TU8.10-11,VC ARR,"",""
-NURS,523,Nursing Education: Curriculum and Accreditation,03,29805,3,TU8.10-11,VC ARR,Jan 11--Jan 11,S James
-NURS,523,Nursing Education: Curriculum and Accreditation,"","","",TU8.10-11,VC ARR,"",""
-NURS,523,Nursing Education: Curriculum and Accreditation,"","","",TU8.10-11,VC ARR,"",""
-NURS,523,Nursing Education: Curriculum and Accreditation,"","","",TU8.10-11,VC ARR,"",""
-NURS,523,Nursing Education: Curriculum and Accreditation,"","","",TU8.10-11,VC ARR,"",""
 NURS,527,"Association, Group Difference and Regression Techniques for Health Services",01,29807,3,F8.10-11,VC ARR,Jan 14--Jan 14,L James
 NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
 NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
@@ -354,12 +360,6 @@ NURS,527,"Association, Group Difference and Regression Techniques for Health Ser
 NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
 NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
 NURS,527,"Association, Group Difference and Regression Techniques for Health Services",02,29808,3,F8.10-11,VC ARR,Jan 14--Jan 14,L James
-NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
-NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
-NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
-NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
-NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
-NURS,527,"Association, Group Difference and Regression Techniques for Health Services",03,29882,3,F8.10-11,VC ARR,Jan 14--Jan 14,L James
 NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
 NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
 NURS,527,"Association, Group Difference and Regression Techniques for Health Services","","","",F8.10-11,VC ARR,"",""
@@ -380,11 +380,6 @@ NURS,537,Primary Care III: Chronic Health Conditions Across the Lifespan,"","","
 NURS,537,Primary Care III: Chronic Health Conditions Across the Lifespan,"","","",TH13.10-16,VC ARR,"",""
 NURS,537,Primary Care III: Chronic Health Conditions Across the Lifespan,"","","",TH13.10-16,VC ARR,"",""
 NURS,537,Primary Care III: Chronic Health Conditions Across the Lifespan,"","","",TH13.10-16,VC ARR,"",""
-NURS,537,Primary Care III: Chronic Health Conditions Across the Lifespan,02,29862,3,TH13.10-16,VC ARR,Jan 13--Jan 13,F Brown
-NURS,537,Primary Care III: Chronic Health Conditions Across the Lifespan,"","","",TH13.10-16,VC ARR,"",""
-NURS,537,Primary Care III: Chronic Health Conditions Across the Lifespan,"","","",TH13.10-16,VC ARR,"",""
-NURS,537,Primary Care III: Chronic Health Conditions Across the Lifespan,"","","",TH13.10-16,VC ARR,"",""
-NURS,537,Primary Care III: Chronic Health Conditions Across the Lifespan,"","","",TH13.10-16,VC ARR,"",""
 NURS,538,Primary Care Practicum III,01,29863,2,TH16.10-18,VC ARR,Jan 13--Jan 13,E Phenneger
 NURS,538,Primary Care Practicum III,"","","",TH16.10-18,VC ARR,"",""
 NURS,538,Primary Care Practicum III,"","","",TH16.10-18,VC ARR,"",""
@@ -396,11 +391,6 @@ NURS,538,Primary Care Practicum III,"","","",TH16.10-18,VC ARR,"",""
 NURS,538,Primary Care Practicum III,"","","",TH16.10-18,VC ARR,"",""
 NURS,538,Primary Care Practicum III,"","","",TH16.10-18,VC ARR,"",""
 NURS,540,NP Clinical Practicum,01,29806,V,TH8.10-10,VC ARR,Jan 13--Jan 13,B Briggs
-NURS,540,NP Clinical Practicum,"","","",TH8.10-10,VC ARR,"",""
-NURS,540,NP Clinical Practicum,"","","",TH8.10-10,VC ARR,"",""
-NURS,540,NP Clinical Practicum,"","","",TH8.10-10,VC ARR,"",""
-NURS,540,NP Clinical Practicum,"","","",TH8.10-10,VC ARR,"",""
-NURS,540,NP Clinical Practicum,02,29820,V,TH8.10-10,VC ARR,Jan 13--Jan 13,B Briggs
 NURS,540,NP Clinical Practicum,"","","",TH8.10-10,VC ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",TH8.10-10,VC ARR,"",""
 NURS,540,NP Clinical Practicum,"","","",TH8.10-10,VC ARR,"",""
@@ -511,12 +501,6 @@ NURS,585,Faculty Role Seminar,"","","",TH13.10-16,VC ARR,"",""
 NURS,585,Faculty Role Seminar,"","","",TH13.10-16,VC ARR,"",""
 NURS,585,Faculty Role Seminar,"","","",TH13.10-16,VC ARR,"",""
 NURS,585,Faculty Role Seminar,"","","",TH13.10-16,VC ARR,"",""
-NURS,585,Faculty Role Seminar,03,29913,3,TH13.10-16,VC ARR,Jan 13--Jan 13,W Williams-Gilbert
-NURS,585,Faculty Role Seminar,"","","",TH13.10-16,VC ARR,"",""
-NURS,585,Faculty Role Seminar,"","","",TH13.10-16,VC ARR,"",""
-NURS,585,Faculty Role Seminar,"","","",TH13.10-16,VC ARR,"",""
-NURS,585,Faculty Role Seminar,"","","",TH13.10-16,VC ARR,"",""
-NURS,585,Faculty Role Seminar,"","","",TH13.10-16,VC ARR,"",""
 NURS,587,Research Inquiry: Qualitative Methods I,01,29810,3,TH9.10-12,VC ARR,Jan 13--Jan 13,G Oneal
 NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
 NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
@@ -529,19 +513,7 @@ NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
 NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
 NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
 NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
-NURS,587,Research Inquiry: Qualitative Methods I,03,29885,3,TH9.10-12,VC ARR,Jan 13--Jan 13,G Oneal
-NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
-NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
-NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
-NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
-NURS,587,Research Inquiry: Qualitative Methods I,"","","",TH9.10-12,VC ARR,"",""
 NURS,593,Preliminary Examination Seminar,01,29812,1,F9.10-10,VC ARR,Jan 14--Jan 14,G Oneal
-NURS,593,Preliminary Examination Seminar,"","","",F9.10-10,VC ARR,"",""
-NURS,593,Preliminary Examination Seminar,"","","",F9.10-10,VC ARR,"",""
-NURS,593,Preliminary Examination Seminar,"","","",F9.10-10,VC ARR,"",""
-NURS,593,Preliminary Examination Seminar,"","","",F9.10-10,VC ARR,"",""
-NURS,593,Preliminary Examination Seminar,"","","",F9.10-10,VC ARR,"",""
-NURS,593,Preliminary Examination Seminar,02,29813,1,F9.10-10,VC ARR,Jan 14--Jan 14,G Oneal
 NURS,593,Preliminary Examination Seminar,"","","",F9.10-10,VC ARR,"",""
 NURS,593,Preliminary Examination Seminar,"","","",F9.10-10,VC ARR,"",""
 NURS,593,Preliminary Examination Seminar,"","","",F9.10-10,VC ARR,"",""
@@ -551,16 +523,17 @@ NURS,598,Advanced Topics in Nursing,02,"",V,W8.10-11,"",Jan 10--Apr 29,G Oneal
 NURS,598,Advanced Topics in Nursing,"","","",W8.10-11,"","",""
 NURS,598,Advanced Topics in Nursing,"","","",W8.10-11,"","",""
 NURS,598,Advanced Topics in Nursing,"","","",W8.10-11,"","",""
+NURS,598,Advanced Topics in Nursing,03,29920,V,ARRGT,ARR ARR,Jan 10--Apr 29,T Landis
 NURS,599,Independent Study,01,29879,V,ARRGT,ARR ARR,Jan 10--Apr 29,W Williams-Gilbert
-NURS,599,Independent Study,02,29880,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+NURS,599,Independent Study,03,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,P Stover
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,"",V,TU15.10-18,VC ARR,Jan 11--Jan 11,(multiple)
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,VC ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,VC ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,VC ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TU15.10-18,VC ARR,"",""
 NURS,800,"Doctoral Research, Dissertation, and/or Examination",01,29819,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-PHARDSCI,499,Special Problems,01,"",V,ARRGT,"",Jan 10--Apr 29,(multiple)
-PHARDSCI,499,Special Problems,50,"",V,ARRGT,"",Jan 10--Apr 29,""
+NURS,800,"Doctoral Research, Dissertation, and/or Examination",02,31601,V,ARRGT,ARR ARR,Jan 10--Apr 29,E Burduli
+PHARDSCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 PHARDSCI,510,Basic and Clinical Pharmacogenomics,01,27613,2,F9.10-11,ARR ARR,Jan 10--Apr 29,S Daoud
 PHARDSCI,510,Basic and Clinical Pharmacogenomics,50,27614,2,F9.10-11,ARR ARR,Jan 10--Apr 29,R Crutchley
 PHARDSCI,512,Integrated Pharmacology II,01,27602,4,"TU,TH8.10-10",SPBS 101,Jan 10--Apr 29,S Marsh
@@ -578,9 +551,8 @@ PHARDSCI,547,Drug Development,50,27620,2,TH13.10-15,ARR ARR,Jan 10--Apr 29,N Gir
 PHARDSCI,598,Honors Research,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PHARDSCI,598,Honors Research,50,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PHARDSCI,599,Special Projects,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-PHARDSCI,599,Special Projects,50,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 PHARMACY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-PHARMACY,499,Special Problems,50,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
+PHARMACY,499,Special Problems,50,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 PHARMACY,501,Applied Patient Care I: Patient Assessment,01,27524,1,TU15.10-16,SPBS 101,Jan 10--Apr 29,T Bertsch
 PHARMACY,501,Applied Patient Care I: Patient Assessment,"","","",W8.10-10,SPBS 301,"",""
 PHARMACY,501,Applied Patient Care I: Patient Assessment,02,27525,1,TU15.10-16,SPBS 101,Jan 10--Apr 29,T Bertsch
@@ -611,6 +583,8 @@ PHARMACY,543,Introductory Pharmacy Practice Experience III,"","","",M9.10-10,"",
 PHARMACY,543,Introductory Pharmacy Practice Experience III,"","","",F13.10-15,"","",""
 PHARMACY,544,Pharmacotherapy III,01,27534,4,"TU,TH8.10-10",SHSB 110Z,Jan 10--Apr 29,A Lazarus
 PHARMACY,544,Pharmacotherapy III,50,27566,4,"TU,TH8.10-10",ARR ARR,Jan 10--Apr 29,A Kim
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01,"",2,ARRGT,ARR ARR,Jan 10--Apr 29,C Buchman
+PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01 Lab,"",0,ARRGT,ARR ARR,Jan 10--Apr 29,C Buchman
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,01,28213,3,TU15.10-16,"",Jan 10--Apr 29,J Miller
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,"","","",M15.10-16,"","",""
 PHARMACY,553,Introductory Pharmacy Practice Experience IV,50,28214,3,TU15.10-16,"",Jan 10--Apr 29,D Bowers
@@ -646,57 +620,45 @@ PHARMACY,564,Pharmacy Law and Regulatory Affairs,50,27573,3,TU9.10-12,"",Jan 10-
 PHARMACY,564,Pharmacy Law and Regulatory Affairs,"","","",M9.10-12,"","",""
 PHARMACY,564,Pharmacy Law and Regulatory Affairs,"","","",M9.10-12,"","",""
 PHARMACY,572,Physical Activity Prescription in the Pharmacy,01,28450,2,ARRGT,ARR ARR,Jan 10--Apr 29,S Marsh
-PHARMACY,572,Physical Activity Prescription in the Pharmacy,50,28451,2,ARRGT,ARR ARR,Jan 10--Apr 29,S Marsh
 PHARMACY,574,Veterinary Pharmacy,01,27594,2,ARRGT,ARR ARR,Jan 10--Apr 29,S Williams
 PHARMACY,574,Veterinary Pharmacy,50,27596,2,ARRGT,ARR ARR,Jan 10--Apr 29,S Williams
-PHARMACY,575,Substance Use Disorders,01,"",1,W13.10-15,GUC SPK,Mar 07--Apr 29,N Rodin
-PHARMACY,580,Practical Politics and Pharmacy,01,27544,2,TH15.10-17,VC SPK,Jan 10--Apr 29,J Akers
+PHARMACY,575,Substance Use Disorders,01,30976,1,W13.10-15,SPBS 101,Mar 07--Apr 29,N Rodin
+PHARMACY,580,Practical Politics and Pharmacy,01,27544,2,TH15.10-17,SPBS 101,Jan 10--Apr 29,J Akers
 PHARMACY,580,Practical Politics and Pharmacy,50,27560,2,TH15.10-17,ARR ARR,Jan 10--Apr 29,J Akers
-PHARMACY,581,Acute Care Advanced Practice Experience,01,27549,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,581,Acute Care Advanced Practice Experience,50,27587,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,582,Ambulatory Care Advanced Practice Experience,01,27550,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,582,Ambulatory Care Advanced Practice Experience,50,27588,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,583,Community Advanced Practice Experience,01,27543,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,583,Community Advanced Practice Experience,50,27589,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,584,Institutional Advanced Practice Experience,01,27539,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,584,Institutional Advanced Practice Experience,50,27590,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,585,Elective I Advanced Practice Experience,01,27540,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,585,Elective I Advanced Practice Experience,50,27591,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,586,Elective II Advanced Practice Experience,01,27538,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,586,Elective II Advanced Practice Experience,50,27592,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,587,Elective III Advanced Practice Experience,01,27541,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
-PHARMACY,587,Elective III Advanced Practice Experience,50,27593,5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,581,Acute Care Advanced Practice Experience,01,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,581,Acute Care Advanced Practice Experience,50,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,582,Ambulatory Care Advanced Practice Experience,01,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,582,Ambulatory Care Advanced Practice Experience,50,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,583,Community Advanced Practice Experience,01,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,583,Community Advanced Practice Experience,50,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,584,Institutional Advanced Practice Experience,01,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,584,Institutional Advanced Practice Experience,50,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,585,Elective I Advanced Practice Experience,01,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,585,Elective I Advanced Practice Experience,50,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,586,Elective II Advanced Practice Experience,01,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
+PHARMACY,586,Elective II Advanced Practice Experience,50,"",5,ARRGT,ARR ARR,Jan 10--Apr 29,J White
 PHARMACY,589,Special Topics,01,28435,2,W15.10-17,ARR ARR,Jan 10--Apr 29,S Mckennon
 PHARMACY,589,Special Topics,02,"",2,ARRGT,ARR ARR,Jan 10--Apr 29,J Akers
 PHARMACY,589,Special Topics,03,28465,1,W13.10-15,SPBS 101,Jan 10--Mar 04,N Rodin
-PHARMACY,589,Special Topics,04,30736,1,W13.10-15,SPBS 101,Mar 07--Apr 29,N Rodin
 PHARMACY,589,Special Topics,51,28438,1,W13.10-15,ARR ARR,Jan 10--Mar 04,N Rodin
-PHARMACY,589,Special Topics,52,"",2,ARRGT,ARR ARR,Jan 10--Apr 29,D Brand
 PHARMACY,589,Special Topics,53,30870,2,W15.10-17,ARR ARR,Jan 10--Apr 29,S Mckennon
 PHARMACY,590,Advanced Infectious Diseases,01,27577,2,W13.10-15,SHSB 110Z,Jan 10--Apr 29,D Bowers
 PHARMACY,590,Advanced Infectious Diseases,50,27578,2,W13.10-15,ARR ARR,Jan 10--Apr 29,D Bowers
 PHARMACY,591,Advanced Elective in Critical Care,01,27559,2,TH10.10-12,ARR ARR,Jan 10--Apr 29,A Cowgill
-PHARMACY,591,Advanced Elective in Critical Care,50,27579,2,TH10.10-12,ARR ARR,Jan 10--Apr 29,A Cowgill
 PHARMACY,593,Residency Preparation,01,27585,2,TH13.10-15,SAC 347,Jan 10--Apr 29,C Frazier
 PHARMACY,593,Residency Preparation,50,27586,2,TH13.10-15,ARR ARR,Jan 10--Apr 29,M Giruzzi
 PHARMACY,598,Advances in Clinical Pharmacogenomics,01,28513,2,W15.10-17,"",Jan 10--Apr 29,R Crutchley
-PHARMACY,598,Advances in Clinical Pharmacogenomics,50,28514,2,W15.10-17,"",Jan 10--Apr 29,R Crutchley
-PHARMACY,599,Special Projects,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-PHARMACY,599,Special Projects,50,27569,V,ARRGT,ARR ARR,Jan 10--Apr 29,D Brand
 PHARMSCI,512,Topics in Pharmacology,01,"",V,F13.10-14,SAC 249,Jan 10--Apr 29,B Prasad
 PHARMSCI,572,Fundamentals of Oncology,01,"",3,"TU,TH13.10-14.25",SAC 249,Jan 10--Apr 29,B Wu
-PHARMSCI,572,Fundamentals of Oncology,50,"",3,"TU,TH13.10-14.25",ARR ARR,Jan 10--Apr 29,B Wu
-PHARMSCI,576,Biophysical Methods,01,27625,3,"TU,TH10.10-11.25",GUC SPK,Jan 10--Apr 29,T Denton
 PHARMSCI,578,Applied Biostatistics,01,27624,3,W15.10-17.40,SAC 249,Jan 10--Apr 29,C Kogan
-PHARMSCI,578,Applied Biostatistics,50,27631,3,W15.10-17.40,VC ARR,Jan 10--Apr 29,C Kogan
 PHARMSCI,579,Principles of Pharmacology,01,27626,3,"M,W13.10-14.25",SAC 249,Jan 10--Apr 29,""
-PHARMSCI,579,Principles of Pharmacology,50,28448,3,"M,W13.10-14.25",ARR ARR,Jan 10--Apr 29,""
 PHARMSCI,597,College of Pharmacy Graduate Seminar,01,30611,1,F12.10-13,SPBS 101,Jan 10--Apr 29,A Lazarus
 PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,30616,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 PHIL,564,Topics in Biomedical Experimentation,03,30180,V,"TU,TH9.10-10.25",SCRS 222,Mar 28--Apr 29,""
 PREV_SCI,540,Effective Prevention Strategies II,01,28033,3,M13.10-16,SCRS 222,Jan 10--Apr 29,A Salazar
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,27750,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,27751,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
+PSYCH,464,Behavior Disorders of Children and Adolescents,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,K Mcraney
 PSYCH,506,Current Research in Psychology,01,27719,1,W16.10-17,VC ARR,Jan 10--Apr 29,R Magnan
 PSYCH,512,"Non-Experimental Designs, Correlation, and Regression",01,28266,3,"TU,TH12.05-13.20",SCRS 222,Jan 10--Apr 29,C Cuttler
 PSYCH,516,Applied Structural Equation Modeling with Current Software,01,27763,3,"TU,TH14.55-16.10",VC ARR,Jan 10--Apr 29,G Burns
@@ -706,24 +668,24 @@ PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,27675,V,ARRGT
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",02,27718,V,ARRGT,ARR ARR,Jan 10--Apr 29,H Van Dongen
 SHS,202,American Sign Language II,01,27643,4,"TU,TH12.10-13",SNRS 205,Jan 10--Apr 29,M Ratsch
 SHS,202,American Sign Language II,03,27645,4,ARRGT,ARR ARR,Jan 10--Apr 29,M Ratsch
-SHS,376,Speech Sound Disorders,01,30193,3,"M,W8.35-9.50",SAC 20,Jan 10--Apr 29,""
+SHS,376,Speech Sound Disorders,01,30193,3,"M,W8.35-9.50",SAC 20,Jan 10--Apr 29,E Schreiner
 SHS,378,Speech and Hearing Sciences,01,30195,3,"TU,TH10.10-11.25",SAC 20,Jan 10--Apr 29,H Hashemi Hosseinabad
-SHS,451,Neurogenic Communication Disorders,01,30196,3,"M,W13.10-14.25",SAC 147,Jan 10--Apr 29,E Clark
-SHS,460,Special Topics in Speech and Hearing Sciences,01,30197,V,"M,W14.35-15.50",SAC 147,Jan 10--Apr 29,L Williams
+SHS,451,Neurogenic Communication Disorders,01,30196,3,"M,W13.10-14.25",SNRS 105,Jan 10--Apr 29,H Iwashita
+SHS,460,Special Topics in Speech and Hearing Sciences,01,30197,V,"M,W14.35-15.50",SAC 20,Jan 10--Apr 29,L Williams
 SHS,461,Clinical Methods,01,30198,2,F10.10-11.50,SAC 249,Jan 10--Apr 29,C Dechert
 SHS,472,Audiometry,01,30199,3,"TU,TH16.10-17.25",SAC 20,Jan 10--Apr 29,B Gilchrist
 SHS,473,[M] Language and Literacy,01,30200,3,"M,W10.10-11.25",SAC 249,Jan 10--Apr 29,D Algeo
 SHS,478,Language Impairment,01,30201,3,"M,W13.10-14.25",SAC 20,Jan 10--Apr 29,G Lynch
-SHS,480,[CAPS] Senior Seminar,01,30202,3,"TU,TH13.10-14.25",SAC 147,Jan 10--Apr 29,A Meredith
+SHS,480,[CAPS] Senior Seminar,01,30202,3,"TU,TH13.10-14.25",SAC 20,Jan 10--Apr 29,A Meredith
 SHS,490,Special Topics in Speech and Hearing Sciences,01,30225,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SHS,490,Special Topics in Speech and Hearing Sciences,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SHS,501,Research Methods,01,30608,3,"M,W16.10-17.25",SNRS 203,Jan 10--Apr 29,M Vandam
 SHS,501,Research Methods,02,30609,3,"TU,TH16.10-17.25",SNRS 203,Jan 10--Apr 29,M Vandam
 SHS,542,Early Language Development,01,30209,2,TU13.10-15.50,SNRS 205,Jan 10--Mar 31,L Thompson
 SHS,542,Early Language Development,02,30210,2,W13.10-15.50,SNRS 205,Jan 10--Mar 31,L Thompson
-SHS,545,Autism Spectrum Disorder,01,30956,2,SA8-17,SAC 147,Jan 29--Jan 29,L Thompson
-SHS,545,Autism Spectrum Disorder,"","","",SA8-17,SAC 147,"",""
-SHS,545,Autism Spectrum Disorder,"","","",SA8-17,SAC 147,"",""
+SHS,545,Autism Spectrum Disorder,01,30956,2,SA8-17,ARR ARR,Jan 29--Jan 29,L Thompson
+SHS,545,Autism Spectrum Disorder,"","","",SA8-17,ARR ARR,"",""
+SHS,545,Autism Spectrum Disorder,"","","",SA8-17,ARR ARR,"",""
 SHS,552,Speech-Language Pathology and Audiology in Schools,01,30211,2,M13.10-14.50,SNRS 205,Jan 10--Apr 29,E Wilson-Fowler
 SHS,552,Speech-Language Pathology and Audiology in Schools,02,30227,2,TH13.10-14.50,SNRS 205,Jan 10--Apr 29,E Wilson-Fowler
 SHS,563,Dysphagia,01,30213,3,"M,W8-9.35",SHSB 125E,Jan 10--Apr 29,N Potter
@@ -734,8 +696,14 @@ SHS,570,Advanced Internship in Speech-Language Pathology,01,30217,V,ARRGT,ARR AR
 SHS,575,Advanced Clinical Practice,01,30218,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,30224,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",02,30605,V,W12-13,SNRS 203,Jan 10--Apr 29,D Algeo
-SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,27740,3,ARRGT,ARR ARR,Jan 10--Apr 29,A Albagshi
-SPEC_ED,503,Secondary Education for Students with Disabilities,01,27742,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Bruno
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,27692,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
 STAT,212,[QUAN] Introduction to Statistical Methods,01,"",4,ARRGT,ARR ARR,Jan 10--Apr 29,A Fisher
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,"",0,ARRGT,ARR ARR,Jan 10--Apr 29,A Fisher
+TCH_LRN,415,Student Teaching Internship,01,27656,V,TU15-18,SCRS 255,Jan 18--Jan 18,A Segadelli
+TCH_LRN,415,Student Teaching Internship,"","","",TU15-18,SCRS 255,"",""
+TCH_LRN,415,Student Teaching Internship,"","","",TU15-18,SCRS 255,"",""
+TCH_LRN,415,Student Teaching Internship,"","","",TU15-18,SCRS 255,"",""
+TCH_LRN,415,Student Teaching Internship,"","","",TU15-18,SCRS 255,"",""
+TCH_LRN,415,Student Teaching Internship,01 Lab,27657,0,ARRGT,ARR ARR,Jan 10--Apr 29,A Segadelli
+TCH_LRN,521,Topics in Education,02,27726,V,ARRGT,ARR ARR,Jan 10--Apr 29,A Segadelli
+TCH_LRN,531,Frameworks for Research in Mathematics and Science Education,01,27778,3,TH17.45-20.30,SAC 205,Jan 10--Apr 29,J Firestone

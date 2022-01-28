@@ -7,18 +7,18 @@ ANTH,350,"[DIVR] Speech, Thought, and Culture",01,28586,3,ARRGT,ARR ARR,Jan 10--
 B_A,100,Introduction to Business,01,29066,3,ARRGT,ARR ARR,Mar 07--May 01,C Cooney
 B_A,102,Exploring Careers in Business,02,29067,1,ARRGT,ARR ARR,Jan 10--Feb 27,S Billington
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",01,29318,3,"TU,TH13.30-14.45",EVRT 200D,Jan 10--Apr 29,Y He
-B_LAW,210,Law and the Legal Environment of Business,01,28603,3,ARRGT,ARR ARR,Jan 10--Feb 27,S Bergstedt
 COM,101,[SSCI] Media and Society,01,28545,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,28631,3,ARRGT,ARR ARR,Jan 10--Apr 29,I Haider
 COM,105,[HUM] Communication in Global Contexts,01,28542,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Curtis
 COM,138,Introduction to Communication,01,28590,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Simmons
 COM,210,[COMM] Multimedia Content Creation,01,28546,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Curtis
-COM,300,[M] Writing in Communication,01,28957,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Mclaughlin
+COM,300,[M] Writing in Communication,01,28957,3,ARRGT,ARR ARR,Jan 10--Apr 29,W Raney
 COM,309,Quantitative Research Methods,01,28614,3,ARRGT,ARR ARR,Jan 10--Apr 29,W Peng
 COM,421,[CAPS] Intercultural Communication and Globalization,01,29118,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Richardson
 COM,464,Gender and the Media,01,29159,3,ARRGT,ARR ARR,Jan 10--Apr 29,T Gillig
 COM,471,[CAPS] Stereotypes in Communication,01,28551,3,"M,W10.35-11.50",EVRT 354,Jan 10--Apr 29,R Richardson
 COM,479,Youth and the Media,01,28681,3,ARRGT,ARR ARR,Jan 10--Apr 29,H Seo
+COM,497,Practicum in Communication,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,M Johnson
 COM,497,Practicum in Communication,05,"",V,"TU,TH14.55-16.10",VC EVE,Jan 10--Apr 29,C Thomas
 COM,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
 COM,499,Special Problems,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
@@ -26,7 +26,7 @@ COM,499,Special Problems,03,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
 COM,499,Special Problems,04,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,C Wilder
 COMJOUR,333,[M] Reporting Across Platforms,01,28595,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
 COMSTRAT,301,Foundations of Persuasion,02,29094,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Richardson
-COMSTRAT,310,Digital Content Promotion,01,28550,3,"M,W9.10-10.25",EVRT 355,Jan 10--Apr 29,B Atwood
+COMSTRAT,310,Digital Content Promotion,05,29424,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Galey
 COMSTRAT,312,Principles of Public Relations,01,28594,3,ARRGT,ARR ARR,Jan 10--Apr 29,B Atwood
 COMSTRAT,380,Advertising Principles and Practices,02,28574,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Kistler
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,28549,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Cuen Paxson
@@ -37,25 +37,29 @@ COMSTRAT,485,[M] Public Relations Management and Campaigns,02,30680,3,"TU,TH10.3
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,W Wegner
 CPT_S,215,Data Analytics Systems and Algorithms,02,"",3,"M,W,F11.10-12",EVRT 363,Jan 10--Apr 29,S Badri
 CPT_S,233,Advanced Data Structures Java,01,28607,3,"TU,TH14.55-16.10",EVRT 440,Jan 10--Apr 29,J Yu
-CPT_S,317,Automata and Formal Languages,01,28776,3,"M,W,F10.10-11",EVRT 457,Jan 10--Apr 29,J Thompson
+CPT_S,317,Automata and Formal Languages,01,28776,3,"M,W,F10.10-11",EVRT 254,Jan 10--Apr 29,J Thompson
 CPT_S,321,Object-Oriented Software Principles,01,28610,3,"M,W,F9.10-10",EVRT 458,Jan 10--Apr 29,V Arnaoudova
 CPT_S,322,[M] Software Engineering Principles I,01,28611,3,"TU,TH13.30-14.45",EVRT 358,Jan 10--Apr 29,B Zeng
-CPT_S,355,Programming Language Design,01,28613,3,"M,W,F13.10-14",EVRT 452,Jan 10--Apr 29,J Thompson
+CPT_S,355,Programming Language Design,01,28613,3,"M,W,F13.10-14",EVRT 102,Jan 10--Apr 29,J Thompson
 CPT_S,370,Systems Programming Java,01,30696,4,"TU,TH10.35-11.50",EVRT 354,Jan 10--Apr 29,J Thompson
 CPT_S,370,Systems Programming Java,01 Lab,30697,0,W17.10-20,EVRT 101,Jan 10--Apr 29,J Thompson
 CPT_S,423,[CAPS] Software Design Project II,01,29000,3,"M,W,F16.10-17",EVRT 452,Jan 10--Apr 29,B Zeng
 CPT_S,423,[CAPS] Software Design Project II,01 Lab,29041,0,ARRGT,ARR ARR,Jan 10--Apr 29,B Zeng
 CPT_S,427,Computer Security,01,29374,3,"M,W,F12.10-13",EVRT 457,Jan 10--Apr 29,W Hutton
 CPT_S,434,Neural Network Design and Application,01,29387,3,"M,W,F14.10-15",EVRT 457,Jan 10--Apr 29,Y Yan
-CPT_S,451,Introduction to Database Systems,02,28999,3,"TU,TH12.05-13.20",EVRT 452,Jan 10--Apr 29,S Arslan Ay
+CPT_S,451,Introduction to Database Systems,02,28999,3,"TU,TH14.55-16.10",EVRT 452,Jan 10--Apr 29,S Arslan Ay
 CPT_S,471,Computational Genomics,01,28986,3,"TU,TH14.55-16.10",EVRT 200D,Jan 10--Apr 29,A Kalyanaraman
 CPT_S,487,Software Design and Architecture,02,28984,3,"TU,TH12.05-13.20",EVRT 457,Jan 10--Apr 29,B Zeng
 CPT_S,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 CPT_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,J Thompson
 CPT_S,583,Software Quality,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,H Cai
+CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,28662,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Runyan
+CRM_J,320,Criminal Law,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,C Hemmens
+CRM_J,330,Crime Control Policies,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,E Magana
+CRM_J,385,Institutional Corrections,01,28668,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Stohr
 CROP_SCI,102,Introduction to Cultivated Plants,01,28831,3,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 CROP_SCI,202,Crop Growth and Development,01,29156,4,"M,W,F9.10-10",EVRT 263,Jan 10--Apr 29,M Pumphrey
-CROP_SCI,202,Crop Growth and Development,04 Lab,29401,0,M13.30-16,ARR ARR,Jan 10--Apr 29,""
+CROP_SCI,202,Crop Growth and Development,04 Lab,29401,0,M13.30-16,ARR ARR,Jan 10--Apr 29,M Pumphrey
 CROP_SCI,360,World Agricultural Systems,01,28796,3,ARRGT,ARR ARR,Jan 10--Apr 29,P Jacoby
 CROP_SCI,412,Seminar,01,"",1,M16.30-17.20,EVRT 263,Jan 10--Apr 29,P Jacoby
 DATA,115,Introduction to Data Analytics,02,29058,3,"M,W,F11.10-12",EVRT 440,Jan 10--Apr 29,S Lapin
@@ -66,7 +70,7 @@ E_A,300,Educ Abroad,02,30979,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 E_E,234,Microprocessor Systems,01,28562,4,"M,W11.10-12.25",EVRT 456,Jan 10--Apr 29,J Murray
 E_E,234,Microprocessor Systems,01 Lab,28577,0,F10.10-13,EVRT 456,Jan 10--Apr 29,J Murray
-E_E,341,Signals and Systems,01,28563,3,"TU,TH12.30-13.45",EVRT 458,Jan 10--Apr 29,J Guerrero Sedeno
+E_E,341,Signals and Systems,01,28563,3,"M,W13-14.15",EVRT 354,Jan 10--Apr 29,J Guerrero Sedeno
 E_E,351,Distributed Parameter Systems,01,28564,3,"M,W,F8.10-9",EVRT 452,Jan 10--Apr 29,P Pedrow
 E_E,361,Electrical Power Systems,01,28565,3,"M,W9.10-10.25",EVRT 358,Jan 10--Apr 29,S Xie
 E_E,362,Power System Laboratory I,01,28982,3,M8.10-9,EVRT 458,Jan 10--Apr 29,S Xie
@@ -92,7 +96,7 @@ ENTOM,351,Ecological and Integrated Pest Management,02,29019,3,"TU,TH12.05-13.20
 FIN,325,Introduction to Financial Management,02,28696,3,ARRGT,ARR ARR,Jan 10--Feb 27,D Fairhurst
 FINE_ART,101,[ARTS] Introduction to Art,01,28773,3,ARRGT,ARR ARR,Jan 10--Apr 29,D Doty
 HBM,101,Professional and Career Development for the Business World,02,29093,1,ARRGT,ARR ARR,Jan 10--Feb 27,A Alonzo
-HBM,280,Hospitality Systems,02,28799,3,ARRGT,ARR ARR,Mar 07--May 01,K Philander
+HBM,280,Hospitality Systems,02,28799,3,ARRGT,ARR ARR,Mar 07--May 01,J Han
 HBM,358,Foodservice Systems and Control,01,28683,3,TU13.30-16.20,EVRT 340,Mar 07--May 01,S Seo
 HBM,375,Introduction to Senior Living Management,01,28684,3,TU16.30-19,EVRT 263,Jan 10--Feb 27,N Swanger
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,02,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,K Philander
@@ -101,9 +105,10 @@ HBM,401,Career Management,01,28968,1,"M,W,F10.10-11",ARR ARR,Jan 10--Feb 27,A Al
 HBM,470,Living Management Operations Analysis,01,30466,3,ARRGT,ARR ARR,Jan 10--Feb 27,C Wolfenbarger
 HBM,475,[CAPS] Senior Living Management Capstone,01,30578,3,ARRGT,ARR ARR,Mar 07--May 01,M Wolniewicz
 HBM,491,Operational Analysis,01,28593,3,TH16.20-19.10,EVRT 263,Mar 07--May 01,M Chen
-HBM,494,[M] Service Operations Management,03,29382,3,TH16.25-18.55,EVRT 255,Jan 10--Feb 27,M Beattie
+HBM,494,[M] Service Operations Management,03,29382,3,W11.10-14,EVRT 255,Jan 10--Feb 27,M Beattie
 HBM,495,[CAPS] Case Studies and Research,01,28758,3,"M,W14.55-16.10",EVRT 440,Jan 10--Apr 29,J Sandstrom
 HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,Jan 10--Mar 25,""
+HBM,498,Hospitality Business Management Internship,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Alonzo
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,28583,3,ARRGT,ARR ARR,Jan 10--Apr 29,B Miller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,29139,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Weller
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,29140,3,ARRGT,ARR ARR,Jan 10--Apr 29,R Booth
@@ -122,24 +127,69 @@ ME,310,Manufacturing Processes,01,28557,2,"M,F13.10-14",EVRT 256,Jan 10--Apr 29,
 ME,348,Dynamics Systems,01,28558,3,"M,W,F11.10-12",EVRT 452,Jan 10--Apr 29,Y Hu
 ME,401,Mechatronics,01,28559,3,M9.10-10,EVRT 256,Jan 10--Apr 29,Y Hu
 ME,401,Mechatronics,"","","",TH12.10-13,EVRT 256,"",""
-ME,401,Mechatronics,01 Lab,28575,0,TH9.10-12,EVRT 256,Jan 10--Apr 29,""
-ME,401,Mechatronics,02 Lab,28791,0,TH13.10-16,EVRT 256,Jan 10--Apr 29,""
+ME,401,Mechatronics,01 Lab,28575,0,TH9.10-12,EVRT 156,Jan 10--Apr 29,""
+ME,401,Mechatronics,02 Lab,28791,0,TH13.10-16,EVRT 156,Jan 10--Apr 29,""
 ME,406,[M] Experimental Design,01,28560,3,M13.10-14,EVRT 101,Jan 10--Apr 29,G Taub
-ME,406,[M] Experimental Design,01 Lab,28566,0,TU9.10-12,EVRT 254,Jan 10--Apr 29,""
-ME,406,[M] Experimental Design,"","","",F8.10-11,EVRT 254,"",""
-ME,406,[M] Experimental Design,02 Lab,28567,0,TU12.10-15,EVRT 254,Jan 10--Apr 29,""
-ME,406,[M] Experimental Design,"","","",F11.10-14,EVRT 254,"",""
+ME,406,[M] Experimental Design,01 Lab,28566,0,TU9.10-12,EVRT 157,Jan 10--Apr 29,""
+ME,406,[M] Experimental Design,"","","",F8.10-11,EVRT 157,"",""
+ME,406,[M] Experimental Design,02 Lab,28567,0,TU12.10-15,EVRT 157,Jan 10--Apr 29,""
+ME,406,[M] Experimental Design,"","","",F11.10-14,EVRT 157,"",""
 ME,416,[CAPS] Mechanical Systems Design,01,28561,3,W9.10-10,EVRT 101,Jan 10--Apr 29,X Bi
 ME,416,[CAPS] Mechanical Systems Design,01 Lab,28576,0,"M,W10.10-13",EVRT 101,Jan 10--Apr 29,X Bi
 ME,439,Applied Aerodynamics,01,28540,3,"M,W,F15.10-16",EVRT 458,Jan 10--Apr 29,G Taub
 ME,462,Introduction to Nuclear Engineering II,01,29030,3,"TU,TH16.20-17.35",EVRT 452,Jan 10--Apr 29,D Todd
 ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
-MGMT,455,Recruiting and Hiring Human Capital,01,29016,3,ARRGT,ARR ARR,Jan 10--Feb 27,W Larson
+MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,29087,10,ARRGT,ARR ARR,Mar 21--Jun 24,J Bowen
+MED_CLIN,557,Clinical Rotation - Medical Spanish,01,31414,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,558,Virtual - Medical Humanities,01,31431,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,559,Virtual - Technical Writing in Medicine,01,31435,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,582,Science - Quality Improvement and Patient Safety,01,31439,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,583,Science - Evidence-Based Medicine,01,31443,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,591,Surgery - Otolaryngology (Head and Neck Surgery),01,31447,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,592,Surgery - Plastic Surgery,01,31451,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,593,Surgery - Thoracic and Cardiac Surgery,01,31455,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,596,Surgery - Pediatric Surgical Specialties,01,31459,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,601,Internal Medicine - Infectious Diseases,01,31463,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,603,Internal Medicine - Endocrinology,01,31467,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,604,Internal Medicine - Allergy and Immunology,01,31471,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,605,Internal Medicine - Rheumatology,01,31475,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,606,Internal Medicine - Adult Congenital Heart Disease,01,31479,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,607,Internal Medicine - Heart Failure and Transplant Cardiology,01,31483,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,608,Internal Medicine - Electrophysiology,01,31487,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,609,Pediatrics - Dermatology,01,31491,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,611,Pediatrics - Cardiology,01,31495,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,612,Pediatrics - Hematology and Oncology,01,31499,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,613,Pediatrics - Infectious Diseases,01,31503,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,614,Pediatrics - Gastroenterology,01,31507,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,615,Pediatrics - Development-Behavioral Pediatrics,01,31511,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,616,Pediatrics - Adolescent Medicine,01,31515,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,617,Pediatrics - Critical Care,01,31519,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,618,Pediatrics - Neonatal-Perinatal Medicine,01,31523,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,619,Pediatrics - Neurology,01,31527,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,620,Pediatrics - Pulmonology,01,31531,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,621,Pediatrics - Emergency Medicine,01,31535,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,622,Pediatrics - Rheumatology,01,31539,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,623,Pediatrics - Endocrinology,01,31543,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,624,Pediatrics - Diabetology,01,31547,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,625,Pediatrics - Child Abuse,01,31551,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,626,Psychiatry - Ambulatory,01,31555,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,627,Psychiatry - Inpatient,01,31559,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,628,Obstetrics and Gynecology - Maternal-Fetal Medicine,01,31563,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,630,Obstetrics and Gynecology - Reproductive Endocrinology and Infertility,01,31567,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,632,Obstetrics and Gynecology - Reproductive Health,01,31571,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,633,Clinical Rotation - Global Health,01,31575,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,634,Clinical Rotation - Sleep Medicine,01,31579,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,635,Clinical Rotation - Pain Medicine,01,31583,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,636,Clinical Rotation - Sports Medicine,01,31587,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,637,Clinical Rotation - Interventional Radiology,01,31591,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,31595,4,ARRGT,ARR ARR,Mar 21--Jun 24,""
+MED_LMH,523,Value-based Care,01,29088,1,ARRGT,ARR ARR,Mar 21--Jun 24,J Haney
+MED_LMH,533,Personal Leadership Development III,01,29313,1,ARRGT,ARR ARR,Mar 21--Jun 24,J Haney
 MGMT,456,[M] Evaluating and Rewarding Employees,01,29017,3,ARRGT,ARR ARR,Mar 07--May 01,W Larson
 MGMT,485,[M] Negotiation Skills,01,30973,3,W15-17.50,EVRT 200D,Jan 10--Apr 29,J Gladstone
 MGMT,487,Business Ethics and Corporate Responsibility,01,31005,3,M15-18,EVRT 200D,Jan 10--Apr 29,J Gladstone
 MGTOP,470,Business Modeling with Spreadsheets,01,30923,3,TU18-20.45,EVRT 261,Jan 10--Apr 29,T Larson
-MIS,250,Managing Information Technology,01,28679,3,ARRGT,ARR ARR,Mar 07--May 01,""
+MIS,250,Managing Information Technology,01,28679,3,ARRGT,ARR ARR,Mar 07--May 01,J Sarabadani
 MIS,322,[M] Enterprise Business Process Analysis,01,30471,3,ARRGT,ARR ARR,Jan 10--Feb 27,J Barnett
 MIS,420,Business Intelligence,01,28966,3,ARRGT,ARR ARR,Mar 07--May 01,M Featherman
 MIS,441,Global E-Commerce,01,30972,3,"M,W13.30-14.45",EVRT 358,Jan 10--Apr 29,J Gladstone
@@ -154,6 +204,7 @@ SOIL_SCI,303,Organic and Sustainable Agricultural Certifications: From Principle
 SOIL_SCI,360,World Agricultural Systems,01,28798,3,ARRGT,ARR ARR,Jan 10--Apr 29,P Jacoby
 SOIL_SCI,441,Soil Fertility,01,28880,3,ARRGT,ARR ARR,Jan 10--Apr 29,I Madsen
 SOIL_SCI,478,Advanced Organic Farming and Gardening,01,28881,2,ARRGT,ARR ARR,Jan 10--Apr 29,B Jaeckel
+SOIL_SCI,498,Professional Internship,01,28875,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 STAT,360,Probability and Statistics,01,28604,3,"TU,TH9.10-10.25",EVRT 452,Jan 10--Apr 29,S Lapin
 STAT,437,High Dimensional Data Learning and Visualization,02,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,X Chen
 STAT,446,Statistical Applications in Insurance,01,"",3,"M,W,F15.10-16",EVRT 263,Jan 10--Apr 29,M Lesperance
