@@ -51,7 +51,7 @@ ANTH,381,[BSCI] Primate Behavioral Ecology,01,26192,3,F9.10-10,VLIB 260,Jan 10--
 ANTH,490,[CAPS] [M] Integrative Themes in Anthropology,01,27227,3,"TU,TH13.30-14.45",VLIB 260,Jan 10--Apr 29,C Grier
 ANTH,547,Models and Simulation,01,30729,3,TU9.10-11.40,VC ARR,Jan 10--Apr 29,L Premo
 ANTH,561,Current Trends in Evolutionary Anthropology,01,30127,3,W9.10-11.40,VC ARR,Jan 10--Apr 29,E Hagen
-ANTH,591,Special Topics in Anthropology,01,"",3,M17-19.30,VECS 309,Jan 10--Apr 29,J Cassaniti
+ANTH,591,Special Topics in Anthropology,01,"",3,M17-19.30,VC ARR,Jan 10--Apr 29,J Cassaniti
 ANTH,600,Special Projects or Independent Study,02,31073,V,W15-17,VC ARR,Jan 10--Apr 29,A Pisor
 ANTH,700,"Master's Research, Thesis, and/or Examination",01,27395,V,ARRGT,ARR ARR,Jan 10--Apr 29,E Hagen
 ANTH,800,"Doctoral Research, Dissertation, and/or Examination",01,26045,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -69,7 +69,7 @@ B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis","","","",TH13.
 B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",03,"",3,ARRGT,ARR ARR,Jan 10--Feb 27,Y He
 B_LAW,210,Law and the Legal Environment of Business,01,25876,3,"M,W16.20-17.35",VMMC 16,Jan 10--Apr 29,J Richardson
 BIOLOGY,101,[BSCI] Biology of Humans,02,26956,3,ARRGT,ARR ARR,Jan 10--Apr 29,W Cushwa
-BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01,26391,4,"TU,TH9.10-10.25",VUB 121,Jan 10--Apr 29,K Turner
+BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01,26391,4,"TU,TH9.10-10.25",VMMC 6,Jan 10--Apr 29,K Turner
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,02,26392,4,"TU,TH13.30-14.45",VMMC 6,Jan 10--Apr 29,K Turner
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01 Lab,26393,0,TU10.35-13.15,VSCI 109,Jan 10--Apr 29,""
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,02 Lab,26394,0,TU13.30-16.10,VSCI 109,Jan 10--Apr 29,""
@@ -195,10 +195,10 @@ DTC,336,Multimedia Design,01,26025,3,"M,W12.05-13.20",VMMC 111,Jan 10--Apr 29,C 
 DTC,336,Multimedia Design,02,26154,3,M17.45-20.30,VMMC 111,Jan 10--Apr 29,C Dreger
 DTC,338,Special Topics in Digital Technology and Culture,01,26066,3,F14.10-17,VMMC 111,Jan 10--Apr 29,C Dreger
 DTC,354,[ARTS] [M] Digital Storytelling,01,26080,3,W17.45-20.30,VMMC 111,Jan 10--Apr 29,W Luers
-DTC,355,[M] Multimedia Authoring,01,26031,3,TU17.45-20.30,VCLS 224,Jan 10--Apr 29,W Luers
+DTC,355,[M] Multimedia Authoring,01,26031,3,TU17.45-20.30,VMMC 111,Jan 10--Apr 29,W Luers
 DTC,356,[M] Information Structures,01,26026,3,"M,W,F9.10-10",VMMC 111,Jan 10--Apr 29,N Schiller
 DTC,375,"[M] Language, Texts and Technology",01,26068,3,"TU,TH12.05-13.20",VMMC 111,Jan 10--Apr 29,J Barber
-DTC,435,Advanced Animation,01,26100,3,TU17.45-20.30,VMMC 111,Jan 10--Apr 29,S Anderson
+DTC,435,Advanced Animation,01,26100,3,TU17.45-20.30,VCLS 224,Jan 10--Apr 29,S Anderson
 DTC,435,Advanced Animation,01 Lab,26106,0,ARRGT,ARR ARR,Jan 10--Apr 29,""
 DTC,477,Advanced Multimedia Authoring,01,26027,3,M17.45-20.30,VCLS 224,Jan 10--Apr 29,M Stamper
 DTC,478,Usability and Interface Design,01,26028,3,"TU,TH14.55-16.10",VMMC 111,Jan 10--Apr 29,J Barber
@@ -244,16 +244,16 @@ ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,26353,3,"TU,TH10.35-11.50",VU
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,02,26517,3,"M,W13.30-14.45",VUB 121,Jan 10--Apr 29,E Reilly Gurocak
 ECONS,305,Intermediate Microeconomics without Calculus,01,"",3,ARRGT,ARR ARR,Jan 10--Apr 29,S Patil
 ED_AD,503,Values and Ethics for Educational Leaders,01,26310,3,TU17.45-20.30,VC ARR,Jan 10--Apr 29,J Walls
-ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VMMC 204,"",""
-ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VMMC 204,"",""
-ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-18.45,VMMC 204,"",""
-ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VMMC 204,"",""
+ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VC ARR,"",""
+ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VC ARR,"",""
+ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-18.45,VC ARR,"",""
+ED_AD,503,Values and Ethics for Educational Leaders,"","","",TU17.45-20.30,VC ARR,"",""
 ED_AD,516,Instructional and Curricular Leadership,01,26603,3,W17.45-20.30,VC ARR,Jan 10--Apr 29,J Walls
 ED_AD,521,Topics in Education,01,26312,3,M17.45-20.30,VC ARR,Jan 10--Apr 29,K Rodela
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,VECS 209,"",""
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,VECS 209,"",""
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,VECS 209,"",""
-ED_AD,521,Topics in Education,"","","",M17.45-20.30,VECS 209,"",""
+ED_AD,521,Topics in Education,"","","",M17.45-20.30,VECS 120,"",""
+ED_AD,521,Topics in Education,"","","",M17.45-20.30,VECS 120,"",""
+ED_AD,521,Topics in Education,"","","",M17.45-20.30,VECS 120,"",""
+ED_AD,521,Topics in Education,"","","",M17.45-20.30,VECS 120,"",""
 ED_AD,521,Topics in Education,02,26344,3,ARRGT,ARR ARR,Jan 10--Apr 29,G Hill
 ED_AD,521,Topics in Education,03,31415,3,ARRGT,ARR ARR,Jan 10--Apr 29,K Rodela
 ED_AD,522,Topics in Education,02,26604,3,ARRGT,ARR ARR,Jan 10--Apr 29,M Dunn
@@ -333,7 +333,7 @@ FINE_ART,102,[ARTS] 2D Art and Design,01,26186,3,"TU,TH9.10-11.50",VMMC 103,Jan 
 FINE_ART,103,[ARTS] 3D Art and Design,01,26187,3,"TU,TH12.05-14.45",VMMC 107,Jan 10--Apr 29,J Barron
 FINE_ART,110,[ARTS] Drawing,01,26188,3,"M,W10.35-13.15",VMMC 107,Jan 10--Apr 29,A Bawa
 FINE_ART,201,[ARTS] World Art History I,01,30079,3,"M,W10.35-11.50",VUB 107,Jan 10--Apr 29,N Thrush
-FINE_ART,202,[ARTS] World Art History II,01,25965,3,"TU,TH10.35-11.50",VLIB 264,Jan 10--Apr 29,N Thrush
+FINE_ART,202,[ARTS] World Art History II,01,25965,3,"TU,TH10.35-11.50",VLIB 261,Jan 10--Apr 29,N Thrush
 FINE_ART,310,[M] Women Artists II,01,30660,3,"M,W13.30-14.45",VUB 107,Jan 10--Apr 29,N Thrush
 FINE_ART,320,Beginning Painting,01,27236,3,"M,W14.55-17.35",VMMC 107,Jan 10--Apr 29,A Bawa
 FINE_ART,365,Special Topics - Sculpture,01,30628,3,"TU,TH14.55-16.10",VMMC 103,Jan 10--Apr 29,H Higgs
@@ -457,7 +457,7 @@ MATH,351,Algebraic Thinking for the Middle School Teacher,01,26115,3,TU16.20-19,
 MATH,402,[M] Introduction to Analysis II,01,26955,3,"M,W,F10.10-11",VECS 120,Jan 10--Apr 29,K Vixie
 MATH,415,Intermediate Differential Equations,01,26239,3,"TU,TH12.05-13.20",VMMC 204,Jan 10--Apr 29,N Voulgarakis
 MATH,421,[M] Algebraic Structures,02,27107,3,"M,W,F11.10-12",VMMC 102Q,Jan 10--Apr 29,K Vincent
-MATH,432,[CAPS] Mathematics for College and Secondary Teachers,01,"",3,"TU,TH10.35-11.50",VMMC 102Q,Jan 10--Apr 29,K Vincent
+MATH,432,[CAPS] Mathematics for College and Secondary Teachers,01,"",3,"TU,TH10.35-11.50",VC ARR,Jan 10--Apr 29,K Vincent
 MATH,440,Applied Mathematics I: PDEs,01,30954,3,"M,W,F11.10-12",VMMC 202Q,Jan 10--Apr 29,A Khapalov
 MATH,464,[CAPS] Linear Optimization,01,26757,3,"TU,TH9.10-10.25",VECS 120,Jan 10--Apr 29,T Asaki
 MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,""
@@ -466,7 +466,7 @@ MATH,511,Advanced Linear Algebra,01,30730,3,"TU,TH12.05-13.20",VECS 120,Jan 10--
 MATH,529,Computational Topology,01,26981,3,"TU,TH10.35-11.50",VECS 125,Jan 10--Apr 29,B Krishnamoorthy
 MATH,588,Topics in Computational Math,01,31188,V,"TU,TH12.05-13.20",VC ARR,Jan 10--Apr 29,S Lapin
 MATH,589,Topics in Analysis,01,31180,V,W13-16,VC ARR,Jan 10--Apr 29,K Vixie
-MATH,591,Seminar in Mathematical Biology,01,27054,1,TU16.10-17,VECS 209,Jan 10--Apr 29,E Schwartz
+MATH,591,Seminar in Mathematical Biology,01,27054,1,TU16.10-17,VC ARR,Jan 10--Apr 29,E Schwartz
 MATH,592,Seminar in Analysis,01,26116,1,W12.05-12.55,VSCI 19,Jan 10--Apr 29,N Strigul
 MATH,600,Special Projects or Independent Study,01,26197,V,ARRGT,ARR ARR,Jan 10--Apr 29,""
 MATH,702,"Master's Special Problems, Directed Study, and/or Examination",01,26091,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -498,49 +498,6 @@ MECH,529,Experimental Methods for Mechanical Engineering Research,01,26571,3,"M,
 MECH,538,Microfabrication Technology,01,27294,3,"M,W16.20-17.35",VECS 104,Jan 10--Apr 29,G Liu
 MECH,700,"Master's Research, Thesis, and/or Examination",01,26448,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,26842,10,ARRGT,ARR ARR,Mar 21--Jun 24,J Bowen
-MED_CLIN,557,Clinical Rotation - Medical Spanish,01,31430,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,558,Virtual - Medical Humanities,01,31434,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,559,Virtual - Technical Writing in Medicine,01,31438,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,582,Science - Quality Improvement and Patient Safety,01,31442,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,583,Science - Evidence-Based Medicine,01,31446,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,591,Surgery - Otolaryngology (Head and Neck Surgery),01,31450,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,592,Surgery - Plastic Surgery,01,31454,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,593,Surgery - Thoracic and Cardiac Surgery,01,31458,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,596,Surgery - Pediatric Surgical Specialties,01,31462,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,601,Internal Medicine - Infectious Diseases,01,31466,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,603,Internal Medicine - Endocrinology,01,31470,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,604,Internal Medicine - Allergy and Immunology,01,31474,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,605,Internal Medicine - Rheumatology,01,31478,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,606,Internal Medicine - Adult Congenital Heart Disease,01,31482,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,607,Internal Medicine - Heart Failure and Transplant Cardiology,01,31486,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,608,Internal Medicine - Electrophysiology,01,31490,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,609,Pediatrics - Dermatology,01,31494,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,611,Pediatrics - Cardiology,01,31498,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,612,Pediatrics - Hematology and Oncology,01,31502,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,613,Pediatrics - Infectious Diseases,01,31506,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,614,Pediatrics - Gastroenterology,01,31510,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,615,Pediatrics - Development-Behavioral Pediatrics,01,31514,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,616,Pediatrics - Adolescent Medicine,01,31518,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,617,Pediatrics - Critical Care,01,31522,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,618,Pediatrics - Neonatal-Perinatal Medicine,01,31526,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,619,Pediatrics - Neurology,01,31530,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,620,Pediatrics - Pulmonology,01,31534,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,621,Pediatrics - Emergency Medicine,01,31538,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,622,Pediatrics - Rheumatology,01,31542,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,623,Pediatrics - Endocrinology,01,31546,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,624,Pediatrics - Diabetology,01,31550,2,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,625,Pediatrics - Child Abuse,01,31554,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,626,Psychiatry - Ambulatory,01,31558,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,627,Psychiatry - Inpatient,01,31562,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,628,Obstetrics and Gynecology - Maternal-Fetal Medicine,01,31566,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,630,Obstetrics and Gynecology - Reproductive Endocrinology and Infertility,01,31570,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,632,Obstetrics and Gynecology - Reproductive Health,01,31574,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,633,Clinical Rotation - Global Health,01,31578,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,634,Clinical Rotation - Sleep Medicine,01,31582,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,635,Clinical Rotation - Pain Medicine,01,31586,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,636,Clinical Rotation - Sports Medicine,01,31590,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,637,Clinical Rotation - Interventional Radiology,01,31594,V,ARRGT,ARR ARR,Mar 21--Jun 24,""
-MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,31598,4,ARRGT,ARR ARR,Mar 21--Jun 24,""
 MED_LMH,523,Value-based Care,01,26843,1,ARRGT,ARR ARR,Mar 21--Jun 24,J Haney
 MED_LMH,533,Personal Leadership Development III,01,27230,1,ARRGT,ARR ARR,Mar 21--Jun 24,J Haney
 MGMT,301,Principles of Management and Organization,01,25936,3,M18-20.45,VUB 121,Jan 10--Apr 29,R Howell
@@ -845,7 +802,7 @@ SOE,306,Plants in the Environment,01,30125,3,"M,W,F11.10-12",VC ARR,Jan 10--Apr 
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,26523,3,TU13.30-14.45,VLIB 201,Jan 10--Apr 29,M Steen-Adams
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment","","","",TH13.30-14.45,WEB ARR,"",""
 SOE,315,Water and the Earth,01,25948,3,"M,W10.35-11.25",VLIB 260,Jan 10--Apr 29,K Moffett
-SOE,315,Water and the Earth,01 Lab,25949,0,F10.35-13.20,VSCI 12,Jan 10--Apr 29,""
+SOE,315,Water and the Earth,01 Lab,25949,0,F10.35-13.20,VSCI 109,Jan 10--Apr 29,""
 SOE,404,[CAPS] [M] The Ecosystem,01,26221,3,M13.30-14.45,VLIB 260,Jan 10--Apr 29,M Steen-Adams
 SOE,404,[CAPS] [M] The Ecosystem,"","","",W13.30-14.45,WEB ARR,"",""
 SOE,461,Watershed Management,01,26549,3,"M,W,F9.10-10",VECS 209,Jan 10--Apr 29,S Roley
@@ -860,7 +817,7 @@ SOE,548,Applied Spatial Ecology,01,30879,3,ARRGT,ARR ARR,Jan 10--Apr 29,C Goldbe
 SOE,592,Advanced Topics in Environmental and Natural Resource Sciences,01,25955,2,TH14.55-16.35,VMMC 23,Jan 10--Apr 29,K Blount
 SOE,593,Graduate Seminar in Earth and Environmental Sciences,01,27324,1,TU13.10-14,VSCI 140,Jan 10--Apr 29,A Meddens
 SOE,598,Seminar,01,26834,1,ARRGT,ARR ARR,Jan 10--Apr 29,C Schultz
-SOE,598,Seminar,02,26836,1,W12.05-12.55,VSCI 140,Jan 10--Apr 29,K Moffett
+SOE,598,Seminar,02,26836,1,W12.05-12.55,VC ARR,Jan 10--Apr 29,K Moffett
 SOE,600,Special Projects or Independent Study,01,25957,V,ARRGT,ARR ARR,Jan 10--Apr 29,J Padowski
 SOE,700,"Master's Research, Thesis, and/or Examination",01,25953,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,25954,V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -872,7 +829,7 @@ SOIL_SCI,568,GIS Spatial Analysis,01,"",4,ARRGT,ARR ARR,Jan 10--Apr 29,L Bruegge
 SOIL_SCI,568,GIS Spatial Analysis,01 Lab,"",0,ARRGT,ARR ARR,Jan 10--Apr 29,L Brueggeman
 SPANISH,102,Second Semester,01,26049,4,"TU,TH13.30-14.45",WEB ARR,Jan 10--Apr 29,C Gulam
 SPANISH,105,Elementary Conversation,01,26011,1,TU14.55-15.45,VC ARR,Jan 10--Apr 29,M Previto
-SPANISH,204,Fourth Semester,01,26012,4,"TU,TH10.35-11.50",WEB ARR,Jan 10--Apr 29,C Gulam
+SPANISH,204,Fourth Semester,01,26012,4,"TU,TH10.35-11.50",VC ARR,Jan 10--Apr 29,C Gulam
 SPANISH,204,Fourth Semester,01 Lab,26013,0,ARRGT,ARR ARR,Jan 10--Apr 29,C Gulam
 SPANISH,307,Intermediate Speaking and Listening,01,26089,3,"W,F14.55-15.45",VUB 222,Jan 10--Apr 29,M Lee-Lopez
 SPANISH,351,[ARTS] Introduction to Latin American Literature,01,30099,3,"TU,TH17.45-19",VC ARR,Jan 10--Apr 29,C Gulam
@@ -921,7 +878,6 @@ TCH_LRN,549,Communicating in a Multilingual Society,01,26295,3,TH17.15-20,VUB 31
 TCH_LRN,562,Foundations of Literacy: Theory and Research,01,27093,3,TH13.10-16.10,VC ARR,Jan 10--Apr 29,M Vaughn
 TCH_LRN,574,Science for All: An Individual and Multicultural Perspective,01,27493,3,W17.45-20.30,VC ARR,Jan 10--Apr 29,S Fick
 TCH_LRN,582,Scholarly Writing,01,27396,3,W9.10-12,VUB 311,Jan 10--Apr 29,D Day-Wiff
-UNIV,104,First-Year Success Seminar,01,"",2,F12.05-13.55,VUB 222,Jan 10--Apr 29,J Denrow
 UNIV,199,Introduction to Directed Research,01,30453,1,F9.10-10,VLIB 261,Jan 10--Apr 29,S Buechler
 UNIV,250,Success in College and Beyond,01,"",1,F12.05-13.20,VUB 226,Jan 10--Apr 29,M Nakamoto
 UNIV,250,Success in College and Beyond,02,"",1,F12.05-13.20,VUB 221,Jan 10--Apr 29,C Johnston

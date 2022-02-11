@@ -56,7 +56,7 @@ BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,15684,V,ARRGT
 CE,203,Civil Engineering Computer Applications,01,15753,2,M12.10-13,TFLO 131,Jan 10--Apr 29,J Morshed
 CE,203,Civil Engineering Computer Applications,01 Lab,15754,0,M17.40-20.30,TCIC 219,Jan 10--Apr 29,J Morshed
 CE,215,Mechanics of Materials,01,15752,3,"TU,TH7.45-9",TCOL 102,Jan 10--Apr 29,M Hossain
-CE,321,Numerical Methods for Civil and Environmental Engineers,01,30621,2,TU13.30-14.20,TBSL 104,Jan 10--Apr 29,M Hossain
+CE,321,Numerical Methods for Civil and Environmental Engineers,01,30621,2,TU12.10-13,TBSL 104,Jan 10--Apr 29,M Hossain
 CE,321,Numerical Methods for Civil and Environmental Engineers,01 Lab,30622,0,ARRGT,ARR ARR,Jan 10--Apr 29,M Hossain
 CE,322,Transportation Engineering,01,15645,3,"M,W16.15-17.30",TBSL 104,Jan 10--Apr 29,T Harris
 CE,351,Water Resources Engineering,01,15755,3,"M,W10.35-11.50",TBSL 103,Jan 10--Apr 29,Y Demissie
@@ -127,7 +127,6 @@ CPT_S,499,Special Problems,02,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,D Cook
 CPT_S,516,Algorithmics,01,15750,3,"TU,TH16.20-17.35",TFLO 224,Jan 10--Apr 29,Z Dang
 CPT_S,527,Computer Security,01,16955,3,"M,W,F12.10-13",TFLO 224,Jan 10--Apr 29,W Hutton
 CPT_S,530,Numerical Analysis,01,15859,3,"TU,TH12.05-13.20",TCIC 219,Jan 10--Apr 29,J Miller
-CPT_S,548,Advanced Computer Graphics,01,15995,3,"TU,TH12.05-13.20",TFLO 224,Jan 10--Apr 29,R Lewis
 CPT_S,571,Computational Genomics,01,15994,3,"TU,TH14.55-16.10",TFLO 224,Jan 10--Apr 29,A Kalyanaraman
 CPT_S,587,Software Design and Architecture,02,30868,3,"TU,TH12.05-13.20",TFLO 247,Jan 10--Apr 29,B Zeng
 CPT_S,595,Directed Study in Computer Science,01,15758,V,ARRGT,ARR ARR,Jan 10--Apr 29,R Lewis
@@ -393,7 +392,6 @@ ME,800,"Doctoral Research, Dissertation, and/or Examination",01,15807,V,ARRGT,AR
 MED_CLIN,524,Longitudinal Integrated Clerkship IV,01,16702,10,ARRGT,ARR ARR,Mar 21--Jun 24,J Bowen
 MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,"",Mar 21--Jun 24,""
 MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,"",Mar 21--Jun 24,""
-MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Mar 21--Jun 24,J Bowman
 MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,"",Mar 21--Jun 24,""
 MED_CLIN,550,Virtual - Residency Preparation Clinical Cases,01,"",2,ARRGT,"",Mar 21--Jun 24,""
 MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,"",Mar 21--Jun 24,""
