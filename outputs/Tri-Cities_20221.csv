@@ -172,7 +172,7 @@ E_E,416,[CAPS] [M] Electrical Engineering Design,01 Lab,15863,0,F13.10-16,TFLO 1
 E_E,416,[CAPS] [M] Electrical Engineering Design,"","","",F17.10-20,TFLO 133,"",""
 E_E,432,RF Engineering for Telecommunications,01,16801,4,"M,W17.45-19",TFLO 131,Jan 10--Apr 29,S Hudson
 E_E,432,RF Engineering for Telecommunications,01 Lab,16803,0,ARRGT,ARR ARR,Jan 10--Apr 29,S Hudson
-E_E,492,Renewable Energy Sources,01,15884,3,"M,W13.10-14",TFLO 223,Jan 10--Apr 29,M Osman
+E_E,492,Renewable Energy Sources,01,15884,3,"M,W13.10-14",TFLO 231,Jan 10--Apr 29,M Osman
 E_E,492,Renewable Energy Sources,01 Lab,15885,0,"M,W14.10-15.25",TFLO 162,Jan 10--Apr 29,M Osman
 E_E,493,Protection of Power Systems I,01,15786,3,"M,W16.15-17.30",TBSL 103,Jan 10--Apr 29,S Hudson
 E_E,495,Internship in Electrical Industry,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,(multiple)
@@ -338,16 +338,16 @@ MATH,106,College Algebra,01,15839,3,"M,W,F10.10-11",TFLO 252,Jan 10--Apr 29,K Fi
 MATH,108,Trigonometry,01,15840,2,"M,W14.10-15",TCOL 102,Jan 10--Apr 29,K Fiedler
 MATH,108,Trigonometry,"","","",W14.10-15,TEST 208,"",""
 MATH,108,Trigonometry,02,"",2,ARRGT,ARR ARR,Jan 10--Apr 29,S Selmi
-MATH,171,[QUAN] Calculus I,01,15841,4,"M,W,F13.10-14",TCOL 102,Jan 10--Apr 29,S Selmi
+MATH,171,[QUAN] Calculus I,01,15841,4,"M,W,F13.10-14",TCOL 102,Jan 10--Apr 29,J Griffin
 MATH,171,[QUAN] Calculus I,"","","","W,F13.10-14",TEST 208,"",""
 MATH,171,[QUAN] Calculus I,02,"",4,ARRGT,ARR ARR,Jan 10--Apr 29,S Black
-MATH,171,[QUAN] Calculus I,01 Lab,15904,0,"TU,TH9.10-10.25",TFLO 252,Jan 10--Apr 29,S Selmi
+MATH,171,[QUAN] Calculus I,01 Lab,15904,0,"TU,TH9.10-10.25",TFLO 252,Jan 10--Apr 29,J Griffin
 MATH,171,[QUAN] Calculus I,02 Lab,"",0,ARRGT,ARR ARR,Jan 10--Apr 29,S Black
 MATH,172,Calculus II,01,15842,4,"M,W,F10.10-11",TFLO 131,Jan 10--Apr 29,D Mitchell
 MATH,172,Calculus II,01 Lab,15843,0,"TU,TH9.10-10.25",TFLO 131,Jan 10--Apr 29,D Mitchell
-MATH,202,[QUAN] Calculus for Business and Economics,01,15735,3,"TU,TH12.05-13.20",TFLO 133,Jan 10--Apr 29,S Selmi
+MATH,202,[QUAN] Calculus for Business and Economics,01,15735,3,"TU,TH12.05-13.20",TFLO 133,Jan 10--Apr 29,J Griffin
 MATH,216,Discrete Structures,01,15852,3,"TU,TH13.30-14.45",TFLO 252,Jan 10--Apr 29,R Learn
-MATH,220,Introductory Linear Algebra,01,15963,2,"M,W9.10-10",TCIC 210,Jan 10--Apr 29,S Selmi
+MATH,220,Introductory Linear Algebra,01,15963,2,"M,W9.10-10",TCIC 210,Jan 10--Apr 29,R Learn
 MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01,15946,3,"TU,TH17.45-18.35",TCOL 126,Jan 10--Apr 29,C Tate
 MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01 Lab,15947,0,"TU,TH18.45-19.35",TCOL 126,Jan 10--Apr 29,C Tate
 MATH,273,Calculus III,01,15844,2,"M,W12.10-13",TCIC 210,Jan 10--Apr 29,D Mitchell
@@ -869,8 +869,8 @@ UNIV,250,Success in College and Beyond,01,16864,1,"M,W12.10-13",TCOL 102,Jan 10-
 UNIV,250,Success in College and Beyond,"","","",W12.10-13,TEST 208,"",""
 UNIV,497,Peer Leadership,02,"",1,TU17.10-18,TCIC 221,Jan 10--Apr 29,A Guy
 UNIV,497,Peer Leadership,03,"",1,TH17.10-18,TCIC 221,Jan 10--Apr 29,A Guy
-UNIV,497,Peer Leadership,04,"",1,"TU,TH8.10-9",TCIC 221,Feb 15--Apr 29,K Barajas
-UNIV,497,Peer Leadership,05,"",1,"TU,TH8.10-9",TCIC 223,Feb 15--Apr 29,R Pruneda
+UNIV,497,Peer Leadership,04,"",1,"TU,TH8.10-9","",Mar 01--Apr 29,K Barajas
+UNIV,497,Peer Leadership,05,"",1,"TU,TH8.10-9","",Mar 01--Apr 29,L Loera
 VIT_ENOL,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,Jan 10--Apr 29,A Snider
 VIT_ENOL,413,Advanced Viticulture,01,15670,3,"TU,TH10.35-11.50",TWSC 202,Jan 10--Apr 29,B Bondada
 VIT_ENOL,422,Sensory Evaluation of Food and Wine,01,15792,3,"M,W,F9.10-10",TWSC 202,Jan 10--Apr 29,J Harbertson
