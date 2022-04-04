@@ -245,31 +245,21 @@ module WSUInPerson
 
       case this_month
 
-      when 1, 2, 3
+      when 1, 2
         semesters.push(time.year.to_s+"1")
-      
-      when 4, 5, 6, 7
-        semesters.push(time.year.to_s+"2", (time.year).to_s+"3")
+
+      when 3, 4
+        semesters.push(time.year.to_s+"2")
+
+      when 5, 6, 7
+        semesters.push(time.year.to_s+"2", time.year.to_s+"3")
 
       when 8, 9, 10
-        semesters.push((time.year).to_s+"3")
+        semesters.push(time.year.to_s+"3")
 
       when 11, 12
         semesters.push(time.year.to_s+"3", (time.year+1).to_s+"1")
 
-        # if 11 <= time.month && time.month <= 12
-        #   # return fall and spring
-        #   semesters.push(time.year.to_s+"3", (time.year+1).to_s+"1")
-        # elsif 1 <= time.month && time.month < 4
-        #   # return spring
-        #   semesters.push(time.year.to_s+"1")
-        # elsif 4 <= time.month && time.month < 9
-        #   # return summer and fall
-        #   semesters.push(time.year.to_s+"2", (time.year).to_s+"3")
-        # elsif 9 <= time.month && time.month < 11
-        #   # return  fall
-        #   semesters.push((time.year).to_s+"3")
-        # end
       end
 
       return semesters
