@@ -43,6 +43,7 @@ ANTH,399,Archaeological Field School,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 ANTH,495,Research Practicum,01,"",V,ARRGT,ARR ARR,Jun 20--Jul 31,K Lokensgard
 ANTH,495,Research Practicum,02,"",V,ARRGT,ARR ARR,May 09--Jul 29,K Lokensgard
 ANTH,498,Anthropology Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
+ANTH,498,Anthropology Internship,02,"",V,ARRGT,ARR ARR,May 09--Jun 19,J Blong
 ANTH,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,R Horowitz
 ANTH,500,Field Methods,01,02361,V,ARRGT,ARR ARR,May 09--Jul 29,""
 ANTH,599,Archaeological Field School,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
@@ -58,12 +59,13 @@ ATH_T,595,Leadership and Communication in Athletic Training,01,03491,3,"M,TU,W,T
 B_A,204,Spreadsheets,01,03748,1,"M,TU,W,TH,F10.30-11.45",TODD 330,May 09--May 20,K Haque
 B_A,205,Data Visualization,02,03749,1,"M,TU,W,TH,F10.30-11.45",TODD 330,May 23--Jun 03,K Haque
 B_A,206,Decision Analysis,01,03750,1,"M,TU,W,TH,F10.30-11.45",TODD 330,Jun 06--Jun 17,K Haque
+B_A,702,"Master's Special Problems, Directed Study, and/or Examination",01,05434,V,ARRGT,ARR ARR,May 09--Jul 29,C Munson
 BIO_ENG,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
 BIO_ENG,495,Internship in Bioengineering,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A Vasavada
 BIO_ENG,499,Special Problems in Bioengineering,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01,03591,4,"M,TU,W,TH,F10.30-11.45",SPRK 323,May 09--Jul 01,J Hinz
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01 Lab,03592,0,"M,W12.30-15.30",ABEL 235,May 09--Jul 01,J Hinz
-BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,02 Lab,03593,0,"TU,TH12.30-15.30",ABEL 238,May 09--Jul 29,J Hinz
+BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,02 Lab,03593,0,"TU,TH12.30-15.30",ABEL 238,May 09--Jul 01,J Hinz
 BIOLOGY,251,Introductory Human Physiology,01,03586,4,"M,TU,W,TH,F9-9.50",ABEL 201,Jun 06--Jul 29,E Johnson
 BIOLOGY,251,Introductory Human Physiology,01 Lab,03587,0,"TU,TH14.10-17",HLD 201,Jun 06--Jul 29,E Johnson
 BIOLOGY,251,Introductory Human Physiology,02 Lab,03588,0,"TU,TH10.40-13.30",HLD 201,Jun 06--Jul 29,E Johnson
@@ -147,7 +149,7 @@ CPT_S,700,"Master's Research, Thesis, and/or Examination",01,02399,V,ARRGT,ARR A
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,02400,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,02401,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CRM_J,381,Crime and Justice in the Movies,01,03603,3,"M,TU,W,TH12-15",TDAD 276,May 09--Jun 05,E Magana
-CRM_J,381,Crime and Justice in the Movies,01 Lab,03604,0,ARRGT,ARR ARR,May 09--Jun 05,""
+CRM_J,381,Crime and Justice in the Movies,01 Lab,03604,0,ARRGT,ARR ARR,May 09--Jun 05,E Magana
 CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Keopanapay
 CRM_J,491,Special Topics: Study Abroad,01,"",3,ARRGT,ARR ARR,May 09--Jul 29,M Neuilly
 CROP_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
@@ -221,7 +223,7 @@ ECONS,702,"Master's Special Problems, Directed Study, and/or Examination",01,024
 ECONS,800,"Doctoral Research, Dissertation, and/or Examination",01,02428,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,03017,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 ED_PSYCH,505,Research Methods I,01,03335,3,"M,TU,W,TH,F12.30-13.20",CLEV 63,Jun 20--Jul 29,E Mcmain
-ED_PSYCH,508,Educational Statistics,01,"",3,"M,TU,W,TH,F12.30-13.20",EDAD 216,May 09--Jun 19,""
+ED_PSYCH,508,Educational Statistics,01,"",3,"M,TU,W,TH,F12.30-13.20",EDAD 216,May 09--Jun 19,T Vo
 ED_PSYCH,508,Educational Statistics,02,"",3,TH17.10-20.30,CLEV 63,May 09--Jul 29,S Dai
 ED_PSYCH,600,Special Projects or Independent Study,01,02434,V,ARRGT,ARR ARR,May 09--Jul 29,""
 ED_PSYCH,700,"Master's Research, Thesis, and/or Examination",01,02435,V,ARRGT,ARR ARR,May 09--Jul 29,""
@@ -311,7 +313,6 @@ HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,"",3,ARRGT,ARR
 HBM,480,[M] Marketing Strategy and Development,01,"",3,ARRGT,ARR ARR,May 09--Jun 19,""
 HBM,496,Special Topics,01,"",V,ARRGT,ARR ARR,May 09--Jun 24,""
 HBM,498,Hospitality Business Management Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A Alonzo
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,03735,3,"M,TU,W,TH,F9-10.15",SPRK 227,May 09--Jun 19,J Spohnholz
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,04852,3,"M,TU,W,TH,F12-13.15",TODD 220,May 09--Jun 19,E Smelyansky
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,03734,3,"M,TU,W,TH,F12-13.15",SPRK G0045,Jun 20--Jul 31,K Faunce
 HISTORY,110,[HUM] American History to 1877,01,04904,3,"M,W,F9.55-12.10",EME B0046,May 09--Jun 19,T Hanshew
@@ -322,7 +323,7 @@ HONORS,370,Case Study: Global Issues in Social Sciences,02,"",3,ARRGT,ARR ARR,Ma
 HONORS,380,Case Study: Global Issues in the Arts and Humanities,01,"",3,ARRGT,ARR ARR,May 09--Jun 25,I Webber
 HONORS,390,Case Study: Global Issues in the Sciences,01,"",3,ARRGT,ARR ARR,May 09--Jun 12,S Gizerian
 HONORS,390,Case Study: Global Issues in the Sciences,02,03428,3,"M,TU,W,TH,F9-10.15",HNRS 142,May 09--Jun 03,L Gerber
-HONORS,430,Education Abroad Research,02,05409,V,ARRGT,ARR ARR,May 09--May 23,M Carroll
+HONORS,430,Education Abroad Research,02,"",V,ARRGT,ARR ARR,May 09--May 23,M Carroll
 HORT,399,Professional Work Experience,01,02456,V,ARRGT,ARR ARR,May 09--Jul 29,A Snider
 HORT,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 HORT,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
@@ -368,6 +369,7 @@ I_BUS,380,International Business,03,"",3,ARRGT,ARR ARR,May 13--Jun 19,J Sandstro
 I_BUS,435,International Tourism,03,"",3,ARRGT,ARR ARR,May 09--Jun 19,""
 I_BUS,482,[M] International Marketing,01,03709,3,"M,TU,W,TH,F12-13.15",SPRK 335,Jun 20--Jul 31,A Donnadieu
 I_BUS,496,Special Topics,02,"",V,ARRGT,ARR ARR,May 11--Jun 18,J Gramlich
+I_BUS,498,International Business Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,J Joireman
 I_D,490,Cooperative Education Internship,01,02932,V,ARRGT,ARR ARR,May 09--Jul 29,R Krikac
 I_D,594,Readings in Interior Design,01,05380,3,ARRGT,ARR ARR,May 09--Jul 29,R Krikac
 KIN_ACTV,109,Beginning Golf,01,03722,1,"M,TU,W,TH10-11.15",ARR ARR,May 09--Jun 19,K Tucker
@@ -394,13 +396,14 @@ KINES,499,Special Problems,01,02467,V,ARRGT,ARR ARR,May 09--Jun 19,""
 KINES,536,Methods of Health and Physical Education,01,03633,2,"M,W,F8-10.05",SPRK 212,May 09--Jun 03,P Morgan
 LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,02933,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 MATH,103,Algebra Methods and Introduction to Functions,01,03069,3,"M,TU,W,TH,F10.30-11.45",BUST 145,May 09--Jun 19,D Baral
+MATH,103,Algebra Methods and Introduction to Functions,02,03537,3,"M,TU,W,TH,F9-10.15",GUC TBS,Jun 27--Jul 29,J Widen
 MATH,106,College Algebra,01,03071,3,"M,TU,W,TH,F13.30-14.45",TODD 434,May 09--Jun 19,I Hewage
 MATH,106,College Algebra,02,03223,3,"M,TU,W,TH,F9-10.15",TODD 133,Jun 20--Jul 31,D Rice
 MATH,108,Trigonometry,01,03634,2,"M,TU,W,TH,F9-10.15",ABEL 201,May 09--Jun 03,C Jacobs
 MATH,108,Trigonometry,02,03224,2,"M,TU,W,TH13.30-14.35",TODD 311,Jun 20--Jul 31,R Peffer
 MATH,171,[QUAN] Calculus I,01,03346,4,"M,TU,W,TH,F9.30-10.45",CARP 101,May 09--Jun 19,L Hall
-MATH,171,[QUAN] Calculus I,02,03429,4,"M,TU,W,TH,F9.30-10.45",FSHN T0101,Jun 20--Jul 31,M Jatta
-MATH,171,[QUAN] Calculus I,01 Lab,03347,0,"W,F12-14.40",HLD G0003,May 09--Jun 19,C Parker
+MATH,171,[QUAN] Calculus I,02,03429,4,"M,TU,W,TH,F9.30-10.45",FSHN T0101,Jun 20--Jul 31,C Parker
+MATH,171,[QUAN] Calculus I,01 Lab,03347,0,"W,F12-14.40",HLD G0003,May 09--Jun 19,M Jatta
 MATH,171,[QUAN] Calculus I,02 Lab,03430,0,"W,F12-14.40",HLD G0003,Jun 20--Jul 31,S Sawant
 MATH,172,Calculus II,01,03348,4,"M,TU,W,TH,F9-10.15",TODD 116,Jun 20--Jul 31,E Pena
 MATH,172,Calculus II,01 Lab,03349,0,"W,F11.30-14.10",TODD 116,Jun 20--Jul 31,R Tong
@@ -414,6 +417,7 @@ MATH,273,Calculus III,01,03637,2,"M,TU,W,TH,F13.30-14.45",TODD 420,May 09--Jun 0
 MATH,273,Calculus III,02,03252,2,"M,TU,W,TH9-10.05",TODD 130,Jun 20--Jul 31,B Hellwig
 MATH,300,Mathematical Computing,01,03227,3,"M,TU,W,TH,F10.30-11.45",HLD G0003,Jun 20--Jul 31,M Gaddis
 MATH,301,Introduction to Mathematical Reasoning,01,03351,3,"M,TU,W,TH,F9-10.15",SPRK G0045,May 09--Jun 19,R Perrier
+MATH,303,[M] Geometry for the Middle School Teacher,01,03202,3,"TU,TH11.10-13.30",TERR 24,May 09--Jun 19,J Thomas Zapata
 MATH,315,Differential Equations,01,03352,3,"M,TU,W,TH,F12-13.15",SPRK G0045,May 09--Jun 19,D Reiss
 MATH,315,Differential Equations,02,03427,3,"M,TU,W,TH,F12-13.15",TODD 311,Jun 20--Jul 31,E Remaley
 MATH,440,Applied Mathematics I: PDEs,02,04896,3,"M,TU,W,TH,F10.10-11.25",SPRK 335,May 09--Jun 19,S Lapin
@@ -433,20 +437,26 @@ MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,02478,V,ARRGT
 ME,116,Engineering Computer-aided Design and Visualization,01,03112,2,"M,TU,W,TH,F15.10-18",ETRL 249,May 09--Jun 19,""
 ME,212,Dynamics,01,03643,3,"M,TU,W,TH,F13.30-14.45",SPRK G0045,Jun 20--Jul 31,""
 ME,216,Integrated CAD Design,01,03113,2,"M,TU,W,TH,F15.10-18",ETRL 249,Jun 20--Jul 31,""
-ME,220,Materials Laboratory,01,03644,1,"M,W8.10-9.10",SLOA 175,Jul 11--Jul 29,""
+ME,220,Materials Laboratory,01,03644,1,"M,W8.10-9",SLOA 175,May 30--Jun 17,""
 ME,220,Materials Laboratory,"","","","M,W9.10-12",ETRL 106,"",""
+ME,220,Materials Laboratory,02,03645,1,"M,W8.10-9",SLOA 175,May 30--Jun 17,""
+ME,220,Materials Laboratory,"","","","M,W13-15.50",ETRL 106,"",""
+ME,220,Materials Laboratory,03,03646,1,"M,W8.10-9",SLOA 175,Jul 11--Jul 29,""
+ME,220,Materials Laboratory,"","","","M,W9.10-12",ETRL 106,"",""
+ME,220,Materials Laboratory,04,03520,1,"M,W8.10-9",SLOA 175,Jul 11--Jul 29,""
 ME,220,Materials Laboratory,"","","","M,W15.10-18",ETRL 106,"",""
 ME,241,Engineering Computations,01,05410,3,"M,TU,W,TH,F8-9.15",SPRK 333,May 09--Jun 19,""
 ME,301,Fundamentals of Thermodynamics,01,03353,3,"M,TU,W,TH,F13.30-14.45",SPRK 335,May 09--Jun 19,""
 ME,303,Fluid Mechanics,01,03419,3,"M,TU,W,TH,F12-13.15",SPRK 335,May 09--Jun 19,""
 ME,304,Heat Transfer,01,03420,3,"M,TU,W,TH,F13.30-14.45",SPRK 335,Jun 20--Jul 31,""
-ME,306,Thermal and Fluids Laboratory,01,03716,2,"TU,W,TH,F12-12.50",CARP 102,May 09--Jun 03,""
+ME,306,Thermal and Fluids Laboratory,01,03716,2,"TU,W,TH,F9-9.50",CARP 102,May 09--Jun 03,""
 ME,306,Thermal and Fluids Laboratory,01 Lab,03717,0,"TU,W,TH,F9.15-12",ETRL 226,May 09--Jun 03,""
+ME,306,Thermal and Fluids Laboratory,02 Lab,05396,0,"TU,W,TH,F13-15.50",ETRL 226,May 09--Jun 03,""
 ME,312,Manufacturing Engineering,01,03711,3,"M,TU,W,TH,F12-13.15",SLOA 161,Jul 04--Jul 29,""
 ME,312,Manufacturing Engineering,01 Lab,03712,0,"TU,W,TH,F7.30-10.20",ETRL 25,Jul 04--Jul 29,""
 ME,312,Manufacturing Engineering,02 Lab,05398,0,"TU,W,TH,F15.10-18",ETRL 25,Jul 04--Jul 29,""
 ME,313,Engineering Analysis,01,03282,3,"M,TU,W,TH,F8-8.50",EME B0046,May 09--Jun 19,""
-ME,313,Engineering Analysis,01 Lab,03283,0,"M,W,F15-18",SLOA 249,May 09--Jun 19,""
+ME,313,Engineering Analysis,01 Lab,03283,0,"M,W,F15.10-18",SLOA 249,May 09--Jun 19,""
 ME,316,Mechanical Component Analysis and Design,01,03354,3,"M,TU,W,TH,F10.30-11.45",SPRK 335,Jun 20--Jul 31,""
 ME,348,Dynamics Systems,01,03355,3,"M,TU,W,TH,F9-10.15",SPRK 335,Jun 20--Jul 31,""
 ME,405,Thermal Systems Design,01,03447,3,"M,TU,W,TH,F15-16.15",SPRK 212,Jun 20--Jul 31,""
@@ -487,6 +497,7 @@ MSE,201,Materials Engineering Fundamentals,01,03230,3,"M,TU,W,TH,F10.30-11.45",S
 MSE,302,Electronic Materials,01,03683,3,"M,TU,W,TH,F9-10.15",SLOA 175,Jun 20--Jul 31,""
 MSE,600,Special Projects or Independent Study,01,02569,V,ARRGT,ARR ARR,May 09--Jul 29,""
 MSE,700,"Master's Research, Thesis, and/or Examination",01,02570,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
+MUS,262,[ARTS] Rock Music: History and Social Analysis,02,"",3,"M,TU,W,TH,F13-14.15",KIMB 110,Jun 20--Jul 31,A Agulay
 MUS,428,[ARTS] Opera Workshop,01,03662,1,"M,TU,W,TH18-20",KIMB 115,Jun 06--Jul 29,J Wieck
 NEUROSCI,495,Directed Research,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 NEUROSCI,495,Directed Research,02,"",V,ARRGT,ARR ARR,May 09--Jun 12,""
@@ -562,8 +573,9 @@ PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,02507,V,AR
 PSYCH,105,[SSCI] Introductory Psychology,01,03096,3,"M,TU,W,TH,F10.30-11.45",TODD 230,May 09--Jun 19,S Paup
 PSYCH,210,Psychology as a Science,01,03159,3,"M,TU,W,TH,F12-13.15",TODD 320,Jun 20--Jul 31,D Adams
 PSYCH,311,[QUAN] Statistics in Psychology,01,03487,4,"M,TU,W,TH,F13.30-14.45",SLOA 150,Jun 06--Jul 29,M Murphy
-PSYCH,333,Abnormal Psychology,01,03239,3,"M,TU,W,TH,F10.30-11.45",CLAR 149,Jun 20--Jul 31,A Bonnette
-PSYCH,350,Social Psychology,01,03240,3,"M,TU,W,TH,F12-13.15",WEBS 11,May 09--Jun 19,V Jones
+PSYCH,333,Abnormal Psychology,01,03239,3,"M,TU,W,TH,F10.30-11.45",CLAR 149,Jun 20--Jul 31,V Jones
+PSYCH,350,Social Psychology,01,03240,3,"M,TU,W,TH,F12-13.15",WEBS 11,May 09--Jun 19,A Bonnette
+PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",07,"",V,ARRGT,ARR ARR,May 09--Jul 29,P Strand
 SDC,100,[ARTS] World of Design and Construction,01,03242,3,"M,TU,W,TH,F9-10.15",CARP 312,Jun 20--Jul 31,G Kraszewski
 SDC,120,Foundational Drawing,01,03181,3,"M,TU,W,TH9.30-12",CARP 201,May 09--Jun 19,C Vielle
 SDC,140,Foundation Studio I,01,03243,3,"M,TU,W,TH,F10.30-12.30",CARP 201,Jun 20--Jul 31,M Cowan
@@ -627,6 +639,8 @@ TCH_LRN,317,Initial Practicum Experience,01,03087,2,ARRGT,ARR ARR,May 09--Jun 19
 TCH_LRN,463,Teaching Concepts of Probability and Statistics,01,03417,3,"M,W13.30-16.40",TERR 106,Jun 20--Jul 29,K Lesseig
 TCH_LRN,483,Integrating Health and Fitness into K-8 Curriculum,01,03677,3,"M,W,F8-10.05",SPRK 335,May 09--Jun 03,P Morgan
 TCH_LRN,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
+TCH_LRN,501,Practicum in Bilingual/ESL Education,01,"",3,ARRGT,ARR ARR,Jun 20--Jul 29,T Salsbury
+TCH_LRN,501,Practicum in Bilingual/ESL Education,01 Lab,"",0,ARRGT,ARR ARR,Jun 20--Jul 29,T Salsbury
 TCH_LRN,521,Topics in Education,02,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 TCH_LRN,563,Teaching Concepts of Probability and Statistics,01,03418,3,"M,W13.30-16.40",TERR 106,Jun 20--Jul 29,K Lesseig
 TCH_LRN,590,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
@@ -648,6 +662,7 @@ VET_PATH,700,"Master's Research, Thesis, and/or Examination",01,02546,V,ARRGT,AR
 VET_PATH,800,"Doctoral Research, Dissertation, and/or Examination",01,02547,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 VIT_ENOL,399,Professional Work Experience,01,02457,V,ARRGT,ARR ARR,May 09--Jul 29,A Snider
 VIT_ENOL,496,Internship in a Winery,01,02445,2,ARRGT,ARR ARR,May 09--Jul 29,T Henick-Kling
+WGSS,216,Introduction to American Cultural Studies,01,03858,3,"M,TU,W,TH,F11.10-12",SPRK 339,Jul 05--Jul 29,A Diehl
 WGSS,316,[DIVR] Gender in Cross Cultural Perspective,01,04985,3,"M,TU,W,TH,F10.30-11.45",TODD 130,Jun 20--Jul 31,""
 WRIT,205,Sentence and Paragraph Construction Across the Disciplines,01,05043,1,W9-10.15,CUE 414,May 09--Jun 19,B Walter
 WRIT,302,Advanced Writing Collaborative,02,03196,1,ARRGT,ARR ARR,May 09--Jun 19,B Walter

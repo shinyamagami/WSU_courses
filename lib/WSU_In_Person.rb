@@ -58,9 +58,9 @@ module WSUInPerson
 
 
         semesters.each do |semester|
-          if campus == "Everett" && semester == "20223"
-            break;
-          end
+          # if campus == "Everett" && semester == "20223"
+          #   break;
+          # end
           doc = Nokogiri::HTML(URI.open('http://schedules.wsu.edu/List/'+ campus+ '/' + semester))
 
           subjects = doc.css('.prefixList').css('a')
