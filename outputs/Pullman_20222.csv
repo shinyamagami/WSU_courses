@@ -56,9 +56,9 @@ ARCH,580,Architecture Practicum,01,03501,V,ARRGT,ARR ARR,May 09--Jul 29,J Abell
 ARCH,580,Architecture Practicum,02,03573,V,ARRGT,ARR ARR,Jul 30--Aug 21,J Abell
 ATH_T,575,Pharmacology in Athletic Training,01,03490,3,"M,TU,W,TH,F10.45-12.15",SGYM 214A,May 16--Jun 17,K Pietz
 ATH_T,595,Leadership and Communication in Athletic Training,01,03491,3,"M,TU,W,TH,F9-10.15",SGYM 214A,May 16--Jun 17,K Hildenbrand
-B_A,204,Spreadsheets,01,03748,1,"M,TU,W,TH,F10.30-11.45",TODD 330,May 09--May 20,K Haque
-B_A,205,Data Visualization,02,03749,1,"M,TU,W,TH,F10.30-11.45",TODD 330,May 23--Jun 03,K Haque
-B_A,206,Decision Analysis,01,03750,1,"M,TU,W,TH,F10.30-11.45",TODD 330,Jun 06--Jun 17,K Haque
+B_A,204,Spreadsheets,01,03748,1,"M,TU,W,TH,F10.30-11.45",TODD 216,May 09--May 20,K Haque
+B_A,205,Data Visualization,02,03749,1,"M,TU,W,TH,F10.30-11.45",TODD 216,May 23--Jun 03,K Haque
+B_A,206,Decision Analysis,01,03750,1,"M,TU,W,TH,F10.30-11.45",TODD 216,Jun 06--Jun 17,K Haque
 B_A,702,"Master's Special Problems, Directed Study, and/or Examination",01,05434,V,ARRGT,ARR ARR,May 09--Jul 29,C Munson
 BIO_ENG,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
 BIO_ENG,495,Internship in Bioengineering,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A Vasavada
@@ -70,16 +70,16 @@ BIOLOGY,251,Introductory Human Physiology,01,03586,4,"M,TU,W,TH,F9-9.50",ABEL 20
 BIOLOGY,251,Introductory Human Physiology,01 Lab,03587,0,"TU,TH14.10-17",HLD 201,Jun 06--Jul 29,E Johnson
 BIOLOGY,251,Introductory Human Physiology,02 Lab,03588,0,"TU,TH10.40-13.30",HLD 201,Jun 06--Jul 29,E Johnson
 BIOLOGY,251,Introductory Human Physiology,03 Lab,03589,0,"TU,TH18-21",HLD 201,Jun 06--Jul 29,E Johnson
-BIOLOGY,492,Topics in Biology,01,"",V,ARRGT,ARR ARR,May 09--Jun 19,D Allison
+BIOLOGY,492,Topics in Biology,01,"",3,ARRGT,ARR ARR,May 09--Jun 19,D Allison
 BSYSE,700,"Master's Research, Thesis, and/or Examination",01,02375,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,02377,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CAS,400,End-of-Program Evaluation Portfolio,01,"",1,ARRGT,ARR ARR,May 09--Jul 29,A Rocha
 CAS,410,[CAPS] Interdisciplinary Approaches to the University,01,03492,3,ARRGT,ARR ARR,Jun 20--Jul 31,""
 CE,211,Statics,01,03480,3,"M,TU,W,TH,F13.30-15.30",SLOA 150,May 09--Jun 03,S Amarasiri
 CE,215,Mechanics of Materials,01,03481,3,"M,TU,W,TH,F10.30-11.45",SLOA 9,Jun 20--Jul 29,J Cheng
-CE,302,Introduction to Surveying,01,03483,2,"M,TU,W,TH,F7.30-8.30",SLOA 169,May 09--May 27,K Olsen
-CE,302,Introduction to Surveying,01 Lab,03484,0,"M,TU,W,TH,F8.40-11.10",SLOA 235,May 09--May 27,K Olsen
-CE,302,Introduction to Surveying,02 Lab,03485,0,"M,TU,W,TH,F11.30-14",SLOA 235,May 09--May 27,K Olsen
+CE,302,Introduction to Surveying,01,03483,2,"M,TU,W,TH,F9.10-10",SLOA 169,May 09--May 27,K Olsen
+CE,302,Introduction to Surveying,01 Lab,03484,0,"M,TU,W,TH,F10.10-12.40",SLOA 235,May 09--May 27,K Olsen
+CE,302,Introduction to Surveying,02 Lab,03485,0,"M,TU,W,TH,F13-15.30",SLOA 235,May 09--May 27,K Olsen
 CE,414,Structural Design Loads and Load Paths,01,03486,3,"M,TU,W,TH,F9-11",SLOA 167,May 09--Jun 03,A Manawadu
 CE,463,Engineering Administration,01,03482,3,"M,TU,W,TH,F14.10-16.40",SLOA 169,May 09--May 27,R Petersen
 CE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
@@ -116,16 +116,17 @@ CHEM,105,[PSCI] Principles of Chemistry I,"","","","TU,TH13-16",ARR ARR,"",""
 CHEM,105,[PSCI] Principles of Chemistry I,02 Lab,03310,0,"TU,TH12-12.50",TROY G0005,May 09--Jun 26,""
 CHEM,105,[PSCI] Principles of Chemistry I,"","","","TU,TH13-16",ARR ARR,"",""
 CHEM,106,Principles of Chemistry II,01,03311,4,"M,TU,W,TH,F10.30-11.35",TODD 133,Jun 27--Aug 14,L Scudiero
-CHEM,106,Principles of Chemistry II,01 Lab,03312,0,"TU,TH12-12.50",GUC TBS,Jun 27--Aug 14,""
+CHEM,106,Principles of Chemistry II,01 Lab,03312,0,"TU,TH12-12.50",TODD 301,Jun 27--Aug 14,""
 CHEM,106,Principles of Chemistry II,"","","","TU,TH13-15",ARR ARR,"",""
-CHEM,106,Principles of Chemistry II,02 Lab,03313,0,"TU,TH12-12.50",GUC TBS,Jun 27--Aug 14,""
+CHEM,106,Principles of Chemistry II,02 Lab,03313,0,"TU,TH12-12.50",THOM 209,Jun 27--Aug 14,""
 CHEM,106,Principles of Chemistry II,"","","","TU,TH13-15",ARR ARR,"",""
 CHEM,345,Organic Chemistry I,01,03315,4,"M,TU,W,TH,F10.30-11.35",ABEL 201,May 09--Jun 26,R Joseph
 CHEM,345,Organic Chemistry I,01 Lab,03316,0,"W,TH12-14.45",FLMA 438,May 09--Jun 26,""
 CHEM,345,Organic Chemistry I,02 Lab,03317,0,"W,TH12-14.45",FLMA 438,May 09--Jun 26,""
+CHEM,345,Organic Chemistry I,03 Lab,03318,0,"W,TH12-14.45",FLMA 438,May 09--Jun 26,""
 CHEM,348,Organic Chemistry II and Problem Solving,01,03320,4,"M,TU,W,TH,F10.30-11.35",SPRK 227,Jun 27--Aug 14,R Joseph
-CHEM,348,Organic Chemistry II and Problem Solving,01 Lab,03321,0,"TU,W13-15",GUC TBS,Jun 27--Aug 14,""
-CHEM,348,Organic Chemistry II and Problem Solving,02 Lab,03322,0,"TU,W13-15",GUC TBS,Jun 27--Aug 14,""
+CHEM,348,Organic Chemistry II and Problem Solving,01 Lab,03321,0,"TU,W13-15",THOM 209,Jun 27--Aug 14,""
+CHEM,348,Organic Chemistry II and Problem Solving,02 Lab,03322,0,"TU,W13-15",THOM 215,Jun 27--Aug 14,""
 COM,101,[SSCI] Media and Society,01,04850,3,"M,TU,W,TH,F10.35-11.50",SPRK 333,Jun 20--Jul 31,H Seo
 COM,105,[HUM] Communication in Global Contexts,01,03210,3,"M,TU,W,TH,F12.05-13.20",SPRK 223,Jun 20--Jul 31,B Mendonca Lins Caldas
 COM,471,[CAPS] Stereotypes in Communication,01,03141,3,"M,TU,W,TH,F12.05-13.20",MURR 242,Jun 20--Jul 31,A Vishnevskaya
@@ -211,7 +212,7 @@ ECONS,101,[SSCI] Fundamentals of Microeconomics,01,03043,3,"M,TU,W,TH,F13.30-14.
 ECONS,101,[SSCI] Fundamentals of Microeconomics,02,03216,3,"M,TU,W,TH,F9-10.15",SPRK G0045,Jun 20--Jul 31,K Awad
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,03044,3,"M,TU,W,TH,F10.30-11.45",TODD 413,May 09--Jun 19,I Choi
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,02,03217,3,"M,TU,W,TH,F12-13.15",TODD 302,Jun 20--Jul 31,M Mahoney
-ECONS,305,Intermediate Microeconomics without Calculus,01,03045,3,"M,TU,W,TH,F9-10.15",SPRK 323,May 09--Jun 19,W Sugiarto
+ECONS,305,Intermediate Microeconomics without Calculus,01,03045,3,"M,TU,W,TH,F9-10.15",SPRK 323,May 09--Jun 19,Y Zhang
 ECONS,327,International Trade and Finance,01,03151,3,"M,TU,W,TH,F12-13.15",WLSH 13,May 09--Jun 19,M Gibson
 ECONS,430,Managing the Global Environment,01,03046,3,"M,TU,W,TH,F10.30-11.45",TODD 204,May 09--Jun 19,A Salimgarieva
 ECONS,495,Instructional Practicum,01,"",V,ARRGT,ARR ARR,May 09--Jun 19,M Gibson
@@ -277,7 +278,7 @@ ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",07,02758,V,ARRGT
 ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",08,02759,V,ARRGT,ARR ARR,May 09--Jul 29,W Snyder
 ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",09,02760,V,ARRGT,ARR ARR,May 09--Jul 29,D Walsh
 ENTOM,800,"Doctoral Research, Dissertation, and/or Examination",10,02761,V,ARRGT,ARR ARR,May 09--Jul 29,R Zack
-ENTRP,496,[M] Special Topics,01,"",V,"M,W9-10.15",SLOA 163,Jun 20--Jul 29,T Reiss
+ENTRP,496,[M] Special Topics,01,"",V,"M,W9-10.15",BOAD 280,Jun 20--Jul 29,T Reiss
 ENTRP,496,[M] Special Topics,02,"",V,"TU,TH9-10.15",SLOA 163,Jun 20--Jul 31,T Reiss
 FIN,223,[QUAN] Personal Finance,01,03197,3,"M,TU,W,TH,F10.30-11.45",TODD 211,May 09--Jun 19,C Williamson
 FIN,325,Introduction to Financial Management,01,03090,3,"M,TU,W,TH,F13.30-14.45",TODD 413,May 09--Jun 19,H Cheng
@@ -368,10 +369,12 @@ HUMANITY,103,[HUM] Mythology,01,03180,3,"M,TU,W,TH,F10.30-11.45",THOM 119,May 09
 I_BUS,380,International Business,03,"",3,ARRGT,ARR ARR,May 13--Jun 19,J Sandstrom
 I_BUS,435,International Tourism,03,"",3,ARRGT,ARR ARR,May 09--Jun 19,""
 I_BUS,482,[M] International Marketing,01,03709,3,"M,TU,W,TH,F12-13.15",SPRK 335,Jun 20--Jul 31,A Donnadieu
-I_BUS,496,Special Topics,02,"",V,ARRGT,ARR ARR,May 11--Jun 18,J Gramlich
+I_BUS,496,Special Topics,02,"",1,ARRGT,ARR ARR,May 11--Jun 18,J Gramlich
 I_BUS,498,International Business Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,J Joireman
 I_D,490,Cooperative Education Internship,01,02932,V,ARRGT,ARR ARR,May 09--Jul 29,R Krikac
 I_D,594,Readings in Interior Design,01,05380,3,ARRGT,ARR ARR,May 09--Jul 29,R Krikac
+I_D,702,"Master's Special Problems, Directed Study and/or Examination",01,05439,V,ARRGT,ARR ARR,May 09--Jul 29,""
+ISE,300,INTRN'L EXCH,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 KIN_ACTV,109,Beginning Golf,01,03722,1,"M,TU,W,TH10-11.15",ARR ARR,May 09--Jun 19,K Tucker
 KIN_ACTV,112,Beginning Weight Training,01,03723,1,"M,TU,W,TH9-10.15",PEB 30,May 09--Jun 19,E Washburn
 KIN_ACTV,118,Yoga,01,03724,1,"M,TU,W,TH7.30-8.45",PEB 145,May 09--Jun 26,A Lampe
@@ -396,7 +399,7 @@ KINES,499,Special Problems,01,02467,V,ARRGT,ARR ARR,May 09--Jun 19,""
 KINES,536,Methods of Health and Physical Education,01,03633,2,"M,W,F8-10.05",SPRK 212,May 09--Jun 03,P Morgan
 LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,02933,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 MATH,103,Algebra Methods and Introduction to Functions,01,03069,3,"M,TU,W,TH,F10.30-11.45",BUST 145,May 09--Jun 19,D Baral
-MATH,103,Algebra Methods and Introduction to Functions,02,03537,3,"M,TU,W,TH,F9-10.15",GUC TBS,Jun 27--Jul 29,J Widen
+MATH,103,Algebra Methods and Introduction to Functions,02,03537,3,"M,TU,W,TH,F9-10.15",SPRK 327,Jun 27--Jul 29,J Widen
 MATH,106,College Algebra,01,03071,3,"M,TU,W,TH,F13.30-14.45",TODD 434,May 09--Jun 19,I Hewage
 MATH,106,College Algebra,02,03223,3,"M,TU,W,TH,F9-10.15",TODD 133,Jun 20--Jul 31,D Rice
 MATH,108,Trigonometry,01,03634,2,"M,TU,W,TH,F9-10.15",ABEL 201,May 09--Jun 03,C Jacobs
@@ -431,6 +434,7 @@ MBIOS,304,Microbiology and Molecular Biology Laboratory,01 Lab,03641,0,"TU,W,TH,
 MBIOS,495,Internship Training,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 MBIOS,498,Directed Research,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 MBIOS,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
+MBIOS,700,"Master's Research, Thesis, and/or Examination",01,02476,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 MBIOS,701,Master's Independent Capstone Project and /or Examination,01,02951,V,ARRGT,ARR ARR,May 09--Jul 29,N Mccabe
 MBIOS,702,"Master's Special Problems, Directed Study, and/or Examination",01,02477,V,ARRGT,ARR ARR,May 09--Jul 29,""
 MBIOS,800,"Doctoral Research, Dissertation, and/or Examination",01,02478,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
@@ -450,8 +454,8 @@ ME,301,Fundamentals of Thermodynamics,01,03353,3,"M,TU,W,TH,F13.30-14.45",SPRK 3
 ME,303,Fluid Mechanics,01,03419,3,"M,TU,W,TH,F12-13.15",SPRK 335,May 09--Jun 19,""
 ME,304,Heat Transfer,01,03420,3,"M,TU,W,TH,F13.30-14.45",SPRK 335,Jun 20--Jul 31,""
 ME,306,Thermal and Fluids Laboratory,01,03716,2,"TU,W,TH,F9-9.50",CARP 102,May 09--Jun 03,""
-ME,306,Thermal and Fluids Laboratory,01 Lab,03717,0,"TU,W,TH,F9.15-12",ETRL 226,May 09--Jun 03,""
-ME,306,Thermal and Fluids Laboratory,02 Lab,05396,0,"TU,W,TH,F13-15.50",ETRL 226,May 09--Jun 03,""
+ME,306,Thermal and Fluids Laboratory,01 Lab,03717,0,"TU,W,TH,F10-12.30",ETRL 226,May 09--Jun 03,""
+ME,306,Thermal and Fluids Laboratory,02 Lab,05396,0,"TU,W,TH,F12.30-15",ETRL 226,May 09--Jun 03,""
 ME,312,Manufacturing Engineering,01,03711,3,"M,TU,W,TH,F12-13.15",SLOA 161,Jul 04--Jul 29,""
 ME,312,Manufacturing Engineering,01 Lab,03712,0,"TU,W,TH,F7.30-10.20",ETRL 25,Jul 04--Jul 29,""
 ME,312,Manufacturing Engineering,02 Lab,05398,0,"TU,W,TH,F15.10-18",ETRL 25,Jul 04--Jul 29,""
@@ -476,7 +480,7 @@ MIT,501,Learning and Development in School and Community Contexts,01,03649,3,"M,
 MIT,502,Assessment for Teaching and Learning,01,03584,3,"M,TU,W,TH12-14.20",SPRK 233,Jun 06--Jul 01,R Mincks
 MIT,506,Integrating Technology into Classroom Teaching,01,03650,V,"M,W,F8-10.05",SPRK 233,May 09--Jun 03,D Mcmahon
 MIT,507,Teacher Inquiry and Praxis,01,03326,3,"TU,TH9-12",EDAD 112,May 09--Jun 17,J Lupinacci
-MIT,508,Curriculum and Instruction Methods,01,03651,3,"M,TU,W,TH9-11.20",SPRK 223,Jul 05--Jul 29,""
+MIT,508,Curriculum and Instruction Methods,01,03651,3,"M,TU,W,TH9-11.20",SPRK 223,Jul 05--Jul 29,M Coulter
 MIT,531,Literacy Development I,01,03581,3,"M,TU,W,TH12-14.20",SPRK 233,Jul 05--Jul 29,K Smith
 MIT,535,Integrating Fine Arts into K-8 Curriculum,01,03652,2,"M,W,F15-17.05",EDAD 110,May 09--Jun 03,K Emerson
 MIT,551,Literacy within the Disciplines,01,03577,3,"M,TU,W,TH12-14.20",SPRK 333,Jul 05--Jul 29,P Provinsal
@@ -494,7 +498,8 @@ MKTG,600,Special Projects or Independent Study,01,02963,V,ARRGT,ARR ARR,May 09--
 MKTG,702,"Master's Special Problems, Directed Study, and/or Examination",01,02964,V,ARRGT,ARR ARR,May 09--Jul 29,E Howlett
 MKTG,800,"Doctoral Research, Dissertation, and/or Examination",01,02965,V,ARRGT,ARR ARR,May 09--Jul 29,E Howlett
 MSE,201,Materials Engineering Fundamentals,01,03230,3,"M,TU,W,TH,F10.30-11.45",SPRK 233,May 09--Jun 19,""
-MSE,302,Electronic Materials,01,03683,3,"M,TU,W,TH,F9-10.15",SLOA 175,Jun 20--Jul 31,""
+MSE,241,Engineering Computations,01,05440,3,"M,TU,W,TH,F8-9.15",SPRK 333,May 09--Jun 19,""
+MSE,302,Electronic Materials,01,03683,3,"M,TU,W,TH,F9-10.15",EME B0046,Jun 20--Jul 31,""
 MSE,600,Special Projects or Independent Study,01,02569,V,ARRGT,ARR ARR,May 09--Jul 29,""
 MSE,700,"Master's Research, Thesis, and/or Examination",01,02570,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,"",3,"M,TU,W,TH,F13-14.15",KIMB 110,Jun 20--Jul 31,A Agulay
@@ -525,7 +530,7 @@ PHYSICS,702,"Master's Special Problems, Directed Study and/or Examination",01,02
 PHYSICS,800,"Doctoral Research, Dissertation, and/or Examination",01,02499,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 PL_P,499,Special Problems,01,"",1,ARRGT,ARR ARR,Jul 01--Jul 29,D Weller
 PL_P,512,Topics in Plant Pathology,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
-PL_P,525,Field Plant Pathology and Mycology,01,02610,3,ARRGT,ARR ARR,May 09--Jul 29,L Du Toit
+PL_P,525,Field Plant Pathology and Mycology,01,02610,3,ARRGT,ARR ARR,Jun 13--Jul 29,L Du Toit
 PL_P,700,"Master's Research, Thesis, and/or Examination",01,02712,V,ARRGT,ARR ARR,May 09--Jul 29,G Chastagner
 PL_P,700,"Master's Research, Thesis, and/or Examination",02,02713,V,ARRGT,ARR ARR,May 09--Jul 29,W Chen
 PL_P,700,"Master's Research, Thesis, and/or Examination",03,02500,V,ARRGT,ARR ARR,May 09--Jul 29,X Chen
@@ -566,6 +571,7 @@ PL_P,800,"Doctoral Research, Dissertation, and/or Examination",19,02745,V,ARRGT,
 PL_P,800,"Doctoral Research, Dissertation, and/or Examination",20,02863,V,ARRGT,ARR ARR,May 09--Jul 29,G Vandemark
 PL_P,800,"Doctoral Research, Dissertation, and/or Examination",21,02864,V,ARRGT,ARR ARR,May 09--Jul 29,D Weller
 POL_S,381,Crime and Justice in the Movies,01,03605,3,"M,TU,W,TH12-15",TDAD 276,May 09--Jun 05,E Magana
+POL_S,381,Crime and Justice in the Movies,01 Lab,03606,0,ARRGT,ARR ARR,May 09--Jul 29,E Magana
 POL_S,497,Political Science Internship,02,"",V,ARRGT,ARR ARR,May 09--Jun 19,R Elgar
 POL_S,497,Political Science Internship,03,"",V,ARRGT,ARR ARR,Jun 20--Jul 31,R Elgar
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,02506,V,ARRGT,ARR ARR,May 09--Jul 29,""
@@ -650,6 +656,7 @@ TCH_LRN,700,"Master's Research, Thesis, and/or Examination",01,02531,V,ARRGT,ARR
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,02532,V,ARRGT,ARR ARR,May 09--Jul 29,""
 TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,02533,V,ARRGT,ARR ARR,May 09--Jul 29,""
 UNIV,110,Developing Academic Strategies for Reading and Writing,01,"",4,"M,TU,W,TH16.10-17",CLAR 147,May 09--Jul 29,D Hinkle
+UNIV,301,Career Exploration and Professional Development,01,"",1,TU10.35-11.50,SPRK 327,May 09--Jul 29,M Kiel
 UNIV,398,Internship,01,03754,V,ARRGT,ARR ARR,May 09--Jul 29,J Hopkins
 VET_MICR,499,Special Problems,01,02535,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 VET_MICR,541,Advanced Diagnostic Microbiology,01,02536,1,ARRGT,ARR ARR,May 09--Jul 29,""

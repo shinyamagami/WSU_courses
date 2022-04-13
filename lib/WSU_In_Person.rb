@@ -245,19 +245,19 @@ module WSUInPerson
 
       case this_month
 
-      when 1, 2
+      when 2, 3
         semesters.push(time.year.to_s+"1")
 
-      when 3, 4
+      when 4, 5
         semesters.push(time.year.to_s+"2")
 
-      when 5, 6, 7
+      when 6, 7
         semesters.push(time.year.to_s+"2", time.year.to_s+"3")
 
-      when 8, 9, 10
+      when 8, 9, 10, 11
         semesters.push(time.year.to_s+"3")
 
-      when 11, 12
+      when 12, 1
         semesters.push(time.year.to_s+"3", (time.year+1).to_s+"1")
 
       end
