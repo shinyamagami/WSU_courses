@@ -22,7 +22,7 @@ BIOLOGY,486,[M] Marine Invertebrate Communities,"","","",TH12.45-15.45,VECS 120,
 BIOLOGY,486,[M] Marine Invertebrate Communities,01 Lab,04932,0,ARRGT,ARR ARR,May 09--Jun 19,M Berger
 BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 CHEM,106,Principles of Chemistry II,01,01286,4,"M,W12.50-15.20",VSCI 19,Jun 06--Jul 29,E Valente
-CHEM,106,Principles of Chemistry II,01 Lab,01287,0,TU12.50-17.50,VCLS 50,Jun 06--Jul 29,""
+CHEM,106,Principles of Chemistry II,01 Lab,01287,0,TU12.50-17.50,VCLS 50,Jun 06--Jul 29,E Valente
 CHEM,345,Organic Chemistry I,01,01288,4,"TU,TH,F11-12.35",VLIB 260,May 09--Jul 01,A Otoikhian
 CHEM,345,Organic Chemistry I,01 Lab,01289,0,TH13.30-18.30,VCLS 50,May 09--Jul 01,A Otoikhian
 COM,101,[SSCI] Media and Society,01,01102,3,"TU,TH11-12.15",VLIB 261,May 09--Jun 19,M Levan
@@ -37,9 +37,6 @@ CS,426,Applied Systems Security,01,04919,3,"TU,TH,F12.20-14.35",VECS 105,May 09-
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,01131,3,"M,W11-14.20",VCLS 224,May 09--Jun 19,R Snyder
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,04883,3,"M,W11-14.20",VMMC 111,Jun 20--Jul 31,E Mcdonald
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,01132,3,"M,W14.30-17.50",VMMC 111,May 09--Jun 19,C Dreger
-DTC,209,Introduction to Data Visualization,01,04884,3,"M,W14.30-17.50",VMMC 23,May 09--Jun 19,R Snyder
-DTC,335,3D Digital Animation,01,05031,3,"M,W18-21.20",VMMC 111,May 09--Jun 19,C Pien
-DTC,335,3D Digital Animation,01 Lab,05036,0,ARRGT,ARR ARR,May 09--Jun 19,C Pien
 DTC,354,[ARTS] [M] Digital Storytelling,01,01134,3,"TU,TH11-14.20",VMMC 111,Jun 20--Jul 29,W Luers
 DTC,355,[M] Multimedia Authoring,01,04886,3,"TU,TH14.30-17.50",VMMC 111,Jun 20--Jul 31,W Luers
 DTC,475,[DIVR] Digital Diversity,01,04966,3,"M,W11-14.20",VUB 222,May 09--Jun 19,""
@@ -98,6 +95,10 @@ MATH,273,Calculus III,01,04898,2,"M,TU,W,TH11-12.05",VMMC 214,May 09--Jun 19,O R
 MATH,300,Mathematical Computing,01,04900,3,"M,TU,W,TH14.30-16.05",VMMC 214,Jun 20--Jul 31,""
 MATH,303,[M] Geometry for the Middle School Teacher,01,01136,3,"TU,TH11.10-13.30",VECS 125,May 09--Jun 19,J Thomas Zapata
 MATH,315,Differential Equations,01,01141,3,"M,TU,W,TH9.15-10.50",VMMC 214,Jun 20--Jul 29,O Rumyantseva
+MATH,440,Applied Mathematics I: PDEs,01,01320,3,"M,TU,W,TH,F10.10-11.25",VECS 209,May 09--Jun 19,S Lapin
+MATH,448,Numerical Analysis,01,01319,3,"M,TU,W,TH,F12-13.15",VECS 209,May 09--Jun 19,S Lapin
+MATH,540,Applied Mathematics I: PDEs,01,05450,3,"M,TU,W,TH,F10.10-11.25",VECS 209,May 09--Jun 19,S Lapin
+MATH,548,Numerical Analysis,01,05451,3,"M,TU,W,TH,F12-13.15",VECS 209,May 09--Jun 19,S Lapin
 MECH,211,Statics,01,05388,3,"M,TU,W,TH9-10.35",VECS 104,Jun 20--Jul 31,H Rad
 MECH,212,Dynamics,01,05390,3,"M,TU,W,TH11-12.35",VECS 104,Jun 20--Jul 31,H Rad
 MED_CLIN,521,Longitudinal Integrated Clerkship I,01,01181,8,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowen

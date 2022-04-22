@@ -3,7 +3,9 @@ ACCTG,230,Introduction to Financial Accounting,01,03794,3,ARRGT,ARR ARR,Jun 27--
 ACCTG,230,Introduction to Financial Accounting,02,03797,3,ARRGT,ARR ARR,Jun 27--Aug 14,N Pearson
 ACCTG,231,Introduction to Managerial Accounting,01,03789,3,ARRGT,ARR ARR,May 09--Jun 26,N Pearson
 ACCTG,231,Introduction to Managerial Accounting,02,03791,3,ARRGT,ARR ARR,May 09--Jun 26,N Pearson
+ACCTG,231,Introduction to Managerial Accounting,03,03800,3,ARRGT,ARR ARR,May 09--Jun 26,N Pearson
 ACCTG,330,Intermediate Accounting I,01,03795,3,ARRGT,ARR ARR,Jun 27--Aug 14,J Porter
+ACCTG,330,Intermediate Accounting I,02,03796,3,ARRGT,ARR ARR,Jun 27--Aug 14,J Porter
 ACCTG,335,Taxation of Business Entities and Individuals,01,03790,3,ARRGT,ARR ARR,May 09--Jun 26,B Holbrook
 ACCTG,335,Taxation of Business Entities and Individuals,02,03792,3,ARRGT,ARR ARR,May 09--Jun 26,B Holbrook
 ACCTG,335,Taxation of Business Entities and Individuals,03,03793,3,ARRGT,ARR ARR,May 09--Jun 26,B Holbrook
@@ -79,6 +81,7 @@ B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",05,02
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",10,02203,1,ARRGT,ARR ARR,Jun 27--Aug 14,G Mader
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",11,02204,1,ARRGT,ARR ARR,Jun 27--Aug 14,G Mader
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",12,02205,1,ARRGT,ARR ARR,Jun 27--Aug 14,G Mader
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",13,02206,1,ARRGT,ARR ARR,Jun 27--Aug 14,""
 B_LAW,210,Law and the Legal Environment of Business,01,03801,3,ARRGT,ARR ARR,May 09--Jun 26,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,02,03802,3,ARRGT,ARR ARR,May 09--Jun 26,S Bergstedt
 BIO_ENG,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
@@ -102,8 +105,9 @@ BIOLOGY,405,Principles of Organic Evolution,01,01864,3,ARRGT,ARR ARR,May 09--Jul
 BIOLOGY,405,Principles of Organic Evolution,01 Lab,01867,0,ARRGT,ARR ARR,May 09--Jul 29,L Cook
 CAS,400,End-of-Program Evaluation Portfolio,01,"",1,ARRGT,ARR ARR,May 09--Jul 29,A Rocha
 CAS,410,[CAPS] Interdisciplinary Approaches to the University,01,02054,3,ARRGT,ARR ARR,Jun 20--Jul 31,A Ramirez Mendez
-CAS,497,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,K Jennings
+CAS,497,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CES,101,[DIVR] Race and Racism in the United States,01,01986,3,ARRGT,ARR ARR,May 09--Jun 19,A Romero
+CES,171,[SSCI] Introduction to Indigenous Studies,01,05458,3,ARRGT,ARR ARR,Jun 20--Jul 31,K Serrott
 CES,209,[HUM] Hip Hop Around the Globe,01,01979,3,ARRGT,ARR ARR,May 09--Jun 19,M Cook
 CES,271,[HUM] Native Music of North America,01,02057,3,ARRGT,ARR ARR,May 09--Jun 03,M Parkhurst
 CES,271,[HUM] Native Music of North America,02,01923,3,ARRGT,ARR ARR,Jul 30--Aug 21,M Parkhurst
@@ -140,7 +144,6 @@ COMJOUR,333,[M] Reporting Across Platforms,02,02116,3,ARRGT,ARR ARR,May 09--Jun 
 COMJOUR,333,[M] Reporting Across Platforms,03,02140,3,ARRGT,ARR ARR,Jun 20--Jul 31,T Simmons
 COMSTRAT,301,Foundations of Persuasion,01,04846,3,ARRGT,ARR ARR,May 09--Jul 29,W Peng
 COMSTRAT,310,Digital Content Promotion,01,02124,3,ARRGT,ARR ARR,May 09--Jul 29,E Price
-COMSTRAT,310,Digital Content Promotion,02,02139,3,ARRGT,ARR ARR,May 09--Jul 29,M Galey
 COMSTRAT,312,Principles of Public Relations,01,02112,3,ARRGT,ARR ARR,May 09--Jun 19,J Willoughby
 COMSTRAT,380,Advertising Principles and Practices,01,02089,3,ARRGT,ARR ARR,May 09--Jul 29,K Lee
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,02092,3,ARRGT,ARR ARR,Jun 20--Jul 31,B Pingel
@@ -189,15 +192,17 @@ E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,05040,3,"
 E_M,522,Leading People and Organizations,01,05353,3,"M,W17.15-19.45","",May 09--Jul 01,R Cameron
 E_M,564,Project Management,01,02174,3,"TU,TH17.15-19.45","",May 09--Jul 01,K Bachman
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,05041,3,"M,W18.15-20.45","",May 09--Jul 01,D Paulus
-ECONS,101,[SSCI] Fundamentals of Microeconomics,01,01734,3,ARRGT,ARR ARR,May 09--Jul 29,""
+ECONS,101,[SSCI] Fundamentals of Microeconomics,01,01734,3,ARRGT,ARR ARR,May 09--Jul 29,K Awad
 ECONS,101,[SSCI] Fundamentals of Microeconomics,02,01760,3,ARRGT,ARR ARR,Jul 30--Aug 21,I Aiyetan
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,01735,3,ARRGT,ARR ARR,May 09--Jul 29,N Nguyen
 ECONS,301,Intermediate Microeconomic Theory with Calculus,01,01757,4,ARRGT,ARR ARR,May 09--Jul 29,S Khanal
 ECONS,305,Intermediate Microeconomics without Calculus,01,01747,3,ARRGT,ARR ARR,May 09--Jul 29,D Barai
+ECONS,311,[M] Introductory Econometrics,01,05447,3,ARRGT,ARR ARR,May 09--Jul 29,""
 ECONS,320,Money and Banking,01,01736,3,ARRGT,ARR ARR,May 09--Jul 29,W King
 ECONS,321,Economics of Sports in America,01,01749,3,ARRGT,ARR ARR,May 09--Jul 29,N Nahar
-ECONS,327,International Trade and Finance,01,01750,3,ARRGT,ARR ARR,May 09--Jul 29,G Shakil
+ECONS,327,International Trade and Finance,01,01750,3,ARRGT,ARR ARR,May 09--Jul 29,M Gibson
 ECONS,404,Economics for Managers,01,01774,3,ARRGT,ARR ARR,May 09--Jun 19,K Odongo
+ECONS,452,[M] Advanced Business Management Economics,01,05446,3,ARRGT,ARR ARR,May 09--Jul 29,A Salimgarieva
 ENGLISH,101,[WRTG] College Composition,01,01845,3,ARRGT,ARR ARR,May 09--Jul 29,J Padilla
 ENGLISH,101,[WRTG] College Composition,02,01869,3,ARRGT,ARR ARR,May 09--Jul 29,J Trinh
 ENGLISH,101,[WRTG] College Composition,03,01871,3,ARRGT,ARR ARR,May 09--Jul 29,W Richards
@@ -221,6 +226,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,06,01835,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,07,01847,3,ARRGT,ARR ARR,May 09--Jul 29,J Staggers
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,08,01848,3,ARRGT,ARR ARR,May 09--Jul 29,R Goodrich
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,09,01859,3,ARRGT,ARR ARR,May 09--Jul 29,W Merck
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,"",3,ARRGT,ARR ARR,May 09--Jul 29,R Sanchez
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,01904,3,ARRGT,ARR ARR,May 09--Jul 29,R Mays
 ENGLISH,419,The Twentieth Century Novel,01,01813,3,ARRGT,ARR ARR,May 09--Jul 29,C Harty
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,R Goodrich
@@ -229,6 +235,7 @@ FIN,223,[QUAN] Personal Finance,01,03803,3,ARRGT,ARR ARR,May 09--Jul 29,C Strong
 FIN,223,[QUAN] Personal Finance,02,03804,3,ARRGT,ARR ARR,May 09--Jul 29,C Strong
 FIN,325,Introduction to Financial Management,01,03805,3,ARRGT,ARR ARR,May 09--Jun 26,Y Ma
 FIN,325,Introduction to Financial Management,02,03806,3,ARRGT,ARR ARR,May 09--Jun 26,Y Ma
+FIN,325,Introduction to Financial Management,03,03807,3,ARRGT,ARR ARR,May 09--Jun 26,Y Ma
 FIN,345,Real Estate,01,03808,3,ARRGT,ARR ARR,May 09--Jun 26,F Benjamin
 FIN,526,Financial Management,01,"",3,ARRGT,ARR ARR,Jun 13--Jul 17,M Reyes
 FIN,526,Financial Management,02,"",3,ARRGT,ARR ARR,Jun 13--Jul 17,M Reyes
@@ -319,10 +326,13 @@ HBM,375,Introduction to Senior Living Management,01,03821,3,ARRGT,ARR ARR,May 09
 HBM,491,Operational Analysis,01,03817,3,ARRGT,ARR ARR,May 09--Jun 26,D Deng
 HBM,495,[CAPS] Case Studies and Research,01,03818,3,ARRGT,ARR ARR,Jun 27--Aug 14,D Gursoy
 HBM,581,Services Management,01,02246,3,ARRGT,ARR ARR,Jun 27--Aug 14,J Kim
+HBM,581,Services Management,02,02247,3,ARRGT,ARR ARR,Jun 27--Aug 14,""
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,01849,3,ARRGT,ARR ARR,May 09--Jun 19,S Edgerton
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,01815,3,ARRGT,ARR ARR,May 09--Jun 19,K Whalen
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,01846,3,ARRGT,ARR ARR,Jun 20--Jul 31,J Dodson
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,04,01872,3,ARRGT,ARR ARR,Jun 20--Jul 31,A Jesch
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,09,05448,3,ARRGT,ARR ARR,May 09--Jun 19,S Fleischer
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,10,05449,3,ARRGT,ARR ARR,Jun 20--Jul 31,G Kraszewski
 HISTORY,120,[DIVR] World History I,01,02002,3,ARRGT,ARR ARR,Jul 30--Aug 21,S Herzog
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,01816,3,ARRGT,ARR ARR,May 09--Jun 19,K Kipers
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,02,01917,3,ARRGT,ARR ARR,Jun 20--Jul 31,C Foss
@@ -338,6 +348,7 @@ HONORS,370,Case Study: Global Issues in Social Sciences,02,02907,3,ARRGT,ARR ARR
 HONORS,380,Case Study: Global Issues in the Arts and Humanities,01,02313,3,ARRGT,ARR ARR,May 09--Jun 19,S Lapin
 HONORS,390,Case Study: Global Issues in the Sciences,01,02311,3,ARRGT,ARR ARR,Jun 20--Jul 31,J Schultz
 HONORS,398,Honors Thesis Proposal Seminar,01,02314,1,ARRGT,ARR ARR,May 09--Jun 19,A Lampman
+HUMANITY,103,[HUM] Mythology,01,01981,3,ARRGT,ARR ARR,May 09--Jun 19,N Idris
 HUMANITY,103,[HUM] Mythology,02,01943,3,ARRGT,ARR ARR,May 09--Jun 19,L Hunter
 HUMANITY,103,[HUM] Mythology,04,05012,3,ARRGT,ARR ARR,Jun 20--Jul 31,A Boyd
 I_BUS,380,International Business,01,03834,3,ARRGT,ARR ARR,Jun 27--Aug 14,M Cicek
@@ -350,17 +361,20 @@ I_BUS,580,International Business Management,11,"",3,ARRGT,ARR ARR,Jul 18--Aug 21
 I_BUS,580,International Business Management,12,"",3,ARRGT,ARR ARR,Jul 18--Aug 21,D Jha
 I_BUS,600,Special Projects or Independent Study,01,"",3,ARRGT,ARR ARR,May 09--Jun 12,V Kolde
 I_BUS,600,Special Projects or Independent Study,03,"",1,ARRGT,ARR ARR,Jun 27--Aug 14,M Reyes
-I_BUS,600,Special Projects or Independent Study,04,"",1,ARRGT,ARR ARR,Jun 27--Aug 14,M Reyes
 IPM,452,Pesticides and the Environment,01,"",3,ARRGT,ARR ARR,May 09--Jul 29,A Felsot
 IPM,552,Pesticides and the Environment,01,01758,3,ARRGT,ARR ARR,May 09--Jul 29,A Felsot
 MATH,103,Algebra Methods and Introduction to Functions,01,01817,3,ARRGT,ARR ARR,May 09--Jul 29,E Sablan
+MATH,103,Algebra Methods and Introduction to Functions,02,01853,3,ARRGT,ARR ARR,May 09--Jul 29,""
 MATH,105,[QUAN] Exploring Mathematics,01,01818,3,ARRGT,ARR ARR,May 09--Jul 29,G Pan
 MATH,106,College Algebra,01,02013,3,ARRGT,ARR ARR,May 09--Jun 19,R Learn
 MATH,108,Trigonometry,01,02014,2,ARRGT,ARR ARR,Jun 20--Jul 31,S Selmi
+MATH,108,Trigonometry,02,05456,2,ARRGT,ARR ARR,May 09--Jul 29,""
+MATH,110,Mathematics Acceleration,01,02053,1,ARRGT,ARR ARR,May 09--Jul 29,J Eld
 MATH,171,[QUAN] Calculus I,01,05033,4,ARRGT,ARR ARR,May 09--Jul 29,N Strigul
 MATH,171,[QUAN] Calculus I,01 Lab,05034,0,ARRGT,ARR ARR,May 09--Jul 29,""
 MATH,201,Mathematics for Business and Economics,01,01842,3,ARRGT,ARR ARR,May 09--Jul 29,D Zhang
 MATH,202,[QUAN] Calculus for Business and Economics,01,01819,3,ARRGT,ARR ARR,May 09--Jul 29,M Morgan
+MATH,202,[QUAN] Calculus for Business and Economics,02,01850,3,ARRGT,ARR ARR,May 09--Jul 29,""
 MBIOS,101,[BSCI] Introductory Microbiology,01,02341,4,ARRGT,ARR ARR,May 09--Jul 01,C Helmick
 MBIOS,101,[BSCI] Introductory Microbiology,01 Lab,02335,0,ARRGT,ARR ARR,May 09--Jul 01,C Helmick
 MBIOS,301,General Genetics,01,02330,4,ARRGT,ARR ARR,May 09--Jul 01,L Lam
@@ -401,6 +415,7 @@ MKTG,360,Marketing,03,03827,3,ARRGT,ARR ARR,Jun 27--Aug 14,B Phifer
 MKTG,360,Marketing,04,03830,3,ARRGT,ARR ARR,Jun 27--Aug 14,B Phifer
 MKTG,407,Consumer Behavior,01,03823,3,ARRGT,ARR ARR,May 09--Jun 26,J Joireman
 MKTG,407,Consumer Behavior,02,03824,3,ARRGT,ARR ARR,May 09--Jun 26,J Joireman
+MKTG,407,Consumer Behavior,03,03831,3,ARRGT,ARR ARR,May 09--Jun 26,J Joireman
 MKTG,495,[M] Marketing Management,01,03828,3,ARRGT,ARR ARR,Jun 27--Aug 14,A Perkins
 MKTG,495,[M] Marketing Management,02,03829,3,ARRGT,ARR ARR,Jun 27--Aug 14,A Perkins
 MKTG,495,[M] Marketing Management,03,03832,3,ARRGT,ARR ARR,Jun 27--Aug 14,A Perkins
@@ -411,6 +426,7 @@ MKTG,577,Promotional Management,04,02252,3,ARRGT,ARR ARR,Jun 27--Aug 14,K Marvel
 MKTG,577,Promotional Management,05,02253,3,ARRGT,ARR ARR,Jun 27--Aug 14,K Marvel
 MKTG,577,Promotional Management,06,02254,3,ARRGT,ARR ARR,Jun 27--Aug 14,K Marvel
 MKTG,577,Promotional Management,07,02255,3,ARRGT,ARR ARR,Jun 27--Aug 14,K Marvel
+MSE,488,Professional Practice Coop/Internship I,01,02179,V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,01933,3,ARRGT,ARR ARR,Jun 20--Jul 31,D Pham
 MUS,262,[ARTS] Rock Music: History and Social Analysis,03,01920,3,ARRGT,ARR ARR,Jul 30--Aug 21,A Miller
 MUS,262,[ARTS] Rock Music: History and Social Analysis,04,02049,3,ARRGT,ARR ARR,May 09--Jun 03,M King
@@ -444,13 +460,15 @@ POL_S,497,Political Science Internship,01,"",V,ARRGT,ARR ARR,May 09--Jun 19,R El
 POL_S,497,Political Science Internship,02,"",V,ARRGT,ARR ARR,Jun 20--Jul 31,R Elgar
 POL_S,498,Public Policy Internship,01,"",V,ARRGT,ARR ARR,May 09--Jun 19,R Elgar
 PSYCH,105,[SSCI] Introductory Psychology,01,01820,3,ARRGT,ARR ARR,May 09--Jul 29,K Hewitt
-PSYCH,110,Introduction to Addiction Studies,01,05360,3,ARRGT,ARR ARR,May 09--Jul 29,""
+PSYCH,110,Introduction to Addiction Studies,01,05360,3,ARRGT,ARR ARR,May 09--Jul 29,Y Chang
 PSYCH,210,Psychology as a Science,01,01857,3,ARRGT,ARR ARR,May 09--Jul 29,A Lambros
 PSYCH,230,Human Sexuality,01,01821,3,ARRGT,ARR ARR,May 09--Jul 29,K Schofield
 PSYCH,265,Biopsychological Effects of Alcohol and Other Drugs,01,01886,3,ARRGT,ARR ARR,May 09--Jul 29,N Glodosky
 PSYCH,311,[QUAN] Statistics in Psychology,01,01822,4,ARRGT,ARR ARR,May 09--Jul 29,A Lau
 PSYCH,312,[M] Research Methods in Psychology,01,01823,4,ARRGT,ARR ARR,May 09--Jul 29,S Johnson
+PSYCH,312,[M] Research Methods in Psychology,02,02028,4,ARRGT,ARR ARR,May 09--Jul 29,M Murphy
 PSYCH,312,[M] Research Methods in Psychology,01 Lab,01824,0,ARRGT,ARR ARR,May 09--Jul 29,S Johnson
+PSYCH,312,[M] Research Methods in Psychology,02 Lab,02029,0,ARRGT,ARR ARR,May 09--Jul 29,M Murphy
 PSYCH,320,Health Psychology,01,01865,3,ARRGT,ARR ARR,May 09--Jul 29,S Boland
 PSYCH,324,Psychology of Gender,01,01825,3,ARRGT,ARR ARR,May 09--Jul 29,A Campagna
 PSYCH,328,[M] Self Control,01,01826,3,ARRGT,ARR ARR,May 09--Jul 29,M Lowe
@@ -514,8 +532,11 @@ SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,May 09--
 SPEC_ED,800,"Doctoral Research, Dissertation, and/or Examination",01,02142,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 SPMGT,101,[DIVR] Sport and Popular Culture: Trends and Issues,01,02160,3,ARRGT,ARR ARR,May 09--Jun 19,T Crawford
 STAT,212,[QUAN] Introduction to Statistical Methods,01,01843,4,ARRGT,ARR ARR,May 09--Jul 29,J Nii-Ayitey
+STAT,212,[QUAN] Introduction to Statistical Methods,02,01851,4,ARRGT,ARR ARR,May 09--Jul 29,""
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,01844,0,ARRGT,ARR ARR,May 09--Jul 29,J Nii-Ayitey
-STAT,360,Probability and Statistics,01,01911,3,ARRGT,ARR ARR,May 09--Jul 29,M Lesperance
+STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,"",0,ARRGT,ARR ARR,May 09--Jul 29,""
+STAT,360,Probability and Statistics,01,01911,3,ARRGT,ARR ARR,May 09--Jul 29,""
+STAT,360,Probability and Statistics,02,05452,3,ARRGT,ARR ARR,May 09--Jul 29,""
 STAT,412,Statistical Methods in Research I,01,01910,3,ARRGT,ARR ARR,May 09--Jul 29,M Hasan
 TCH_LRN,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 TCH_LRN,590,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
