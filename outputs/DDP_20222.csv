@@ -60,7 +60,7 @@ B_A,503,Foundations in Business Law,03,02288,2,ARRGT,ARR ARR,Jun 13--Jul 17,S Be
 B_A,503,Foundations in Business Law,04,02289,2,ARRGT,ARR ARR,Jun 13--Jul 17,S Bergstedt
 B_A,504,Foundations in Finance,01,02302,2,ARRGT,ARR ARR,Jul 18--Aug 21,M Reyes
 B_A,504,Foundations in Finance,02,02303,2,ARRGT,ARR ARR,Jul 18--Aug 21,M Reyes
-B_A,579,MBA Capstone,01,"",3,ARRGT,ARR ARR,May 09--Aug 21,""
+B_A,579,MBA Capstone,01,"",3,ARRGT,ARR ARR,May 09--Aug 21,M Jordan
 B_A,579,MBA Capstone,05,01362,2,ARRGT,ARR ARR,May 09--Aug 21,M Jordan
 B_A,579,MBA Capstone,06,01363,2,ARRGT,ARR ARR,May 09--Aug 21,M Jordan
 B_A,579,MBA Capstone,07,01364,2,ARRGT,ARR ARR,May 09--Aug 21,M Jordan
@@ -93,7 +93,6 @@ BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,04972,4,ARRGT,ARR
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01 Lab,04973,0,ARRGT,ARR ARR,May 09--Jul 29,N Ankrah
 BIOLOGY,140,[BSCI] Introduction to Nutritional Science,01,01804,3,ARRGT,ARR ARR,May 09--Jul 29,L Cook
 BIOLOGY,301,General Genetics,01,02038,4,ARRGT,ARR ARR,May 09--Jul 01,L Lam
-BIOLOGY,307,[DIVR] Biology of Women,01,02023,3,ARRGT,ARR ARR,May 09--Jul 29,L Cook
 BIOLOGY,333,[BSCI] Human Nutrition and Health,01,01908,3,ARRGT,ARR ARR,May 09--Jul 29,N Ankrah
 BIOLOGY,352,Cells,01,01863,3,ARRGT,ARR ARR,May 09--Jul 29,N Ankrah
 BIOLOGY,354,Human Anatomy for Health Occupations,01,02071,4,ARRGT,ARR ARR,May 09--Jul 29,K Biggs
@@ -127,7 +126,6 @@ COM,225,Sports and the Media,01,02087,3,ARRGT,ARR ARR,May 09--Jun 19,B Shors
 COM,300,[M] Writing in Communication,01,02130,3,ARRGT,ARR ARR,May 09--Jun 19,W Raney
 COM,300,[M] Writing in Communication,02,02133,3,ARRGT,ARR ARR,May 09--Jun 19,W Loftus
 COM,300,[M] Writing in Communication,03,02131,3,ARRGT,ARR ARR,Jun 20--Jul 31,T Simmons
-COM,300,[M] Writing in Communication,04,04839,3,ARRGT,ARR ARR,Jun 20--Jul 31,T Simmons
 COM,309,Quantitative Research Methods,01,02113,3,ARRGT,ARR ARR,Jun 20--Jul 31,W Peng
 COM,321,[DIVR] Intercultural Communication,01,02132,3,ARRGT,ARR ARR,May 09--Jun 19,S Pande
 COM,421,[CAPS] Intercultural Communication and Globalization,01,02109,3,ARRGT,ARR ARR,May 09--Jul 29,B Irom
@@ -147,9 +145,7 @@ COMSTRAT,310,Digital Content Promotion,01,02124,3,ARRGT,ARR ARR,May 09--Jul 29,E
 COMSTRAT,312,Principles of Public Relations,01,02112,3,ARRGT,ARR ARR,May 09--Jun 19,J Willoughby
 COMSTRAT,380,Advertising Principles and Practices,01,02089,3,ARRGT,ARR ARR,May 09--Jul 29,K Lee
 COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,01,02092,3,ARRGT,ARR ARR,Jun 20--Jul 31,B Pingel
-COMSTRAT,383,[M] Media Strategies and Techniques for Public Relations,02,02126,3,ARRGT,ARR ARR,Jun 20--Jul 31,M Ritsch
 COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,01,04848,3,ARRGT,ARR ARR,Jun 20--Jul 31,J Barnes
-COMSTRAT,475,Strategic Communication Seminar in Public Relations,01,02121,3,ARRGT,ARR ARR,May 09--Jun 19,L Waananen Jones
 COMSTRAT,476,Consumer Insights and Branding,01,02119,3,ARRGT,ARR ARR,May 09--Jun 19,Y Lee
 COMSTRAT,477,Message Design for Communication Campaigns,01,04847,3,ARRGT,ARR ARR,Jun 20--Jul 31,C Thomas
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,02108,3,ARRGT,ARR ARR,May 09--Jul 29,P Borah
@@ -163,6 +159,7 @@ COMSTRAT,701,Master's Independent Capstone Project and /or Examination,01,02104,
 CPT_S,315,Introduction to Data Mining,01,04967,3,ARRGT,ARR ARR,May 09--Jul 29,A Jillepalli
 CPT_S,427,Computer Security,01,04969,3,ARRGT,ARR ARR,May 09--Jul 29,A Jillepalli
 CPT_S,451,Introduction to Database Systems,01,05352,3,ARRGT,ARR ARR,May 09--Jul 29,A Jillepalli
+CPT_S,527,Computer Security,01,05491,3,ARRGT,ARR ARR,May 09--Jul 29,A Jillepalli
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,01963,3,ARRGT,ARR ARR,May 09--Jun 19,T Kennon
 CRM_J,205,[DIVR] Realizing Justice in a Multicultural Society,01,01931,3,ARRGT,ARR ARR,Jun 20--Jul 31,A Kraft-Duley
 CRM_J,320,Criminal Law,01,01995,3,ARRGT,ARR ARR,May 09--Jun 19,B Solensten
@@ -173,36 +170,33 @@ CRM_J,403,[CAPS] Violence Toward Women,01,01989,3,ARRGT,ARR ARR,May 09--Jun 19,L
 CRM_J,405,[M] Comparative Criminal Justice Systems,01,01951,3,ARRGT,ARR ARR,Jun 20--Jul 31,C Dollar
 CRM_J,450,[M] Senior Seminar: Ethical Issues in Criminal Justice,01,01950,3,ARRGT,ARR ARR,May 09--Jun 19,K Eckert
 CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Keopanapay
-DATA,115,Introduction to Data Analytics,01,02045,3,ARRGT,ARR ARR,May 09--Jun 19,S Lapin
-DATA,390,Special Topics I,01,04956,V,ARRGT,ARR ARR,May 09--Jun 19,S Lapin
-DATA,390,Special Topics I,02,05349,V,ARRGT,ARR ARR,May 09--Jun 19,S Lapin
+CRM_J,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Neuilly
+DATA,115,Introduction to Data Analytics,01,02045,3,ARRGT,ARR ARR,May 09--Jun 19,D Rice
 DATA,498,Internship,02,"",V,ARRGT,ARR ARR,Jun 20--Jul 31,S Lapin
+DATA,498,Internship,03,"",V,ARRGT,ARR ARR,May 09--Jun 19,S Lapin
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,01906,3,ARRGT,ARR ARR,May 09--Jun 19,J Riddle
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,01962,3,ARRGT,ARR ARR,Jun 20--Jul 31,T De Vries
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,01797,3,ARRGT,ARR ARR,May 09--Jun 19,R Gregory
 DTC,201,[ARTS] Tools and Methods for Digital Technology,02,01792,3,ARRGT,ARR ARR,Jun 20--Jul 31,J Earle
 DTC,354,[ARTS] [M] Digital Storytelling,01,02043,3,ARRGT,ARR ARR,May 09--Jun 19,J Sanders
-DTC,354,[ARTS] [M] Digital Storytelling,02,04851,3,ARRGT,ARR ARR,Jun 20--Jul 31,A Becerra
 DTC,355,[M] Multimedia Authoring,01,02041,3,ARRGT,ARR ARR,May 09--Jun 19,R Gregory
 DTC,375,"[M] Language, Texts and Technology",01,02042,3,ARRGT,ARR ARR,Jun 20--Jul 31,N Idris
 DTC,475,[DIVR] Digital Diversity,01,01953,3,ARRGT,ARR ARR,Jun 20--Jul 31,E Fournier
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Styborski
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,05040,3,"M,W18.15-20.45","",May 09--Jul 01,D Paulus
-E_M,522,Leading People and Organizations,01,05353,3,"M,W17.15-19.45","",May 09--Jul 01,R Cameron
+E_M,522,Leading People and Organizations,01,05353,3,"M,W17.15-19.45","",May 09--Jul 01,G Vanek
 E_M,564,Project Management,01,02174,3,"TU,TH17.15-19.45","",May 09--Jul 01,K Bachman
 E_M,570,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,05041,3,"M,W18.15-20.45","",May 09--Jul 01,D Paulus
+E_M,701,Master's Independent Capstone Project and /or Examination,01,05496,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 ECONS,101,[SSCI] Fundamentals of Microeconomics,01,01734,3,ARRGT,ARR ARR,May 09--Jul 29,K Awad
-ECONS,101,[SSCI] Fundamentals of Microeconomics,02,01760,3,ARRGT,ARR ARR,Jul 30--Aug 21,I Aiyetan
+ECONS,101,[SSCI] Fundamentals of Microeconomics,02,01760,3,ARRGT,ARR ARR,Jul 30--Aug 21,M Mahoney
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,01735,3,ARRGT,ARR ARR,May 09--Jul 29,N Nguyen
-ECONS,301,Intermediate Microeconomic Theory with Calculus,01,01757,4,ARRGT,ARR ARR,May 09--Jul 29,S Khanal
 ECONS,305,Intermediate Microeconomics without Calculus,01,01747,3,ARRGT,ARR ARR,May 09--Jul 29,D Barai
-ECONS,311,[M] Introductory Econometrics,01,05447,3,ARRGT,ARR ARR,May 09--Jul 29,""
 ECONS,320,Money and Banking,01,01736,3,ARRGT,ARR ARR,May 09--Jul 29,W King
 ECONS,321,Economics of Sports in America,01,01749,3,ARRGT,ARR ARR,May 09--Jul 29,N Nahar
 ECONS,327,International Trade and Finance,01,01750,3,ARRGT,ARR ARR,May 09--Jul 29,M Gibson
-ECONS,404,Economics for Managers,01,01774,3,ARRGT,ARR ARR,May 09--Jun 19,K Odongo
-ECONS,452,[M] Advanced Business Management Economics,01,05446,3,ARRGT,ARR ARR,May 09--Jul 29,A Salimgarieva
+ECONS,404,Economics for Managers,01,01774,3,ARRGT,ARR ARR,May 09--Jun 19,Y Zhang
 ENGLISH,101,[WRTG] College Composition,01,01845,3,ARRGT,ARR ARR,May 09--Jul 29,J Padilla
 ENGLISH,101,[WRTG] College Composition,02,01869,3,ARRGT,ARR ARR,May 09--Jul 29,J Trinh
 ENGLISH,101,[WRTG] College Composition,03,01871,3,ARRGT,ARR ARR,May 09--Jul 29,W Richards
@@ -228,6 +222,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,08,01848,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,09,01859,3,ARRGT,ARR ARR,May 09--Jul 29,W Merck
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,10,"",3,ARRGT,ARR ARR,May 09--Jul 29,R Sanchez
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,01904,3,ARRGT,ARR ARR,May 09--Jul 29,R Mays
+ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,01905,3,ARRGT,ARR ARR,May 09--Jul 29,D Martin
 ENGLISH,419,The Twentieth Century Novel,01,01813,3,ARRGT,ARR ARR,May 09--Jul 29,C Harty
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,R Goodrich
 ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,01748,3,ARRGT,ARR ARR,May 09--Jul 29,A Felsot
@@ -265,7 +260,7 @@ FIN,526,Financial Management,29,01068,3,ARRGT,ARR ARR,May 09--Jun 26,M Reyes
 FIN,526,Financial Management,30,01069,3,ARRGT,ARR ARR,May 09--Jun 26,M Reyes
 FIN,526,Financial Management,31,01070,3,ARRGT,ARR ARR,May 09--Jun 26,M Reyes
 FIN,526,Financial Management,32,01071,3,ARRGT,ARR ARR,May 09--Jun 26,M Reyes
-FIN,581,International Finance,01,02226,3,ARRGT,ARR ARR,Jun 27--Aug 14,""
+FIN,581,International Finance,01,02226,3,ARRGT,ARR ARR,Jun 27--Aug 14,R Hernandez
 FIN,581,International Finance,02,02227,3,ARRGT,ARR ARR,Jun 27--Aug 14,R Hernandez
 FIN,581,International Finance,03,02228,3,ARRGT,ARR ARR,Jun 27--Aug 14,R Hernandez
 FIN,581,International Finance,04,02229,3,ARRGT,ARR ARR,Jun 27--Aug 14,R Hernandez
@@ -277,7 +272,7 @@ FIN,581,International Finance,09,02234,3,ARRGT,ARR ARR,Jun 27--Aug 14,R Hernande
 FIN,581,International Finance,10,02235,3,ARRGT,ARR ARR,Jun 27--Aug 14,R Hernandez
 FIN,581,International Finance,11,02236,3,ARRGT,ARR ARR,Jun 27--Aug 14,R Hernandez
 FIN,581,International Finance,12,02237,3,ARRGT,ARR ARR,Jun 27--Aug 14,R Hernandez
-FIN,581,International Finance,13,02238,3,ARRGT,ARR ARR,Jun 27--Aug 14,""
+FIN,581,International Finance,13,02238,3,ARRGT,ARR ARR,Jun 27--Aug 14,R Hernandez
 FINE_ART,101,[ARTS] Introduction to Art,01,02058,3,ARRGT,ARR ARR,Jul 18--Aug 12,H Meredith
 FINE_ART,101,[ARTS] Introduction to Art,02,02059,3,ARRGT,ARR ARR,Jul 18--Aug 12,H Meredith
 FINE_ART,102,[ARTS] 2D Art and Design,01,04861,3,ARRGT,ARR ARR,Jun 20--Jul 31,D Janssen
@@ -292,10 +287,9 @@ FINE_ART,361,Special Topics - Drawing,01,04860,V,ARRGT,ARR ARR,May 09--Jun 03,D 
 FINE_ART,363,Special Topics - Digital Media,01,04859,V,ARRGT,ARR ARR,May 09--Jun 03,D Janssen
 FINE_ART,381,Beginning Photography,01,02083,3,ARRGT,ARR ARR,May 09--Jun 03,D Dehart
 FOR_LANG,101,[HUM] Introduction to the World of Languages,01,01970,3,ARRGT,ARR ARR,May 09--Jun 19,M Black
-FOR_LANG,110,[DIVR] Introduction to Global Film,01,01947,3,ARRGT,ARR ARR,May 09--Jun 19,V Navarro-Daniels
+FOR_LANG,110,[DIVR] Introduction to Global Film,01,01947,3,ARRGT,ARR ARR,May 09--Jun 19,B De Quintana Lasa
 FOR_LANG,120,[HUM] Introduction to Foreign Cultures,01,01814,3,ARRGT,ARR ARR,May 09--Jun 19,J Bonzo
 FRENCH,110,[HUM] French/Francophone Film,01,02066,3,ARRGT,ARR ARR,Jun 27--Aug 14,I Webber
-FRENCH,420,[CAPS] French Culture Through Wine,01,02006,3,ARRGT,ARR ARR,May 09--Jun 19,S Davis
 FS,515,Food Fermentations -- Microbiology and Technology,01,01746,3,ARRGT,ARR ARR,May 09--Jul 29,G Unlu
 FS,516,Food Laws,01,01737,2,ARRGT,ARR ARR,May 09--Jul 29,B Acken
 H_D,101,[SSCI] Human Development Across the Lifespan,01,01761,3,ARRGT,ARR ARR,Jun 20--Jul 31,R Cooper
@@ -347,10 +341,10 @@ HONORS,290,Science as a Way of Knowing,01,02310,3,ARRGT,ARR ARR,May 09--Jun 19,J
 HONORS,370,Case Study: Global Issues in Social Sciences,02,02907,3,ARRGT,ARR ARR,Jun 20--Jul 31,B Miller
 HONORS,380,Case Study: Global Issues in the Arts and Humanities,01,02313,3,ARRGT,ARR ARR,May 09--Jun 19,S Lapin
 HONORS,390,Case Study: Global Issues in the Sciences,01,02311,3,ARRGT,ARR ARR,Jun 20--Jul 31,J Schultz
-HONORS,398,Honors Thesis Proposal Seminar,01,02314,1,ARRGT,ARR ARR,May 09--Jun 19,A Lampman
 HUMANITY,103,[HUM] Mythology,01,01981,3,ARRGT,ARR ARR,May 09--Jun 19,N Idris
 HUMANITY,103,[HUM] Mythology,02,01943,3,ARRGT,ARR ARR,May 09--Jun 19,L Hunter
 HUMANITY,103,[HUM] Mythology,04,05012,3,ARRGT,ARR ARR,Jun 20--Jul 31,A Boyd
+HUMANITY,103,[HUM] Mythology,06,"",3,ARRGT,ARR ARR,May 09--Jun 19,K Watts
 I_BUS,380,International Business,01,03834,3,ARRGT,ARR ARR,Jun 27--Aug 14,M Cicek
 I_BUS,380,International Business,02,03835,3,ARRGT,ARR ARR,Jun 27--Aug 14,M Cicek
 I_BUS,380,International Business,03,03836,3,ARRGT,ARR ARR,Jun 27--Aug 14,M Cicek
@@ -364,17 +358,22 @@ I_BUS,600,Special Projects or Independent Study,03,"",1,ARRGT,ARR ARR,Jun 27--Au
 IPM,452,Pesticides and the Environment,01,"",3,ARRGT,ARR ARR,May 09--Jul 29,A Felsot
 IPM,552,Pesticides and the Environment,01,01758,3,ARRGT,ARR ARR,May 09--Jul 29,A Felsot
 MATH,103,Algebra Methods and Introduction to Functions,01,01817,3,ARRGT,ARR ARR,May 09--Jul 29,E Sablan
-MATH,103,Algebra Methods and Introduction to Functions,02,01853,3,ARRGT,ARR ARR,May 09--Jul 29,""
+MATH,103,Algebra Methods and Introduction to Functions,02,01853,3,ARRGT,ARR ARR,May 09--Jul 29,S Oje
 MATH,105,[QUAN] Exploring Mathematics,01,01818,3,ARRGT,ARR ARR,May 09--Jul 29,G Pan
 MATH,106,College Algebra,01,02013,3,ARRGT,ARR ARR,May 09--Jun 19,R Learn
+MATH,106,College Algebra,02,05472,3,ARRGT,ARR ARR,May 09--Jun 19,J Carbajal-Moreno
 MATH,108,Trigonometry,01,02014,2,ARRGT,ARR ARR,Jun 20--Jul 31,S Selmi
-MATH,108,Trigonometry,02,05456,2,ARRGT,ARR ARR,May 09--Jul 29,""
-MATH,110,Mathematics Acceleration,01,02053,1,ARRGT,ARR ARR,May 09--Jul 29,J Eld
+MATH,108,Trigonometry,02,05456,2,ARRGT,ARR ARR,Jun 20--Jul 31,R Peffer
+MATH,110,Mathematics Acceleration,01,02053,1,ARRGT,ARR ARR,Jun 27--Jul 29,J Eld
 MATH,171,[QUAN] Calculus I,01,05033,4,ARRGT,ARR ARR,May 09--Jul 29,N Strigul
-MATH,171,[QUAN] Calculus I,01 Lab,05034,0,ARRGT,ARR ARR,May 09--Jul 29,""
+MATH,171,[QUAN] Calculus I,02,05473,4,ARRGT,ARR ARR,May 09--Jul 29,E Thompson
+MATH,171,[QUAN] Calculus I,01 Lab,05034,0,ARRGT,ARR ARR,May 09--Jul 29,N Strigul
+MATH,171,[QUAN] Calculus I,02 Lab,05474,0,ARRGT,ARR ARR,May 09--Jul 29,E Thompson
 MATH,201,Mathematics for Business and Economics,01,01842,3,ARRGT,ARR ARR,May 09--Jul 29,D Zhang
+MATH,201,Mathematics for Business and Economics,02,01873,3,ARRGT,ARR ARR,May 09--Jul 29,D Zhang
 MATH,202,[QUAN] Calculus for Business and Economics,01,01819,3,ARRGT,ARR ARR,May 09--Jul 29,M Morgan
-MATH,202,[QUAN] Calculus for Business and Economics,02,01850,3,ARRGT,ARR ARR,May 09--Jul 29,""
+MATH,202,[QUAN] Calculus for Business and Economics,02,01850,3,ARRGT,ARR ARR,May 09--Jul 29,A Tower
+MATH,202,[QUAN] Calculus for Business and Economics,03,05501,3,ARRGT,ARR ARR,May 09--Jul 29,R Perrier
 MBIOS,101,[BSCI] Introductory Microbiology,01,02341,4,ARRGT,ARR ARR,May 09--Jul 01,C Helmick
 MBIOS,101,[BSCI] Introductory Microbiology,01 Lab,02335,0,ARRGT,ARR ARR,May 09--Jul 01,C Helmick
 MBIOS,301,General Genetics,01,02330,4,ARRGT,ARR ARR,May 09--Jul 01,L Lam
@@ -406,9 +405,11 @@ MGTOP,340,Operations Management,02,03814,3,ARRGT,ARR ARR,Jun 27--Aug 14,C Munson
 MGTOP,340,Operations Management,03,03815,3,ARRGT,ARR ARR,Jun 27--Aug 14,C Munson
 MIS,250,Managing Information Technology,01,03851,3,ARRGT,ARR ARR,Jun 27--Aug 14,J Sarabadani
 MIS,250,Managing Information Technology,02,03850,3,ARRGT,ARR ARR,Jun 27--Aug 14,J Sarabadani
+MIS,250,Managing Information Technology,03,03852,3,ARRGT,ARR ARR,Jun 27--Aug 14,J Sarabadani
 MIS,441,Global E-Commerce,01,03849,3,ARRGT,ARR ARR,May 09--Jun 26,C Torres
 MIS,441,Global E-Commerce,02,03854,3,ARRGT,ARR ARR,May 09--Jun 26,C Torres
 MIS,441,Global E-Commerce,03,03856,3,ARRGT,ARR ARR,May 09--Jun 26,C Torres
+MIS,498,Management Information Systems Internship,01,"",V,ARRGT,ARR ARR,Jun 06--Aug 26,R Crossler
 MKTG,360,Marketing,01,03825,3,ARRGT,ARR ARR,Jun 27--Aug 14,B Phifer
 MKTG,360,Marketing,02,03826,3,ARRGT,ARR ARR,Jun 27--Aug 14,B Phifer
 MKTG,360,Marketing,03,03827,3,ARRGT,ARR ARR,Jun 27--Aug 14,B Phifer
@@ -483,8 +484,9 @@ SHS,201,American Sign Language I,01,04855,4,ARRGT,ARR ARR,May 09--Jun 19,M Ratsc
 SHS,201,American Sign Language I,02,04856,4,ARRGT,ARR ARR,Jul 30--Aug 21,M Ratsch
 SHS,202,American Sign Language II,01,05364,4,ARRGT,ARR ARR,Jun 20--Jul 31,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,01830,3,ARRGT,ARR ARR,May 09--Jul 29,T Familia
+SOC,101,[SSCI] Introduction to Sociology,02,05478,3,ARRGT,ARR ARR,May 09--Jul 29,T Chirume
 SOC,102,[SSCI] Social Problems,01,01839,3,ARRGT,ARR ARR,May 09--Jul 29,S Hoffman
-SOC,245,Sociology of Sport,01,02007,3,ARRGT,ARR ARR,May 09--Jul 29,S Cassidy
+SOC,245,Sociology of Sport,01,02007,3,ARRGT,ARR ARR,May 09--Jul 29,M Weston
 SOC,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,01982,3,ARRGT,ARR ARR,May 09--Jun 19,L Gutierrez
 SOC,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",02,02075,3,ARRGT,ARR ARR,Jun 20--Jul 31,L Carman
 SOC,317,[M] Research Methods in Sociology,01,02047,3,ARRGT,ARR ARR,May 09--Jul 29,J Kremer
@@ -493,12 +495,13 @@ SOC,360,Social Deviance,01,02008,3,ARRGT,ARR ARR,May 09--Jul 29,A Coma
 SOC,367,Juvenile Justice and Corrections,01,01997,3,ARRGT,ARR ARR,May 09--Jun 19,K Runyan
 SOC,368,Drugs and Society,01,02048,3,ARRGT,ARR ARR,May 09--Jul 29,N Ray
 SOC,372,The Sociology of Film,01,01854,3,ARRGT,ARR ARR,May 09--Jul 29,S Lee
+SOC,385,"[DIVR] Introduction to Lesbian, Gay, Bisexual, and Transgender Studies",01,01922,3,ARRGT,ARR ARR,Jul 30--Aug 21,N Shahani
 SOC,418,Human Issues in International Development,01,01800,3,ARRGT,ARR ARR,May 09--Jul 29,R Quinlan
 SOC,493,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 SOC,495,[CAPS] [M] Internship Capstone,01,"",3,ARRGT,ARR ARR,May 09--Jul 29,S Whitley
 SOE,103,[PSCI] Other Worlds: Comparative Planetology of our Solar System,01,02004,3,ARRGT,ARR ARR,May 09--Jun 26,J Menard
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,01956,4,ARRGT,ARR ARR,May 09--Jun 26,K Whitman
-SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,01957,0,ARRGT,ARR ARR,May 09--Jun 26,K Whitman
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,01956,4,ARRGT,ARR ARR,May 09--Jun 19,K Whitman
+SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,01957,0,ARRGT,ARR ARR,May 09--Jun 19,K Whitman
 SOE,210,[PSCI] Earth's History and Evolution,01,01897,4,ARRGT,ARR ARR,May 09--Jun 26,J Menard
 SOE,210,[PSCI] Earth's History and Evolution,01 Lab,01898,0,ARRGT,ARR ARR,May 09--Jun 26,J Menard
 SOE,300,Natural Resource Ecology,01,01790,3,ARRGT,ARR ARR,May 09--Jul 29,S Woodley
@@ -509,16 +512,15 @@ SOE,544,Environmental Assessment,01,"",3,ARRGT,ARR ARR,May 09--Jun 19,K Whitman
 SOIL_SCI,498,Professional Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,J Reganold
 SPANISH,101,First Semester,01,01832,4,ARRGT,ARR ARR,May 09--Jun 19,M Previto
 SPANISH,102,Second Semester,01,01833,4,ARRGT,ARR ARR,Jun 20--Jul 31,A Hussein
-SPANISH,111,[ARTS] Latin American Film,01,05431,3,ARRGT,ARR ARR,Jul 30--Aug 21,V Navarro-Daniels
 SPANISH,306,Intermediate Reading and Translation,01,02055,3,ARRGT,ARR ARR,May 09--Jul 29,C Shull
-SPANISH,311,[ARTS] Latin American Film,01,02062,3,ARRGT,ARR ARR,May 09--Jun 19,V Navarro-Daniels
+SPANISH,311,[ARTS] Latin American Film,01,02062,3,ARRGT,ARR ARR,May 09--Jun 19,J Perez Guerrero
 SPEC_ED,301,Education of Exceptional Children,01,02163,3,ARRGT,ARR ARR,May 09--May 27,M Dunn
 SPEC_ED,401,Teaching Students with Disabilities,01,04964,3,ARRGT,ARR ARR,Jun 20--Jul 31,S Van Horn
 SPEC_ED,402,Assessment and Curriculum for Students with Disabilities,01,02151,3,ARRGT,ARR ARR,Jun 20--Jul 31,""
 SPEC_ED,403,Secondary Education for Students with Disabilities,01,02146,3,ARRGT,ARR ARR,May 09--Jun 19,J Thomas
 SPEC_ED,404,Professional Skills in Special Education,01,02147,3,ARRGT,ARR ARR,May 09--Jun 19,A Albagshi
 SPEC_ED,409,Early Childhood Special Education,01,02148,3,ARRGT,ARR ARR,Jun 20--Jul 31,M Itani
-SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,02149,3,ARRGT,ARR ARR,Jun 20--Jul 31,K Sheridan-Stiefel
+SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,02149,3,ARRGT,ARR ARR,Jun 20--Jul 31,C Johnson
 SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,02150,3,ARRGT,ARR ARR,May 09--Jun 19,M Itani
 SPEC_ED,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 SPEC_ED,501,Teaching Students with Disabilities,01,04965,3,ARRGT,ARR ARR,Jun 20--Jul 31,S Van Horn
@@ -526,20 +528,21 @@ SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,02152,3,
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,02153,3,ARRGT,ARR ARR,May 09--Jun 19,J Thomas
 SPEC_ED,504,Professional Skills in Special Education,01,02154,3,ARRGT,ARR ARR,May 09--Jun 19,A Albagshi
 SPEC_ED,509,Early Childhood Special Education,01,02155,3,ARRGT,ARR ARR,Jun 20--Jul 31,M Itani
-SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,02156,3,ARRGT,ARR ARR,Jun 20--Jul 31,K Sheridan-Stiefel
+SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,02156,3,ARRGT,ARR ARR,Jun 20--Jul 31,C Johnson
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,02157,3,ARRGT,ARR ARR,May 09--Jun 19,M Itani
 SPEC_ED,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 SPEC_ED,800,"Doctoral Research, Dissertation, and/or Examination",01,02142,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 SPMGT,101,[DIVR] Sport and Popular Culture: Trends and Issues,01,02160,3,ARRGT,ARR ARR,May 09--Jun 19,T Crawford
 STAT,212,[QUAN] Introduction to Statistical Methods,01,01843,4,ARRGT,ARR ARR,May 09--Jul 29,J Nii-Ayitey
-STAT,212,[QUAN] Introduction to Statistical Methods,02,01851,4,ARRGT,ARR ARR,May 09--Jul 29,""
+STAT,212,[QUAN] Introduction to Statistical Methods,02,01851,4,ARRGT,ARR ARR,May 09--Jul 29,M Yin
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,01844,0,ARRGT,ARR ARR,May 09--Jul 29,J Nii-Ayitey
-STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,"",0,ARRGT,ARR ARR,May 09--Jul 29,""
-STAT,360,Probability and Statistics,01,01911,3,ARRGT,ARR ARR,May 09--Jul 29,""
-STAT,360,Probability and Statistics,02,05452,3,ARRGT,ARR ARR,May 09--Jul 29,""
+STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,01852,0,ARRGT,ARR ARR,May 09--Jul 29,M Yin
+STAT,360,Probability and Statistics,01,01911,3,ARRGT,ARR ARR,May 09--Jul 29,C Choi
+STAT,360,Probability and Statistics,02,05452,3,ARRGT,ARR ARR,May 09--Jul 29,Y Tang
 STAT,412,Statistical Methods in Research I,01,01910,3,ARRGT,ARR ARR,May 09--Jul 29,M Hasan
 TCH_LRN,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 TCH_LRN,590,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
+TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,05544,V,ARRGT,ARR ARR,May 09--Jul 29,D Mcmahon
 UNIV,301,Career Exploration and Professional Development,01,02318,1,ARRGT,ARR ARR,May 09--Jul 29,C Miller
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,J Hopkins
 WGSS,101,"[DIVR] Introduction to Women's, Gender, and Sexuality Studies",01,05005,3,ARRGT,ARR ARR,May 09--Jun 19,H Ramos
@@ -549,11 +552,10 @@ WGSS,230,Human Sexuality,01,04928,3,ARRGT,ARR ARR,May 09--Jul 29,K Schofield
 WGSS,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,05029,3,ARRGT,ARR ARR,May 09--Jun 19,L Gutierrez
 WGSS,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",02,05030,3,ARRGT,ARR ARR,Jun 20--Jul 31,L Carman
 WGSS,305,Gender and Politics,01,05022,3,ARRGT,ARR ARR,May 09--Jun 19,Y Chen
-WGSS,307,[DIVR] Biology of Women,01,05405,3,ARRGT,ARR ARR,May 09--Jul 29,L Cook
 WGSS,316,[DIVR] Gender in Cross Cultural Perspective,01,04984,3,ARRGT,ARR ARR,May 09--Jul 29,C Anderson
 WGSS,324,Psychology of Gender,01,04929,3,ARRGT,ARR ARR,May 09--Jul 29,A Campagna
-WGSS,363,[DIVR] Women in Music,01,03859,3,ARRGT,ARR ARR,Jul 30--Aug 21,S Tegart
-WGSS,363,[DIVR] Women in Music,02,03860,3,ARRGT,ARR ARR,May 09--Jun 19,S Miller
+WGSS,363,[DIVR] Women in Music,01,03860,3,ARRGT,ARR ARR,May 09--Jun 19,S Tegart
+WGSS,363,[DIVR] Women in Music,02,03859,3,ARRGT,ARR ARR,Jul 30--Aug 21,S Miller
 WGSS,385,"[DIVR] Introduction to Lesbian, Gay, Bisexual, and Transgender Studies",01,04994,3,ARRGT,ARR ARR,Jul 30--Aug 21,N Shahani
 WGSS,403,[CAPS] Violence Toward Women,02,05397,3,ARRGT,ARR ARR,May 09--Jun 19,L Reddy
 WRIT,302,Advanced Writing Collaborative,01,02320,1,ARRGT,ARR ARR,May 09--Jul 29,T Holland

@@ -1,8 +1,6 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
-ACCTG,498,Accounting Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,L Xu
-ANTH,101,[DIVR] Introduction to Anthropology,01,01111,3,"M,W,F12.20-14.35",VLIB 201,May 09--Jun 19,J Fancher
+ACCTG,498,Accounting Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,D Paul
 ANTH,201,[HUM] Art and Society,01,01314,3,"M,W18-21.20",VLIB 260,Jun 20--Jul 31,K Dhawan
-ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,04889,3,"TU,TH11-14.20",VLIB 264,May 09--Jun 19,E Hagen
 ANTH,399,Archaeological Field School,01,"",V,ARRGT,ARR ARR,Jun 20--Jul 29,C Blumhardt
 ANTH,599,Archaeological Field School,01,"",V,ARRGT,ARR ARR,Jun 20--Jul 29,C Blumhardt
 ASTRONOM,135,[PSCI] Astronomy,01,01117,4,"M,W9.55-12.10",VSCI 12,May 09--Jun 19,J Vazquez-Bello
@@ -24,23 +22,21 @@ BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 CHEM,106,Principles of Chemistry II,01,01286,4,"M,W12.50-15.20",VSCI 19,Jun 06--Jul 29,E Valente
 CHEM,106,Principles of Chemistry II,01 Lab,01287,0,TU12.50-17.50,VCLS 50,Jun 06--Jul 29,E Valente
 CHEM,345,Organic Chemistry I,01,01288,4,"TU,TH,F11-12.35",VLIB 260,May 09--Jul 01,A Otoikhian
-CHEM,345,Organic Chemistry I,01 Lab,01289,0,TH13.30-18.30,VCLS 50,May 09--Jul 01,A Otoikhian
+CHEM,345,Organic Chemistry I,01 Lab,01289,0,TH13.30-18.30,VCLS 50,May 09--Jul 01,L Reyes
 COM,101,[SSCI] Media and Society,01,01102,3,"TU,TH11-12.15",VLIB 261,May 09--Jun 19,M Levan
 COM,102,[COMM] Public Speaking in the Digital Age,01,01103,3,"TU,TH11-12.15",VLIB 264,Jun 20--Jul 31,E Candello
-COM,105,[HUM] Communication in Global Contexts,01,04902,3,"TU,TH13-14.15",VLIB 260,May 09--Jun 19,M Levan
 COM,210,[COMM] Multimedia Content Creation,01,01104,3,"TU,TH9.30-10.45",VLIB 201,Jun 20--Jul 29,N Iyer
 COM,300,[M] Writing in Communication,01,04901,3,"TU,TH13-14.15",VLIB 260,Jun 20--Jul 31,E Candello
 COM,471,[CAPS] Stereotypes in Communication,01,01105,3,"TU,TH11-12.15",VLIB 201,Jun 20--Jul 29,N Iyer
 COM,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,N Iyer
-COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,N Iyer
+COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CS,426,Applied Systems Security,01,04919,3,"TU,TH,F12.20-14.35",VECS 105,May 09--Jun 19,P Bonamy
-DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,01131,3,"M,W11-14.20",VCLS 224,May 09--Jun 19,R Snyder
+CS,700,"Master's Research, Thesis, and/or Examination",01,01274,V,ARRGT,ARR ARR,May 09--Jul 29,A Wisniewska
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,04883,3,"M,W11-14.20",VMMC 111,Jun 20--Jul 31,E Mcdonald
-DTC,201,[ARTS] Tools and Methods for Digital Technology,01,01132,3,"M,W14.30-17.50",VMMC 111,May 09--Jun 19,C Dreger
 DTC,354,[ARTS] [M] Digital Storytelling,01,01134,3,"TU,TH11-14.20",VMMC 111,Jun 20--Jul 29,W Luers
 DTC,355,[M] Multimedia Authoring,01,04886,3,"TU,TH14.30-17.50",VMMC 111,Jun 20--Jul 31,W Luers
-DTC,475,[DIVR] Digital Diversity,01,04966,3,"M,W11-14.20",VUB 222,May 09--Jun 19,""
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Styborski
+ECE,700,"Master's Research, Thesis, and/or Examination",01,01267,V,ARRGT,ARR ARR,May 09--Jul 29,F Zhao
 ED_AD,522,Topics in Education,01,"",3,TU17.45-20.30,WEB ARR,May 09--Jul 29,K Rodela
 ED_AD,561,Introduction to College Student Development,01,"",3,TU17.10-20.30,WEB ARR,May 09--Jul 29,K Huggins
 ED_AD,561,Introduction to College Student Development,"","","",TU17.10-20.30,ARR ARR,"",""
@@ -50,14 +46,14 @@ ED_AD,561,Introduction to College Student Development,"","","",TU17.10-20.30,ARR
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,05350,2,ARRGT,ARR ARR,May 09--Jul 29,K Huggins
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,01123,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,01355,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
-ED_PSYCH,505,Research Methods I,01,01171,3,"M,TU,W,TH,F12.30-13.20",VECS 209,Jun 20--Jul 29,""
 ED_PSYCH,521,Topics in Educational Psychology,01,"",3,TH17.10-20.30,VC ARR,May 09--Jul 29,S Dai
 ED_RES,571,Doctoral Dissertation Preparation,01,"",3,ARRGT,ARR ARR,May 09--Jul 29,S Kruse
-ENGLISH,340,Science Fiction Film,01,01115,3,"TU,TH11-14.20",VLIB 265,May 09--Jun 19,C Siegel
-ENGLISH,340,Science Fiction Film,01 Lab,01116,0,ARRGT,ARR ARR,May 09--Jun 19,C Siegel
+ENGLISH,340,Science Fiction Film,01,01115,3,"TU,TH11-14.20",VLIB 265,May 09--Jun 19,C Ratzlaff
+ENGLISH,340,Science Fiction Film,01 Lab,01116,0,ARRGT,ARR ARR,May 09--Jun 19,C Ratzlaff
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,01114,3,M12.45-14.20,VUB 202,May 09--Jun 19,J Phelps
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,04922,3,"TU,TH14.30-16.05",VMMC 115,Jun 20--Jul 31,W Olson
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,J Phelps
+FIN,498,Finance Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,D Paul
 FOR_LANG,130,[HUM] Global Literature in Translation,01,01107,3,TU18-21.20,VMMC 219,Jun 20--Jul 29,C Gulam
 H_D,350,[DIVR] Family Diversity,01,04864,3,"M,W11-14.20",VUB 107,May 09--Jun 19,T Burkhard
 H_D,403,[CAPS] Families in Poverty,01,01125,3,"TU,TH11-14.20",VUB 107,May 09--Jun 19,Y Sano
@@ -65,9 +61,8 @@ H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,May 09
 H_D,498,Field Placement,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A Thomas
 H_D,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,01109,3,"TU,TH,F9.55-12.10",VLIB 265,Jun 20--Jul 29,J Losavio
-HISTORY,110,[HUM] American History to 1877,01,04894,3,"M,W9.55-12.10",VECS 120,May 09--Jun 19,T Hanshew
+HISTORY,110,[HUM] American History to 1877,01,04894,3,"M,W9.55-12.10",VECS 125,May 09--Jun 19,T Hanshew
 HISTORY,110,[HUM] American History to 1877,"","","",F9.55-12.10,VC ARR,"",""
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,01110,3,"M,W11-14.20",VLIB 265,May 09--Jun 19,N Harrington
 HISTORY,387,World War II in Asia and the Pacific,01,04895,3,"M,W14.30-17.50",VECS 120,Jun 20--Jul 31,B Farley
 HUMANITY,130,[HUM] Global Literature in Translation,01,01108,3,TU18-21.20,VMMC 219,Jun 20--Jul 29,C Gulam
 I_BUS,380,International Business,01,01094,3,"M,W18-21.20",VUB 107,May 09--Jun 19,T Larson
@@ -75,24 +70,19 @@ KINES,536,Methods of Health and Physical Education,01,01079,2,"TU,TH16.30-18.45"
 MATH,100,Basic Mathematics,01,04899,2,"M,TU,W,TH11-12.05",VUB 222,Jun 20--Jul 31,K Debower
 MATH,103,Algebra Methods and Introduction to Functions,01,01137,3,"M,TU,W,TH9.15-10.50",VUB 222,Jun 20--Jul 29,K Debower
 MATH,106,College Algebra,01,01138,3,"M,TU,W,TH12.45-14.20",VMMC 214,May 09--Jun 19,J Sung
-MATH,108,Trigonometry,01,01139,2,"M,TU,W,TH11-12.05",VMMC 217,May 09--Jun 19,L Sotomayor
-MATH,108,Trigonometry,02,01140,2,"M,TU,W,TH11-12.05",VMMC 214,Jun 20--Jul 29,E Thompson
-MATH,110,Mathematics Acceleration,01,01251,1,ARRGT,ARR ARR,May 09--Jul 29,E Thompson
-MATH,111,Mathematics Tutorial for MATH 201,01,05438,1,ARRGT,ARR ARR,May 09--Jul 29,E Thompson
+MATH,108,Trigonometry,02,01140,2,"M,TU,W,TH14.30-15.35",VMMC 217,Jun 20--Jul 29,E Thompson
 MATH,140,[QUAN] Calculus for Life Scientists,01,01297,4,"M,W,F12.45-14.20",VMMC 23,Jun 06--Jul 29,G Salos
-MATH,140,[QUAN] Calculus for Life Scientists,01 Lab,01298,0,TU12.50-15.20,VMMC 23,Jun 06--Jul 29,E Thompson
+MATH,140,[QUAN] Calculus for Life Scientists,01 Lab,01298,0,TU12.50-15.20,VMMC 23,Jun 06--Jul 29,G Salos
 MATH,140,[QUAN] Calculus for Life Scientists,"","","",TH12.50-15.20,VUB 202,"",""
-MATH,171,[QUAN] Calculus I,01,01299,4,"M,W,F9.15-10.50",VMMC 23,Jun 06--Jul 29,""
-MATH,171,[QUAN] Calculus I,01 Lab,01300,0,TU10.10-12.40,VUB 202,Jun 06--Jul 29,""
+MATH,171,[QUAN] Calculus I,01,01299,4,"M,W,F9.15-10.50",VMMC 23,Jun 06--Jul 29,J Sung
+MATH,171,[QUAN] Calculus I,01 Lab,01300,0,TU10.10-12.40,VUB 202,Jun 06--Jul 29,F Mcgrade
 MATH,171,[QUAN] Calculus I,"","","",TH10.10-12.40,VMMC 23,"",""
 MATH,172,Calculus II,01,01301,4,"M,W,F9.15-10.50",VMMC 219,Jun 06--Jul 29,G Salos
 MATH,172,Calculus II,01 Lab,01302,0,TU10.10-12.40,VMMC 219,Jun 06--Jul 29,G Salos
 MATH,172,Calculus II,"","","",TH10.10-12.40,VUB 202,"",""
-MATH,201,Mathematics for Business and Economics,01,01282,3,"M,TU,W,TH9.15-10.50",VMMC 214,May 09--Jun 19,L Sotomayor
 MATH,202,[QUAN] Calculus for Business and Economics,01,01143,3,"M,TU,W,TH12.45-14.20",VMMC 214,Jun 20--Jul 29,J Sung
 MATH,220,Introductory Linear Algebra,01,01142,2,"M,TU,W,TH12.45-13.50",VMMC 217,May 09--Jun 19,O Rumyantseva
-MATH,273,Calculus III,01,04898,2,"M,TU,W,TH11-12.05",VMMC 214,May 09--Jun 19,O Rumyantseva
-MATH,300,Mathematical Computing,01,04900,3,"M,TU,W,TH14.30-16.05",VMMC 214,Jun 20--Jul 31,""
+MATH,273,Calculus III,02,05492,2,"M,TU,W,TH,F13.30-14.45",VECS 209,May 09--Jun 03,J Streipel
 MATH,303,[M] Geometry for the Middle School Teacher,01,01136,3,"TU,TH11.10-13.30",VECS 125,May 09--Jun 19,J Thomas Zapata
 MATH,315,Differential Equations,01,01141,3,"M,TU,W,TH9.15-10.50",VMMC 214,Jun 20--Jul 29,O Rumyantseva
 MATH,440,Applied Mathematics I: PDEs,01,01320,3,"M,TU,W,TH,F10.10-11.25",VECS 209,May 09--Jun 19,S Lapin
@@ -101,7 +91,136 @@ MATH,540,Applied Mathematics I: PDEs,01,05450,3,"M,TU,W,TH,F10.10-11.25",VECS 20
 MATH,548,Numerical Analysis,01,05451,3,"M,TU,W,TH,F12-13.15",VECS 209,May 09--Jun 19,S Lapin
 MECH,211,Statics,01,05388,3,"M,TU,W,TH9-10.35",VECS 104,Jun 20--Jul 31,H Rad
 MECH,212,Dynamics,01,05390,3,"M,TU,W,TH11-12.35",VECS 104,Jun 20--Jul 31,H Rad
+MECH,700,"Master's Research, Thesis, and/or Examination",01,01332,V,ARRGT,ARR ARR,May 09--Jul 29,D Kim
 MED_CLIN,521,Longitudinal Integrated Clerkship I,01,01181,8,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowen
+MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,530,Virtual - Clinical Cases,03,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,04,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,534,Pediatrics - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,535,Psychiatry - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,M Chavez
+MED_CLIN,536,Obstetrics and Gynecology - Subinternship,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,537,Emergency Medicine - Emergency Medicine,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,C Heine
+MED_CLIN,538,Core - Rural Medicine,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,539,Core - Underserved Medicine,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Kaczmark
+MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Heine
+MED_CLIN,543,Clinical Rotation - Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Heine
+MED_CLIN,544,Internal Medicine - Nephrology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,545,Internal Medicine - Critical Care,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,546,Surgery - Vascular Surgery,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,547,Internal Medicine - Cardiology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,B Chia
+MED_CLIN,549,Internal Medicine - Hematology and Oncology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,551,Clinical Rotation - Pathology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,551,Clinical Rotation - Pathology,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,552,Internal Medicine - Gastroenterology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,554,Virtual - Telemedicine: Principles of Practice,01,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,555,Clinical Rotation - Telemedicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,556,Virtual - Basic Medical Spanish,01,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,F Williams
+MED_CLIN,557,Clinical Rotation - Medical Spanish,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,F Williams
+MED_CLIN,558,Virtual - Medical Humanities,01,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,J Marcin
+MED_CLIN,559,Virtual - Technical Writing in Medicine,01,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,560,Family Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,561,Internal Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,562,Obstetrics and Gynecology - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,563,Pediatrics - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,564,Psychiatry - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,M Chavez
+MED_CLIN,564,Psychiatry - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,M Chavez
+MED_CLIN,566,Internal Medicine - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,567,Obstetrics and Gynecology - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,567,Obstetrics and Gynecology - Inpatient,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,568,Pediatrics - Hospital Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,570,Away Rotation - North America,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,570,Away Rotation - North America,04,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,570,Away Rotation - North America,05,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,571,Away Rotation - International,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,571,Away Rotation - International,03,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,M Chavez
+MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,S Siddiqui
+MED_CLIN,573,Clinical Rotation - Anesthesiology,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,S Siddiqui
+MED_CLIN,574,Science - Clinical Bioethics,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,W Kabasenche
+MED_CLIN,575,Clinical Rotation - Geriatrics,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,577,Surgery - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,578,Surgery - General Surgery,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,579,Science - Medical Informatics,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,580,Clinical Rotation - Neurology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,M Chavez
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,582,Science - Quality Improvement and Patient Safety,01,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,583,Science - Evidence-Based Medicine,01,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Litvack
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,586,Surgery - Neurological Surgery,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Litvack
+MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,591,Surgery - Otolaryngology (Head and Neck Surgery),01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Litvack
+MED_CLIN,592,Surgery - Plastic Surgery,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,593,Surgery - Thoracic and Cardiac Surgery,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,594,Surgery - Urology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Litvack
+MED_CLIN,595,Surgery - Surgery Critical Care,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,595,Surgery - Surgery Critical Care,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,596,Surgery - Pediatric Surgical Specialties,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,596,Surgery - Pediatric Surgical Specialties,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
+MED_CLIN,597,Virtual - Virtual Clerkship,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,601,Internal Medicine - Infectious Diseases,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,602,Internal Medicine - Pulmonology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,603,Internal Medicine - Endocrinology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,604,Internal Medicine - Allergy and Immunology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,605,Internal Medicine - Rheumatology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,606,Internal Medicine - Adult Congenital Heart Disease,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,607,Internal Medicine - Heart Failure and Transplant Cardiology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,608,Internal Medicine - Electrophysiology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,609,Pediatrics - Dermatology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,610,Pediatrics - Medical Genetics and Genomics,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,611,Pediatrics - Cardiology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,612,Pediatrics - Hematology and Oncology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,613,Pediatrics - Infectious Diseases,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,614,Pediatrics - Gastroenterology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,615,Pediatrics - Development-Behavioral Pediatrics,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,616,Pediatrics - Adolescent Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,617,Pediatrics - Critical Care,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,618,Pediatrics - Neonatal-Perinatal Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,619,Pediatrics - Neurology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,620,Pediatrics - Pulmonology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,621,Pediatrics - Emergency Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,622,Pediatrics - Rheumatology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,623,Pediatrics - Endocrinology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,624,Pediatrics - Diabetology,01,"",2,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,625,Pediatrics - Child Abuse,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,C Anderson
+MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,M Chavez
+MED_CLIN,627,Psychiatry - Inpatient,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,M Chavez
+MED_CLIN,628,Obstetrics and Gynecology - Maternal-Fetal Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,629,Obstetrics and Gynecology - Gynecologic Oncology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,630,Obstetrics and Gynecology - Reproductive Endocrinology and Infertility,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,631,Obstetrics and Gynecology - Urogynecology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,632,Obstetrics and Gynecology - Reproductive Health,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,H Andersen
+MED_CLIN,633,Clinical Rotation - Global Health,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,634,Clinical Rotation - Sleep Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,634,Clinical Rotation - Sleep Medicine,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,L Sood
+MED_CLIN,635,Clinical Rotation - Pain Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,S Siddiqui
+MED_CLIN,635,Clinical Rotation - Pain Medicine,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,S Siddiqui
+MED_CLIN,636,Clinical Rotation - Sports Medicine,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,636,Clinical Rotation - Sports Medicine,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Bowman
+MED_CLIN,637,Clinical Rotation - Interventional Radiology,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,J Kaczmark
+MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
 MGMT,301,Principles of Management and Organization,01,01098,3,"M,W18-21.20",VUB 107,Jun 20--Jul 29,R Howell
 MGMT,401,Leading People and Organizations,01,01100,3,"TU,TH18-20.15",VUB 107,May 09--Jun 19,N Pionk
 MGMT,485,[M] Negotiation Skills,01,01095,3,"TU,TH18-21.20",VUB 107,Jun 20--Jul 31,N Pionk
@@ -115,11 +234,13 @@ MIT,507,Teacher Inquiry and Praxis,01,01076,2,"M,W11-13.20",VUB 126,May 09--Jun 
 MIT,509,Instruction and Assessment for Elementary Teachers,01,01081,3,"M,W9.30-11.45",VUB 122,Jun 20--Jul 29,D Castle
 MIT,513,ESL Methods and Materials for Secondary Teachers,01,01303,2,"TU,TH17-19.20",VUB 124,May 09--Jun 19,T Haddad
 MIT,531,Literacy Development I,01,01083,3,"M,W12.45-16.15",VUB 221,Jun 20--Jul 29,D Duncan
-MIT,535,Integrating Fine Arts into K-8 Curriculum,01,01080,2,"TU,TH12.45-15",VUB 124,May 09--Jun 19,D Day-Wiff
+MIT,535,Integrating Fine Arts into K-8 Curriculum,01,01080,2,"TU,TH12.45-15",VUB 221,May 09--Jun 19,D Day-Wiff
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",01,01077,2,"M,W14.30-16.50",VUB 126,May 09--Jun 19,J Masterson
 MIT,702,"Master's Special Problems, Directed Study, and/or Examination",02,01078,3,ARRGT,ARR ARR,May 09--Jun 19,R Sawyer
 MKTG,360,Marketing,01,01099,3,"M,W14.30-16.45",VUB 107,Jun 20--Jul 31,R Pimentel
+MKTG,498,Marketing Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,D Paul
 NEUROSCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A Coffin
+NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,05486,V,ARRGT,ARR ARR,May 09--Jul 29,B Ingermann
 NURS,360,Contemporary Nursing,01,01145,3,ARRGT,ARR ARR,Jun 06--Jul 29,S Welty
 NURS,360,Contemporary Nursing,02,"",3,ARRGT,ARR ARR,Jun 06--Jul 29,S Welty
 NURS,400,[M] Nursing Research and Evidence-Based Practice,01,01149,3,ARRGT,ARR ARR,Jun 06--Jul 29,V Denson
@@ -144,25 +265,24 @@ NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,VC ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,VC ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,VC ARR,"",""
 NURS,547,Therapeutic Modalities in Practice,"","","",TH11.10-14,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01,01165,3,TH11.10-14,VC ARR,May 19--May 19,C Chacon
+NURS,553,Organizational Systems and Leadership II,01,01165,3,TH11.10-14,VC ARR,May 19--May 19,C Warburton
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH11.10-14,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01 Lab,01173,0,ARRGT,ARR ARR,May 09--Jul 29,C Chacon
+NURS,553,Organizational Systems and Leadership II,01 Lab,01173,0,ARRGT,ARR ARR,May 09--Jul 29,C Warburton
 NURS,557,DNP Project I,01,01166,3,TH14.10-17,VC ARR,May 19--May 19,R Hoeksel
 NURS,557,DNP Project I,"","","",TH14.10-17,VC ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,VC ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,VC ARR,"",""
 NURS,557,DNP Project I,"","","",TH14.10-17,VC ARR,"",""
 NURS,557,DNP Project I,01 Lab,01174,0,ARRGT,ARR ARR,May 09--Jul 29,R Hoeksel
-NURS,583,DNP Population Health Practicum,01,01167,V,ARRGT,ARR ARR,May 09--Jul 29,""
+NURS,583,DNP Population Health Practicum,01,01167,V,ARRGT,ARR ARR,May 09--Jul 29,D Smart
 NURS,591,Introduction to Mixed Methods and Evaluation,01,01168,3,TH8.10-11,VC ARR,May 19--May 19,D Smart
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,VC ARR,"",""
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,VC ARR,"",""
 NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,VC ARR,"",""
-NURS,591,Introduction to Mixed Methods and Evaluation,"","","",TH8.10-11,VC ARR,"",""
-NURS,597,Advanced Topics in Nursing,01,01180,V,ARRGT,ARR ARR,May 09--Jul 29,""
+NURS,597,Advanced Topics in Nursing,01,01180,V,ARRGT,ARR ARR,May 09--Jul 29,D Smart
 NURS,599,Independent Study,01,01169,V,ARRGT,ARR ARR,May 09--Jul 29,P Stover
 PHYSICS,102,General Physics,01,01294,3,"M,W,F9.15-10.50",VSCI 19,Jun 06--Jul 29,G Newman
 PHYSICS,112,General Physics Lab II,01,04892,1,"TU,TH9.15-11.45",VCLS 150,Jun 06--Jul 29,G Newman
@@ -170,17 +290,15 @@ PHYSICS,202,Physics for Scientists and Engineers II,01,01295,3,"M,W,F12.45-14.20
 PHYSICS,212,Physics Lab for Scientists and Engineers II,01,04893,1,"TU,TH12.50-15.20",VCLS 150,Jun 06--Jul 29,G Newman
 POL_S,101,[SSCI] American National Government,01,01129,3,"M,W9.55-12.10",VLIB 260,Jun 20--Jul 31,M Stephan
 POL_S,101,[SSCI] American National Government,"","","",F9.55-12.10,WEB ARR,"",""
-POL_S,102,[SSCI] Introduction to Comparative Politics,01,01130,3,"M,W11-14.20",VLIB 260,May 09--Jun 19,P Thiers
 POL_S,317,Media and Politics,01,01292,3,"M,W12.20-14.35",VLIB 260,Jun 20--Jul 29,M Stephan
 POL_S,317,Media and Politics,"","","",F12.20-14.35,WEB ARR,"",""
-POL_S,435,Politics of Developing Nations,01,04891,3,"M,W14.30-17.50",VLIB 260,May 09--Jun 19,P Thiers
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,01279,V,ARRGT,ARR ARR,May 09--Jul 29,""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,01273,V,ARRGT,ARR ARR,May 09--Jul 29,""
 PSYCH,309,Diversity in Organizations,01,04916,3,F9.55-12.10,VLIB 264,Jun 20--Jul 31,M Jenkins
 PSYCH,310,"Work, Stress, and Health",01,04910,3,M12.20-14.35,VLIB 261,May 09--Jun 19,H Lee
 PSYCH,311,[QUAN] Statistics in Psychology,01,01177,4,F9.55-12.10,VLIB 264,May 09--Jun 19,M Jenkins
 PSYCH,372,[BSCI] Biological Basis of Behavior,01,04917,3,"M,W,F12.20-14.35",VLIB 261,Jun 20--Jul 31,D Fortin
-SOC,101,[SSCI] Introduction to Sociology,01,01101,3,M12.20-14.35,VLIB 201,Jun 20--Jun 20,X Li
+SOC,101,[SSCI] Introduction to Sociology,01,01101,3,M12.20-14.35,VLIB 201,Jun 20--Jun 20,""
 SOC,101,[SSCI] Introduction to Sociology,"","","",W12.20-14.35,VLIB 201,"",""
 SOC,101,[SSCI] Introduction to Sociology,"","","",F12.20-14.35,VLIB 201,"",""
 SOC,101,[SSCI] Introduction to Sociology,"","","",M12.20-14.35,VLIB 201,"",""
@@ -188,17 +306,17 @@ SOC,101,[SSCI] Introduction to Sociology,"","","",W12.20-14.35,VLIB 201,"",""
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01,05413,4,"M,W10.10-12.40",VLIB 264,Jun 06--Jul 29,B Walker
 SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,05414,0,"TU,TH10.10-12.40",VSCI 101,Jun 06--Jul 29,""
 SOE,700,"Master's Research, Thesis, and/or Examination",01,01271,V,ARRGT,ARR ARR,May 09--Jul 29,S Bollens
-SPANISH,101,First Semester,01,01127,4,"TU,TH7.30-10.50",VUB 124,May 09--Jun 19,M Lee-Lopez
-SPANISH,101,First Semester,"","","",TU11-11.50,VCLS 224,"",""
+SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,01270,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 SPANISH,102,Second Semester,01,01128,4,"TU,TH7.30-10.50",VUB 124,Jun 20--Jul 29,C Gulam
 SPANISH,102,Second Semester,"","","",TU11-11.50,VCLS 224,"",""
-SPANISH,111,[ARTS] Latin American Film,01,01305,3,TU14.30-17.50,VUB 126,May 09--Jun 19,M Lee-Lopez
+SPANISH,111,[ARTS] Latin American Film,01,01305,3,TU14.30-17.50,WEB ARR,May 09--Jun 19,M Lee-Lopez
 SPEC_ED,420,Teaching in Inclusive Classrooms,01,01090,2,"TU,TH9.30-10.50",VUB 225,Jun 20--Jul 29,S Van Horn
 SPEC_ED,520,Teaching in Inclusive Classrooms,02,01277,3,"TU,TH14.30-17.50",VUB 124,Jun 20--Jul 29,M Dunn
+SPEC_ED,800,"Doctoral Research, Dissertation, and/or Examination",01,05495,V,ARRGT,ARR ARR,May 09--Jul 29,M Dunn
 STAT,360,Probability and Statistics,01,01144,3,"M,TU,W,TH14.30-16.05",VMMC 219,Jun 20--Jul 29,""
 TCH_LRN,301,Learning and Development,01,01086,3,"TU,TH11-14.20",VUB 225,Jun 20--Jul 29,M Stevens
 TCH_LRN,385,Teaching Elementary Social Studies,01,01087,3,"TU,TH14.30-17.50",VUB 225,Jun 20--Jul 29,R Bizjak
-TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,01,01088,3,"TU,TH8.30-10.50",VUB 225,May 09--Jun 19,D Day-Wiff
+TCH_LRN,390,Integrating Fine Arts into K-8 Curriculum,01,01088,3,"TU,TH8.30-10.50",VUB 221,May 09--Jun 19,D Day-Wiff
 TCH_LRN,409,Fundamentals of Curriculum and Assessment for Teaching English Language Learners,01,01089,3,"M,W14.30-16.50",VUB 225,May 09--Jun 19,S Morrison
 TCH_LRN,463,Teaching Concepts of Probability and Statistics,01,01085,3,"M,W13.30-16.40",VECS 125,Jun 20--Jul 29,K Lesseig
 TCH_LRN,483,Integrating Health and Fitness into K-8 Curriculum,01,01084,3,"M,W17.20-20.05",VUB 225,May 09--Jun 19,J Webb
