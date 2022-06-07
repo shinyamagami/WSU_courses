@@ -43,7 +43,6 @@ CPT_S,700,"Master's Research, Thesis, and/or Examination",01,01384,V,ARRGT,ARR A
 CPT_S,702,"Master's Special Problems, Directed Study, and/or Examination",01,01385,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,01386,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CROP_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,J Blauer
-DTC,201,[ARTS] Tools and Methods for Digital Technology,01,01639,3,"M,TU,W,TH9.15-10.50",TFLO 138,Jun 20--Jul 29,P Mudd
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A Plemons
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Styborski
 E_E,221,Numerical Computing for Engineers,01,01618,2,"M,W12.20-14.35",TFLO 131,Jun 20--Jul 29,D Lowry
@@ -77,8 +76,8 @@ KINES,536,Methods of Health and Physical Education,01,01636,2,"TU,TH9.30-11.45",
 LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Newcomer
 MATH,171,[QUAN] Calculus I,01,01654,4,"M,W,F9.55-12.10",TFLO 244,Jun 20--Jul 31,S Selmi
 MATH,171,[QUAN] Calculus I,01 Lab,01655,0,"TU,TH11-14.20",TFLO 244,Jun 20--Jul 31,S Selmi
-MATH,251,Fundamentals of Elementary Mathematics I,01,01607,3,"M,W14.30-17.45",TFLO 244,Jun 20--Jul 31,M Esping
-MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,01608,0,F14.30-17.45,WEB ARR,Jun 20--Jul 31,M Esping
+MATH,251,Fundamentals of Elementary Mathematics I,01,01607,3,"M,W11-14.20",TCOL 126,Jun 20--Jul 31,M Esping
+MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,01608,0,F11-14.20,WEB ARR,Jun 20--Jul 31,M Esping
 MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01,01605,3,"M,W,F17.10-18.35",TFLO 244,May 09--Jun 19,C Tate
 MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01 Lab,01606,0,"M,W,F18.45-20.10",TFLO 244,May 09--Jun 19,C Tate
 MATH,303,[M] Geometry for the Middle School Teacher,01,01614,3,"TU,TH11.10-13.30",TFLO 210,May 09--Jun 19,J Thomas Zapata
@@ -324,7 +323,7 @@ TCH_LRN,330,Diversity in Education,02,"",3,ARRGT,ARR ARR,May 09--Jun 13,E Johnso
 TCH_LRN,411,Bilingual Methods and Materials Across Content Areas,01,01604,3,"M,W9-12.20",TCOL 102,Jun 20--Jul 29,A Johnson
 TCH_LRN,463,Teaching Concepts of Probability and Statistics,01,01613,3,"M,W13.30-16.40",TFLO 260,Jun 20--Jul 29,K Lesseig
 TCH_LRN,497,Topics in In-Service Education,01,01619,3,"TU,TH17-20.20",WEB ARR,May 09--Jun 19,A Johnson
-TCH_LRN,497,Topics in In-Service Education,02,01688,3,"TU,TH16.30-19.50",WEB ARR,Jun 20--Jul 29,E Johnson
+TCH_LRN,497,Topics in In-Service Education,02,01688,3,"TU,TH16.30-19.50",WEB ARR,Jun 20--Jul 29,A Johnson
 TCH_LRN,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,E Johnson
 TCH_LRN,521,Topics in Education,01,"",3,ARRGT,ARR ARR,May 09--Jul 29,E Johnson
 TCH_LRN,591,Research Internship in Math/Science Education,01,01489,V,ARRGT,ARR ARR,May 09--Jul 29,J Morrison

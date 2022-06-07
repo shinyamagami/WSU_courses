@@ -33,7 +33,7 @@ AMER_ST,216,Introduction to American Cultural Studies,01,03464,3,"M,TU,W,TH,F11.
 ANIM_SCI,481,Special Topics in Study Abroad: Animal Production Systems in the World,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 ANIM_SCI,700,"Master's Research, Thesis, and/or Examination",02,02783,V,ARRGT,ARR ARR,May 09--Jul 29,M Marcondes
 ANTH,101,[DIVR] Introduction to Anthropology,01,03025,3,"M,TU,W,TH,F10.30-11.45",COLL 235,May 09--Jun 19,D Bird
-ANTH,101,[DIVR] Introduction to Anthropology,03,03205,3,"M,TU,W,TH,F10.30-11.45",SLOA 161,Jun 20--Jul 31,P Moonkham
+ANTH,101,[DIVR] Introduction to Anthropology,03,03205,3,"M,TU,W,TH,F10.30-11.45",COLL 135,Jun 20--Jul 31,P Moonkham
 ANTH,201,[HUM] Art and Society,02,03462,3,"M,TU,W,TH,F12-13.15",COLL 135,May 09--Jun 19,A Karimitar
 ANTH,300,Field Methods,01,"",V,ARRGT,ARR ARR,May 09--Jun 19,K Lokensgard
 ANTH,300,Field Methods,02,"",V,ARRGT,ARR ARR,Jun 20--Jul 31,K Lokensgard
@@ -57,7 +57,7 @@ ARCH,580,Architecture Practicum,02,03573,V,ARRGT,ARR ARR,Jul 30--Aug 21,J Abell
 ATH_T,575,Pharmacology in Athletic Training,01,03490,3,"M,TU,W,TH,F10.45-12.15",SGYM 214A,May 16--Jun 17,K Pietz
 ATH_T,595,Leadership and Communication in Athletic Training,01,03491,3,"M,TU,W,TH,F9-10.15",SGYM 214A,May 16--Jun 17,K Hildenbrand
 B_A,702,"Master's Special Problems, Directed Study, and/or Examination",01,05434,V,ARRGT,ARR ARR,May 09--Jul 29,C Munson
-BIO_ENG,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
+BIO_ENG,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 BIO_ENG,495,Internship in Bioengineering,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A Vasavada
 BIO_ENG,499,Special Problems in Bioengineering,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 BIOLOGY,107,[BSCI] Introductory Biology: Cell Biology and Genetics,01,03591,4,"M,TU,W,TH,F10.30-11.45",SPRK 323,May 09--Jul 01,J Hinz
@@ -78,14 +78,14 @@ CE,302,Introduction to Surveying,01,03483,2,"M,TU,W,TH,F9.10-10",SLOA 169,May 09
 CE,302,Introduction to Surveying,01 Lab,03484,0,"M,TU,W,TH,F10.10-12.40",SLOA 235,May 09--May 27,K Olsen
 CE,414,Structural Design Loads and Load Paths,01,03486,3,"M,TU,W,TH,F9-11",SLOA 167,May 09--Jun 03,A Manawadu
 CE,463,Engineering Administration,01,03482,3,"M,TU,W,TH,F14.10-16.40",SLOA 169,May 09--May 27,R Petersen
-CE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
+CE,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CE,495,Engineering Experience,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 CE,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 CE,543,Advanced Topics in Environmental Engineering Practice,02,"",V,"M,TU,W,TH,F10.10-11",ARR ARR,Jun 27--Jul 22,H Liu
 CE,700,"Master's Research, Thesis and/or Examination",01,02557,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CE,702,"Master's Special Problems, Directed Study, and/or Examination",01,02558,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CE,800,"Doctoral Research, Dissertation, and/or Examination",01,02559,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
-CES,101,[DIVR] Race and Racism in the United States,01,03558,3,"M,TU,W,TH,F13.10-14",THOM 21,Jun 24--Jul 30,T Carrasco
+CES,101,[DIVR] Race and Racism in the United States,01,03558,3,"M,TU,W,TH,F10.35-11.50",THOM 21,Jun 20--Jul 30,T Carrasco
 CES,216,Introduction to American Cultural Studies,01,03737,3,"M,TU,W,TH,F11.10-12",SPRK 339,Jul 05--Jul 29,A Diehl
 CHE,201,Chemical Process Principles and Calculations,01,03207,3,"M,TU,W,TH,F10.30-11.45",WEGN G0001,Jun 20--Jul 31,S Ha
 CHE,461,Introduction to Nuclear Engineering,01,03446,3,"M,TU,W,TH,F16.30-17.45",EME B0046,Jun 20--Jul 31,D Koch
@@ -103,6 +103,8 @@ CHEM,101,[PSCI] Introduction to Chemistry,"","","","TU,TH13-16",FULM 310,"",""
 CHEM,102,Chemistry Related to Life Sciences,01,03305,4,"M,TU,W,TH,F10-10.50",TODD 125,Jun 27--Aug 14,M Finnegan
 CHEM,102,Chemistry Related to Life Sciences,01 Lab,03306,0,"TU,TH12-12.50",TODD 307,Jun 27--Aug 14,""
 CHEM,102,Chemistry Related to Life Sciences,"","","","TU,TH13-15",ARR ARR,"",""
+CHEM,102,Chemistry Related to Life Sciences,02 Lab,03307,0,"TU,TH12-12.50",TODD 334,Jun 27--Aug 14,""
+CHEM,102,Chemistry Related to Life Sciences,"","","","TU,TH13-15",ARR ARR,"",""
 CHEM,105,[PSCI] Principles of Chemistry I,01,03308,4,"M,TU,W,TH,F10.30-11.35",TODD 420,May 09--Jun 26,K Nishida
 CHEM,105,[PSCI] Principles of Chemistry I,01 Lab,03309,0,"TU,TH12-12.50",FLMA 438,May 09--Jun 26,""
 CHEM,105,[PSCI] Principles of Chemistry I,"","","","TU,TH13-16",ARR ARR,"",""
@@ -111,7 +113,7 @@ CHEM,105,[PSCI] Principles of Chemistry I,"","","","TU,TH13-16",ARR ARR,"",""
 CHEM,106,Principles of Chemistry II,01,03311,4,"M,TU,W,TH,F10.30-11.35",TODD 133,Jun 27--Aug 14,L Scudiero
 CHEM,106,Principles of Chemistry II,01 Lab,03312,0,"TU,TH12-12.50",TODD 301,Jun 27--Aug 14,""
 CHEM,106,Principles of Chemistry II,"","","","TU,TH13-15",ARR ARR,"",""
-CHEM,106,Principles of Chemistry II,02 Lab,03313,0,"TU,TH12-12.50",THOM 209,Jun 27--Aug 14,""
+CHEM,106,Principles of Chemistry II,02 Lab,03313,0,"TU,TH12-12.50",TROY G0005,Jun 27--Aug 14,""
 CHEM,106,Principles of Chemistry II,"","","","TU,TH13-15",ARR ARR,"",""
 CHEM,345,Organic Chemistry I,01,03315,4,"M,TU,W,TH,F10.30-11.35",ABEL 201,May 09--Jun 26,R Joseph
 CHEM,345,Organic Chemistry I,01 Lab,03316,0,"W,TH12-14.45",FLMA 438,May 09--Jun 26,""
@@ -196,7 +198,8 @@ DTC,498,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,R Gregory
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 E_E,261,Electrical Circuits I,01,03609,3,"M,TU,W,TH13-14",EME B0046,Jun 27--Aug 14,J Murray
 E_E,262,Electrical Circuits Laboratory I,01,03610,1,"TU,TH9-12",EME 34,Jun 27--Aug 14,J Murray
-E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A O'fallon
+E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
+E_E,499,Special Problems,02,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Gupta
 E_E,595,Directed Study in Electrical Engineering,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
 E_E,700,"Master's Research, Thesis, and/or Examination",01,02421,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,02422,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
@@ -218,6 +221,7 @@ ED_PSYCH,700,"Master's Research, Thesis, and/or Examination",01,02435,V,ARRGT,AR
 ED_PSYCH,702,"Master's Special Problems, Directed Study, and/or Examination",01,02436,V,ARRGT,ARR ARR,May 09--Jul 29,""
 ED_PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,02437,V,ARRGT,ARR ARR,May 09--Jul 29,O Adesope
 ENGLISH,101,[WRTG] College Composition,02,03509,3,"M,TU,W,TH,F10.30-11.45",AVER 106,Jun 20--Jul 31,G Doyle
+ENGLISH,101,[WRTG] College Composition,06,"",3,"M,TU,W,TH,F13.10-14.25",AVER 104,Jun 20--Jul 31,M Bell
 ENGLISH,102,Writing Tutorial,01,03199,1,ARRGT,ARR ARR,May 09--Jun 19,B Walter
 ENGLISH,102,Writing Tutorial,03,03298,1,ARRGT,ARR ARR,Jun 20--Jul 31,B Walter
 ENGLISH,107,Writing Tutorial for Multilingual Writers,01,03049,1,ARRGT,ARR ARR,May 09--Jun 19,B Walter
@@ -241,8 +245,9 @@ ENGR,203,Machining,01,03530,1,"M,W,F12.10-13",ELB 2,May 23--Jun 03,J Baser
 ENGR,203,Machining,01 Lab,03532,0,"M,TU,W,TH,F13.10-16",ELB 59,May 23--Jun 03,J Baser
 ENGR,204,Metal Fabrication,01,03534,1,"M,W,F12.10-13",ELB 2,Jun 06--Jun 17,J Baser
 ENGR,204,Metal Fabrication,01 Lab,03536,0,"M,TU,W,TH,F13.10-16",ELB 59,Jun 06--Jun 17,J Baser
+ENGR,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 ENGR,489,Professional Practice Coop/Internship II,01,"",1,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
-ENTOM,101,[BSCI] Insects and People: A Perspective,01,03057,3,"M,TU,W,TH,F10.30-11.45",VPBS 31,May 09--Jun 19,J Gutierrez Illan
+ENTOM,101,[BSCI] Insects and People: A Perspective,01,03057,3,"M,TU,W,TH,F10.30-11.45",CLAR 147,May 09--Jun 19,J Gutierrez Illan
 ENTOM,490,Special Topics in Entomology,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 ENTOM,590,Special Topics in Entomology,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 ENTOM,700,"Master's Research, Thesis, and/or Examination",01,02554,V,ARRGT,ARR ARR,May 09--Jul 29,E Beers
@@ -298,10 +303,12 @@ HBM,496,Special Topics,01,"",V,ARRGT,ARR ARR,May 09--Jun 24,""
 HBM,498,Hospitality Business Management Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A Alonzo
 HBM,800,"Doctoral Research, Dissertation, and/or Examination",01,02562,V,ARRGT,ARR ARR,May 09--Jul 29,J Kim
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,04852,3,"M,TU,W,TH,F12-13.15",TODD 230,May 09--Jun 19,E Smelyansky
-HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,03734,3,"M,TU,W,TH,F12-13.15",SPRK G0045,Jun 20--Jul 31,K Faunce
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,03734,3,"M,TU,W,TH,F12-13.15",TODD 130,Jun 20--Jul 31,K Faunce
 HISTORY,110,[HUM] American History to 1877,01,04904,3,"M,W,F9.55-12.10",EME B0046,May 09--Jun 19,T Hanshew
 HISTORY,216,Introduction to American Cultural Studies,01,03519,3,"M,TU,W,TH,F11.10-12",SPRK 339,Jul 05--Jul 29,A Diehl
 HISTORY,387,World War II in Asia and the Pacific,02,03435,3,"M,W14.30-17.50",SPRK 233,Jun 20--Jul 31,B Farley
+HISTORY,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,May 09--Jul 29,N Kawamura
+HISTORY,700,"Master's Research, Thesis, and/or Examination",03,05685,V,ARRGT,ARR ARR,May 09--Jul 29,N Kawamura
 HISTORY,800,"Doctoral Research, Dissertation, and/or Examination",02,"",V,ARRGT,ARR ARR,Jun 20--Jul 29,L Hatter
 HONORS,370,Case Study: Global Issues in Social Sciences,02,"",3,ARRGT,ARR ARR,May 09--May 23,M Carroll
 HONORS,380,Case Study: Global Issues in the Arts and Humanities,01,"",3,ARRGT,ARR ARR,May 09--Jun 25,I Webber
@@ -377,7 +384,7 @@ KINES,490,Instructional Practicum,01,02466,V,ARRGT,ARR ARR,May 09--Jun 19,""
 KINES,499,Special Problems,01,02467,V,ARRGT,ARR ARR,May 09--Jun 19,""
 KINES,536,Methods of Health and Physical Education,01,03633,2,"M,W,F8-10.05",ARR ARR,May 09--Jun 03,P Morgan
 LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,02933,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
-MATH,103,Algebra Methods and Introduction to Functions,02,03537,3,"M,TU,W,TH,F9-10.15",SPRK 327,Jun 27--Jul 29,J Widen
+LND_ARCH,399,Professional Work Experience: Office Practice,01,05680,2,ARRGT,ARR ARR,Jun 06--Aug 19,J Kaytes
 MATH,108,Trigonometry,01,03634,2,"M,TU,W,TH,F9-10.15",ABEL 201,May 09--Jun 03,C Jacobs
 MATH,171,[QUAN] Calculus I,01,03346,4,"M,TU,W,TH,F9.30-10.45",CARP 101,May 09--Jun 19,L Hall
 MATH,171,[QUAN] Calculus I,02,03429,4,"M,TU,W,TH,F9.30-10.45",SPRK 339,Jun 20--Jul 31,C Parker
@@ -414,12 +421,8 @@ ME,216,Integrated CAD Design,01,03113,2,"M,TU,W,TH,F15.10-18",ETRL 249,Jun 20--J
 ME,241,Engineering Computations,01,05410,3,"M,TU,W,TH,F8-9.15",SPRK 333,May 09--Jun 19,R Odstrcil
 ME,301,Fundamentals of Thermodynamics,01,03353,3,"M,TU,W,TH,F13.30-14.45",SPRK 335,May 09--Jun 19,B Xu
 ME,303,Fluid Mechanics,01,03419,3,"M,TU,W,TH,F12-13.15",SPRK 335,May 09--Jun 19,Y Hu
-ME,304,Heat Transfer,01,03420,3,"M,TU,W,TH,F13.30-14.45",SPRK 327,Jun 20--Jul 31,""
 ME,306,Thermal and Fluids Laboratory,01,03716,2,"TU,W,TH,F9-9.50",CARP 102,May 09--Jun 03,K Hughes
 ME,306,Thermal and Fluids Laboratory,01 Lab,03717,0,"TU,W,TH,F10-12.30",ETRL 226,May 09--Jun 03,""
-ME,312,Manufacturing Engineering,01,03711,3,"M,TU,W,TH,F12-13.15",TERR 106,Jul 04--Jul 29,X Bi
-ME,312,Manufacturing Engineering,01 Lab,03712,0,"TU,W,TH,F7.30-10.20",ETRL 25,Jul 04--Jul 29,X Bi
-ME,312,Manufacturing Engineering,02 Lab,05398,0,"TU,W,TH,F15.10-18",ETRL 25,Jul 04--Jul 29,X Bi
 ME,313,Engineering Analysis,01,03282,3,"M,TU,W,TH,F8-8.50",EME B0046,May 09--Jun 19,A Pradhan
 ME,313,Engineering Analysis,01 Lab,03283,0,"M,W,F15.10-18",SLOA 249,May 09--Jun 19,""
 ME,316,Mechanical Component Analysis and Design,01,03354,3,"M,TU,W,TH,F10.30-11.45",SPRK 335,Jun 20--Jul 31,K Chen
@@ -474,10 +477,10 @@ NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,02491,V,AR
 PHIL,365,[HUM] Biomedical Ethics,01,03081,3,"M,TU,W,TH,F9-10.15",TERR 106,May 09--Jun 19,W Kabasenche
 PHIL,365,[HUM] Biomedical Ethics,03,05419,3,"M,TU,W,TH,F9-10.15",WEB ARR,May 09--Jun 19,W Kabasenche
 PHYSICS,101,[PSCI] General Physics,01,03665,3,"M,TU,W,TH,F9-9.50",WEBS 17,Jun 06--Jul 29,M Allen
-PHYSICS,111,[PSCI] General Physics Lab,01,04942,1,"TU,TH13.30-16.20",WEBS 422,Jun 06--Jul 29,""
-PHYSICS,111,[PSCI] General Physics Lab,02,04943,1,"TU,TH16.30-19.20",WEBS 441,Jun 06--Jul 29,""
+PHYSICS,111,[PSCI] General Physics Lab,01,04942,1,"TU,TH13.30-16.20",WEBS 422,Jun 06--Jul 29,S Oden
+PHYSICS,111,[PSCI] General Physics Lab,02,04943,1,"TU,TH16.30-19.20",WEBS 441,Jun 06--Jul 29,H Schlunt
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,03667,3,"M,TU,W,TH,F10.30-11.20",WEBS 17,May 31--Jul 29,N Cerruti
-PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,04947,1,"TU,TH13.30-16.20",WEBS 432,Jun 06--Jul 29,""
+PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,04947,1,"TU,TH13.30-16.20",WEBS 432,Jun 06--Jul 29,J Tall
 PHYSICS,600,Special Projects or Independent Study,01,02496,V,ARRGT,ARR ARR,May 09--Jul 29,B Collins
 PHYSICS,700,"Master's Research, Thesis, and/or Examination",01,02497,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 PHYSICS,702,"Master's Special Problems, Directed Study and/or Examination",01,02498,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
@@ -533,9 +536,8 @@ PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,02507,V,AR
 PSYCH,210,Psychology as a Science,01,03159,3,"M,TU,W,TH,F12-13.15",TODD 320,Jun 20--Jul 31,D Adams
 PSYCH,333,Abnormal Psychology,01,03239,3,"M,TU,W,TH,F10.30-11.45",CLAR 149,Jun 20--Jul 31,V Jones
 PSYCH,498,Research Participation,03,02612,V,ARRGT,ARR ARR,May 09--Jul 29,M Gartstein
+PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",06,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Schmitter-Edgecombe
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",07,"",V,ARRGT,ARR ARR,May 09--Jul 29,P Strand
-SHS,201,American Sign Language I,01,03670,4,"M,TU,W,TH,F13-15.30",SPRK 333,May 09--Jun 03,M Ratsch
-SHS,202,American Sign Language II,01,03720,4,"M,TU,W,TH,F13-15.30",SPRK 333,Jun 06--Jul 01,M Ratsch
 SOC,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,"",3,ARRGT,ARR ARR,May 09--Jul 29,M Carroll
 SOE,420,Long-term Research in Forest Ecosystems: Old-growth Forests of Yosemite National Park,01,"",3,ARRGT,ARR ARR,May 16--May 27,M Swanson
@@ -586,7 +588,6 @@ SPMGT,394,Practicum in Sport Management,01,02521,V,ARRGT,ARR ARR,May 09--Jul 29,
 SPMGT,491,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,Y Rhee
 SPMGT,491,Internship,02,"",V,ARRGT,ARR ARR,May 09--Jul 29,T Crawford
 STAT,360,Probability and Statistics,01,03086,3,"M,TU,W,TH,F9-10.15",SPRK G0045,May 09--Jun 19,O Dykhovychnyi
-STAT,370,Introductory Statistics for Engineers,01,03674,3,"M,TU,W,TH,F10.30-11.25",TODD 116,Jun 20--Jul 31,D Hull-Nye
 STAT,702,"Master's Special Problems, Directed Study, and/or Examination",01,02958,V,ARRGT,ARR ARR,May 09--Jul 29,L Schreyer
 STAT,800,"Doctoral Research, Dissertation, and/or Examination",01,03015,V,ARRGT,ARR ARR,May 09--Jul 29,""
 TCH_LRN,317,Initial Practicum Experience,01,03087,2,ARRGT,ARR ARR,May 09--Jun 19,L White
@@ -603,9 +604,8 @@ TCH_LRN,590,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
 TCH_LRN,591,Research Internship in Math/Science Education,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 TCH_LRN,591,Research Internship in Math/Science Education,02,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Fick
 TCH_LRN,600,Special Projects or Independent Study,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
-TCH_LRN,700,"Master's Research, Thesis, and/or Examination",01,02531,V,ARRGT,ARR ARR,May 09--Jul 29,""
-TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,02532,V,ARRGT,ARR ARR,May 09--Jul 29,J Kelley
-TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,02533,V,ARRGT,ARR ARR,May 09--Jul 29,""
+TCH_LRN,700,"Master's Research, Thesis, and/or Examination",01,02531,V,ARRGT,ARR ARR,May 09--Jul 29,H Whittenburg
+TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,02532,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 UNIV,110,Developing Academic Strategies for Reading and Writing,01,"",4,"M,TU,W,TH16.10-17",WLSH 3,May 09--Jul 29,D Hinkle
 UNIV,301,Career Exploration and Professional Development,01,"",1,TU10.35-11.50,SPRK 327,May 09--Jul 29,M Kiel
 VET_CLIN,700,"Master's Research, Thesis, and/or Examination",01,02540,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)

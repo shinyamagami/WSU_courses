@@ -19,7 +19,7 @@ BIOLOGY,486,[M] Marine Invertebrate Communities,"","","",TU12.45-15.45,VECS 120,
 BIOLOGY,486,[M] Marine Invertebrate Communities,"","","",TH12.45-15.45,VECS 120,"",""
 BIOLOGY,486,[M] Marine Invertebrate Communities,01 Lab,04932,0,ARRGT,ARR ARR,May 09--Jun 19,M Berger
 BIOLOGY,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
-CHEM,106,Principles of Chemistry II,01,01286,4,"M,W12.50-15.20",VSCI 19,Jun 06--Jul 29,E Valente
+CHEM,106,Principles of Chemistry II,01,01286,4,"M,W12.50-15.20",VSCI 12,Jun 06--Jul 29,E Valente
 CHEM,106,Principles of Chemistry II,01 Lab,01287,0,TU12.50-17.50,VCLS 50,Jun 06--Jul 29,E Valente
 CHEM,345,Organic Chemistry I,01,01288,4,"TU,TH,F11-12.35",VLIB 260,May 09--Jul 01,A Otoikhian
 CHEM,345,Organic Chemistry I,01 Lab,01289,0,TH13.30-18.30,VCLS 50,May 09--Jul 01,L Reyes
@@ -33,7 +33,6 @@ COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR A
 CS,426,Applied Systems Security,01,04919,3,"TU,TH,F12.20-14.35",VECS 105,May 09--Jun 19,P Bonamy
 CS,700,"Master's Research, Thesis, and/or Examination",01,01274,V,ARRGT,ARR ARR,May 09--Jul 29,A Wisniewska
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,04883,3,"M,W11-14.20",VMMC 111,Jun 20--Jul 31,E Mcdonald
-DTC,354,[ARTS] [M] Digital Storytelling,01,01134,3,"TU,TH11-14.20",VMMC 111,Jun 20--Jul 29,W Luers
 DTC,355,[M] Multimedia Authoring,01,04886,3,"TU,TH14.30-17.50",VMMC 111,Jun 20--Jul 31,W Luers
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Styborski
 ECE,700,"Master's Research, Thesis, and/or Examination",01,01267,V,ARRGT,ARR ARR,May 09--Jul 29,F Zhao
@@ -46,6 +45,7 @@ ED_AD,561,Introduction to College Student Development,"","","",TU17.10-20.30,ARR
 ED_AD,702,"Master's Special Problems, Directed Study, and/or Examination",01,05350,2,ARRGT,ARR ARR,May 09--Jul 29,K Huggins
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,01123,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,01355,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
+ED_PSYCH,505,Research Methods I,01,01171,3,"M,TU,W,TH,F12.30-13.20",VECS 209,Jun 20--Jul 29,E Mcmain
 ED_PSYCH,521,Topics in Educational Psychology,01,"",3,TH17.10-20.30,VC ARR,May 09--Jul 29,S Dai
 ED_RES,571,Doctoral Dissertation Preparation,01,"",3,ARRGT,ARR ARR,May 09--Jul 29,S Kruse
 ENGLISH,340,Science Fiction Film,01,01115,3,"TU,TH11-14.20",VLIB 265,May 09--Jun 19,C Ratzlaff
@@ -54,7 +54,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,01,01114,3,M12.45-14.2
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,02,04922,3,"TU,TH14.30-16.05",VMMC 115,Jun 20--Jul 31,W Olson
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,J Phelps
 FIN,498,Finance Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,D Paul
-FOR_LANG,130,[HUM] Global Literature in Translation,01,01107,3,TU18-21.20,VMMC 219,Jun 20--Jul 29,C Gulam
+FOR_LANG,130,[HUM] Global Literature in Translation,01,01107,3,TU18-21.20,WEB ARR,Jun 20--Jul 29,C Gulam
 H_D,350,[DIVR] Family Diversity,01,04864,3,"M,W11-14.20",VUB 107,May 09--Jun 19,T Burkhard
 H_D,403,[CAPS] Families in Poverty,01,01125,3,"TU,TH11-14.20",VUB 107,May 09--Jun 19,Y Sano
 H_D,485,Participation in Human Development Research,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,""
@@ -64,7 +64,7 @@ HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,01109,3,"TU,TH,F9.55-12.1
 HISTORY,110,[HUM] American History to 1877,01,04894,3,"M,W9.55-12.10",VECS 125,May 09--Jun 19,T Hanshew
 HISTORY,110,[HUM] American History to 1877,"","","",F9.55-12.10,VC ARR,"",""
 HISTORY,387,World War II in Asia and the Pacific,01,04895,3,"M,W14.30-17.50",VECS 120,Jun 20--Jul 31,B Farley
-HUMANITY,130,[HUM] Global Literature in Translation,01,01108,3,TU18-21.20,VMMC 219,Jun 20--Jul 29,C Gulam
+HUMANITY,130,[HUM] Global Literature in Translation,01,01108,3,TU18-21.20,WEB ARR,Jun 20--Jul 29,C Gulam
 I_BUS,380,International Business,01,01094,3,"M,W18-21.20",VUB 107,May 09--Jun 19,T Larson
 KINES,536,Methods of Health and Physical Education,01,01079,2,"TU,TH16.30-18.45",VUB 122,May 09--Jun 19,M Byrne
 MATH,100,Basic Mathematics,01,04899,2,"M,TU,W,TH11-12.05",VUB 222,Jun 20--Jul 31,K Debower
@@ -89,6 +89,7 @@ MATH,440,Applied Mathematics I: PDEs,01,01320,3,"M,TU,W,TH,F10.10-11.25",VECS 20
 MATH,448,Numerical Analysis,01,01319,3,"M,TU,W,TH,F12-13.15",VECS 209,May 09--Jun 19,S Lapin
 MATH,540,Applied Mathematics I: PDEs,01,05450,3,"M,TU,W,TH,F10.10-11.25",VECS 209,May 09--Jun 19,S Lapin
 MATH,548,Numerical Analysis,01,05451,3,"M,TU,W,TH,F12-13.15",VECS 209,May 09--Jun 19,S Lapin
+MATH,800,"Doctoral Research, Dissertation, and/or Examination",01,05687,V,ARRGT,ARR ARR,May 09--Jul 29,B Krishnamoorthy
 MECH,211,Statics,01,05388,3,"M,TU,W,TH9-10.35",VECS 104,Jun 20--Jul 31,H Rad
 MECH,212,Dynamics,01,05390,3,"M,TU,W,TH11-12.35",VECS 104,Jun 20--Jul 31,H Rad
 MECH,700,"Master's Research, Thesis, and/or Examination",01,01332,V,ARRGT,ARR ARR,May 09--Jul 29,D Kim
@@ -223,9 +224,7 @@ MED_CLIN,637,Clinical Rotation - Interventional Radiology,01,"",V,ARRGT,ARR ARR,
 MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,"",4,ARRGT,ARR ARR,Jun 27--Aug 19,A Kumar
 MGMT,301,Principles of Management and Organization,01,01098,3,"M,W18-21.20",VUB 107,Jun 20--Jul 29,R Howell
 MGMT,401,Leading People and Organizations,01,01100,3,"TU,TH18-20.15",VUB 107,May 09--Jun 19,N Pionk
-MGMT,485,[M] Negotiation Skills,01,01095,3,"TU,TH18-21.20",VUB 107,Jun 20--Jul 31,N Pionk
 MGMT,491,[CAPS] Strategic Management,01,01096,3,"TU,TH14.30-17.50",VUB 107,May 09--Jun 19,A Smith
-MGTOP,340,Operations Management,01,01097,3,"TU,TH18-20.15",VMMC 214,Jun 20--Jul 29,R Howell
 MIT,503,Theories of Learning and Development,01,01091,2,"M,W15.30-17.45",VUB 222,May 09--Jun 19,A Darke
 MIT,503,Theories of Learning and Development,02,01092,3,"TU,TH11-14.20",VUB 124,Jun 20--Jul 29,T Burkhard
 MIT,504,Social Foundations of Education for Teachers,01,01082,3,"M,W9.30-11.45",VUB 124,May 09--Jun 19,S Rakha
@@ -290,25 +289,15 @@ PHYSICS,202,Physics for Scientists and Engineers II,01,01295,3,"M,W,F12.45-14.20
 PHYSICS,212,Physics Lab for Scientists and Engineers II,01,04893,1,"TU,TH12.50-15.20",VCLS 150,Jun 06--Jul 29,G Newman
 POL_S,101,[SSCI] American National Government,01,01129,3,"M,W9.55-12.10",VLIB 260,Jun 20--Jul 31,M Stephan
 POL_S,101,[SSCI] American National Government,"","","",F9.55-12.10,WEB ARR,"",""
-POL_S,317,Media and Politics,01,01292,3,"M,W12.20-14.35",VLIB 260,Jun 20--Jul 29,M Stephan
-POL_S,317,Media and Politics,"","","",F12.20-14.35,WEB ARR,"",""
 PREV_SCI,700,"Master's Research, Thesis, and/or Examination",01,01279,V,ARRGT,ARR ARR,May 09--Jul 29,""
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,01273,V,ARRGT,ARR ARR,May 09--Jul 29,""
 PSYCH,309,Diversity in Organizations,01,04916,3,F9.55-12.10,VLIB 264,Jun 20--Jul 31,M Jenkins
 PSYCH,310,"Work, Stress, and Health",01,04910,3,M12.20-14.35,VLIB 261,May 09--Jun 19,H Lee
 PSYCH,311,[QUAN] Statistics in Psychology,01,01177,4,F9.55-12.10,VLIB 264,May 09--Jun 19,M Jenkins
-PSYCH,372,[BSCI] Biological Basis of Behavior,01,04917,3,"M,W,F12.20-14.35",VLIB 261,Jun 20--Jul 31,D Fortin
-SOC,101,[SSCI] Introduction to Sociology,01,01101,3,M12.20-14.35,VLIB 201,Jun 20--Jun 20,""
-SOC,101,[SSCI] Introduction to Sociology,"","","",W12.20-14.35,VLIB 201,"",""
-SOC,101,[SSCI] Introduction to Sociology,"","","",F12.20-14.35,VLIB 201,"",""
-SOC,101,[SSCI] Introduction to Sociology,"","","",M12.20-14.35,VLIB 201,"",""
-SOC,101,[SSCI] Introduction to Sociology,"","","",W12.20-14.35,VLIB 201,"",""
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01,05413,4,"M,W10.10-12.40",VLIB 264,Jun 06--Jul 29,B Walker
-SOE,101,[PSCI] Welcome to the Earth: An Introduction to Geology,01 Lab,05414,0,"TU,TH10.10-12.40",VSCI 101,Jun 06--Jul 29,""
 SOE,700,"Master's Research, Thesis, and/or Examination",01,01271,V,ARRGT,ARR ARR,May 09--Jul 29,S Bollens
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,01270,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
-SPANISH,102,Second Semester,01,01128,4,"TU,TH7.30-10.50",VUB 124,Jun 20--Jul 29,C Gulam
-SPANISH,102,Second Semester,"","","",TU11-11.50,VCLS 224,"",""
+SPANISH,102,Second Semester,01,01128,4,"TU,TH7.30-10.50",WEB ARR,Jun 20--Jul 29,C Gulam
+SPANISH,102,Second Semester,"","","",TU11-11.50,WEB ARR,"",""
 SPANISH,111,[ARTS] Latin American Film,01,01305,3,TU14.30-17.50,WEB ARR,May 09--Jun 19,M Lee-Lopez
 SPEC_ED,420,Teaching in Inclusive Classrooms,01,01090,2,"TU,TH9.30-10.50",VUB 225,Jun 20--Jul 29,S Van Horn
 SPEC_ED,520,Teaching in Inclusive Classrooms,02,01277,3,"TU,TH14.30-17.50",VUB 124,Jun 20--Jul 29,M Dunn

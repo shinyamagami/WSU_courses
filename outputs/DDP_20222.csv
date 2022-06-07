@@ -1,6 +1,7 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 ACCTG,230,Introduction to Financial Accounting,01,03794,3,ARRGT,ARR ARR,Jun 27--Aug 14,N Pearson
 ACCTG,230,Introduction to Financial Accounting,02,03797,3,ARRGT,ARR ARR,Jun 27--Aug 14,N Pearson
+ACCTG,230,Introduction to Financial Accounting,03,05615,3,ARRGT,ARR ARR,Jun 27--Aug 14,N Pearson
 ACCTG,231,Introduction to Managerial Accounting,01,03789,3,ARRGT,ARR ARR,May 09--Jun 26,N Pearson
 ACCTG,231,Introduction to Managerial Accounting,02,03791,3,ARRGT,ARR ARR,May 09--Jun 26,N Pearson
 ACCTG,231,Introduction to Managerial Accounting,03,03800,3,ARRGT,ARR ARR,May 09--Jun 26,N Pearson
@@ -81,7 +82,7 @@ B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",05,02
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",10,02203,1,ARRGT,ARR ARR,Jun 27--Aug 14,G Mader
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",11,02204,1,ARRGT,ARR ARR,Jun 27--Aug 14,G Mader
 B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",12,02205,1,ARRGT,ARR ARR,Jun 27--Aug 14,G Mader
-B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",13,02206,1,ARRGT,ARR ARR,Jun 27--Aug 14,""
+B_A,600,"Beyond the MBA: Applications of Principles, Theory, and Practice",13,02206,1,ARRGT,ARR ARR,Jun 27--Aug 14,G Mader
 B_LAW,210,Law and the Legal Environment of Business,01,03801,3,ARRGT,ARR ARR,May 09--Jun 26,S Bergstedt
 B_LAW,210,Law and the Legal Environment of Business,02,03802,3,ARRGT,ARR ARR,May 09--Jun 26,S Bergstedt
 BIO_ENG,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
@@ -173,7 +174,7 @@ CRM_J,490,Criminal Justice Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Keo
 CRM_J,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Neuilly
 DATA,115,Introduction to Data Analytics,01,02045,3,ARRGT,ARR ARR,May 09--Jun 19,D Rice
 DATA,498,Internship,02,"",V,ARRGT,ARR ARR,Jun 20--Jul 31,S Lapin
-DATA,498,Internship,03,"",V,ARRGT,ARR ARR,May 09--Jun 19,S Lapin
+DATA,498,Internship,03,"",V,ARRGT,ARR ARR,Jun 20--Jul 31,S Lapin
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,01,01906,3,ARRGT,ARR ARR,May 09--Jun 19,J Riddle
 DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,01962,3,ARRGT,ARR ARR,Jun 20--Jul 31,T De Vries
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,01797,3,ARRGT,ARR ARR,May 09--Jun 19,R Gregory
@@ -183,6 +184,7 @@ DTC,355,[M] Multimedia Authoring,01,02041,3,ARRGT,ARR ARR,May 09--Jun 19,R Grego
 DTC,375,"[M] Language, Texts and Technology",01,02042,3,ARRGT,ARR ARR,Jun 20--Jul 31,N Idris
 DTC,475,[DIVR] Digital Diversity,01,01953,3,ARRGT,ARR ARR,Jun 20--Jul 31,E Fournier
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Styborski
+E_E,486,Power Electronics,01,02184,3,"M,TU,W,TH,F17-18.15","",Jun 27--Aug 12,J Guerrero Sedeno
 E_E,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
 E_M,470,"Systems Improvement: Integrating TOC, Lean, and Six Sigma",01,05040,3,"M,W18.15-20.45","",May 09--Jul 01,D Paulus
 E_M,522,Leading People and Organizations,01,05353,3,"M,W17.15-19.45","",May 09--Jul 01,G Vanek
@@ -225,6 +227,7 @@ ENGLISH,402,[WRTG] [M] Technical and Professional Writing,11,01904,3,ARRGT,ARR A
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,12,01905,3,ARRGT,ARR ARR,May 09--Jul 29,D Martin
 ENGLISH,419,The Twentieth Century Novel,01,01813,3,ARRGT,ARR ARR,May 09--Jul 29,C Harty
 ENGLISH,498,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,R Goodrich
+ENGR,488,Professional Practice Coop/Internship I,02,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Brabb
 ENTOM,555,Agricultural Chemical Technology for Crop Protection & Production,01,01748,3,ARRGT,ARR ARR,May 09--Jul 29,A Felsot
 FIN,223,[QUAN] Personal Finance,01,03803,3,ARRGT,ARR ARR,May 09--Jul 29,C Strong
 FIN,223,[QUAN] Personal Finance,02,03804,3,ARRGT,ARR ARR,May 09--Jul 29,C Strong
@@ -320,7 +323,7 @@ HBM,375,Introduction to Senior Living Management,01,03821,3,ARRGT,ARR ARR,May 09
 HBM,491,Operational Analysis,01,03817,3,ARRGT,ARR ARR,May 09--Jun 26,D Deng
 HBM,495,[CAPS] Case Studies and Research,01,03818,3,ARRGT,ARR ARR,Jun 27--Aug 14,D Gursoy
 HBM,581,Services Management,01,02246,3,ARRGT,ARR ARR,Jun 27--Aug 14,J Kim
-HBM,581,Services Management,02,02247,3,ARRGT,ARR ARR,Jun 27--Aug 14,""
+HBM,581,Services Management,02,02247,3,ARRGT,ARR ARR,Jun 27--Aug 14,J Kim
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,01,01849,3,ARRGT,ARR ARR,May 09--Jun 19,S Edgerton
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,02,01815,3,ARRGT,ARR ARR,May 09--Jun 19,K Whalen
 HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,01846,3,ARRGT,ARR ARR,Jun 20--Jul 31,J Dodson
@@ -359,9 +362,11 @@ IPM,452,Pesticides and the Environment,01,"",3,ARRGT,ARR ARR,May 09--Jul 29,A Fe
 IPM,552,Pesticides and the Environment,01,01758,3,ARRGT,ARR ARR,May 09--Jul 29,A Felsot
 MATH,103,Algebra Methods and Introduction to Functions,01,01817,3,ARRGT,ARR ARR,May 09--Jul 29,E Sablan
 MATH,103,Algebra Methods and Introduction to Functions,02,01853,3,ARRGT,ARR ARR,May 09--Jul 29,S Oje
+MATH,103,Algebra Methods and Introduction to Functions,03,01913,3,ARRGT,ARR ARR,Jun 27--Jul 29,J Widen
 MATH,105,[QUAN] Exploring Mathematics,01,01818,3,ARRGT,ARR ARR,May 09--Jul 29,G Pan
 MATH,106,College Algebra,01,02013,3,ARRGT,ARR ARR,May 09--Jun 19,R Learn
 MATH,106,College Algebra,02,05472,3,ARRGT,ARR ARR,May 09--Jun 19,J Carbajal-Moreno
+MATH,106,College Algebra,03,05688,3,ARRGT,ARR ARR,Jun 27--Jul 29,""
 MATH,108,Trigonometry,01,02014,2,ARRGT,ARR ARR,Jun 20--Jul 31,S Selmi
 MATH,108,Trigonometry,02,05456,2,ARRGT,ARR ARR,Jun 20--Jul 31,R Peffer
 MATH,110,Mathematics Acceleration,01,02053,1,ARRGT,ARR ARR,Jun 27--Jul 29,J Eld
@@ -518,7 +523,7 @@ SPEC_ED,301,Education of Exceptional Children,01,02163,3,ARRGT,ARR ARR,May 09--M
 SPEC_ED,401,Teaching Students with Disabilities,01,04964,3,ARRGT,ARR ARR,Jun 20--Jul 31,S Van Horn
 SPEC_ED,402,Assessment and Curriculum for Students with Disabilities,01,02151,3,ARRGT,ARR ARR,Jun 20--Jul 31,""
 SPEC_ED,403,Secondary Education for Students with Disabilities,01,02146,3,ARRGT,ARR ARR,May 09--Jun 19,J Thomas
-SPEC_ED,404,Professional Skills in Special Education,01,02147,3,ARRGT,ARR ARR,May 09--Jun 19,A Albagshi
+SPEC_ED,404,Professional Skills in Special Education,01,02147,3,ARRGT,ARR ARR,May 09--Jun 19,H Welsh-Griffin
 SPEC_ED,409,Early Childhood Special Education,01,02148,3,ARRGT,ARR ARR,Jun 20--Jul 31,M Itani
 SPEC_ED,421,Inclusion Strategies for Special Education Teachers,01,02149,3,ARRGT,ARR ARR,Jun 20--Jul 31,C Johnson
 SPEC_ED,471,Effective Assessment and Instruction in Reading for Diverse Learners,01,02150,3,ARRGT,ARR ARR,May 09--Jun 19,M Itani
@@ -526,7 +531,7 @@ SPEC_ED,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 SPEC_ED,501,Teaching Students with Disabilities,01,04965,3,ARRGT,ARR ARR,Jun 20--Jul 31,S Van Horn
 SPEC_ED,502,Assessment and Curriculum for Students with Disabilities,01,02152,3,ARRGT,ARR ARR,Jun 20--Jul 31,""
 SPEC_ED,503,Secondary Education for Students with Disabilities,01,02153,3,ARRGT,ARR ARR,May 09--Jun 19,J Thomas
-SPEC_ED,504,Professional Skills in Special Education,01,02154,3,ARRGT,ARR ARR,May 09--Jun 19,A Albagshi
+SPEC_ED,504,Professional Skills in Special Education,01,02154,3,ARRGT,ARR ARR,May 09--Jun 19,H Welsh-Griffin
 SPEC_ED,509,Early Childhood Special Education,01,02155,3,ARRGT,ARR ARR,Jun 20--Jul 31,M Itani
 SPEC_ED,521,Inclusion Strategies for Special Education Teachers,01,02156,3,ARRGT,ARR ARR,Jun 20--Jul 31,C Johnson
 SPEC_ED,571,Effective Assessment and Instruction in Reading for Diverse Learners,01,02157,3,ARRGT,ARR ARR,May 09--Jun 19,M Itani
@@ -554,8 +559,8 @@ WGSS,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",02,050
 WGSS,305,Gender and Politics,01,05022,3,ARRGT,ARR ARR,May 09--Jun 19,Y Chen
 WGSS,316,[DIVR] Gender in Cross Cultural Perspective,01,04984,3,ARRGT,ARR ARR,May 09--Jul 29,C Anderson
 WGSS,324,Psychology of Gender,01,04929,3,ARRGT,ARR ARR,May 09--Jul 29,A Campagna
-WGSS,363,[DIVR] Women in Music,01,03860,3,ARRGT,ARR ARR,May 09--Jun 19,S Tegart
-WGSS,363,[DIVR] Women in Music,02,03859,3,ARRGT,ARR ARR,Jul 30--Aug 21,S Miller
+WGSS,363,[DIVR] Women in Music,01,03859,3,ARRGT,ARR ARR,Jul 30--Aug 21,S Tegart
+WGSS,363,[DIVR] Women in Music,02,03860,3,ARRGT,ARR ARR,May 09--Jun 19,S Miller
 WGSS,385,"[DIVR] Introduction to Lesbian, Gay, Bisexual, and Transgender Studies",01,04994,3,ARRGT,ARR ARR,Jul 30--Aug 21,N Shahani
 WGSS,403,[CAPS] Violence Toward Women,02,05397,3,ARRGT,ARR ARR,May 09--Jun 19,L Reddy
 WRIT,302,Advanced Writing Collaborative,01,02320,1,ARRGT,ARR ARR,May 09--Jul 29,T Holland
