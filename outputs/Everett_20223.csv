@@ -20,15 +20,14 @@ COM,138,Introduction to Communication,01,14769,3,ARRGT,ARR ARR,Aug 22--Dec 09,M 
 COM,210,[COMM] Multimedia Content Creation,01,14777,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Pingel
 COM,275,Communication Seminar,01,16321,V,ARRGT,ARR ARR,Aug 22--Oct 02,I Haider
 COM,275,Communication Seminar,02,16322,V,ARRGT,ARR ARR,Oct 31--Dec 09,I Haider
-COM,300,[M] Writing in Communication,01,15145,3,"TU,TH10.35-13.15","",Aug 22--Dec 09,""
+COM,300,[M] Writing in Communication,01,15145,3,"TU,TH10.35-13.15","",Aug 22--Dec 09,V Mcvay
 COM,309,Quantitative Research Methods,02,15161,3,ARRGT,ARR ARR,Aug 22--Dec 09,W Peng
-COM,400,[COMM] Communicating Science and Technology,01,14793,3,"M,W,F10.10-11","",Aug 22--Dec 09,L Cuen Paxson
 COM,421,[CAPS] Intercultural Communication and Globalization,01,16050,3,"M,W10.35-11.50",GUC EVE,Aug 22--Dec 09,R Richardson
 COM,464,Gender and the Media,02,16052,3,"M,W13.30-14.45",GUC EVE,Aug 22--Dec 09,R Richardson
 COM,475,Communication Seminar,02,15162,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Loveless
 COM,475,Communication Seminar,03,15163,3,ARRGT,ARR ARR,Aug 22--Dec 09,L Pintak
 COM,479,Youth and the Media,01,14776,3,ARRGT,ARR ARR,Aug 22--Dec 09,L Tsui
-COMJOUR,333,[M] Reporting Across Platforms,03,15386,3,"TU,TH9.10-10.25",GUC EVE,Aug 22--Dec 09,""
+COMJOUR,333,[M] Reporting Across Platforms,03,15386,3,"TU,TH9.10-10.25",GUC EVE,Aug 22--Dec 09,V Mcvay
 COMSTRAT,301,Foundations of Persuasion,01,16062,3,"M,W9.10-10.25",GUC EVE,Aug 22--Dec 09,R Richardson
 COMSTRAT,310,Digital Content Promotion,01,14795,3,"M,W7.45-9",GUC EVE,Aug 22--Dec 09,B Atwood
 COMSTRAT,312,Principles of Public Relations,01,14758,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Atwood
@@ -38,8 +37,8 @@ COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,0
 COMSTRAT,476,Consumer Insights and Branding,01,14760,3,"M,W12-13.15",GUC EVE,Aug 22--Dec 09,C Wilder
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,15155,3,ARRGT,ARR ARR,Aug 22--Dec 09,Y Lee
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,W Wegner
-CPT_S,131,Program Design and Development Java,01,15081,4,ARRGT,ARR ARR,Aug 22--Dec 09,S Badri
-CPT_S,131,Program Design and Development Java,01 Lab,15082,0,ARRGT,ARR ARR,Aug 22--Dec 09,S Badri
+CPT_S,131,Program Design and Development Java,01,15081,4,ARRGT,ARR ARR,Aug 22--Dec 09,B Zeng
+CPT_S,131,Program Design and Development Java,01 Lab,15082,0,ARRGT,ARR ARR,Aug 22--Dec 09,B Zeng
 CPT_S,215,Data Analytics Systems and Algorithms,01,15067,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Badri
 CPT_S,233,Advanced Data Structures Java,01,14811,3,"M,W,F13.10-14","",Aug 22--Dec 09,D Tao
 CPT_S,302,Professional Skills in Computing and Engineering,01,14817,3,"TU,TH13.30-14.45","",Aug 22--Dec 09,J Thompson
@@ -47,6 +46,7 @@ CPT_S,315,Introduction to Data Mining,01,15134,3,ARRGT,ARR ARR,Aug 22--Dec 09,A 
 CPT_S,317,Automata and Formal Languages,01,16486,3,"M,W,F13.10-14","",Aug 22--Dec 09,J Thompson
 CPT_S,321,Object-Oriented Software Principles,01,14812,3,"M,W,F16.10-17","",Aug 22--Dec 09,V Arnaoudova
 CPT_S,327,Introduction to Cyber Security,01,16495,3,"M,W,F11.10-12","",Aug 22--Dec 09,A Jillepalli
+CPT_S,350,Design and Analysis of Algorithms,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,J Thompson
 CPT_S,411,Introduction to Parallel Computing,01,15151,3,"TU,TH12.05-13.20","",Aug 22--Dec 09,A Kalyanaraman
 CPT_S,415,Big Data,02,15868,3,"TU,TH7.45-9","",Aug 22--Dec 09,J Yu
 CPT_S,421,Software Design Project I,01,15274,3,"TU,TH14.55-16.10","",Aug 22--Dec 09,B Zeng
@@ -63,6 +63,7 @@ DATA,115,Introduction to Data Analytics,01,15158,3,"TU,TH10.35-11.50","",Aug 22-
 DATA,390,Special Topics I,01,16234,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
 DATA,390,Special Topics I,02,16235,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
 DATA,390,Special Topics I,03,16236,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
+E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,M Styborski
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,""
 E_E,302,Professional Skills in Computing and Engineering,01,14824,3,"TU,TH13.30-14.45","",Aug 22--Dec 09,J Thompson
 E_E,311,Electronics,01,14735,3,"M,W14.10-15.25","",Aug 22--Dec 09,J Murray
@@ -83,6 +84,7 @@ E_E,491,Performance of Power Systems,01,15212,3,"TU,TH9.10-10.25","",Aug 22--Dec
 E_E,492,Renewable Energy Sources,01,15409,3,"M,W,F14.10-15","",Aug 22--Dec 09,J Guerrero Sedeno
 E_E,492,Renewable Energy Sources,01 Lab,15478,0,ARRGT,ARR ARR,Aug 22--Dec 09,J Guerrero Sedeno
 E_E,496,Semiconductor Devices,01,15144,3,"M,W,F11.10-12","",Aug 22--Dec 09,M Osman
+E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,J Murray
 ECONS,101,[SSCI] Fundamentals of Microeconomics,02,15011,3,ARRGT,ARR ARR,Aug 22--Dec 09,N Cabote
 ECONS,102,[SSCI] Fundamentals of Macroeconomics,01,15012,3,ARRGT,ARR ARR,Aug 22--Dec 09,C Clarke
 ECONS,305,Intermediate Microeconomics without Calculus,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,J Wang
@@ -98,21 +100,23 @@ FS,201,[BSCI] Science on Your Plate,01,15870,3,"M,W,F13.10-14","",Aug 22--Dec 09
 H_D,350,[DIVR] Family Diversity,01,14975,3,ARRGT,ARR ARR,Aug 22--Dec 09,D Bice
 HBM,101,Professional and Career Development for the Business World,02,14759,1,"M,W,F11.10-12","",Oct 17--Dec 11,A Mcleod
 HBM,280,Hospitality Systems,02,14774,3,TH15.10-18,"",Oct 17--Dec 11,K Philander
+HBM,280,Hospitality Systems,03,"",3,ARRGT,ARR ARR,Oct 17--Dec 11,K Philander
 HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,Aug 22--Oct 09,A Senter
 HBM,358,Foodservice Systems and Control,02,"",3,ARRGT,ARR ARR,Aug 22--Oct 09,S Seo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,14781,3,"TU,TH13.30-14.45","",Aug 22--Dec 09,J Sandstrom
 HBM,401,Career Management,02,15119,1,TH13.30-14.45,"",Aug 22--Dec 09,A Alonzo
 HBM,470,Senior Living Management Operations Analysis,01,15858,3,ARRGT,ARR ARR,Aug 22--Oct 09,C Wolfenbarger
 HBM,491,Operational Analysis,01,14731,3,ARRGT,ARR ARR,Oct 17--Dec 11,""
-HBM,494,[M] Service Operations Management,02,14797,3,TH13.30-16,"",Aug 22--Dec 09,S Seo
-HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,14798,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
+HBM,494,[M] Service Operations Management,02,14797,3,TH13.30-16,"",Aug 22--Oct 09,S Seo
+HBM,495,[CAPS] Case Studies and Research,01,14782,3,"TU,TH10.35-11.50","",Aug 22--Oct 09,R Cai
+HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,14798,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Finkelberg
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,15981,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
 HORT,310,Pomology,01,14786,3,"TU,TH13.30-14.45","",Aug 22--Dec 09,L Devetter
 HORT,313,Viticulture,01,15983,3,"TU,TH14.55-16.10","",Aug 22--Dec 09,B Bondada
 HORT,320,Olericulture,01,15271,3,"TU,TH9.10-10.25","",Aug 22--Dec 09,M Kumar
-I_BUS,435,International Tourism,01,16461,3,W15.10-18,"",Aug 22--Oct 09,""
+I_BUS,435,International Tourism,01,16721,3,W15.10-18,VC ARR,Aug 22--Oct 09,M Chen
 MATH,202,[QUAN] Calculus for Business and Economics,01,14891,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Morgan
-MATH,216,Discrete Structures,01,14810,3,"M,W,F9.10-10","",Aug 22--Dec 09,""
+MATH,216,Discrete Structures,01,14810,3,"M,W,F9.10-10","",Aug 22--Dec 09,D Hampson
 MATH,225,Linear Algebra with Modern Applications,02,16582,3,"M,W,F11.10-12","",Aug 22--Dec 09,J Mcdonald
 MATH,405,Introduction to Financial Mathematics,01,15178,3,"M,W,F3.10-4","",Aug 22--Dec 09,H Yin
 ME,303,Fluid Mechanics,01,14747,3,"M,W,F12.10-13","",Aug 22--Dec 09,Y Hu
@@ -125,11 +129,138 @@ ME,313,Engineering Analysis,02 Lab,14818,0,F13.10-16,"",Aug 22--Dec 09,X Bi
 ME,316,Mechanical Component Analysis and Design,01,14745,3,"M,W,F11.10-12","",Aug 22--Dec 09,Y Hu
 ME,405,Thermal Systems Design,01,14748,3,"M,W,F10.10-11","",Aug 22--Dec 09,G Taub
 ME,415,[M] Engineering Design,01,14746,3,"M,W,F13.10-14","",Aug 22--Dec 09,X Bi
-ME,436,Combustion Engines,01,14751,3,"M,W,F15.10-16","",Aug 22--Dec 09,""
+ME,436,Combustion Engines,01,14751,3,"M,W,F15.10-16","",Aug 22--Dec 09,J Leachman
 ME,461,Introduction to Nuclear Engineering,01,14755,3,"TU,TH16.20-17.35","",Aug 22--Dec 09,R Stout
 ME,466,Fundamentals of Engineering Examination Review,01,14819,1,TU15.10-16,"",Aug 22--Dec 09,""
 ME,483,Topics in Mechanical Engineering,01,15632,V,"M,W,F16.10-17","",Aug 22--Dec 09,G Taub
 MED_CLIN,522,Longitudinal Integrated Clerkship II,01,15353,14,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowen
+MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,530,Virtual - Clinical Cases,03,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,530,Virtual - Clinical Cases,04,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,531,Family Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
+MED_CLIN,532,Internal Medicine - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,533,Surgery - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,534,Pediatrics - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,535,Psychiatry - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
+MED_CLIN,536,Obstetrics and Gynecology - Subinternship,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,537,Emergency Medicine - Emergency Medicine,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,C Heine
+MED_CLIN,538,Core - Rural Medicine,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
+MED_CLIN,539,Core - Underserved Medicine,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
+MED_CLIN,540,Virtual - Advanced Multi-Specialty Clinical Cases,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
+MED_CLIN,541,Clinical Rotation - Radiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Kaczmark
+MED_CLIN,542,Clinical Rotation - Dermatology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Heine
+MED_CLIN,543,Clinical Rotation - Physical Medicine and Rehabilitation,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Heine
+MED_CLIN,544,Internal Medicine - Nephrology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,545,Internal Medicine - Critical Care,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,546,Surgery - Vascular Surgery,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,547,Internal Medicine - Cardiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,548,Surgery - Orthopaedic Surgery,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,B Chia
+MED_CLIN,549,Internal Medicine - Hematology and Oncology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,551,Clinical Rotation - Pathology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,551,Clinical Rotation - Pathology,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,552,Internal Medicine - Gastroenterology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,553,Pediatrics - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,553,Pediatrics - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,554,Virtual - Telemedicine: Principles of Practice,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,555,Clinical Rotation - Telemedicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,556,Virtual - Basic Medical Spanish,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,F Williams
+MED_CLIN,557,Clinical Rotation - Medical Spanish,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,F Williams
+MED_CLIN,558,Virtual - Medical Humanities,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,J Marcin
+MED_CLIN,559,Virtual - Technical Writing in Medicine,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,560,Family Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
+MED_CLIN,561,Internal Medicine - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,562,Obstetrics and Gynecology - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,563,Pediatrics - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,564,Psychiatry - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
+MED_CLIN,564,Psychiatry - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
+MED_CLIN,565,Surgery - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,565,Surgery - Ambulatory,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,566,Internal Medicine - Inpatient,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,567,Obstetrics and Gynecology - Inpatient,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,567,Obstetrics and Gynecology - Inpatient,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,568,Pediatrics - Hospital Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,570,Away Rotation - North America,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,04,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,05,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
+MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,S Siddiqui
+MED_CLIN,573,Clinical Rotation - Anesthesiology,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,S Siddiqui
+MED_CLIN,574,Science - Clinical Bioethics,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,W Kabasenche
+MED_CLIN,575,Clinical Rotation - Geriatrics,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,576,Internal Medicine - Internal Medicine Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,577,Surgery - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,577,Surgery - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,578,Surgery - General Surgery,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,579,Science - Medical Informatics,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,580,Clinical Rotation - Neurology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,581,Obstetrics and Gynecology - Subspecialties,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,582,Science - Quality Improvement and Patient Safety,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,583,Science - Evidence-Based Medicine,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,584,Clinical Rotation - Ophthalmology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Litvack
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
+MED_CLIN,585,Clinical Rotation - Hospice and Palliative Medicine,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
+MED_CLIN,586,Surgery - Neurological Surgery,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Litvack
+MED_CLIN,587,Clinical Rotation - Public Health,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
+MED_CLIN,588,Clinical Rotation - Radiation Oncology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,590,Science - Medical Education,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowen
+MED_CLIN,591,Surgery - Otolaryngology (Head and Neck Surgery),01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Litvack
+MED_CLIN,592,Surgery - Plastic Surgery,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,593,Surgery - Thoracic and Cardiac Surgery,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,594,Surgery - Urology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Litvack
+MED_CLIN,595,Surgery - Surgery Critical Care,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,595,Surgery - Surgery Critical Care,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,596,Surgery - Pediatric Surgical Specialties,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,596,Surgery - Pediatric Surgical Specialties,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_CLIN,597,Virtual - Virtual Clerkship,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,598,Science - Research Experience,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,599,Special Projects,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,599,Special Projects,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,601,Internal Medicine - Infectious Diseases,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,602,Internal Medicine - Pulmonology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,603,Internal Medicine - Endocrinology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,604,Internal Medicine - Allergy and Immunology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,605,Internal Medicine - Rheumatology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,606,Internal Medicine - Adult Congenital Heart Disease,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,607,Internal Medicine - Heart Failure and Transplant Cardiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,608,Internal Medicine - Electrophysiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,609,Pediatrics - Dermatology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,610,Pediatrics - Medical Genetics and Genomics,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,611,Pediatrics - Cardiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,612,Pediatrics - Hematology and Oncology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,613,Pediatrics - Infectious Diseases,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,614,Pediatrics - Gastroenterology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,615,Pediatrics - Development-Behavioral Pediatrics,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,616,Pediatrics - Adolescent Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,617,Pediatrics - Critical Care,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,618,Pediatrics - Neonatal-Perinatal Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,619,Pediatrics - Neurology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,620,Pediatrics - Pulmonology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,621,Pediatrics - Emergency Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,622,Pediatrics - Rheumatology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,623,Pediatrics - Endocrinology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,624,Pediatrics - Diabetology,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,625,Pediatrics - Child Abuse,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
+MED_CLIN,626,Psychiatry - Ambulatory,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
+MED_CLIN,627,Psychiatry - Inpatient,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
+MED_CLIN,628,Obstetrics and Gynecology - Maternal-Fetal Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,629,Obstetrics and Gynecology - Gynecologic Oncology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,630,Obstetrics and Gynecology - Reproductive Endocrinology and Infertility,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,631,Obstetrics and Gynecology - Urogynecology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,632,Obstetrics and Gynecology - Reproductive Health,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,H Andersen
+MED_CLIN,633,Clinical Rotation - Global Health,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,634,Clinical Rotation - Sleep Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,634,Clinical Rotation - Sleep Medicine,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,L Sood
+MED_CLIN,635,Clinical Rotation - Pain Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,S Siddiqui
+MED_CLIN,636,Clinical Rotation - Sports Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
+MED_CLIN,636,Clinical Rotation - Sports Medicine,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
+MED_CLIN,637,Clinical Rotation - Interventional Radiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Kaczmark
+MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
 MED_LMH,521,Quality and Safety in Healthcare: Medical Errors,01,15352,1,ARRGT,ARR ARR,Aug 22--Nov 23,""
 MED_LMH,531,Personal Leadership Development I,01,15596,1,ARRGT,ARR ARR,Aug 22--Nov 23,J Haney
 MEDSCHLR,520,Foundations of Scholarship and Discovery II,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,T Chauvin
@@ -140,7 +271,7 @@ MGMT,483,[M] Management of Innovation and Change,02,16462,3,"TU,TH13.30-14.40","
 MGMT,491,[CAPS] Strategic Management,01,"",3,ARRGT,ARR ARR,Aug 22--Oct 09,L Zhu
 MGTOP,340,Operations Management,02,15860,3,W18-20.15,"",Aug 22--Dec 09,""
 MIS,250,Managing Information Technology,02,"",3,ARRGT,ARR ARR,Oct 17--Dec 11,J Barnett
-MUS,262,[ARTS] Rock Music: History and Social Analysis,02,14881,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Myers
+MUS,262,[ARTS] Rock Music: History and Social Analysis,02,14881,3,ARRGT,ARR ARR,Aug 22--Dec 09,A Miller
 MUS,265,[HUM] Native Music of North America,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,M Parkhurst
 MUS,266,[ARTS] Film Music,01,15605,3,ARRGT,ARR ARR,Aug 22--Dec 09,C Dickey
 PL_P,300,Diseases of Fruit Crops,01,16522,2,"TU,TH9.10-10.10",VC ARR,Aug 22--Dec 09,""
@@ -160,7 +291,8 @@ SOIL_SCI,201,[BSCI] Soil: A Living System,01,14788,3,ARRGT,ARR ARR,Aug 22--Dec 0
 SOIL_SCI,368,Introduction to Geographic Information Systems,01,15091,3,ARRGT,ARR ARR,Aug 22--Dec 09,L Brueggeman
 SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,15092,0,ARRGT,ARR ARR,Aug 22--Dec 09,L Brueggeman
 SOIL_SCI,479,Organic Farm and Garden Field Management,01,15094,2,ARRGT,ARR ARR,Aug 22--Dec 09,B Jaeckel
-STAT,360,Probability and Statistics,02,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,""
+STAT,360,Probability and Statistics,01,14800,3,"TU,TH12.05-13.20",VC ARR,Aug 22--Dec 09,S Lapin
+STAT,360,Probability and Statistics,02,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,T Trbojevic
 STAT,370,Introductory Statistics for Engineers,01,14820,3,"M,W,F11.10-12","",Aug 22--Dec 09,G Taub
 STAT,412,Statistical Methods in Research I,01,15076,3,ARRGT,ARR ARR,Aug 22--Dec 09,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,01,15309,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin

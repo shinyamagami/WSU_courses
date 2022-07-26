@@ -1,6 +1,6 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Styborski
-ED_AD,585,Financial Management in Education,01,04581,3,"M,W17.10-20.30",SAC 347,Jun 20--Jul 29,K Cloninger
+ED_AD,585,Financial Management in Education,01,04581,3,"M,W17.10-20.30",VC ARR,Jun 20--Jul 29,K Cloninger
 ED_AD,588,The Law and Education,01,04182,3,"M,W17.10-20.30",VC ARR,May 09--Jun 19,G Pettett
 ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,04176,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 KINES,536,Methods of Health and Physical Education,01,04689,2,"M,W,F8-10.05",SAC 45,May 09--Jun 03,P Morgan
@@ -54,6 +54,8 @@ MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,
 MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,570,Away Rotation - North America,04,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,570,Away Rotation - North America,05,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,570,Away Rotation - North America,06,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,570,Away Rotation - North America,07,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,571,Away Rotation - International,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,571,Away Rotation - International,03,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
@@ -153,7 +155,7 @@ NEP,540,Clinical Supervised Practice,02,04146,10,"TU,W,TH10.10-15",SHER 310,May 
 NEP,540,Clinical Supervised Practice,"","","",M13.10-15,SHER 317,"",""
 NEP,540,Clinical Supervised Practice,01 Lab,04143,0,ARRGT,ARR ARR,May 09--Jul 29,L Heneghen
 NEP,540,Clinical Supervised Practice,02 Lab,04149,0,ARRGT,ARR ARR,May 09--Jul 29,K Frederick
-NEP,701,Master's Independent Capstone Project and /or Examination,01,04215,V,F16.10-17,ARR ARR,May 13--May 13,A Davis
+NEP,701,Master's Independent Capstone Project and /or Examination,01,04215,V,F16.10-17,ARR ARR,May 13--May 13,(multiple)
 NEP,701,Master's Independent Capstone Project and /or Examination,"","","",M16.10-17,ARR ARR,"",""
 NEP,702,"Master's Special Problems, Directed Study, and/or Examination",01,04164,V,ARRGT,ARR ARR,May 09--Jul 29,A Davis
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,04569,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
@@ -169,8 +171,8 @@ NURS,440,[M] Population Health Theory,01,03915,3,ARRGT,ARR ARR,May 09--Jul 29,K 
 NURS,440,[M] Population Health Theory,02,03954,3,ARRGT,ARR ARR,May 09--Jul 29,K Mitchell
 NURS,455,Cultural Safety and Social Justice in Global Society,01,04122,3,ARRGT,ARR ARR,Jun 06--Jul 29,S Edwards
 NURS,455,Cultural Safety and Social Justice in Global Society,02,04125,3,ARRGT,ARR ARR,Jun 06--Jul 29,S Edwards
-NURS,463,Coordination of Care Across Complex Populations,01,05411,3,ARRGT,ARR ARR,Jun 06--Jul 29,""
-NURS,463,Coordination of Care Across Complex Populations,02,05412,3,ARRGT,ARR ARR,Jun 06--Jul 29,""
+NURS,463,Coordination of Care Across Complex Populations,01,05411,3,ARRGT,ARR ARR,Jun 06--Jul 29,S Girard
+NURS,463,Coordination of Care Across Complex Populations,02,05412,3,ARRGT,ARR ARR,Jun 06--Jul 29,S Girard
 NURS,465,Application of Population Health Principles,01,04260,3,ARRGT,ARR ARR,May 09--Jul 29,M Wiedmer
 NURS,495,[CAPS] Advanced Practicum,01,03903,3,ARRGT,ARR ARR,Jun 06--Jul 29,(multiple)
 NURS,495,[CAPS] Advanced Practicum,02,03960,3,ARRGT,ARR ARR,Jun 06--Jul 29,(multiple)
@@ -269,7 +271,6 @@ PHARMACY,586,Elective II Advanced Practice Experience,50,"",5,ARRGT,ARR ARR,May 
 PHARMSCI,700,"Master's Research, Thesis, and/or Examination",01,05455,V,ARRGT,ARR ARR,May 09--Jul 29,A Lazarus
 PHARMSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,04263,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 PREV_SCI,800,"Doctoral Research, Dissertation, and/or Examination",01,04575,V,ARRGT,ARR ARR,May 09--Jul 29,""
-SHS,202,American Sign Language II,01,04704,4,ARRGT,ARR ARR,Jul 30--Aug 21,M Ratsch
 SHS,540,Special Topics in Speech and Hearing Sciences,01,04296,V,"W,F9-12.30",SNRS 203,May 31--Jun 10,A Meredith
 SHS,540,Special Topics in Speech and Hearing Sciences,02,04299,V,"TU,TH9-12.30",SNRS 203,May 31--Jun 10,A Meredith
 SHS,556,Problems in Stuttering,01,04668,2,W8-12.30,SNRS 203,May 09--May 27,D Jenson

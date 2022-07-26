@@ -17,7 +17,7 @@ BSYSE,600,Special Projects or Independent Study,01,01466,V,ARRGT,ARR ARR,May 09-
 BSYSE,700,"Master's Research, Thesis, and/or Examination",01,01393,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 BSYSE,702,"Master's Special Problems, Directed Study and/or Examination",01,01394,V,ARRGT,ARR ARR,May 09--Jul 29,""
 BSYSE,800,"Doctoral Research, Dissertation, and/or Examination",01,01395,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
-CE,215,Mechanics of Materials,01,01589,3,"M,W7.30-10.50",TFLO 133,Jun 20--Jul 29,M Mortuza
+CE,215,Mechanics of Materials,01,01589,3,"M,W7.30-10.50",TFLO 224,Jun 20--Jul 29,M Mortuza
 CE,495,Engineering Experience,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CE,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CE,600,Special Projects or Independent Study,01,01378,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
@@ -36,6 +36,7 @@ CHEM,345,Organic Chemistry I,02 Lab,01665,0,"TU,TH9-11.50",TBSL 173,May 23--Jul 
 CHEM,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,N Devarie Baez
 CPT_S,122,Data Structures C/C++,01,01391,4,"M,W16.15-17.50",TFLO 224,May 09--Jul 29,N Tenney
 CPT_S,122,Data Structures C/C++,01 Lab,01392,0,TU16.15-19.35,TFLO 224,May 09--Jul 29,N Tenney
+CPT_S,322,[M] Software Engineering Principles I,01,05695,3,"M,W,F16.30-19.10",TFLO 133,Jun 27--Jul 29,L Delatorre
 CPT_S,490,Work Study Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,L Delatorre
 CPT_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
 CPT_S,600,Special Projects or Independent Study,01,01383,V,ARRGT,ARR ARR,May 09--Jul 29,(multiple)
@@ -45,7 +46,7 @@ CPT_S,800,"Doctoral Research, Dissertation, and/or Examination",01,01386,V,ARRGT
 CROP_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,J Blauer
 DTC,498,Internship,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,A Plemons
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,M Styborski
-E_E,221,Numerical Computing for Engineers,01,01618,2,"M,W12.20-14.35",TFLO 131,Jun 20--Jul 29,D Lowry
+E_E,221,Numerical Computing for Engineers,01,01618,2,"M,W12.20-14.35",TFLO 244,Jun 20--Jul 29,D Lowry
 E_E,261,Electrical Circuits I,01,01590,3,"TU,TH11-14.20",TFLO 131,Jun 20--Jul 29,D Lowry
 E_E,262,Electrical Circuits Laboratory I,01,01591,1,"TU,TH14.30-17.50",TFLO 164,Jun 20--Jul 29,D Lowry
 E_E,262,Electrical Circuits Laboratory I,"","","","TU,TH14.30-17.50",TFLO 161,"",""
@@ -76,8 +77,6 @@ KINES,536,Methods of Health and Physical Education,01,01636,2,"TU,TH9.30-11.45",
 LLT,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,May 09--Jul 29,S Newcomer
 MATH,171,[QUAN] Calculus I,01,01654,4,"M,W,F9.55-12.10",TFLO 244,Jun 20--Jul 31,S Selmi
 MATH,171,[QUAN] Calculus I,01 Lab,01655,0,"TU,TH11-14.20",TFLO 244,Jun 20--Jul 31,S Selmi
-MATH,251,Fundamentals of Elementary Mathematics I,01,01607,3,"M,W11-14.20",TCOL 126,Jun 20--Jul 31,M Esping
-MATH,251,Fundamentals of Elementary Mathematics I,01 Lab,01608,0,F11-14.20,WEB ARR,Jun 20--Jul 31,M Esping
 MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01,01605,3,"M,W,F17.10-18.35",TFLO 244,May 09--Jun 19,C Tate
 MATH,252,[QUAN] Fundamentals of Elementary Mathematics II,01 Lab,01606,0,"M,W,F18.45-20.10",TFLO 244,May 09--Jun 19,C Tate
 MATH,303,[M] Geometry for the Middle School Teacher,01,01614,3,"TU,TH11.10-13.30",TFLO 210,May 09--Jun 19,J Thomas Zapata
@@ -143,6 +142,9 @@ MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,
 MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,570,Away Rotation - North America,04,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,570,Away Rotation - North America,05,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,570,Away Rotation - North America,06,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,570,Away Rotation - North America,07,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
+MED_CLIN,570,Away Rotation - North America,08,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,571,Away Rotation - International,02,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
 MED_CLIN,571,Away Rotation - International,03,"",V,ARRGT,ARR ARR,Jun 27--Aug 19,D Dewitt
@@ -317,6 +319,7 @@ SOE,700,"Master's Research, Thesis, and/or Examination",01,01472,V,ARRGT,ARR ARR
 SOE,702,"Master's Special Problems, Directed Study, and/or Examination",01,01473,V,ARRGT,ARR ARR,May 09--Jul 29,A Felsot
 SOE,800,"Doctoral Research, Dissertation, and/or Examination",01,01474,V,ARRGT,ARR ARR,May 09--Jul 29,A Felsot
 SOIL_SCI,495,Research Experience,01,"",V,ARRGT,ARR ARR,May 09--Jul 29,J Blauer
+SOIL_SCI,502,Advanced Topics in Soils,01,"",3,"M,TU,W,TH,F10.10-11",ARR ARR,Jun 27--Jul 22,M Islam
 SPEC_ED,490,Practicum in Special Education,01,"",V,ARRGT,ARR ARR,May 09--Jun 19,J Mancinelli
 TCH_LRN,330,Diversity in Education,01,01600,3,"M,W17-20.20",TFLO 230,May 09--Jun 19,E Johnson
 TCH_LRN,330,Diversity in Education,02,"",3,ARRGT,ARR ARR,May 09--Jun 13,E Johnson
