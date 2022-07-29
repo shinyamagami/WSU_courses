@@ -77,10 +77,10 @@ B_A,499,Special Problems,01,"",1,"TU,TH10.35-11.50",VUB 100,Oct 31--Dec 09,R Boy
 B_LAW,210,Law and the Legal Environment of Business,01,10419,3,"M,W16.20-17.35",VMMC 22,Aug 22--Dec 09,""
 BIOLOGY,101,[BSCI] Biology of Humans,01,10611,3,F12.05-12.55,VSCI 12,Aug 22--Dec 09,W Cushwa
 BIOLOGY,102,[BSCI] General Biology,01,10670,4,"TU,TH12.05-13.20",VUB 1,Aug 22--Dec 09,K Turner
-BIOLOGY,102,[BSCI] General Biology,01 Lab,10671,0,TH17.45-20.25,VSCI 101,Aug 22--Dec 09,S Bussan
-BIOLOGY,102,[BSCI] General Biology,02 Lab,10672,0,F7.45-10.25,VSCI 101,Aug 22--Dec 09,J Burgher
-BIOLOGY,102,[BSCI] General Biology,03 Lab,10673,0,F13.30-16.10,VSCI 101,Aug 22--Dec 09,S Bussan
-BIOLOGY,102,[BSCI] General Biology,04 Lab,10924,0,F10.35-13.15,VSCI 101,Aug 22--Dec 09,J Burgher
+BIOLOGY,102,[BSCI] General Biology,01 Lab,10671,0,TH17.45-20.25,VSCI 109,Aug 22--Dec 09,S Bussan
+BIOLOGY,102,[BSCI] General Biology,02 Lab,10672,0,F7.45-10.25,VSCI 109,Aug 22--Dec 09,J Burgher
+BIOLOGY,102,[BSCI] General Biology,03 Lab,10673,0,F13.30-16.10,VSCI 109,Aug 22--Dec 09,S Bussan
+BIOLOGY,102,[BSCI] General Biology,04 Lab,10924,0,F10.35-13.15,VSCI 109,Aug 22--Dec 09,J Burgher
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,10674,4,"TU,TH10.35-11.50",VUB 1,Aug 22--Dec 09,K Turner
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02,12080,4,"TU,TH13.30-14.45",VUB 1,Aug 22--Dec 09,K Turner
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01 Lab,10675,0,TU7.45-10.25,VSCI 109,Aug 22--Dec 09,J Mitchell
@@ -113,7 +113,7 @@ BIOLOGY,519,Introduction to Population Genetics,01,11057,3,"TU,TH13.30-14.45",VS
 BIOLOGY,559,"Hormones, Brain and Behavior",01,11446,3,"TU,TH13.30-14.45",VC ARR,Aug 22--Dec 09,E Crespi
 BIOLOGY,568,Conservation Ecology,01,11759,3,"TU,TH10.35-11.50",VSCI 240,Aug 22--Dec 09,C Schultz
 BIOLOGY,585,Professional Development and Training for College and University Teaching,01,11879,2,F13.10-15,VSCI 140,Aug 22--Dec 09,L Carloye
-BIOLOGY,589,Advanced Topics in Biology,02,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,J Boll
+BIOLOGY,589,Advanced Topics in Biology,02,"",3,"M,W15.10-16.25",VC VAN,Aug 22--Dec 09,J Boll
 BIOLOGY,700,"Master's Research, Thesis, and/or Examination",01,10592,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 BIOLOGY,800,"Doctoral Research, Dissertation, and/or Examination",01,10593,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 CES,101,[DIVR] Race and Racism in the United States,01,11075,3,"TU,TH10.35-11.50",VECS 120,Aug 22--Dec 09,K Serrott
@@ -167,7 +167,7 @@ CS,223,Advanced Data Structures,01,10766,3,"M,W12.05-13.20",VECS 104,Aug 22--Dec
 CS,260,Computer Organization,01,10767,3,"M,W13.30-14.45",VECS 105,Aug 22--Dec 09,P Bonamy
 CS,315,Introduction to Data Mining,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,A Jillepalli
 CS,317,Automata and Formal Languages,02,11838,3,"TU,TH13.30-14.45",VECS 105,Aug 22--Dec 09,F Kabir
-CS,330,Numerical Computing,01,10770,3,"TU,TH17.45-19",VECS 104,Aug 22--Dec 09,A Majdara
+CS,330,Numerical Computing,01,10770,3,"M,W12.05-13.20",VSCI 19,Aug 22--Dec 09,A Majdara
 CS,360,Systems Programming,01,12002,4,"M,W9.10-10.25",VUB 1,Aug 22--Dec 09,B Mccamish
 CS,360,Systems Programming,01 Lab,12004,0,M14.55-17.25,VSCI 255,Aug 22--Dec 09,B Mccamish
 CS,360,Systems Programming,02 Lab,12005,0,W14.55-17.25,VSCI 255,Aug 22--Dec 09,B Mccamish
@@ -250,7 +250,7 @@ ECONS,311,[M] Introductory Econometrics,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,N N
 ED_AD,501,Philosophy of Education,01,"",3,W17.45-20.30,VC ARR,Aug 22--Dec 09,S Finley
 ED_AD,507,Social Foundations of Education,01,11133,3,ARRGT,ARR ARR,Aug 22--Dec 09,F Watson
 ED_AD,509,Leading School Improvement,01,10994,3,M17.45-20.30,VC ARR,Aug 22--Dec 09,N Mccann
-ED_AD,512,Leadership Studies for Social Justice,01,10584,3,M17.45-20.30,VC ARR,Aug 22--Dec 09,""
+ED_AD,512,Leadership Studies for Social Justice,01,10584,3,M17.45-20.30,VC ARR,Aug 22--Dec 09,C Woods
 ED_AD,521,Topics in Education,01,11939,3,TH17.45-20.30,VC ARR,Aug 22--Dec 09,S Calderone
 ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,VECS 209,Aug 22--Dec 09,J Walls
 ED_AD,581,Politics in Education,01,10585,3,ARRGT,ARR ARR,Aug 22--Dec 09,G Hill
@@ -380,9 +380,9 @@ INTERDIS,501,Research Communication,01,12132,2,W16.20-18,VC ARR,Aug 22--Dec 09,C
 INTERDIS,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,""
 MATH,100,Basic Mathematics,02,10822,2,"TU,TH10.35-11.25",VLIB 264,Aug 22--Dec 09,J Sung
 MATH,100,Basic Mathematics,03,10997,2,"TU,TH16.20-17.10",VUB 226,Aug 22--Dec 09,K Debower
-MATH,103,Algebra Methods and Introduction to Functions,01,10576,3,"M,W9.10-10.25",VLIB 260,Aug 22--Dec 09,""
-MATH,103,Algebra Methods and Introduction to Functions,02,10577,3,"M,W10.35-11.50",VMMC 219,Aug 22--Dec 09,L Vaughan
-MATH,103,Algebra Methods and Introduction to Functions,03,10906,3,"TU,TH9.10-10.25",VMMC 217,Aug 22--Dec 09,S Dey
+MATH,103,Algebra Methods and Introduction to Functions,01,10576,3,"M,W9.10-10.25",VLIB 260,Aug 22--Dec 09,P Krouss
+MATH,103,Algebra Methods and Introduction to Functions,02,10577,3,"M,W10.35-11.50",VMMC 219,Aug 22--Dec 09,S Dey
+MATH,103,Algebra Methods and Introduction to Functions,03,10906,3,"TU,TH9.10-10.25",VMMC 217,Aug 22--Dec 09,L Vaughan
 MATH,106,College Algebra,01,10578,3,"M,W9.10-10.25",VMMC 23,Aug 22--Dec 09,J Sung
 MATH,106,College Algebra,03,10580,3,"M,W12.05-13.20",VMMC 23,Aug 22--Dec 09,J Sung
 MATH,108,Trigonometry,02,10725,2,"M,W12.05-12.55",VLIB 260,Aug 22--Dec 09,""
@@ -394,18 +394,20 @@ MATH,140,[QUAN] Calculus for Life Scientists,01 Lab,10734,0,TU16.20-17.35,VMMC 2
 MATH,140,[QUAN] Calculus for Life Scientists,"","","",TH16.20-17.35,VUB 207,"",""
 MATH,140,[QUAN] Calculus for Life Scientists,02 Lab,10826,0,TU9.10-10.25,VUB 207,Aug 22--Dec 09,E Thompson
 MATH,140,[QUAN] Calculus for Life Scientists,"","","",TH9.10-10.25,VMMC 214,"",""
-MATH,171,[QUAN] Calculus I,01,10735,4,"M,W,F9.10-10",VMMC 6,Aug 22--Dec 09,G Salos
+MATH,171,[QUAN] Calculus I,01,10735,4,"M,W,F9.10-10",WEB ARR,Aug 22--Dec 09,G Salos
 MATH,171,[QUAN] Calculus I,02 Lab,10737,0,TU9.10-10.25,VMMC 214,Aug 22--Dec 09,J Pennington
 MATH,171,[QUAN] Calculus I,"","","",TH9.10-10.25,VUB 202,"",""
 MATH,171,[QUAN] Calculus I,03 Lab,10850,0,TU10.35-11.50,VMMC 214,Aug 22--Dec 09,J Pennington
 MATH,171,[QUAN] Calculus I,"","","",TH10.35-11.50,VUB 202,"",""
-MATH,172,Calculus II,01,10738,4,"M,W,F9.10-10",VSCI 12,Aug 22--Dec 09,""
+MATH,171,[QUAN] Calculus I,04 Lab,10931,0,W14.55-16.10,VUB 207,Aug 22--Dec 09,J Sung
+MATH,171,[QUAN] Calculus I,"","","",F14.55-16.10,VMMC 214,"",""
+MATH,172,Calculus II,01,10738,4,"M,W,F9.10-10",VSCI 12,Aug 22--Dec 09,F Mcgrade
 MATH,172,Calculus II,01 Lab,10739,0,TU9.10-10.25,VMMC 219,Aug 22--Dec 09,L Boukhbinder
 MATH,172,Calculus II,"","","",TH9.10-10.25,VUB 100,"",""
 MATH,172,Calculus II,02 Lab,10740,0,TU10.35-11.50,VUB 202,Aug 22--Dec 09,L Boukhbinder
 MATH,172,Calculus II,"","","",TH10.35-11.50,VMMC 219,"",""
 MATH,201,Mathematics for Business and Economics,01,10581,3,"M,W10.35-11.50",VLIB 201,Aug 22--Dec 09,L Sotomayor
-MATH,202,[QUAN] Calculus for Business and Economics,01,10582,3,"W,F10.35-11.50",VLIB 260,Aug 22--Dec 09,G Salos
+MATH,202,[QUAN] Calculus for Business and Economics,01,10582,3,"W,F10.35-11.50",WEB ARR,Aug 22--Dec 09,G Salos
 MATH,202,[QUAN] Calculus for Business and Economics,02,16023,3,"TU,TH9.10-10.25",VLIB 264,Aug 22--Dec 09,J Sung
 MATH,216,Discrete Structures,01,11767,3,"M,W,F9.10-10",VECS 125,Aug 22--Dec 09,D Hampson
 MATH,220,Introductory Linear Algebra,01,10727,2,"TU,TH10.35-11.25",VECS 104,Aug 22--Dec 09,P Krouss
@@ -417,7 +419,7 @@ MATH,273,Calculus III,01,10729,2,"TU,TH10.35-11.25",VECS 122,Aug 22--Dec 09,F Mc
 MATH,273,Calculus III,02,10730,2,"TU,TH13.30-14.20",VMMC 214,Aug 22--Dec 09,F Mcgrade
 MATH,315,Differential Equations,01,10849,3,"TU,TH9.10-10.25",VLIB 260,Aug 22--Dec 09,A Dimitrov
 MATH,330,Methods of Teaching Secondary School Mathematics,01,10960,3,"M,W,F15.10-16",VECS 209,Aug 22--Dec 09,A Higgins
-MATH,398,Mathematical Snapshots,01,16024,1,F10.35-11.25,VMMC 214,Aug 22--Dec 09,N Strigul
+MATH,398,Mathematical Snapshots,01,16024,1,F10.35-11.25,VMMC 214,Aug 22--Dec 09,J Sung
 MATH,401,[M] Introduction to Analysis I,01,"",3,"M,W,F14.10-15",VECS 209,Aug 22--Dec 09,A Panchenko
 MATH,403,Euclidean and Non-Euclidean Geometry,01,11948,3,"TU,TH13.30-14.45",VECS 209,Aug 22--Dec 09,""
 MATH,405,Introduction to Financial Mathematics,01,11839,3,"M,W,F15.10-16",VECS 125,Aug 22--Dec 09,H Yin
@@ -428,7 +430,7 @@ MATH,453,Graph Theory,01,11073,3,"M,W,F14.10-15",VC ARR,Aug 22--Dec 09,M Hudelso
 MATH,466,Optimization in Networks,01,11375,3,"TU,TH14.55-16.10",VECS 125,Aug 22--Dec 09,B Krishnamoorthy
 MATH,486,Mathematical Methods in Natural Sciences,01,16484,3,"M,W,F12.10-13",VECS 209,Aug 22--Dec 09,N Strigul
 MATH,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,A Dimitrov
-MATH,500,Proseminar,01,12225,1,ARRGT,ARR ARR,Aug 22--Dec 09,""
+MATH,500,Proseminar,01,12225,1,ARRGT,ARR ARR,Aug 22--Dec 09,L Schreyer
 MATH,501,Real Analysis,01,10884,3,"M,W,F10.10-11",VC ARR,Aug 22--Dec 09,C Moore
 MATH,516,Numerical Simulations for Probabilistic Models,01,11432,3,"TU,TH9.10-10.25",VECS 120,Aug 22--Dec 09,N Voulgarakis
 MATH,525,General Topology,01,11424,3,"M,W,F13.10-14",VMMC 102Q,Aug 22--Dec 09,S Liu
@@ -618,7 +620,7 @@ MED_LMH,531,Personal Leadership Development I,01,11892,1,ARRGT,ARR ARR,Aug 22--N
 MEDSCHLR,520,Foundations of Scholarship and Discovery II,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,T Chauvin
 MEDSCHLR,540,Foundations of Scholarship and Discovery III,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,T Chauvin
 MGMT,301,Principles of Management and Organization,01,10438,3,TH18-20.45,VUB 125,Aug 22--Dec 09,R Howell
-MGMT,401,Leading People and Organizations,01,10437,3,"M,W9.10-10.25",VMMC 1,Aug 22--Dec 09,T Tripp
+MGMT,401,Leading People and Organizations,01,10437,3,"M,W9.10-10.25",VUB 107,Aug 22--Dec 09,T Tripp
 MGMT,455,Recruiting and Hiring Human Capital,01,12000,3,"M,W16.20-17.35",VMMC 16,Aug 22--Dec 09,R Howell
 MGMT,456,[M] Evaluating and Rewarding Employees,01,10444,3,M18-20.45,VUB 125,Aug 22--Dec 09,R Howell
 MGMT,483,[M] Management of Innovation and Change,01,10456,3,"M,W13.30-14.45",VUB 121,Aug 22--Dec 09,R Saylors
@@ -811,6 +813,7 @@ POL_S,300,The American Constitution,01,15999,3,"M,W16.20-17.35",VLIB 260,Aug 22-
 POL_S,316,American Public Policy,01,10619,3,"M,W12.05-13.20",VLIB 261,Aug 22--Dec 09,M Stephan
 POL_S,333,Development of Marxist Thought,01,12046,3,"TU,TH13.30-14.45",VMMC 202Q,Aug 22--Dec 09,C Leeb
 POL_S,340,Introduction to Public Administration,01,10620,3,"M,W14.55-16.10",VMMC 23,Aug 22--Dec 09,M Stephan
+POL_S,400,Political Science Issues,01,11359,3,"TU,TH9.10-10.25",VC VAN,Aug 22--Dec 09,C Ellenwood
 POL_S,427,United States Foreign Relations,01,11047,3,"M,W9.10-10.25",VLIB 261,Aug 22--Dec 09,A Lopez
 POL_S,430,[CAPS] [M] The Politics of Natural Resource and Environmental Policy,01,11048,3,"TU,TH10.35-11.50",VLIB 260,Aug 22--Dec 09,P Thiers
 POL_S,442,[M] Leadership Skills for the Public Sector,01,16000,3,"M,W13.30-14.45",VLIB 260,Aug 22--Dec 09,C Long
@@ -850,9 +853,8 @@ PSYCH,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,
 PSYCH,800,"Doctoral Research, Dissertation, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 SOC,101,[SSCI] Introduction to Sociology,01,10636,3,"TU,TH12.05-13.20",VUB 225,Aug 22--Dec 09,A Maclean
 SOC,300,"[DIVR] [M] Intersections of Race, Class, Gender, and Sexuality",01,16065,3,"M,W10.35-11.50",VLIB 264,Aug 22--Dec 09,S Chivers
-SOC,320,Introduction to Social Research,01,10637,3,"M,W10.35-11.50",VMMC 16,Aug 22--Dec 09,K Leupp
+SOC,320,Introduction to Social Research,01,10637,3,"M,W10.35-11.50",VMMC 16,Aug 22--Dec 09,N Parsons
 SOC,340,[DIVR] Social Inequality,01,10901,3,"TU,TH13.30-14.45",VUB 221,Aug 22--Dec 09,N Ray
-SOC,347,"Sociology of Race, Ethnicity, and Immigration",01,16102,3,"TU,TH14.55-16.10",VMMC 1,Aug 22--Dec 09,X Li
 SOC,351,[DIVR] The Family,01,10638,3,M14.55-16.10,VMMC 217,Aug 22--Dec 09,K Leupp
 SOC,361,[DIVR] Criminology,01,10640,3,"TU,TH9.10-10.25",VMMC 16,Aug 22--Dec 09,J Mcelvain
 SOC,367,Juvenile Justice and Corrections,01,16230,3,"TU,TH14.55-16.10",VUB 107,Aug 22--Dec 09,L Drapela
@@ -895,9 +897,6 @@ SPEC_ED,522,Topics in Special Education,01,16557,2,M16.30-19.30,ARR ARR,Aug 22--
 SPEC_ED,590,Practicum in Special Education,01,11511,V,ARRGT,ARR ARR,Aug 22--Dec 09,A Ruiz
 SPEC_ED,591,Research in High-Incidence Disabilities,01,11241,3,W17.45-20.30,VECS 209,Aug 22--Dec 09,M Dunn
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,11173,1,W16.20-17.20,VECS 209,Aug 22--Dec 09,""
-STAT,212,[QUAN] Introduction to Statistical Methods,01,10760,4,"M,W9.10-10.25",VLIB 264,Aug 22--Dec 09,F Mcgrade
-STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,10761,0,TU9.10-10,VUB 100,Aug 22--Dec 09,""
-STAT,212,[QUAN] Introduction to Statistical Methods,"","","",TH9.10-10,VMMC 219,"",""
 STAT,360,Probability and Statistics,01,10762,3,"TU,TH9.10-10.25",VMMC 1,Aug 22--Dec 09,L Sotomayor
 STAT,360,Probability and Statistics,02,10763,3,"TU,TH10.35-11.50",VMMC 1,Aug 22--Dec 09,L Sotomayor
 STAT,412,Statistical Methods in Research I,01,11141,3,ARRGT,ARR ARR,Aug 22--Dec 09,V Jandhyala

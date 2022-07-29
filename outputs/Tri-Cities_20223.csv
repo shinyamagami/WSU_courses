@@ -3,7 +3,7 @@ ACCTG,230,Introduction to Financial Accounting,01,08994,3,"M,W,F13.10-14",TFLO 2
 ACCTG,231,Introduction to Managerial Accounting,01,08948,3,"TU,TH13.30-14.45",TFLO 230,Aug 22--Dec 09,K Jones
 ACCTG,338,Cost Accounting,01,08949,3,"TU,TH16.20-17.35",TCOL 126,Aug 22--Dec 09,K Jones
 AFS,511,Statistical Methods for Graduate Researchers,01,09289,4,"TU,TH12.05-13.20",VC TRI,Aug 22--Dec 09,T Northfield
-AFS,511,Statistical Methods for Graduate Researchers,01 Lab,09290,0,W9.10-11,VC TRI,Aug 22--Dec 09,T Northfield
+AFS,511,Statistical Methods for Graduate Researchers,01 Lab,09290,0,ARRGT,VC TRI,Aug 22--Dec 09,T Northfield
 AGRI,587,Research and Extension Communications in Agriculture,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,C Perillo
 AIS,331,[SSCI] Archaeology of the Americas,01,16119,3,"M,W,F14.10-15",TCOL 126,Aug 22--Dec 09,M Mansperger
 ANTH,101,[DIVR] Introduction to Anthropology,01,09010,3,"M,W,F11.10-12",TCIC 216,Aug 22--Dec 09,M Mansperger
@@ -19,7 +19,7 @@ B_LAW,210,Law and the Legal Environment of Business,01,08951,3,"M,W17.45-19",TCI
 BIOLOGY,102,[BSCI] General Biology,01,09048,4,"M,W,F12.10-13",TCOL 202,Aug 22--Dec 09,Y Liu
 BIOLOGY,102,[BSCI] General Biology,01 Lab,09049,0,TU9.10-12,TCOL 226,Aug 22--Dec 09,Y Liu
 BIOLOGY,102,[BSCI] General Biology,02 Lab,09160,0,TU13.30-16.20,TCOL 226,Aug 22--Dec 09,Y Liu
-BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,09136,4,"M,W,F11.10-12",TCOL 202,Aug 22--Dec 09,L Nelson
+BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01,09136,4,"M,W,F11.10-12",TCOL 102,Aug 22--Dec 09,L Nelson
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,01 Lab,09146,0,W17.10-20,TCOL 226,Aug 22--Dec 09,L Nelson
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,02 Lab,09147,0,TH9.10-12,TCOL 226,Aug 22--Dec 09,L Nelson
 BIOLOGY,106,[BSCI] Introductory Biology: Organismal Biology,03 Lab,09161,0,TH13.30-16.20,TCOL 226,Aug 22--Dec 09,L Nelson
@@ -121,6 +121,7 @@ CPT_S,460,Operating Systems and Computer Architecture,01,08935,3,"M,W17.45-19",T
 CPT_S,483,Topics in Computer Science,01,09951,3,"M,W16.15-17.30",VC TRI,Aug 22--Dec 09,W Hutton
 CPT_S,490,Work Study Internship,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,L Delatorre
 CPT_S,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
+CPT_S,499,Special Problems,02,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,D Cook
 CPT_S,515,Advanced Algorithms,02,16594,3,"M,W,F10.10-11",VC TRI,Aug 22--Dec 09,Z Dang
 CPT_S,553,Graph Theory,01,09283,3,"M,W,F14.10-15",VC TRI,Aug 22--Dec 09,M Hudelson
 CPT_S,595,Directed Study in Computer Science,01,08940,V,ARRGT,ARR ARR,Aug 22--Dec 09,J Miller
@@ -177,8 +178,7 @@ ECONS,102,[SSCI] Fundamentals of Macroeconomics,02,"",3,ARRGT,ARR ARR,Aug 22--De
 ED_AD,501,Philosophy of Education,01,"",3,W17.45-20.30,VC TRI,Aug 22--Dec 09,S Finley
 ED_AD,507,Social Foundations of Education,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,""
 ED_AD,509,Leading School Improvement,01,16697,3,M17.45-20.30,VC ARR,Aug 22--Dec 09,N Mccann
-ED_AD,512,Leadership Studies for Social Justice,01,08870,3,M17.45-20.30,VC ARR,Aug 22--Dec 09,""
-ED_AD,516,Instructional and Curricular Leadership,01,09111,3,M17.45-20.30,TCOL 126,Aug 22--Dec 09,K Cowin
+ED_AD,512,Leadership Studies for Social Justice,01,08870,3,M17.45-20.30,VC ARR,Aug 22--Dec 09,C Woods
 ED_AD,521,Topics in Education,01,16537,3,TH17.45-20.30,VC ARR,Aug 22--Dec 09,S Calderone
 ED_AD,580,School Organization and Administration,01,"",3,TU17.45-20.30,VC TRI,Aug 22--Dec 09,J Walls
 ED_AD,589,Leadership Development Seminar,01,09110,3,W17.45-20.30,VC ARR,Aug 22--Dec 09,K Cowin
@@ -243,7 +243,7 @@ FINE_ART,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,P Christenson
 FOR_LANG,110,[DIVR] Introduction to Global Film,01,09591,3,"TU,TH12.05-13.20",TCIC 210,Aug 22--Dec 09,F Arellano Serratos
 FS,201,[BSCI] Science on Your Plate,01,16592,3,"M,W,F13.10-14",VC TRI,Aug 22--Dec 09,M Michael
 FS,401,Topics in Food Science,01,"",1,W13.10-14,TWSC 202,Aug 22--Dec 09,T Henick-Kling
-FS,465,Wine Microbiology and Processing,01,08861,3,"M,W,F12.30-13.20",TWSC 202,Aug 22--Dec 09,C Edwards
+FS,465,Wine Microbiology and Processing,01,08861,3,"M,W,F12.10-13",TWSC 202,Aug 22--Dec 09,C Edwards
 FS,496,Internship in a Winery,01,"",2,ARRGT,ARR ARR,Aug 22--Dec 09,T Henick-Kling
 FS,501,Topics in Food Science,01,"",2,ARRGT,ARR ARR,Aug 22--Dec 09,T Collins
 FS,501,Topics in Food Science,02,"",2,ARRGT,ARR ARR,Aug 22--Dec 09,T Collins
@@ -544,7 +544,7 @@ NURS,408,Professional Development III: Leadership and Management,01,08775,3,TH13
 NURS,409,Professional Development IV: Transition to Practice,01,08776,2,M13.10-16,VC TRI,Aug 29--Aug 29,B Sarkinen
 NURS,409,Professional Development IV: Transition to Practice,"","","",M13.10-16,VC TRI,"",""
 NURS,409,Professional Development IV: Transition to Practice,"","","",M13.10-16,VC TRI,"",""
-NURS,412,Family and Community as a Context of Care,01,08787,1,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,412,Family and Community as a Context of Care,01,08787,1,ARRGT,ARR ARR,Aug 22--Dec 09,A Fayad
 NURS,413,Informatics in Healthcare,01,16111,3,ARRGT,ARR ARR,Oct 17--Dec 16,A Brittain
 NURS,414,Child and Family Health: Theory,01,08777,3,F8.10-11,VC TRI,Aug 22--Dec 09,C Risse
 NURS,415,Children and Families as the Focus of Nursing Care,01,08778,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
@@ -698,7 +698,7 @@ PHIL,365,[HUM] Biomedical Ethics,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,W Kabasenc
 PHYSICS,101,[PSCI] General Physics,01,08990,3,"M,W,F14.10-15",TCOL 202,Aug 22--Dec 09,C Capan
 PHYSICS,111,[PSCI] General Physics Lab,01,10124,1,TU13.30-16.20,TCOL 108,Aug 22--Dec 09,C Capan
 PHYSICS,111,[PSCI] General Physics Lab,02,10126,1,TU9.10-12,TCOL 108,Aug 22--Dec 09,C Capan
-PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,08991,3,"M,W,F11.10-12",TCOL 102,Aug 22--Dec 09,C Capan
+PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,08991,3,"M,W,F11.10-12",TCOL 202,Aug 22--Dec 09,C Capan
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,10125,1,TH13.30-16.20,TCOL 108,Aug 22--Dec 09,C Capan
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,10128,1,TH8.10-11,TCOL 108,Aug 22--Dec 09,C Capan
 PL_P,300,Diseases of Fruit Crops,01,09604,2,"TU,TH9.10-10",VC TRI,Aug 22--Dec 09,N Rayapati
@@ -776,7 +776,7 @@ STAT,360,Probability and Statistics,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,T Trboj
 STAT,370,Introductory Statistics for Engineers,01,08997,3,"TU,TH16.20-17.35",TCOL 202,Aug 22--Dec 09,R Learn
 STAT,412,Statistical Methods in Research I,01,09009,3,"TU,TH13.30-14.45",TCOL 102,Aug 22--Dec 09,R Learn
 STAT,511,Statistical Methods for Graduate Researchers,01,09287,4,"TU,TH12.05-13.20",VC TRI,Aug 22--Dec 09,T Northfield
-STAT,511,Statistical Methods for Graduate Researchers,01 Lab,09288,0,W9.10-11,VC TRI,Aug 22--Dec 09,T Northfield
+STAT,511,Statistical Methods for Graduate Researchers,01 Lab,09288,0,W8.10-10,VC TRI,Aug 22--Dec 09,T Northfield
 STAT,512,Analysis of Variance of Designed Experiments,01,"",3,"M,W13.10-14",VC TRI,Aug 22--Dec 09,H Johnson
 STAT,512,Analysis of Variance of Designed Experiments,01 Lab,10284,0,F13.10-15,VC TRI,Aug 22--Dec 09,H Johnson
 TCH_LRN,301,Learning and Development,01,08893,3,W13.10-15.55,TCIC 214,Aug 22--Dec 09,Y Cooper
@@ -816,7 +816,7 @@ TCH_LRN,590,Internship,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 TCH_LRN,600,Special Projects or Independent Study,01,08902,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 TCH_LRN,702,"Master's Special Problems, Directed Study, and/or Examination",01,08903,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 TCH_LRN,800,"Doctoral Research, Dissertation, and/or Examination",01,08904,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
-UNIV,250,Success in College and Beyond,01,16511,1,"M,W14.10-15.10",TCOL 102,Aug 22--Oct 14,A Espindola
+UNIV,250,Success in College and Beyond,01,16511,1,"M,W14.10-15.10",TCOL 102,Aug 22--Oct 14,K Aispuro
 VIT_ENOL,113,Introduction to Vines and Wines,01,08892,3,"TU,TH13.30-14.45",TWSC 202,Aug 22--Dec 09,""
 VIT_ENOL,313,Viticulture,01,08876,3,"TU,TH14.55-16.10",VC TRI,Aug 22--Dec 09,B Bondada
 VIT_ENOL,399,Professional Work Experience,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,A Snider
