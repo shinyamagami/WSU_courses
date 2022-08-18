@@ -1,6 +1,7 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 ANTH,203,[DIVR] Global Cultural Diversity,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,C Heckelsmiller
 BIOLOGY,301,General Genetics,01,"",4,ARRGT,ARR ARR,Aug 22--Dec 09,N Mccabe
+COM,562,Crisis Communication in Global Contexts,01,13912,3,ARRGT,ARR ARR,Aug 22--Dec 09,Y Lee
 COMHLTH,571,Communicating Health in Practice,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,W Cao
 COMHLTH,572,Communicating Health to Specialized Populations,01,14285,3,ARRGT,ARR ARR,Aug 22--Dec 09,N O'donnell
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,""
@@ -22,19 +23,20 @@ ED_AD,800,"Doctoral Research, Dissertation, and/or Examination",01,14155,V,ARRGT
 ED_MTHSC,598,Research Seminar in Mathematics and Science Education,01,14168,1,W16.30-17.30,SAC 341,Aug 22--Dec 09,A Cavagnetto
 ED_MTHSC,800,"Doctoral Research, Dissertation, and/or Examination",01,14328,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 ED_PSYCH,502,Theoretical Foundations of Learning and Instruction,01,14166,3,W12.10-15,VC ARR,Aug 22--Dec 09,R Danielson
-ED_PSYCH,505,Research Methods I,01,14165,3,M16.10-19,SAC 249,Aug 22--Dec 09,B French
+ED_PSYCH,505,Research Methods I,01,14165,3,M16.10-19,SAC 249,Aug 22--Dec 09,M Guo
 ED_PSYCH,508,Educational Statistics,01,14167,3,TU17.45-20.30,SAC 41,Aug 22--Dec 09,C Gotch
 ED_PSYCH,572,Introduction to Systematic Literature Reviews and Meta-Analyses,01,16610,3,W16.10-19.10,VC ARR,Aug 22--Dec 09,O Adesope
 ED_RES,562,"Epistemology, Inquiry, and Representation",01,"",3,TU17.45-20.30,SAC 43,Aug 22--Dec 09,A Rud
 ED_RES,563,Principles of Research,01,14170,3,W17.45-20.30,SAC 43,Aug 22--Dec 09,S Calderone
 ED_RES,564,Qualitative Research,01,14171,3,TU16.10-19,SAC 343,Aug 22--Dec 09,A Roth-Mcduffie
-ED_RES,565,Quantitative Research,01,14172,3,TU17.45-20.30,SAC 45,Aug 22--Dec 09,S Dai
+ED_RES,565,Quantitative Research,01,14172,3,M17.45-20.30,SAC 205,Aug 22--Dec 09,S Dai
 ED_RES,571,Doctoral Dissertation Preparation,02,14174,3,W17.45-20.30,SAC 41,Aug 22--Dec 09,K Huggins
 H_D,205,[COMM] Developing Effective Communication and Life Skills,01,"",4,ARRGT,ARR ARR,Aug 22--Dec 09,M Strey
 H_D,205,[COMM] Developing Effective Communication and Life Skills,02,"",4,ARRGT,ARR ARR,Aug 22--Dec 09,M Strey
-H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,"",0,ARRGT,"",Aug 22--Dec 09,M Strey
-H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,"",0,ARRGT,"",Aug 22--Dec 09,M Strey
+H_D,205,[COMM] Developing Effective Communication and Life Skills,01 Lab,"",0,ARRGT,ARR ARR,Aug 22--Dec 09,M Strey
+H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,"",0,ARRGT,ARR ARR,Aug 22--Dec 09,M Strey
 H_D,220,Human Development Theories,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,B Hernandez
+H_D,300,Child Maltreatment,01,14200,3,ARRGT,ARR ARR,Aug 22--Dec 09,D Bice
 H_D,301,Family Stress and Coping,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,W Ewest
 H_D,302,Parent-Child Relationships,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,T Ashford
 H_D,306,Child Development,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,T Ashford
@@ -52,6 +54,7 @@ MBIOS,401,Cell Biology,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,E Shelden
 MBIOS,478,Bioinformatics,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,J Wyrick
 MBIOS,501,Cell Biology,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,E Shelden
 MBIOS,503,Advanced Molecular Biology I,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,C Her
+MBIOS,540,Immunology,01,16837,3,"M,W,F10.10-11",VC ARR,Aug 22--Dec 09,P Mixter
 MBIOS,578,Bioinformatics,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,J Wyrick
 MBIOS,578,Bioinformatics,01 Lab,"",0,ARRGT,ARR ARR,Aug 22--Dec 09,J Wyrick
 MBIOS,583,Professional Skills Seminar,01,"",1,ARRGT,"",Aug 22--Dec 09,J Arneson
@@ -189,6 +192,7 @@ MED_CLIN,636,Clinical Rotation - Sports Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--N
 MED_CLIN,636,Clinical Rotation - Sports Medicine,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowman
 MED_CLIN,637,Clinical Rotation - Interventional Radiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,J Kaczmark
 MED_CLIN,638,Surgery - Interdisciplinary Medical-Surgical Pediatric Care,01,"",4,ARRGT,ARR ARR,Aug 22--Nov 23,A Kumar
+MED_ETH,500,Conceptual Foundations of Bioethics,01,13352,3,ARRGT,ARR ARR,Aug 22--Nov 23,""
 MED_FMS,501,Foundations of Medical Science I,01,14321,14,ARRGT,ARR ARR,Aug 22--Nov 23,K Beine
 MED_FMS,501,Foundations of Medical Science I,01 Lab,14322,0,ARRGT,ARR ARR,Aug 22--Nov 23,K Beine
 MED_FMS,511,Foundations of Medical Science IV,01,14317,13,ARRGT,ARR ARR,Aug 22--Nov 23,K Beine
@@ -200,14 +204,14 @@ MED_LMH,521,Quality and Safety in Healthcare: Medical Errors,01,14316,1,ARRGT,AR
 MED_LMH,531,Personal Leadership Development I,01,14359,1,ARRGT,ARR ARR,Aug 22--Nov 23,J Haney
 MEDSCHLR,520,Foundations of Scholarship and Discovery II,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,T Chauvin
 MEDSCHLR,540,Foundations of Scholarship and Discovery III,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,T Chauvin
-MIT,511,"Methods for Teaching English Language Learners, K-12",01,14180,2,M17.10-19,SCRS 216,Aug 22--Dec 09,""
+MIT,511,"Methods for Teaching English Language Learners, K-12",01,14180,2,M17.10-19,SCRS 222,Aug 22--Dec 09,T Salsbury
 MIT,530,Elementary School Social Studies Methods,01,14181,3,ARRGT,ARR ARR,Aug 22--Dec 09,A Segadelli
-MIT,532,Literacy Development II,01,14182,3,TH17.15-20,SCRS 250,Aug 22--Dec 09,K Puzio
-MIT,533,Elementary School Mathematics Methods,01,14183,3,W13.10-16,SNRS 119,Aug 22--Dec 09,""
-MIT,534,Elementary School Science Methods,01,14184,3,TU16.10-19,SCRS 216,Aug 22--Dec 09,""
+MIT,532,Literacy Development II,01,14182,3,TH17.15-20,SCRS 250,Aug 22--Dec 09,S Newcomer
+MIT,533,Elementary School Mathematics Methods,01,14183,3,W13.10-16,SNRS 119,Aug 22--Dec 09,M Kelton
+MIT,534,Elementary School Science Methods,01,14184,3,TU16.10-19,SCRS 216,Aug 22--Dec 09,K Quinn
 MIT,550,Seminar in Middle Level Education,01,14185,3,W16.10-19,SCRS 222,Aug 22--Dec 09,T Akmal
 MIT,552,Multicultural Education in a Global Society,01,14186,3,W13.10-16,SCRS 222,Aug 22--Dec 09,A Gilmore
-MIT,571,Pre-internship and Seminar,01,14187,2,M13.10-15,SCRS 216,Aug 22--Dec 09,""
+MIT,571,Pre-internship and Seminar,01,14187,2,M11.10-13,SCRS 216,Aug 22--Dec 09,A Segadelli
 MIT,571,Pre-internship and Seminar,01 Lab,14188,0,ARRGT,ARR ARR,Aug 22--Dec 09,A Segadelli
 MUS,363,[DIVR] Women in Music,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,S Tegart
 NEP,320,Strength Training and Conditioning; Theory and Application,01,14216,3,"M,W9.10-10",SHER 317,Aug 22--Dec 09,J Larsen
@@ -303,35 +307,35 @@ NEUROSCI,592,Research Writing and Seminar,01,14409,2,F15-17,VC ARR,Aug 22--Dec 0
 NEUROSCI,700,"Master's Research, Thesis, and/or Examination",01,14621,V,ARRGT,ARR ARR,Aug 22--Dec 09,K Honn
 NEUROSCI,800,"Doctoral Research, Dissertation, and/or Examination",01,14135,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 NURS,308,Professional Development I: Evidence Based Practice,01,13572,3,W10.30-13.30,SNRS 5,Aug 22--Dec 09,S Hurst
-NURS,308,Professional Development I: Evidence Based Practice,02,13523,3,W10.30-13.30,VC YAK,Aug 22--Dec 09,""
-NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,13389,3,TH13.10-16,SNRS 5,Aug 22--Dec 09,""
-NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,02,13390,3,TH13.10-16,VC YAK,Aug 22--Dec 09,""
+NURS,308,Professional Development I: Evidence Based Practice,02,13523,3,W10.30-13.30,VC YAK,Aug 22--Dec 09,S Hurst
+NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,01,13389,3,TH13.10-16,SNRS 5,Aug 22--Dec 09,K Anders
+NURS,309,[M] Professional Development II: Ethical Reasoning and Decision Making Processes in Nursing,02,13390,3,TH13.10-16,VC YAK,Aug 22--Dec 09,K Anders
 NURS,311,Pathophysiology and Pharmacology in Nursing,01,13387,4,W8.10-10,SNRS 5,Aug 22--Dec 09,M Neeway
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,SNRS 5,"",""
 NURS,311,Pathophysiology and Pharmacology in Nursing,02,13388,4,W8.10-10,VC YAK,Aug 22--Dec 09,M Neeway
 NURS,311,Pathophysiology and Pharmacology in Nursing,"","","",F11.10-13,VC YAK,"",""
-NURS,315,Nursing Practice: Health and Illness,01,13391,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,315,Nursing Practice: Health and Illness,02,13392,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,315,Nursing Practice: Health and Illness,03,13393,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,315,Nursing Practice: Health and Illness,04,13394,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,315,Nursing Practice: Health and Illness,05,13395,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,315,Nursing Practice: Health and Illness,06,13396,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,315,Nursing Practice: Health and Illness,07,13397,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,315,Nursing Practice: Health and Illness,08,13398,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,315,Nursing Practice: Health and Illness,09,13399,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,315,Nursing Practice: Health and Illness,10,13400,4,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,315,Nursing Practice: Health and Illness,01,13391,4,ARRGT,ARR ARR,Aug 22--Dec 09,T Valentine
+NURS,315,Nursing Practice: Health and Illness,02,13392,4,ARRGT,ARR ARR,Aug 22--Dec 09,M Mancuso
+NURS,315,Nursing Practice: Health and Illness,03,13393,4,ARRGT,ARR ARR,Aug 22--Dec 09,M Holloway
+NURS,315,Nursing Practice: Health and Illness,04,13394,4,ARRGT,ARR ARR,Aug 22--Dec 09,B Jennings
+NURS,315,Nursing Practice: Health and Illness,05,13395,4,ARRGT,ARR ARR,Aug 22--Dec 09,S Mcfadden
+NURS,315,Nursing Practice: Health and Illness,06,13396,4,ARRGT,ARR ARR,Aug 22--Dec 09,S Kruse
+NURS,315,Nursing Practice: Health and Illness,07,13397,4,ARRGT,ARR ARR,Aug 22--Dec 09,T Valentine
+NURS,315,Nursing Practice: Health and Illness,08,13398,4,ARRGT,ARR ARR,Aug 22--Dec 09,S Knapp
+NURS,315,Nursing Practice: Health and Illness,09,13399,4,ARRGT,ARR ARR,Aug 22--Dec 09,S Northern
+NURS,315,Nursing Practice: Health and Illness,10,13400,4,ARRGT,ARR ARR,Aug 22--Dec 09,S Northern
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,01,13405,2,TU13.10-15,SNRS 5,Aug 22--Dec 09,S Northern
 NURS,316,Introduction to Nursing Practice in Health and Illness: Theory,02,13406,2,TU13.10-15,VC YAK,Aug 22--Dec 09,S Northern
-NURS,317,Health Assessment,01,13407,3,TU8.10-10,SNRS 5,Aug 22--Dec 09,""
-NURS,317,Health Assessment,02,13408,3,TU8.10-10,VC YAK,Aug 22--Dec 09,L Jinishian
+NURS,317,Health Assessment,01,13407,3,TU8.10-10,SNRS 5,Aug 22--Dec 09,A Jenkins
+NURS,317,Health Assessment,02,13408,3,TU8.10-10,VC YAK,Aug 22--Dec 09,A Jenkins
 NURS,317,Health Assessment,01 Lab,13409,0,ARRGT,ARR ARR,Aug 22--Dec 09,M Vulcan
 NURS,317,Health Assessment,02 Lab,13410,0,ARRGT,ARR ARR,Aug 22--Dec 09,M Vulcan
-NURS,317,Health Assessment,03 Lab,13411,0,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,317,Health Assessment,04 Lab,13412,0,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,317,Health Assessment,03 Lab,13411,0,ARRGT,ARR ARR,Aug 22--Dec 09,M Wiedmer
+NURS,317,Health Assessment,04 Lab,13412,0,ARRGT,ARR ARR,Aug 22--Dec 09,S Matar-Curnow
 NURS,317,Health Assessment,05 Lab,13413,0,ARRGT,ARR ARR,Aug 22--Dec 09,S Matar-Curnow
 NURS,317,Health Assessment,06 Lab,13414,0,ARRGT,ARR ARR,Aug 22--Dec 09,S Matar-Curnow
-NURS,317,Health Assessment,07 Lab,13415,0,ARRGT,ARR ARR,Aug 22--Dec 09,M Wiedmer
-NURS,317,Health Assessment,08 Lab,13416,0,ARRGT,ARR ARR,Aug 22--Dec 09,A Morse
+NURS,317,Health Assessment,07 Lab,13415,0,ARRGT,ARR ARR,Aug 22--Dec 09,S Clark
+NURS,317,Health Assessment,08 Lab,13416,0,ARRGT,ARR ARR,Aug 22--Dec 09,S Clark
 NURS,322,The Human Experience of Diversity and Health,01,13423,2,F8.10-10,SNRS 105,Aug 22--Dec 09,S Mcfadden
 NURS,322,The Human Experience of Diversity and Health,02,13424,2,F8.10-10,VC YAK,Aug 22--Dec 09,S Mcfadden
 NURS,323,Nursing in the Genome Era,01,13425,2,M8.10-10,SNRS 105,Aug 22--Dec 09,M Wilson
@@ -339,20 +343,19 @@ NURS,323,Nursing in the Genome Era,02,13426,2,M8.10-10,VC YAK,Aug 22--Dec 09,M W
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,01,13427,4,"M,F10.30-12.30",SNRS 105,Aug 22--Dec 09,T Ewing
 NURS,324,Nursing Concepts in Acute and Chronic Illness in the Adult,02,13428,4,"M,F10.30-12.30",VC YAK,Aug 22--Dec 09,T Ewing
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,02,13430,5,ARRGT,ARR ARR,Aug 22--Dec 09,E Davies
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,13431,5,ARRGT,ARR ARR,Aug 22--Dec 09,M Holloway
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,04,13432,5,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,05,13433,5,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,06,13434,5,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,07,13435,5,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,08,13436,5,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,09,13437,5,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,10,13438,5,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,03,13431,5,ARRGT,ARR ARR,Aug 22--Dec 09,A Jenkins
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,04,13432,5,ARRGT,ARR ARR,Aug 22--Dec 09,A Jenkins
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,05,13433,5,ARRGT,ARR ARR,Aug 22--Dec 09,K Kedroske
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,06,13434,5,ARRGT,ARR ARR,Aug 22--Dec 09,T Ewing
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,07,13435,5,ARRGT,ARR ARR,Aug 22--Dec 09,B Van Nostrand
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,08,13436,5,ARRGT,ARR ARR,Aug 22--Dec 09,K Cline
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,09,13437,5,ARRGT,ARR ARR,Aug 22--Dec 09,E Davies
+NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,10,13438,5,ARRGT,ARR ARR,Aug 22--Dec 09,D Swayze
 NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,11,13439,5,ARRGT,ARR ARR,Aug 22--Dec 09,D Swayze
-NURS,325,Nursing Practice in Acute and Chronic Illness in Adults,12,13440,5,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,328,Introduction to Gerontological Nursing,01,13443,2,TU10.30-12.30,SNRS 5,Aug 22--Dec 09,""
-NURS,328,Introduction to Gerontological Nursing,02,13444,2,TU10.30-12.30,VC YAK,Aug 22--Dec 09,""
+NURS,328,Introduction to Gerontological Nursing,01,13443,2,TU10.30-12.30,SNRS 5,Aug 22--Dec 09,C Van Son
+NURS,328,Introduction to Gerontological Nursing,02,13444,2,TU10.30-12.30,VC YAK,Aug 22--Dec 09,C Van Son
 NURS,360,Contemporary Nursing,01,13445,3,ARRGT,ARR ARR,Aug 22--Oct 14,S Welty
-NURS,360,Contemporary Nursing,02,13446,3,ARRGT,ARR ARR,Aug 22--Oct 14,""
+NURS,360,Contemporary Nursing,02,13446,3,ARRGT,ARR ARR,Aug 22--Oct 14,S Welty
 NURS,400,[M] Nursing Research and Evidence-Based Practice,01,13447,3,ARRGT,ARR ARR,Oct 17--Dec 16,V Denson
 NURS,400,[M] Nursing Research and Evidence-Based Practice,02,13448,3,ARRGT,ARR ARR,Oct 17--Dec 16,V Denson
 NURS,405,Nursing Leadership,01,13449,3,ARRGT,ARR ARR,Aug 22--Oct 14,A Brittain
@@ -362,26 +365,26 @@ NURS,408,Professional Development III: Leadership and Management,02,13452,3,TH13
 NURS,409,Professional Development IV: Transition to Practice,01,13453,2,M13.10-16,VC ARR,Aug 29--Aug 29,T Rampley
 NURS,409,Professional Development IV: Transition to Practice,"","","",M13.30-16,VC ARR,"",""
 NURS,409,Professional Development IV: Transition to Practice,"","","",M13.30-16,VC ARR,"",""
-NURS,409,Professional Development IV: Transition to Practice,02,13454,2,M13.10-16,VC ARR,Aug 29--Aug 29,""
+NURS,409,Professional Development IV: Transition to Practice,02,13454,2,M13.10-16,VC ARR,Aug 29--Aug 29,T Rampley
 NURS,409,Professional Development IV: Transition to Practice,"","","",M13.30-16,VC ARR,"",""
 NURS,409,Professional Development IV: Transition to Practice,"","","",M13.30-16,VC ARR,"",""
-NURS,412,Family and Community as a Context of Care,01,13455,1,W9-10.30,SNRS 205,Aug 22--Dec 09,""
-NURS,412,Family and Community as a Context of Care,02,13456,1,F11.30-13,SNRS 203,Aug 22--Dec 09,""
-NURS,412,Family and Community as a Context of Care,03,13457,1,F11.30-13,SNRS 205,Aug 22--Dec 09,""
+NURS,412,Family and Community as a Context of Care,01,13455,1,W9-10.30,SNRS 205,Aug 22--Dec 09,S Perkins
+NURS,412,Family and Community as a Context of Care,02,13456,1,F11.30-13,SNRS 203,Aug 22--Dec 09,S Perkins
+NURS,412,Family and Community as a Context of Care,03,13457,1,F11.30-13,SAC 347,Aug 22--Dec 09,T Bowden
 NURS,412,Family and Community as a Context of Care,04,13458,1,F11-12.30,ARR ARR,Aug 22--Dec 09,C Logsdon Douglas
 NURS,413,Informatics in Healthcare,01,16184,3,ARRGT,ARR ARR,Oct 17--Dec 16,A Brittain
 NURS,413,Informatics in Healthcare,02,16185,3,ARRGT,ARR ARR,Oct 17--Dec 16,A Brittain
 NURS,414,Child and Family Health: Theory,01,13460,3,F8.10-11,SNRS 5,Aug 22--Dec 09,C Risse
 NURS,414,Child and Family Health: Theory,02,13461,3,F8.10-11,VC YAK,Aug 22--Dec 09,C Risse
-NURS,415,Children and Families as the Focus of Nursing Care,01,13462,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,415,Children and Families as the Focus of Nursing Care,02,13463,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,415,Children and Families as the Focus of Nursing Care,01,13462,2,ARRGT,ARR ARR,Aug 22--Dec 09,L Berry
+NURS,415,Children and Families as the Focus of Nursing Care,02,13463,2,ARRGT,ARR ARR,Aug 22--Dec 09,C Pedersen
 NURS,415,Children and Families as the Focus of Nursing Care,03,13464,2,ARRGT,ARR ARR,Aug 22--Dec 09,K Anders
 NURS,415,Children and Families as the Focus of Nursing Care,04,13465,2,ARRGT,ARR ARR,Aug 22--Dec 09,C Risse
 NURS,415,Children and Families as the Focus of Nursing Care,05,13466,2,ARRGT,ARR ARR,Aug 22--Dec 09,J Hickman
 NURS,415,Children and Families as the Focus of Nursing Care,06,13467,2,ARRGT,ARR ARR,Aug 22--Dec 09,C Risse
 NURS,415,Children and Families as the Focus of Nursing Care,07,13468,2,ARRGT,ARR ARR,Aug 22--Dec 09,T Bowden
-NURS,415,Children and Families as the Focus of Nursing Care,08,13469,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,415,Children and Families as the Focus of Nursing Care,09,13470,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,415,Children and Families as the Focus of Nursing Care,08,13469,2,ARRGT,ARR ARR,Aug 22--Dec 09,J Onzay
+NURS,415,Children and Families as the Focus of Nursing Care,09,13470,2,ARRGT,ARR ARR,Aug 22--Dec 09,E Miller
 NURS,415,Children and Families as the Focus of Nursing Care,10,13471,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
 NURS,415,Children and Families as the Focus of Nursing Care,11,13472,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
 NURS,415,Children and Families as the Focus of Nursing Care,12,13551,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
@@ -391,11 +394,11 @@ NURS,417,Nursing Care of Childbearing Families,01,13475,2,ARRGT,ARR ARR,Aug 22--
 NURS,417,Nursing Care of Childbearing Families,02,13476,2,ARRGT,ARR ARR,Aug 22--Dec 09,C Brigham-Althoff
 NURS,417,Nursing Care of Childbearing Families,03,13477,2,ARRGT,ARR ARR,Aug 22--Dec 09,R Adams
 NURS,417,Nursing Care of Childbearing Families,04,13478,2,ARRGT,ARR ARR,Aug 22--Dec 09,E Merritt
-NURS,417,Nursing Care of Childbearing Families,05,13479,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,417,Nursing Care of Childbearing Families,05,13479,2,ARRGT,ARR ARR,Aug 22--Dec 09,R Adams
 NURS,417,Nursing Care of Childbearing Families,06,13480,2,ARRGT,ARR ARR,Aug 22--Dec 09,K Kleiderer
 NURS,417,Nursing Care of Childbearing Families,07,13481,2,ARRGT,ARR ARR,Aug 22--Dec 09,A Willard
 NURS,417,Nursing Care of Childbearing Families,08,13482,2,ARRGT,ARR ARR,Aug 22--Dec 09,K Mitchell
-NURS,417,Nursing Care of Childbearing Families,09,13483,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,417,Nursing Care of Childbearing Families,09,13483,2,ARRGT,ARR ARR,Aug 22--Dec 09,K Mitchell
 NURS,417,Nursing Care of Childbearing Families,10,13484,2,ARRGT,ARR ARR,Aug 22--Dec 09,C Logsdon Douglas
 NURS,417,Nursing Care of Childbearing Families,11,13485,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
 NURS,417,Nursing Care of Childbearing Families,12,13539,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
@@ -405,35 +408,37 @@ NURS,424,Psychiatric/Mental Health Nursing Concepts,02,13487,3,M8.10-10,VC YAK,A
 NURS,424,Psychiatric/Mental Health Nursing Concepts,"","","",TH10.10-12,VC YAK,"",""
 NURS,425,Nursing Practice: Psychiatric/Mental Health,01,13488,2,ARRGT,ARR ARR,Aug 22--Dec 09,M Wiedmer
 NURS,425,Nursing Practice: Psychiatric/Mental Health,02,13489,2,ARRGT,ARR ARR,Aug 22--Dec 09,K West
-NURS,425,Nursing Practice: Psychiatric/Mental Health,03,13490,2,ARRGT,ARR ARR,Aug 22--Dec 09,H Striker
-NURS,425,Nursing Practice: Psychiatric/Mental Health,04,13491,2,ARRGT,ARR ARR,Aug 22--Dec 09,H Striker
-NURS,425,Nursing Practice: Psychiatric/Mental Health,05,13492,2,ARRGT,ARR ARR,Aug 22--Dec 09,M Wiedmer
-NURS,425,Nursing Practice: Psychiatric/Mental Health,06,13493,2,ARRGT,ARR ARR,Aug 22--Dec 09,L Powell
-NURS,425,Nursing Practice: Psychiatric/Mental Health,07,13494,2,ARRGT,ARR ARR,Aug 22--Dec 09,S Welty
-NURS,425,Nursing Practice: Psychiatric/Mental Health,08,13495,2,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,425,Nursing Practice: Psychiatric/Mental Health,03,13490,2,ARRGT,ARR ARR,Aug 22--Dec 09,K West
+NURS,425,Nursing Practice: Psychiatric/Mental Health,04,13491,2,ARRGT,ARR ARR,Aug 22--Dec 09,J Oswald
+NURS,425,Nursing Practice: Psychiatric/Mental Health,05,13492,2,ARRGT,ARR ARR,Aug 22--Dec 09,S Welty
+NURS,425,Nursing Practice: Psychiatric/Mental Health,06,13493,2,ARRGT,ARR ARR,Aug 22--Dec 09,M Wiedmer
+NURS,425,Nursing Practice: Psychiatric/Mental Health,07,13494,2,ARRGT,ARR ARR,Aug 22--Dec 09,M Wiedmer
+NURS,425,Nursing Practice: Psychiatric/Mental Health,08,13495,2,ARRGT,ARR ARR,Aug 22--Dec 09,M Wiedmer
 NURS,425,Nursing Practice: Psychiatric/Mental Health,09,13496,2,ARRGT,ARR ARR,Aug 22--Dec 09,J Oswald
 NURS,425,Nursing Practice: Psychiatric/Mental Health,10,13497,2,ARRGT,ARR ARR,Aug 22--Dec 09,B Beebe
 NURS,425,Nursing Practice: Psychiatric/Mental Health,11,13534,2,ARRGT,ARR ARR,Aug 22--Dec 09,B Beebe
 NURS,425,Nursing Practice: Psychiatric/Mental Health,12,13566,2,ARRGT,ARR ARR,Aug 22--Dec 09,B Beebe
+NURS,425,Nursing Practice: Psychiatric/Mental Health,13,13579,2,ARRGT,ARR ARR,Aug 22--Dec 09,S Welty
 NURS,426,[M] Community Health Nursing Theory,01,13498,2,M10.10-12,SNRS 5,Aug 22--Dec 09,K Olson
 NURS,426,[M] Community Health Nursing Theory,"","","",TH9.10-10,SNRS 5,"",""
 NURS,426,[M] Community Health Nursing Theory,02,13499,2,M10.10-12,VC YAK,Aug 22--Dec 09,K Olson
 NURS,426,[M] Community Health Nursing Theory,"","","",TH9.10-10,VC YAK,"",""
-NURS,427,Community Health Nursing Practice,01,13500,3,ARRGT,ARR ARR,Aug 22--Dec 09,K Kleiderer
+NURS,427,Community Health Nursing Practice,01,13500,3,ARRGT,ARR ARR,Aug 22--Dec 09,K Olson
 NURS,427,Community Health Nursing Practice,02,13501,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Griffith
-NURS,427,Community Health Nursing Practice,03,13502,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,427,Community Health Nursing Practice,03,13502,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Fitzpatrick
 NURS,427,Community Health Nursing Practice,04,13503,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Griffith
 NURS,427,Community Health Nursing Practice,05,13504,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Hurst
 NURS,427,Community Health Nursing Practice,06,13505,3,ARRGT,ARR ARR,Aug 22--Dec 09,K Olson
 NURS,427,Community Health Nursing Practice,07,13506,3,ARRGT,ARR ARR,Aug 22--Dec 09,C Brigham-Althoff
 NURS,427,Community Health Nursing Practice,08,13507,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Hulett
 NURS,427,Community Health Nursing Practice,09,13508,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Hulett
-NURS,427,Community Health Nursing Practice,10,13509,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,427,Community Health Nursing Practice,11,13535,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,427,Community Health Nursing Practice,12,13567,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,430,[CAPS] Senior Practicum,01,13510,3,ARRGT,ARR ARR,Aug 22--Dec 09,D Beck
+NURS,427,Community Health Nursing Practice,10,13509,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Beebe
+NURS,427,Community Health Nursing Practice,11,13535,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Beebe
+NURS,427,Community Health Nursing Practice,12,13567,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Beebe
+NURS,427,Community Health Nursing Practice,13,13580,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,430,[CAPS] Senior Practicum,01,13510,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
 NURS,430,[CAPS] Senior Practicum,02,13511,3,ARRGT,ARR ARR,Aug 22--Dec 09,C Logsdon Douglas
-NURS,440,[M] Population Health Theory,01,13512,3,ARRGT,ARR ARR,Aug 22--Oct 14,""
+NURS,440,[M] Population Health Theory,01,13512,3,ARRGT,ARR ARR,Aug 22--Oct 14,S Edwards
 NURS,440,[M] Population Health Theory,02,13513,3,ARRGT,ARR ARR,Aug 22--Oct 14,S Edwards
 NURS,463,Coordination of Care Across Complex Populations,01,16198,3,ARRGT,ARR ARR,Aug 22--Oct 14,S Girard
 NURS,463,Coordination of Care Across Complex Populations,02,16197,3,ARRGT,ARR ARR,Aug 22--Oct 14,S Girard
@@ -489,12 +494,12 @@ NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-2
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,VC ARR,"",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,"","","",TU16.10-18,VC ARR,"",""
 NURS,508,Diagnostics and Procedures for Primary Care Practice,01 Lab,13550,0,ARRGT,ARR ARR,Aug 22--Dec 09,S Fincham
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,01,13555,3,W8.10-11,VC ARR,Aug 24--Aug 24,""
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,01,13555,3,W8.10-11,VC ARR,Aug 24--Aug 24,A Hedger
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",W8.10-11,VC ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",W8.10-11,VC ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",W8.10-11,VC ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",W8.10-11,VC ARR,"",""
-NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,02,13565,3,W8.10-11,VC ARR,Aug 24--Aug 24,""
+NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,02,13565,3,W8.10-11,VC ARR,Aug 24--Aug 24,A Hedger
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",W8.10-11,VC ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",W8.10-11,VC ARR,"",""
 NURS,509,Clinical Decision Making: Essential Concepts and Diagnostic Reasoning,"","","",W8.10-11,VC ARR,"",""
@@ -573,17 +578,17 @@ NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU9.10-12,
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU9.10-12,VC ARR,"",""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU9.10-12,VC ARR,"",""
 NURS,544,Therapeutic Modalities I: Introduction to Therapies,"","","",TU9.10-12,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01,13569,3,TH8.10-11,VC ARR,Aug 25--Aug 25,C Warburton
+NURS,553,Organizational Systems and Leadership II,01,13569,3,TH8.10-11,VC ARR,Aug 25--Aug 25,A Hedger
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,02,13373,3,TH8.10-11,VC ARR,Aug 25--Aug 25,C Warburton
+NURS,553,Organizational Systems and Leadership II,02,13373,3,TH8.10-11,VC ARR,Aug 25--Aug 25,""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
 NURS,553,Organizational Systems and Leadership II,"","","",TH8.10-11,VC ARR,"",""
-NURS,553,Organizational Systems and Leadership II,01 Lab,13570,0,ARRGT,ARR ARR,Aug 22--Dec 09,C Warburton
+NURS,553,Organizational Systems and Leadership II,01 Lab,13570,0,ARRGT,ARR ARR,Aug 22--Dec 09,A Hedger
 NURS,555,PMHNP Practicum I,01,13561,3,TU16.10-18,VC ARR,Aug 23--Aug 23,C Chacon
 NURS,555,PMHNP Practicum I,"","","",TU16.10-18,VC ARR,"",""
 NURS,555,PMHNP Practicum I,"","","",TU16.10-18,VC ARR,"",""
@@ -647,17 +652,17 @@ NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
 NURS,565,Information Management for Clinical Practice,"","","",TH14.10-17,VC ARR,"",""
-NURS,576,Organizational Systems and Leadership I,01,13532,3,TH11.10-14,VC ARR,Aug 25--Aug 25,C Chacon
+NURS,576,Organizational Systems and Leadership I,01,13532,3,TH11.10-14,VC ARR,Aug 25--Aug 25,A Hedger
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
-NURS,576,Organizational Systems and Leadership I,02,13366,3,TH11.10-14,VC ARR,Aug 25--Aug 25,""
+NURS,576,Organizational Systems and Leadership I,02,13366,3,TH11.10-14,VC ARR,Aug 25--Aug 25,A Hedger
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
 NURS,576,Organizational Systems and Leadership I,"","","",TH11.10-14,VC ARR,"",""
-NURS,576,Organizational Systems and Leadership I,01 Lab,13577,0,ARRGT,ARR ARR,Aug 22--Dec 09,C Chacon
+NURS,576,Organizational Systems and Leadership I,01 Lab,13577,0,ARRGT,ARR ARR,Aug 22--Dec 09,A Hedger
 NURS,581,Advanced Pathophysiology,01,13562,3,M14.10-17,VC ARR,Aug 22--Aug 22,F Brown
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
@@ -668,8 +673,8 @@ NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
 NURS,581,Advanced Pathophysiology,"","","",M14.10-17,VC ARR,"",""
-NURS,583,DNP Population Health Practicum,01,13564,V,ARRGT,ARR ARR,Aug 22--Dec 09,""
-NURS,583,DNP Population Health Practicum,02,13612,V,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,583,DNP Population Health Practicum,01,13564,V,ARRGT,ARR ARR,Aug 22--Dec 09,N Wood
+NURS,583,DNP Population Health Practicum,02,13612,V,ARRGT,ARR ARR,Aug 22--Dec 09,N Wood
 NURS,596,Nursing Science: Theory and Science of Nursing II,01,13540,3,TH15.10-18,VC ARR,Aug 25--Aug 25,""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH15.10-18,VC ARR,"",""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH15.10-18,VC ARR,"",""
@@ -688,7 +693,7 @@ NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH15.10-18,V
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH15.10-18,VC ARR,"",""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH15.10-18,VC ARR,"",""
 NURS,596,Nursing Science: Theory and Science of Nursing II,"","","",TH15.10-18,VC ARR,"",""
-NURS,597,Advanced Topics in Nursing,01,13616,V,ARRGT,ARR ARR,Aug 22--Dec 09,""
+NURS,597,Advanced Topics in Nursing,01,13616,V,ARRGT,ARR ARR,Aug 22--Dec 09,N Wood
 NURS,598,Advanced Topics in Nursing,01,13610,V,ARRGT,ARR ARR,Aug 22--Dec 09,""
 NURS,598,Advanced Topics in Nursing,03,13617,V,W14.10-17,VC ARR,Aug 24--Aug 24,C Van Son
 NURS,598,Advanced Topics in Nursing,"","","",W14.10-17,VC ARR,"",""
@@ -696,7 +701,9 @@ NURS,598,Advanced Topics in Nursing,"","","",W14.10-17,VC ARR,"",""
 NURS,598,Advanced Topics in Nursing,"","","",W14.10-17,VC ARR,"",""
 NURS,598,Advanced Topics in Nursing,"","","",W14.10-17,VC ARR,"",""
 NURS,599,Independent Study,01,13385,V,ARRGT,ARR ARR,Aug 22--Dec 09,P Stover
-NURS,599,Independent Study,02,13529,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Fincham
+NURS,599,Independent Study,02,13529,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
+NURS,599,Independent Study,03,13530,V,ARRGT,ARR ARR,Aug 22--Dec 09,D Depriest
+NURS,599,Independent Study,04,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,G Oneal
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination",01,13525,V,TH8.10-11,VC ARR,Aug 25--Aug 25,(multiple)
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC ARR,"",""
 NURS,702,"Master's Special Problems, Directed Study, and/or Examination","","","",TH8.10-11,VC ARR,"",""
@@ -729,14 +736,14 @@ PHARDSCI,599,Special Projects,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 PHARDSCI,599,Special Projects,50,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,""
 PHARMACY,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 PHARMACY,499,Special Problems,50,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
+PHARMACY,501,Applied Patient Care I: Patient Assessment,01,"",1,ARRGT,ARR ARR,Aug 22--Dec 09,C Buchman
 PHARMACY,506,Student Practice and Professional Development I,01,13262,1,TU8.45-9.35,SHSB 110Z,Aug 22--Dec 09,J Robinson
-PHARMACY,506,Student Practice and Professional Development I,50,13263,1,TU8.10-9,ARR ARR,Aug 22--Dec 09,J Robinson
 PHARMACY,507,Introduction to Therapeutic Agents: Top 200 Drugs,01,13196,1,F9.45-10.35,SHSB 110Z,Aug 22--Dec 09,L Powell
-PHARMACY,509,Professional Communications Lab,01,"",1,TU9.45-10.35,SHSB 110Z,Aug 22--Dec 09,M Willson
+PHARMACY,509,Professional Communications Lab,01,13197,1,TU9.45-10.35,SHSB 110Z,Aug 22--Dec 09,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",W10.10-12,SPBS 301,"",""
-PHARMACY,509,Professional Communications Lab,02,"",1,TU9.45-10.35,GUC SPK,Aug 22--Dec 09,M Willson
+PHARMACY,509,Professional Communications Lab,02,13198,1,TU9.45-10.35,GUC SPK,Aug 22--Dec 09,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",W13.10-15,SPBS 301,"",""
-PHARMACY,509,Professional Communications Lab,03,"",1,TU9.45-10.35,GUC SPK,Aug 22--Dec 09,M Willson
+PHARMACY,509,Professional Communications Lab,03,13199,1,TU9.45-10.35,GUC SPK,Aug 22--Dec 09,M Willson
 PHARMACY,509,Professional Communications Lab,"","","",W15.10-17,SPBS 301,"",""
 PHARMACY,516,Health Care Systems,01,13224,2,TH10.10-12,SHSB 110Z,Aug 22--Dec 09,J Akers
 PHARMACY,530,Point of Care and Clinical Services,01,13226,2,"M,TU,W,TH,F8-17",ARR ARR,Aug 22--Aug 26,J Miller
@@ -759,6 +766,7 @@ PHARMACY,534,Pharmacotherapy II,01,13205,4,"TU,TH8.10-10",SPBS 101,Aug 30--Dec 0
 PHARMACY,534,Pharmacotherapy II,50,13233,4,"TU,TH8.10-10",ARR ARR,Aug 30--Dec 09,A Kim
 PHARMACY,536,Student Success and Professional Development II,01,13348,1,TU14.10-15,SPBS 101,Aug 30--Dec 09,J Robinson
 PHARMACY,536,Student Success and Professional Development II,50,13349,1,TU14.10-15,ARR ARR,Aug 30--Dec 09,J Robinson
+PHARMACY,541,Applied Patient Care III: Medication Therapy Management,01,"",1,ARRGT,ARR ARR,Aug 22--Dec 09,K Mckeirnan
 PHARMACY,545,Pharmacy Management,01,13206,3,TH13.10-15,"",Aug 30--Dec 09,J Akers
 PHARMACY,545,Pharmacy Management,50,13234,3,TH13.10-15,"",Aug 30--Dec 09,J Akers
 PHARMACY,551,Applied Patient Care IV: Advanced Medication Therapy Management,01,13207,2,W13.10-14,SPBS 101,Aug 22--Dec 09,L Powell
@@ -782,7 +790,7 @@ PHARMACY,570,Pain: Processes and Treatment,50,13260,2,W15.10-16,ARR ARR,Aug 30--
 PHARMACY,572,Physical Activity Prescription in the Pharmacy,01,14215,2,ARRGT,ARR ARR,Aug 22--Dec 09,S Marsh
 PHARMACY,572,Physical Activity Prescription in the Pharmacy,50,14466,2,ARRGT,ARR ARR,Aug 22--Dec 09,S Marsh
 PHARMACY,577,"Diseases, Complications, and Drug Therapy in Obstetrics",01,13214,2,ARRGT,ARR ARR,Aug 22--Dec 09,A Blum
-PHARMACY,578,Leadership and Professional Development,01,13353,2,TU15.10-17,"",Aug 30--Dec 09,J Robinson
+PHARMACY,578,Leadership and Professional Development,01,13353,2,TU15.10-17,"",Aug 30--Dec 09,D Brand
 PHARMACY,578,Leadership and Professional Development,50,13354,2,TU15.10-17,ARR ARR,Aug 30--Dec 09,A Stewart
 PHARMACY,581,Acute Care Advanced Practice Experience,01,"",5,ARRGT,ARR ARR,Aug 22--Dec 09,J White
 PHARMACY,581,Acute Care Advanced Practice Experience,50,"",5,ARRGT,ARR ARR,Aug 22--Dec 09,J White
@@ -833,9 +841,9 @@ SHS,201,American Sign Language I,"","","","M,W11.10-12","","",""
 SHS,201,American Sign Language I,02,13299,4,"TU,TH12.10-13",SNRS 205,Aug 22--Dec 09,M Ratsch
 SHS,201,American Sign Language I,"","","","M,W12.10-13","","",""
 SHS,201,American Sign Language I,03,13331,4,ARRGT,ARR ARR,Aug 22--Dec 09,M Ratsch
-SHS,205,Introduction to Speech-Language Pathology and Audiology,01,13300,3,"TU,TH16.20-17.35",SNRS 205,Aug 22--Dec 09,M Johnson
+SHS,205,Introduction to Speech-Language Pathology and Audiology,01,13300,3,"M,W,F11.10-12",VC SPK,Aug 22--Dec 09,E Schreiner
 SHS,371,Language Development,01,13301,3,"TU,TH10.35-11.50",SAC 20,Aug 22--Dec 09,E Wilson-Fowler
-SHS,372,Hearing and Hearing Disorders,01,13302,3,"M,W16.10-17.25",SAC 20,Aug 22--Dec 09,""
+SHS,372,Hearing and Hearing Disorders,01,13302,3,"M,W16.10-17.25",SAC 20,Aug 22--Dec 09,C Copus
 SHS,375,Phonetics,01,13303,3,"TU,TH13.10-14.25",SAC 147,Aug 22--Dec 09,M Vandam
 SHS,377,Anatomy and Physiology of the Speech Production,01,13304,3,"M,W14.35-15.50",SAC 20,Aug 22--Dec 09,D Jenson
 SHS,477,Aural Rehabilitation,01,13306,3,"TU,TH16.10-17.25",SAC 20,Aug 22--Dec 09,B Gilchrist
@@ -870,11 +878,11 @@ SHS,588,Advanced Speech and Sound Disorders,02,13325,2,TH10.10-11.50,SAC 347,Aug
 SHS,700,"Master's Research, Thesis, and/or Examination",01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,""
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",01,13326,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 SHS,702,"Master's Special Problems, Directed Study, and/or Examination",02,16054,V,W12-13,SAC 249,Aug 22--Dec 09,D Algeo
-SPEC_ED,301,Education of Exceptional Children,02,14036,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
+SPEC_ED,301,Education of Exceptional Children,02,14036,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Van Horn
 SPEC_ED,501,Teaching Students with Disabilities,02,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,J Thomas
-SPEC_ED,509,Early Childhood Special Education,01,14145,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
-SPEC_ED,520,Teaching in Inclusive Classrooms,02,14058,2,M15.10-17,SAC 45,Aug 22--Dec 09,""
-SPEC_ED,591,Research in High-Incidence Disabilities,01,13964,3,W17.45-20.30,SAC 343,Aug 22--Dec 09,""
+SPEC_ED,509,Early Childhood Special Education,01,14145,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Thomas
+SPEC_ED,520,Teaching in Inclusive Classrooms,02,14058,2,M15.10-17,SAC 45,Aug 22--Dec 09,M Gwinn
+SPEC_ED,591,Research in High-Incidence Disabilities,01,13964,3,W17.45-20.30,SAC 343,Aug 22--Dec 09,M Dunn
 SPEC_ED,596,Seminar in Quality Indicators for Research in Special Education,01,14176,1,W16.10-17,SAC 343,Aug 22--Dec 09,""
 STAT,212,[QUAN] Introduction to Statistical Methods,01,"",4,ARRGT,ARR ARR,Aug 22--Dec 09,D Hull-Nye
 STAT,212,[QUAN] Introduction to Statistical Methods,01 Lab,"",0,ARRGT,ARR ARR,Aug 22--Dec 09,D Hull-Nye
@@ -884,10 +892,17 @@ TCH_LRN,415,Student Teaching Internship,"","","",M16.10-18.10,SCRS 250,"",""
 TCH_LRN,415,Student Teaching Internship,"","","",M16.10-18.10,SCRS 250,"",""
 TCH_LRN,415,Student Teaching Internship,"","","",M16.10-18.10,SCRS 250,"",""
 TCH_LRN,415,Student Teaching Internship,"","","",M16.10-18.10,SCRS 250,"",""
+TCH_LRN,415,Student Teaching Internship,02,16765,V,M16.10-18.10,VC ARR,Aug 29--Aug 29,A Segadelli
+TCH_LRN,415,Student Teaching Internship,"","","",M16.10-18.10,ARR ARR,"",""
+TCH_LRN,415,Student Teaching Internship,"","","",M16.10-18.10,ARR ARR,"",""
+TCH_LRN,415,Student Teaching Internship,"","","",M16.10-18.10,ARR ARR,"",""
+TCH_LRN,415,Student Teaching Internship,"","","",M16.10-18.10,ARR ARR,"",""
+TCH_LRN,415,Student Teaching Internship,"","","",M16.10-18.10,ARR ARR,"",""
 TCH_LRN,415,Student Teaching Internship,01 Lab,14048,0,ARRGT,ARR ARR,Aug 22--Dec 09,A Segadelli
+TCH_LRN,415,Student Teaching Internship,02 Lab,16766,0,ARRGT,ARR ARR,Aug 22--Dec 09,A Segadelli
 TCH_LRN,510,Theoretical Foundations of Bilingual/ESL Education,01,14175,3,TU17.45-20.30,SAC 205,Aug 22--Dec 09,E Johnson
 TCH_LRN,512,Language and Cultural Factors in Mathematics,01,13965,3,TH16.20-19.05,SAC 205,Aug 22--Dec 09,M Kelton
-TCH_LRN,544,Teaching Children's and Young Adult Literature,01,13685,3,W17.15-20,SAC 249,Aug 22--Dec 09,""
+TCH_LRN,544,Teaching Children's and Young Adult Literature,01,13685,3,W17.15-20,SAC 249,Aug 22--Dec 09,M Vaughn
 TCH_LRN,550,Second Language Learning and Literacy,01,14179,3,W13.10-16,SNRS 201,Aug 22--Dec 09,T Salsbury
 TCH_LRN,584,Research in Teaching Mathematics and Science,01,13966,3,W17.45-20.30,SAC 205,Aug 22--Dec 09,D Slavit
 TMP,550,Biochemistry for the Health Sciences,01,14263,3,"M,W14.10-15.25",SCRS 250,Aug 22--Dec 09,T Chauvin

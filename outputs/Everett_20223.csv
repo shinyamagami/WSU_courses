@@ -1,26 +1,26 @@
 Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg & Room,Dates,Instructor
 ACCTG,230,Introduction to Financial Accounting,01,"",3,ARRGT,ARR ARR,Oct 17--Dec 11,""
-AFS,201,Systems Skills for Agricultural and Food Systems,01,15122,3,"M,W,F12.10-13","",Aug 22--Dec 09,H Henning
-AFS,336,"[SSCI] Agriculture, Environment, and Community",01,15275,3,"TU,TH9.10-10.25","",Aug 22--Dec 09,J Goldberger
+AFS,201,Systems Skills for Agricultural and Food Systems,01,15122,3,"M,W,F12.10-13",EVRT 340,Aug 22--Dec 09,H Henning
+AFS,336,"[SSCI] Agriculture, Environment, and Community",01,15275,3,"TU,TH9.10-10.25",EVRT 200D,Aug 22--Dec 09,J Goldberger
 ANTH,203,[DIVR] Global Cultural Diversity,01,15249,3,ARRGT,ARR ARR,Aug 22--Dec 09,C Heckelsmiller
 ANTH,268,"[BSCI] Sex, Evolution, and Human Nature",01,14827,3,ARRGT,ARR ARR,Aug 22--Dec 09,T Alvarez
 ANTH,302,[SSCI] Childhood and Culture,01,14828,3,ARRGT,ARR ARR,Aug 22--Dec 09,C Smith
 ANTH,320,[DIVR] Native Peoples of North America,01,14830,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Mcnassar
 ANTH,331,[SSCI] Archaeology of the Americas,01,15250,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Mcnassar
+ANTH,350,"[DIVR] Speech, Thought, and Culture",01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,A Sinha
 ANTH,404,[CAPS] The Self in Culture,01,14808,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Mageo
 ANTH,418,Human Issues in International Development,01,14809,3,ARRGT,ARR ARR,Aug 22--Dec 09,R Quinlan
 B_A,100,Introduction to Business,01,"",3,ARRGT,ARR ARR,Oct 17--Dec 11,C Cooney
 B_A,211,"Ethics, Teams, and Innovation",01,15364,3,ARRGT,ARR ARR,Oct 17--Dec 11,N Yaws-Gonzalez
 B_A,211,"Ethics, Teams, and Innovation",03,16460,3,"M,W13.30-14.40","",Aug 22--Dec 09,J Gladstone
-B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,15859,3,"TU,TH16.20-17.35","",Aug 22--Dec 09,Y He
+B_A,212,"Spreadsheets, Data Visualization, and Decision Analysis",02,15859,3,"TU,TH10.35-11.50","",Aug 22--Dec 09,R Boyer
 COM,101,[SSCI] Media and Society,01,14821,3,ARRGT,ARR ARR,Aug 22--Dec 09,R Taflinger
 COM,102,[COMM] Public Speaking in the Digital Age,01,14773,3,ARRGT,ARR ARR,Aug 22--Dec 09,I Haider
 COM,105,[HUM] Communication in Global Contexts,01,14790,3,ARRGT,ARR ARR,Aug 22--Dec 09,C Curtis
 COM,138,Introduction to Communication,01,14769,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Starr-Gepford
-COM,210,[COMM] Multimedia Content Creation,01,14777,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Pingel
+COM,210,[COMM] Multimedia Content Creation,01,14777,3,ARRGT,ARR ARR,Aug 22--Dec 09,E Price
 COM,275,Communication Seminar,01,16321,V,ARRGT,ARR ARR,Aug 22--Oct 02,I Haider
 COM,275,Communication Seminar,02,16322,V,ARRGT,ARR ARR,Oct 31--Dec 09,I Haider
-COM,300,[M] Writing in Communication,01,15145,3,"TU,TH10.35-13.15","",Aug 22--Dec 09,V Mcvay
 COM,309,Quantitative Research Methods,02,15161,3,ARRGT,ARR ARR,Aug 22--Dec 09,W Peng
 COM,421,[CAPS] Intercultural Communication and Globalization,01,16050,3,"M,W10.35-11.50",GUC EVE,Aug 22--Dec 09,R Richardson
 COM,464,Gender and the Media,02,16052,3,"M,W13.30-14.45",GUC EVE,Aug 22--Dec 09,R Richardson
@@ -37,22 +37,22 @@ COMSTRAT,395,Introduction to Integrated Strategic Communication and Management,0
 COMSTRAT,476,Consumer Insights and Branding,01,14760,3,"M,W12-13.15",GUC EVE,Aug 22--Dec 09,C Wilder
 COMSTRAT,485,[M] Public Relations Management and Campaigns,01,15155,3,ARRGT,ARR ARR,Aug 22--Dec 09,Y Lee
 COMSTRAT,495,Strategic Communication Professional Internship,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,W Wegner
-CPT_S,131,Program Design and Development Java,01,15081,4,ARRGT,ARR ARR,Aug 22--Dec 09,B Zeng
-CPT_S,131,Program Design and Development Java,01 Lab,15082,0,ARRGT,ARR ARR,Aug 22--Dec 09,B Zeng
+CPT_S,131,Program Design and Development Java,01,15081,4,ARRGT,ARR ARR,Aug 22--Dec 09,C De Lira
+CPT_S,131,Program Design and Development Java,01 Lab,15082,0,ARRGT,ARR ARR,Aug 22--Dec 09,C De Lira
 CPT_S,215,Data Analytics Systems and Algorithms,01,15067,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Badri
-CPT_S,233,Advanced Data Structures Java,01,14811,3,"M,W,F13.10-14","",Aug 22--Dec 09,D Tao
+CPT_S,233,Advanced Data Structures Java,01,14811,3,"M,W,F13.10-14",EVRT 452,Aug 22--Dec 09,B Zeng
 CPT_S,302,Professional Skills in Computing and Engineering,01,14817,3,"TU,TH13.30-14.45","",Aug 22--Dec 09,J Thompson
-CPT_S,315,Introduction to Data Mining,01,15134,3,ARRGT,ARR ARR,Aug 22--Dec 09,A Jillepalli
+CPT_S,315,Introduction to Data Mining,01,15134,3,ARRGT,ARR ARR,Aug 22--Dec 09,R Barik
 CPT_S,317,Automata and Formal Languages,01,16486,3,"M,W,F13.10-14","",Aug 22--Dec 09,J Thompson
 CPT_S,321,Object-Oriented Software Principles,01,14812,3,"M,W,F16.10-17","",Aug 22--Dec 09,V Arnaoudova
 CPT_S,327,Introduction to Cyber Security,01,16495,3,"M,W,F11.10-12","",Aug 22--Dec 09,A Jillepalli
 CPT_S,350,Design and Analysis of Algorithms,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,J Thompson
 CPT_S,411,Introduction to Parallel Computing,01,15151,3,"TU,TH12.05-13.20","",Aug 22--Dec 09,A Kalyanaraman
 CPT_S,415,Big Data,01,14813,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Badri
-CPT_S,421,Software Design Project I,01,15274,3,"TU,TH14.55-16.10","",Aug 22--Dec 09,B Zeng
+CPT_S,421,Software Design Project I,01,15274,3,TU10.35-12,"",Aug 22--Dec 09,""
 CPT_S,421,Software Design Project I,01 Lab,15147,0,ARRGT,ARR ARR,Aug 22--Dec 09,B Zeng
 CPT_S,422,[M] Software Engineering Principles II,01,14814,3,"TU,TH13.30-14.45","",Aug 22--Dec 09,B Zeng
-CPT_S,437,Introduction to Machine Learning,01,16487,3,"TU,TH9.10-10.25","",Aug 22--Dec 09,""
+CPT_S,437,Introduction to Machine Learning,01,16487,3,"TU,TH9.10-10.25","",Aug 22--Dec 09,D Cook
 CPT_S,453,Graph Theory,01,15148,3,"M,W,F14.10-15","",Aug 22--Dec 09,M Hudelson
 CPT_S,484,Software Requirements,01,15140,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Zeng
 CRM_J,101,[SSCI] Introduction to the Administration of Criminal Justice,01,15052,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Snyder
@@ -62,16 +62,16 @@ CROP_SCI,403,Advanced Cropping Systems,01,14785,3,"TU,TH13.30-14.45","",Aug 22--
 DATA,115,Introduction to Data Analytics,01,15158,3,"TU,TH10.35-11.50","",Aug 22--Dec 09,S Lapin
 DATA,390,Special Topics I,01,16234,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
 DATA,390,Special Topics I,02,16235,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
-DATA,390,Special Topics I,03,16236,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
+DATA,390,Special Topics I,03,16236,V,ARRGT,ARR ARR,Aug 22--Dec 09,A Jillepalli
 E_A,300,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,M Styborski
 E_A,301,Educ Abroad,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,""
 E_E,302,Professional Skills in Computing and Engineering,01,14824,3,"TU,TH13.30-14.45","",Aug 22--Dec 09,J Thompson
 E_E,311,Electronics,01,14735,3,"M,W14.10-15.25","",Aug 22--Dec 09,J Murray
 E_E,321,Electrical Circuits II,01,14739,3,"M,W12.35-13.50","",Aug 22--Dec 09,S Xie
-E_E,324,[M] Fundamentals of Digital Systems,01,14741,4,"M,W12.10-14.10","",Aug 22--Dec 09,J Murray
-E_E,324,[M] Fundamentals of Digital Systems,01 Lab,14742,0,F12.10-15,"",Aug 22--Dec 09,J Murray
+E_E,324,[M] Fundamentals of Digital Systems,01,14741,4,"M,W12.35-13.50",EVRT 456,Aug 22--Dec 09,J Murray
+E_E,324,[M] Fundamentals of Digital Systems,01 Lab,14742,0,F12.10-15,EVRT 456,Aug 22--Dec 09,J Murray
 E_E,331,Electromagnetic Fields and Waves,01,14736,3,"M,W10.10-11.25","",Aug 22--Dec 09,S Xie
-E_E,352,[M] Electrical Engineering Laboratory I,01,14737,3,TU9.10-10,"",Aug 22--Dec 09,S Xie
+E_E,352,[M] Electrical Engineering Laboratory I,01,14737,3,TU9.10-10,EVRT 452,Aug 22--Dec 09,S Xie
 E_E,352,[M] Electrical Engineering Laboratory I,01 Lab,14738,0,"TU,TH10.10-13","",Aug 22--Dec 09,S Xie
 E_E,415,Design Project Management,01,14743,3,TU10.35-12,"",Aug 22--Dec 09,J Murray
 E_E,415,Design Project Management,01 Lab,14744,0,ARRGT,ARR ARR,Aug 22--Dec 09,J Murray
@@ -94,27 +94,35 @@ ECONS,327,International Trade and Finance,01,14997,3,ARRGT,ARR ARR,Aug 22--Dec 0
 ECONS,352,Business Management Economics,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,N Nahar
 ENGLISH,402,[WRTG] [M] Technical and Professional Writing,05,15257,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Mccarthy
 ENGR,489,Professional Practice Coop/Internship II,01,"",1,ARRGT,ARR ARR,Aug 22--Dec 09,S Brabb
-ENTOM,343,[M] General Entomology,01,15149,3,"TU,TH10.35-11.50","",Aug 22--Dec 09,B Hopkins
+ENTOM,343,[M] General Entomology,01,15149,3,"TU,TH10.35-11.50","",Aug 22--Dec 09,R Olsson
 FIN,325,Introduction to Financial Management,01,14732,3,M15.10-18,"",Aug 22--Oct 09,M Chen
+FINE_ART,101,[ARTS] Introduction to Art,01,15042,3,ARRGT,ARR ARR,Aug 22--Dec 09,D Doty
 FS,201,[BSCI] Science on Your Plate,01,15870,3,"M,W,F13.10-14","",Aug 22--Dec 09,M Michael
+H_D,205,[COMM] Developing Effective Communication and Life Skills,02,"",4,ARRGT,ARR ARR,Aug 22--Dec 09,M Strey
+H_D,205,[COMM] Developing Effective Communication and Life Skills,02 Lab,15017,0,ARRGT,ARR ARR,Aug 22--Dec 09,M Strey
 H_D,350,[DIVR] Family Diversity,01,14975,3,ARRGT,ARR ARR,Aug 22--Dec 09,D Bice
+HBM,101,Professional and Career Development for the Business World,01,"",1,ARRGT,ARR ARR,Aug 22--Oct 09,A Alonzo
 HBM,101,Professional and Career Development for the Business World,02,14759,1,"M,W,F11.10-12","",Oct 17--Dec 11,A Mcleod
-HBM,280,Hospitality Systems,02,14774,3,TH15.10-18,"",Oct 17--Dec 11,K Philander
 HBM,280,Hospitality Systems,03,"",3,ARRGT,ARR ARR,Oct 17--Dec 11,K Philander
 HBM,301,Introduction to Event Planning,01,"",3,ARRGT,ARR ARR,Aug 22--Oct 09,A Senter
 HBM,358,Foodservice Systems and Control,02,"",3,ARRGT,ARR ARR,Aug 22--Oct 09,S Seo
 HBM,381,[M] Hospitality Leadership and Organizational Behavior,01,14781,3,"TU,TH13.30-14.45","",Aug 22--Dec 09,J Sandstrom
+HBM,401,Career Management,01,14763,1,ARRGT,ARR ARR,Aug 22--Oct 09,A Alonzo
 HBM,401,Career Management,02,15119,1,TH13.30-14.45,"",Aug 22--Dec 09,A Alonzo
 HBM,470,Senior Living Management Operations Analysis,01,15858,3,ARRGT,ARR ARR,Aug 22--Oct 09,C Wolfenbarger
-HBM,491,Operational Analysis,01,14731,3,ARRGT,ARR ARR,Oct 17--Dec 11,""
-HBM,494,[M] Service Operations Management,02,14797,3,TH13.30-16,"",Aug 22--Oct 09,S Seo
+HBM,491,Operational Analysis,01,14731,3,ARRGT,ARR ARR,Oct 17--Dec 11,R Cai
+HBM,494,[M] Service Operations Management,01,16757,3,"TU,TH12.05-13.05","",Oct 17--Dec 11,S Seo
 HBM,495,[CAPS] Case Studies and Research,01,14782,3,"TU,TH10.35-11.50","",Aug 22--Oct 09,R Cai
+HISTORY,105,[ROOT] The Roots of Contemporary Issues,03,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,""
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,01,14798,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Finkelberg
 HISTORY,305,[ROOT] Roots of Contemporary Issues For Transfer Students,06,15981,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
 HORT,310,Pomology,01,14786,3,"TU,TH13.30-14.45","",Aug 22--Dec 09,L Devetter
 HORT,313,Viticulture,01,15983,3,"TU,TH14.55-16.10","",Aug 22--Dec 09,B Bondada
 HORT,320,Olericulture,01,15271,3,"TU,TH9.10-10.25","",Aug 22--Dec 09,M Kumar
 I_BUS,435,International Tourism,01,16721,3,W15.10-18,VC ARR,Aug 22--Oct 09,M Chen
+I_BUS,453,[M] International Management,01,"",3,ARRGT,ARR ARR,Oct 17--Dec 11,D Nelson
+MATH,171,[QUAN] Calculus I,01,15312,4,ARRGT,ARR ARR,Aug 22--Dec 09,L Oliver
+MATH,171,[QUAN] Calculus I,01 Lab,15313,0,ARRGT,ARR ARR,Aug 22--Dec 09,L Oliver
 MATH,202,[QUAN] Calculus for Business and Economics,01,14891,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Morgan
 MATH,216,Discrete Structures,01,14810,3,"M,W,F9.10-10","",Aug 22--Dec 09,D Hampson
 MATH,225,Linear Algebra with Modern Applications,02,16582,3,"M,W,F11.10-12","",Aug 22--Dec 09,J Mcdonald
@@ -133,6 +141,7 @@ ME,436,Combustion Engines,01,14751,3,"M,W,F15.10-16","",Aug 22--Dec 09,J Leachma
 ME,461,Introduction to Nuclear Engineering,01,14755,3,"TU,TH16.20-17.35","",Aug 22--Dec 09,R Stout
 ME,466,Fundamentals of Engineering Examination Review,01,14819,1,TU15.10-16,"",Aug 22--Dec 09,""
 ME,483,Topics in Mechanical Engineering,01,15632,V,"M,W,F16.10-17","",Aug 22--Dec 09,G Taub
+ME,488,Professional Practice Coop/Internship I,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,S Brabb
 MED_CLIN,522,Longitudinal Integrated Clerkship II,01,15353,14,ARRGT,ARR ARR,Aug 22--Nov 23,J Bowen
 MED_CLIN,530,Virtual - Clinical Cases,01,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
 MED_CLIN,530,Virtual - Clinical Cases,02,"",2,ARRGT,ARR ARR,Aug 22--Nov 23,C Anderson
@@ -185,6 +194,8 @@ MED_CLIN,570,Away Rotation - North America,02,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,
 MED_CLIN,570,Away Rotation - North America,03,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
 MED_CLIN,570,Away Rotation - North America,04,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
 MED_CLIN,570,Away Rotation - North America,05,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,06,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,07,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
 MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
 MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
 MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,S Siddiqui
@@ -269,8 +280,10 @@ MGMT,401,Leading People and Organizations,02,15861,3,"M,W10.35-11.50","",Aug 22-
 MGMT,450,Personnel and Human Resources Management,03,15985,3,M15.10-18,"",Oct 17--Dec 11,M Beattie
 MGMT,483,[M] Management of Innovation and Change,02,16462,3,"TU,TH13.30-14.40","",Aug 22--Dec 09,J Gladstone
 MGMT,491,[CAPS] Strategic Management,01,"",3,ARRGT,ARR ARR,Aug 22--Oct 09,L Zhu
-MGTOP,340,Operations Management,02,15860,3,W18-20.15,"",Aug 22--Dec 09,""
+MGTOP,340,Operations Management,01,"",3,ARRGT,ARR ARR,Oct 17--Dec 11,C Munson
+MGTOP,340,Operations Management,02,15860,3,TU19.15-21.30,"",Aug 22--Dec 09,R Howell
 MIS,250,Managing Information Technology,02,"",3,ARRGT,ARR ARR,Oct 17--Dec 11,J Barnett
+MIS,372,[M] Data Management,01,"",3,ARRGT,ARR ARR,Aug 22--Oct 09,M Carter
 MUS,262,[ARTS] Rock Music: History and Social Analysis,02,14881,3,ARRGT,ARR ARR,Aug 22--Dec 09,A Miller
 MUS,265,[HUM] Native Music of North America,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,M Parkhurst
 MUS,266,[ARTS] Film Music,01,15605,3,ARRGT,ARR ARR,Aug 22--Dec 09,C Dickey
@@ -285,18 +298,19 @@ SOC,317,[M] Research Methods in Sociology,01,15372,3,ARRGT,ARR ARR,Aug 22--Dec 0
 SOC,418,Human Issues in International Development,01,14833,3,ARRGT,ARR ARR,Aug 22--Dec 09,R Quinlan
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01,15194,4,ARRGT,ARR ARR,Aug 22--Dec 09,M Billings
 SOE,110,"[BSCI] The Environment, Human Life, and Sustainability",01 Lab,15195,0,ARRGT,ARR ARR,Aug 22--Dec 09,M Billings
-SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,15174,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Ostrom
+SOE,312,"[DIVR] Natural Resources, Society, and the Environment",01,15174,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Steen-Adams
 SOIL_SCI,101,Organic Gardening and Farming,01,15090,3,ARRGT,ARR ARR,Aug 22--Dec 09,L Carpenter-Boggs
 SOIL_SCI,201,[BSCI] Soil: A Living System,01,14788,3,ARRGT,ARR ARR,Aug 22--Dec 09,G Lahue
 SOIL_SCI,368,Introduction to Geographic Information Systems,01,15091,3,ARRGT,ARR ARR,Aug 22--Dec 09,L Brueggeman
 SOIL_SCI,368,Introduction to Geographic Information Systems,01 Lab,15092,0,ARRGT,ARR ARR,Aug 22--Dec 09,L Brueggeman
 SOIL_SCI,479,Organic Farm and Garden Field Management,01,15094,2,ARRGT,ARR ARR,Aug 22--Dec 09,B Jaeckel
+SOIL_SCI,498,Professional Internship,01,15098,V,ARRGT,ARR ARR,Aug 22--Dec 09,""
 STAT,360,Probability and Statistics,01,14800,3,"TU,TH12.05-13.20",VC ARR,Aug 22--Dec 09,S Lapin
 STAT,360,Probability and Statistics,02,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,T Trbojevic
 STAT,370,Introductory Statistics for Engineers,01,14820,3,"M,W,F11.10-12","",Aug 22--Dec 09,G Taub
 STAT,412,Statistical Methods in Research I,01,15076,3,ARRGT,ARR ARR,Aug 22--Dec 09,V Jandhyala
 STAT,419,Introduction to Multivariate Statistics,01,15309,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
-STAT,435,[M] Statistical Modeling for Data Analytics,02,15388,3,ARRGT,ARR ARR,Aug 22--Dec 09,A Kaul
-STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,15389,0,ARRGT,ARR ARR,Aug 22--Dec 09,A Kaul
+STAT,435,[M] Statistical Modeling for Data Analytics,02,15388,3,ARRGT,ARR ARR,Aug 22--Dec 09,H Zhang
+STAT,435,[M] Statistical Modeling for Data Analytics,02 Lab,15389,0,ARRGT,ARR ARR,Aug 22--Dec 09,H Zhang
 UNIV,398,Internship,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,J Hopkins
 WRIT,302,Advanced Writing Collaborative,01,15286,1,ARRGT,ARR ARR,Aug 22--Dec 09,T Holland
