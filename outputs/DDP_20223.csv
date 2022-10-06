@@ -13,6 +13,7 @@ ACCTG,338,Cost Accounting,03,12598,3,ARRGT,ARR ARR,Oct 17--Dec 11,B Barnes
 ACCTG,439,[M] Auditing,01,12594,3,ARRGT,ARR ARR,Oct 17--Dec 11,K Harris
 ACCTG,439,[M] Auditing,02,12596,3,ARRGT,ARR ARR,Oct 17--Dec 11,K Harris
 ACCTG,439,[M] Auditing,03,12597,3,ARRGT,ARR ARR,Oct 17--Dec 11,K Harris
+ACCTG,498,Accounting Internship,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,S Gill
 ACCTG,533,"Accounting, Performance Measurement and Controls",01,"",3,ARRGT,ARR ARR,Oct 03--Nov 06,M Petersen
 ACCTG,533,"Accounting, Performance Measurement and Controls",02,"",3,ARRGT,ARR ARR,Oct 03--Nov 06,M Petersen
 ACCTG,533,"Accounting, Performance Measurement and Controls",03,"",3,ARRGT,ARR ARR,Oct 03--Nov 06,M Petersen
@@ -127,7 +128,8 @@ COM,105,[HUM] Communication in Global Contexts,03,14639,3,ARRGT,ARR ARR,Dec 17--
 COM,138,Introduction to Communication,01,12950,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Starr-Gepford
 COM,210,[COMM] Multimedia Content Creation,01,12933,3,ARRGT,ARR ARR,Aug 22--Dec 09,E Price
 COM,275,Communication Seminar,01,16219,V,ARRGT,ARR ARR,Aug 22--Oct 02,I Haider
-COM,275,Communication Seminar,02,16280,V,ARRGT,ARR ARR,Oct 31--Dec 09,I Haider
+COM,275,Communication Seminar,02,"",V,ARRGT,ARR ARR,Oct 31--Dec 09,I Haider
+COM,275,Communication Seminar,03,"",V,ARRGT,ARR ARR,Oct 31--Dec 09,I Haider
 COM,300,[M] Writing in Communication,01,12964,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Mclaughlin
 COM,300,[M] Writing in Communication,04,12973,3,ARRGT,ARR ARR,Aug 22--Dec 09,M Mclaughlin
 COM,309,Quantitative Research Methods,01,12952,3,ARRGT,ARR ARR,Aug 22--Dec 09,W Peng
@@ -195,6 +197,7 @@ DATA,390,Special Topics I,01,16221,1,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
 DATA,390,Special Topics I,02,16222,1,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
 DATA,390,Special Topics I,03,16223,V,ARRGT,ARR ARR,Aug 22--Dec 09,A Jillepalli
 DATA,498,Internship,01,16224,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Lapin
+DTC,101,[ARTS] Introduction to Digital Technology & Culture,02,14642,3,ARRGT,ARR ARR,Dec 17--Jan 08,J Riddle
 DTC,201,[ARTS] Tools and Methods for Digital Technology,01,12867,3,ARRGT,ARR ARR,Aug 22--Dec 09,T De Vries
 DTC,201,[ARTS] Tools and Methods for Digital Technology,02,16849,3,ARRGT,ARR ARR,Aug 22--Dec 09,A Becerra
 DTC,331,Social Media Practices,01,16304,3,ARRGT,ARR ARR,Aug 22--Dec 09,L Roper
@@ -370,7 +373,7 @@ HBM,491,Operational Analysis,01,12628,3,ARRGT,ARR ARR,Oct 17--Dec 11,D Zhu
 HBM,491,Operational Analysis,02,"",3,ARRGT,ARR ARR,Jul 04--Sep 16,Y Barabantsev
 HBM,491,Operational Analysis,03,"",3,ARRGT,ARR ARR,Oct 03--Dec 16,Y Barabantsev
 HBM,494,[M] Service Operations Management,02,"",3,ARRGT,ARR ARR,Jul 04--Sep 16,J Harbour
-HBM,494,[M] Service Operations Management,03,12638,3,ARRGT,ARR ARR,Oct 03--Dec 16,J Kim
+HBM,494,[M] Service Operations Management,03,12638,3,ARRGT,ARR ARR,Oct 03--Dec 16,G Menconi
 HBM,495,[CAPS] Case Studies and Research,01,"",3,ARRGT,ARR ARR,Jul 04--Sep 16,O Larina
 HBM,495,[CAPS] Case Studies and Research,02,"",3,ARRGT,ARR ARR,Oct 03--Dec 16,O Larina
 HBM,496,Special Topics,01,"",V,ARRGT,ARR ARR,Jul 04--Sep 16,A Ampountolas
@@ -506,7 +509,6 @@ MIT,530,Elementary School Social Studies Methods,01,"",3,ARRGT,ARR ARR,Aug 22--D
 MKTG,360,Marketing,01,12640,3,ARRGT,ARR ARR,Oct 17--Dec 11,K Rieger
 MKTG,360,Marketing,02,12643,3,ARRGT,ARR ARR,Oct 17--Dec 11,K Rieger
 MKTG,360,Marketing,03,12644,3,ARRGT,ARR ARR,Oct 17--Dec 11,K Rieger
-MKTG,360,Marketing,04,12645,3,ARRGT,ARR ARR,Oct 17--Dec 11,K Rieger
 MKTG,477,Integrated Marketing Communications,01,12646,3,ARRGT,ARR ARR,Oct 17--Dec 11,K Marvel
 MKTG,477,Integrated Marketing Communications,02,12647,3,ARRGT,ARR ARR,Oct 17--Dec 11,K Marvel
 MKTG,496,Special Topics,01,"",V,ARRGT,ARR ARR,Oct 03--Dec 16,U Umesh
@@ -563,7 +565,6 @@ PSYCH,328,[M] Self Control,01,12738,3,ARRGT,ARR ARR,Aug 22--Dec 09,L Daffin
 PSYCH,328,[M] Self Control,02,12739,3,ARRGT,ARR ARR,Aug 22--Dec 09,A Eichenbaum
 PSYCH,333,Fundamentals of Psychological Disorders,01,12740,3,ARRGT,ARR ARR,Aug 22--Dec 09,A Bridley
 PSYCH,333,Fundamentals of Psychological Disorders,02,16831,3,ARRGT,ARR ARR,Aug 22--Dec 09,L Daffin
-PSYCH,333,Fundamentals of Psychological Disorders,03,14675,3,ARRGT,ARR ARR,Dec 17--Jan 08,L Daffin
 PSYCH,333,Fundamentals of Psychological Disorders,04,14674,3,ARRGT,ARR ARR,Dec 17--Jan 08,H Levy
 PSYCH,348,Forensic and Legal Psychology,01,12809,3,ARRGT,ARR ARR,Aug 22--Dec 09,K Mcraney
 PSYCH,350,Social Psychology,02,14676,3,ARRGT,ARR ARR,Dec 17--Jan 08,C Mazurek
@@ -585,7 +586,7 @@ SHS,201,American Sign Language I,01,13048,4,ARRGT,ARR ARR,Aug 22--Dec 09,M Ratsc
 SHS,201,American Sign Language I,02,14677,4,ARRGT,ARR ARR,Dec 17--Jan 08,M Ratsch
 SHS,202,American Sign Language II,01,14678,4,ARRGT,ARR ARR,Dec 17--Jan 08,M Ratsch
 SOC,101,[SSCI] Introduction to Sociology,01,12753,3,ARRGT,ARR ARR,Aug 22--Dec 09,T Familia
-SOC,101,[SSCI] Introduction to Sociology,02,14679,3,ARRGT,ARR ARR,Dec 17--Jan 08,C Cooley
+SOC,101,[SSCI] Introduction to Sociology,02,14679,3,ARRGT,ARR ARR,Dec 17--Jan 08,A Coma
 SOC,102,[SSCI] Social Problems,01,12756,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Hoffman
 SOC,230,Society and Technology,02,12866,3,ARRGT,ARR ARR,Aug 22--Dec 09,T Rotolo
 SOC,251,"[DIVR] The Sociology of Sex, Relationships, and Marriage",01,12811,3,ARRGT,ARR ARR,Aug 22--Dec 09,S Deming

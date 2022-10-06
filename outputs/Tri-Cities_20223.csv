@@ -2,8 +2,8 @@ Prefix,Course Number,Course Title,Section,Class Number,Credit,Days & Times,Bldg 
 ACCTG,230,Introduction to Financial Accounting,01,08994,3,"M,W,F13.10-14",TFLO 244,Aug 22--Dec 09,K Jones
 ACCTG,231,Introduction to Managerial Accounting,01,08948,3,"TU,TH13.30-14.45",TFLO 230,Aug 22--Dec 09,K Jones
 ACCTG,338,Cost Accounting,01,08949,3,"TU,TH16.20-17.35",TCOL 126,Aug 22--Dec 09,K Jones
-AFS,511,Statistical Methods for Graduate Researchers,01,09289,4,"TU,TH12.05-13.20",TFLO 260,Aug 22--Dec 09,T Northfield
-AFS,511,Statistical Methods for Graduate Researchers,01 Lab,09290,0,ARRGT,TFLO 260,Aug 22--Dec 09,T Northfield
+AFS,511,Statistical Methods for Graduate Researchers,01,09289,4,"TU,TH12.05-13.20",TFLO 210,Aug 22--Dec 09,T Northfield
+AFS,511,Statistical Methods for Graduate Researchers,01 Lab,09290,0,ARRGT,TFLO 210,Aug 22--Dec 09,T Northfield
 AGRI,587,Research and Extension Communications in Agriculture,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,C Perillo
 AIS,331,[SSCI] Archaeology of the Americas,01,16119,3,"M,W,F14.10-15",TCOL 126,Aug 22--Dec 09,M Mansperger
 ANTH,101,[DIVR] Introduction to Anthropology,01,09010,3,"M,W,F11.10-12",TCIC 216,Aug 22--Dec 09,M Mansperger
@@ -172,7 +172,7 @@ E_E,415,Design Project Management,"","","",F17.10-20,TFLO 133,"",""
 E_E,455,Introduction to Computer Networks,01,09208,3,"M,W16.15-17.30",TBSL 104,Aug 22--Dec 09,R Swannack
 E_E,464,Digital Signal Processing I,01,09729,3,"TU,TH14.55-16.10",TFLO 133,Aug 22--Dec 09,S Hudson
 E_E,489,Introduction to Control Systems,01,08959,3,"TU,TH13.30-14.45",TFLO 131,Aug 22--Dec 09,S Kundu
-E_E,491,Performance of Power Systems,01,09112,3,"TU,TH12.05-13.20",TFLO 131,Aug 22--Dec 09,M Osman
+E_E,491,Performance of Power Systems,01,09112,3,"TU,TH12.05-13.20",TFLO 239,Aug 22--Dec 09,M Osman
 E_E,495,Internship in Electrical Industry,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 E_E,496,Semiconductor Devices,01,08961,3,"M,W,F11.10-12",TFLO 224,Aug 22--Dec 09,M Osman
 E_E,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
@@ -252,7 +252,7 @@ FINE_ART,201,[ARTS] World Art History I,01,09197,3,"M,W,F13.10-14",TCOL 126,Aug 
 FINE_ART,331,"Art, Science, and Technology",01,09080,3,"TU,TH13.30-14.45",TFLO 138,Aug 22--Dec 09,P Christenson
 FINE_ART,332,Introduction to Digital Art and Design - Print and Screen,01,09743,3,"TU,TH14.55-17.25",TFLO 138,Aug 22--Dec 09,P Christenson
 FINE_ART,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,P Christenson
-FOR_LANG,110,[DIVR] Introduction to Global Film,01,09591,3,"TU,TH12.05-13.20",TFLO 244,Aug 22--Dec 09,F Arellano Serratos
+FOR_LANG,110,[DIVR] Introduction to Global Film,01,09591,3,"TU,TH12.05-13.20",TFLO 260,Aug 22--Dec 09,F Arellano Serratos
 FS,201,[BSCI] Science on Your Plate,01,16592,3,"M,W,F13.10-14",TWSC 201,Aug 22--Dec 09,M Michael
 FS,401,Topics in Food Science,01,"",1,W13.10-14,TWSC 202,Aug 22--Dec 09,T Henick-Kling
 FS,465,Wine Microbiology and Processing,01,08861,3,"M,W,F12.10-13",TWSC 202,Aug 22--Dec 09,C Edwards
@@ -425,6 +425,10 @@ MED_CLIN,570,Away Rotation - North America,06,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,
 MED_CLIN,570,Away Rotation - North America,07,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
 MED_CLIN,570,Away Rotation - North America,08,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
 MED_CLIN,570,Away Rotation - North America,09,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,10,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,11,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,12,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
+MED_CLIN,570,Away Rotation - North America,13,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
 MED_CLIN,571,Away Rotation - International,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,D Dewitt
 MED_CLIN,572,Clinical Rotation - Addiction Medicine,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,M Chavez
 MED_CLIN,573,Clinical Rotation - Anesthesiology,01,"",V,ARRGT,ARR ARR,Aug 22--Nov 23,S Siddiqui
@@ -572,7 +576,7 @@ NURS,426,[M] Community Health Nursing Theory,"","","",TH9.10-10,TNRS 1212,"",""
 NURS,427,Community Health Nursing Practice,01,08784,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Sarkinen
 NURS,427,Community Health Nursing Practice,02,08809,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Larson
 NURS,427,Community Health Nursing Practice,03,09883,3,ARRGT,ARR ARR,Aug 22--Dec 09,J Larson
-NURS,430,[CAPS] Senior Practicum,01,08764,3,ARRGT,ARR ARR,Aug 22--Dec 09,L Punch
+NURS,430,[CAPS] Senior Practicum,01,08764,3,ARRGT,ARR ARR,Aug 22--Dec 09,""
 NURS,463,Coordination of Care Across Complex Populations,01,16114,3,ARRGT,ARR ARR,Aug 22--Oct 14,S Girard
 NURS,465,Application of Population Health Principles,01,08793,3,ARRGT,ARR ARR,Aug 22--Nov 11,K West
 NURS,471,Foundations of Occupational and Environmental Health Practice,01,08838,3,ARRGT,ARR ARR,Oct 17--Dec 16,D Smart
@@ -694,7 +698,7 @@ PHYSICS,111,[PSCI] General Physics Lab,02,10126,1,TU9.10-12,TCOL 108,Aug 22--Dec
 PHYSICS,201,[PSCI] Physics for Scientists and Engineers I,01,08991,3,"M,W,F11.10-12",TCOL 202,Aug 22--Dec 09,K Fiedler
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,01,10125,1,TH13.30-16.20,TCOL 108,Aug 22--Dec 09,J Griffin
 PHYSICS,211,[PSCI] Physics Lab for Scientists and Engineers,02,10128,1,TH8.10-11,TCOL 108,Aug 22--Dec 09,M Melesse
-PL_P,300,Diseases of Fruit Crops,01,09604,2,"TU,TH9.10-10",TWSC 202,Aug 22--Dec 09,N Rayapati
+PL_P,300,Diseases of Fruit Crops,01,09604,2,"TU,TH9.10-10",TWSC 202,Aug 22--Dec 09,""
 POL_S,101,[SSCI] American National Government,01,09042,3,"M,W,F10.10-11",TCIC 216,Aug 22--Dec 09,R Swenson
 POL_S,101,[SSCI] American National Government,03,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,J Huseby
 POL_S,476,"[M] Revolutionary China, 1800 to Present",01,16723,3,"TU,TH13.30-14.45",TFLO 247,Aug 22--Dec 09,X Wang
@@ -774,8 +778,8 @@ STAT,212,[QUAN] Introduction to Statistical Methods,02 Lab,09145,0,W15.10-17,TCI
 STAT,360,Probability and Statistics,01,"",3,ARRGT,ARR ARR,Aug 22--Dec 09,T Trbojevic
 STAT,370,Introductory Statistics for Engineers,01,08997,3,"TU,TH16.20-17.35",TCOL 202,Aug 22--Dec 09,R Learn
 STAT,412,Statistical Methods in Research I,01,09009,3,"TU,TH13.30-14.45",TCOL 102,Aug 22--Dec 09,R Learn
-STAT,511,Statistical Methods for Graduate Researchers,01,09287,4,"TU,TH12.05-13.20",TFLO 260,Aug 22--Dec 09,T Northfield
-STAT,511,Statistical Methods for Graduate Researchers,01 Lab,09288,0,W8.10-10,TFLO 260,Aug 22--Dec 09,T Northfield
+STAT,511,Statistical Methods for Graduate Researchers,01,09287,4,"TU,TH12.05-13.20",TFLO 210,Aug 22--Dec 09,T Northfield
+STAT,511,Statistical Methods for Graduate Researchers,01 Lab,09288,0,W8.10-10,TFLO 210,Aug 22--Dec 09,T Northfield
 STAT,512,Analysis of Variance of Designed Experiments,01,"",3,"M,W13.10-14",TFLO 210,Aug 22--Dec 09,H Johnson
 STAT,512,Analysis of Variance of Designed Experiments,01 Lab,10284,0,F13.10-15,TFLO 210,Aug 22--Dec 09,H Johnson
 TCH_LRN,301,Learning and Development,01,08893,3,W13.10-15.55,TCIC 214,Aug 22--Dec 09,Y Cooper
