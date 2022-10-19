@@ -190,6 +190,7 @@ AMDT,702,"Master's Special Problems, Directed Study and/or Examination",04,05013
 AMDT,702,"Master's Special Problems, Directed Study and/or Examination",05,05014,V,ARRGT,ARR ARR,Aug 22--Dec 09,""
 AMDT,702,"Master's Special Problems, Directed Study and/or Examination",06,06000,V,ARRGT,ARR ARR,Aug 22--Dec 09,X Lou
 AMER_ST,505,Pro Seminar in American Cultural Studies,01,07837,3,W14.10-17,THOM 109,Aug 22--Dec 09,R Williams
+AMER_ST,506,Frameworks in American Cultural Studies,01,07307,3,TH14.10-17,THOM 109,Aug 22--Dec 09,M Bloodsworth-Lugo
 AMER_ST,529,Cultural Politics of the Body,01,13147,3,TH14.10-17,THOM 109,Aug 22--Dec 09,M Bloodsworth-Lugo
 AMER_ST,590,Seminar in American Studies,01,03867,3,TU14.10-17,THOM 109,Aug 22--Dec 09,C Lugo-Lugo
 AMER_ST,800,"Doctoral Research, Dissertation, and/or Examination",01,03870,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
@@ -233,7 +234,7 @@ ANIM_SCI,464,[CAPS] [M] Companion Animal Management,01,05045,3,"TU,TH13.30-14.20
 ANIM_SCI,464,[CAPS] [M] Companion Animal Management,01 Lab,05046,0,TU14.55-17.45,FSHN T0101,Aug 22--Dec 09,N Irlbeck
 ANIM_SCI,472,[CAPS] [M] Dairy Cattle Management,01,05047,3,"M,W,F9.10-10",CLAR 149,Aug 22--Dec 09,M Marcondes
 ANIM_SCI,488,[M] Perspectives in Biotechnology,01,05049,3,"TU,TH12.05-13.20",JSNH C0105,Aug 22--Dec 09,Z Jiang
-ANIM_SCI,499,Special Problems,01,"",V,"M,F14.10-15",CLAR 147,Aug 22--Dec 09,(multiple)
+ANIM_SCI,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 ANIM_SCI,500,Seminar in Animal Sciences,01,05053,1,M12.10-13,TODD 226,Aug 22--Dec 09,M Phelps
 ANIM_SCI,558,Molecular and Cellular Reproduction,01,13175,3,"TU,TH9.10-10.25",ARR ARR,Aug 22--Dec 09,J Maclean
 ANIM_SCI,558,Molecular and Cellular Reproduction,01 Lab,16668,0,ARRGT,ARR ARR,Aug 22--Dec 09,J Mcclean
@@ -1068,8 +1069,8 @@ COM,210,[COMM] Multimedia Content Creation,14,08141,3,F13.10-14,JKSN 53,Aug 22--
 COM,225,Sports and the Media,01,13151,3,"M,W,F14.10-15",MURR 307,Aug 22--Dec 09,B Shors
 COM,225,Sports and the Media,02,08155,3,ARRGT,ARR ARR,Aug 22--Dec 09,B Shors
 COM,275,Communication Seminar,01,16281,V,ARRGT,ARR ARR,Aug 22--Oct 02,I Haider
-COM,275,Communication Seminar,02,"",V,ARRGT,ARR ARR,Oct 31--Dec 09,I Haider
-COM,275,Communication Seminar,03,"",V,ARRGT,ARR ARR,Oct 31--Dec 09,I Haider
+COM,275,Communication Seminar,02,"",V,ARRGT,ARR ARR,Oct 31--Dec 16,I Haider
+COM,275,Communication Seminar,03,"",V,ARRGT,ARR ARR,Oct 31--Dec 16,I Haider
 COM,300,[M] Writing in Communication,04,07084,3,"M,W11.10-13.50",MURR 243,Aug 22--Dec 09,T Simmons
 COM,300,[M] Writing in Communication,06,07086,3,"M,W14.10-16.50",MURR 243,Aug 22--Dec 09,T Simmons
 COM,300,[M] Writing in Communication,08,07087,3,"TU,TH10.35-13.15",JKSN 373,Aug 22--Dec 09,T Simmons
@@ -1487,7 +1488,7 @@ E_E,524,Advanced Computer Architecture,01,04040,3,"M,W,F16.10-17",EME 26,Aug 22-
 E_E,571,Advanced Wireless Integrated Circuits and Systems,01,06123,3,"TU,TH16.20-17.35",DAGG 226,Aug 22--Dec 09,D Heo
 E_E,576,Analog Integrated Circuits,01,05767,3,"TU,TH10.35-11.50",SLOA 161,Aug 22--Dec 09,A Abu Hajar
 E_E,587,System on Chip (SoC) Design and Test,01,07152,3,"TU,TH12.05-13.20",SLOA 167,Aug 22--Dec 09,P Pande
-E_E,595,Directed Study in Electrical Engineering,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,""
+E_E,595,Directed Study in Electrical Engineering,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,P Pande
 E_E,600,Special Projects or Independent Study,01,04043,V,ARRGT,ARR ARR,Aug 22--Dec 09,""
 E_E,700,"Master's Research, Thesis, and/or Examination",01,04044,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 E_E,702,"Master's Special Problems, Directed Study, and/or Examination",01,04045,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
@@ -2016,7 +2017,7 @@ FIN,427,[M] Investment Analysis,02,04313,3,"M,W,F13.10-14",TODD 404,Aug 22--Dec 
 FIN,437,[M] Cougar Investment Fund I,01,07298,3,"M,W,F10.10-11",TODD 411,Aug 22--Dec 09,M Reyes
 FIN,456,Risk Management,01,04314,3,"TU,TH9.10-10.25",TODD 303,Aug 22--Dec 09,M Mcnamara
 FIN,481,[M] International Finance,01,04315,3,"M,W,F12.10-13",TODD 434,Aug 22--Dec 09,S Liu
-FIN,496,Special Topics,01,"",3,"M,W,F14.10-15","",Aug 22--Dec 09,C Williamson
+FIN,496,Special Topics,01,"",3,"M,W,F14.10-15",TODD 320,Aug 22--Dec 09,C Williamson
 FIN,500,Macroeconomic Theory I,01,03460,3,"M,W10.45-12",HULB 27,Aug 22--Dec 09,J Bai
 FIN,501,Microeconomic Theory I,01,03462,3,"M,W9.10-10.25",HULB 27,Aug 22--Dec 09,F Munoz-Garcia
 FIN,510,Statistics for Economists,01,03465,3,"TU,TH9.10-10.25",HULB 27,Aug 22--Dec 09,R Mittelhammer
@@ -2564,7 +2565,7 @@ KIN_ACTV,112,Beginning Weight Training,08,05413,1,"TU,TH10.10-11",PEB 30,Aug 22-
 KIN_ACTV,112,Beginning Weight Training,10,05415,1,"TU,TH12.10-13",PEB 30,Aug 22--Dec 09,E Washburn
 KIN_ACTV,112,Beginning Weight Training,15,05407,1,ARRGT,ARR ARR,Aug 22--Dec 09,T Barbour
 KIN_ACTV,112,Beginning Weight Training,16,16902,1,ARRGT,ARR ARR,Oct 17--Dec 09,T Barbour
-KIN_ACTV,112,Beginning Weight Training,17,16903,1,"M,TU,W,TH8.10-9",PEB 30,Oct 17--Dec 11,""
+KIN_ACTV,112,Beginning Weight Training,17,16903,1,"M,TU,W,TH8.10-9",PEB 30,Oct 17--Dec 11,B Ramirez
 KIN_ACTV,113,Intermediate Weight Training,01,06505,1,"TU,TH9.10-10",PEB 30,Aug 22--Dec 09,E Washburn
 KIN_ACTV,114,Beginning Tumbling,01,05416,1,"TU,TH9.10-10",PEB 144,Aug 22--Dec 09,F Molina
 KIN_ACTV,115,Couch to 5K,01,06504,1,"M,W14.10-15",SGYM 117,Aug 22--Dec 09,P Richards
@@ -2574,7 +2575,7 @@ KIN_ACTV,118,Yoga,03,06503,1,"TU,TH10.30-11.40",SGYM 115,Aug 22--Dec 09,R Arnold
 KIN_ACTV,118,Yoga,04,06611,1,"M,W14.10-15.20",SGYM 115,Aug 22--Dec 09,L Brown
 KIN_ACTV,118,Yoga,05,06612,1,"M,W15.30-16.40",SGYM 115,Aug 22--Dec 09,R Arnold
 KIN_ACTV,118,Yoga,06,08736,1,"M,W7.50-9",SGYM 115,Aug 22--Dec 09,L Brown
-KIN_ACTV,118,Yoga,07,16904,1,"M,W7.50-9.30",PEB 145,Oct 17--Dec 11,""
+KIN_ACTV,118,Yoga,07,16904,1,"M,W7.50-9.30",PEB 145,Oct 17--Dec 11,E Greenwell
 KIN_ACTV,119,Cardio Dance,01,05417,1,"TU,TH12.10-13",SGYM 115,Aug 22--Dec 09,K Thomas
 KIN_ACTV,121,Intermediate Ballet,01,08108,1,"M,W11.10-12",SGYM 115,Aug 22--Dec 09,A Maschmann
 KIN_ACTV,124,Beginning Tennis,01,05424,1,"M,W10.10-11",TNCT CTS,Aug 22--Dec 09,J Garcia
@@ -2667,10 +2668,10 @@ KINES,490,Instructional Practicum,07,05291,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Pras
 KINES,490,Instructional Practicum,08,05292,V,ARRGT,ARR ARR,Aug 22--Dec 09,A Mcmahon
 KINES,490,Instructional Practicum,13,05297,V,ARRGT,ARR ARR,Aug 22--Dec 09,C Connolly
 KINES,496,Special Topics,01,05770,V,M12.10-13,BOAD 184,Aug 22--Dec 09,N Garner
-KINES,496,Special Topics,02,05771,V,M13.10-14,BOAD 184,Aug 22--Dec 09,R Nguyen
+KINES,496,Special Topics,02,05771,V,M13.10-14,BOAD 184,Aug 22--Dec 09,N Garner
 KINES,496,Special Topics,03,05772,V,TU8.10-9,BOAD 184,Aug 22--Dec 09,N Garner
 KINES,496,Special Topics,04,05773,V,TH9.10-10,BOAD 184,Aug 22--Dec 09,G Charles
-KINES,496,Special Topics,05,08013,V,W14.10-15,BOAD 184,Aug 22--Dec 09,R Nguyen
+KINES,496,Special Topics,05,08013,V,W14.10-15,BOAD 184,Aug 22--Dec 09,A Cratsenberg
 KINES,496,Special Topics,06,16372,3,"TU,TH13.30-14.45",SGYM 111,Aug 22--Dec 09,K Holmstrom
 KINES,499,Special Problems,02,05300,V,ARRGT,ARR ARR,Aug 22--Dec 09,P Morgan
 KINES,499,Special Problems,03,05301,V,ARRGT,ARR ARR,Aug 22--Dec 09,A Cox
@@ -3091,7 +3092,7 @@ MGTOP,215,Business Statistics,08 Lab,03985,0,W17.10-19,TODD 330,Aug 22--Dec 09,"
 MGTOP,215,Business Statistics,09 Lab,03986,0,TH19-20.50,TODD 330,Aug 22--Dec 09,""
 MGTOP,340,Operations Management,01,03987,3,"TU,TH10.35-11.50",TODD 420,Aug 22--Dec 09,Y Xiao
 MGTOP,340,Operations Management,02,03988,3,"TU,TH14.55-16.10",TODD 420,Aug 22--Dec 09,X Wang
-MGTOP,340,Operations Management,03,03989,3,"TU,TH12.05-13.20",TODD 420,Aug 22--Dec 09,""
+MGTOP,340,Operations Management,03,03989,3,"TU,TH12.05-13.20",TODD 420,Aug 22--Dec 09,Y Xiao
 MGTOP,340,Operations Management,04,03990,3,"M,W,F11.10-12",TODD 420,Aug 22--Dec 09,K Mayo
 MGTOP,340,Operations Management,06,06714,3,"M,W,F13.10-14",TODD 420,Aug 22--Dec 09,K Mayo
 MGTOP,470,Business Modeling with Spreadsheets,01,03991,3,"TU,TH9.10-10.25",TODD 203,Aug 22--Dec 09,C Munson
@@ -3164,6 +3165,7 @@ MKTG,479,Advanced Professional Sales,01,08425,3,"TU,TH13.30-14.45",TODD 220,Aug 
 MKTG,480,Business to Business Marketing,01,04691,3,"TU,TH14.55-16.10",TODD 303,Aug 22--Dec 09,A Pappas
 MKTG,495,[M] Marketing Management,01,04692,3,"TU,TH12.05-13.20",SPRK 339,Aug 22--Dec 09,A Perkins
 MKTG,495,[M] Marketing Management,02,07782,3,"TU,TH13.30-14.45",SPRK 323,Aug 22--Dec 09,A Perkins
+MKTG,496,Special Topics,01,"",V,ARRGT,ARR ARR,Oct 03--Dec 16,U Umesh
 MKTG,498,Marketing Internship,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,J Joireman
 MKTG,499,Special Problems,01,"",V,ARRGT,ARR ARR,Aug 22--Dec 09,J Joireman
 MKTG,565,Seminar in Marketing,01,12473,3,TH13.30-16.20,DAGG 232,Aug 22--Dec 09,J Joireman
@@ -3174,7 +3176,7 @@ MKTG,800,"Doctoral Research, Dissertation, and/or Examination",01,04699,V,ARRGT,
 MPS,515,Seminar in Molecular Plant Sciences,01,03273,1,W12.10-14,CUE 202,Aug 22--Dec 09,A Smertenko
 MPS,570,Advanced Topics in Molecular Plant Sciences,01,03606,1,TH16.20-17.10,TODD 211,Aug 22--Dec 09,""
 MPS,574,Protein Biotechnology,01,08450,3,"TU,TH14.55-16.10",COLL 125,Aug 22--Dec 09,""
-MPS,700,"Master's Research, Dissertation and/or Examination",01,16576,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Ficklin
+MPS,700,"Master's Research, Thesis, and/or Examination",01,16576,V,ARRGT,ARR ARR,Aug 22--Dec 09,S Ficklin
 MPS,800,"Doctoral Research, Dissertation and/or Examination",01,03607,V,ARRGT,ARR ARR,Aug 22--Dec 09,(multiple)
 MSE,201,Materials Engineering Fundamentals,01,06485,3,"M,W,F11.10-12",CARP 102,Aug 22--Dec 09,W Zhong
 MSE,241,Engineering Computations,02,08479,3,"M,W,F13.10-14",TODD 125,Aug 22--Dec 09,N Boddeti
@@ -3712,10 +3714,11 @@ PSYCH,498,Research Participation,06,02027,V,ARRGT,ARR ARR,Aug 22--Dec 09,P Whitn
 PSYCH,498,Research Participation,07,02028,V,ARRGT,ARR ARR,Aug 22--Dec 09,M Gartstein
 PSYCH,498,Research Participation,08,02029,V,ARRGT,ARR ARR,Aug 22--Dec 09,W Scott
 PSYCH,498,Research Participation,09,02030,V,ARRGT,ARR ARR,Aug 22--Dec 09,E Canning
+PSYCH,498,Research Participation,10,02031,V,ARRGT,ARR ARR,Aug 22--Dec 09,C Cuttler
 PSYCH,499,Special Problems,01,02043,V,ARRGT,ARR ARR,Aug 22--Dec 09,B Duell
 PSYCH,499,Special Problems,02,02044,V,ARRGT,ARR ARR,Aug 22--Dec 09,J Hinson
 PSYCH,499,Special Problems,03,02045,V,ARRGT,ARR ARR,Aug 22--Dec 09,H Liao
-PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,02196,3,"TU,TH14.55-16.10",ARR ARR,Aug 22--Dec 09,M Morgan
+PSYCH,504,History of Psychology: Theoretical and Scientific Foundations,01,02196,3,"TU,TH14.55-16.10",VC ARR,Aug 22--Dec 09,M Morgan
 PSYCH,505,Teaching Introductory Psychology,01,02063,V,W8.10-9,JSNT 235C,Aug 22--Dec 09,S Swindell
 PSYCH,506,Current Research in Psychology,01,02203,1,W16.10-17,TERR 106,Aug 22--Dec 09,R Magnan
 PSYCH,508,Special Topics in Psychology,01,02204,V,TU10.35-11.35,MURR 229,Aug 22--Dec 09,M Schmitter-Edgecombe
@@ -3787,7 +3790,7 @@ SDC,300,Fabrication Lab Practice,05,08206,1,TU14.55-16.45,DAGG 253,Oct 25--Nov 1
 SDC,300,Fabrication Lab Practice,06,08202,1,TH14.55-16.45,DAGG 253,Oct 27--Nov 17,D Drake
 SDC,300,Fabrication Lab Practice,07,06222,1,ARRGT,ARR ARR,Aug 22--Dec 09,D Drake
 SDC,300,Fabrication Lab Practice,08,06241,1,ARRGT,ARR ARR,Aug 22--Dec 09,D Drake
-SDC,444,Integrated Study Tour,01,"",1,TU17.45-19,CARP 101,Aug 30--Aug 30,""
+SDC,444,Integrated Study Tour,01,"",1,TU17.45-19,CARP 101,Aug 30--Aug 30,J Rice
 SDC,444,Integrated Study Tour,"","","",TU17.45-19,CARP 101,"",""
 SDC,444,Integrated Study Tour,"","","",TU17.45-19,CARP 101,"",""
 SDC,444,Integrated Study Tour,"","","",TU17.45-19,CARP 101,"",""
@@ -4271,7 +4274,7 @@ UNIV,250,Success in College and Beyond,09,"",1,"TU,TH13.30-14.20",CUE 209,Aug 22
 UNIV,250,Success in College and Beyond,10,"",1,"TU,TH9.10-10",CUE 209,Aug 22--Oct 21,A Mitchell
 UNIV,250,Success in College and Beyond,11,"",1,"M,W10.10-11",CUE 407,Aug 22--Oct 21,M Jernigan
 UNIV,250,Success in College and Beyond,12,07712,1,"TU,TH15.20-16.10",CUE 219,Oct 17--Dec 11,W Yana
-UNIV,295,Introduction to Models of Leadership,01,06417,2,"TU,TH12.05-13.20",ARR ARR,Aug 22--Dec 09,R Nguyen
+UNIV,295,Introduction to Models of Leadership,01,06417,2,"TU,TH12.05-13.20",ARR ARR,Aug 22--Dec 09,N Garner
 UNIV,301,Career Exploration and Professional Development,01,04157,1,"M,W14.10-15",CUE 318,Aug 22--Oct 12,M Kiel
 UNIV,304,Transfer Student Seminar,02,07494,2,"M,W14.10-15",CUE 407,Aug 22--Dec 09,L Welch
 UNIV,304,Transfer Student Seminar,05,16004,2,"TU,TH14.55-16.10",SPRK 223,Aug 22--Dec 09,O Martinez
@@ -4306,7 +4309,7 @@ VET_CLIN,570,Special Topics,07,03777,1,ARRGT,ARR ARR,Aug 22--Dec 09,G Roberts
 VET_CLIN,570,Special Topics,08,03778,1,ARRGT,ARR ARR,Aug 22--Dec 09,A Chen-Allen
 VET_CLIN,570,Special Topics,09,03779,1,ARRGT,ARR ARR,Aug 22--Dec 09,A Tibary
 VET_CLIN,570,Special Topics,10,03780,1,ARRGT,ARR ARR,Aug 22--Dec 09,L Martin
-VET_CLIN,570,Special Topics,11,05801,1,ARRGT,ARR ARR,Aug 22--Dec 09,K Wardrop
+VET_CLIN,570,Special Topics,11,05801,1,ARRGT,ARR ARR,Aug 22--Dec 09,M Varvil
 VET_CLIN,570,Special Topics,12,05802,1,ARRGT,ARR ARR,Aug 22--Dec 09,L Malavasi
 VET_CLIN,570,Special Topics,13,06254,1,ARRGT,ARR ARR,Aug 22--Dec 09,L Martin
 VET_CLIN,570,Special Topics,18,06324,1,ARRGT,ARR ARR,Aug 22--Dec 09,E Lofgren
@@ -4395,7 +4398,7 @@ VET_MED,554,Small Animal Anesthesia and Surgery,01,03732,1,M10.10-12,WEGN G0050,
 VET_MED,558,Diseases and Management of Pet and Wild Birds,01,06260,2,TH11.10-12,BUST 145,Aug 22--Dec 09,N Finch
 VET_MED,558,Diseases and Management of Pet and Wild Birds,01 Lab,06318,0,ARRGT,ARR ARR,Aug 22--Dec 09,""
 VET_MED,559,Special Animal Medicine,01,06261,V,TH14.10-15,BUST 145,Aug 22--Dec 09,N Finch
-VET_MED,567,Applied Comparative Reproductive Physiology,01,03733,1,F14.10-16,BUST 145,Aug 22--Dec 09,A Tibary
+VET_MED,567,Applied Comparative Reproductive Physiology,01,03733,1,F14.10-16,BUST 145,Aug 22--Dec 09,M Ciccarelli
 VET_MED,568,Animal Handling and Orientation,01,03734,2,TU15.10-17,ADBF 1002,Aug 22--Dec 09,""
 VET_MED,568,Animal Handling and Orientation,"","","",M11.10-12,ADBF 1002,"",""
 VET_MED,568,Animal Handling and Orientation,02,05900,2,ARRGT,ARR ARR,Aug 22--Dec 09,R Stott

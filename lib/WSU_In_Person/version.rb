@@ -1,3 +1,0 @@
-module WSUInPerson
-  VERSION = "0.1.3"
-end

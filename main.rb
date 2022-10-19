@@ -1,8 +1,8 @@
-require './lib/wsu_in_person'
+require './lib/wsu_courses'
 
 
-in_person = WSUInPerson::WSUInPerson.new
-#campuses = in_person.get_campus
-in_person.get_campus
-#in_person.get_time
-in_person.scrape_subject_urls
+courses = WSUInPerson::WSUInPerson.new
+#campuses = courses.get_campus
+courses.get_campus
+#courses.get_time
+courses.scrape_subject_urls
