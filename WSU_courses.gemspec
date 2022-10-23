@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Find all the classes in the past at WSU"
   spec.description   = "Find all the classes in the past at WSU"
-  spec.homepage      = "https://github.com/shinyamagami/WSU_In_Person"
+  spec.homepage      = "https://github.com/shinyamagami/WSU_courses"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.6")
 

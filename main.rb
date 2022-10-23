@@ -1,7 +1,7 @@
 require './lib/wsu_courses'
 
 
-courses = WSUInPerson::WSUInPerson.new
+courses = WSUcourses::WSUcourses.new
 #campuses = courses.get_campus
 courses.get_campus
 #courses.get_time
